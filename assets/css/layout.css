@@ -122,6 +122,27 @@
   .brand__tagline { display: none; }
 }
 
+@media (max-width: 560px) {
+  .site-header__inner {
+    width: calc(100% - 1.5rem);
+    gap: var(--sp-2);
+    min-height: 3.75rem;
+  }
+  .brand { min-width: 0; }
+  .brand__name {
+    font-size: var(--fs-base);
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+  }
+  .brand__mark { width: 1.85rem; height: 1.85rem; }
+  .icon-btn { width: 2.25rem; height: 2.25rem; }
+  .site-nav { inset-block-start: 3.75rem; }
+  .hero { padding-block: var(--sp-7) var(--sp-6); }
+  .hero__stats { gap: var(--sp-5) var(--sp-6); }
+  .band { padding-block: var(--sp-7); }
+}
+
 /* ---------- Lesemodus: Kopf tritt zurück ---------- */
 :root[data-reading="on"] .site-nav,
 :root[data-reading="on"] .brand__tagline { display: none; }
