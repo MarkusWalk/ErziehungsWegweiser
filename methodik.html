@@ -1,0 +1,312 @@
+<!DOCTYPE html>
+<html lang="de" data-theme="auto">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>Methodik &amp; Evidenz · Erziehungswegweiser</title>
+<meta name="description" content="Woher die Inhalte stammen, wie Quellen ausgewählt werden und was die Evidenz-Ampel bedeutet.">
+<meta name="color-scheme" content="light dark">
+<meta property="og:type" content="website">
+<meta property="og:title" content="Methodik &amp; Evidenz">
+<meta property="og:description" content="Woher die Inhalte stammen, wie Quellen ausgewählt werden und was die Evidenz-Ampel bedeutet.">
+<meta property="og:site_name" content="Erziehungswegweiser">
+<link rel="canonical" href="">
+<link rel="icon" href="./assets/img/favicon.svg" type="image/svg+xml">
+<link rel="stylesheet" href="./assets/css/tokens.css">
+<link rel="stylesheet" href="./assets/css/base.css">
+<link rel="stylesheet" href="./assets/css/components.css">
+<link rel="stylesheet" href="./assets/css/layout.css">
+<script>
+  /* Theme, Lesemodus und Schriftgröße vor dem ersten Paint setzen,
+     damit kein Aufblitzen des falschen Modus entsteht. */
+  (function () {
+    try {
+      var s = JSON.parse(localStorage.getItem('ew:prefs') || '{}');
+      var r = document.documentElement;
+      var theme = s.theme || 'auto';
+      if (theme === 'auto') {
+        theme = matchMedia('(prefers-color-scheme: dark)').matches ? 'dark' : 'light';
+      }
+      r.setAttribute('data-theme', theme);
+      if (s.reading) r.setAttribute('data-reading', 'on');
+      if (s.textsize) r.setAttribute('data-textsize', s.textsize);
+    } catch (e) {}
+  })();
+</script>
+
+</head>
+<body class="page page--static" data-root="./">
+<a class="skip-link" href="#inhalt">Zum Inhalt springen</a>
+
+
+<header class="site-header" data-header>
+  <div class="site-header__inner">
+    <a class="brand" href="./index.html">
+      <span class="brand__mark" aria-hidden="true"></span>
+      <span class="brand__text">
+        <span class="brand__name">Erziehungswegweiser</span>
+        <span class="brand__tagline">Wissenschaftlich fundiert durch die ersten Jahre</span>
+      </span>
+    </a>
+
+    <nav class="site-nav" aria-label="Hauptnavigation">
+      <ul class="site-nav__list">
+        <li><a class="site-nav__link" href="./alter/">Nach Alter</a></li><li><a class="site-nav__link" href="./themen/">Nach Thema</a></li><li><a class="site-nav__link" href="./artikel/">Alle Artikel</a></li><li><a class="site-nav__link" href="./notfall.html">Notfall</a></li><li><a class="site-nav__link" href="./ueber.html">Über</a></li>
+      </ul>
+    </nav>
+
+    <div class="site-header__actions">
+      <button class="icon-btn" type="button" data-open-search aria-label="Suche öffnen" title="Suchen (S)">
+        <svg class="icon " viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><circle cx="11" cy="11" r="7"/><path d="m20 20-3.5-3.5"/></svg>
+      </button>
+      <button class="icon-btn" type="button" data-open-settings aria-label="Darstellung und Einstellungen" title="Darstellung">
+        <svg class="icon " viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M4 8h10M18 8h2M4 16h4M12 16h8"/><circle cx="16" cy="8" r="2"/><circle cx="10" cy="16" r="2"/></svg>
+      </button>
+      <button class="icon-btn icon-btn--menu" type="button" data-open-menu aria-label="Menü öffnen" aria-expanded="false">
+        <svg class="icon " viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M4 7h16M4 12h16M4 17h16"/></svg>
+      </button>
+    </div>
+  </div>
+  <div class="site-progress" data-progress aria-hidden="true"><span></span></div>
+</header>
+
+<main id="inhalt" class="main">
+
+
+<header class="pagehead">
+  <div class="wrap">
+    <nav class="breadcrumb" aria-label="Pfad">
+      <a href="index.html">Start</a>
+      <span aria-hidden="true">/</span><span>Methodik &amp; Evidenz</span>
+    </nav>
+    
+    <h1 class="pagehead__title">Methodik &amp; Evidenz</h1>
+    <p class="pagehead__sub">Woher die Inhalte stammen, wie Quellen ausgewählt werden und was die Evidenz-Ampel bedeutet.</p>
+  </div>
+</header>
+<section class="band">
+  <div class="wrap wrap--narrow">
+    <div class="article__body">
+      
+<section class="c-section" id="die-evidenz-ampel">
+  <h2 class="c-section__title">
+    <a class="c-section__anchor" href="#die-evidenz-ampel" aria-label="Direktlink zu diesem Abschnitt">#</a>
+    Die Evidenz-Ampel
+  </h2>
+  <p class="c-p">Nicht jede Aussage über Kinder ist gleich gut belegt. „Rückenlage senkt das Risiko für plötzlichen Kindstod“ steht auf einem anderen Fundament als „Kinder brauchen feste Essenszeiten“. Damit dieser Unterschied sichtbar bleibt, bekommt jede zentrale Aussage eine Kennzeichnung.</p>
+
+<div class="c-evidence c-evidence--stark">
+  <p class="c-evidence__badge">
+    <span class="c-evidence__dot" aria-hidden="true"></span>
+    <span class="c-evidence__label">Gut belegt</span>
+  </p>
+  <p class="c-evidence__claim">Gut belegt: Die Aussage wird von medizinischen Leitlinien, systematischen Übersichtsarbeiten oder mehreren unabhängigen Studien mit übereinstimmendem Ergebnis getragen.</p>
+  <p class="c-evidence__note">Beispiel: Rückenlage zum Schlafen im ersten Lebensjahr.</p>
+  
+</div>
+
+<div class="c-evidence c-evidence--moderat">
+  <p class="c-evidence__badge">
+    <span class="c-evidence__dot" aria-hidden="true"></span>
+    <span class="c-evidence__label">Hinweise vorhanden</span>
+  </p>
+  <p class="c-evidence__claim">Hinweise vorhanden: Es gibt Studien oder breiten Fachkonsens, aber die Datenlage ist begrenzt – kleine Stichproben, Beobachtungsstudien oder Ergebnisse, die noch nicht repliziert wurden.</p>
+  <p class="c-evidence__note">Beispiel: Wirkung von Vorlesen auf den späteren Wortschatz.</p>
+  
+</div>
+
+<div class="c-evidence c-evidence--umstritten">
+  <p class="c-evidence__badge">
+    <span class="c-evidence__dot" aria-hidden="true"></span>
+    <span class="c-evidence__label">Umstritten</span>
+  </p>
+  <p class="c-evidence__claim">Umstritten: Fachwelt und Studienlage kommen zu unterschiedlichen Ergebnissen, oder die Frage ist kulturell und weltanschaulich stark aufgeladen.</p>
+  <p class="c-evidence__note">Beispiel: Auswirkungen von Schlaflernprogrammen auf die Bindungssicherheit.</p>
+  
+</div>
+</section>
+
+<section class="c-section" id="welche-quellen-wir-bevorzugen">
+  <h2 class="c-section__title">
+    <a class="c-section__anchor" href="#welche-quellen-wir-bevorzugen" aria-label="Direktlink zu diesem Abschnitt">#</a>
+    Welche Quellen wir bevorzugen
+  </h2>
+  <ol class="c-list c-list--ordered"><li><strong>Leitlinien</strong> medizinischer Fachgesellschaften (AWMF, DGKJ, WHO, NICE, AAP) – sie fassen die Studienlage bereits bewertet zusammen.</li><li><strong>Systematische Übersichtsarbeiten und Metaanalysen</strong>, insbesondere Cochrane Reviews.</li><li><strong>Positionspapiere und Empfehlungen</strong> öffentlicher Institutionen (BZgA, RKI, STIKO, Netzwerk Gesunde Kinder, Nationales Zentrum Frühe Hilfen).</li><li><strong>Einzelstudien</strong> nur, wenn sie methodisch stark sind oder eine Lücke schließen – und dann als solche gekennzeichnet.</li><li><strong>Fachbücher und etablierte Theorien</strong> (z. B. Bindungsforschung) für Einordnung und Begriffe, nicht als Beleg für Wirksamkeit.</li></ol>
+
+<aside class="c-callout c-callout--info" role="note">
+  <p class="c-callout__title">Warum kaum Elternratgeber zitiert werden</p>
+  <div class="c-callout__body"><p>Ratgeberliteratur ist oft klug, aber selten belegt. Wo eine Idee aus einem Ratgeber stammt und keine Studienlage dahintersteht, kennzeichnen wir das als Erfahrungswissen – nicht als Evidenz.</p></div>
+</aside>
+</section>
+
+<section class="c-section" id="grenzen-dieser-aufbereitung">
+  <h2 class="c-section__title">
+    <a class="c-section__anchor" href="#grenzen-dieser-aufbereitung" aria-label="Direktlink zu diesem Abschnitt">#</a>
+    Grenzen dieser Aufbereitung
+  </h2>
+  <ul class="c-list c-list--bullet"><li><strong>Forschung altert.</strong> Jeder Artikel trägt ein Standdatum. Empfehlungen ändern sich, teils deutlich.</li><li><strong>Studien beschreiben Gruppen, nicht dein Kind.</strong> Ein Durchschnittswert sagt wenig über das einzelne Kind vor dir.</li><li><strong>Kultur steckt in den Daten.</strong> Ein Großteil der Entwicklungsforschung stammt aus westlichen Industrieländern. Was dort „normal“ heißt, ist nicht universell.</li><li><strong>Korrelation ist keine Ursache.</strong> Viele Befunde zeigen Zusammenhänge, keine Wirkrichtung – wir versuchen, das offen zu benennen.</li></ul>
+</section>
+
+<section class="c-section" id="wie-die-artikel-entstehen">
+  <h2 class="c-section__title">
+    <a class="c-section__anchor" href="#wie-die-artikel-entstehen" aria-label="Direktlink zu diesem Abschnitt">#</a>
+    Wie die Artikel entstehen
+  </h2>
+  
+<div class="c-steps">
+  
+  <ol class="c-steps__list">
+      <li class="c-steps__item">
+        <span class="c-steps__num" aria-hidden="true">1</span>
+        <div class="c-steps__body">
+          <h4 class="c-steps__title">Themenlandkarte</h4>
+          <p>Themen werden entlang von Altersphasen und Themenfeldern strukturiert erfasst, damit keine großen Lücken bleiben.</p>
+        </div>
+      </li>
+      <li class="c-steps__item">
+        <span class="c-steps__num" aria-hidden="true">2</span>
+        <div class="c-steps__body">
+          <h4 class="c-steps__title">Recherche</h4>
+          <p>Zu jedem Thema werden Leitlinien, Übersichtsarbeiten und Empfehlungen öffentlicher Stellen zusammengetragen.</p>
+        </div>
+      </li>
+      <li class="c-steps__item">
+        <span class="c-steps__num" aria-hidden="true">3</span>
+        <div class="c-steps__body">
+          <h4 class="c-steps__title">Aufbereitung</h4>
+          <p>Der Inhalt wird in ein festes Blockformat gebracht – Zusammenfassung, Abschnitte, Evidenz-Einordnungen, Visualisierungen, Quellen.</p>
+        </div>
+      </li>
+      <li class="c-steps__item">
+        <span class="c-steps__num" aria-hidden="true">4</span>
+        <div class="c-steps__body">
+          <h4 class="c-steps__title">Prüfung</h4>
+          <p>Jeder Artikel wird gegen das Schema geprüft: Sind Quellen vorhanden? Sind Aussagen eingeordnet? Fehlen Sicherheitshinweise?</p>
+        </div>
+      </li></ol>
+</div>
+
+<aside class="c-callout c-callout--warn" role="note">
+  <p class="c-callout__title">Transparenz</p>
+  <div class="c-callout__body"><p>Die Inhalte dieses Kompendiums werden KI-gestützt recherchiert und aufbereitet. Das beschleunigt die Arbeit, ersetzt aber keine fachärztliche Prüfung. Belege sind deshalb bei jedem Artikel angegeben – prüf im Zweifel die Originalquelle, und triff medizinische Entscheidungen mit deiner Kinderarztpraxis.</p></div>
+</aside>
+</section>
+    </div>
+  </div>
+</section>
+</main>
+
+
+<footer class="site-footer">
+  <div class="site-footer__inner">
+    <div class="site-footer__brand">
+      <p class="site-footer__name">Erziehungswegweiser</p>
+      <p class="site-footer__claim">Ein Kompendium zu Schwangerschaft, Neugeborenen, Babys, Kleinkindern und Erziehung – aufbereitet für Eltern, gestützt auf Leitlinien und Forschung.</p>
+    </div>
+
+    <nav class="site-footer__nav" aria-label="Fußzeile">
+      <div>
+        <p class="site-footer__head">Einstieg</p>
+        <ul>
+          <li><a href="./alter/">Nach Alter</a></li>
+          <li><a href="./themen/">Nach Thema</a></li>
+          <li><a href="./artikel/">Alle Artikel</a></li>
+        </ul>
+      </div>
+      <div>
+        <p class="site-footer__head">Hintergrund</p>
+        <ul>
+          <li><a href="./ueber.html">Über das Projekt</a></li>
+          <li><a href="./methodik.html">Methodik &amp; Evidenz</a></li>
+          <li><a href="./quellen.html">Quellenverzeichnis</a></li>
+        </ul>
+      </div>
+      <div>
+        <p class="site-footer__head">Hilfe</p>
+        <ul>
+          <li><a href="./notfall.html">Notfall &amp; Hotlines</a></li>
+          <li><a href="./glossar.html">Glossar</a></li>
+        </ul>
+      </div>
+    </nav>
+  </div>
+
+  <div class="site-footer__legal">
+    <p class="disclaimer">
+      <strong>Wichtig:</strong> Dieses Kompendium ersetzt keine ärztliche, therapeutische
+      oder psychologische Beratung. Bei Sorgen um die Gesundheit oder Entwicklung
+      eines Kindes wende dich an die Kinderarztpraxis. In akuten Notfällen gilt der
+      Notruf <strong>112</strong>.
+    </p>
+  </div>
+</footer>
+
+
+<div class="overlay" data-search-overlay hidden>
+  <div class="overlay__backdrop" data-close-search></div>
+  <div class="overlay__panel search" role="dialog" aria-modal="true" aria-label="Suche">
+    <div class="search__field">
+      <svg class="icon " viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><circle cx="11" cy="11" r="7"/><path d="m20 20-3.5-3.5"/></svg>
+      <input type="search" class="search__input" data-search-input placeholder="Wonach suchst du? z. B. Schlaf, Trotzphase, Beikost" autocomplete="off" spellcheck="false">
+      <button class="icon-btn" type="button" data-close-search aria-label="Suche schließen"><svg class="icon " viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M6 6l12 12M18 6L6 18"/></svg></button>
+    </div>
+    <div class="search__filters" data-search-filters></div>
+    <div class="search__results" data-search-results>
+      <p class="search__hint">Tippe los – die Suche läuft vollständig in deinem Browser.</p>
+    </div>
+  </div>
+</div>
+
+<div class="overlay" data-settings-overlay hidden>
+  <div class="overlay__backdrop" data-close-settings></div>
+  <div class="overlay__panel settings" role="dialog" aria-modal="true" aria-label="Darstellung">
+    <div class="settings__head">
+      <h2>Darstellung</h2>
+      <button class="icon-btn" type="button" data-close-settings aria-label="Schließen"><svg class="icon " viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M6 6l12 12M18 6L6 18"/></svg></button>
+    </div>
+
+    <fieldset class="settings__group">
+      <legend>Farbmodus</legend>
+      <div class="segmented" data-pref="theme">
+        <button type="button" data-value="light">Hell</button>
+        <button type="button" data-value="auto">Automatisch</button>
+        <button type="button" data-value="dark">Dunkel</button>
+      </div>
+    </fieldset>
+
+    <fieldset class="settings__group">
+      <legend>Schriftgröße</legend>
+      <div class="segmented" data-pref="textsize">
+        <button type="button" data-value="m">Normal</button>
+        <button type="button" data-value="l">Groß</button>
+        <button type="button" data-value="xl">Sehr groß</button>
+      </div>
+    </fieldset>
+
+    <fieldset class="settings__group">
+      <legend>Lesemodus</legend>
+      <label class="switch">
+        <input type="checkbox" data-pref-toggle="reading">
+        <span class="switch__track" aria-hidden="true"></span>
+        <span class="switch__label">Immersiv lesen – Navigation und Beiwerk treten zurück</span>
+      </label>
+    </fieldset>
+
+    <fieldset class="settings__group">
+      <legend>Alter meines Kindes</legend>
+      <p class="settings__hint">Damit hebt die Seite passende Inhalte hervor. Die Angabe bleibt in deinem Browser.</p>
+      <label class="field">
+        <span>Geburtsdatum</span>
+        <input type="date" data-pref-birthdate>
+      </label>
+      <p class="settings__age" data-age-readout aria-live="polite"></p>
+      <button type="button" class="btn btn--quiet" data-clear-birthdate>Angabe löschen</button>
+    </fieldset>
+  </div>
+</div>
+
+<script src="./assets/js/app.js" defer></script>
+<script src="./assets/js/search.js" defer></script>
+
+</body>
+</html>
