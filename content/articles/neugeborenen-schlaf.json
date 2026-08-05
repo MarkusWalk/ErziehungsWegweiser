@@ -1,0 +1,260 @@
+{
+  "slug": "neugeborenen-schlaf",
+  "title": "Schlaf in den ersten drei Monaten",
+  "subtitle": "Warum ein Neugeborenes noch keinen Tag-Nacht-Rhythmus hat, wie viel Schlaf normal ist – und was in diesem Alter sinnvoll ist und was schlicht noch nicht geht.",
+  "phases": ["neugeborenes"],
+  "topics": ["schlaf"],
+  "updated": "2026-08-05",
+  "summary": "Neugeborene schlafen viel, aber in kleinen Portionen und über 24 Stunden verteilt. Ein innerer Tag-Nacht-Rhythmus entsteht erst nach etwa zwei bis drei Monaten – vorher gibt es schlicht keine Biologie, an die sich ein Schlafplan anschließen könnte. Was du in dieser Zeit tun kannst, ist nicht Erziehung, sondern Rhythmusgebung: Tageslicht am Tag, Dunkelheit und Ruhe in der Nacht, verlässliche Abläufe. Und du kannst dafür sorgen, dass der Schlafplatz sicher ist.",
+  "keyFacts": [
+    "0–3 Monate: 14–17 Stunden Schlaf pro 24 Stunden, verteilt auf viele kurze Phasen.",
+    "Ein ausgeprägter Tag-Nacht-Rhythmus entwickelt sich in der Regel erst nach dem zweiten Lebensmonat.",
+    "Neugeborene haben kürzere Schlafzyklen als Erwachsene und einen hohen Anteil aktiven Schlafs – häufiges Aufwachen ist Bauart, nicht Störung.",
+    "Tageslicht am Tag und Dunkelheit in der Nacht sind das wirksamste Mittel zur Rhythmusbildung.",
+    "Schlaftraining ist in diesem Alter weder wirksam noch empfohlen. Rückenlage und eigener Schlafplatz im Elternzimmer dagegen schon."
+  ],
+  "blocks": [
+    {
+      "type": "p",
+      "lead": true,
+      "text": "Der Satz „Schläft es denn schon durch?“ fällt in Deutschland im Schnitt in der zweiten Lebenswoche. Er ist in diesem Alter ungefähr so sinnvoll wie die Frage, ob das Kind schon laufen kann. Ein Neugeborenes besitzt keinen inneren Tag, an dem sich eine Nacht abgrenzen ließe. Sein Schlaf ist über 24 Stunden verteilt, weil er genau dafür gebaut ist – für einen Magen, der alle zwei bis vier Stunden Nachschub braucht, und für ein Gehirn, das in dieser Zeit mehr wächst als je wieder."
+    },
+    {
+      "type": "callout",
+      "variant": "warn",
+      "title": "Bevor es um Rhythmus geht: der Schlafplatz",
+      "text": "Alles Weitere in diesem Artikel setzt voraus, dass die Grundregeln für sicheren Schlaf eingehalten sind: **Rückenlage bei jedem Schlaf**, eigener Schlafplatz im Elternschlafzimmer, feste Matratze, Schlafsack statt Decke, nichts Weiches im Bett, rauchfreie Umgebung, Zimmertemperatur um 16 bis 18 °C. Das gilt auch für den Mittagsschlaf, auch bei Großeltern, auch im Kinderwagen. Die Einzelheiten und die Belege dazu stehen in [Sicherer Schlaf im ersten Lebensjahr](sicherer-schlaf.html)."
+    },
+    {
+      "type": "section",
+      "heading": "Wie viel Schlaf normal ist – und warum die Zahl wenig hilft",
+      "blocks": [
+        {
+          "type": "evidence",
+          "level": "stark",
+          "claim": "Für Säuglinge von 0 bis 3 Monaten werden 14 bis 17 Stunden Schlaf pro 24 Stunden als normal angesehen, verteilt auf Tag und Nacht.",
+          "note": "Die Spanne ist bewusst breit. Systematische Übersichten zu Schlafdauern im Säuglings- und Kindesalter zeigen eine sehr große Streuung zwischen gesunden Kindern – im ersten Lebensjahr liegt der übliche Bereich der Gesamtschlafdauer bei etwa 10 bis 16 Stunden. Ein Kind am unteren Rand ist nicht auffällig, solange es wach zufrieden wirkt, trinkt und zunimmt.",
+          "sources": [0, 1]
+        },
+        {
+          "type": "figure",
+          "kind": "range",
+          "title": "Schlafbedarf pro 24 Stunden im ersten Lebensjahr",
+          "alt": "Balkendiagramm mit den empfohlenen Schlafspannen für 0 bis 3 Monate und 4 bis 11 Monate",
+          "min": 8,
+          "max": 19,
+          "ticks": [8, 10, 12, 14, 16, 18],
+          "data": [
+            { "label": "0–3 Monate", "from": 14, "to": 17, "display": "14–17 h" },
+            { "label": "4–11 Monate", "from": 12, "to": 16, "display": "12–16 h" }
+          ],
+          "caption": "Spannen einschließlich Tagschlaf, nach den Schlafempfehlungen der WHO für Kinder unter fünf Jahren. Sie beschreiben Bereiche, keine Zielwerte – niemand muss sein Kind zu einer Zahl hinschlafen lassen.",
+          "sources": [0]
+        },
+        {
+          "type": "p",
+          "text": "Die eigentliche Zumutung der ersten Monate ist nicht die Gesamtdauer, sondern die Portionierung. Ein Neugeborenes schläft selten länger als drei bis vier Stunden am Stück, oft deutlich kürzer. Rechnerisch bekommt es dabei genug Schlaf – du bekommst ihn nicht. Deshalb ist die wichtigste Maßnahme in dieser Zeit keine, die den Schlaf des Kindes verändert, sondern eine, die euren eigenen Schlaf schützt: Schichten, in denen jeweils eine Person wirklich schlafen darf."
+        }
+      ]
+    },
+    {
+      "type": "section",
+      "heading": "Warum es noch keinen Tag-Nacht-Rhythmus gibt",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "Im Mutterleib gibt der mütterliche Kreislauf den Takt vor – Hormone, Temperatur und Aktivität schwanken im 24-Stunden-Muster, und das Ungeborene schwingt mit. Mit der Geburt fällt dieser Taktgeber weg. Die innere Uhr im Gehirn ist zwar angelegt, aber sie steuert noch nichts. Sie muss sich erst auf die Außenwelt einstellen, und dafür braucht sie Wochen."
+        },
+        {
+          "type": "evidence",
+          "level": "stark",
+          "claim": "Ausgeprägte Rhythmen von Schlaf, Wachheit und Hormonausschüttung entwickeln sich in der Regel erst nach dem zweiten Lebensmonat.",
+          "note": "Der wichtigste Taktgeber dafür ist Licht. Praktisch heißt das: Tagsüber hell und normal laut leben, nachts gedämpft, leise und ohne Ansprache. Das beschleunigt nicht die Reifung selbst, hilft der inneren Uhr aber, sich richtig herum einzustellen. Erzwingen lässt sich der Umschwung nicht – abwarten und die Bedingungen stimmig halten ist alles, was geht.",
+          "sources": [2]
+        },
+        {
+          "type": "timeline",
+          "title": "Was in den ersten Monaten passiert",
+          "entries": [
+            { "age": "0–3 Wochen", "label": "Kein Muster", "text": "Schlaf und Wachsein verteilen sich scheinbar zufällig über 24 Stunden. Nächte und Tage sehen ähnlich aus. Erwarte nichts anderes – das erspart viel Frust." },
+            { "age": "4–6 Wochen", "label": "Erste Ansätze", "text": "Manche Kinder haben abends eine längere Wachphase mit viel Quengeln. Das ist unangenehm, aber ein Zeichen beginnender Ordnung: Der Abend hebt sich vom Rest des Tages ab." },
+            { "age": "6–9 Wochen", "label": "Die Nacht wird länger", "text": "Bei vielen Kindern verlängert sich eine Schlafphase, meist die erste nach dem Zubettgehen. Vier bis fünf Stunden am Stück gelten in diesem Alter bereits als Durchschlafen." },
+            { "age": "10–14 Wochen", "label": "Der Rhythmus greift", "text": "Der Anteil des Nachtschlafs am Gesamtschlaf steigt deutlich, die Tagesschläfchen sortieren sich. Jetzt beginnt sich ein Abendritual zu lohnen." },
+            { "age": "ab 4 Monaten", "label": "Neue Baustelle", "text": "Der Schlaf reift weiter und wird dem eines Erwachsenen ähnlicher. Viele Kinder wachen deshalb wieder häufiger auf – ein Reifungsschritt, kein Rückschritt." }
+          ],
+          "caption": "Grober Verlauf nach Übersichtsarbeiten zur Schlaf- und Rhythmusentwicklung. Die Spannbreite zwischen gesunden Kindern ist erheblich – einzelne Kinder erreichen jeden Punkt Wochen früher oder später."
+        }
+      ]
+    },
+    {
+      "type": "section",
+      "heading": "Kurze Zyklen, viel aktiver Schlaf",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "Der Schlaf eines Neugeborenen ist anders aufgebaut als deiner. Statt der vier Stadien des Erwachsenenschlafs gibt es zwei Zustände: aktiven Schlaf, den Vorläufer des Traumschlafs, und ruhigen Schlaf. Ein vollständiger Zyklus dauert etwa 50 bis 60 Minuten statt 90 bis 110, und der Anteil des aktiven Schlafs liegt bei rund der Hälfte der Schlafzeit – bei Erwachsenen sind es etwa 20 bis 25 Prozent."
+        },
+        {
+          "type": "p",
+          "text": "Das erklärt zwei Dinge, die viele Eltern beunruhigen. Erstens sieht ein schlafendes Neugeborenes oft gar nicht schlafend aus: Es zuckt, seufzt, atmet unregelmäßig, verzieht das Gesicht, öffnet kurz die Augen. Das ist aktiver Schlaf, kein Aufwachen. Zweitens liegt am Ende jedes kurzen Zyklus eine Wachschwelle – und weil die Zyklen kurz sind, kommt diese Schwelle häufig. Ein Kind, das nach 45 Minuten wieder da ist, ist nicht wach, weil etwas schiefgelaufen ist."
+        },
+        {
+          "type": "callout",
+          "variant": "tip",
+          "title": "Die Zehn-Sekunden-Regel",
+          "text": "Bevor du bei einem Geräusch aus dem Bett springst: warte kurz. Ein erheblicher Teil der nächtlichen Laute gehört zum aktiven Schlaf und endet von selbst. Wenn du bei jedem Seufzer eingreifst, weckst du dein Kind manchmal erst richtig auf. Bei Schreien, das anschwillt statt abzuebben, gehst du selbstverständlich hin – aber die ersten zehn bis zwanzig Sekunden gehören dem Kind."
+        }
+      ]
+    },
+    {
+      "type": "section",
+      "heading": "Was in diesem Alter sinnvoll ist",
+      "blocks": [
+        {
+          "type": "list",
+          "items": [
+            { "title": "Licht klar trennen:", "text": "Tagschlaf im hellen Raum mit normalen Alltagsgeräuschen, Nachtschlaf dunkel und still. Nachts nur gedimmtes, warmes Licht, kein Deckenlicht, kein Bildschirm." },
+            { "title": "Nachts nicht bespielen:", "text": "Wickeln und Stillen ohne Gespräch, ohne Blickspiel, ohne Musik. Freundlich, aber langweilig." },
+            { "title": "Müdigkeitszeichen lernen:", "text": "Blick geht ins Leere, Gähnen, Augenreiben, ruckartige Bewegungen, Quengeln. Wer ab dem ersten Zeichen zum Schlafen begleitet, hat es leichter als der, der auf das Schreien wartet." },
+            { "title": "Ein kurzes Abendritual beginnen:", "text": "Drei bis vier immer gleiche Schritte, zusammen zehn Minuten. Es wirkt in den ersten Wochen noch nicht, aber es prägt sich ein und trägt später." },
+            { "title": "Einschlafen darf begleitet sein:", "text": "An der Brust, auf dem Arm, im Tragetuch einzuschlafen ist in diesem Alter normal und schadet nichts. Wer sein Kind irgendwann schläfrig, aber wach ablegen möchte, kann das ab und zu versuchen – ohne Programm und ohne Anspruch, dass es klappt." },
+            { "title": "Tageslicht am Vormittag:", "text": "Ein Spaziergang bei Tageslicht ist der einfachste Taktgeber, den es gibt – und er hilft dir mindestens so sehr wie deinem Kind." }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "section",
+      "heading": "Was noch nicht geht",
+      "blocks": [
+        {
+          "type": "comparison",
+          "title": "Realistische Erwartungen an die ersten drei Monate",
+          "columns": [
+            {
+              "title": "Geht schon",
+              "tone": "good",
+              "items": [
+                "Unterschied zwischen Tag und Nacht anbieten",
+                "Sicheren Schlafplatz einrichten",
+                "Auf Müdigkeitszeichen reagieren",
+                "Ein kurzes, immer gleiches Abendritual einführen",
+                "Den eigenen Schlaf in Schichten organisieren"
+              ]
+            },
+            {
+              "title": "Geht noch nicht",
+              "tone": "bad",
+              "items": [
+                "Feste Schlafenszeiten und planbare Nickerchen",
+                "Durchschlafen über sechs Stunden als Regelfall",
+                "Selbstständiges Wiedereinschlafen ohne Hilfe",
+                "Schlaftraining oder Schlaflernprogramme",
+                "Schlaf durch Zufüttern oder späteres Zubettgehen verlängern"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "evidence",
+          "level": "moderat",
+          "claim": "Verhaltensbasierte Schlafprogramme sind für die ersten Lebensmonate nicht vorgesehen; empfohlen wird in diesem Alter prompte Zuwendung.",
+          "note": "Der Grund ist Reifung, nicht Pädagogik: Selbstberuhigung setzt Regulationsfähigkeiten voraus, die in diesem Alter erst entstehen. Untersucht und diskutiert werden solche Programme frühestens ab etwa sechs Monaten – und auch dann wird ihr Nutzen unterschiedlich bewertet. Für die ersten drei Monate gilt schlicht: Ihr überbrückt eine Phase, ihr trainiert nichts.",
+          "sources": [3]
+        },
+        {
+          "type": "callout",
+          "variant": "myth",
+          "title": "„Abends Brei, dann schläft es durch“",
+          "text": "Beikost vor dem vollendeten vierten Lebensmonat ist nicht empfohlen, und der Zusammenhang zwischen abendlicher Sättigung und längerem Schlaf ist deutlich schwächer, als der Ratschlag vermuten lässt. Was Kinder nachts weckt, ist in den ersten Monaten überwiegend die Reifung ihres Schlafs, nicht der Füllstand ihres Magens."
+        }
+      ]
+    },
+    {
+      "type": "section",
+      "heading": "Häufige Fragen",
+      "blocks": [
+        {
+          "type": "faq",
+          "items": [
+            {
+              "q": "Mein Kind schläft tagsüber nur auf mir. Gewöhne ich ihm etwas Falsches an?",
+              "a": "Nein. Nähe ist in den ersten Wochen die verlässlichste Einschlafhilfe, weil sie Wärme, Geräusch und Bewegung liefert – die Bedingungen, die dein Kind neun Monate lang kannte. Das wächst sich aus. Wichtig ist nur: Wenn du selbst müde bist, leg dein Kind zum Schlafen sicher ab, statt mit ihm auf dem Sofa oder im Sessel einzuschlafen. Das gilt als besonders riskant."
+            },
+            {
+              "q": "Muss ich mein Neugeborenes zum Trinken wecken?",
+              "a": "In den ersten Wochen ja, wenn es von sich aus nicht regelmäßig trinkt – üblich ist, ein Neugeborenes nachts nicht länger als etwa vier bis fünf Stunden durchschlafen zu lassen, bis das Geburtsgewicht wieder erreicht ist und die Zunahme stimmt. Wie lange das bei euch gilt, sagt dir deine Hebamme oder die Kinderarztpraxis."
+            },
+            {
+              "q": "Ab wann kann ich ein Abendritual einführen?",
+              "a": "Jederzeit, aber erwarte in den ersten Wochen keine Wirkung. Rituale funktionieren über Wiedererkennung, und die braucht Wiederholungen. Halte es kurz und alltagstauglich – etwas, das du auch mit Fieber und Besuch im Haus schaffst."
+            },
+            {
+              "q": "Ist ein Nachtlicht sinnvoll?",
+              "a": "Für das Kind nicht nötig – Neugeborene haben keine Angst im Dunkeln. Für euch beim Wickeln und Stillen kann eine sehr gedimmte, warme Lichtquelle hilfreich sein. Je weniger Licht, desto besser für die entstehende innere Uhr."
+            },
+            {
+              "q": "Mein Kind hat den Tag zur Nacht gemacht. Kann ich das drehen?",
+              "a": "Nur langsam und nur über Licht und Aktivität: tagsüber konsequent hell, ansprechbar, draußen; nachts dunkel, leise, ohne Interaktion. Erzwingen lässt sich der Umschwung nicht, weil die zugrunde liegende innere Uhr erst reift. Meist ordnet sich das im zweiten oder dritten Monat von selbst."
+            },
+            {
+              "q": "Wann sollte ich Schlafprobleme ärztlich ansprechen?",
+              "a": "Wenn dein Kind auffällig wenig oder auffällig viel schläft, sich beim Schlafen ungewöhnlich anstrengt oder pausiert, schlecht zunimmt, oder wenn Schlafen, Schreien und Füttern gemeinsam schwierig sind. Und immer dann, wenn ihr als Eltern am Ende seid – das ist ein ausreichender Grund für sich."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "callout",
+      "variant": "info",
+      "title": "Kurz gesagt",
+      "text": "In den ersten drei Monaten kannst du den Schlaf deines Kindes nicht steuern, nur begleiten. Tageslicht am Tag, Dunkelheit und Ruhe in der Nacht, ein sicherer Schlafplatz und ein Plan für deinen eigenen Schlaf – mehr ist in dieser Phase nicht zu holen, und mehr ist auch nicht nötig. Der Rhythmus kommt, wenn die innere Uhr so weit ist."
+    }
+  ],
+  "sources": [
+    {
+      "title": "Guidelines on physical activity, sedentary behaviour and sleep for children under 5 years of age",
+      "publisher": "World Health Organization",
+      "year": "2019",
+      "kind": "Leitlinie",
+      "url": "https://www.who.int/publications/i/item/9789241550536"
+    },
+    {
+      "title": "Normal sleep patterns in infants and children: A systematic review of observational studies",
+      "publisher": "Sleep Medicine Reviews (Galland, Taylor, Elder, Herbison)",
+      "year": "2012",
+      "kind": "Übersichtsarbeit",
+      "url": "https://www.sciencedirect.com/science/article/abs/pii/S1087079211000682"
+    },
+    {
+      "title": "Developing Circadian Rhythmicity in Infants",
+      "publisher": "Pediatrics (Rivkees)",
+      "year": "2003",
+      "kind": "Übersichtsarbeit",
+      "url": "https://publications.aap.org/pediatrics/article-abstract/112/2/373/63333/Developing-Circadian-Rhythmicity-in-Infants"
+    },
+    {
+      "title": "Schlafen – Elterninformation zum Säuglings- und Kleinkindschlaf",
+      "publisher": "Bundeszentrale für gesundheitliche Aufklärung (BZgA), kindergesundheit-info.de",
+      "year": "2024",
+      "kind": "Institutionelle Information",
+      "url": "https://www.kindergesundheit-info.de/themen/schlafen/"
+    },
+    {
+      "title": "S1-Leitlinie: Prävention des plötzlichen Säuglingstods",
+      "publisher": "AWMF / Deutsche Gesellschaft für Schlafforschung und Schlafmedizin",
+      "year": "2022",
+      "kind": "Leitlinie",
+      "url": "https://register.awmf.org/de/leitlinien/detail/063-002"
+    },
+    {
+      "title": "Infant Sleep Cycles: How Are They Different From Adults?",
+      "publisher": "Sleep Foundation",
+      "year": "2024",
+      "kind": "Institutionelle Information",
+      "url": "https://www.sleepfoundation.org/baby-sleep/baby-sleep-cycle"
+    }
+  ],
+  "related": ["sicherer-schlaf", "schlaf-4-12-monate", "schreien-verstehen", "tragen-und-koerperkontakt"]
+}

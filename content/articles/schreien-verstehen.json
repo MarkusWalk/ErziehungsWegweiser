@@ -1,0 +1,271 @@
+{
+  "slug": "schreien-verstehen",
+  "title": "Warum Babys schreien",
+  "subtitle": "Schreien ist keine Fehlfunktion und kein Urteil über dich. Was hinter dem Schreien steckt, wie es sich über die ersten Monate verändert und was tatsächlich beruhigt.",
+  "phases": ["neugeborenes"],
+  "topics": ["emotionen", "bindung"],
+  "updated": "2026-08-05",
+  "summary": "Alle Babys schreien in den ersten Lebensmonaten mehr als danach – im Mittel rund zwei Stunden am Tag, verteilt über viele kleine Episoden, oft ohne erkennbaren Anlass. Das ist eine Reifungsphase, keine Störung und kein Zeichen dafür, dass du etwas falsch machst. Was hilft, ist prompte, ruhige Zuwendung: Körperkontakt, Tragen, Reize herunterfahren. Und was in keiner Situation hilft: schütteln. Wenn du an deine Grenze kommst, leg dein Kind sicher ab und hol dir Hilfe.",
+  "keyFacts": [
+    "In den ersten sechs Lebenswochen schreien und quengeln Babys im Mittel 117–133 Minuten pro Tag; bis zur 10.–12. Woche sinkt das auf rund 68 Minuten.",
+    "Ein erheblicher Teil des Schreiens hat keinen erkennbaren Auslöser – das ist normal und geht vorbei.",
+    "Schnelles, ruhiges Reagieren führt nicht zu mehr Schreien, sondern langfristig zu weniger.",
+    "Tragen senkt die Schrei- und Quengeldauer messbar, besonders am Abend.",
+    "Schütteln kann in Sekunden zu bleibenden Hirnschäden führen. Es gibt immer einen sicheren Ausweg: ablegen, rausgehen, anrufen."
+  ],
+  "blocks": [
+    {
+      "type": "p",
+      "lead": true,
+      "text": "Ein Neugeborenes hat keine Wörter, keine Mimikkontrolle und keine Möglichkeit, sich selbst zu beruhigen. Es hat genau ein Signal, das über größere Entfernung zuverlässig ankommt – und das benutzt es. Schreien ist damit kein Symptom, sondern die erste Sprache deines Kindes. Sie ist laut, sie ist unangenehm zu hören, und das ist evolutionär beabsichtigt: Ein Schrei, den man leicht ignorieren könnte, hätte seine Aufgabe verfehlt."
+    },
+    {
+      "type": "callout",
+      "variant": "danger",
+      "title": "Wenn du kurz davor bist, dein Kind zu schütteln",
+      "text": "Lies das jetzt, nicht später. Schütteln kann bei einem Säugling innerhalb von Sekunden zu bleibenden Hirnschäden oder zum Tod führen – der Kopf ist schwer, die Nackenmuskulatur trägt ihn kaum. Wenn du merkst, dass du die Kontrolle verlierst: **1. Leg dein Kind sicher ab** – auf den Rücken, ins eigene Bett, nichts drumherum. **2. Geh aus dem Zimmer**, schließ die Tür an, atme, dreh kaltes Wasser über deine Handgelenke. Ein schreiendes Baby, das zwei Minuten allein im sicheren Bett liegt, nimmt keinen Schaden. **3. Ruf jemanden an** – Partnerin, Freund, Nachbarin oder das Elterntelefon **0800 111 0 550** (kostenfrei, anonym). Sprechen unterbricht die Anspannung schneller als Durchhalten. Alle Nummern und den vollständigen Notfallplan findest du auf der [Notfallseite](../notfall.html). Diesen Impuls zu spüren, macht dich nicht zu einem schlechten Elternteil. Ihm nicht nachzugeben, macht den ganzen Unterschied."
+    },
+    {
+      "type": "section",
+      "heading": "Die Schreikurve: warum es erst mehr wird",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "Fast alle Eltern erleben dasselbe Muster: In den ersten Lebenswochen nimmt das Schreien zu, hält sich einige Wochen auf hohem Niveau und geht dann deutlich zurück. Wer glaubt, es müsse von Tag eins an stetig besser werden, erlebt die dritte und vierte Woche als persönliches Scheitern. Es ist aber schlicht der normale Verlauf."
+        },
+        {
+          "type": "evidence",
+          "level": "stark",
+          "claim": "Über die ersten sechs Lebenswochen liegt die tägliche Gesamtdauer von Quengeln und Schreien im Mittel bei 117 bis 133 Minuten. Bis zur 10. bis 12. Woche sinkt sie auf durchschnittlich 68 Minuten.",
+          "note": "Diese Zahlen stammen aus einer Metaanalyse von 28 Tagebuchstudien mit 8.690 Säuglingen. Wichtig ist die Streuung: Die Standardabweichung liegt bei über einer Stunde. Ein Kind, das mit drei Wochen dreieinhalb Stunden am Tag schreit, liegt noch im normalen Bereich – es fühlt sich nur nicht so an.",
+          "sources": [0]
+        },
+        {
+          "type": "figure",
+          "kind": "bar",
+          "title": "Quengeln und Schreien pro 24 Stunden",
+          "alt": "Balkendiagramm: In den ersten sechs Lebenswochen 117 bis 133 Minuten täglich, in der 10. bis 12. Woche 68 Minuten.",
+          "max": 150,
+          "data": [
+            { "label": "1.–6. Lebenswoche", "value": 133, "display": "117–133 min" },
+            { "label": "10.–12. Lebenswoche", "value": 68, "display": "68 min" }
+          ],
+          "caption": "Mittelwerte aus 28 Tagebuchstudien mit 8.690 Säuglingen. Der obere Balken zeigt den oberen Rand der Studienmittelwerte für die ersten sechs Wochen, der untere den Mittelwert mit 10 bis 12 Wochen. Einzelne Kinder liegen erheblich darüber oder darunter.",
+          "sources": [0]
+        },
+        {
+          "type": "evidence",
+          "level": "umstritten",
+          "claim": "Ob es einen festen Gipfel des Schreiens in der sechsten Lebenswoche gibt, ist wissenschaftlich nicht gesichert.",
+          "note": "Der bekannte „Schreigipfel um Woche 6“ stammt aus früheren Einzelstudien. In der bisher größten Zusammenschau ließ sich ein solcher universeller Gipfel nicht bestätigen – das Schreien blieb über die ersten sechs Wochen eher gleichmäßig hoch und fiel dann ab. Für dich heißt das: Wenn es bei euch in Woche 4 oder Woche 8 am schlimmsten ist, ist das kein Sonderfall.",
+          "sources": [0]
+        }
+      ]
+    },
+    {
+      "type": "section",
+      "heading": "Was ein Baby uns mit Schreien sagt",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "Erwachsene suchen nach einem Grund, weil sie einen Grund beheben können. Bei Säuglingen funktioniert das nur zum Teil. Ein großer Anteil des Schreiens in den ersten Monaten lässt sich keiner einzelnen Ursache zuordnen, sondern hängt damit zusammen, dass das Nervensystem den Wechsel zwischen Wachheit, Erregung und Schlaf noch nicht selbst steuern kann."
+        },
+        {
+          "type": "list",
+          "items": [
+            { "title": "Hunger:", "text": "der häufigste und am schnellsten überprüfbare Grund. Frühe Zeichen sind Schmatzen, Suchen, Hand im Mund – Schreien ist bereits das späte Signal." },
+            { "title": "Müdigkeit:", "text": "übermüdete Babys schlafen nicht einfach ein, sie werden erst überdreht und dann untröstlich. Das ist der meistunterschätzte Auslöser." },
+            { "title": "Reizüberflutung:", "text": "Besuch, Einkaufszentrum, Licht, Stimmen. Der Abbau eines Reizüberschusses passiert bei Säuglingen oft über Schreien." },
+            { "title": "Unwohlsein:", "text": "volle Windel, zu warm, zu kalt, drückende Naht, Haar um einen Zeh gewickelt (klingt exotisch, kommt vor)." },
+            { "title": "Bedürfnis nach Nähe:", "text": "ein eigenständiger, ausreichender Grund. Ein Kind, das nur getragen werden möchte, ist nicht anspruchsvoll, sondern jung." },
+            { "title": "Kein erkennbarer Grund:", "text": "der ehrlichste Punkt der Liste. Ein Teil des Schreiens gehört zur Entwicklung und lässt sich nicht wegtrösten – nur begleiten." }
+          ]
+        },
+        {
+          "type": "callout",
+          "variant": "myth",
+          "title": "„Wenn ich sofort komme, gewöhnt es sich das an“",
+          "text": "Diese Sorge ist alt und in dieser Altersgruppe unbegründet. Ein Säugling kann sich Verhalten noch nicht strategisch antrainieren; ihm fehlen die dafür nötigen Hirnstrukturen. Prompte, ruhige Reaktion auf Signale ist der Kern dessen, was in der Bindungsforschung Feinfühligkeit heißt – und sie führt über die Monate zu weniger, nicht zu mehr Schreien. Verwöhnen im Sinne von Schaden ist im ersten Lebensjahr durch Zuwendung nicht möglich."
+        }
+      ]
+    },
+    {
+      "type": "section",
+      "heading": "Was tatsächlich beruhigt",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "Beruhigen heißt nicht, das Schreien sofort abzustellen. Es heißt, deinem Kind dein ruhigeres Nervensystem zur Verfügung zu stellen, bis seines wieder mitkommt. Fachleute nennen das Ko-Regulation. Praktisch bedeutet es: Deine Atmung, deine Stimmlage und dein Tempo sind das eigentliche Werkzeug – nicht der Griff, den du anwendest."
+        },
+        {
+          "type": "scene",
+          "preset": "koregulation",
+          "title": "Ko-Regulation: zwei Systeme finden in den Gleichtakt",
+          "alt": "Zwei pulsierende Ringe, die zunächst unterschiedlich schwingen und sich dann annähern und gemeinsam takten",
+          "fallback": "Zwei Kreise pulsieren zunächst in unterschiedlichem Takt – einer schnell und unregelmäßig, einer langsam. Nach und nach nähern sie sich an und schwingen gemeinsam. So funktioniert Beruhigung beim Säugling: Nicht das Kind beruhigt sich selbst, sondern es übernimmt den Rhythmus der Person, die es hält.",
+          "caption": "Ein Säugling kann seine Erregung noch nicht selbst herunterfahren. Er übernimmt sie von außen – deshalb wirkt langsames Atmen, leises Sprechen und gleichmäßige Bewegung besser als jede Technik, die hektisch ausgeführt wird."
+        },
+        {
+          "type": "steps",
+          "title": "Eine Reihenfolge, die im Kopf bleibt",
+          "items": [
+            { "title": "Erst dich", "text": "Zwei tiefe Atemzüge, Schultern runter, bevor du dein Kind hochnimmst. Das ist keine Esoterik: Ein angespannt gehaltenes Baby beruhigt sich schlechter." },
+            { "title": "Das Naheliegende prüfen", "text": "Hunger, Windel, Temperatur, drückende Kleidung. Zügig, nicht hektisch." },
+            { "title": "Reize herunterfahren", "text": "Licht dimmen, Fernseher aus, Besuch in ein anderes Zimmer. Weniger Input statt neuer Ablenkung." },
+            { "title": "Körperkontakt und Bewegung", "text": "Aufrecht an deine Brust, Hand am Rücken, langsames Wiegen oder Gehen. Gleichmäßig, nicht schnell." },
+            { "title": "Gleichförmiges Geräusch", "text": "Schhh direkt am Ohr, Dunstabzug, Regen. Es darf leiser sein als das Schreien, es muss nur monoton sein." },
+            { "title": "Dranbleiben und Wechseln", "text": "Wenn nach zehn Minuten nichts wirkt, gib ab, falls jemand da ist. Frische Arme wirken oft besser als bessere Technik." }
+          ]
+        },
+        {
+          "type": "evidence",
+          "level": "moderat",
+          "claim": "Zusätzliches Tragen im Alltag reduziert die Schrei- und Quengeldauer. In einer kontrollierten Studie schrien getragene Säuglinge im Alter von sechs Wochen 43 Prozent weniger als die Kontrollgruppe, abends sogar 51 Prozent weniger.",
+          "note": "Die Studie umfasste 99 Mutter-Kind-Paare; spätere Wiederholungen fanden schwächere Effekte, vor allem bei Kindern, die ohnehin schon viel getragen wurden. Der Ansatz gilt trotzdem als sinnvoll und risikoarm: Tragen kostet nichts, hat keine bekannten Nebenwirkungen und entlastet vor allem die Abendstunden. Wichtig ist die korrekte Trageposition mit freiem Gesicht.",
+          "sources": [1]
+        },
+        {
+          "type": "callout",
+          "variant": "tip",
+          "title": "Die Abendstunde einplanen statt überstehen",
+          "items": [
+            "Das Schreifenster liegt bei den meisten Kindern zwischen 17 und 22 Uhr – leg dorthin nichts, was misslingen kann.",
+            "Abendessen vorziehen oder vorbereiten, solange das Kind schläft.",
+            "Tragehilfe schon anziehen, bevor das Schreien beginnt.",
+            "Raus an die frische Luft: Kühle und gleichmäßige Bewegung wirken bei vielen Kindern besser als jedes Zimmer.",
+            "Wenn ihr zu zweit seid: feste Ablösung nach Uhrzeit statt nach Erschöpfungsgrad."
+          ]
+        }
+      ]
+    },
+    {
+      "type": "section",
+      "heading": "Warum Schreienlassen in den ersten Monaten nicht empfohlen wird",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "Über Schlaflernprogramme im späteren Säuglingsalter wird fachlich kontrovers diskutiert. Für die ersten Lebensmonate gibt es diese Kontroverse nicht: Kein Fachverband empfiehlt, ein Neugeborenes oder einen jungen Säugling planmäßig schreien zu lassen, um ihm etwas beizubringen."
+        },
+        {
+          "type": "evidence",
+          "level": "moderat",
+          "claim": "In den ersten Lebensmonaten wird prompte Zuwendung empfohlen; geplantes Schreienlassen zur Gewöhnung ist in diesem Alter kein anerkanntes Vorgehen.",
+          "note": "Die Begründung ist entwicklungsbezogen, nicht moralisch: Ein Säugling kann in diesem Alter keine Selbstberuhigung erlernen, weil die dafür nötige Regulationsfähigkeit erst reift. Was er lernt, ist, ob auf sein Signal etwas folgt. Das ist etwas anderes als die Frage, ob ein zehn Monate altes Kind abends kurz protestieren darf – dazu sieht die Studienlage anders aus.",
+          "sources": [2, 4]
+        },
+        {
+          "type": "callout",
+          "variant": "info",
+          "title": "Der Unterschied zwischen Schreienlassen und Ablegen",
+          "text": "Wenn du dein Kind kurz sicher ablegst, weil du selbst am Ende bist, ist das kein Schreienlassen im Sinne einer Methode – es ist eine Schutzmaßnahme, und sie ist ausdrücklich richtig. Der Unterschied liegt in der Absicht und in der Dauer: zwei Minuten Selbstschutz, damit du wieder handlungsfähig bist, statt eines Plans, mit dem das Kind etwas lernen soll."
+        }
+      ]
+    },
+    {
+      "type": "section",
+      "heading": "Wann Schreien ärztlich abgeklärt gehört",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "Der weitaus größte Teil des Schreiens in den ersten Monaten hat keine krankhafte Ursache. Es gibt aber Muster, bei denen du nicht abwarten solltest – nicht aus Angst, sondern weil eine Abklärung schnell geht und beruhigt."
+        },
+        {
+          "type": "callout",
+          "variant": "warn",
+          "title": "Zeitnah in die Kinderarztpraxis",
+          "items": [
+            "Ein sonst ruhiges Kind schreit plötzlich anders: schrill, anhaltend, nicht beruhigbar",
+            "Schreien zusammen mit Fieber, Erbrechen, blutigem Stuhl, aufgetriebenem Bauch",
+            "Ein Kind, das auffällig schlapp ist, schlecht trinkt oder deutlich weniger nasse Windeln hat",
+            "Schreien nach einem Sturz oder einem Zug am Arm",
+            "Gewichtsverlauf, der nicht mitgeht, oder Rückfluss mit starken Schmerzzeichen",
+            "Mehr als drei Stunden Schreien an mehr als drei Tagen pro Woche über mehr als drei Wochen"
+          ]
+        },
+        {
+          "type": "p",
+          "text": "Der letzte Punkt ist die sogenannte Dreierregel. Sie beschreibt kein Krankheitsbild, aber sie markiert die Schwelle, ab der Familien Anspruch auf gezielte Unterstützung haben – etwa in einer Schreiambulanz. Was dort passiert und wie du dort hinkommst, steht in unserem Artikel zum [Schreibaby](schreibaby.html)."
+        }
+      ]
+    },
+    {
+      "type": "section",
+      "heading": "Häufige Fragen",
+      "blocks": [
+        {
+          "type": "faq",
+          "items": [
+            {
+              "q": "Kann ich am Schreien erkennen, was mein Kind will?",
+              "a": "Weniger, als oft behauptet wird. Programme, die Schreilaute in Kategorien wie Hunger oder Müdigkeit übersetzen, halten kontrollierten Prüfungen kaum stand. Was tatsächlich funktioniert, ist der Kontext: Wann war die letzte Mahlzeit, wie lange ist es wach, was war heute los. Nach einigen Wochen erkennst du die Muster deines eigenen Kindes besser als jede Tabelle."
+            },
+            {
+              "q": "Ist es Bauchweh? Alle sagen Koliken.",
+              "a": "Der Begriff Dreimonatskoliken ist älter als das Wissen dahinter. Bei den meisten Kindern, die viel schreien, findet sich keine Magen-Darm-Ursache – Anziehen der Beine und ein harter Bauch sind Begleiterscheinungen des Schreiens, nicht zwingend sein Auslöser. Deshalb helfen entblähende Mittel auch nur bei einem Teil der Kinder. Anhaltende Schmerzzeichen gehören trotzdem ärztlich angeschaut."
+            },
+            {
+              "q": "Mein Kind schreit fast nur abends. Ist das normal?",
+              "a": "Ja, und es ist eines der verlässlichsten Muster überhaupt. Die Abendstunden zwischen etwa 17 und 22 Uhr sind bei vielen Säuglingen die schwierigste Zeit – vermutlich, weil sich Reize des Tages und Müdigkeit summieren. Plan diese Stunden aktiv ein, statt sie jeden Abend neu zu überstehen."
+            },
+            {
+              "q": "Darf ich mein Kind zwischendurch ablegen, wenn es weiterschreit?",
+              "a": "Ja. Ein Baby, das für ein paar Minuten sicher auf dem Rücken im eigenen Bett liegt, während du dich sammelst, nimmt keinen Schaden. Sich Luft zu verschaffen ist die verantwortungsvollere Entscheidung, als bis zum Kontrollverlust weiterzumachen."
+            },
+            {
+              "q": "Ich empfinde manchmal Wut auf mein Baby. Stimmt etwas nicht mit mir?",
+              "a": "Nein. Schreien aktiviert im erwachsenen Gehirn Stress- und Alarmsysteme – dass daraus unter Schlafmangel Wut oder Hilflosigkeit wird, ist verbreitet und kein Zeichen mangelnder Liebe. Entscheidend ist, was du in diesem Moment tust: ablegen, rausgehen, anrufen. Wenn solche Momente häufiger werden oder du dich dauerhaft leer fühlst, sprich es in der Kinderarztpraxis oder bei deiner Hebamme an."
+            },
+            {
+              "q": "Wann hört das auf?",
+              "a": "Bei den meisten Kindern deutlich spürbar zwischen der 10. und 14. Lebenswoche. Das ist kein Schalter, sondern eine Kurve: erst weniger heftige Episoden, dann kürzere, dann seltenere. Rückschritte an einzelnen Tagen gehören dazu."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "callout",
+      "variant": "info",
+      "title": "Kurz gesagt",
+      "text": "Schreien ist in den ersten Monaten eine Entwicklungsphase, keine Fehlfunktion. Du kannst es nicht immer beenden – aber du kannst dein Kind hindurchbegleiten, und genau das ist die Aufgabe. Deine eigene Belastungsgrenze ist dabei Teil der Sicherheit deines Kindes: Sie zu kennen und rechtzeitig Hilfe zu holen, ist Fürsorge, nicht Schwäche."
+    }
+  ],
+  "sources": [
+    {
+      "title": "Systematic Review and Meta-Analysis: Fussing and Crying Durations and Prevalence of Colic in Infants",
+      "publisher": "The Journal of Pediatrics (Wolke, Bilgin, Samara)",
+      "year": "2017",
+      "kind": "Metaanalyse",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/28385295/"
+    },
+    {
+      "title": "Increased carrying reduces infant crying: a randomized controlled trial",
+      "publisher": "Pediatrics (Hunziker, Barr)",
+      "year": "1986",
+      "kind": "Studie",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/3517799/"
+    },
+    {
+      "title": "Das Schreien des Babys",
+      "publisher": "Bundeszentrale für gesundheitliche Aufklärung (BZgA), kindergesundheit-info.de",
+      "year": "2024",
+      "kind": "Institutionelle Information",
+      "url": "https://www.kindergesundheit-info.de/themen/entwicklung/0-12-monate/schreien/"
+    },
+    {
+      "title": "Babyschreien und Schütteltrauma – Zahlen und Fakten",
+      "publisher": "Nationales Zentrum Frühe Hilfen (NZFH)",
+      "year": "2024",
+      "kind": "Institutionelle Information",
+      "url": "https://www.fruehehilfen.de/grundlagen-und-fachthemen/fachthemen/babyschreien-und-schuetteltrauma/zahlen-und-fakten/"
+    },
+    {
+      "title": "S2k-Leitlinie: Psychische Störungen im Säuglings-, Kleinkind- und Vorschulalter (AWMF-Register-Nr. 028-041)",
+      "publisher": "AWMF / Deutsche Gesellschaft für Kinder- und Jugendpsychiatrie, Psychosomatik und Psychotherapie",
+      "year": "2025",
+      "kind": "Leitlinie",
+      "url": "https://register.awmf.org/assets/guidelines/028-041l_S2k_Psychische_Stoerungen_Saeugling_Kleinkind_Vorschulalter_2025-03.pdf"
+    }
+  ],
+  "related": ["schreibaby", "tragen-und-koerperkontakt", "neugeborenen-schlaf", "co-regulation"]
+}

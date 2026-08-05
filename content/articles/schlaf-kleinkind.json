@@ -1,0 +1,317 @@
+{
+  "slug": "schlaf-kleinkind",
+  "title": "Schlaf im Kleinkindalter",
+  "subtitle": "Warum Ein- und Zweijährige abends verhandeln, nachts auftauchen und manchmal schreiend im Bett sitzen, ohne wach zu sein – und was davon Handeln erfordert.",
+  "phases": ["kleinkind"],
+  "topics": ["schlaf"],
+  "updated": "2026-08-05",
+  "summary": "Im zweiten und dritten Lebensjahr verschiebt sich das Schlafthema: Aus biologischem Aufwachen wird eine Aushandlung. Kinder verstehen jetzt, dass die Nacht eine Trennung bedeutet, sie können rufen, klettern und argumentieren. Etwa jedes vierte bis dritte Kleinkind zeigt in dieser Zeit deutlichen Einschlafwiderstand oder wacht nachts regelmäßig auf. Ein verlässliches Abendritual ist die wirksamste einzelne Maßnahme, die dir zur Verfügung steht. Und der Nachtschreck, vor dem viele Eltern am meisten erschrecken, ist harmlos und braucht vor allem eines: dass du nichts tust.",
+  "keyFacts": [
+    "Einschlafprobleme und nächtliches Aufwachen betreffen etwa 20 bis 30 Prozent der Kleinkinder.",
+    "Nächtliches Aufwachen ist um den ersten und zweiten Geburtstag am häufigsten, Bettgeh-Widerstand nimmt mit drei und vier Jahren zu.",
+    "Ein gleichbleibendes Abendritual verbessert Einschlafdauer und Aufwachhäufigkeit – und wirkt darüber hinaus auf Sprache und Emotionsregulation.",
+    "Nachtschreck ist keine Störung des Kindes, sondern eine Aufwachstörung aus dem Tiefschlaf. Wecken macht es schlimmer.",
+    "Ein Kind, das aus dem Gitterbett klettert, ist ein Sicherheitsthema – hier entscheidet nicht das Alter, sondern das Verhalten."
+  ],
+  "blocks": [
+    {
+      "type": "p",
+      "lead": true,
+      "text": "Im Säuglingsalter geht es beim Schlaf um Biologie. Im Kleinkindalter kommt etwas dazu, das die Sache komplizierter macht: eine Meinung. Dein Kind versteht jetzt, dass es abends etwas verpasst, dass du im Nebenzimmer bist und dass sich Zeit gewinnen lässt. Das ist ein Entwicklungsfortschritt und fühlt sich um halb neun trotzdem nicht so an."
+    },
+    {
+      "type": "callout",
+      "variant": "warn",
+      "title": "Was nicht in die Kategorie Kleinkindschlaf gehört",
+      "items": [
+        "Lautes, regelmäßiges Schnarchen, Atempausen, Mundatmung im Schlaf oder ein Kind, das im Schlaf den Kopf stark überstreckt – das gehört kinderärztlich abgeklärt, meist geht es um vergrößerte Rachenmandeln.",
+        "Nächtliches Aufwachen, das mit Schmerzäußerungen, Fieber, Erbrechen oder starkem Schwitzen einhergeht.",
+        "Ein Kind, das tagsüber trotz ausreichender Schlafmenge auffällig unruhig, gereizt oder unkonzentriert ist.",
+        "Anfallsartige, immer gleich ablaufende Bewegungen im Schlaf, die sich nicht unterbrechen lassen.",
+        "Und für euch als Eltern: anhaltende Erschöpfung, die in Niedergeschlagenheit oder Reizbarkeit umschlägt, mit der ihr euch nicht wohlfühlt."
+      ]
+    },
+    {
+      "type": "section",
+      "heading": "Was in diesem Alter normal ist",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "Ein- bis Zweijährige brauchen nach WHO-Empfehlung insgesamt etwa 11 bis 14 Stunden Schlaf pro 24 Stunden, Drei- bis Vierjährige 10 bis 13 Stunden – Tagschlaf eingerechnet. Die Spanne ist bewusst breit. Ein Kind am unteren Rand ist nicht unterversorgt, solange es tagsüber aufnahmefähig und überwiegend ausgeglichen wirkt."
+        },
+        {
+          "type": "evidence",
+          "level": "moderat",
+          "claim": "Etwa 20 bis 30 Prozent der Kleinkinder zeigen deutlichen Einschlafwiderstand oder wachen nachts regelmäßig auf. Nächtliches Aufwachen häuft sich um den ersten und zweiten Geburtstag, Bettgeh-Widerstand nimmt mit drei und vier Jahren zu.",
+          "note": "Die Zahlen stammen aus Übersichtsarbeiten zu Einschlaf- und Durchschlafproblemen im frühen Kindesalter. Zwei Dinge folgen daraus: Erstens seid ihr mit dem Problem nicht allein, sondern in einer sehr großen Gruppe. Zweitens verschwindet es nicht in jedem Fall von selbst – anders als beim Säuglingsschlaf ist Abwarten hier nicht automatisch die beste Strategie.",
+          "sources": [5, 0]
+        },
+        {
+          "type": "p",
+          "text": "Der Grund für den Wandel liegt weniger im Schlaf als in der Entwicklung drumherum. Trennungsangst hat im zweiten Lebensjahr noch einmal Konjunktur, die Vorstellungskraft wächst und mit ihr die Fähigkeit, sich Dinge im Dunkeln auszumalen. Gleichzeitig lernt dein Kind, dass Wünsche verhandelbar sind – und probiert das folgerichtig auch abends aus. Beides ist gesund. Beides macht Abende länger."
+        }
+      ]
+    },
+    {
+      "type": "section",
+      "heading": "Das Abendritual ist keine Deko",
+      "blocks": [
+        {
+          "type": "evidence",
+          "level": "moderat",
+          "claim": "Ein gleichbleibendes abendliches Ritual verkürzt die Einschlafdauer, verringert nächtliches Aufwachen und wirkt darüber hinaus auf Sprachentwicklung, Emotionsregulation und die Eltern-Kind-Beziehung.",
+          "note": "Eine Übersichtsarbeit zu Abendritualen im frühen Kindesalter fasst diese Befunde zusammen. Entscheidend ist nicht der Inhalt, sondern die Wiederholbarkeit: immer dieselbe Reihenfolge, in derselben Umgebung, mit abnehmender Aktivierung. Dass die gemessenen Zusammenhänge zum Teil aus Beobachtungsstudien stammen, gehört zur ehrlichen Einordnung – Rituale sind trotzdem die eine Maßnahme, die praktisch nichts kostet und viel Rückmeldung aus der Praxis hat.",
+          "sources": [1]
+        },
+        {
+          "type": "steps",
+          "title": "Ein Abendritual, das trägt",
+          "items": [
+            {
+              "title": "Anfang klar markieren",
+              "text": "Ein Signal, das immer gleich ist: das Aufräumlied, das Licht im Flur, der Satz, mit dem es losgeht. Kinder brauchen den Übergang, nicht die Uhrzeit."
+            },
+            {
+              "title": "Drei bis vier Bausteine, zwanzig bis dreißig Minuten",
+              "text": "Zum Beispiel: waschen, Zähne putzen, Schlafanzug, zwei Bücher, ein Lied. Mehr Bausteine bedeuten mehr Verhandlungspunkte."
+            },
+            {
+              "title": "Aktivierung absteigend",
+              "text": "Was Spaß macht und aufregt, kommt an den Anfang. Der letzte Schritt ist der ruhigste. Kitzeln als Abschluss rächt sich."
+            },
+            {
+              "title": "Die Menge vorher festlegen",
+              "text": "Zwei Bücher heißt zwei Bücher, und zwar bevor das erste aufgeschlagen wird. Nachverhandeln lehrt dein Kind, dass Verhandeln funktioniert."
+            },
+            {
+              "title": "Immer derselbe Schlusssatz",
+              "text": "Ein kurzer, unveränderter Satz zum Abschied wirkt wie ein Punkt am Satzende. Er darf kitschig sein, er muss nur gleich bleiben."
+            }
+          ]
+        },
+        {
+          "type": "callout",
+          "variant": "tip",
+          "title": "Wenn dein Kind abends nicht müde ist",
+          "text": "Der häufigste Grund für lange Einschlafzeiten ist eine Bettzeit, die vor dem eigentlichen Schlafdruck liegt. Beobachte eine Woche lang, wann dein Kind tatsächlich einschläft. Lege die Bettzeit dann zunächst dorthin und ziehe sie über Wochen in Schritten von je 15 Minuten nach vorn. Das fühlt sich falsch an, weil das Kind später ins Bett kommt – es beendet aber oft ein Ringen, das mit Erziehung nichts zu tun hat."
+        }
+      ]
+    },
+    {
+      "type": "section",
+      "heading": "Wenn das Kind immer wieder aufsteht",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "Das Muster ist bekannt: nochmal Wasser, nochmal Pipi, nochmal ein Kuscheltier, das gefunden werden muss. Dahinter steckt selten Bosheit und meistens eine Mischung aus Trennungsunlust und der Erfahrung, dass jeder Auftritt funktioniert. Das wirksamste Gegenmittel ist keine Strenge, sondern Vorhersehbarkeit."
+        },
+        {
+          "type": "evidence",
+          "level": "moderat",
+          "claim": "Die sogenannte Bettkarte – ein Gutschein für genau einen erlaubten Auftritt nach dem Zubettgehen – verringert Rufen, Weinen und das Verlassen des Zimmers bei Drei- bis Sechsjährigen.",
+          "note": "Belegt in einer randomisierten Studie mit 19 Kindern, deren Effekte nach drei Monaten noch bestanden. Die Stichprobe ist klein, das Verfahren aber leicht umzusetzen und gut vereinbar mit einer freundlichen Haltung: Das Kind bekommt ein echtes Recht, statt nur ein Verbot. Für Kinder unter etwa drei Jahren ist der Gutschein-Gedanke meist noch zu abstrakt.",
+          "sources": [3]
+        },
+        {
+          "type": "p",
+          "text": "Praktisch funktioniert es so: Dein Kind bekommt abends eine Karte. Damit darf es einmal aufstehen oder einmal rufen – für einen Schluck Wasser, eine Umarmung, eine letzte Frage. Danach ist die Karte weg. Wer sie bis zum Morgen nicht einlöst, darf sie gegen eine kleine Aufmerksamkeit tauschen, etwa ein zusätzliches Buch am nächsten Abend. Alle weiteren Auftritte werden freundlich und wortkarg beendet: aufheben, zurückbringen, gute Nacht, gehen."
+        },
+        {
+          "type": "p",
+          "text": "Wichtig ist die Wortkargheit. Jedes weitere Gespräch ist aus Sicht deines Kindes ein Erfolg – auch ein ärgerliches. Was hilft, ist Langweiligkeit: dieselbe Reaktion, dieselben drei Worte, jedes Mal."
+        }
+      ]
+    },
+    {
+      "type": "section",
+      "heading": "Nachts wach: der Weg ins Elternbett",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "Irgendwann steht ein Kleinkind nachts neben deinem Bett. Ob du es hineinlässt, ist eine Familienentscheidung und keine medizinische Frage – es gibt keinen belegten Nachteil des Familienbetts für Kleinkinder jenseits des Säuglingsalters. Was es gibt, sind praktische Folgen: Wer nachts einmal aufnimmt, wird meistens wieder aufgenommen, und wer schlecht schläft, wenn ein Fuß im Gesicht liegt, sollte das ernst nehmen."
+        },
+        {
+          "type": "p",
+          "text": "Die häufigste Quelle von Frust ist Uneindeutigkeit. Dreimal zurückbringen und beim vierten Mal aufnehmen ist für dein Kind kein Widerspruch, sondern eine Ermutigung: Es lohnt sich, dranzubleiben. Entscheidet euch – für die eine oder die andere Variante – und macht es dann konstant. Beides ist tragfähig."
+        },
+        {
+          "type": "callout",
+          "variant": "tip",
+          "title": "Zwei Zwischenlösungen, die oft funktionieren",
+          "items": [
+            "Eine Matratze am Boden neben dem Elternbett: Dein Kind darf kommen, aber der Elternschlaf bleibt weitgehend intakt. Viele Familien fahren damit jahrelang gut.",
+            "Die Rückkehrzeit begrenzen statt die Rückkehr: Nach einer bestimmten Uhrzeit – etwa fünf Uhr – ist Kuscheln im großen Bett erlaubt, davor wird zurückgebracht. Eine Uhr mit farbigem Signal macht das für Kinder ab etwa drei Jahren begreifbar."
+          ]
+        }
+      ]
+    },
+    {
+      "type": "section",
+      "heading": "Nachtschreck, Albtraum, Schlafwandeln",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "Wenige Dinge erschrecken Eltern so sehr wie ein Kind, das ein bis drei Stunden nach dem Einschlafen mit weit offenen Augen aufrecht im Bett sitzt, panisch schreit und auf nichts reagiert. Der Nachtschreck – Pavor nocturnus – ist eine Aufwachstörung aus dem Tiefschlaf: Der Körper ist im Wachmodus, das Bewusstsein nicht. Am nächsten Morgen erinnert sich das Kind an nichts."
+        },
+        {
+          "type": "comparison",
+          "title": "Nachtschreck oder Albtraum?",
+          "columns": [
+            {
+              "title": "Nachtschreck (Pavor nocturnus)",
+              "tone": "neutral",
+              "items": [
+                "Meist in den ersten zwei bis drei Stunden der Nacht",
+                "Das Kind ist nicht ansprechbar und lässt sich nicht trösten",
+                "Augen können offen sein, das Kind wirkt wach, ist es aber nicht",
+                "Am Morgen keine Erinnerung",
+                "Häufig zwischen etwa zwei und sechs Jahren, oft familiär gehäuft"
+              ]
+            },
+            {
+              "title": "Albtraum",
+              "tone": "neutral",
+              "items": [
+                "Meist in der zweiten Nachthälfte, aus dem Traumschlaf",
+                "Das Kind wacht richtig auf und sucht Trost",
+                "Es lässt sich beruhigen und schläft danach wieder ein",
+                "Kann den Traum oft erzählen und erinnert sich am Morgen",
+                "Nimmt mit wachsender Vorstellungskraft ab dem dritten Jahr zu"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "callout",
+          "variant": "tip",
+          "title": "Was beim Nachtschreck zu tun ist",
+          "text": "Fast nichts. Wecke dein Kind nicht – das verlängert die Episode und verwirrt es zusätzlich. Sorge dafür, dass es sich nicht verletzt, sprich ruhig, bleib in der Nähe und warte. Nach wenigen Minuten legt sich dein Kind meist von selbst hin und schläft weiter. Vorbeugend hilft, was banal klingt und tatsächlich der wichtigste Faktor ist: ausreichend Schlaf und regelmäßige Zeiten. Nachtschreck tritt gehäuft nach zu kurzen Nächten, bei Fieber und in unruhigen Phasen auf."
+        },
+        {
+          "type": "figure",
+          "kind": "bar",
+          "title": "Schlafwandeln im Kindesalter nach elterlicher Vorgeschichte",
+          "alt": "Balkendiagramm mit drei Balken: 22,5 Prozent ohne elterliche Vorgeschichte, 47,4 Prozent bei einem betroffenen Elternteil, 61,5 Prozent bei beiden Elternteilen.",
+          "data": [
+            { "label": "Kein Elternteil war Schlafwandler", "value": 22.5, "display": "22,5 %" },
+            { "label": "Ein Elternteil war Schlafwandler", "value": 47.4, "display": "47,4 %" },
+            { "label": "Beide Elternteile waren Schlafwandler", "value": 61.5, "display": "61,5 %" }
+          ],
+          "caption": "Häufigkeit von Schlafwandeln im Kindesalter in einer kanadischen Längsschnittstudie mit 1.940 Kindern (Petit et al., JAMA Pediatrics 2015). Nachtschreck und Schlafwandeln gelten als zwei Ausprägungen desselben Mechanismus – das erklärt, warum sie familiär gehäuft auftreten und warum ein Drittel der Kinder mit frühem Nachtschreck später schlafwandelt. Wenn du selbst als Kind geschlafwandelt bist, ist das bei deinem Kind erwartbar und kein Warnzeichen.",
+          "sources": [2]
+        },
+        {
+          "type": "p",
+          "text": "Für Schlafwandeln gilt praktisch dasselbe wie für den Nachtschreck: nicht wecken, sanft zurückführen, und vor allem die Wohnung sichern. Treppen, Haustür, Fenster und Balkontür sind die relevanten Punkte – ein schlafwandelndes Kind wirkt zielgerichtet und ist es nicht."
+        }
+      ]
+    },
+    {
+      "type": "section",
+      "heading": "Der Umzug ins große Bett",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "Für den richtigen Zeitpunkt gibt es keine belastbaren Studien, sondern ein klares Sicherheitskriterium: Sobald dein Kind versucht, aus dem Gitterbett zu klettern, ist das Gitterbett gefährlicher als ein niedriges Bett. Bis dahin spricht wenig für einen frühen Wechsel – ein Kind, das nachts nicht raus kann, taucht auch nicht nachts neben dir auf."
+        },
+        {
+          "type": "p",
+          "text": "Wenn es so weit ist, hilft Kontinuität: dieselbe Bettwäsche, dasselbe Kuscheltier, dasselbe Ritual, möglichst derselbe Platz im Zimmer. Ein Umzug ins große Bett, gleichzeitig mit Kita-Start, Geschwisterkind oder Windelabschied, wird selten ein guter Abend. Wenn ein Geschwisterkind ansteht, plane den Wechsel deutlich vorher oder deutlich nachher, damit er nicht als Verdrängung erlebt wird."
+        }
+      ]
+    },
+    {
+      "type": "section",
+      "heading": "Häufige Fragen",
+      "blocks": [
+        {
+          "type": "faq",
+          "items": [
+            {
+              "q": "Mein Kind hat immer gut geschlafen und wacht jetzt mit 18 Monaten wieder jede Nacht auf. Was ist passiert?",
+              "a": "In dieser Phase kommt viel zusammen: ein Schub in Sprache und Motorik, neue Trennungsangst, oft die Umstellung von zwei Tagschläfchen auf eines und häufig der Kita-Start. Solche Phasen dauern typischerweise Wochen, nicht Monate. Bleib bei dem, was ihr vorher hattet, statt neue Gewohnheiten einzuführen – die bleiben sonst, wenn die Phase vorbei ist."
+            },
+            {
+              "q": "Darf ich abends aus dem Zimmer gehen, bevor mein Kind schläft?",
+              "a": "Ja, wenn ihr das wollt – und ihr müsst es nicht. Beides ist vertretbar. Wenn du es ändern möchtest, geht das schrittweise, ohne Bruch. Die Methoden und die Studienlage dazu findest du im Artikel zur Einschlafbegleitung."
+            },
+            {
+              "q": "Mein Kind will das Licht anlassen. Ist das schlecht für den Schlaf?",
+              "a": "Ein gedämpftes, warmes Nachtlicht ist unproblematisch und nimmt vielen Kindern die Angst. Was stört, ist helles, kaltes Licht – auch das von Bildschirmen in der Stunde vor dem Zubettgehen. Wenn die Angst über Wochen zunimmt oder tagsüber weiterwirkt, lohnt sich ein Blick auf das Thema Ängste insgesamt."
+            },
+            {
+              "q": "Wir hatten drei Nachtschreck-Episoden in einer Woche. Muss ich zum Arzt?",
+              "a": "In der Regel nicht. Häufungen treten nach kurzen Nächten, bei Infekten und in unruhigen Zeiten auf. Ärztlich abklären lassen solltest du, wenn die Episoden mehrmals pro Nacht auftreten, mit immer gleichen ruckartigen Bewegungen einhergehen, wenn dein Kind sich dabei verletzt oder wenn zusätzlich Schnarchen mit Atempausen besteht."
+            },
+            {
+              "q": "Mein Kind kommt jede Nacht zu uns. Verwöhnen wir es?",
+              "a": "Nein. Nähe zu suchen, wenn man nachts aufwacht, ist im Kleinkindalter erwartbares Verhalten und kein Erziehungsfehler. Die einzige relevante Frage ist, ob die aktuelle Lösung für alle in der Familie funktioniert. Wenn nicht, ändert etwas – aber aus Erschöpfung, nicht aus schlechtem Gewissen."
+            },
+            {
+              "q": "Wir haben abends kaum Zeit für ein langes Ritual. Reicht auch eine Kurzversion?",
+              "a": "Ja. Wirksam ist die Wiederholbarkeit, nicht die Länge. Zehn Minuten, die jeden Abend gleich ablaufen, sind besser als dreißig, die mal so und mal anders aussehen. An Tagen mit wenig Zeit hilft es, dieselben Bausteine zu behalten und jeden zu verkürzen, statt einzelne wegzulassen."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "callout",
+      "variant": "info",
+      "title": "Kurz gesagt",
+      "text": "Im Kleinkindalter ist Schlaf weniger eine Reifungsfrage als eine Frage von Rahmen und Verlässlichkeit. Ein kurzes, immer gleiches Abendritual, eine Bettzeit, die zum tatsächlichen Schlafdruck passt, und eine Regel für nächtliche Besuche, die ihr wirklich durchhaltet, decken den größten Teil ab. Nachtschreck sieht dramatisch aus und braucht nur Sicherheit und Geduld. Und alles, was mit Atmung im Schlaf zu tun hat, gehört in die kinderärztliche Sprechstunde."
+    }
+  ],
+  "sources": [
+    {
+      "title": "S1-Leitlinie Nichtorganische Schlafstörungen (F51), Registernummer 028-012",
+      "publisher": "AWMF / Deutsche Gesellschaft für Kinder- und Jugendpsychiatrie, Psychosomatik und Psychotherapie",
+      "year": "2022",
+      "kind": "Leitlinie",
+      "url": "https://register.awmf.org/de/leitlinien/detail/028-012"
+    },
+    {
+      "title": "Benefits of a bedtime routine in young children: Sleep, development, and beyond",
+      "publisher": "Sleep Medicine Reviews (Mindell, Williamson)",
+      "year": "2018",
+      "kind": "Übersichtsarbeit",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/29195725/"
+    },
+    {
+      "title": "Childhood Sleepwalking and Sleep Terrors: A Longitudinal Study of Prevalence and Familial Aggregation",
+      "publisher": "JAMA Pediatrics (Petit et al.)",
+      "year": "2015",
+      "kind": "Studie",
+      "url": "https://jamanetwork.com/journals/jamapediatrics/fullarticle/2281574"
+    },
+    {
+      "title": "Brief report: Evaluating the Bedtime Pass Program for child resistance to bedtime – a randomized, controlled trial",
+      "publisher": "Journal of Pediatric Psychology (Moore, Friman, Fruzzetti, MacAleese)",
+      "year": "2007",
+      "kind": "Studie",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/16899650/"
+    },
+    {
+      "title": "Albträume, Nachtschreck und Schlafwandeln",
+      "publisher": "Bundeszentrale für gesundheitliche Aufklärung (BZgA), kindergesundheit-info.de",
+      "year": "2024",
+      "kind": "Institutionelle Information",
+      "url": "https://www.kindergesundheit-info.de/themen/schlafen/schlafprobleme/albtraeume-schlafwandeln/"
+    },
+    {
+      "title": "Behavioral treatment of bedtime problems and night wakings in infants and young children – An American Academy of Sleep Medicine review",
+      "publisher": "Sleep (Mindell, Kuhn, Lewin, Meltzer, Sadeh)",
+      "year": "2006",
+      "kind": "Übersichtsarbeit",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/17068979/"
+    },
+    {
+      "title": "Guidelines on physical activity, sedentary behaviour and sleep for children under 5 years of age",
+      "publisher": "World Health Organization",
+      "year": "2019",
+      "kind": "Leitlinie",
+      "url": "https://www.who.int/publications/i/item/9789241550536"
+    }
+  ],
+  "related": ["mittagsschlaf", "einschlafbegleitung", "schlaf-3-6", "rituale-und-struktur"]
+}

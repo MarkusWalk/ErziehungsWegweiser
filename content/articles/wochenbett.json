@@ -1,0 +1,283 @@
+{
+  "slug": "wochenbett",
+  "title": "Wochenbett: die ersten Wochen zu dritt",
+  "subtitle": "Was der Körper nach der Geburt tatsächlich leistet, warum die Stimmung Achterbahn fährt und wie ihr die ersten sechs bis acht Wochen so einrichtet, dass sie erträglich bleiben.",
+  "phases": ["neugeborenes"],
+  "topics": ["eltern", "gesundheit"],
+  "updated": "2026-08-05",
+  "summary": "Das Wochenbett dauert sechs bis acht Wochen. In dieser Zeit bildet sich die Gebärmutter von rund einem Kilogramm auf 50 bis 70 Gramm zurück, eine handtellergroße Wunde in der Gebärmutter heilt, der Hormonspiegel stürzt ab, und nebenbei soll eine neue Beziehung zu einem Menschen entstehen, den ihr noch nicht kennt. Rund die Hälfte aller Frauen erlebt in den ersten Tagen ein Stimmungstief, das von selbst wieder vergeht. Was länger als zwei Wochen anhält, ist etwas anderes und gehört behandelt. Die Nachsorgehebamme ist in dieser Zeit die wichtigste Ansprechpartnerin – der Anspruch darauf ist gesetzlich verankert.",
+  "keyFacts": [
+    "Das Wochenbett dauert sechs bis acht Wochen – so lange braucht die körperliche Rückbildung mindestens.",
+    "Der Wochenfluss ist zuerst blutig, wird nach der zweiten Woche bräunlich, dann gelblich und endet nach etwa sechs Wochen.",
+    "Rund die Hälfte der Frauen erlebt am zweiten bis fünften Tag ein Stimmungstief – der Babyblues geht von selbst vorbei.",
+    "Hält die Niedergeschlagenheit länger als zwei Wochen an, kann eine postpartale Depression dahinterstecken. Sie ist gut behandelbar.",
+    "Die Nachsorge durch eine Hebamme ist Kassenleistung – in den ersten zehn Tagen sind bis zu zwei Besuche pro Tag möglich."
+  ],
+  "blocks": [
+    {
+      "type": "p",
+      "lead": true,
+      "text": "Das Wochenbett hat seinen Namen von etwas, das heute kaum noch jemand macht: im Bett bleiben. Der Name ist trotzdem richtig geblieben, denn die Anforderung ist dieselbe. In den sechs bis acht Wochen nach der Geburt heilt eine handtellergroße Wunde in der Gebärmutter, ein Organ schrumpft von rund einem Kilogramm auf die Größe einer Faust, der Beckenboden sortiert sich neu, die Hormone fallen steiler als je zuvor im Leben – und gleichzeitig lernt ihr einen Menschen kennen, der alle zwei bis drei Stunden etwas von euch will. Das ist keine Erholungsphase. Das ist Arbeit."
+    },
+    {
+      "type": "callout",
+      "variant": "danger",
+      "title": "Wann ihr sofort anrufen solltet",
+      "items": [
+        "Fieber über 38 Grad, Schüttelfrost oder ein deutliches Krankheitsgefühl",
+        "Blutung, die stärker wird, oder mehr als eine Binde pro Stunde über mehrere Stunden",
+        "Übel riechender Wochenfluss oder ein plötzlicher Stopp des Wochenflusses mit Schmerzen",
+        "Einseitig geschwollenes, gerötetes oder schmerzendes Bein, Atemnot, Brustschmerz",
+        "Starke Kopfschmerzen, Sehstörungen, Oberbauchschmerz oder plötzliche Schwellungen – auch noch Wochen nach der Geburt möglich",
+        "Gedanken, dir selbst oder dem Kind etwas anzutun, oder das Gefühl, die Kontrolle zu verlieren"
+      ],
+      "text": "Ansprechpartner sind die Hebamme, die gynäkologische Praxis oder – außerhalb der Sprechzeiten – die Klinik, in der ihr entbunden habt. Bei Atemnot, Brustschmerz oder akuter Krise: 112. Bei psychischer Not rund um die Uhr die Telefonseelsorge unter 0800 111 0 111 oder 0800 111 0 222."
+    },
+    {
+      "type": "section",
+      "heading": "Was der Körper in diesen Wochen tut",
+      "blocks": [
+        {
+          "type": "evidence",
+          "level": "stark",
+          "claim": "Unmittelbar nach der Geburt wiegt die Gebärmutter etwa 1.000 Gramm. Sechs bis acht Wochen später sind es noch 50 bis 70 Gramm.",
+          "note": "Diese Rückbildung ist der Grund für die Nachwehen – ein krampfartiges Ziehen, das beim Stillen stärker wird, weil das ausgeschüttete Oxytocin die Gebärmutter zusammenzieht. Beim ersten Kind sind sie oft kaum spürbar, beim zweiten und dritten deutlich unangenehmer. Das ist ein gutes Zeichen, auch wenn es sich nicht so anfühlt.",
+          "sources": [1]
+        },
+        {
+          "type": "timeline",
+          "title": "Der Wochenfluss im Verlauf",
+          "entries": [
+            { "age": "Tag 1–4", "label": "Blutig und stark", "text": "Die Wundfläche, an der die Plazenta saß, blutet. In den ersten Tagen ist die Blutung oft stärker als eine kräftige Regelblutung. Beim Aufstehen kommt typischerweise ein Schwall – das ist normal, nicht bedrohlich." },
+            { "age": "ab Woche 2", "label": "Bräunlich", "text": "Die Menge nimmt ab, die Farbe wird bräunlich. Das ist der sichtbare Beleg dafür, dass die Wunde heilt." },
+            { "age": "Woche 3–4", "label": "Gelblich bis weißlich", "text": "Der Wochenfluss wird heller und weniger. Tampons und Menstruationstassen bleiben in dieser ganzen Zeit tabu, weil sie den Abfluss behindern und das Infektionsrisiko erhöhen." },
+            { "age": "etwa Woche 6", "label": "Ende", "text": "In der Regel versiegt der Wochenfluss nach etwa sechs Wochen ganz. Kürzer oder etwas länger kommt vor; ein plötzlicher Stopp mit Schmerzen oder Fieber gehört abgeklärt." }
+          ],
+          "caption": "Verlauf nach den Elterninformationen der Bundeszentrale für gesundheitliche Aufklärung auf familienplanung.de.",
+          "sources": [0]
+        },
+        {
+          "type": "p",
+          "text": "Dazu kommt, je nach Geburtsverlauf, eine Dammnaht oder eine Kaiserschnittnarbe. Beides tut in den ersten Tagen beim Sitzen, Lachen und Niesen weh und braucht vor allem Luft, Ruhe und lauwarmes Wasser statt Desinfektionsmitteln. Der Beckenboden ist nach jeder Geburt geschwächt – auch nach einem Kaiserschnitt, denn getragen hat er neun Monate lang so oder so. Rückbildungsgymnastik ist Kassenleistung und beginnt üblicherweise sechs bis acht Wochen nach der Geburt; Heben, Springen und Bauchmuskeltraining haben bis dahin nichts verloren. Bis zum Ende des Wochenflusses gilt außerdem: nicht baden, nicht schwimmen, keine Sauna."
+        },
+        {
+          "type": "p",
+          "text": "Dazu kommen die Nebenschauplätze, die kaum jemand ankündigt: nächtliches Schwitzen, weil der Körper die eingelagerte Flüssigkeit loswird. Ein Bauch, der nach der Geburt noch wie im fünften Monat aussieht und Wochen braucht. Hämorrhoiden. Ein Kreislauf, der beim ersten Aufstehen wegkippt. Und ein paar Monate später bei vielen ein deutlicher Haarausfall, wenn die Haare, die während der Schwangerschaft nicht ausgefallen sind, das gleichzeitig nachholen. Nichts davon ist gefährlich, aber es ist gut, vorher davon gehört zu haben – die Überraschung macht solche Dinge doppelt anstrengend."
+        },
+        {
+          "type": "callout",
+          "variant": "tip",
+          "title": "Die unspektakulären Dinge, die wirklich helfen",
+          "items": [
+            "Trinken und ballaststoffreich essen – der erste Stuhlgang ist für viele die gefürchtetste Hürde des Wochenbetts, und Verstopfung macht sie schlimmer.",
+            "Öfter flach hinlegen als sitzen: Liegen entlastet den Beckenboden am meisten.",
+            "Beim Aufstehen aus dem Liegen über die Seite rollen statt gerade hochzukommen – gilt besonders nach Kaiserschnitt.",
+            "Alles, was du in den ersten zwei Wochen brauchst, in Griffnähe des Bettes und der Wickelstelle deponieren.",
+            "Wärmflasche gegen Nachwehen, Kühlung gegen die Dammnaht."
+          ]
+        }
+      ]
+    },
+    {
+      "type": "section",
+      "heading": "Die Hormone und die Stimmung",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "Innerhalb weniger Tage nach der Geburt fallen Östrogen und Progesteron auf einen Bruchteil ihres Schwangerschaftsniveaus. Gleichzeitig steigt Prolaktin, der Schlaf ist zerstückelt, und wenn die Milchbildung einsetzt, kommt eine spannende, manchmal schmerzhafte Brust dazu. Dass die Stimmung darauf reagiert, ist keine Charakterschwäche."
+        },
+        {
+          "type": "evidence",
+          "level": "stark",
+          "claim": "Rund die Hälfte aller Frauen zeigt am zweiten oder dritten Tag nach der Geburt Anzeichen eines Stimmungstiefs; andere Erhebungen kommen auf etwa drei Viertel. Der Babyblues entwickelt sich meist drei bis fünf Tage nach der Entbindung und dauert nur Stunden bis wenige Tage.",
+          "note": "Typisch ist der abrupte Wechsel: Glücksgefühl und Weinen liegen Minuten auseinander, oft ohne erkennbaren Anlass. Der Babyblues ist keine Erkrankung und wird nicht behandelt – er braucht Schlaf, Essen und jemanden, der zuhört, ohne das Gefühl wegzureden.",
+          "sources": [2]
+        },
+        {
+          "type": "evidence",
+          "level": "stark",
+          "claim": "Zwischen 10 und 15 Prozent der Mütter entwickeln eine postpartale Depression. Sie unterscheidet sich vom Babyblues vor allem durch Dauer und Schwere und ist gut behandelbar.",
+          "note": "Alarmzeichen sind: Die Niedergeschlagenheit hält länger als zwei Wochen an, Freude ist nicht mehr erreichbar, das Kind fühlt sich fremd an, dazu Schlafstörungen auch dann, wenn das Kind schläft, starke Ängste oder Schuldgefühle. Ein systematisches Screening gibt es in Deutschland bisher nicht – das heißt, ihr müsst es meist selbst ansprechen. Der Edinburgh-Postnatal-Depressions-Fragebogen mit zehn Fragen ist frei verfügbar und ein guter Anlass, mit der Hebamme oder der Hausarztpraxis ins Gespräch zu kommen.",
+          "sources": [3, 4]
+        },
+        {
+          "type": "p",
+          "text": "Die zweite große Stimmungsfalle ist nicht hormonell, sondern strukturell: Schlafmangel. Wer über Wochen keine zusammenhängenden vier Stunden schläft, wird reizbarer, ängstlicher und pessimistischer – das ist gut untersucht und passiert jedem Menschen. Wenn ihr also merkt, dass alles hoffnungslos wirkt, lohnt es sich, zuerst die banalste Frage zu stellen: Wann hat diese Person zuletzt vier Stunden am Stück geschlafen? Eine geschützte Schlafphase am Tag, in der jemand anderes das Kind übernimmt, verändert die Lage oft mehr als jedes Gespräch."
+        },
+        {
+          "type": "callout",
+          "variant": "myth",
+          "title": "„Das sind nur die Hormone“",
+          "text": "Der Satz ist einerseits richtig und andererseits gefährlich. Richtig ist, dass die Hormonumstellung eine reale körperliche Ursache für Stimmungsschwankungen ist. Gefährlich wird der Satz, wenn er dazu führt, dass eine anhaltende Depression abgetan wird, bis sie sich verfestigt hat. Faustregel: Was nach zwei Wochen nicht besser geworden ist, ist kein Babyblues mehr."
+        }
+      ]
+    },
+    {
+      "type": "section",
+      "heading": "Hebammenbetreuung: was euch zusteht",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "Die Nachsorgehebamme ist in dieser Zeit die wichtigste Ansprechpartnerin – auch weil sie ins Haus kommt und dabei mehr sieht als jede Praxis. Sie kontrolliert die Rückbildung der Gebärmutter, den Wochenfluss und die Heilung von Dammnaht oder Narbe, wiegt das Kind, schaut sich den Nabel und die Gelbfärbung an, hilft beim Stillen und beim Anlegen und bemerkt oft als Erste, wenn es einer Mutter psychisch schlecht geht."
+        },
+        {
+          "type": "list",
+          "ordered": false,
+          "items": [
+            { "title": "Erste bis zehnte Tag:", "text": "Bis zu zwei Hausbesuche täglich sind möglich." },
+            { "title": "Ab dem zwölften Tag bis zur zwölften Woche:", "text": "Insgesamt bis zu 16 weitere Besuche." },
+            { "title": "Danach:", "text": "Acht weitere Kontakte oder telefonische Beratungen, bei Stillproblemen auch länger." },
+            { "title": "Kosten:", "text": "Die Nachsorge ist Leistung der gesetzlichen Krankenkassen – ihr zahlt nichts dazu." }
+          ]
+        },
+        {
+          "type": "callout",
+          "variant": "warn",
+          "title": "Früh kümmern",
+          "text": "In vielen Regionen sind Hebammen für die Nachsorge Monate im Voraus ausgebucht. Die Suche beginnt sinnvollerweise im ersten Schwangerschaftsdrittel. Wenn ihr keine findet: Hebammenzentralen und Hebammenverbände der Länder vermitteln, viele Kliniken haben Nachsorgeangebote, und die Frühen Hilfen in eurer Kommune können ebenfalls weiterhelfen."
+        },
+        {
+          "type": "p",
+          "text": "Ehrlich gesagt gehört an diese Stelle noch ein Hinweis: Für die Betreuung im Wochenbett gibt es in Deutschland bis heute keine fertige medizinische Leitlinie. Eine S3-Leitlinie „Die Betreuung von Mutter und Kind im Wochenbett“ wird derzeit erst entwickelt und aus dem Innovationsfonds finanziert. Vieles von dem, was im Wochenbett empfohlen wird, beruht daher auf Erfahrungswissen und Fachkonsens und nicht auf großen Studien – das erklärt auch, warum Empfehlungen von Klinik zu Klinik und von Hebamme zu Hebamme abweichen können."
+        }
+      ]
+    },
+    {
+      "type": "section",
+      "heading": "Besuch, Erwartungen und die ersten Wochen zu dritt",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "Der häufigste vermeidbare Stressfaktor im Wochenbett heißt Besuch. Alle wollen das Kind sehen, und zwar sofort. Das ist gut gemeint und trotzdem anstrengend, weil Gastgeberin sein Arbeit ist: aufräumen, anziehen, Kaffee kochen, freundlich sein, sich nicht hinlegen. Es hilft, das vor der Geburt zu klären und nicht im Moment der Erschöpfung."
+        },
+        {
+          "type": "comparison",
+          "title": "Besuch, der guttut – und Besuch, der kostet",
+          "columns": [
+            {
+              "title": "Entlastet",
+              "tone": "good",
+              "items": [
+                "Kommt mit Essen, bleibt eine Stunde, räumt die Spülmaschine aus",
+                "Fragt vorher, ob es heute passt, und akzeptiert ein Nein",
+                "Kümmert sich um Geschwisterkinder oder geht mit dem Hund raus",
+                "Hält das Kind, während ihr duscht oder schlaft"
+              ]
+            },
+            {
+              "title": "Kostet Kraft",
+              "tone": "bad",
+              "items": [
+                "Kündigt sich kurzfristig an oder steht unangekündigt vor der Tür",
+                "Bleibt einen halben Tag und erwartet Bewirtung",
+                "Kommentiert Stillen, Gewicht, Schlaf oder eure Entscheidungen",
+                "Kommt mit Erkältung oder küsst das Kind ins Gesicht"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "p",
+          "text": "Für den zweiten Elternteil ist das Wochenbett die Phase, in der sich am meisten entscheidet. Wer in diesen Wochen die Organisation des Haushalts, die Kommunikation nach außen und die Nächte teilweise übernimmt, baut nicht nur die Mutter auf, sondern auch die eigene Beziehung zum Kind. Untersuchungen zur Aufgabenteilung zeigen, dass sich Muster aus den ersten Monaten überraschend hartnäckig halten – wer hier früh einsteigt, verhandelt später weniger."
+        },
+        {
+          "type": "p",
+          "text": "Und noch ein Satz zu den Erwartungen: Das Wochenbett fühlt sich für viele nicht nach Glück an, sondern nach Ausnahmezustand mit sehr schönen Momenten dazwischen. Beides gleichzeitig zu empfinden, ist der Normalfall und nicht das Zeichen dafür, dass etwas mit euch nicht stimmt."
+        }
+      ]
+    },
+    {
+      "type": "section",
+      "heading": "Häufige Fragen",
+      "blocks": [
+        {
+          "type": "faq",
+          "items": [
+            {
+              "q": "Wie lange muss ich wirklich liegen?",
+              "a": "Strenge Bettruhe wird heute nicht mehr empfohlen – frühes Aufstehen senkt unter anderem das Thromboserisiko. Was gemeint ist, ist etwas anderes: möglichst wenig Haushalt, kein Tragen schwerer Lasten, keine langen Wege und viele kurze Liegephasen über den Tag verteilt. Die ersten sieben bis zehn Tage möglichst in der Wohnung, danach in kleinen Schritten mehr."
+            },
+            {
+              "q": "Mein Wochenfluss hat plötzlich aufgehört. Ist das schlimm?",
+              "a": "Es kann ein Lochialstau sein, bei dem der Abfluss behindert ist. Warnzeichen sind Schmerzen im Unterbauch, Druckgefühl, Fieber oder ein deutlich veränderter Geruch. Ruf die Hebamme oder die gynäkologische Praxis an – meist hilft Bauchlage, Bewegung und Wärme, manchmal braucht es mehr."
+            },
+            {
+              "q": "Wann bekomme ich wieder meine Periode, und muss ich verhüten?",
+              "a": "Sehr unterschiedlich: Wer nicht stillt, kann nach sechs bis acht Wochen wieder bluten, beim ausschließlichen Stillen dauert es oft Monate. Verhüten solltet ihr trotzdem, denn der erste Eisprung kommt vor der ersten Blutung. Was in Stillzeit geeignet ist, klärt ihr am besten bei der Nachuntersuchung."
+            },
+            {
+              "q": "Ich habe einen Kaiserschnitt hinter mir – gilt das alles auch für mich?",
+              "a": "Ja, und zwar mit mehr Schonung, nicht mit weniger. Auch nach einem Kaiserschnitt gibt es Wochenfluss und Nachwehen, dazu kommt eine Bauchwunde. Heben, Bücken und Autofahren sind in den ersten Wochen eingeschränkt, und die Narbe braucht Monate, bis sie belastbar ist. Rückbildung ist ebenso wichtig, startet aber meist etwas später."
+            },
+            {
+              "q": "Ich empfinde nichts für mein Kind. Bin ich eine schlechte Mutter?",
+              "a": "Nein. Der viel beschworene Blitzschlag bei der Geburt ist eine von mehreren Varianten, nicht die Regel. Bindung entsteht bei vielen Eltern über Wochen, durch Vertrautheit und tausend kleine Interaktionen. Wenn das Gefühl von Fremdheit aber mit anhaltender Niedergeschlagenheit, Ängsten oder Schuldgefühlen einhergeht, sprich es an – das ist ein Hinweis auf eine postpartale Depression und kein Charakterproblem."
+            },
+            {
+              "q": "Wer hilft, wenn wir keine Hebamme haben und niemanden in der Nähe?",
+              "a": "Die Frühen Hilfen. Über elternsein.info findet ihr per Postleitzahl die Anlaufstellen in eurer Nähe: Familienhebammen, Gesundheits- und Kinderkrankenpflegerinnen, ehrenamtliche Besuchsdienste und Beratung – kostenlos und für alle Familien mit Kindern bis drei Jahre, nicht nur für Krisenfälle."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "callout",
+      "variant": "info",
+      "title": "Kurz gesagt",
+      "text": "Sechs bis acht Wochen, in denen der Körper eine große Wunde heilt und der Kopf ein neues Leben sortiert. Weniger Besuch, mehr Liegen, eine Hebamme, die regelmäßig kommt, und jemand, der den Haushalt übernimmt – das ist der ganze Plan. Alles, was länger als zwei Wochen dunkel bleibt, gehört ausgesprochen."
+    }
+  ],
+  "sources": [
+    {
+      "title": "Wochenfluss – Das Wochenbett von A bis Z",
+      "publisher": "Bundeszentrale für gesundheitliche Aufklärung (BZgA), familienplanung.de",
+      "year": "2024",
+      "kind": "Institutionelle Information",
+      "url": "https://www.familienplanung.de/schwangerschaft/nach-der-geburt/das-wochenbett-von-a-bis-z/die-mutter-im-wochenbett/wochenfluss/"
+    },
+    {
+      "title": "Gebärmutter-Rückbildung",
+      "publisher": "Bundeszentrale für gesundheitliche Aufklärung (BZgA), familienplanung.de",
+      "year": "2024",
+      "kind": "Institutionelle Information",
+      "url": "https://www.familienplanung.de/schwangerschaft/nach-der-geburt/das-wochenbett-von-a-bis-z/die-mutter-im-wochenbett/gebaermutter-rueckbildung/"
+    },
+    {
+      "title": "Baby-Blues",
+      "publisher": "Bundeszentrale für gesundheitliche Aufklärung (BZgA), familienplanung.de",
+      "year": "2024",
+      "kind": "Institutionelle Information",
+      "url": "https://www.familienplanung.de/schwangerschaft/nach-der-geburt/das-wochenbett-von-a-bis-z/die-mutter-im-wochenbett/baby-blues/"
+    },
+    {
+      "title": "Postpartale Depression – wer kümmert sich? Versorgungszugänge über Hebammen, Gynäkologie, Pädiatrie und Allgemeinmedizin",
+      "publisher": "Bundesgesundheitsblatt – Gesundheitsforschung – Gesundheitsschutz",
+      "year": "2022",
+      "kind": "Übersichtsarbeit",
+      "url": "https://link.springer.com/article/10.1007/s00103-022-03545-8"
+    },
+    {
+      "title": "Postpartale Depression: Vom Tief nach der Geburt",
+      "publisher": "Deutsches Ärzteblatt",
+      "year": "2023",
+      "kind": "Übersichtsarbeit",
+      "url": "https://www.aerzteblatt.de/archiv/postpartale-depression-vom-tief-nach-der-geburt-9dc203eb-14d8-4fbf-bd2a-85a0ea95d1fb"
+    },
+    {
+      "title": "Die Nachsorge-Hebamme",
+      "publisher": "Bundeszentrale für gesundheitliche Aufklärung (BZgA), familienplanung.de",
+      "year": "2024",
+      "kind": "Institutionelle Information",
+      "url": "https://www.familienplanung.de/schwangerschaft/nach-der-geburt/das-wochenbett/hebammen-nachsorge/"
+    },
+    {
+      "title": "S3-Leitlinie „Die Betreuung von Mutter und Kind im Wochenbett“ (in Entwicklung, AWMF-Register Nr. 180-002)",
+      "publisher": "AWMF / gefördert durch den Innovationsfonds des Gemeinsamen Bundesausschusses",
+      "year": "2023",
+      "kind": "Leitlinie",
+      "url": "https://register.awmf.org/de/leitlinien/detail/180-002"
+    }
+  ],
+  "related": ["die-ersten-tage", "postpartale-depression", "partnerschaft-nach-der-geburt", "stillen-start"]
+}

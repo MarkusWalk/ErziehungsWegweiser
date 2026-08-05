@@ -1,0 +1,295 @@
+{
+  "slug": "wutanfaelle-begleiten",
+  "title": "Wutanfälle begleiten",
+  "subtitle": "Was in den Minuten eines Ausbruchs tatsächlich passiert, was ihn verkürzt, was ihn verlängert – und wie du im Supermarkt überstehst, was dort ohnehin niemanden etwas angeht.",
+  "phases": ["kleinkind", "kindergarten"],
+  "topics": ["emotionen"],
+  "updated": "2026-08-05",
+  "summary": "Ein Wutanfall ist kürzer, als er sich anfühlt: Die meisten dauern unter fünf Minuten. Er hat einen typischen Verlauf – erst Wut, dann Kummer – und braucht in der heißen Phase keine Erklärungen, sondern Sicherheit und wenig Worte. Wutanfälle sind im Kleinkindalter der Normalfall, nicht das Symptom. Auffällig werden sie erst durch Häufigkeit, Dauer und die Frage, ob sich dein Kind danach beruhigen lässt.",
+  "keyFacts": [
+    "Rund drei Viertel aller Wutanfälle dauern fünf Minuten oder kürzer.",
+    "Der Ablauf ist typisch: Wut steigt schnell und fällt, Kummer kommt danach.",
+    "Fast alle Vorschulkinder haben manchmal Wutanfälle, nur eine kleine Minderheit täglich.",
+    "In der heißen Phase helfen Sicherheit und Schweigen mehr als Argumente.",
+    "Anschreien ist keine harmlose Alternative zum Klaps – auch verbale Härte hat messbare Folgen."
+  ],
+  "blocks": [
+    {
+      "type": "p",
+      "lead": true,
+      "text": "Dein Kind liegt auf dem Boden eines Drogeriemarkts, schreit so laut, dass zwei Leute stehen bleiben, und du hast keine Ahnung, was genau der Auslöser war – vielleicht die falsche Farbe einer Zahnbürste. In diesem Moment fühlt sich alles nach Kontrollverlust an, deinem wie seinem. Es hilft, zu wissen, dass dieser Ausbruch eine Struktur hat, ein Ende, und dass du das meiste davon nicht steuern musst."
+    },
+    {
+      "type": "callout",
+      "variant": "warn",
+      "title": "Wann ein Ausbruch mehr als ein Wutanfall ist",
+      "items": [
+        "Wutanfälle treten täglich auf und bleiben über Monate so häufig",
+        "Ein einzelner Ausbruch dauert regelmäßig deutlich länger als 20 bis 25 Minuten",
+        "Dein Kind verletzt sich dabei selbst oder verletzt andere ernsthaft",
+        "Die Ausbrüche kommen ohne erkennbaren Anlass, aus dem Schlaf oder aus dem Nichts",
+        "Dein Kind lässt sich danach über lange Zeit nicht beruhigen und wirkt auch dazwischen selten fröhlich",
+        "Dein Kind ist schon deutlich über fünf Jahre alt und die Ausbrüche nehmen eher zu"
+      ]
+    },
+    {
+      "type": "p",
+      "text": "Trifft einer dieser Punkte zu, sprich das bei der nächsten U-Untersuchung an oder vereinbare einen eigenen Termin in der Kinderarztpraxis. Das ist kein Alarm – es ist der normale Weg, um genauer hinzuschauen. Für alles andere gilt: Wutanfälle sind in diesem Alter kein Problem, das gelöst werden muss, sondern ein Zustand, der begleitet werden will."
+    },
+    {
+      "type": "section",
+      "heading": "Wie häufig ist normal?",
+      "blocks": [
+        {
+          "type": "evidence",
+          "level": "moderat",
+          "claim": "In einer Befragung von rund 1.500 Familien mit Vorschulkindern hatten 83,7 Prozent der Kinder manchmal Wutanfälle, aber nur 8,6 Prozent täglich.",
+          "note": "Die Studie unterschied normative von klinisch bedeutsamen Formen. Der Unterschied lag weniger in der Tatsache eines Ausbruchs als in seiner Vorhersagbarkeit: Auffällige Ausbrüche kamen ohne nachvollziehbaren Anlass, dauerten sehr lange oder waren zerstörerisch. Alltagsübersetzung: Dass es kracht, ist kein Warnzeichen. Dass es aus dem Nichts kracht, kann eines sein.",
+          "sources": [0]
+        },
+        {
+          "type": "p",
+          "text": "Diese Zahlen entlasten. Sie bedeuten, dass die Mehrheit der Familien um dich herum dieselben Szenen erlebt – nur nicht gleichzeitig und selten öffentlich. Und sie bedeuten, dass die Häufigkeit der Anfälle wenig darüber aussagt, wie gut du deine Sache machst."
+        }
+      ]
+    },
+    {
+      "type": "section",
+      "heading": "Der Ablauf: erst Wut, dann Kummer",
+      "blocks": [
+        {
+          "type": "evidence",
+          "level": "moderat",
+          "claim": "Wutanfälle folgen einem typischen zeitlichen Muster: Die Wut ist gleich zu Beginn am stärksten und lässt dann nach, während Weinen und das Bedürfnis nach Trost im Verlauf zunehmen.",
+          "note": "Grundlage sind detaillierte Elternberichte über die Ausbrüche von 335 Kindern zwischen 18 und 60 Monaten, die in 30-Sekunden-Abschnitten ausgewertet wurden. Praktisch heißt das: Der Moment, in dem dein Kind Trost annehmen kann, kommt fast immer – nur später, als du ihn anbietest.",
+          "sources": [1, 2]
+        },
+        {
+          "type": "timeline",
+          "title": "Was in den Minuten passiert",
+          "entries": [
+            {
+              "age": "Sekunde 0–30",
+              "label": "Der Zünder",
+              "text": "Etwas ist anders als erwartet. Die Wut ist sofort auf ihrem Höhepunkt: Schreien, Treten, Werfen, Sich-auf-den-Boden-Werfen. Dein Kind ist jetzt nicht ansprechbar. Nichts, was du sagst, kommt an."
+            },
+            {
+              "age": "Minute 1–3",
+              "label": "Die Wut fällt",
+              "text": "Die heftigen Wutanteile nehmen ab, aber ungleichmäßig. Zwischendurch kann sie noch einmal aufflammen – oft genau dann, wenn du etwas sagst oder anfasst. Halte den Raum sicher und rede wenig."
+            },
+            {
+              "age": "Minute 3–5",
+              "label": "Kummer übernimmt",
+              "text": "Aus Wut wird Weinen. Jetzt sucht dein Kind meist Nähe – manchmal, indem es zu dir kommt, manchmal, indem es lauter weint und wartet. Das ist der Moment für offene Arme, nicht für Erklärungen."
+            },
+            {
+              "age": "Danach",
+              "label": "Erschöpfung",
+              "text": "Viele Kinder sind hinterher müde, anhänglich oder hungrig. Ein kurzes Nachwort reicht: was passiert ist, dass es vorbei ist, dass ihr euch mögt. Der Rest kann warten."
+            }
+          ],
+          "caption": "Zeitlicher Verlauf nach den Untersuchungen von Potegal und Kolleginnen zu Zusammensetzung und Dauer von Wutanfällen. Die Minutenangaben sind Anhaltspunkte, keine Stoppuhr."
+        },
+        {
+          "type": "figure",
+          "kind": "share",
+          "title": "Wie lange ein Wutanfall dauert",
+          "alt": "Anteilsdiagramm: drei Viertel der Wutanfälle dauern höchstens fünf Minuten, ein Viertel länger",
+          "data": [
+            { "label": "höchstens 5 Minuten", "value": 75, "display": "75 %" },
+            { "label": "länger als 5 Minuten", "value": 25, "display": "25 %" }
+          ],
+          "caption": "Aus der Auswertung von Wutanfällen bei 335 Kindern im Alter von 18 bis 60 Monaten: Die häufigste Dauer lag bei einer halben bis einer Minute, drei Viertel der Anfälle waren nach fünf Minuten vorbei.",
+          "sources": [1]
+        }
+      ]
+    },
+    {
+      "type": "section",
+      "heading": "Was in der Situation hilft",
+      "blocks": [
+        {
+          "type": "steps",
+          "title": "Vier Schritte, die fast immer passen",
+          "items": [
+            {
+              "title": "Sicherheit herstellen",
+              "text": "Harte Kanten, Straße, Treppe, andere Kinder. Alles Weitere ist zweitrangig. Wenn nötig, trag dein Kind an einen ruhigeren Ort – ohne Diskussion, ruhig und ohne Griff, der wehtut."
+            },
+            {
+              "title": "Weniger reden",
+              "text": "Ein Satz, ruhig, höchstens zweimal: „Ich bin da.“ Alles darüber hinaus ist Reiz, kein Trost. Kein Zählen, kein Verhandeln, keine Drohungen. Auch keine Fragen – Fragen verlangen eine Antwort, die dein Kind gerade nicht geben kann."
+            },
+            {
+              "title": "Dich selbst herunterfahren",
+              "text": "Atme aus, länger als ein. Lehn dich an etwas. Dein Nervensystem ist das Signal, an dem sich dein Kind orientiert – nicht deine Worte. Wenn du merkst, dass du kippst, und eine zweite erwachsene Person da ist: übergeben ist keine Niederlage."
+            },
+            {
+              "title": "Nähe anbieten, nicht aufzwingen",
+              "text": "Sobald das Weinen den Ton wechselt, geh näher heran und öffne die Arme. Manche Kinder wollen Körperkontakt, andere nur, dass jemand in der Nähe sitzen bleibt. Beides ist Begleitung."
+            }
+          ]
+        },
+        {
+          "type": "callout",
+          "variant": "tip",
+          "title": "Was du nicht schaffen musst",
+          "text": "Du musst den Ausbruch nicht verkürzen, nicht verhindern und nicht erklären. Du musst nur da sein und dabei einigermaßen ruhig bleiben. Wenn dir das an drei von fünf Tagen gelingt, reicht das aus. Es gibt keine Studie, die zeigt, dass perfekte Eltern bessere Ergebnisse erzielen als ausreichend verlässliche."
+        }
+      ]
+    },
+    {
+      "type": "section",
+      "heading": "In der Öffentlichkeit",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "Das eigentliche Problem im Supermarkt ist selten das Kind. Es sind die Blicke – und die Vermutung, dass jetzt jemand bewertet, wie du erziehst. Diese Vermutung stimmt manchmal sogar. Sie ändert trotzdem nichts daran, was richtig ist."
+        },
+        {
+          "type": "list",
+          "ordered": false,
+          "items": [
+            { "title": "Entscheide dich einmal:", "text": "Entweder ihr bleibt und du wartest es ab, oder ihr geht raus. Beides ist in Ordnung. Nur nicht auf halbem Weg umschwenken." },
+            { "title": "Rede nicht für das Publikum:", "text": "Sätze wie „Jetzt reiß dich mal zusammen, alle gucken“ sind an die Umstehenden gerichtet, nicht an dein Kind. Sie verlängern die Szene zuverlässig." },
+            { "title": "Ein Satz für Kommentare:", "text": "„Danke, wir kommen zurecht.“ Freundlich, vollständig, kein Gesprächsangebot." },
+            { "title": "Plan B statt Willenskraft:", "text": "Wenn es immer an derselben Stelle eskaliert, ändere die Situation – kleinerer Einkauf, andere Uhrzeit, Kind vorher essen lassen, jemanden mitnehmen." },
+            { "title": "Nachher nicht bestrafen:", "text": "Das nachgeschobene „Und deshalb gibt es heute keine Geschichte“ verknüpft die Strafe mit einem Gefühl, das dein Kind nicht steuern konnte." }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "section",
+      "heading": "Danach: Grenze halten ist keine Strafe",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "Hier verlaufen zwei Dinge oft durcheinander. Das eine ist das Gefühl: Wut, Enttäuschung, Verzweiflung. Das darf dein Kind haben, in voller Lautstärke, ohne dass es dafür Konsequenzen gibt. Das andere ist das Verhalten und die Sache selbst. Wenn du vor dem Ausbruch gesagt hast, dass es heute keine zweite Waffel gibt, dann gibt es sie auch nach dem Ausbruch nicht – nicht als Bestrafung, sondern weil sich an der Sache nichts geändert hat."
+        },
+        {
+          "type": "comparison",
+          "title": "Zwei Reaktionen, die sich ähnlich anhören",
+          "columns": [
+            {
+              "title": "Grenze halten",
+              "tone": "good",
+              "items": [
+                "Die Entscheidung war schon vorher da",
+                "Sie gilt unabhängig davon, wie laut es wird",
+                "Du bleibst dabei freundlich und zugewandt",
+                "Das Gefühl des Kindes ist erlaubt",
+                "Du erklärst hinterher, nicht mittendrin"
+              ]
+            },
+            {
+              "title": "Strafen",
+              "tone": "bad",
+              "items": [
+                "Die Folge entsteht erst durch den Ausbruch",
+                "Sie soll wehtun oder abschrecken",
+                "Sie wird lauter, je lauter das Kind wird",
+                "Das Gefühl selbst wird zum Vergehen",
+                "Nachher weiß niemand mehr genau, worum es ging"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "evidence",
+          "level": "moderat",
+          "claim": "Auch verbale Härte – anschreien, beschimpfen, demütigen – hängt mit mehr Verhaltensproblemen und mehr depressiven Symptomen zusammen. Elterliche Wärme an anderen Stellen glich diesen Zusammenhang in der Untersuchung nicht aus.",
+          "note": "Längsschnittstudie an 976 Familien über die frühe Jugend. Der Zusammenhang lief in beide Richtungen: Schwieriges Verhalten machte harte Ansprache wahrscheinlicher und umgekehrt. Das ist keine Anklage – fast alle Eltern werden manchmal laut. Es ist ein Argument dafür, Anschreien nicht als harmlose Alternative zu betrachten.",
+          "sources": [3, 4]
+        },
+        {
+          "type": "callout",
+          "variant": "info",
+          "title": "Wenn du selbst laut geworden bist",
+          "text": "Dann geh hin, wenn ihr beide ruhig seid, und sag es: „Ich habe geschrien. Das war zu laut. Das lag nicht an dir.“ Kein langes Zerknirschen, keine Rechtfertigung. Kinder lernen aus solchen Momenten mehr über Beziehungen als aus jeder Situation, die glatt läuft – nämlich, dass Streit reparierbar ist."
+        }
+      ]
+    },
+    {
+      "type": "section",
+      "heading": "Häufige Fragen",
+      "blocks": [
+        {
+          "type": "faq",
+          "items": [
+            {
+              "q": "Soll ich einen Wutanfall ignorieren?",
+              "a": "Ignorieren im Sinne von Weggehen und Wegsehen ist bei kleinen Kindern nicht zu empfehlen. Sinnvoll ist etwas anderes, das oft so genannt wird: dem Ausbruch selbst wenig Aufmerksamkeit zu geben, also nicht zu diskutieren, nicht zu verhandeln und keine große Bühne zu bauen – während du körperlich in der Nähe bleibst. Anwesend und wortkarg, nicht abwesend."
+            },
+            {
+              "q": "Mein Kind schlägt mich, wenn es wütend ist. Was tue ich?",
+              "a": "Halte den Schlag ab und sag klar und kurz, dass das nicht geht. Wenn nötig, geh einen Schritt zurück und bleib in Sichtweite: „Ich lasse mich nicht hauen. Ich bleibe hier.“ Damit schützt du dich und bleibst gleichzeitig da. Nach dem Ausbruch kannst du mit älteren Kleinkindern überlegen, was sie stattdessen tun können – auf ein Kissen hauen, stampfen, laut brummen."
+            },
+            {
+              "q": "Warum bekommt mein Kind die Anfälle fast nur bei mir?",
+              "a": "Weil du der sichere Ort bist. Bei fremden oder weniger vertrauten Personen halten Kinder sich stärker zusammen. Was du erlebst, ist der Preis dafür, dass dein Kind sich bei dir gehen lassen kann. Angenehmer wird es dadurch nicht, aber es ist eine andere Information als „Ich mache etwas falsch“."
+            },
+            {
+              "q": "Hilft eine Auszeit oder der stille Stuhl?",
+              "a": "Die Studienlage dazu ist uneinheitlich und fachlich umstritten. Bei einem Wutanfall im Kleinkindalter spricht wenig dafür: Dein Kind kann sich in diesem Moment nicht allein regulieren, und Alleinsein verstärkt bei vielen Kindern den Kummeranteil. Eine gemeinsame Auszeit – ihr beide geht aus der Situation raus – erfüllt denselben Zweck ohne diesen Nachteil."
+            },
+            {
+              "q": "Kann ich Wutanfälle verhindern?",
+              "a": "Ganz sicher nicht, aber du kannst die Zahl senken, indem du die typischen Auslöser entschärfst: Hunger, Müdigkeit, Reizüberflutung, überraschende Übergänge und Zeitdruck. Wer die Wochenszenen einmal aufschreibt, findet meistens zwei oder drei Situationen, die sich baulich lösen lassen – nicht erzieherisch."
+            },
+            {
+              "q": "Ich halte das nicht mehr aus. Wohin kann ich mich wenden?",
+              "a": "Das Elterntelefon der Nummer gegen Kummer ist anonym und kostenfrei erreichbar unter 0800 111 0 550. Erziehungsberatungsstellen gibt es in jeder Stadt und jedem Landkreis, ebenfalls kostenfrei, ohne Überweisung und auf Wunsch anonym. Für Familien mit Kindern unter drei Jahren vermitteln die Frühen Hilfen zusätzlich Unterstützung bis nach Hause. Sich Hilfe zu holen, ist kein Eingeständnis von Versagen, sondern die Entscheidung, die deinem Kind am meisten nützt."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "title": "Defining the developmental parameters of temper loss in early childhood: implications for developmental psychopathology",
+      "publisher": "Journal of Child Psychology and Psychiatry (Wakschlag et al.)",
+      "year": "2012",
+      "kind": "Studie",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/22928674/"
+    },
+    {
+      "title": "Temper tantrums in young children: 2. Tantrum duration and temporal organization",
+      "publisher": "Journal of Developmental and Behavioral Pediatrics (Potegal, Kosorok & Davidson)",
+      "year": "2003",
+      "kind": "Studie",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/12806226/"
+    },
+    {
+      "title": "Temper tantrums in young children: 1. Behavioral composition",
+      "publisher": "Journal of Developmental and Behavioral Pediatrics (Potegal & Davidson)",
+      "year": "2003",
+      "kind": "Studie",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/12806225/"
+    },
+    {
+      "title": "Longitudinal Links Between Fathers' and Mothers' Harsh Verbal Discipline and Adolescents' Conduct Problems and Depressive Symptoms",
+      "publisher": "Child Development (Wang & Kenny)",
+      "year": "2014",
+      "kind": "Studie",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/24001259/"
+    },
+    {
+      "title": "Jeder Sechste hält „Anschreien“ in der Erziehung für angebracht – Bericht 25 Jahre gewaltfreie Erziehung",
+      "publisher": "UNICEF Deutschland / Universitätsklinikum Ulm, Klinik für Kinder- und Jugendpsychiatrie",
+      "year": "2025",
+      "kind": "Institutionelle Information",
+      "url": "https://www.unicef.de/informieren/aktuelles/presse/-/anschreien-emotionale-gewalt-unangebracht/385198"
+    },
+    {
+      "title": "Kindliche Trotzphase – Elterninformation",
+      "publisher": "Bundeszentrale für gesundheitliche Aufklärung (BZgA), kindergesundheit-info.de",
+      "year": "2024",
+      "kind": "Institutionelle Information",
+      "url": "https://www.kindergesundheit-info.de/themen/entwicklung/alltagstipps/entwicklungsschritte/trotzverhalten/"
+    }
+  ],
+  "related": ["autonomiephase", "co-regulation", "emotionen-benennen", "beissen-hauen-werfen"]
+}

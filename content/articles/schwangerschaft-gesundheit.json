@@ -1,0 +1,302 @@
+{
+  "slug": "schwangerschaft-gesundheit",
+  "title": "Gesund durch die Schwangerschaft",
+  "subtitle": "Was tatsächlich einen Unterschied macht – Folsäure und Jod, ein paar gemiedene Lebensmittel, Bewegung, Rauch- und Alkoholverzicht und die Vorsorgetermine. Und was du getrost ignorieren kannst.",
+  "phases": ["schwangerschaft"],
+  "topics": ["gesundheit", "ernaehrung"],
+  "updated": "2026-08-05",
+  "summary": "Die Liste dessen, was in der Schwangerschaft nachweislich hilft, ist erstaunlich kurz: Folsäure und Jod ergänzen, rohe tierische Lebensmittel meiden, kein Alkohol, kein Nikotin, moderat in Bewegung bleiben und die Vorsorgetermine wahrnehmen. Fast alles andere, was Ratgeber und Werbung anbieten, ist entweder Beiwerk oder unbelegt. Dieser Artikel sortiert, worauf es ankommt – und wo du dir Sorgen sparen kannst.",
+  "keyFacts": [
+    "Folsäure ist die am besten belegte Nahrungsergänzung – idealerweise schon vor der Schwangerschaft.",
+    "Jod wird zusätzlich empfohlen, weil Deutschland ein Jodmangelgebiet ist.",
+    "Rohes Fleisch, roher Fisch, Rohmilchkäse und vorgeschnittene Salate bleiben besser weg.",
+    "Für Alkohol gibt es keine bekannte unbedenkliche Menge.",
+    "Rund 150 Minuten moderate Bewegung pro Woche sind empfohlen – nicht Schonung.",
+    "Die Schwangerenvorsorge kann eine Hebamme oder eine Ärztin übernehmen, du darfst wählen."
+  ],
+  "blocks": [
+    {
+      "type": "p",
+      "lead": true,
+      "text": "Die meisten Schwangerschaften verlaufen unkompliziert, und das Wichtigste, was du dafür tun kannst, ist unspektakulär. Es passt auf eine halbe Seite. Der Rest – Superfood-Listen, Zusatzscreenings, ständige Selbstbeobachtung – bringt deutlich weniger, als der Markt drumherum vermuten lässt. Dieser Artikel trennt beides."
+    },
+    {
+      "type": "callout",
+      "variant": "danger",
+      "title": "Damit wartest du nicht bis zum nächsten Termin",
+      "items": [
+        "Blutungen aus der Scheide, gleich welcher Stärke",
+        "Anhaltende starke Kopfschmerzen, Augenflimmern oder Schmerzen im rechten Oberbauch – mögliche Anzeichen einer Präeklampsie",
+        "Plötzliche starke Schwellungen an Händen, Gesicht oder Beinen",
+        "Abgang von Flüssigkeit vor dem Termin",
+        "Fieber über 38,5 °C oder starke, anhaltende Unterleibsschmerzen",
+        "Ab etwa der 24. Woche: deutlich weniger oder keine Kindsbewegungen mehr"
+      ],
+      "text": "Der Kreißsaal der Geburtsklinik ist rund um die Uhr erreichbar und du darfst dort auch anrufen, wenn du dir unsicher bist. Niemand rechnet mit, wie oft du das tust."
+    },
+    {
+      "type": "section",
+      "heading": "Die Nährstoffe, auf die es wirklich ankommt",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "Der Energiebedarf steigt in der Schwangerschaft nur wenig – im letzten Drittel um etwa 250 Kilokalorien am Tag, also um ein belegtes Brot. Der Bedarf an einzelnen Vitaminen und Mineralstoffen steigt dagegen deutlich stärker. Deshalb geht es weniger um „mehr essen“ als um zwei bis drei gezielte Ergänzungen."
+        },
+        {
+          "type": "evidence",
+          "level": "stark",
+          "claim": "Folsäure senkt das Risiko für Neuralrohrdefekte. Empfohlen werden 400 Mikrogramm täglich als Supplement, beginnend mindestens vier Wochen vor der Schwangerschaft und mindestens bis zum Ende des ersten Drittels.",
+          "note": "Das Neuralrohr schließt sich in den ersten Wochen, oft bevor eine Schwangerschaft bemerkt wird. Wenn du erst nach dem positiven Test anfängst, empfiehlt das Netzwerk Gesund ins Leben ein Präparat mit 800 Mikrogramm bis zum Ende des ersten Trimesters. Über die Ernährung allein ist diese Menge realistisch nicht zu erreichen.",
+          "sources": [0, 1]
+        },
+        {
+          "type": "evidence",
+          "level": "moderat",
+          "claim": "Zusätzlich zu jodiertem Speisesalz und jodreichen Lebensmitteln wird ein tägliches Supplement mit 100 bis 150 Mikrogramm Jod empfohlen.",
+          "note": "Deutschland gilt weiterhin als Gebiet mit knapper Jodversorgung. Jod wird für die Schilddrüsenhormone gebraucht, die die Hirnentwicklung des Kindes steuern; schon eine milde Unterversorgung kann sich auswirken. Bei einer Schilddrüsenerkrankung besprichst du die Menge vorher ärztlich – abgeraten wird von Jod aber auch dann meist nicht.",
+          "sources": [0, 1]
+        },
+        {
+          "type": "table",
+          "title": "Die gängigen Ergänzungen im Überblick",
+          "head": ["Nährstoff", "Was empfohlen wird", "Wofür"],
+          "rows": [
+            ["Folsäure", "400 µg täglich, ab Kinderwunsch bis Ende des 1. Drittels", "Verschluss des Neuralrohrs"],
+            ["Jod", "100–150 µg täglich, die ganze Schwangerschaft", "Schilddrüse und Hirnentwicklung"],
+            ["Vitamin D", "20 µg täglich, wenn die Haut kaum Sonne bekommt", "Knochenstoffwechsel"],
+            ["Eisen", "Nur bei nachgewiesenem Mangel", "Blutbildung – wird im Blutbild geprüft"]
+          ],
+          "caption": "Nach den Handlungsempfehlungen des Netzwerks Gesund ins Leben. Kombipräparate für Schwangere enthalten oft mehr als nötig – entscheidend sind Folsäure und Jod."
+        },
+        {
+          "type": "callout",
+          "variant": "myth",
+          "title": "„Viel hilft viel“",
+          "text": "Hochdosierte Vitamin-A-Präparate und Leber sind in der Schwangerschaft ausdrücklich nicht empfohlen, weil zu viel Vitamin A dem Kind schaden kann. Auch bei allem anderen gilt: Ein zweites Präparat zusätzlich zum ersten verbessert nichts, es erhöht nur die Chance auf Überdosierung."
+        }
+      ]
+    },
+    {
+      "type": "section",
+      "heading": "Essen: was tatsächlich riskant ist",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "Die Verzichtsliste wirkt lang, hat aber nur zwei Gründe: Listerien und Toxoplasmen. Beide sind für dich meist harmlos, können aber über den Mutterkuchen zum Kind gelangen. Hitze tötet beide zuverlässig ab – durchgegart ist alles unproblematisch."
+        },
+        {
+          "type": "list",
+          "ordered": false,
+          "items": [
+            { "title": "Rohes und halbgares Fleisch:", "text": "Tatar, Mett, blutige oder medium gebratene Steaks, Rohwurst wie Salami, Teewurst und roher Schinken." },
+            { "title": "Roher und geräucherter Fisch:", "text": "Sushi, Sashimi, Graved Lachs, Räucherlachs, Matjes." },
+            { "title": "Rohmilchprodukte und Weichkäse mit Oberflächenreifung:", "text": "Die Rinde von Camembert, Brie und Blauschimmelkäse besser abschneiden oder den Käse weglassen; erhitzt ist er unproblematisch." },
+            { "title": "Vorgeschnittene Salate und offene Feinkostsalate:", "text": "Listerien vermehren sich hier auch im Kühlschrank weiter. Selbst frisch zubereitet ist Salat kein Problem." },
+            { "title": "Rohe Eier:", "text": "Tiramisu, selbst gemachte Mayonnaise, roher Teig." }
+          ]
+        },
+        {
+          "type": "callout",
+          "variant": "tip",
+          "title": "Praktisch statt panisch",
+          "items": [
+            "Obst, Gemüse und Kräuter gründlich waschen – das erledigt den größten Teil des Toxoplasmose-Risikos",
+            "Beim Gärtnern Handschuhe tragen, Katzentoiletten möglichst von jemand anderem reinigen lassen",
+            "Reste zügig kühlen und vor dem Essen richtig durcherhitzen, nicht nur lauwarm machen",
+            "Raubfische wie Thunfisch, Schwertfisch oder Hecht wegen Quecksilber nur selten, fettreicher Seefisch wie Lachs oder Hering dagegen zweimal pro Woche",
+            "Wenn du einmal versehentlich etwas von der Liste gegessen hast: Das ist kein Notfall. Sprich es beim nächsten Termin an."
+          ]
+        }
+      ]
+    },
+    {
+      "type": "section",
+      "heading": "Alkohol, Nikotin, Koffein",
+      "blocks": [
+        {
+          "type": "evidence",
+          "level": "stark",
+          "claim": "Für Alkohol in der Schwangerschaft ist keine unbedenkliche Menge bekannt. Empfohlen wird konsequenter Verzicht.",
+          "note": "Alkohol ist die häufigste vermeidbare Ursache angeborener Schädigungen, die nicht genetisch bedingt sind. Das Spektrum reicht von Lern- und Aufmerksamkeitsproblemen bis zu schweren Fehlbildungen. Falls du vor dem positiven Test getrunken hast: Das lässt sich nicht rückgängig machen, und Selbstvorwürfe helfen niemandem – ab jetzt konsequent zu verzichten, ist der wirksame Teil.",
+          "sources": [0, 6]
+        },
+        {
+          "type": "evidence",
+          "level": "stark",
+          "claim": "Rauchen in der Schwangerschaft erhöht das Risiko für Frühgeburt, niedriges Geburtsgewicht und plötzlichen Kindstod. Auch Passivrauch zählt.",
+          "note": "Aufhören lohnt sich zu jedem Zeitpunkt, auch spät in der Schwangerschaft. Wenn du es allein nicht schaffst, ist das keine Charakterfrage: Die BZgA bietet mit dem Rauchfrei-Programm und der Telefonberatung kostenfreie Unterstützung, ebenso die meisten Krankenkassen. Für E-Zigaretten und Tabakerhitzer gilt dasselbe – nikotinfrei ist hier nicht gleich harmlos.",
+          "sources": [6]
+        },
+        {
+          "type": "p",
+          "text": "Beim Koffein ist die Empfehlung weniger streng, als viele denken: bis zu 200 Milligramm über den Tag verteilt gelten als vertretbar. Das sind etwa zwei Tassen Filterkaffee oder zwei Espressi. Energydrinks bleiben weg, weil dort Koffein und weitere Zusätze in schwer abschätzbarer Menge zusammenkommen."
+        }
+      ]
+    },
+    {
+      "type": "section",
+      "heading": "Bewegung: mehr als du denkst, weniger als du fürchtest",
+      "blocks": [
+        {
+          "type": "evidence",
+          "level": "moderat",
+          "claim": "Empfohlen werden mindestens 150 Minuten moderate körperliche Aktivität pro Woche, verteilt auf mehrere Tage – zusätzlich Kraft- und Beckenbodentraining.",
+          "note": "Bewegung senkt das Risiko für Schwangerschaftsdiabetes und Rückenbeschwerden und verbessert die Stimmung. Schonung ist nur bei bestimmten medizinischen Gründen angezeigt, etwa vorzeitiger Wehentätigkeit oder Plazenta praevia. Wer vor der Schwangerschaft nicht aktiv war, steigt einfach langsamer ein.",
+          "sources": [2]
+        },
+        {
+          "type": "comparison",
+          "title": "Sport in der Schwangerschaft",
+          "columns": [
+            {
+              "title": "Gut geeignet",
+              "tone": "good",
+              "items": [
+                "Zügiges Gehen, Nordic Walking",
+                "Schwimmen und Aquafitness",
+                "Radfahren in moderatem Tempo",
+                "Schwangerschaftsyoga und -pilates",
+                "Moderates Krafttraining, Beckenbodenübungen"
+              ]
+            },
+            {
+              "title": "Besser nicht",
+              "tone": "bad",
+              "items": [
+                "Sportarten mit Sturzrisiko (Reiten, Ski alpin, Mountainbike)",
+                "Kontakt- und Kampfsport, Mannschaftsspiele mit Körperkontakt",
+                "Gerätetauchen",
+                "Training bis zur völligen Erschöpfung",
+                "Ab dem zweiten Drittel: langes flaches Liegen auf dem Rücken"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "section",
+      "heading": "Die Vorsorge: was wann passiert",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "Die Schwangerenvorsorge in Deutschland ist in den Mutterschafts-Richtlinien geregelt und Kassenleistung. Bis zur 32. Woche ist etwa alle vier Wochen ein Termin vorgesehen, danach alle zwei Wochen. Du kannst die Vorsorge von einer Frauenärztin, von einer Hebamme oder im Wechsel von beiden übernehmen lassen – die Ultraschalluntersuchungen macht die Ärztin."
+        },
+        {
+          "type": "timeline",
+          "title": "Fahrplan durch die Schwangerschaft",
+          "entries": [
+            { "age": "vor der Schwangerschaft", "label": "Folsäure beginnen", "text": "Idealerweise vier Wochen vor der Empfängnis; außerdem Impfstatus prüfen lassen (Röteln, Windpocken, Masern)." },
+            { "age": "8.–12. Woche", "label": "Erster Termin, Mutterpass", "text": "Anamnese, Blutgruppe, Antikörpersuchtest, Untersuchung auf Röteln-Immunität, Syphilis, HIV-Test als Angebot. Erster Basis-Ultraschall." },
+            { "age": "ab 12. Woche", "label": "Regeltermine alle vier Wochen", "text": "Gewicht, Blutdruck, Urin, Gebärmutterstand, Herztöne des Kindes." },
+            { "age": "19.–22. Woche", "label": "Zweiter Basis-Ultraschall", "text": "Auf Wunsch als erweiterte Untersuchung der Organe. Du entscheidest, wie genau hingeschaut wird – auch dagegen darfst du dich entscheiden." },
+            { "age": "24.–28. Woche", "label": "Zuckerbelastungstest", "text": "Screening auf Schwangerschaftsdiabetes, Kassenleistung. Außerdem erneuter Antikörpersuchtest." },
+            { "age": "29.–32. Woche", "label": "Dritter Basis-Ultraschall", "text": "Lage des Kindes, Wachstum, Fruchtwassermenge, Sitz des Mutterkuchens." },
+            { "age": "ab 32. Woche", "label": "Termine alle zwei Wochen", "text": "Ab jetzt auch Gespräche über Geburtsort und Geburtsplanung; Hepatitis-B-Test gegen Ende." },
+            { "age": "ab 40. Woche", "label": "Engmaschige Kontrollen", "text": "CTG und Ultraschall in kurzen Abständen; Beratung über das weitere Vorgehen bei Terminüberschreitung." }
+          ],
+          "caption": "Nach den Mutterschafts-Richtlinien des Gemeinsamen Bundesausschusses. Die genauen Zeitpunkte verschieben sich im Alltag um ein bis zwei Wochen – das ist normal."
+        },
+        {
+          "type": "callout",
+          "variant": "info",
+          "title": "Der Mutterpass gehört dir",
+          "text": "Alle Befunde werden dort eingetragen, und du darfst jeden Eintrag erklärt bekommen. Trag ihn ab etwa der 20. Woche bei dir – in einem Notfall ist er die schnellste Informationsquelle. Zusatzuntersuchungen, die dir als IGeL-Leistung angeboten werden, sind fast nie notwendig; frag ruhig direkt, was der Test im Ergebnis ändern würde."
+        }
+      ]
+    },
+    {
+      "type": "section",
+      "heading": "Häufige Fragen",
+      "blocks": [
+        {
+          "type": "faq",
+          "items": [
+            {
+              "q": "Ich habe vor dem positiven Test Alkohol getrunken. Habe ich meinem Kind geschadet?",
+              "a": "Vermutlich nicht. In den allerersten Tagen gilt weitgehend das Alles-oder-nichts-Prinzip, und einzelne Gelegenheiten sind nicht mit regelmäßigem Konsum vergleichbar. Sprich es beim nächsten Vorsorgetermin an, damit du es einordnen kannst – und trink ab jetzt keinen Alkohol mehr."
+            },
+            {
+              "q": "Muss ich jetzt für zwei essen?",
+              "a": "Nein. Der Mehrbedarf an Energie ist klein und setzt erst im zweiten Drittel ein – etwa 250 Kilokalorien am Tag am Ende der Schwangerschaft. Wichtiger als die Menge ist, dass genug Gemüse, Vollkorn, Hülsenfrüchte und zweimal pro Woche Fisch dabei sind."
+            },
+            {
+              "q": "Ich habe im Kühlschrank Räucherlachs gegessen und es erst danach gemerkt. Was jetzt?",
+              "a": "Abwarten und beobachten. Eine Listeriose ist selten und würde sich mit grippeähnlichen Symptomen und Fieber zeigen. Wenn du in den folgenden Wochen Fieber bekommst, erwähn den Vorfall ärztlich. Sonst musst du nichts tun."
+            },
+            {
+              "q": "Kann ich weiter Sport machen, wenn ich vorher viel trainiert habe?",
+              "a": "In der Regel ja, meist auf etwas reduziertem Niveau. Die Faustregel: Du solltest dich beim Training noch unterhalten können. Wettkampfsport und alles mit Sturzrisiko wird angepasst. Bei Blutungen, Wehen oder Schwindel brichst du ab und lässt es abklären."
+            },
+            {
+              "q": "Hebamme oder Frauenärztin für die Vorsorge?",
+              "a": "Beides ist möglich und beides ist Kassenleistung. Viele Familien kombinieren: Ultraschall und Laborwerte bei der Ärztin, die übrigen Termine bei der Hebamme, die meist mehr Zeit hat und später auch das Wochenbett betreut. Such früh nach einer Hebamme – in vielen Regionen sind die Plätze knapp."
+            },
+            {
+              "q": "Muss ich jeden angebotenen Test machen?",
+              "a": "Nein. Für vorgeburtliche Untersuchungen gilt in Deutschland ausdrücklich ein Recht auf Nichtwissen. Du darfst Untersuchungen ablehnen, und du hast Anspruch auf Beratung, bevor du dich entscheidest. Eine gute Frage vorab: Was würde ich mit dem Ergebnis machen?"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "callout",
+      "variant": "info",
+      "title": "Kurz gesagt",
+      "text": "Folsäure und Jod ergänzen, rohe tierische Lebensmittel und vorgeschnittene Salate meiden, kein Alkohol und kein Nikotin, rund 150 Minuten Bewegung pro Woche, Vorsorgetermine wahrnehmen. Der Rest ist Kür – und vieles von dem, was als unverzichtbar verkauft wird, ist nicht einmal das."
+    }
+  ],
+  "sources": [
+    {
+      "title": "Handlungsempfehlungen: Ernährung in der Schwangerschaft",
+      "publisher": "Netzwerk Gesund ins Leben / Deutsche Gesellschaft für Ernährung (DGE)",
+      "year": "2021",
+      "kind": "Empfehlung",
+      "url": "https://www.dge.de/gesunde-ernaehrung/gezielte-ernaehrung/ernaehrung-in-schwangerschaft-und-stillzeit/handlungsempfehlungen-ernaehrung-in-der-schwangerschaft/"
+    },
+    {
+      "title": "Folsäure, Jod und Co.",
+      "publisher": "Netzwerk Gesund ins Leben, Bundeszentrum für Ernährung",
+      "year": "2024",
+      "kind": "Institutionelle Information",
+      "url": "https://www.gesund-ins-leben.de/fuer-familien/fit-durch-die-schwangerschaft/folsaeure-jod-und-co/"
+    },
+    {
+      "title": "Bewegung vor und in der Schwangerschaft: Handlungsempfehlungen",
+      "publisher": "Netzwerk Gesund ins Leben",
+      "year": "2023",
+      "kind": "Empfehlung",
+      "url": "https://www.gesund-ins-leben.de/fuer-fachkreise/familien-vor-und-in-der-schwangerschaft/handlungsempfehlungen/bewegung/bewegungsausmass-und-art-vor-und-in-der-schwangerschaft/"
+    },
+    {
+      "title": "Richtlinie über die ärztliche Betreuung während der Schwangerschaft und nach der Entbindung (Mutterschafts-Richtlinien)",
+      "publisher": "Gemeinsamer Bundesausschuss (G-BA)",
+      "year": "2023",
+      "kind": "Leitlinie",
+      "url": "https://www.g-ba.de/downloads/62-492-3335/Mu-RL_2023-09-28_iK-2023-12-19.pdf"
+    },
+    {
+      "title": "Listeriose und Toxoplasmose in der Schwangerschaft",
+      "publisher": "Bundeszentrum für Ernährung (BZfE) in Zusammenarbeit mit dem Bundesinstitut für Risikobewertung",
+      "year": "2022",
+      "kind": "Institutionelle Information",
+      "url": "https://www.bzfe.de/presse/pressemeldungen-archiv/listeriose-und-toxoplasmose-in-der-schwangerschaft"
+    },
+    {
+      "title": "WHO recommendations on antenatal care for a positive pregnancy experience",
+      "publisher": "World Health Organization",
+      "year": "2016",
+      "kind": "Leitlinie",
+      "url": "https://www.who.int/docs/default-source/reproductive-health/maternal-health/anc.pdf"
+    },
+    {
+      "title": "Rauchfrei – der bessere Start ins Leben",
+      "publisher": "Bundeszentrale für gesundheitliche Aufklärung (BZgA), kindergesundheit-info.de",
+      "year": "2024",
+      "kind": "Institutionelle Information",
+      "url": "https://www.kindergesundheit-info.de/themen/risiken-vorbeugen/passivrauchen/rauchfrei/"
+    }
+  ],
+  "related": ["geburt-vorbereiten", "bindung-vor-der-geburt", "elterngeld-elternzeit", "wochenbett"]
+}

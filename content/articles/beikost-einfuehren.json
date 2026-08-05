@@ -1,0 +1,298 @@
+{
+  "slug": "beikost-einfuehren",
+  "title": "Beikost einführen",
+  "subtitle": "Wann der richtige Zeitpunkt ist, wie ein Beikostfahrplan aussehen kann, warum Eisen die entscheidende Rolle spielt – und was im ersten Lebensjahr nichts auf dem Teller zu suchen hat.",
+  "phases": ["saeugling"],
+  "topics": ["ernaehrung"],
+  "updated": "2026-08-05",
+  "summary": "Beikost beginnt frühestens mit dem Anfang des fünften und spätestens mit dem Anfang des siebten Lebensmonats – innerhalb dieses Fensters entscheidet dein Kind mit, nicht der Kalender. Der erste Brei ist üblicherweise ein Gemüse-Kartoffel-Fleisch-Brei, weil ab etwa einem halben Jahr das Eisen knapp wird. Milch bleibt in dieser Zeit die Hauptnahrung und wird nur langsam ersetzt. Nicht ins erste Jahr gehören Honig, zugesetztes Salz und Kuhmilch als Getränk.",
+  "keyFacts": [
+    "Zeitfenster für den Start: Beginn des 5. bis Beginn des 7. Lebensmonats, also etwa zwischen der 17. und 26. Woche.",
+    "Nicht das Alter allein entscheidet, sondern die Reifezeichen: Kopfkontrolle, aufrecht sitzen mit Unterstützung, Interesse am Essen.",
+    "Der erste Brei enthält Fleisch oder Fisch, weil der Eisenspeicher aus der Schwangerschaft zur Neige geht.",
+    "Beikost ersetzt Milchmahlzeiten Schritt für Schritt – Stillen oder Flasche laufen daneben weiter.",
+    "Kein Honig, kein zugesetztes Salz, keine Kuhmilch als Getränk im ersten Lebensjahr."
+  ],
+  "blocks": [
+    {
+      "type": "p",
+      "lead": true,
+      "text": "Irgendwann zwischen dem vierten und dem siebten Monat kippt die Rechnung: Milch allein deckt den Bedarf deines Kindes nicht mehr, vor allem beim Eisen. Ab da beginnt eine Übergangszeit, die ein halbes Jahr dauern darf. Beikost heißt Beikost, weil sie zur Milch dazukommt – nicht, weil sie sie am ersten Tag ablöst. Wenn die erste Woche aus drei Löffeln Karotte und viel Wegwischen besteht, ist alles in Ordnung."
+    },
+    {
+      "type": "section",
+      "heading": "Das Zeitfenster – und warum es ein Fenster ist",
+      "blocks": [
+        {
+          "type": "evidence",
+          "level": "stark",
+          "claim": "Mit Beikost soll frühestens mit Beginn des fünften und spätestens mit Beginn des siebten Lebensmonats begonnen werden – also nicht vor der 17. und nicht nach der 26. Lebenswoche.",
+          "note": "Dieses Fenster ist in den bundesweit einheitlichen Handlungsempfehlungen des Netzwerks Gesund ins Leben und in der S3-Leitlinie Allergieprävention gleichlautend festgehalten. Es ist bewusst breit: Innerhalb dieser Spanne gibt es keinen belegt besseren Tag. Wichtiger als das Datum ist, dass dein Kind bereit ist.",
+          "sources": [0, 4]
+        },
+        {
+          "type": "p",
+          "text": "Die WHO empfiehlt, sechs Monate ausschließlich zu stillen. Die europäischen und deutschen Fachgesellschaften nennen ein Fenster ab Beginn des fünften Monats. Dieser scheinbare Widerspruch verunsichert viele Eltern – tatsächlich beschreiben beide dasselbe: Sehr früher Beikoststart bringt keinen Vorteil, sehr später ist mit Blick auf Eisenversorgung und Allergievorbeugung ungünstig. Wenn du voll stillst und dein Kind mit fünf Monaten kein Interesse zeigt, ist Warten bis kurz vor den sechsten Monat völlig unproblematisch."
+        },
+        {
+          "type": "checklist",
+          "id": "beikostreife",
+          "title": "Reifezeichen – drei bis vier sollten zusammenkommen",
+          "items": [
+            "Dein Kind kann den Kopf sicher und stabil halten",
+            "Es sitzt mit Unterstützung aufrecht (auf dem Schoß oder im Hochstuhl mit Stütze)",
+            "Der Zungenstreckreflex lässt nach: Der Löffelinhalt wird nicht mehr automatisch herausgeschoben",
+            "Es greift nach Essen, verfolgt deine Gabel mit den Augen, macht Kaubewegungen",
+            "Hand-Mund-Koordination: Was in der Hand ist, landet zielsicher im Mund"
+          ]
+        },
+        {
+          "type": "callout",
+          "variant": "myth",
+          "title": "„Er schaut mir beim Essen zu, also will er Brei“",
+          "text": "Interesse am Essen ist ein Reifezeichen von mehreren – allein reicht es nicht. Babys schauen ab etwa vier Monaten allem zu, was sich bewegt. Auch häufigeres nächtliches Aufwachen ist kein Beikostsignal: Dass Brei am Abend zu längerem Schlafen führt, ist nicht belegt. Und ein Kind, das Brei ablehnt, ist nicht wählerisch, sondern oft schlicht noch nicht so weit."
+        }
+      ]
+    },
+    {
+      "type": "section",
+      "heading": "Der Beikostfahrplan",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "Der klassische deutsche Fahrplan führt in drei Schritten, jeweils etwa im Monatsabstand, zu drei Breimahlzeiten. Er ist ein Vorschlag, kein Gesetz – aber er ist ernährungsphysiologisch gut durchdacht, weil er die kritischen Nährstoffe in eine sinnvolle Reihenfolge bringt."
+        },
+        {
+          "type": "timeline",
+          "title": "Vom ersten Löffel zur Familienmahlzeit",
+          "entries": [
+            {
+              "age": "Start (5.–7. Monat)",
+              "label": "Gemüse-Kartoffel-Fleisch-Brei am Mittag",
+              "text": "Beginnt mit wenigen Löffeln vor oder nach der Milchmahlzeit und wächst über zwei bis vier Wochen zu einer vollen Mahlzeit. Er kommt zuerst, weil er Eisen liefert."
+            },
+            {
+              "age": "etwa 1 Monat später",
+              "label": "Milch-Getreide-Brei am Abend",
+              "text": "Ersetzt die abendliche Milchmahlzeit. Sättigt gut und liefert Kalzium und Energie."
+            },
+            {
+              "age": "etwa 2 Monate später",
+              "label": "Getreide-Obst-Brei am Nachmittag",
+              "text": "Milchfrei, dafür mit Obst und etwas Öl. Ab dieser dritten Breimahlzeit braucht dein Kind zusätzlich Wasser."
+            },
+            {
+              "age": "ab etwa 8–10 Monaten",
+              "label": "Fingerfood und Stücke",
+              "text": "Weiche Stücke zum Selbstessen kommen dazu. Brei und Fingerfood schließen sich nicht aus."
+            },
+            {
+              "age": "um den 1. Geburtstag",
+              "label": "Familienkost",
+              "text": "Das Kind isst mit – gleiche Speisen, wenig gesalzen, in kindgerechter Form."
+            }
+          ],
+          "caption": "Abfolge nach den Handlungsempfehlungen des Netzwerks Gesund ins Leben. Die Monatsabstände sind Orientierung, keine Termine: Manche Kinder brauchen für den ersten Brei sechs Wochen, andere zehn Tage."
+        },
+        {
+          "type": "list",
+          "ordered": false,
+          "items": [
+            { "title": "Der Mittagsbrei in Mengen:", "text": "rund 100 g Gemüse, 50 g Kartoffeln, 30 g mageres Fleisch, dazu etwa ein Esslöffel Rapsöl und ein bis zwei Esslöffel Obstsaft. Das Öl ist nicht optional – es macht die fettlöslichen Vitamine verfügbar." },
+            { "title": "Warum Saft in den Brei?", "text": "Vitamin C aus dem Saft verbessert die Aufnahme des Eisens aus dem Fleisch deutlich. Ein Schuss Orangensaft im Brei ist etwas völlig anderes als Saft aus der Flasche." },
+            { "title": "Vegetarisch:", "text": "Statt Fleisch kommt ein Getreideanteil in den Brei, und die Vitamin-C-Quelle wird noch wichtiger, weil pflanzliches Eisen schlechter aufgenommen wird. Eine rein vegane Ernährung im Säuglingsalter sollte nur mit fachlicher Begleitung und Supplementen erfolgen." },
+            { "title": "Selbst kochen oder Gläschen:", "text": "Beides ist vertretbar. Fertigbreie in Säuglingsqualität unterliegen strengen Grenzwerten. Selbstgekochtes ist geschmacklich vielfältiger und billiger. Beides gleichzeitig ist auch eine Antwort." }
+          ]
+        },
+        {
+          "type": "evidence",
+          "level": "moderat",
+          "claim": "Ab etwa dem sechsten bis siebten Lebensmonat reichen die in der Schwangerschaft angelegten Eisenspeicher und die Zufuhr über Milch nicht mehr aus. Deshalb steht ein eisenlieferndes Lebensmittel am Anfang der Beikost.",
+          "note": "Der Mechanismus ist gut verstanden, die genaue Grenze individuell verschieden – Frühgeborene und Kinder mit niedrigem Geburtsgewicht sind früher betroffen. Praktisch heißt das: Der erste Brei sollte nicht monatelang aus reinem Obst oder Karotte bestehen.",
+          "sources": [1, 6]
+        }
+      ]
+    },
+    {
+      "type": "section",
+      "heading": "Was im ersten Lebensjahr nicht gegeben wird",
+      "blocks": [
+        {
+          "type": "callout",
+          "variant": "danger",
+          "title": "Drei klare Tabus im ersten Jahr",
+          "items": [
+            "Honig – auch nicht im Tee, nicht auf dem Schnuller, nicht im Gebäck aus dem eigenen Ofen. Honig kann Sporen von Clostridium botulinum enthalten. Im noch unreifen Darm eines Säuglings können diese auskeimen und den seltenen, aber lebensbedrohlichen Säuglingsbotulismus auslösen. Dasselbe gilt für Ahornsirup. Ab dem ersten Geburtstag ist Honig unbedenklich.",
+            "Zugesetztes Salz – die Nieren eines Säuglings können Natrium noch nicht gut ausscheiden. Beikost wird deshalb nicht gesalzen, und gesalzene Erwachsenenkost (Wurst, Käse, Brühe, Fertigsoßen) ist keine Beikost. Kräuter dürfen dagegen von Anfang an.",
+            "Kuhmilch als Getränk – als Milchmahlzeit oder aus dem Becher gehört Kuhmilch erst nach dem ersten Geburtstag. Sie enthält zu viel Eiweiß und zu wenig Eisen und behindert zusätzlich die Eisenaufnahme. Im Milch-Getreide-Brei ist eine begrenzte Menge (üblicherweise rund 200 ml am Tag) ausdrücklich vorgesehen; ebenso sind Joghurt oder etwas Käse in kleinen Mengen in Ordnung."
+          ]
+        },
+        {
+          "type": "list",
+          "ordered": false,
+          "items": [
+            { "title": "Ganze Nüsse, Kerne, Weintrauben am Stück, harte Rohkost:", "text": "Erstickungsgefahr. Nüsse werden gemahlen oder als glattes Mus gegeben, Weintrauben und Beeren längs geviertelt, Möhre gegart oder fein gerieben." },
+            { "title": "Rohe tierische Lebensmittel:", "text": "Rohmilch und Rohmilchkäse, rohes Fleisch, roher Fisch, weich gekochtes oder rohes Ei – Infektionsrisiko. Ei gehört durcherhitzt auf den Speiseplan, nicht weggelassen." },
+            { "title": "Gezuckerte Getränke, Saft aus der Flasche, gesüßter Tee:", "text": "Weder nötig noch harmlos. Dauernuckeln an Süßem ist die Hauptursache früher Milchzahnkaries." },
+            { "title": "Reiswaffeln und Reisdrink als Grundnahrung:", "text": "Reisprodukte können Arsenverbindungen anreichern und sollten im Säuglings- und Kleinkindalter nicht täglich und nicht als Milchersatz gegeben werden." }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "section",
+      "heading": "Trinken, Vitamin D und die Milch daneben",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "Solange dein Kind überwiegend Milch bekommt, braucht es nichts zusätzlich zu trinken. Ab der dritten Breimahlzeit ändert sich das: Dann wird zu den Mahlzeiten Wasser angeboten – am besten aus einem offenen Becher, nicht aus einer Nuckelflasche. Etwa 200 Milliliter am Tag decken den Zusatzbedarf. Leitungswasser ist dafür in Deutschland gut geeignet; lass es kurz laufen, bis es kalt kommt. Schon vorher darf dein Kind zum Üben ein paar Schlucke aus dem Becher bekommen – das ist Training, keine Pflichtmenge."
+        },
+        {
+          "type": "p",
+          "text": "Stillen oder Flasche laufen die ganze Beikostzeit über weiter, und zwar so lange, wie ihr beide wollt. Es gibt keinen Punkt, an dem Milch überflüssig wird – sie wird nur schrittweise weniger. Viele Kinder trinken abends und nachts noch lange, obwohl sie tagsüber drei Mahlzeiten essen. Das ist kein Rückschritt."
+        },
+        {
+          "type": "callout",
+          "variant": "info",
+          "title": "Vitamin D und Fluorid",
+          "text": "Unabhängig davon, ob gestillt oder Flasche gegeben wird, erhalten Säuglinge in Deutschland täglich Vitamin D zur Rachitisvorbeugung, üblicherweise über die ersten 12 bis 18 Monate. Bis zum Durchbruch des ersten Milchzahns wird dafür meist ein Kombinationspräparat mit Fluorid eingesetzt; danach entscheidet ihr gemeinsam mit der Kinderarztpraxis, ob Fluorid weiter als Tablette oder über fluoridhaltige Zahnpasta zugeführt wird. Die genaue Dosierung gehört in die Sprechstunde, nicht in einen Ratgebertext."
+        }
+      ]
+    },
+    {
+      "type": "section",
+      "heading": "Wenn es nicht so läuft wie im Buch",
+      "blocks": [
+        {
+          "type": "comparison",
+          "title": "Normal – und wann du nachfragen solltest",
+          "columns": [
+            {
+              "title": "Normal in der Beikostzeit",
+              "tone": "good",
+              "items": [
+                "Wochenlang nur wenige Löffel pro Mahlzeit",
+                "Ein Gemüse wird heute geliebt und morgen ausgespuckt",
+                "Alles wird ausgespuckt, bevor es geschluckt wird – Zunge lernt gerade um",
+                "Der Stuhlgang verändert Farbe, Geruch und Konsistenz",
+                "Erkennbare Gemüsestücke in der Windel",
+                "Das Kind trinkt weiter viel Milch"
+              ]
+            },
+            {
+              "title": "Lieber ärztlich abklären",
+              "tone": "bad",
+              "items": [
+                "Mit sieben Monaten wird noch gar keine feste Nahrung angenommen",
+                "Blasse Haut, auffällige Müdigkeit, Trinkschwäche",
+                "Gewicht stagniert über mehrere Wochen oder fällt",
+                "Wiederholtes Erbrechen, Blut im Stuhl, hartnäckige Verstopfung",
+                "Ausschlag, Schwellung im Gesicht oder Atemprobleme nach einem Lebensmittel",
+                "Wiederholtes Verschlucken mit Husten und Luftnot"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "callout",
+          "variant": "tip",
+          "title": "Die Aufgabenteilung, die Streit vermeidet",
+          "text": "Du entscheidest, was angeboten wird, wann und in welcher Form. Dein Kind entscheidet, ob und wie viel es davon isst. Diese Trennung hält den Esstisch entspannt und ist genau die Haltung, die im Kleinkindalter über die neophobe Phase trägt. Kein Löffelflugzeug, kein Ablenken mit Handy, kein Nachschieben, wenn der Mund zu bleibt. Ein abgelehntes Lebensmittel darf nächste Woche wieder auf den Teller – es braucht oft acht bis zehn Begegnungen, bis etwas Neues akzeptiert wird."
+        }
+      ]
+    },
+    {
+      "type": "section",
+      "heading": "Häufige Fragen",
+      "blocks": [
+        {
+          "type": "faq",
+          "items": [
+            {
+              "q": "Muss ich Allergene wie Ei, Fisch oder Nussmus wirklich früh einführen?",
+              "a": "Ja – zumindest solltest du sie nicht bewusst meiden. Die S3-Leitlinie Allergieprävention empfiehlt eine vielfältige Beikost, die Fisch, Milchprodukte und durcherhitztes Hühnerei einschließt. Das frühere Meidungskonzept gilt als überholt. Neue Lebensmittel einzeln und mit ein paar Tagen Abstand einzuführen, ist trotzdem praktisch – nicht wegen der Allergie, sondern damit du bei einer Reaktion weißt, woran es lag."
+            },
+            {
+              "q": "Mein Kind ist erst vier Monate alt, aber die Großeltern drängen auf Brei. Was sage ich?",
+              "a": "Dass sich die Empfehlungen geändert haben und Beikost vor Beginn des fünften Monats keinen Vorteil bringt. Der Verdauungstrakt und die Nieren sind vorher noch nicht so weit, und die Motorik auch nicht. Das ist keine Kritik an früheren Generationen – die Datenlage war damals eine andere."
+            },
+            {
+              "q": "Wie viel Milch soll mein Kind neben der Beikost noch bekommen?",
+              "a": "So viel, wie es möchte. Gestillte Kinder regulieren das selbst. Bei der Flasche gilt: Die Milchmahlzeiten werden ungefähr in dem Tempo weniger, in dem Breimahlzeiten dazukommen. Wenn dein Kind nach dem Brei noch Milch will, ist das in Ordnung."
+            },
+            {
+              "q": "Muss ich jedes Gemüse einzeln testen und ein Beikosttagebuch führen?",
+              "a": "Nein. Ein Tagebuch ist nur sinnvoll, wenn es bereits Hinweise auf eine Unverträglichkeit gibt oder dein Kind eine ausgeprägte Neurodermitis hat. Für alle anderen ist es unnötiger Aufwand, der die Beikostzeit zu einem Projekt macht."
+            },
+            {
+              "q": "Brei oder gleich Fingerfood – was ist besser?",
+              "a": "Beides funktioniert, und Mischformen sind der häufigste Weg. Der Breifahrplan hat den Vorteil der planbaren Nährstoffversorgung, das Selbstessen den Vorteil der Selbstregulation und der Übung. Wer selbst essen lässt, muss die Erstickungsgefahr kennen – dazu gibt es einen eigenen Artikel."
+            },
+            {
+              "q": "Wir waren im Urlaub und der Beikoststart hat sich um vier Wochen verschoben. Schlimm?",
+              "a": "Nein, solange ihr innerhalb des Fensters bleibt, also spätestens mit Beginn des siebten Monats anfangt. Erst deutlich späterer Start ist ungünstig – wegen der Eisenversorgung und weil das Kind dann oft schwerer neue Konsistenzen annimmt."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "callout",
+      "variant": "info",
+      "title": "Kurz gesagt",
+      "text": "Start zwischen Beginn des fünften und Beginn des siebten Monats, wenn die Reifezeichen da sind. Zuerst etwas Eisenhaltiges, dann in Ruhe erweitern. Milch bleibt daneben. Kein Honig, kein Salz, keine Kuhmilch als Getränk. Und: Die Menge bestimmt dein Kind."
+    }
+  ],
+  "sources": [
+    {
+      "title": "Beikosteinführung – Handlungsempfehlungen: Ernährung und Bewegung von Säuglingen und stillenden Frauen",
+      "publisher": "Netzwerk Gesund ins Leben / Bundeszentrum für Ernährung (BZfE)",
+      "year": "2024",
+      "kind": "Empfehlung",
+      "url": "https://www.gesund-ins-leben.de/fuer-fachkreise/bestens-unterstuetzt-durchs-1-lebensjahr/handlungsempfehlungen/beikost/beikosteinfuehrung/"
+    },
+    {
+      "title": "Abfolge und Auswahl der Beikost – Handlungsempfehlungen",
+      "publisher": "Netzwerk Gesund ins Leben / Bundeszentrum für Ernährung (BZfE)",
+      "year": "2024",
+      "kind": "Empfehlung",
+      "url": "https://www.gesund-ins-leben.de/fuer-fachkreise/bestens-unterstuetzt-durchs-1-lebensjahr/handlungsempfehlungen/beikost/abfolge-und-auswahl-der-beikost/"
+    },
+    {
+      "title": "Getränke (ergänzende Flüssigkeitszufuhr) – Handlungsempfehlungen",
+      "publisher": "Netzwerk Gesund ins Leben / Bundeszentrum für Ernährung (BZfE)",
+      "year": "2024",
+      "kind": "Empfehlung",
+      "url": "https://www.gesund-ins-leben.de/fuer-fachkreise/bestens-unterstuetzt-durchs-1-lebensjahr/handlungsempfehlungen/beikost/getraenke-ergaenzende-fluessigkeitszufuhr/"
+    },
+    {
+      "title": "Nährstoffsupplemente im 1. Lebensjahr – Handlungsempfehlungen",
+      "publisher": "Netzwerk Gesund ins Leben / Bundeszentrum für Ernährung (BZfE)",
+      "year": "2024",
+      "kind": "Empfehlung",
+      "url": "https://www.gesund-ins-leben.de/fuer-fachkreise/bestens-unterstuetzt-durchs-1-lebensjahr/handlungsempfehlungen/beikost/naehrstoffsupplemente-im-1-lebensjahr/"
+    },
+    {
+      "title": "S3-Leitlinie Allergieprävention (AWMF-Registernummer 061-016)",
+      "publisher": "AWMF / Deutsche Gesellschaft für Allergologie und klinische Immunologie (DGAKI)",
+      "year": "2022",
+      "kind": "Leitlinie",
+      "url": "https://register.awmf.org/de/leitlinien/detail/061-016"
+    },
+    {
+      "title": "Getränke im ersten Lebensjahr",
+      "publisher": "Bundeszentrale für gesundheitliche Aufklärung (BZgA), kindergesundheit-info.de",
+      "year": "2024",
+      "kind": "Institutionelle Information",
+      "url": "https://www.kindergesundheit-info.de/themen/ernaehrung/0-12-monate/getraenke/"
+    },
+    {
+      "title": "Beikost für Ihr Baby – bereit für den Brei",
+      "publisher": "Verbraucherzentrale",
+      "year": "2024",
+      "kind": "Institutionelle Information",
+      "url": "https://www.verbraucherzentrale.de/wissen/lebensmittel/gesund-ernaehren/beikost-fuer-ihr-baby-bereit-fuer-den-brei-62024"
+    }
+  ],
+  "related": ["baby-led-weaning", "allergien-vorbeugen", "familienkost", "vitamin-d-und-nahrungsergaenzung"]
+}

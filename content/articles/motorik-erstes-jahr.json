@@ -1,0 +1,286 @@
+{
+  "slug": "motorik-erstes-jahr",
+  "title": "Motorik im ersten Jahr",
+  "subtitle": "Drehen, Robben, Krabbeln, Sitzen, Stehen – und warum Üben, Hinsetzen und Laufenlernhilfen dabei nichts beitragen.",
+  "phases": ["saeugling"],
+  "topics": ["entwicklung"],
+  "updated": "2026-08-05",
+  "summary": "Die motorische Entwicklung im ersten Jahr folgt einem inneren Reifungsplan, den man nicht beschleunigen kann. Die Spannbreiten sind enorm: Freies Sitzen gelingt gesunden Kindern zwischen 3,8 und 9,2 Monaten, freies Laufen zwischen 8,2 und 17,6 Monaten. Was hilft, ist wenig und einfach: Bauchlage im Wachzustand, viel Platz auf dem Boden, wenig Sitzschalen. Was nicht hilft: Hinsetzen, an den Händen laufen lassen und Lauflernhilfen – Letztere gelten sogar als gefährlich.",
+  "keyFacts": [
+    "Die Reihenfolge ist stabiler als das Tempo – und selbst die Reihenfolge hat Ausnahmen.",
+    "Etwa 4 Prozent der gesunden Kinder krabbeln nie auf Händen und Knien.",
+    "Bauchlage im Wachzustand kräftigt Nacken und Rumpf und beugt einer Abflachung des Hinterkopfs vor.",
+    "Ein Kind, das man hinsetzt, bevor es selbst sitzen kann, übt nicht Sitzen – es hält aus.",
+    "Lauflernhilfen sind für rund 6.000 Unfälle pro Jahr in Deutschland verantwortlich; Kinder- und Jugendärzte fordern seit 2009 ein Verbot."
+  ],
+  "blocks": [
+    {
+      "type": "p",
+      "lead": true,
+      "text": "Im ersten Lebensjahr passiert motorisch mehr als in jedem anderen Jahr des Lebens: Aus einem Neugeborenen, das den eigenen Kopf nicht halten kann, wird ein Mensch, der sich aufrichtet und losgeht. Das Erstaunliche daran ist, wie wenig Zutun es braucht. Die Reihenfolge der Schritte ist im Nervensystem angelegt und reift von selbst. Was Kinder dafür brauchen, ist keine Anleitung, sondern Gelegenheit – und das Vertrauen, dass sie es tun, wenn sie so weit sind."
+    },
+    {
+      "type": "callout",
+      "variant": "danger",
+      "title": "Wann du nicht abwarten solltest",
+      "items": [
+        "Dein Kind benutzt eine Körperhälfte deutlich weniger als die andere oder bevorzugt vor dem ersten Geburtstag klar eine Hand",
+        "Es wirkt durchgehend sehr schlaff oder durchgehend sehr steif",
+        "Es hält den Kopf mit sechs Monaten in Bauchlage nicht an",
+        "Es verliert eine Bewegung, die es schon konnte",
+        "Es kann sich mit zehn Monaten nicht frei sitzend halten oder bewegt sich mit zwölf Monaten überhaupt nicht selbstständig fort",
+        "Der Kopf ist dauerhaft zu einer Seite gedreht oder geneigt und lässt sich nicht in die Mitte bringen"
+      ]
+    },
+    {
+      "type": "section",
+      "heading": "Was wann passiert – und wie breit die Fenster sind",
+      "blocks": [
+        {
+          "type": "evidence",
+          "level": "stark",
+          "claim": "Die WHO hat bei 816 gesund aufwachsenden Kindern in fünf Ländern gemessen, wann sechs grobmotorische Schritte erreicht werden. Die Fenster zwischen dem 1. und dem 99. Perzentil sind zwischen 5,4 und 10 Monate breit.",
+          "note": "Das ist die belastbarste Zahlengrundlage, die es zu diesem Thema gibt. Sie sagt: Späteres Sitzen oder Laufen innerhalb dieser Fenster ist keine Verzögerung, sondern normale Streuung. Die Studie fand außerdem, dass 4,3 Prozent der Kinder gar nicht auf Händen und Knien krabbelten.",
+          "sources": [0]
+        },
+        {
+          "type": "figure",
+          "kind": "range",
+          "title": "Wann gesunde Kinder diese sechs Schritte schaffen",
+          "alt": "Balkendiagramm mit den Altersspannen für Sitzen, Stehen mit Hilfe, Krabbeln, Laufen mit Hilfe, freies Stehen und freies Laufen",
+          "min": 3,
+          "max": 18,
+          "ticks": [3, 6, 9, 12, 15, 18],
+          "data": [
+            { "label": "Sitzen ohne Stütze", "from": 3.8, "to": 9.2, "display": "3,8–9,2 Mon." },
+            { "label": "Stehen mit Festhalten", "from": 4.8, "to": 11.4, "display": "4,8–11,4 Mon." },
+            { "label": "Krabbeln auf Händen und Knien", "from": 5.2, "to": 13.5, "display": "5,2–13,5 Mon." },
+            { "label": "Laufen mit Festhalten", "from": 5.9, "to": 13.7, "display": "5,9–13,7 Mon." },
+            { "label": "Freies Stehen", "from": 6.9, "to": 16.9, "display": "6,9–16,9 Mon." },
+            { "label": "Freies Laufen", "from": 8.2, "to": 17.6, "display": "8,2–17,6 Mon." }
+          ],
+          "caption": "1. bis 99. Perzentil aus der WHO Motor Development Study (2006). Die Fenster überlappen stark: Ein Kind kann noch nicht sitzen, während ein gleichaltriges schon steht – beide sind unauffällig.",
+          "sources": [0]
+        },
+        {
+          "type": "timeline",
+          "title": "Der übliche Ablauf im ersten Jahr",
+          "entries": [
+            { "age": "0–2 Monate", "label": "Kopf gegen die Schwerkraft", "text": "In Bauchlage wird der Kopf kurz angehoben und zur Seite gedreht. Die Bewegungen sind noch weitgehend unwillkürlich, die Hände meist zur Faust geschlossen." },
+            { "age": "2–4 Monate", "label": "Unterarmstütz und offene Hände", "text": "Dein Kind stützt sich in Bauchlage auf die Unterarme, hebt den Kopf stabil und beginnt, die eigenen Hände zu entdecken. Es greift nach Dingen, die in Reichweite hängen." },
+            { "age": "3–6 Monate", "label": "Drehen", "text": "Erst vom Bauch auf den Rücken, dann meist umgekehrt. Ab jetzt sollte dein Kind nie mehr unbeaufsichtigt auf erhöhten Flächen liegen – das Drehen kommt oft ohne Vorwarnung." },
+            { "age": "5–9 Monate", "label": "Freies Sitzen", "text": "Aus dem eigenen Antrieb heraus, meist aus der Seitlage oder aus dem Vierfüßlerstand. Kinder, die von selbst zum Sitzen kommen, können sich auch selbst wieder daraus lösen." },
+            { "age": "6–13 Monate", "label": "Fortbewegung", "text": "Robben, Krabbeln, Po-Rutschen oder Rollen – alle Varianten zählen. Wichtig ist, dass beide Körperhälften beteiligt sind." },
+            { "age": "8–14 Monate", "label": "Hochziehen und Entlanggehen", "text": "Dein Kind zieht sich am Sofa hoch und geht seitlich am Möbel entlang. Das Hinsetzen aus dem Stand wird oft erst später gelernt als das Aufstehen – daher das Festhängen im Stand und der Protest." },
+            { "age": "9–18 Monate", "label": "Freies Stehen und Laufen", "text": "Erst Sekunden freies Stehen, dann die ersten Schritte mit breiter Spur und erhobenen Armen. Bis 18 Monate laufen etwa 90 Prozent der Kinder frei." }
+          ],
+          "caption": "Die Altersangaben entsprechen im Kern den WHO-Fenstern, ergänzt um Schritte, die dort nicht erfasst wurden. Reihenfolge und Tempo variieren – Auslassen einzelner Stufen ist möglich."
+        }
+      ]
+    },
+    {
+      "type": "section",
+      "heading": "Bauchlage im Wachzustand: die einzige echte Übung",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "Seit Säuglinge zum Schlafen konsequent auf den Rücken gelegt werden – die wirksamste Einzelmaßnahme gegen den plötzlichen Kindstod –, verbringen sie deutlich weniger Zeit auf dem Bauch. Das ist richtig und soll so bleiben. Für den Wachzustand gilt aber das Gegenteil: Dort ist die Bauchlage der Ort, an dem Nacken, Schultergürtel und Rumpf gekräftigt werden."
+        },
+        {
+          "type": "evidence",
+          "level": "moderat",
+          "claim": "Regelmäßige Bauchlage im Wachzustand fördert grobmotorische Fähigkeiten, besonders die Nackenmuskulatur, und beugt einer Abflachung des Hinterkopfs durch die Rückenlage vor.",
+          "note": "Kinder- und Jugendärzte empfehlen, damit schon in der Neugeborenenzeit zu beginnen – kurz und häufig statt lang und einmal. Die Datenlage stützt vor allem den Effekt auf Kopfform und frühe motorische Schritte; dass die Bauchlage langfristig den Entwicklungsverlauf verändert, ist nicht belegt.",
+          "sources": [1, 6]
+        },
+        {
+          "type": "steps",
+          "title": "So klappt Bauchlage auch bei Protest",
+          "items": [
+            { "title": "Kurz und oft", "text": "Zwei Minuten mehrmals täglich sind besser als zehn Minuten einmal. Steigere die Dauer so, wie dein Kind es zulässt." },
+            { "title": "Auf dir statt auf dem Boden", "text": "Bauch an Bauch auf deiner Brust ist auch Bauchlage – und für viele Neugeborene der einzige akzeptable Einstieg." },
+            { "title": "Auf Augenhöhe gehen", "text": "Leg dich daneben oder davor. Der Grund, den Kopf zu heben, bist meistens du und nicht das Spielzeug." },
+            { "title": "Nach dem Schlafen, nicht nach dem Essen", "text": "Satt und ausgeruht ist die Toleranz höher; direkt nach der Mahlzeit spuckt es leichter." },
+            { "title": "Abbrechen, wenn Weinen kommt", "text": "Bauchlage soll kein Machtkampf werden. Aufhören und später neu anbieten ist völlig in Ordnung." }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "section",
+      "heading": "Warum Hinsetzen und Laufenüben nicht empfohlen werden",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "Kaum ein Impuls ist so verbreitet und so gut gemeint: Man setzt das Kind mit Kissen abgestützt hin, weil es dann so zufrieden guckt. Oder man hält es an beiden Händen und lässt es tapsen, weil es dabei strahlt. Das Problem daran ist nicht, dass es schadet – es tut in Maßen nichts Schlimmes. Das Problem ist, dass es das Gegenteil von Üben ist."
+        },
+        {
+          "type": "comparison",
+          "title": "Selbst erreicht oder hingesetzt – der Unterschied",
+          "columns": [
+            {
+              "title": "Selbst erarbeitet",
+              "tone": "good",
+              "items": [
+                "Das Kind kommt aus eigener Kraft in die Position und wieder heraus",
+                "Rumpf- und Rückenmuskulatur tragen die Haltung",
+                "Es kann fallen, sich abstützen und daraus lernen",
+                "Es kann die Position verlassen, wenn es genug hat",
+                "Die Hände sind frei zum Greifen, weil das Gleichgewicht sitzt"
+              ]
+            },
+            {
+              "title": "Passiv hineingebracht",
+              "tone": "bad",
+              "items": [
+                "Das Kind kann sich nicht selbst befreien und ist auf Hilfe angewiesen",
+                "Die Haltung wird über Kissen oder Sitzschale stabilisiert, nicht über Muskeln",
+                "Das Gleichgewicht wird nicht trainiert, weil es nicht gebraucht wird",
+                "Die Zeit fehlt auf dem Boden, wo die eigentliche Entwicklung stattfindet",
+                "Frust entsteht dort, wo Können und Position auseinanderfallen"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "evidence",
+          "level": "moderat",
+          "claim": "Lauflernhilfen („Gehfrei“) beschleunigen das Laufenlernen nicht, sondern können die motorische Entwicklung verzögern. In Deutschland werden ihnen etwa 6.000 Unfälle pro Jahr zugeschrieben.",
+          "note": "Der Berufsverband der Kinder- und Jugendärzte fordert seit 2009 ein Verbot; verkauft werden die Geräte weiterhin. Der häufigste schwere Unfallhergang ist der Sturz die Treppe hinunter, dazu kommen Verbrühungen und Vergiftungen, weil Kinder im Gehfrei plötzlich an Dinge herankommen, die vorher außer Reichweite waren.",
+          "sources": [2, 3]
+        },
+        {
+          "type": "callout",
+          "variant": "tip",
+          "title": "Was stattdessen wirklich hilft",
+          "items": [
+            "Eine feste, ebene Fläche auf dem Boden statt Wippe, Autositz oder Sitzschale, wann immer es geht",
+            "Kleidung, die nicht einschnürt, und im Sommer barfuß oder in rutschfesten Socken",
+            "Spielzeug knapp außerhalb der Reichweite legen – das ist der ganze Trick",
+            "Stabile Möbel zum Hochziehen, deren Kanten geprüft sind",
+            "Nichts kommentieren, nichts korrigieren, nicht auffangen, bevor es nötig ist"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "section",
+      "heading": "Lagerungsasymmetrie und Kopfform",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "Manche Säuglinge drehen den Kopf immer zur selben Seite – aus Gewohnheit, wegen der Lage im Bauch oder wegen einer verkürzten Nackenmuskulatur. Die Folge ist doppelt: Der Hinterkopf flacht auf der belasteten Seite ab (Lagerungsplagiozephalie), und die Blickrichtung engt ein, was auch Greifen und Drehen zu einer Seite hin bevorzugt."
+        },
+        {
+          "type": "list",
+          "ordered": false,
+          "items": [
+            { "title": "Anregungen abwechseln:", "text": "Leg dein Kind so ins Bett, dass es mal zur einen, mal zur anderen Seite schauen muss, um dich zu sehen. Wechsle die Seite beim Wickeln, Tragen und Füttern." },
+            { "title": "Zeit auf dem Rücken begrenzen, ohne die Schlafregeln zu ändern:", "text": "Geschlafen wird weiterhin auf dem Rücken. Es geht um die Wachzeit – und darum, dass diese nicht in Wippe, Autositz und Babyschale verbracht wird." },
+            { "title": "Nicht selbst „geradebiegen“:", "text": "Den Kopf gegen Widerstand in die Gegenrichtung zu drehen oder mit Handtuchrollen zu fixieren, ist keine gute Idee. Lagerungshilfen im Bett sind zusätzlich ein Schlafrisiko." },
+            { "title": "Früh ansprechen:", "text": "Eine Asymmetrie, die sich nicht innerhalb weniger Wochen bessert, gehört in die Kinderarztpraxis. Physiotherapie wirkt in den ersten Lebensmonaten am besten, danach wird es mühsamer." }
+          ]
+        },
+        {
+          "type": "callout",
+          "variant": "warn",
+          "title": "Kopfform und Helm",
+          "text": "Die meisten leichten Abflachungen gleichen sich im Laufe des ersten und zweiten Lebensjahres von allein weitgehend aus, sobald das Kind mobil wird. Ob eine Helmtherapie bei mittelgradigen Formen einen relevanten Vorteil gegenüber konsequenter Lagerungsänderung und Physiotherapie bringt, ist fachlich umstritten. Lass dich in Ruhe beraten, bevor du dich unter Zeitdruck setzen lässt."
+        }
+      ]
+    },
+    {
+      "type": "section",
+      "heading": "Häufige Fragen",
+      "blocks": [
+        {
+          "type": "faq",
+          "items": [
+            {
+              "q": "Mein Kind hasst die Bauchlage und schreit sofort. Muss ich das durchziehen?",
+              "a": "Nein. Zwang macht die Sache dauerhaft schlimmer. Fang mit Bauch-an-Bauch-Lage auf dir an, mit dem Bauch quer über deinem Oberschenkel oder mit wenigen Sekunden auf einer festen Unterlage direkt neben dir. Häufigkeit schlägt Dauer. Wenn dein Kind mit drei bis vier Monaten die Bauchlage weiterhin komplett verweigert und in ihr den Kopf nicht anhebt, sprich es bei der nächsten U-Untersuchung an."
+            },
+            {
+              "q": "Darf mein Kind auf dem Schoß sitzen, bevor es selbst sitzen kann?",
+              "a": "Ja. Auf dem Schoß, im Tragetuch mit gut gestützter Wirbelsäule oder kurz angelehnt beim Essen ist völlig unproblematisch – dein Körper stützt mit und die Position ist jederzeit veränderbar. Gemeint ist etwas anderes: das dauerhafte Abstützen mit Kissen im Sitzring, aus dem das Kind sich nicht selbst befreien kann."
+            },
+            {
+              "q": "Mein Kind rutscht auf dem Po statt zu krabbeln. Ist das ein Problem?",
+              "a": "In der Regel nicht. Po-Rutscher lernen oft etwas später frei zu laufen, holen das aber auf. Wichtig ist, dass beide Körperhälften ähnlich benutzt werden und dass dein Kind sich überhaupt selbstständig fortbewegt. Deutliche Seitenunterschiede sind der Punkt, an dem hingeschaut werden sollte – nicht die gewählte Fortbewegungsart."
+            },
+            {
+              "q": "Kann ich mit Babyschwimmen, Kursen oder Babymassage die Motorik fördern?",
+              "a": "Als schöne gemeinsame Zeit: gerne. Als Entwicklungsbeschleuniger: nein. Es gibt keinen belastbaren Beleg dafür, dass Kurse gesunde Kinder motorisch schneller machen. Wenn ein Kurs euch Freude macht und nicht den letzten freien Nachmittag frisst, ist das Grund genug. Ein Kind, das ihn nicht besucht, verpasst nichts."
+            },
+            {
+              "q": "Mein Kind zieht sich hoch, kommt aber nicht mehr runter und schreit nachts im Stehen.",
+              "a": "Das ist eine klassische und vorübergehende Phase: Aufstehen wird oft Wochen vor dem Hinsetzen gelernt. Übe das Hinsetzen tagsüber spielerisch, indem du das Absetzen über die Seite langsam begleitest, statt es abzuheben. Nachts hilft nur ruhiges Hinlegen ohne große Diskussion – meist ist der Spuk in ein bis zwei Wochen vorbei."
+            },
+            {
+              "q": "Ab wann sind Schuhe sinnvoll?",
+              "a": "Erst, wenn draußen gelaufen wird. Drinnen ist barfuß oder rutschfeste Socke am besten, weil die Fußmuskulatur arbeitet und der Untergrund spürbar bleibt. Feste Schuhe unterstützen den Fuß nicht beim Laufenlernen, sie nehmen ihm Arbeit ab."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "callout",
+      "variant": "info",
+      "title": "Kurz gesagt",
+      "text": "Boden statt Sitzschale, Bauchlage im Wachen, keine Lauflernhilfe, kein Hinsetzen und kein Handhalten beim Laufen. Der Rest ist Zeit – und die Fenster, in denen sich gesunde Kinder bewegen, sind viel breiter als der Vergleich in der Krabbelgruppe vermuten lässt."
+    }
+  ],
+  "sources": [
+    {
+      "title": "WHO Motor Development Study: Windows of achievement for six gross motor development milestones",
+      "publisher": "WHO Multicentre Growth Reference Study Group, Acta Paediatrica Supplement",
+      "year": "2006",
+      "kind": "Studie",
+      "url": "https://cdn.who.int/media/docs/default-source/child-growth/child-growth-standards/indicators/motor-development-milestones/who-motor-development-study-windows-of-achievement-for-six-gross-motor-development-milestones.pdf"
+    },
+    {
+      "title": "Merkblatt Tummy Time for Infants – Bauchzeit für Säuglinge",
+      "publisher": "Berufsverband der Kinder- und Jugendärzte (BVKJ), kinderaerzte-im-netz.de",
+      "year": "2014",
+      "kind": "Empfehlung",
+      "url": "https://www.kinderaerzte-im-netz.de/media/53ec9e3733af614b7301400a/source/20140109195754_merkblatt-tummy-time.pdf"
+    },
+    {
+      "title": "Kinder- und Jugendärzte raten zum wiederholten Male dringend von Lauflernhilfen ab",
+      "publisher": "Berufsverband der Kinder- und Jugendärzte (BVKJ), kinderaerzte-im-netz.de",
+      "year": "2018",
+      "kind": "Empfehlung",
+      "url": "https://www.kinderaerzte-im-netz.de/news-archiv/meldung/kinder-und-jugendaerzte-raten-zum-wiederholten-male-dringend-von-lauflernhilfen-ab/"
+    },
+    {
+      "title": "Lauflernhilfen: Überflüssig, gefährlich – aber immer noch nicht verboten",
+      "publisher": "Stiftung Warentest",
+      "year": "2015",
+      "kind": "Institutionelle Information",
+      "url": "https://www.test.de/Lauflernhilfen-Ueberfluessig-gefaehrlich-aber-immer-noch-nicht-verboten-4266104-0/"
+    },
+    {
+      "title": "Entwicklung im 1. Lebensjahr",
+      "publisher": "Bundeszentrale für gesundheitliche Aufklärung (BZgA), kindergesundheit-info.de",
+      "year": "2024",
+      "kind": "Institutionelle Information",
+      "url": "https://www.kindergesundheit-info.de/themen/entwicklung/0-12-monate/"
+    },
+    {
+      "title": "Meilen- und Grenzsteine der Entwicklung: Was Kinderärztinnen und Kinderärzte wissen müssen",
+      "publisher": "Monatsschrift Kinderheilkunde, Springer",
+      "year": "2022",
+      "kind": "Übersichtsarbeit",
+      "url": "https://link.springer.com/article/10.1007/s00112-022-01547-z"
+    },
+    {
+      "title": "Liegen auf dem Bauch trainiert wache Babys und wirkt gegen Abflachung des Hinterkopfs",
+      "publisher": "Berufsverband der Kinder- und Jugendärzte (BVKJ), kinderaerzte-im-netz.de",
+      "year": "2017",
+      "kind": "Institutionelle Information",
+      "url": "https://www.kinderaerzte-im-netz.de/news-archiv/meldung/liegen-auf-dem-bauch-trainiert-wache-babys-und-wirkt-gegen-abflachung-des-hinterkopfs/"
+    }
+  ],
+  "related": ["meilensteine-uebersicht", "sicherer-schlaf", "babys-spielen", "entwicklungsverzoegerung-erkennen"]
+}

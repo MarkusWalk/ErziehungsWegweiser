@@ -1,0 +1,292 @@
+{
+  "slug": "schreibaby",
+  "title": "Wenn nichts hilft: Schreibaby und Regulationsstörung",
+  "subtitle": "Wo normales Schreien aufhört, was eine Regulationsstörung ist, wo du in Deutschland kostenlose Hilfe bekommst – und wie du die Wochen bis dahin körperlich überstehst.",
+  "phases": ["neugeborenes", "saeugling"],
+  "topics": ["besondere-situationen", "eltern"],
+  "updated": "2026-08-05",
+  "summary": "Wenn ein Baby über Wochen mehr als drei Stunden am Tag untröstlich schreit, spricht man von exzessivem Schreien oder einer frühkindlichen Regulationsstörung. Das ist kein Erziehungsfehler und in aller Regel keine Krankheit des Kindes, sondern eine Reifungsverzögerung im Zusammenspiel von Schreien, Schlafen und Füttern. In Deutschland gibt es dafür ein eigenes Hilfesystem: Schreiambulanzen und Frühe Hilfen, kostenlos und ohne Überweisung. Und es gibt eine Regel, die über allem steht: niemals schütteln.",
+  "keyFacts": [
+    "Dreierregel: mehr als 3 Stunden Schreien an mehr als 3 Tagen pro Woche über mehr als 3 Wochen.",
+    "Nach dieser Definition sind in den ersten sechs Wochen etwa 17 bis 25 Prozent der Säuglinge betroffen, mit 10 bis 12 Wochen weniger als 1 Prozent.",
+    "Bei der großen Mehrheit findet sich keine organische Ursache – ausschließen sollte man sie trotzdem einmal.",
+    "Schreiambulanzen und Frühe Hilfen sind kostenlos, freiwillig und unabhängig vom Einkommen.",
+    "Jährlich kommen in Deutschland schätzungsweise 100 bis 200 Kinder mit Schütteltrauma in Kliniken. Es ist die häufigste nicht natürliche Todesursache im Säuglingsalter."
+  ],
+  "blocks": [
+    {
+      "type": "p",
+      "lead": true,
+      "text": "Es gibt einen Punkt, an dem die üblichen Ratschläge aufhören zu helfen. Du hast getragen, gepucktet, gestillt, gefahren, gesungen, ausgeschlossen, ausprobiert – und dein Kind schreit trotzdem, stundenlang, fast täglich, seit Wochen. Wenn du an diesem Punkt bist, ist der wichtigste Satz dieses Artikels: Das liegt nicht an dir, und du musst das nicht allein aushalten. Für genau diese Situation existiert in Deutschland ein eigenes, kostenloses Hilfesystem."
+    },
+    {
+      "type": "callout",
+      "variant": "danger",
+      "title": "Niemals schütteln – und was du stattdessen tust",
+      "text": "Schütteln kann bei einem Säugling in wenigen Sekunden zu Einblutungen im Gehirn, bleibender Behinderung oder zum Tod führen. Der Impuls dazu entsteht fast immer im Zustand völliger Erschöpfung – also genau in der Lage, in der du gerade bist. Deshalb brauchst du jetzt einen Plan, nicht später einen Vorsatz: **Leg dein Kind sicher ab** (Rückenlage, eigenes Bett, nichts drumherum), **verlass den Raum**, **ruf jemanden an** – Partnerin, Freundin, Nachbar, oder das Elterntelefon **0800 111 0 550**. Ein Baby, das ein paar Minuten sicher liegend schreit, nimmt keinen Schaden. Ein geschütteltes Baby schon. Alle Nummern findest du gebündelt auf der [Notfallseite](../notfall.html)."
+    },
+    {
+      "type": "steps",
+      "title": "Notfallplan für den eigenen Kipppunkt",
+      "items": [
+        { "title": "Ablegen", "text": "Kind auf den Rücken ins eigene Bett. Nicht auf Sofa, Sessel oder Wickeltisch. Tür offen lassen." },
+        { "title": "Rausgehen, zwei Minuten", "text": "Kaltes Wasser über die Handgelenke, Fenster auf, bewusst ausatmen. Die Uhr im Blick behalten hilft, wieder Struktur zu spüren." },
+        { "title": "Anrufen", "text": "Es muss niemand einen Rat haben. Sprechen allein senkt die Anspannung. Elterntelefon: 0800 111 0 550, kostenfrei und anonym." },
+        { "title": "Am nächsten Tag Hilfe organisieren", "text": "Nicht nur diesen Abend überstehen. Kinderarztpraxis, Hebamme, Schreiambulanz, Frühe Hilfen – eine Nummer reicht als Anfang." }
+      ]
+    },
+    {
+      "type": "section",
+      "heading": "Wo hört normales Schreien auf?",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "Die gängigste Abgrenzung ist die Dreierregel, ursprünglich von Morris Wessel formuliert: untröstliches Schreien an mehr als drei Tagen pro Woche, über mehr als drei Stunden täglich, über mehr als drei Wochen. Sie ist eine Konvention, keine Diagnose – aber sie ist nützlich, weil sie eine Schwelle setzt, ab der Eltern nicht mehr vertröstet werden sollten."
+        },
+        {
+          "type": "evidence",
+          "level": "stark",
+          "claim": "Nach der Dreierregel erfüllen in den ersten sechs Lebenswochen 17 bis 25 Prozent der Säuglinge die Kriterien. Mit 8 bis 9 Wochen sind es noch 11 Prozent, mit 10 bis 12 Wochen unter 1 Prozent.",
+          "note": "Aus einer Metaanalyse von 28 Tagebuchstudien mit 8.690 Kindern. Zwei Dinge sind daran wichtig: Erstens bist du mit einem Kind, das die Kriterien erfüllt, keineswegs allein – es ist in den ersten Wochen fast jedes fünfte. Zweitens ist der Verlauf günstig: In fast allen Fällen ist der Spuk mit drei Monaten vorbei.",
+          "sources": [1]
+        },
+        {
+          "type": "p",
+          "text": "In der deutschsprachigen Fachwelt wird eher von einer frühkindlichen Regulationsstörung gesprochen. Gemeint ist damit mehr als lautes Schreien: Es geht um die Schwierigkeit eines Säuglings, seine Zustände selbst zu steuern – wach werden, sich beruhigen, in den Schlaf finden, Trinken und Verdauen koordinieren. Deshalb treten Schreien, Ein- und Durchschlafprobleme und Fütterschwierigkeiten so oft gemeinsam auf."
+        },
+        {
+          "type": "evidence",
+          "level": "moderat",
+          "claim": "Exzessives Schreien wird fachlich nicht als isoliertes Symptom betrachtet, sondern gemeinsam mit Schlaf- und Fütterproblemen sowie der Belastung der Eltern beurteilt.",
+          "note": "Die aktuelle AWMF-Leitlinie zu psychischen Störungen im Säuglings-, Kleinkind- und Vorschulalter beschreibt Schrei-, Schlaf- und Fütterstörungen als eng verwandte Regulationsprobleme und bezieht die Eltern-Kind-Interaktion ausdrücklich in Diagnostik und Behandlung ein. Das ist keine Schuldzuweisung – es bedeutet, dass Hilfe an beiden Enden ansetzt: beim Kind und bei der Entlastung der Eltern.",
+          "sources": [0]
+        }
+      ]
+    },
+    {
+      "type": "section",
+      "heading": "Was dahinterstecken kann",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "Bei der großen Mehrheit findet sich keine behandelbare körperliche Ursache. Trotzdem gehört ein Kind, das die Dreierregel erfüllt, einmal gründlich untersucht – nicht, weil eine Krankheit wahrscheinlich ist, sondern weil ihr Ausschluss die Zeit danach erträglicher macht."
+        },
+        {
+          "type": "list",
+          "items": [
+            { "title": "Einmal ärztlich ausschließen:", "text": "Kuhmilchproteinunverträglichkeit, ausgeprägter Reflux mit Schmerz, Harnwegsinfekt, Leistenbruch, Mittelohrentzündung, neurologische Auffälligkeiten, Gedeihstörung." },
+            { "title": "Häufig beteiligt, aber selten alleinige Ursache:", "text": "unreife Reizverarbeitung, chronische Übermüdung, ein sehr reizoffenes Temperament, Frühgeburtlichkeit." },
+            { "title": "Verstärker, keine Auslöser:", "text": "Erschöpfung und Anspannung der Eltern, Konflikte in der Partnerschaft, fehlende Entlastung. Sie machen das Schreien nicht, aber sie machen es schwerer erträglich – und deshalb sind sie ein legitimer Behandlungsansatz." },
+            { "title": "Was so gut wie nie die Ursache ist:", "text": "zu wenig Konsequenz, zu viel Nähe, „falsches“ Tragen oder das Verwöhnen des Kindes." }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "section",
+      "heading": "Was hilft – und was wenig bringt",
+      "blocks": [
+        {
+          "type": "comparison",
+          "title": "Maßnahmen im Realitätscheck",
+          "columns": [
+            {
+              "title": "Lohnt den Versuch",
+              "tone": "good",
+              "items": [
+                "Reizarmer Tagesablauf mit festen Ankern statt vieler Termine",
+                "Frühe Müdigkeitszeichen nutzen, bevor Übermüdung entsteht",
+                "Viel Körperkontakt und Tragen, besonders am Nachmittag",
+                "Feste Ablösung zwischen den Eltern nach Uhrzeit",
+                "Vorstellung in einer Schreiambulanz",
+                "Bei gestillten Kindern: probiotischer Versuch nach ärztlicher Absprache"
+              ]
+            },
+            {
+              "title": "Belege dünn oder fehlend",
+              "tone": "neutral",
+              "items": [
+                "Entschäumende Tropfen als Dauerlösung",
+                "Osteopathie und Craniosacraltherapie",
+                "Weglassen von Nahrungsmitteln in der Stillzeit ohne Verdacht",
+                "Wechsel der Säuglingsmilch auf Verdacht",
+                "Homöopathische Mittel",
+                "Schlafprogramme in den ersten Lebensmonaten"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "evidence",
+          "level": "umstritten",
+          "claim": "Probiotika mit Lactobacillus reuteri verkürzen in Studien die tägliche Schreidauer, im Mittel um rund 44 Minuten. Die Ergebnisse der Einzelstudien widersprechen sich jedoch stark.",
+          "note": "Das Ergebnis stammt aus einer Cochrane-Auswertung. Die Streuung zwischen den Studien war sehr groß, und der Effekt zeigte sich am ehesten bei ausschließlich gestillten Kindern. Das heißt praktisch: Ein Versuch ist vertretbar und risikoarm, eine Garantie ist es nicht. Sprich vorher mit deiner Kinderärztin, statt selbst zu dosieren.",
+          "sources": [2]
+        },
+        {
+          "type": "callout",
+          "variant": "tip",
+          "title": "Das Schreiprotokoll",
+          "text": "Führe eine Woche lang ein einfaches Protokoll: Uhrzeit, Dauer, was davor war, was geholfen hat. Das klingt nach zusätzlicher Arbeit und ist trotzdem eine der wirksamsten Maßnahmen – es macht Muster sichtbar (fast immer: Übermüdung am Nachmittag), es zeigt dir Fortschritte, die im Gefühl untergehen, und es ist die beste Vorbereitung auf einen Termin in der Schreiambulanz."
+        }
+      ]
+    },
+    {
+      "type": "section",
+      "heading": "Hilfe holen: Schreiambulanz und Frühe Hilfen",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "Schreiambulanzen sind spezialisierte Beratungsstellen für Regulationsprobleme im ersten Lebensjahr, meist an Kliniken, Sozialpädiatrischen Zentren oder Erziehungsberatungsstellen. Dort arbeiten Kinderärztinnen, Psychologen und Therapeutinnen zusammen: Sie untersuchen das Kind, schauen sich mit euch Videos alltäglicher Situationen an und entwickeln daraus einen Plan – für den Tagesablauf, die Beruhigung und eure Entlastung."
+        },
+        {
+          "type": "steps",
+          "title": "In vier Schritten zu Unterstützung",
+          "items": [
+            { "title": "Kinderarztpraxis ansprechen", "text": "Körperliche Ursachen abklären lassen und ausdrücklich sagen, wie belastet ihr seid. Wer nur „mein Kind schreit viel“ sagt, bekommt oft nur „das wächst sich aus“ zurück." },
+            { "title": "Schreiambulanz suchen", "text": "Das Nationale Zentrum Frühe Hilfen führt eine bundesweite Suche nach Postleitzahl unter [elternsein.info](https://www.elternsein.info/suche-schreiambulanzen/). Angebote sind in der Regel kostenfrei." },
+            { "title": "Frühe Hilfen einschalten", "text": "Familienhebammen und Gesundheitsfachkräfte kommen nach Hause, für Familien mit Kindern bis drei Jahre. Kostenlos, freiwillig, unabhängig vom Einkommen. Zugang über Jugendamt, Kinderarztpraxis oder Geburtsklinik." },
+            { "title": "Entlastung im Alltag organisieren", "text": "Haushaltshilfe über die Krankenkasse prüfen, Großeltern konkret einteilen, Freundinnen nach Stunden statt nach Bereitschaft fragen. Konkrete Bitten werden viel häufiger erfüllt als allgemeine." }
+          ]
+        },
+        {
+          "type": "callout",
+          "variant": "myth",
+          "title": "„Wenn ich Hilfe hole, gelte ich als überfordert“",
+          "text": "Die Sorge, das Jugendamt könne aufmerksam werden, hält viele Familien zurück. Tatsächlich ist der weitaus größte Teil dieser Arbeit Unterstützung, nicht Kontrolle. Wer sich früh meldet, dokumentiert Verantwortung, nicht Versagen – und Frühe Hilfen sind genau dafür geschaffen worden."
+        }
+      ]
+    },
+    {
+      "type": "section",
+      "heading": "Für dich: die Eltern sind der eigentliche Notfall",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "Chronischer Schlafmangel verändert Wahrnehmung und Impulskontrolle. Nach Wochen mit unterbrochenem Schlaf reagieren Menschen gereizter und deuten neutrale Signale negativer. Das ist Biologie, kein Charakterfehler – und der Grund, warum die Entlastung der Eltern in der Behandlung eines Schreibabys gleichrangig neben der Betreuung des Kindes steht."
+        },
+        {
+          "type": "list",
+          "items": [
+            { "title": "Schlaf in Schichten:", "text": "Eine Person übernimmt die erste Nachthälfte vollständig, die andere die zweite, mit Ohrstöpseln in getrennten Räumen. Vier Stunden zusammenhängender Schlaf sind mehr wert als acht unterbrochene." },
+            { "title": "Eine Sache pro Tag:", "text": "Ein Punkt auf der Liste, mehr nicht. Alles andere darf liegen bleiben, auch die Wohnung." },
+            { "title": "Termine ausdünnen:", "text": "Besuch absagen ist erlaubt." },
+            { "title": "Essen und Trinken:", "text": "Wird als Erstes vergessen und verschärft die Erschöpfung verlässlich." },
+            { "title": "Draußen sein:", "text": "Ein Spaziergang hilft dem Kind manchmal, dir fast immer." }
+          ]
+        },
+        {
+          "type": "callout",
+          "variant": "warn",
+          "title": "Wenn es mehr als Erschöpfung ist",
+          "text": "Anhaltende Niedergeschlagenheit, Angst, Schuldgefühle, das Gefühl, keine Verbindung zum Kind zu haben, aufdringliche Gedanken, dem Kind könnte etwas zustoßen, oder das Gefühl, ohne dich wären alle besser dran – das sind Anzeichen einer postpartalen Depression oder Angststörung. Sie sind häufig, sie betreffen auch Väter, und sie sind gut behandelbar. Sprich deine Hebamme, die Frauenärztin oder die Kinderarztpraxis an. Bei akuten Gedanken, dir oder deinem Kind etwas anzutun: Telefonseelsorge 0800 111 0 111 oder 0800 111 0 222, rund um die Uhr, oder Notruf 112."
+        }
+      ]
+    },
+    {
+      "type": "section",
+      "heading": "Wie es weitergeht",
+      "blocks": [
+        {
+          "type": "timeline",
+          "title": "Der typische Verlauf",
+          "entries": [
+            { "age": "0–2 Wochen", "label": "Noch unauffällig", "text": "Das Schreien nimmt zu, wirkt aber meist erklärbar." },
+            { "age": "3–6 Wochen", "label": "Die härteste Phase", "text": "Höchste Schrei- und Quengeldauer, Schwerpunkt am Abend. Fast jedes fünfte Kind erfüllt hier die Dreierregel. Jetzt Hilfe zu holen ist früh genug, nicht zu früh." },
+            { "age": "7–9 Wochen", "label": "Erste Entspannung", "text": "Die Episoden werden kürzer, die Abstände länger. Der Anteil betroffener Kinder halbiert sich etwa." },
+            { "age": "10–14 Wochen", "label": "Der Umschwung", "text": "Deutlicher Rückgang, im Mittel auf rund eine Stunde am Tag. Gleichzeitig ordnet sich der Tag-Nacht-Rhythmus." },
+            { "age": "ab 4 Monaten", "label": "Wenn es bleibt", "text": "Hält das Schreien an oder kommen Schlaf- und Fütterprobleme dazu, gehört das fachlich abgeklärt." }
+          ],
+          "caption": "Verlauf nach den Mittelwerten der Metaanalyse von Wolke und Kollegen (2017). Einzelne Kinder weichen deutlich ab – die Richtung stimmt trotzdem fast immer.",
+          "sources": [1]
+        }
+      ]
+    },
+    {
+      "type": "section",
+      "heading": "Häufige Fragen",
+      "blocks": [
+        {
+          "type": "faq",
+          "items": [
+            {
+              "q": "Bekommt mein Kind Schäden davon, dass es so viel schreit?",
+              "a": "Nein. Ein Kind, das schreit und dabei begleitet wird, trägt keinen bleibenden Schaden davon. Was tatsächlich schadet, ist Gewalt in Momenten der Überforderung – deshalb liegt der Fokus aller Präventionsprogramme auf der Entlastung der Eltern und nicht auf dem Schreien selbst."
+            },
+            {
+              "q": "Ist mein Kind später schwieriger, weil es ein Schreibaby war?",
+              "a": "Für die meisten Kinder gilt: Nach dem dritten Monat unterscheiden sie sich nicht mehr von anderen. Ein etwas erhöhtes Risiko für spätere Regulations- und Verhaltensauffälligkeiten zeigt sich vor allem dann, wenn das Schreien über den vierten Monat hinaus anhält und mit Schlaf- oder Fütterproblemen einhergeht. Genau deshalb lohnt es sich, in diesen Fällen fachliche Hilfe zu holen."
+            },
+            {
+              "q": "Muss ich in die Schreiambulanz, oder reicht die Kinderarztpraxis?",
+              "a": "Fang in der Kinderarztpraxis an – körperliche Ursachen gehören zuerst ausgeschlossen. Eine Schreiambulanz ist dann sinnvoll, wenn das Schreien anhält, wenn Schlafen oder Füttern zusätzlich schwierig sind oder wenn ihr als Eltern am Limit seid. Der letzte Grund allein genügt vollkommen."
+            },
+            {
+              "q": "Kostet die Schreiambulanz etwas, und braucht man eine Überweisung?",
+              "a": "Die Angebote sind in der Regel kostenfrei; bei klinisch angebundenen Ambulanzen kann eine Überweisung nötig sein, bei Beratungsstellen meist nicht. Eine bundesweite Suche nach Postleitzahl gibt es beim Nationalen Zentrum Frühe Hilfen."
+            },
+            {
+              "q": "Mein Partner sagt, ich soll das Kind mehr schreien lassen. Wer hat recht?",
+              "a": "In den ersten Monaten gibt es dazu keinen fachlichen Streit: Prompte Zuwendung ist empfohlen, geplantes Schreienlassen zur Gewöhnung nicht. Etwas anderes ist es, das Kind kurz sicher abzulegen, um selbst durchzuatmen – das ist ausdrücklich richtig. Hinter solchen Sätzen steckt oft die eigene Erschöpfung: Sprecht lieber über Ablösung und Schlafverteilung als über Methoden."
+            },
+            {
+              "q": "Ich habe mein Kind einmal grob hingelegt oder angeschrien. Was jetzt?",
+              "a": "Sprich es an – bei deiner Hebamme, in der Kinderarztpraxis oder in einer Beratungsstelle. Solche Momente kommen unter Schlafentzug vor und sind kein Grund, den Kontakt zu Fachleuten zu meiden, sondern der beste Grund, ihn zu suchen. Falls du dein Kind geschüttelt hast, auch nur kurz: Lass es sofort ärztlich untersuchen, auch wenn es unauffällig wirkt. Verletzungen im Kopf sind von außen nicht sichtbar."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "callout",
+      "variant": "info",
+      "title": "Kurz gesagt",
+      "text": "Ein Schreibaby ist kein Erziehungsergebnis und in aller Regel keine Krankheit, sondern eine besonders harte Reifungsphase mit sehr guter Prognose. Deine Aufgabe ist nicht, das Schreien zu beenden – sondern dein Kind sicher hindurchzubringen und dafür zu sorgen, dass du selbst dabei nicht zerbrichst. Hilfe zu holen ist der wirksamste Schritt, den du in dieser Phase gehen kannst."
+    }
+  ],
+  "sources": [
+    {
+      "title": "S2k-Leitlinie: Psychische Störungen im Säuglings-, Kleinkind- und Vorschulalter (AWMF-Register-Nr. 028-041)",
+      "publisher": "AWMF / Deutsche Gesellschaft für Kinder- und Jugendpsychiatrie, Psychosomatik und Psychotherapie",
+      "year": "2025",
+      "kind": "Leitlinie",
+      "url": "https://register.awmf.org/assets/guidelines/028-041l_S2k_Psychische_Stoerungen_Saeugling_Kleinkind_Vorschulalter_2025-03.pdf"
+    },
+    {
+      "title": "Systematic Review and Meta-Analysis: Fussing and Crying Durations and Prevalence of Colic in Infants",
+      "publisher": "The Journal of Pediatrics (Wolke, Bilgin, Samara)",
+      "year": "2017",
+      "kind": "Metaanalyse",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/28385295/"
+    },
+    {
+      "title": "Probiotics to prevent infantile colic",
+      "publisher": "Cochrane Database of Systematic Reviews (Ong, Gordon, Banks u. a.)",
+      "year": "2019",
+      "kind": "Übersichtsarbeit",
+      "url": "https://www.cochrane.org/evidence/CD012473_probiotics-prevent-infantile-colic"
+    },
+    {
+      "title": "Babyschreien und Schütteltrauma – Zahlen und Fakten",
+      "publisher": "Nationales Zentrum Frühe Hilfen (NZFH)",
+      "year": "2024",
+      "kind": "Institutionelle Information",
+      "url": "https://www.fruehehilfen.de/grundlagen-und-fachthemen/fachthemen/babyschreien-und-schuetteltrauma/zahlen-und-fakten/"
+    },
+    {
+      "title": "Suche Schreiambulanzen – bundesweite Datenbank für Eltern",
+      "publisher": "Nationales Zentrum Frühe Hilfen (NZFH), elternsein.info",
+      "year": "2025",
+      "kind": "Institutionelle Information",
+      "url": "https://www.elternsein.info/suche-schreiambulanzen/"
+    },
+    {
+      "title": "Das Schreien des Babys",
+      "publisher": "Bundeszentrale für gesundheitliche Aufklärung (BZgA), kindergesundheit-info.de",
+      "year": "2024",
+      "kind": "Institutionelle Information",
+      "url": "https://www.kindergesundheit-info.de/themen/entwicklung/0-12-monate/schreien/"
+    }
+  ],
+  "related": ["schreien-verstehen", "elterliche-erschoepfung", "postpartale-depression", "tragen-und-koerperkontakt"]
+}

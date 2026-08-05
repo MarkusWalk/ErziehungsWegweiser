@@ -1,0 +1,307 @@
+{
+  "slug": "einschlafbegleitung",
+  "title": "Einschlafbegleitung: die Methoden im Vergleich",
+  "subtitle": "Von durchgehender Begleitung über schrittweises Zurückziehen bis zu Programmen mit Schreienlassen – was die Studienlage zu Wirksamkeit und zu möglichen Folgen für die Bindung hergibt, und wo sie ehrlicherweise endet.",
+  "phases": ["saeugling", "kleinkind"],
+  "topics": ["schlaf", "bindung"],
+  "updated": "2026-08-05",
+  "summary": "Es gibt nicht die eine richtige Art, ein Kind ins Bett zu bringen. Belegt ist, dass verhaltensbezogene Einschlafmethoden ab dem zweiten Halbjahr das Einschlafen beschleunigen und nächtliches Aufwachen verringern – und dass sich in den vorliegenden Nachuntersuchungen keine langfristigen Schäden für Bindung oder Verhalten gezeigt haben. Umstritten bleibt, was während der Anwendung im Kind passiert, wie belastbar die Entwarnung angesichts kleiner Stichproben ist und wo die Grenze zwischen Anleitung und Vorschrift verläuft. Im ersten Lebenshalbjahr raten Fachgesellschaften von Methoden mit Schreienlassen ab.",
+  "keyFacts": [
+    "Alle hier beschriebenen Wege sind vertretbar – auch der, gar nichts zu ändern.",
+    "Verhaltensbezogene Methoden wirken bei einem Großteil der Kinder auf Einschlafdauer und nächtliches Aufwachen; das ist gut belegt.",
+    "Die vorliegenden Nachuntersuchungen fanden nach einem Jahr und nach fünf Jahren keine Unterschiede bei Bindung, Verhalten oder Eltern-Kind-Beziehung.",
+    "Die Frage nach der Belastung während der Anwendung ist nicht abschließend geklärt – die Studien dazu sind klein und methodisch angreifbar.",
+    "Vor dem sechsten Lebensmonat sind Methoden mit Schreienlassen nicht empfohlen; ein Nutzen ist in diesem Alter nicht belegt."
+  ],
+  "blocks": [
+    {
+      "type": "p",
+      "lead": true,
+      "text": "Kaum ein Thema in der frühen Elternschaft ist so aufgeladen wie dieses. Auf der einen Seite steht die Behauptung, ein Kind müsse allein einschlafen lernen, sonst lerne es das nie. Auf der anderen die Behauptung, jedes Schlafprogramm hinterlasse Schäden. Beides geht über das hinaus, was die Datenlage trägt. Was sie trägt, steht hier – einschließlich der Stellen, an denen sie schweigt."
+    },
+    {
+      "type": "callout",
+      "variant": "info",
+      "title": "Vorweg, damit du weiterlesen kannst",
+      "text": "Dieser Artikel empfiehlt dir keine Methode. Er beschreibt, was es gibt, was jeweils belegt ist und was nicht. Es gibt in dieser Frage keinen Weg, den du deinem Kind schuldest – und keinen, der es beschädigt, wenn du ihn nicht gehst. Wenn ihr gerade gut zurechtkommt, brauchst du überhaupt nichts zu ändern. Schlafprobleme werden erst dann zu einem Thema, wenn sie euch als Familie belasten."
+    },
+    {
+      "type": "section",
+      "heading": "Worum es eigentlich geht: Einschlafumstände",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "Der Fachbegriff heißt Einschlafassoziation und meint schlicht: die Umstände, unter denen ein Kind einschläft. Am Ende jedes Schlafzyklus – bei Säuglingen etwa alle 50 bis 60 Minuten – kommt jeder Mensch kurz an eine Wachschwelle. Wer die Umgebung dort so vorfindet wie beim Einschlafen, dreht sich um und schläft weiter. Wer sie anders vorfindet, wird richtig wach. Ein Kind, das an der Brust einschläft und im Bett aufwacht, meldet sich also nicht aus Unart, sondern weil sich etwas verändert hat."
+        },
+        {
+          "type": "p",
+          "text": "Daraus folgt die Logik aller Einschlafmethoden: Man kann entweder die Umstände beim Einschlafen so wählen, dass sie nachts weiterbestehen (Kind liegt im Bett, Eltern in der Nähe oder nicht), oder man bleibt bei der Begleitung und greift nachts entsprechend ein. Beides ist in sich stimmig. Der Unterschied liegt nicht in richtig und falsch, sondern darin, wo die Anstrengung liegt: einmalig konzentriert oder über Jahre verteilt in kleinen Portionen."
+        },
+        {
+          "type": "p",
+          "text": "Ein zweiter Punkt wird oft übersehen: Ein großer Teil dessen, was Eltern als Einschlafproblem erleben, ist gar keins. Ein Kind, das abends 45 Minuten braucht, ist möglicherweise einfach noch nicht müde – der innere Schlafdruck reicht nicht aus. Dagegen hilft keine Methode, sondern eine spätere Bettzeit."
+        }
+      ]
+    },
+    {
+      "type": "section",
+      "heading": "Die Methoden nebeneinander",
+      "blocks": [
+        {
+          "type": "table",
+          "title": "Fünf Wege, ein Kind ins Bett zu bringen",
+          "head": ["Ansatz", "So läuft es ab", "Worauf du dich einstellst"],
+          "rows": [
+            [
+              "Durchgehende Begleitung",
+              "Du bleibst, bis das Kind schläft – stillend, tragend, liegend, die Hand haltend. Nachts wird ebenso begleitet.",
+              "Kein Bruch, kein Protest, keine Umstellung. Dafür bist du abends gebunden, oft über Jahre, und nachts eingeplant. Funktioniert gut, solange es für alle Beteiligten trägt."
+            ],
+            [
+              "Bettzeit-Anpassung (Bedtime Fading)",
+              "Die Bettzeit wird zunächst auf den Zeitpunkt gelegt, zu dem das Kind tatsächlich einschläft, und dann in Schritten von 15 Minuten nach vorn gezogen.",
+              "Die sanfteste der untersuchten Methoden, weil sie am Schlafdruck ansetzt statt am Verhalten. Braucht Geduld und ein paar Nächte mit später Bettzeit."
+            ],
+            [
+              "Schrittweises Zurückziehen (Fading, auch Ausschleichen)",
+              "Du bleibst im Raum, reduzierst aber alle paar Nächte den Einsatz: erst tragen, dann Hand auf dem Rücken, dann nur noch danebensitzen, dann weiter weg.",
+              "Dauert länger – meist zwei bis sechs Wochen – und verlangt Konsequenz über viele Abende. Dafür ist das Kind nie allein und du kannst jederzeit einen Schritt zurückgehen."
+            ],
+            [
+              "Chair-Methode (Stuhlmethode)",
+              "Eine formalisierte Variante des Zurückziehens: Du sitzt auf einem Stuhl neben dem Bett und rückst ihn alle paar Nächte ein Stück Richtung Tür, bis er auf dem Flur steht.",
+              "Klar strukturiert und für viele Eltern leichter durchzuhalten als freies Ausschleichen. Kinder protestieren dabei durchaus, aber du bist sichtbar anwesend."
+            ],
+            [
+              "Kontrolliertes Schreienlassen (graduierte Extinktion)",
+              "Du legst das Kind wach hin und gehst hinaus. Bei Protest kommst du nach festgelegten, schrittweise länger werdenden Intervallen kurz herein, tröstest knapp und gehst wieder.",
+              "Wirkt bei vielen Kindern innerhalb weniger Nächte. Verlangt, das Weinen des eigenen Kindes über Minuten auszuhalten – für einen erheblichen Teil der Eltern der Punkt, an dem sie abbrechen."
+            ]
+          ],
+          "caption": "Die vollständige Extinktion – hinlegen, Tür zu, bis zum Morgen nicht mehr hineingehen – ist in der Forschung ebenfalls untersucht, wird in der Beratungspraxis aber kaum noch vermittelt, weil sie für Eltern extrem schwer durchzuhalten ist und sicherheitsrelevante Signale des Kindes überhören lässt."
+        },
+        {
+          "type": "timeline",
+          "title": "Beispielablauf für schrittweises Zurückziehen",
+          "entries": [
+            {
+              "age": "Vorher",
+              "label": "Rahmen prüfen",
+              "text": "Bettzeit passt zum tatsächlichen Einschlafzeitpunkt, Tagschlaf endet nicht zu spät, Abendabfolge ist seit ein bis zwei Wochen stabil. Ohne diese Grundlage scheitert jede Methode."
+            },
+            {
+              "age": "Nacht 1–4",
+              "label": "Nah bleiben, weniger tun",
+              "text": "Du legst dein Kind wach, aber schläfrig ins Bett und bleibst mit Körperkontakt daneben – Hand auf dem Rücken, Stimme ruhig. Getragen oder gestillt wird zum Einschlafen nicht mehr."
+            },
+            {
+              "age": "Nacht 5–8",
+              "label": "Kontakt reduzieren",
+              "text": "Du sitzt neben dem Bett, ohne Dauerkontakt. Bei Aufregung berührst du kurz, nimmst die Hand dann wieder weg."
+            },
+            {
+              "age": "Nacht 9–14",
+              "label": "Abstand vergrößern",
+              "text": "Der Sitzplatz rückt Richtung Tür. Du reagierst weiter auf jedes Rufen, aber vom neuen Platz aus."
+            },
+            {
+              "age": "Ab Nacht 15",
+              "label": "Aus dem Raum",
+              "text": "Du bringst dein Kind ins Bett, sagst denselben Satz wie immer und gehst hinaus, kommst bei Rufen zurück. Viele Kinder brauchen bis hierhin länger als zwei Wochen – dann verlängerst du die Stufen, statt sie zu überspringen."
+            }
+          ],
+          "caption": "Kein Protokoll aus einer Studie, sondern eine übliche Umsetzung des in Studien untersuchten Prinzips. Die Zeitangaben sind Orientierung: Jede Stufe wird so lange gehalten, bis sie unauffällig läuft. Rückschritte bei Infekten, Zahnen oder Reisen gehören dazu."
+        }
+      ]
+    },
+    {
+      "type": "section",
+      "heading": "Was zur Wirksamkeit belegt ist",
+      "blocks": [
+        {
+          "type": "evidence",
+          "level": "stark",
+          "claim": "Verhaltensbezogene Einschlafmethoden verkürzen bei Kindern ab etwa sechs Monaten die Einschlafdauer und verringern nächtliches Aufwachen. Das ist der am besten abgesicherte Befund des ganzen Themenfelds.",
+          "note": "Eine Auswertung der American Academy of Sleep Medicine über 52 Behandlungsstudien fand in 94 Prozent der Studien Wirksamkeit; über 80 Prozent der behandelten Kinder zeigten eine klinisch bedeutsame Verbesserung, die über drei bis sechs Monate anhielt. Die deutsche S1-Leitlinie zu nichtorganischen Schlafstörungen kommt zu einer ähnlichen Einschätzung. Wichtig für die Einordnung: Wirksam heißt hier, dass sich Einschlafdauer und Aufwachhäufigkeit im Mittel verbessern – nicht, dass jedes Kind danach durchschläft.",
+          "sources": [0, 6]
+        },
+        {
+          "type": "p",
+          "text": "Bemerkenswert an der bislang sorgfältigsten Einzelstudie zu diesem Thema ist, dass die sanfteste Variante nicht schlechter abschnitt: In einer australischen randomisierten Studie mit 43 Kindern zwischen sechs und sechzehn Monaten wurden graduierte Extinktion, die reine Bettzeit-Anpassung und eine reine Aufklärungsgruppe verglichen. Beide aktiven Verfahren verbesserten den Schlaf gegenüber der Kontrollgruppe. Wer also eine Methode sucht, die ohne Schreienlassen auskommt, gibt damit nicht automatisch Wirksamkeit auf."
+        },
+        {
+          "type": "p",
+          "text": "Was diese Verfahren nicht können: die biologisch angelegten Wachschwellen abschaffen. Ein Kind, das nach einer Umstellung nachts noch wach wird, aber allein wieder einschläft, hat nicht aufgehört aufzuwachen – es ruft nur nicht mehr. Das ist der Unterschied, der in der Werbung für Schlafprogramme regelmäßig verschwindet."
+        }
+      ]
+    },
+    {
+      "type": "section",
+      "heading": "Die Bindungsfrage – der ehrliche Stand",
+      "blocks": [
+        {
+          "type": "evidence",
+          "level": "umstritten",
+          "claim": "Ob Einschlafmethoden mit Schreienlassen der Bindung oder der Stressregulation eines Kindes schaden, ist nicht abschließend geklärt. Die vorliegenden Nachuntersuchungen fanden keine Schäden – sie sind aber klein beziehungsweise nicht darauf ausgelegt, seltene oder subtile Folgen zu entdecken.",
+          "note": "Für die Entwarnung sprechen zwei Arbeiten: In der australischen Studie mit 43 Kindern zeigten sich zwölf Monate nach der Intervention keine Unterschiede bei emotionalen und Verhaltensproblemen und keine bei der im Fremde-Situations-Test gemessenen Bindung. Eine Fünf-Jahres-Nachuntersuchung eines größeren australischen Programms mit 326 Kindern fand im Alter von sechs Jahren weder Vorteile noch Nachteile – weder beim Kind noch in der Eltern-Kind-Beziehung noch bei den Müttern. Dagegen steht eine vielzitierte kleine Studie an 25 Kindern in einem stationären Schlafprogramm: Am dritten Tag weinten die Kinder beim Einschlafen nicht mehr, ihr Cortisolspiegel war aber weiterhin erhöht, während der der Mütter sank. Diese Arbeit hat keine Kontrollgruppe, eine sehr kleine Stichprobe und eine Klinikumgebung, die sich nicht auf zu Hause übertragen lässt – die Autorinnen selbst bezeichnen sie als frühen Hinweis, nicht als Beweis. Ehrlich zusammengefasst: Für bleibende Schäden gibt es keinen Beleg. Für die Unbedenklichkeit gibt es Belege, die schwächer sind, als es die Diskussion vermuten lässt.",
+          "sources": [1, 2, 4]
+        },
+        {
+          "type": "p",
+          "text": "Es lohnt sich, zwei Fragen auseinanderzuhalten, die im Streit oft verschmelzen. Die erste: Nimmt ein Kind während der Umstellung Stress wahr? Sehr wahrscheinlich ja – Weinen ist ein Stresssignal, und niemand behauptet ernsthaft etwas anderes. Die zweite: Hinterlässt dieser Stress dauerhafte Spuren? Dafür fehlt bislang jeder Beleg. Kurzfristiger Stress in Anwesenheit verlässlicher Bezugspersonen gilt entwicklungspsychologisch nicht als schädlich; problematisch wird Stress, wenn er chronisch ist und niemand da ist, der ihn abfedert."
+        },
+        {
+          "type": "p",
+          "text": "Es gibt auch eine methodenkritische Position, die weniger auf Schäden zielt als auf die Debattenführung: Kritikerinnen und Kritiker weisen darauf hin, dass Schlafprogramme in westlichen Industrieländern oft als Standardlösung angeboten werden, obwohl viele Eltern sie als schwer erträglich erleben und sanftere Alternativen seltener untersucht sind. Diese Kritik richtet sich nicht gegen Eltern, die sich für ein Programm entscheiden, sondern gegen die Selbstverständlichkeit, mit der es empfohlen wird."
+        }
+      ]
+    },
+    {
+      "type": "section",
+      "heading": "Das erste Lebenshalbjahr ist ein Sonderfall",
+      "blocks": [
+        {
+          "type": "evidence",
+          "level": "moderat",
+          "claim": "Vor dem sechsten Lebensmonat sind Einschlafmethoden mit Schreienlassen nicht empfohlen. Ein Nutzen ist in diesem Alter nicht belegt, und es gibt Hinweise auf unerwünschte Effekte.",
+          "note": "Eine Übersichtsarbeit über 43 Studien zu Interventionen in den ersten sechs Monaten fand keine Verbesserung – weder für die Kinder noch für die Mütter – und benennt mögliche Nachteile: mehr Schreien insgesamt, früheres Abstillen und erhöhte mütterliche Ängstlichkeit. Hinzu kommt ein Sicherheitsaspekt: Wenn ein Programm dazu führt, dass ein Säugling in einem separaten Zimmer schläft, steht das im Widerspruch zur Empfehlung, im ersten halben Jahr im Elternschlafzimmer zu schlafen. In diesem Alter ist außerdem die Schlafarchitektur noch gar nicht ausgereift – es gibt schlicht wenig, das ein Kind lernen könnte.",
+          "sources": [3, 5]
+        },
+        {
+          "type": "callout",
+          "variant": "tip",
+          "title": "Was in den ersten Monaten stattdessen trägt",
+          "items": [
+            "Auf Signale reagieren, bevor das Weinen eskaliert – das kostet weniger Kraft als Beruhigen im Hochpunkt.",
+            "Nähe als Werkzeug nutzen: Tragen, Körperkontakt, gemeinsames Einschlafen am Nachmittag.",
+            "Eine kurze, wiederkehrende Abendabfolge etablieren, auch wenn sie noch nichts bewirkt – sie ist die Grundlage für später.",
+            "Nächte zwischen zwei Erwachsenen aufteilen statt gemeinsam halb wach zu sein.",
+            "Wenn dein Baby über Wochen mehr als drei Stunden am Tag untröstlich schreit: Das ist ein eigenes Thema, kein Schlafthema, und es gibt dafür Schreiambulanzen."
+          ]
+        }
+      ]
+    },
+    {
+      "type": "section",
+      "heading": "Wie du für euch entscheidest",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "Die nützlichste Frage ist nicht, welche Methode die beste ist, sondern welche zu euch passt und welche du tatsächlich durchhältst. Eine Methode, die nach drei Nächten abgebrochen und zwei Wochen später erneut begonnen wird, ist für alle Beteiligten anstrengender als jede konsequent gefahrene Variante – und anstrengender als gar keine."
+        },
+        {
+          "type": "checklist",
+          "id": "entscheidung",
+          "title": "Bevor du irgendetwas änderst",
+          "items": [
+            "Belastet euch die Situation wirklich, oder belastet euch vor allem, was andere dazu sagen?",
+            "Sind beide Erwachsenen einverstanden? Uneinigkeit ist der häufigste Abbruchgrund.",
+            "Ist das Kind gesund, gedeiht es, sind Zahnen und Infekte gerade kein Thema?",
+            "Steht in den nächsten zwei bis drei Wochen kein Umzug, keine Reise, kein Kita-Start an?",
+            "Ist die Bettzeit realistisch – schläft dein Kind zu diesem Zeitpunkt überhaupt ein?",
+            "Hast du eine Abbruchgrenze definiert, ab der du die Methode beendest, ohne dich als gescheitert zu betrachten?"
+          ]
+        },
+        {
+          "type": "callout",
+          "variant": "warn",
+          "title": "Wo eine Methode endet",
+          "text": "Keines der beschriebenen Verfahren verlangt, Signale zu ignorieren, die auf Krankheit, Schmerz oder echte Not hindeuten. Ein Kind, das erbricht, hohes Fieber hat, sich nicht beruhigen lässt oder dessen Weinen anders klingt als sonst, wird versorgt – ohne Rücksicht auf einen Plan. Wenn du selbst merkst, dass du an einem Punkt bist, an dem Wut oder Verzweiflung die Oberhand gewinnen: Leg dein Kind sicher ins Bett, verlass den Raum und hol dir jemanden dazu. Ein Kind zu schütteln, kann es innerhalb von Sekunden dauerhaft schädigen."
+        }
+      ]
+    },
+    {
+      "type": "section",
+      "heading": "Häufige Fragen",
+      "blocks": [
+        {
+          "type": "faq",
+          "items": [
+            {
+              "q": "Verlernt mein Kind das Vertrauen zu mir, wenn ich es weinen lasse?",
+              "a": "Dafür gibt es keinen Beleg. In den vorliegenden Nachuntersuchungen ließen sich ein Jahr und fünf Jahre später keine Unterschiede bei Bindung, Verhalten oder Eltern-Kind-Beziehung finden. Gleichzeitig sind diese Untersuchungen klein und nicht darauf ausgelegt, feine Unterschiede aufzuspüren. Wer daraus Sicherheit ableiten will, sollte wissen, dass sie begrenzt ist – und wer daraus Schäden ableiten will, hat dafür keine Grundlage."
+            },
+            {
+              "q": "Wir haben angefangen und nach zwei Nächten abgebrochen. War das schädlich?",
+              "a": "Nein. Ein Abbruch ist keine Schädigung, sondern eine Information: Diese Methode passt euch gerade nicht. Was tatsächlich zermürbt, ist das wiederholte Anfangen und Abbrechen. Wenn du merkst, dass es nicht geht, hör auf und schau dir stattdessen die sanfteren Varianten an – oder lass es für ein paar Monate ganz."
+            },
+            {
+              "q": "Mein Kind ist vier Monate alt und die Beratungsstelle empfiehlt kontrolliertes Schreienlassen. Was nun?",
+              "a": "In diesem Alter ist ein Nutzen nicht belegt, und Fachgesellschaften raten davon ab. Du darfst höflich, aber deutlich nachfragen, worauf sich die Empfehlung stützt, und um eine Alternative bitten. Sinnvoll sind in diesem Alter Rhythmusarbeit, Abendabfolge und die Verteilung der Nächte auf zwei Erwachsene."
+            },
+            {
+              "q": "Muss ein Kind allein einschlafen können, damit es durchschläft?",
+              "a": "Es gibt einen belegten statistischen Zusammenhang, aber keine Zwangsläufigkeit. Ein Teil der Kinder schläft trotz durchgehender Begleitung ab dem ersten Jahr weitgehend durch, ein anderer Teil wacht trotz gelernten Selbsteinschlafens weiter auf. Der Zusammenhang beschreibt Wahrscheinlichkeiten, keine Regeln."
+            },
+            {
+              "q": "Wir schlafen im Familienbett. Kann man da überhaupt etwas verändern?",
+              "a": "Ja. Auch im Familienbett lässt sich die Einschlafsituation schrittweise verändern – etwa vom Stillen zum Einschlafen hin zum Danebenliegen, oder von durchgehendem Körperkontakt zu einer Hand auf dem Rücken. Das Prinzip des Ausschleichens funktioniert unabhängig vom Schlafort. Beachte dabei die Sicherheitsregeln fürs gemeinsame Schlafen."
+            },
+            {
+              "q": "Was ist mit älteren Kindern, die nicht einschlafen wollen?",
+              "a": "Ab etwa zwei Jahren verschiebt sich das Thema von Einschlafumständen zu Aushandlung und Abendkonflikten – dafür gibt es eigene, gut untersuchte Werkzeuge. Sie sind im Artikel zum Schlaf im Kleinkindalter beschrieben."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "callout",
+      "variant": "info",
+      "title": "Kurz gesagt",
+      "text": "Wirksamkeit ist belegt, bleibende Schäden sind nicht belegt, und die Entwarnung ruht auf schmalerer Datenbasis, als beide Lager behaupten. Daraus folgt kein Gebot und kein Verbot, sondern eine Entscheidung, die euch gehört. Sanfte Methoden wirken ebenfalls – sie brauchen nur länger. Und das Beste, was du für den Schlaf deines Kindes tun kannst, ist unspektakulär: ein verlässlicher Tagesrhythmus, eine passende Bettzeit und Erwachsene, die selbst genug schlafen."
+    }
+  ],
+  "sources": [
+    {
+      "title": "Behavioral treatment of bedtime problems and night wakings in infants and young children – An American Academy of Sleep Medicine review",
+      "publisher": "Sleep (Mindell, Kuhn, Lewin, Meltzer, Sadeh)",
+      "year": "2006",
+      "kind": "Übersichtsarbeit",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/17068979/"
+    },
+    {
+      "title": "Behavioral Interventions for Infant Sleep Problems: A Randomized Controlled Trial",
+      "publisher": "Pediatrics (Gradisar et al.)",
+      "year": "2016",
+      "kind": "Studie",
+      "url": "https://publications.aap.org/pediatrics/article/137/6/e20151486/52401/Behavioral-Interventions-for-Infant-Sleep-Problems"
+    },
+    {
+      "title": "Five-Year Follow-up of Harms and Benefits of Behavioral Infant Sleep Intervention: Randomized Trial",
+      "publisher": "Pediatrics (Price, Wake, Ukoumunne, Hiscock)",
+      "year": "2012",
+      "kind": "Studie",
+      "url": "https://publications.aap.org/pediatrics/article/130/4/643/30241/Five-Year-Follow-up-of-Harms-and-Benefits-of"
+    },
+    {
+      "title": "Behavioral Sleep Interventions in the First Six Months of Life Do Not Improve Outcomes for Mothers or Infants: A Systematic Review",
+      "publisher": "Journal of Developmental & Behavioral Pediatrics (Douglas, Hill)",
+      "year": "2013",
+      "kind": "Übersichtsarbeit",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/24042081/"
+    },
+    {
+      "title": "Asynchrony of mother-infant hypothalamic-pituitary-adrenal axis activity following extinction of infant crying responses induced during the transition to sleep",
+      "publisher": "Early Human Development (Middlemiss, Granger, Goldberg, Nathans)",
+      "year": "2012",
+      "kind": "Studie",
+      "url": "https://www.sciencedirect.com/science/article/abs/pii/S0378378211002702"
+    },
+    {
+      "title": "Behavioural sleep treatments and night time crying in infants: Challenging the status quo",
+      "publisher": "Sleep Medicine Reviews (Blunden, Thompson, Dawson)",
+      "year": "2011",
+      "kind": "Übersichtsarbeit",
+      "url": "https://www.sciencedirect.com/science/article/abs/pii/S1087079210001322"
+    },
+    {
+      "title": "S1-Leitlinie Nichtorganische Schlafstörungen (F51), Registernummer 028-012",
+      "publisher": "AWMF / Deutsche Gesellschaft für Kinder- und Jugendpsychiatrie, Psychosomatik und Psychotherapie",
+      "year": "2022",
+      "kind": "Leitlinie",
+      "url": "https://register.awmf.org/de/leitlinien/detail/028-012"
+    }
+  ],
+  "related": ["schlaf-4-12-monate", "schlaf-kleinkind", "bindung-grundlagen", "schreien-verstehen"]
+}

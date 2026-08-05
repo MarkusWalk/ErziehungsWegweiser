@@ -1,0 +1,247 @@
+{
+  "slug": "die-ersten-tage",
+  "title": "Die ersten Tage mit dem Neugeborenen",
+  "subtitle": "Bonding, U1 und U2, Vitamin K, Neugeborenenscreening, Gewichtsverlust – was in den ersten Tagen medizinisch passiert und was an einem frisch geborenen Kind alles normal aussieht, auch wenn es befremdlich wirkt.",
+  "phases": ["neugeborenes"],
+  "topics": ["bindung", "gesundheit"],
+  "updated": "2026-08-05",
+  "summary": "In den ersten Tagen passiert medizinisch mehr als im ganzen restlichen ersten Jahr: U1 direkt nach der Geburt, Vitamin-K-Gabe, Neugeborenenscreening aus wenigen Blutstropfen, Hörscreening, Herzfehler-Screening und die U2 zwischen dem dritten und zehnten Lebenstag. Gleichzeitig verliert fast jedes Kind zunächst an Gewicht – bis zu sieben bis zehn Prozent sind normal, das Geburtsgewicht ist meist nach zehn bis vierzehn Tagen wieder erreicht. Am wirksamsten für den Start ist etwas, das nichts kostet: ungestörter Hautkontakt.",
+  "keyFacts": [
+    "Ununterbrochener Haut-zu-Haut-Kontakt direkt nach der Geburt stabilisiert das Kind und verbessert den Stillstart.",
+    "Vitamin K wird dreimal gegeben: bei U1, U2 und U3 – als Tropfen, zur Vorbeugung schwerer Blutungen.",
+    "Das erweiterte Neugeborenenscreening erfolgt aus wenigen Blutstropfen, üblicherweise 36 bis 72 Stunden nach der Geburt.",
+    "Ein Gewichtsverlust von sieben bis zehn Prozent in den ersten Tagen ist normal; das Geburtsgewicht ist nach zehn bis vierzehn Tagen wieder da.",
+    "Vieles, was beunruhigend aussieht – Gelbfärbung, geschwollene Brustdrüsen, verschmierte Haut, unregelmäßige Atmung – ist in den ersten Tagen typisch."
+  ],
+  "blocks": [
+    {
+      "type": "p",
+      "lead": true,
+      "text": "Ein Neugeborenes sieht selten so aus, wie Bilderbücher es zeigen. Der Kopf ist verformt, die Haut schuppig oder gerötet, die Nase platt, die Augen manchmal verquollen, und in den ersten Nächten wechselt es zwischen tiefem Schlaf und Phasen, in denen es scheinbar ununterbrochen an der Brust hängt. Parallel dazu läuft ein dichtes Programm an Untersuchungen. Dieser Artikel sortiert beides: was medizinisch passiert und was einfach dazugehört."
+    },
+    {
+      "type": "callout",
+      "variant": "danger",
+      "title": "Warnzeichen, bei denen ihr sofort Hilfe holt",
+      "items": [
+        "Das Kind trinkt gar nicht mehr, ist auffallend schlapp oder kaum weckbar",
+        "Schnelle, angestrengte Atmung, Einziehungen zwischen den Rippen, Stöhnen beim Ausatmen, bläuliche Lippen",
+        "Fieber ab 38 Grad oder Untertemperatur – Fieber im ersten Lebensmonat ist immer ein Notfall",
+        "Zunehmende Gelbfärbung, besonders in den ersten 24 Stunden oder wenn auch die Beine gelb werden",
+        "Kein Urin über zwölf Stunden, keine Tränen, eingesunkene Fontanelle",
+        "Anhaltendes schrilles Schreien, das sich nicht beruhigen lässt, oder auffallende Berührungsempfindlichkeit"
+      ],
+      "text": "Ansprechpartner sind die Kinderarztpraxis, außerhalb der Sprechzeiten die Kinderklinik oder der ärztliche Bereitschaftsdienst unter 116 117. Bei Atemnot, Bewusstseinstrübung oder Krampfanfall: 112. Lieber einmal zu viel anrufen – im ersten Lebensmonat gilt das ausdrücklich."
+    },
+    {
+      "type": "section",
+      "heading": "Die erste Stunde: Haut auf Haut",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "Wenn es dem Kind und der gebärenden Person gut geht, gehört das Neugeborene direkt nach der Geburt abgetrocknet und nackt auf die nackte Brust, zugedeckt mit einer warmen Decke. Wiegen, Messen und Anziehen können warten. In dieser Zeit sucht sich ein Neugeborenes häufig selbst den Weg zur Brust – langsam, mit Pausen, über bis zu einer Stunde hinweg."
+        },
+        {
+          "type": "evidence",
+          "level": "stark",
+          "claim": "Früher, ununterbrochener Haut-zu-Haut-Kontakt zwischen Mutter und gesundem Neugeborenem verbessert den Stillstart und die Stilldauer und stabilisiert Kreislauf und Blutzucker des Kindes.",
+          "note": "Der Cochrane-Review von 2016 fasst dutzende Studien zusammen; Frauen mit Hautkontakt stillten nach ein bis vier Monaten häufiger noch. Die Effektstärken sind moderat und die Studienqualität teils begrenzt – gleichzeitig gibt es keinen Nachteil und keine Kosten. Wichtig für die Praxis: Wenn die Mutter nach Kaiserschnitt oder Komplikationen nicht kann, übernimmt der zweite Elternteil. Der Nutzen hängt am Hautkontakt, nicht an einer bestimmten Person.",
+          "sources": [0]
+        },
+        {
+          "type": "p",
+          "text": "Der Begriff Bonding hat in den letzten Jahrzehnten viel Druck erzeugt, den er nicht verdient. Ursprünglich stammt er aus Beobachtungen der 1970er-Jahre, in denen ein enges Zeitfenster nach der Geburt vermutet wurde. Diese Vorstellung gilt heute als überholt: Bindung ist kein Moment, sondern ein Prozess über Wochen und Monate. Was der frühe Hautkontakt tatsächlich leistet, ist konkreter und weniger romantisch – er hält das Kind warm, stabilisiert Atmung und Blutzucker und macht den Stillstart einfacher. Wenn er aus medizinischen Gründen nicht möglich ist, ist nichts verloren."
+        },
+        {
+          "type": "callout",
+          "variant": "tip",
+          "title": "Sagt es vorher",
+          "text": "Vieles davon läuft in Kliniken heute von selbst, aber nicht überall und nicht in jeder Schicht. Ein Satz im Geburtsplan oder beim Aufnahmegespräch reicht meistens: dass ihr ungestörten Hautkontakt in der ersten Stunde möchtet, dass Wiegen und Messen danach kommen dürfen und dass ihr, falls die Mutter nicht kann, den Kontakt über den zweiten Elternteil wollt."
+        }
+      ]
+    },
+    {
+      "type": "section",
+      "heading": "Das Untersuchungsprogramm der ersten Tage",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "In den ersten zehn Tagen wird euer Kind häufiger untersucht als in den folgenden anderthalb Jahren. Das wirkt viel, hat aber einen einfachen Grund: Die meisten Erkrankungen, die in dieser Zeit gesucht werden, sind selten, aber gut behandelbar – vorausgesetzt, sie werden vor den ersten Symptomen erkannt. Alle genannten Untersuchungen sind Kassenleistungen, alle sind freiwillig, und ihr dürft euch jede davon in Ruhe erklären lassen. Es lohnt sich, das gelbe Untersuchungsheft von Anfang an an einem festen Platz aufzubewahren; es begleitet euch bis zur Einschulung."
+        },
+        {
+          "type": "timeline",
+          "title": "Was wann untersucht wird",
+          "entries": [
+            { "age": "direkt nach der Geburt", "label": "U1", "text": "Erste Untersuchung noch im Kreißsaal: Atmung, Herzschlag, Muskelspannung, Reflexe, Hautfarbe – zusammengefasst im APGAR-Wert nach einer, fünf und zehn Minuten. Dazu Nabelschnur-pH, Gewicht, Länge, Kopfumfang. Erste Vitamin-K-Gabe." },
+            { "age": "erste 24–48 Stunden", "label": "Herzfehler- und Hörscreening", "text": "Ein Pulsoxymeter am Fuß misst schmerzfrei die Sauerstoffsättigung und kann kritische angeborene Herzfehler aufdecken. Das Hörscreening läuft über kleine Sonden am Ohr, meist im Schlaf. Beide gehören zur Kinder-Richtlinie und sind Kassenleistung." },
+            { "age": "36–72 Lebensstunden", "label": "Erweitertes Neugeborenenscreening", "text": "Wenige Blutstropfen aus der Ferse auf eine Filterpapierkarte. Untersucht wird auf eine Reihe angeborener Stoffwechselstörungen, Hormonstörungen, schwere Immundefekte, Sichelzellkrankheit, spinale Muskelatrophie und Mukoviszidose. Bei sehr früher Entlassung wird ein zweites Screening nötig." },
+            { "age": "3.–10. Lebenstag", "label": "U2", "text": "Gründliche körperliche Untersuchung: Haut, Herztöne, Bauchorgane, Hüften, Nabel, Gelbsucht, Reflexe, Gewichtsverlauf. Zweite Vitamin-K-Gabe. Ort: in der Klinik oder in der Kinderarztpraxis, wenn ihr früh entlassen wurdet." },
+            { "age": "4.–5. Lebenswoche", "label": "U3", "text": "Erste Untersuchung in der Praxis für die meisten Familien: Gewicht und Wachstum, Bewegungsmuster, Hüftultraschall, Beratung zu Vitamin D und Fluorid. Dritte und letzte Vitamin-K-Gabe." }
+          ],
+          "caption": "Zeitfenster nach der Kinder-Richtlinie des Gemeinsamen Bundesausschusses und der S2k-Leitlinie zum Neugeborenen-Screening.",
+          "sources": [2, 3]
+        },
+        {
+          "type": "evidence",
+          "level": "stark",
+          "claim": "Zur Vorbeugung von Vitamin-K-Mangel-Blutungen empfiehlt die Ernährungskommission der Deutschen Gesellschaft für Kinder- und Jugendmedizin eine dreimalige orale Vitamin-K-Gabe: bei U1, bei U2 und bei U3.",
+          "note": "Neugeborene haben sehr wenig Vitamin K, und Muttermilch enthält kaum welches. Ohne Prophylaxe kann es zu Hirnblutungen kommen – selten, aber mit schweren Folgen. Die orale Gabe ist wirksam, verhindert aber nicht restlos alle späten Blutungen; deshalb wird bei Frühgeborenen, kranken Kindern oder Verdacht auf Resorptionsstörungen eine Spritze empfohlen. Wenn euer Kind eine Dosis erbricht, sagt das der Hebamme oder Praxis – sie wird nachgeholt.",
+          "sources": [1]
+        },
+        {
+          "type": "callout",
+          "variant": "info",
+          "title": "Wenn das Screening auffällig ist",
+          "text": "Ein auffälliges Screeningergebnis bedeutet zunächst nur, dass nachgemessen werden muss – die allermeisten Verdachtsfälle bestätigen sich nicht. Das Verfahren ist bewusst so eingestellt, dass es lieber einmal zu oft anschlägt, weil bei den gesuchten Erkrankungen jeder Tag zählt. Ihr werdet in diesem Fall sehr schnell kontaktiert; das ist erschreckend, aber genau so gewollt."
+        }
+      ]
+    },
+    {
+      "type": "section",
+      "heading": "Das Gewicht: warum erst weniger wird",
+      "blocks": [
+        {
+          "type": "evidence",
+          "level": "moderat",
+          "claim": "Ein Gewichtsverlust von etwa sieben bis zehn Prozent des Geburtsgewichts in den ersten Lebenstagen ist normal. Ab ungefähr dem vierten Lebenstag steigt das Gewicht wieder, das Geburtsgewicht wird meist nach zehn bis vierzehn Tagen erreicht.",
+          "note": "Ursachen sind das Ausscheiden des Kindspechs, Flüssigkeitsverlust über die Haut und die Umstellung des Stoffwechsels. Erst wenn mehr als etwa zehn Prozent verloren gehen oder das Gewicht nach zwei Wochen nicht wieder erreicht ist, wird genauer hingeschaut. Die Zahlen sind Erfahrungswerte und Fachkonsens, keine harten Grenzwerte – entscheidend ist immer das Gesamtbild aus Trinkverhalten, Wachheit und nassen Windeln.",
+          "sources": [4]
+        },
+        {
+          "type": "p",
+          "text": "Die Gelbfärbung, die in dieser Zeit fast jedes Kind zeigt, gehört ebenfalls zur Umstellung: Beim Abbau des überschüssigen kindlichen roten Blutfarbstoffs entsteht Bilirubin, und die noch unreife Leber kommt damit anfangs nicht hinterher. In den allermeisten Fällen erreicht die Gelbsucht um den dritten bis fünften Tag ihren Höhepunkt und verschwindet dann. Gemessen wird sie heute meist schmerzfrei über die Haut. Häufiges Anlegen hilft, weil Bilirubin über den Stuhl ausgeschieden wird – ein Kind, das viel trinkt, wird schneller wieder rosig. Wenn der Wert doch zu hoch steigt, ist die Behandlung mit blauem Licht unkompliziert und wirksam."
+        },
+        {
+          "type": "p",
+          "text": "Praktisch heißt das: Nicht täglich wiegen. Eine Küchenwaage im Wohnzimmer ist eine der zuverlässigsten Quellen für schlechte Nächte, weil das Gewicht von Tag zu Tag schwankt und die Kurve erst über eine Woche hinweg etwas aussagt. Verlasst euch stattdessen auf die Wiegetermine der Hebamme und auf die alltäglichen Zeichen: Ab dem fünften Lebenstag etwa fünf bis sechs nasse Windeln in 24 Stunden, mehrmals Stuhl, der von schwarz-klebrig über grünlich zu gelb-körnig wechselt, ein Kind, das zwischen den Mahlzeiten zufriedene Phasen hat."
+        }
+      ]
+    },
+    {
+      "type": "section",
+      "heading": "Was normal aussieht, auch wenn es das nicht tut",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "Ein großer Teil der Anrufe in Kinderarztpraxen in den ersten zwei Wochen betrifft Dinge, die zur Anpassung an das Leben außerhalb der Gebärmutter gehören. Das ist kein Zeichen von Überängstlichkeit, sondern eine Folge davon, dass fast niemand vorher ein wenige Tage altes Kind aus der Nähe gesehen hat. Die folgende Liste nimmt die häufigsten Schrecken vorweg."
+        },
+        {
+          "type": "list",
+          "ordered": false,
+          "items": [
+            { "title": "Verformter Kopf:", "text": "Durch den Geburtskanal geschoben, die Schädelplatten verschieben sich. Rundet sich innerhalb von Tagen bis Wochen von selbst." },
+            { "title": "Gelbfärbung ab dem zweiten bis dritten Tag:", "text": "Sehr häufig und meist harmlos. Kontrolliert wird sie trotzdem – Gelbsucht am ersten Tag, sehr starke Ausprägung oder Gelbfärbung bis in die Beine gehören sofort abgeklärt." },
+            { "title": "Geschwollene Brustdrüsen, bei Mädchen manchmal eine Blutung:", "text": "Nachwirkung mütterlicher Hormone, bei beiden Geschlechtern möglich. Nicht drücken, geht von selbst zurück." },
+            { "title": "Unregelmäßige Atmung:", "text": "Neugeborene atmen in Schüben mit kurzen Pausen. Was zählt, sind Farbe, Anstrengung und Geräusche – nicht die Regelmäßigkeit." },
+            { "title": "Schuppende oder marmorierte Haut, weiße Pünktchen im Gesicht:", "text": "Anpassung an die trockene Luft und unreife Hautdrüsen. Braucht keine Behandlung, keine Cremes, keine Öle." },
+            { "title": "Niesen, Schluckauf, Zittern beim Strampeln:", "text": "Unreife Reflexe und Temperaturregulation. Anhaltendes rhythmisches Zucken, das sich beim Festhalten nicht stoppen lässt, ist etwas anderes und gehört angeschaut." },
+            { "title": "Cluster-Phasen an der Brust:", "text": "Vor allem in den ersten Nächten und um den dritten Tag herum. Das Kind bestellt Milch – so funktioniert die Milchbildung." }
+          ]
+        },
+        {
+          "type": "p",
+          "text": "Der wohl größte Unterschied zwischen Erwartung und Wirklichkeit betrifft den Schlaf. Ein Neugeborenes hat keinen Tag-Nacht-Rhythmus, weil die dafür nötige innere Uhr erst in den kommenden Wochen anspringt. Es schläft über 24 Stunden verteilt viel, aber in kurzen Blöcken, und es wacht auf, weil sein Magen etwa die Größe einer Walnuss hat. Nichts davon lässt sich in den ersten Tagen erziehen oder trainieren – und es gibt in dieser Phase auch nichts, was man mit zu viel Nähe kaputt machen könnte."
+        },
+        {
+          "type": "p",
+          "text": "Wenn euer Kind nach der Geburt auf die Neugeborenenstation muss – wegen Anpassungsstörungen, Infektionsverdacht oder weil es zu früh kam –, verschiebt sich vieles davon. Ihr dürft in aller Regel jederzeit dabei sein, auch nachts, und ihr könnt Hautkontakt auf der Station nachholen, oft direkt am Inkubator. Fragt gezielt danach, lasst euch die Geräte erklären und bittet um ein Gespräch, wenn euch etwas unklar bleibt. Es ist keine Belästigung des Personals, sondern euer Recht als Eltern."
+        },
+        {
+          "type": "callout",
+          "variant": "tip",
+          "title": "Zwei Dinge, die die erste Woche leichter machen",
+          "items": [
+            "Legt euer Kind zum Schlafen von Anfang an auf den Rücken, in den eigenen Schlafplatz neben eurem Bett – das ist die wirksamste einzelne Sicherheitsmaßnahme im ersten Jahr.",
+            "Schreibt die ersten Tage nichts auf, was ihr nicht wirklich braucht. Statt Still-Apps und Tabellen reichen nasse Windeln, Wachheit und die Wiegetermine der Hebamme."
+          ]
+        }
+      ]
+    },
+    {
+      "type": "section",
+      "heading": "Häufige Fragen",
+      "blocks": [
+        {
+          "type": "faq",
+          "items": [
+            {
+              "q": "Wir hatten einen Kaiserschnitt und keine erste Stunde Hautkontakt. Ist der Start jetzt verpatzt?",
+              "a": "Nein. Der frühe Hautkontakt ist hilfreich, aber kein Zeitfenster, das sich schließt. Bindung entsteht über Wochen und Monate aus tausenden kleinen Interaktionen. Holt den Hautkontakt einfach nach, sobald es geht – auch tagelang später, auch über den zweiten Elternteil. Kinder, die nach der Geburt intensivmedizinisch versorgt werden mussten, bauen ebenso sichere Bindungen auf."
+            },
+            {
+              "q": "Muss mein Kind die Vitamin-K-Tropfen wirklich bekommen?",
+              "a": "Die Gabe ist freiwillig, aber von allen kinderärztlichen Fachgesellschaften empfohlen. Vitamin-K-Mangel-Blutungen sind selten, verlaufen aber oft als Hirnblutung mit bleibenden Schäden, und die Prophylaxe ist einfach und nebenwirkungsarm. Wichtig ist, alle drei Gaben zu erhalten – die dritte bei der U3 wird am häufigsten vergessen."
+            },
+            {
+              "q": "Wie merke ich, ob mein Kind genug trinkt?",
+              "a": "An den Ausscheidungen und am Verhalten, nicht an der Trinkdauer. Ab dem fünften Tag etwa fünf bis sechs richtig nasse Windeln täglich, regelmäßiger Stuhl, der von schwarz über grün zu gelblich wechselt, und ein Kind, das nach dem Trinken entspannt ist. Bei sehr schläfrigen Kindern, die nicht von selbst nach Nahrung verlangen, unbedingt Hebamme oder Praxis ansprechen."
+            },
+            {
+              "q": "Was ist mit dem Nabel?",
+              "a": "Trocken und sauber halten, Windel darunter umschlagen, keine Salben oder Puder ohne ärztliche Anweisung. Der Rest fällt meist nach fünf bis fünfzehn Tagen ab; etwas Nässen oder eine kleine Kruste danach ist üblich. Rötung, die sich in die Bauchhaut ausbreitet, übler Geruch, Eiter oder Fieber gehören sofort abgeklärt."
+            },
+            {
+              "q": "Dürfen Besucher das Kind halten?",
+              "a": "Grundsätzlich ja, mit zwei Einschränkungen: Wer erkältet ist, kommt später, und geküsst wird nicht ins Gesicht – Herpesviren sind für Neugeborene gefährlich. Händewaschen vorher ist keine Übervorsicht, sondern in den ersten Wochen die einfachste wirksame Maßnahme."
+            },
+            {
+              "q": "Was, wenn wir die U2 verpassen, weil wir früh entlassen wurden?",
+              "a": "Dann macht sie die Kinderarztpraxis. Vereinbart den Termin am besten schon in der Schwangerschaft oder direkt nach der Geburt, denn die U2 liegt zwischen dem dritten und zehnten Lebenstag und Praxen sind voll. Für jede U gibt es zusätzlich einen Toleranzzeitraum – fragt in der Praxis nach, statt eine Untersuchung ganz ausfallen zu lassen."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "callout",
+      "variant": "info",
+      "title": "Kurz gesagt",
+      "text": "Hautkontakt, Rückenlage zum Schlafen, drei Vitamin-K-Gaben, Screening in den ersten Tagen, U2 in der ersten Woche – das ist der medizinische Kern. Alles andere in dieser Zeit ist Kennenlernen, und dafür gibt es keinen Fahrplan und keine Frist."
+    }
+  ],
+  "sources": [
+    {
+      "title": "Early skin-to-skin contact for mothers and their healthy newborn infants",
+      "publisher": "Cochrane Database of Systematic Reviews (Moore ER, Bergman N, Anderson GC, Medley N)",
+      "year": "2016",
+      "kind": "Übersichtsarbeit",
+      "url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD003519.pub4/full"
+    },
+    {
+      "title": "Vitamin-K-Prophylaxe bei Neugeborenen – Empfehlungen der Ernährungskommission",
+      "publisher": "Deutsche Gesellschaft für Kinder- und Jugendmedizin (DGKJ)",
+      "year": "2013",
+      "kind": "Empfehlung",
+      "url": "https://www.dgkj.de/fileadmin/user_upload/Stellungnahmen/1304_SN_VitK.pdf"
+    },
+    {
+      "title": "Kinder-Richtlinie: Früherkennungsuntersuchungen U1 bis U9, erweitertes Neugeborenen-Screening, Hörscreening und Screening auf kritische angeborene Herzfehler",
+      "publisher": "Gemeinsamer Bundesausschuss (G-BA)",
+      "year": "2025",
+      "kind": "Empfehlung",
+      "url": "https://www.g-ba.de/richtlinien/15/"
+    },
+    {
+      "title": "S2k-Leitlinie Neugeborenen-Screening auf angeborene Stoffwechselstörungen, Endokrinopathien, schwere kombinierte Immundefekte, Sichelzellkrankheit, spinale Muskelatrophie und Mukoviszidose (AWMF-Register Nr. 024-012)",
+      "publisher": "AWMF / Gesellschaft für Neonatologie und Pädiatrische Intensivmedizin",
+      "year": "2025",
+      "kind": "Leitlinie",
+      "url": "https://register.awmf.org/de/leitlinien/detail/024-012"
+    },
+    {
+      "title": "Gewichtsentwicklung nach der Geburt",
+      "publisher": "Bundeszentrale für gesundheitliche Aufklärung (BZgA), familienplanung.de",
+      "year": "2024",
+      "kind": "Institutionelle Information",
+      "url": "https://www.familienplanung.de/schwangerschaft/nach-der-geburt/das-wochenbett-von-a-bis-z/das-kind-im-wochenbett/gewichtsentwicklung-nach-der-geburt/"
+    },
+    {
+      "title": "Versicherteninformation: Erweitertes Neugeborenen-Screening",
+      "publisher": "Gemeinsamer Bundesausschuss (G-BA)",
+      "year": "2025",
+      "kind": "Institutionelle Information",
+      "url": "https://www.g-ba.de/downloads/17-98-2235/2025-05-15_G-BA_Versicherteninformation_Erweitertes-Neugeborenen-Screening_bf.pdf"
+    }
+  ],
+  "related": ["wochenbett", "sicherer-schlaf", "stillen-start", "u-untersuchungen"]
+}

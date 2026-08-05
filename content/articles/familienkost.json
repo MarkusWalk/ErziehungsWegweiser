@@ -1,0 +1,323 @@
+{
+  "slug": "familienkost",
+  "title": "Familienkost: was Kinder ab eins essen",
+  "subtitle": "Vom Brei an den Familientisch: welche drei Regeln reichen, wie groß eine Portion ist, wie viel Zucker und Salz vertretbar sind – und wie vegetarische und vegane Ernährung im Kleinkindalter einzuordnen sind.",
+  "phases": ["kleinkind", "kindergarten"],
+  "topics": ["ernaehrung"],
+  "updated": "2026-08-05",
+  "summary": "Um den ersten Geburtstag herum kann dein Kind grundsätzlich alles essen, was auf den Familientisch kommt – in kindgerechter Form, wenig gesalzen und ohne Erstickungsrisiken. Du brauchst dafür keine Nährwerttabelle, sondern drei Faustregeln: reichlich Pflanzliches und kalorienfreie Getränke, mäßig Tierisches, sparsam Fettiges und Süßes. Die Portionsgröße misst du an der Hand deines Kindes. Und die Aufgabenteilung am Tisch bleibt dieselbe wie in der Beikostzeit: Du entscheidest, was es gibt, dein Kind entscheidet, wie viel davon.",
+  "keyFacts": [
+    "Ab etwa einem Jahr isst dein Kind bei den Familienmahlzeiten mit – Kuhmilch ist jetzt auch als Getränk in Ordnung.",
+    "Drei Regeln reichen: reichlich pflanzlich, mäßig tierisch, sparsam fett- und zuckerreich.",
+    "Eine Portion entspricht ungefähr einer Kinderhand – das Maß wächst automatisch mit.",
+    "Fünf Mahlzeiten am Tag, dazwischen Wasser statt Dauersnacken.",
+    "Vegetarisch geht gut planbar, vegan nur mit Beratung und zuverlässiger Vitamin-B12-Gabe."
+  ],
+  "blocks": [
+    {
+      "type": "p",
+      "lead": true,
+      "text": "Irgendwann steht dein Kind mit einem Löffel am Tisch, greift in deinen Teller und will genau das, was du isst. Das ist der Moment, an dem sich die Kinderernährung radikal vereinfacht: Es gibt nicht mehr zwei Küchen. Familienkost heißt, dass alle dasselbe essen – nur, dass ihr für das Kind vorher etwas abnehmt, bevor gesalzen wird, und harte oder runde Stücke kindgerecht zerteilt. Der Rest ist erstaunlich unkompliziert."
+    },
+    {
+      "type": "section",
+      "heading": "Ab wann isst ein Kind einfach mit?",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "Etwa um den ersten Geburtstag ist ein Kind so weit: Es kann beißen, kauen und schlucken, es kennt viele Konsistenzen, und sein Verdauungssystem kommt mit normaler Kost zurecht. Die Umstellung passiert nicht an einem Tag, sondern über einige Wochen – aus drei Breien werden drei Mahlzeiten mit zwei Zwischenmahlzeiten, aus Püriertem werden kleine Stücke."
+        },
+        {
+          "type": "list",
+          "ordered": false,
+          "items": [
+            { "title": "Kuhmilch:", "text": "Ab dem ersten Geburtstag darf sie auch als Getränk aus dem Becher kommen. Bis dahin war sie nur im Brei erlaubt. Vollmilch ist für Kleinkinder besser geeignet als fettreduzierte Milch, weil Fett in diesem Alter ein wichtiger Energielieferant ist." },
+            { "title": "Kleinkindmilch aus dem Regal:", "text": "Ernährungsphysiologisch nicht nötig. Solche Produkte sind meist deutlich teurer als Kuhmilch und oft gesüßt. Wenn dein Kind normale Milchprodukte, Gemüse und Getreide isst, braucht es keine spezielle Milch." },
+            { "title": "Stillen:", "text": "Kann parallel weiterlaufen, so lange ihr beide möchtet. Muttermilch bleibt auch im zweiten Lebensjahr ein sinnvoller Bestandteil – nur eben nicht mehr die Hauptnahrung." },
+            { "title": "Honig:", "text": "Ab dem ersten Geburtstag unbedenklich. Das Botulismusrisiko betrifft nur das erste Lebensjahr." }
+          ]
+        },
+        {
+          "type": "callout",
+          "variant": "warn",
+          "title": "Was auch mit zwei Jahren noch gefährlich ist",
+          "text": "Die Atemwege von Kleinkindern sind eng, und beim Essen wird gelacht, gerannt und geredet. Ganze Nüsse und Erdnüsse, Kerne, Popcorn, Bonbons, harte Rohkost und alles Runde, Glatte in Luftröhrengröße bleiben deshalb bis mindestens zum vierten Geburtstag draußen. Weintrauben, Kirschtomaten, Oliven und Würstchen werden längs geviertelt, Möhren gegart oder fein gerieben, Nüsse gemahlen oder als glattes Mus gegeben. Und gegessen wird im Sitzen."
+        }
+      ]
+    },
+    {
+      "type": "section",
+      "heading": "Drei Regeln statt Nährwerttabelle",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "Das im deutschsprachigen Raum verbreitetste Konzept für Kinderernährung ist die Optimierte Mischkost, entwickelt am Forschungsinstitut für Kinderernährung in Dortmund. Ihr großer Vorteil: Sie beschreibt Lebensmittel, keine Nährstoffe. Du musst nichts rechnen und nichts wiegen."
+        },
+        {
+          "type": "comparison",
+          "title": "Die drei Auswahlregeln",
+          "columns": [
+            {
+              "title": "Reichlich",
+              "tone": "good",
+              "items": [
+                "Getränke ohne oder mit sehr wenig Kalorien – Wasser, ungesüßter Tee",
+                "Gemüse und Obst, roh und gegart",
+                "Brot, Getreideflocken, Nudeln, Reis – gern Vollkorn",
+                "Kartoffeln, Hülsenfrüchte"
+              ]
+            },
+            {
+              "title": "Mäßig",
+              "tone": "neutral",
+              "items": [
+                "Milch und Milchprodukte",
+                "Fleisch und Wurst",
+                "Eier",
+                "Fisch, davon regelmäßig fettreicher Seefisch"
+              ]
+            },
+            {
+              "title": "Sparsam",
+              "tone": "bad",
+              "items": [
+                "Streich- und Kochfette, Öle (aber: hochwertige Öle sind wichtig, nur in kleiner Menge)",
+                "Süßigkeiten und Gebäck",
+                "Salzige Knabbereien",
+                "Gezuckerte Getränke und Säfte"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "evidence",
+          "level": "moderat",
+          "claim": "Eine überwiegend pflanzlich betonte Mischkost mit mäßigen Mengen tierischer Lebensmittel deckt im Kleinkind- und Kindergartenalter den Nährstoffbedarf zuverlässig, ohne dass einzelne Nährstoffe berechnet werden müssen.",
+          "note": "Das Konzept der Optimierten Mischkost beruht auf den Referenzwerten der Fachgesellschaften und wurde in Verzehrsstudien auf Praxistauglichkeit geprüft. Es ist kein Studienergebnis im engeren Sinn, sondern ein gut begründetes Umsetzungskonzept – deshalb moderat und nicht stark. Für den Alltag heißt das: Wenn über die Woche gesehen alle drei Gruppen im richtigen Verhältnis vorkommen, ist eine einzelne Mahlzeit nie entscheidend.",
+          "sources": [2, 0]
+        }
+      ]
+    },
+    {
+      "type": "section",
+      "heading": "Wie groß ist eine Portion?",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "Die praktischste Antwort steht am Ende des Kinderarms: Eine Portion entspricht ungefähr einer Kinderhand. Der Trick daran ist, dass das Maß mitwächst – wer größer wird und mehr Energie braucht, hat auch größere Hände. Du brauchst weder Waage noch Tabelle, und du musst die Portionen nicht jedes Jahr neu nachschlagen."
+        },
+        {
+          "type": "table",
+          "title": "Handmaß im Alltag",
+          "head": ["Lebensmittel", "Eine Portion entspricht"],
+          "rows": [
+            ["Obst und Gemüse", "eine Kinderhand voll, bei Blattsalat zwei Hände"],
+            ["Brot", "eine Scheibe in der Größe der flachen Kinderhand"],
+            ["Nudeln, Reis, Kartoffeln", "eine gefüllte Kinderhand (Faust)"],
+            ["Käse", "eine Scheibe in Handflächengröße"],
+            ["Getränke", "ein Becher, den die Kinderhand umfassen kann"]
+          ],
+          "caption": "Handmaß nach dem Konzept der Optimierten Mischkost. Es ist eine Orientierung für den Blick auf den Teller, keine Vorgabe für das Kind – wie viel tatsächlich gegessen wird, entscheidet dein Kind."
+        },
+        {
+          "type": "p",
+          "text": "Üblich sind fünf Mahlzeiten am Tag: drei Hauptmahlzeiten und zwei kleine Zwischenmahlzeiten, mit etwa zwei bis vier Stunden Abstand. Diese Struktur ist mehr wert als jede Lebensmittelauswahl. Dauersnacken zwischendurch macht satt, ohne satt zu machen, und ist der häufigste Grund dafür, dass ein Kind bei Tisch nichts mehr mag."
+        },
+        {
+          "type": "callout",
+          "variant": "tip",
+          "title": "Die Aufgabenteilung am Tisch",
+          "text": "Du entscheidest, was es gibt, wann es das gibt und in welcher Form. Dein Kind entscheidet, ob es isst und wie viel. Wenn du diese Grenze hältst, verschwinden die meisten Machtkämpfe – auch dann, wenn dein Kind im zweiten und dritten Lebensjahr plötzlich Dinge ablehnt, die es letzte Woche noch mochte. Diese Neophobie ist ein Entwicklungsschritt, keine Erziehungsfrage. Nichts nachkochen, nichts erzwingen, das abgelehnte Lebensmittel einfach immer wieder unaufgeregt mit auf den Tisch stellen."
+        }
+      ]
+    },
+    {
+      "type": "section",
+      "heading": "Zucker, Salz und Getränke",
+      "blocks": [
+        {
+          "type": "figure",
+          "kind": "bar",
+          "title": "Höchstmenge freier Zucker pro Tag",
+          "alt": "Balkendiagramm mit der empfohlenen Höchstmenge an freiem Zucker für Kleinkinder und Erwachsene",
+          "data": [
+            { "label": "Kleinkind 1–3 Jahre", "value": 30, "display": "rund 30 g" },
+            { "label": "Erwachsener (2000 kcal)", "value": 50, "display": "rund 50 g" }
+          ],
+          "caption": "Die WHO empfiehlt, freie Zucker auf weniger als zehn Prozent der Energiezufuhr zu begrenzen. Umgerechnet auf den Energiebedarf ergibt das für ein Kleinkind rund 30 Gramm am Tag – so viel steckt bereits in etwa 300 Millilitern eines gezuckerten Getränks. Freie Zucker sind alle zugesetzten Zucker plus der Zucker in Honig, Sirup und Fruchtsaft; der Zucker in frischem Obst und in Milch zählt nicht dazu.",
+          "sources": [4, 5]
+        },
+        {
+          "type": "evidence",
+          "level": "stark",
+          "claim": "Eine hohe Zufuhr freier Zucker erhöht das Risiko für Karies und für unerwünschte Gewichtszunahme. Die Begrenzung auf unter zehn Prozent der Energiezufuhr gilt für alle Altersgruppen.",
+          "note": "Die WHO-Leitlinie von 2015 stützt sich auf systematische Übersichtsarbeiten; die deutschen Fachgesellschaften haben die Empfehlung in einem gemeinsamen Konsensuspapier übernommen. Alltagstauglich übersetzt: Nicht der Geburtstagskuchen ist das Problem, sondern das tägliche Kleine – gesüßte Milchprodukte, Fruchtsaftschorle in der Trinkflasche, Kekse zwischendurch.",
+          "sources": [4, 5]
+        },
+        {
+          "type": "list",
+          "ordered": false,
+          "items": [
+            { "title": "Getränk der Wahl ist Wasser:", "text": "Leitungswasser ist in Deutschland dafür gut geeignet. Ungesüßter Kräuter- oder Früchtetee geht auch. Zu jeder Mahlzeit ein Becher, zwischendurch frei verfügbar." },
+            { "title": "Saft ist ein Lebensmittel, kein Getränk:", "text": "Wenn überhaupt, dann stark verdünnt und zur Mahlzeit, nicht über den Tag verteilt. Dauernuckeln an Süßem ist die Hauptursache früher Karies." },
+            { "title": "Salz:", "text": "Es geht nicht darum, salzfrei zu kochen, sondern darum, nicht zusätzlich zu salzen und salzreiche Lebensmittel selten zu geben – Wurst, Käse, Fertigsoßen, Salzgebäck, Brühwürfel. Geschmacksprägung ist in diesem Alter langlebig." },
+            { "title": "Süßigkeiten:", "text": "Ein vollständiges Verbot funktioniert selten und macht Süßes attraktiver. Praktikabler ist ein fester, kleiner Platz im Alltag – etwa eine Portion nach einer Mahlzeit statt zwischendurch." }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "section",
+      "heading": "Vegetarisch, vegan – und wie viel Fleisch überhaupt",
+      "blocks": [
+        {
+          "type": "evidence",
+          "level": "umstritten",
+          "claim": "Eine vegetarische Ernährung ist im Kleinkindalter bei guter Planung gut umsetzbar. Für eine rein vegane Ernährung sprechen die deutschen Fachgesellschaften wegen unzureichender Datenlage weder eine Empfehlung dafür noch dagegen aus – sie setzt fundiertes Ernährungswissen und eine zuverlässige Supplementierung voraus.",
+          "note": "Die Deutsche Gesellschaft für Ernährung hat ihre Position 2024 überarbeitet: Für Kinder, Jugendliche, Schwangere und Stillende bleibt sie zurückhaltend, weil belastbare Langzeitdaten fehlen. Kritisch sind vor allem Vitamin B12, Jod, Eisen, Zink, Kalzium, Vitamin D, langkettige Omega-3-Fettsäuren und die Energiedichte. Praktisch heißt das: Vitamin B12 muss dauerhaft und zuverlässig zugeführt werden, und die Ernährung sollte von einer qualifizierten Ernährungsfachkraft begleitet und der Nährstoffstatus ärztlich kontrolliert werden. Das ist keine Wertung der Entscheidung, sondern eine Bedingung für ihre Sicherheit.",
+          "sources": [3]
+        },
+        {
+          "type": "p",
+          "text": "Umgekehrt gilt: Auch Kinder, die Fleisch essen, brauchen davon weniger, als viele Familien vermuten. Zwei bis drei kleine Fleischportionen pro Woche und ein bis zwei Fischmahlzeiten decken den Bedarf gut. Hülsenfrüchte, Vollkorn und Nussmus sind für Eisen mindestens ebenso wichtig – zusammen mit einer Vitamin-C-Quelle, die die Aufnahme des pflanzlichen Eisens deutlich verbessert."
+        },
+        {
+          "type": "callout",
+          "variant": "myth",
+          "title": "Kinderlebensmittel und Fertigprodukte",
+          "text": "Produkte mit Comicfiguren, „extra Kalzium“ oder „mit Vitaminen“ sind fast nie nötig und meist teurer, süßer und stärker verarbeitet als das Gegenstück im normalen Regal. Das heißt umgekehrt nicht, dass Tiefkühlgemüse, Dosentomaten, fertige Nudeln oder ein gekaufter Kuchen problematisch wären – Verarbeitung ist kein Qualitätsurteil. Der aussagekräftigste Blick geht auf die Zutatenliste: Wenn Zucker in den ersten drei Zutaten steht, ist es eher Süßigkeit als Mahlzeit."
+        }
+      ]
+    },
+    {
+      "type": "section",
+      "heading": "Wie sich das Essen bis zur Einschulung verändert",
+      "blocks": [
+        {
+          "type": "timeline",
+          "title": "Vom Familientisch bis zur Kita-Verpflegung",
+          "entries": [
+            {
+              "age": "um 12 Monate",
+              "label": "Umstieg auf Familienkost",
+              "text": "Aus Breien werden drei Mahlzeiten plus zwei Zwischenmahlzeiten. Kuhmilch als Getränk ist erlaubt, Salz weiterhin sparsam, harte und runde Stücke bleiben tabu."
+            },
+            {
+              "age": "etwa 18 Monate bis 3 Jahre",
+              "label": "Neophobie",
+              "text": "Viele Kinder lehnen plötzlich Bekanntes ab, essen an manchen Tagen kaum etwas und an anderen erstaunlich viel. Über eine Woche gerechnet gleicht sich das meist aus."
+            },
+            {
+              "age": "etwa 3–4 Jahre",
+              "label": "Mitmachen",
+              "text": "Waschen, rühren, decken, schneiden mit stumpfem Messer. Kinder, die mitkochen, probieren nachweislich bereitwilliger – und Küche ist nebenbei gute Feinmotorik."
+            },
+            {
+              "age": "ab etwa 4 Jahren",
+              "label": "Nüsse und Rohkost",
+              "text": "Die Erstickungsgefahr sinkt. Ganze Nüsse bleiben trotzdem eine Sache für ruhige Situationen im Sitzen."
+            },
+            {
+              "age": "Kita- und Vorschulzeit",
+              "label": "Essen außer Haus",
+              "text": "Ein großer Teil der Mahlzeiten wird fremdbestimmt. Was zu Hause vorgelebt wird, bleibt trotzdem prägend – auch der Umgang miteinander bei Tisch."
+            }
+          ],
+          "caption": "Orientierungsspannen nach den Handlungsempfehlungen des Netzwerks Gesund ins Leben für ein- bis dreijährige Kinder. Die Altersangaben schwanken zwischen Kindern erheblich."
+        }
+      ]
+    },
+    {
+      "type": "section",
+      "heading": "Häufige Fragen",
+      "blocks": [
+        {
+          "type": "faq",
+          "items": [
+            {
+              "q": "Mein Kind isst seit Wochen fast nur Nudeln mit Butter. Muss ich mir Sorgen machen?",
+              "a": "Meistens nicht. Einseitige Phasen gehören zum Kleinkindalter und dauern oft Wochen bis Monate. Entscheidend ist die Gewichts- und Längenkurve bei den U-Untersuchungen und ob dein Kind wach, aktiv und ausgeglichen ist. Biete weiter unaufgeregt Vielfalt an, ohne zu kommentieren, und koche nichts extra nach. Wenn dein Kind ganze Lebensmittelgruppen dauerhaft meidet, sehr wenig isst oder das Gewicht abfällt, sprich es in der Kinderarztpraxis an."
+            },
+            {
+              "q": "Wie viel Milch am Tag ist sinnvoll?",
+              "a": "Etwa ein bis zwei kleine Portionen Milch oder Milchprodukte pro Tag reichen für den Kalziumbedarf. Sehr große Milchmengen sind ungünstig, weil sie sättigen und die Eisenaufnahme behindern – bei Kleinkindern, die viel Milch trinken und wenig essen, ist Eisenmangel eine typische Ursache für Blässe und Müdigkeit."
+            },
+            {
+              "q": "Darf mein Kind mit den Fingern essen?",
+              "a": "Ja, lange. Besteck kommt schrittweise dazu, sicher wird es meist erst im Kindergartenalter. Tischsitten lernen Kinder durchs Zuschauen – nicht durch Korrektur bei jedem Bissen."
+            },
+            {
+              "q": "Was mache ich, wenn Kita oder Großeltern ganz anders füttern?",
+              "a": "Unterschiedliche Orte, unterschiedliche Regeln – damit kommen Kinder gut zurecht. Nicht verhandelbar sind die Sicherheitsthemen: keine ganzen Nüsse, kein Rennen mit Essen im Mund, keine Süßigkeiten als Belohnung oder Trostmittel. Über den Rest lohnt sich kein Konflikt."
+            },
+            {
+              "q": "Braucht mein Kind Nahrungsergänzungsmittel?",
+              "a": "In der Regel nicht, wenn es gemischt isst. Vitamin D wird üblicherweise bis etwa zum zweiten Lebensjahr gegeben, und Fluorid ist über Zahnpasta oder Tabletten Thema der Kariesvorbeugung. Bei veganer Ernährung ist Vitamin B12 verpflichtend. Alles Weitere gehört in die Sprechstunde und nicht in den Einkaufskorb."
+            },
+            {
+              "q": "Wie bekomme ich mehr Gemüse in mein Kind?",
+              "a": "Wahrscheinlich nicht über Verstecken und Pürieren – das lässt den Geschmack nicht kennenlernen. Wirksamer ist: Gemüse regelmäßig und beiläufig anbieten, selbst sichtbar essen, roh vor gekocht probieren lassen, vor dem Hunger anbieten statt danach, und auf Kommentare verzichten. Wiederholtes Anbieten ohne Druck ist der einzige Weg, der zuverlässig funktioniert – er dauert nur lange."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "callout",
+      "variant": "info",
+      "title": "Kurz gesagt",
+      "text": "Ein Topf für alle, wenig Salz, Wasser als Getränk, fünf Mahlzeiten mit Struktur, Portionen nach Kinderhand. Reichlich pflanzlich, mäßig tierisch, sparsam süß und fett. Und die wichtigste Regel steht nicht in der Nährwerttabelle: Du bestimmst das Angebot, dein Kind die Menge."
+    }
+  ],
+  "sources": [
+    {
+      "title": "Handlungsempfehlungen: Ernährung und Bewegung von Kleinkindern",
+      "publisher": "Netzwerk Gesund ins Leben / Bundeszentrum für Ernährung (BZfE)",
+      "year": "2022",
+      "kind": "Empfehlung",
+      "url": "https://www.gesund-ins-leben.de/fuer-fachkreise/ernaehrung-und-bewegung-fuer-kleinkinder/handlungsempfehlungen/"
+    },
+    {
+      "title": "Ernährungsweise – Handlungsempfehlungen für Kleinkinder",
+      "publisher": "Netzwerk Gesund ins Leben / Bundeszentrum für Ernährung (BZfE)",
+      "year": "2022",
+      "kind": "Empfehlung",
+      "url": "https://www.gesund-ins-leben.de/fuer-fachkreise/ernaehrung-und-bewegung-fuer-kleinkinder/handlungsempfehlungen/ernaehrung/ernaehrungsweise/"
+    },
+    {
+      "title": "Das Konzept der Optimierten Mischkost für Kinder und Jugendliche",
+      "publisher": "Aktuelle Ernährungsmedizin (Kersting et al.); Forschungsinstitut für Kinderernährung Dortmund",
+      "year": "2017",
+      "kind": "Übersichtsarbeit",
+      "url": "https://www.klinikum-bochum.de/files/klinikum-bochum/dokumente/fachbereiche/kinder-und-jugendmedizin/Sonstiges/OMK%20Akt%20Ernmed%202017_Kersting_Online-PDF.pdf"
+    },
+    {
+      "title": "Positionspapier zu veganer Ernährung",
+      "publisher": "Deutsche Gesellschaft für Ernährung (DGE)",
+      "year": "2024",
+      "kind": "Empfehlung",
+      "url": "https://www.dge.de/presse/meldungen/2024/positionspapier-zu-veganer-ernaehrung/"
+    },
+    {
+      "title": "Quantitative Empfehlung zur Zuckerzufuhr in Deutschland (Konsensuspapier DAG, DDG, DGE)",
+      "publisher": "Deutsche Gesellschaft für Ernährung (DGE)",
+      "year": "2018",
+      "kind": "Empfehlung",
+      "url": "https://www.dge.de/wissenschaft/stellungnahmen-und-positionspapiere/stellungnahmen/quantitative-empfehlung-zur-zuckerzufuhr-in-deutschland/"
+    },
+    {
+      "title": "Guideline: Sugars intake for adults and children",
+      "publisher": "World Health Organization",
+      "year": "2015",
+      "kind": "Leitlinie"
+    },
+    {
+      "title": "Gibt es Lebensmittel, die für Kleinkinder tabu sind?",
+      "publisher": "Netzwerk Gesund ins Leben / Bundeszentrum für Ernährung (BZfE)",
+      "year": "2022",
+      "kind": "Empfehlung",
+      "url": "https://www.gesund-ins-leben.de/fuer-fachkreise/ernaehrung-und-bewegung-fuer-kleinkinder/nachgefragt/gibt-es-lebensmittel-die-fuer-kleinkinder-tabu-sind/"
+    }
+  ],
+  "related": ["beikost-einfuehren", "essverhalten-kleinkind", "baby-led-weaning", "zaehneputzen-durchsetzen"]
+}

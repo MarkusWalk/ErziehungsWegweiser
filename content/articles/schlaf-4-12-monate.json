@@ -1,0 +1,301 @@
+{
+  "slug": "schlaf-4-12-monate",
+  "title": "Schlaf zwischen vier und zwölf Monaten",
+  "subtitle": "Warum nächtliches Aufwachen in diesem Alter kein Rückschritt ist, was hinter der sogenannten Vier-Monats-Regression steckt und woran du dich realistisch orientieren kannst.",
+  "phases": ["saeugling"],
+  "topics": ["schlaf"],
+  "updated": "2026-08-05",
+  "summary": "Im zweiten Lebenshalbjahr reift der Schlaf deines Kindes von einem einfachen Zwei-Phasen-Muster zu einer erwachsenenähnlichen Struktur mit mehreren Stadien. Das bedeutet mehr leichten Schlaf, mehr Übergänge und damit mehr Gelegenheiten aufzuwachen. Ein Drittel der Kinder wacht mit sechs Monaten noch jede Nacht auf, und das ist keine Störung, sondern eine der beiden normalen Entwicklungsverläufe. Was du beeinflussen kannst, ist der Rahmen: Rhythmus, Licht, Abendgestaltung, und wie viel Schlafmangel du dir selbst zumutest.",
+  "keyFacts": [
+    "Zwischen drei und fünf Monaten reift die Schlafarchitektur um – mehr Leichtschlafanteile bedeuten mehr Aufwachen.",
+    "Bei sechs Monaten schlafen rund 38 Prozent der Kinder keine sechs Stunden am Stück; mit zwölf Monaten sind es noch etwa 28 Prozent.",
+    "In Längsschnittstudien lassen sich zwei normale Verläufe unterscheiden: früh durchschlafende Kinder und Kinder, die den Übergang über Monate strecken.",
+    "Nächtliches Aufwachen in diesem Alter sagt nichts über Entwicklung, Bindung oder Erziehung aus.",
+    "Der Gesamtschlafbedarf liegt bei 4 bis 11 Monaten meist bei 12 bis 16 Stunden pro 24 Stunden, inklusive Tagschlaf."
+  ],
+  "blocks": [
+    {
+      "type": "p",
+      "lead": true,
+      "text": "Irgendwann zwischen dem vierten und dem sechsten Monat passiert bei vielen Familien dasselbe: Ein Kind, das vorher lange Blöcke geschlafen hat, ist plötzlich alle vierzig Minuten wach. Nichts ist schiefgegangen. Was sich verändert hat, ist die Bauweise des Schlafs selbst – und die verändert sich nicht zurück."
+    },
+    {
+      "type": "callout",
+      "variant": "warn",
+      "title": "Wann Schlafprobleme ärztlich abgeklärt gehören",
+      "items": [
+        "Lautes, regelmäßiges Schnarchen mit Atempausen oder sichtbar angestrengtem Atmen",
+        "Auffälliges Schwitzen im Schlaf zusammen mit schlechtem Gedeihen",
+        "Ein Kind, das erworbene Fähigkeiten wieder verliert oder auffällig teilnahmslos wirkt",
+        "Rhythmische, ruckartige Bewegungen, die immer gleich ablaufen und das Kind aufwecken",
+        "Und für dich selbst: wenn Erschöpfung in anhaltende Niedergeschlagenheit, Angst oder Gedanken kippt, die dir Angst machen – das ist ein Grund, sofort Hilfe zu holen, nicht später."
+      ]
+    },
+    {
+      "type": "section",
+      "heading": "Was sich in diesen Monaten wirklich verändert",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "Neugeborene haben im Grunde zwei Schlafzustände. Etwa ab dem dritten bis vierten Monat differenziert sich daraus die Struktur, die auch Erwachsene haben: mehrere Stadien vom leichten bis zum tiefen Schlaf, dazu Traumschlaf, in Zyklen aneinandergereiht. Ein Säuglingszyklus dauert dabei rund 50 bis 60 Minuten – deutlich kürzer als die etwa 90 Minuten bei Erwachsenen. Am Ende jedes Zyklus liegt eine Schwelle, an der man kurz an die Oberfläche kommt. Erwachsene drehen sich dort um und merken nichts davon. Ein Kind, das an dieser Schwelle die Situation anders vorfindet als beim Einschlafen, meldet sich."
+        },
+        {
+          "type": "p",
+          "text": "Das erklärt einen großen Teil dessen, was Eltern in diesem Alter erleben: Das Kind schläft an der Brust, im Arm oder beim Schaukeln ein, wacht sechzig Minuten später allein im Bett auf – und ruft. Nicht, weil es etwas Falsches gelernt hätte, sondern weil sich die Umgebung verändert hat. Wie du damit umgehst, ist eine eigene Frage, und sie ist im Artikel zur Einschlafbegleitung ausführlich behandelt."
+        },
+        {
+          "type": "p",
+          "text": "Parallel dazu passiert im zweiten Halbjahr eine ganze Menge anderes: Drehen, Robben, Sitzen, Krabbeln, die ersten Silbenketten, das Fremdeln. Motorische und kognitive Sprünge fallen zeitlich oft mit unruhigeren Nächten zusammen. Das ist keine Einbildung, aber es ist auch nichts, das man beheben kann – man kann es nur überstehen."
+        },
+        {
+          "type": "evidence",
+          "level": "moderat",
+          "claim": "Der Schlafbedarf im Alter von 4 bis 11 Monaten liegt bei etwa 12 bis 16 Stunden pro 24 Stunden, inklusive Tagschlaf. Die Spannbreite ist groß und individuell stabil.",
+          "note": "WHO und die Konsensempfehlungen der National Sleep Foundation kommen unabhängig voneinander auf ähnliche Spannen. Wichtig ist die Breite: Ein Kind mit 12 Stunden ist nicht unterversorgt, ein Kind mit 16 Stunden nicht auffällig. Der bessere Maßstab als die Uhr ist, wie dein Kind tagsüber wirkt – aufnahmefähig und überwiegend ausgeglichen oder dauerhaft überdreht und quengelig.",
+          "sources": [4, 6]
+        }
+      ]
+    },
+    {
+      "type": "section",
+      "heading": "Durchschlafen: ein Wort, das mehr Schaden anrichtet als Nutzen",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "Kaum ein Begriff sorgt für so viel unnötigen Druck. In der Schlafforschung ist Durchschlafen keine Eigenschaft, sondern eine Definition – und je nachdem, welche man wählt, kommt man zu völlig verschiedenen Zahlen. Eine neuseeländische Längsschnittstudie hat drei Definitionen parallel geprüft: fünf Stunden von Mitternacht bis fünf Uhr, acht Stunden am Stück, und die für Familien eigentlich relevante Spanne von 22 bis 6 Uhr. Für die ersten beiden erreichte die Hälfte der Kinder das Kriterium mit etwa drei Monaten zum ersten Mal – für die dritte, die den Elternschlaf tatsächlich abbildet, erst mit rund fünf Monaten."
+        },
+        {
+          "type": "p",
+          "text": "Zum ersten Mal heißt außerdem nicht ab jetzt immer. Genau das ist der Punkt, an dem Elterngespräche schieflaufen: Wenn jemand sagt, ihr Kind schlafe seit vier Monaten durch, ist damit meistens gemeint, dass es das einmal getan hat oder dass eine großzügige Definition zugrunde liegt."
+        },
+        {
+          "type": "evidence",
+          "level": "stark",
+          "claim": "Nächtliches Aufwachen im zweiten Lebenshalbjahr ist der Normalfall, nicht die Ausnahme. Mit sechs Monaten schlafen etwa 38 Prozent der Kinder keine sechs Stunden am Stück, mit zwölf Monaten noch rund 28 Prozent.",
+          "note": "Diese Zahlen stammen aus einer kanadischen Kohortenstudie mit über 380 Kindern. Sie fand keinen Zusammenhang zwischen Durchschlafen und der motorischen oder geistigen Entwicklung der Kinder – und keinen mit dem Befinden der Mütter. Gestillte Kinder wachten häufiger auf. Praktisch heißt das: Ein Kind, das mit zehn Monaten nachts noch zweimal wach wird, liegt im normalen Bereich.",
+          "sources": [1, 2]
+        },
+        {
+          "type": "figure",
+          "kind": "line",
+          "title": "Zwei normale Verläufe: Nächte mit Aufwachen pro Woche",
+          "alt": "Liniendiagramm mit zwei Verläufen vom 6. bis zum 36. Lebensmonat. Eine Linie bleibt flach bei etwa einer Nacht pro Woche, die andere startet bei sieben Nächten und fällt bis zum 24. Monat auf eine.",
+          "xMin": 6,
+          "xMax": 36,
+          "yMin": 0,
+          "yMax": 7,
+          "xTicks": [6, 15, 24, 36],
+          "yTicks": [0, 2, 4, 6],
+          "series": [
+            {
+              "label": "Früh konsolidierende Kinder (etwa zwei Drittel)",
+              "points": [[6, 1], [15, 1], [24, 1], [36, 1]]
+            },
+            {
+              "label": "Kinder im längeren Übergang (etwa ein Drittel)",
+              "points": [[6, 7], [15, 2], [24, 1], [36, 1]]
+            }
+          ],
+          "caption": "Nach einer US-amerikanischen Längsschnittstudie an über 1.200 Kindern (Weinraub et al., Developmental Psychology 2012). Rund 66 Prozent der Kinder weckten ihre Eltern von Anfang an nur etwa einmal pro Woche. Etwa 34 Prozent wachten mit sechs Monaten jede Nacht auf – bei ihnen sank die Häufigkeit bis zum 15. Monat auf zwei Nächte und bis zum 24. Monat auf eine. Beide Verläufe sind normal.",
+          "sources": [3]
+        },
+        {
+          "type": "p",
+          "text": "Diese Grafik ist der wichtigste Satz des Artikels in Bildform: Es gibt nicht den einen Fahrplan, von dem dein Kind abweicht. Es gibt mindestens zwei, und in welchen es fällt, hast du nicht in der Hand."
+        }
+      ]
+    },
+    {
+      "type": "section",
+      "heading": "Schlafregressionen: was dran ist und was nicht",
+      "blocks": [
+        {
+          "type": "callout",
+          "variant": "myth",
+          "title": "Die Vier-Monats-Regression",
+          "text": "Der Begriff stammt aus der Elternratgeberwelt, nicht aus der Forschung. Ein Rückschritt im Sinne von schlechterem Schlaf als vorher lässt sich in Datensätzen zum Schlafverlauf über das erste Jahr nicht als allgemeines Muster nachweisen – im Mittel werden die Nachtschlafblöcke über die Monate länger, nicht kürzer. Was real ist: die Umstellung der Schlafarchitektur um den dritten bis fünften Monat. Sie trifft alle Kinder, führt aber längst nicht bei allen zu sichtbar unruhigeren Nächten. Wenn deine Nächte gerade schlechter sind, ist das echt – nur ist es keine Regression, sondern eine Reifung, die bei euch spürbar ausfällt. Und deshalb geht sie auch nicht nach exakt zwei Wochen vorbei."
+        },
+        {
+          "type": "p",
+          "text": "Dasselbe gilt für die weiteren Regressionen, die im Netz kursieren – acht, zehn, zwölf, achtzehn Monate. Es gibt Phasen, in denen viele Kinder unruhiger schlafen, und sie fallen oft mit Entwicklungssprüngen, Zahnen oder Infekten zusammen. Ein festes Kalendermuster, an dem du dich orientieren könntest, gibt es nicht. Der praktische Nutzen des Begriffs liegt einzig darin, dass er tröstet: Es geht vorbei. Das stimmt meistens auch."
+        }
+      ]
+    },
+    {
+      "type": "section",
+      "heading": "Wachfenster, Tagesrhythmus und das Licht",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "Wachfenster – also die Zeitspanne, die ein Kind zwischen zwei Schlafphasen gut wach bleiben kann – sind ein nützliches Alltagswerkzeug, aber keine Messgröße mit belastbarer Studienbasis. Die üblichen Orientierungswerte stammen aus der Beratungspraxis: etwa zwei bis drei Stunden mit vier Monaten, drei bis vier Stunden gegen Ende des ersten Jahres. Nimm sie als Hypothese, nicht als Vorgabe. Der bessere Indikator ist dein Kind: Reibt es sich die Augen, wird es fahrig, verliert es das Interesse an Dingen, die es eben noch spannend fand?"
+        },
+        {
+          "type": "p",
+          "text": "Was tatsächlich robust wirkt, ist der Zeitgeber Licht. Der innere Rhythmus stellt sich in den ersten Monaten überhaupt erst ein, und er richtet sich vor allem nach Helligkeit und nach wiederkehrenden Abläufen. Morgens raus, tagsüber viel Tageslicht, abends gedämpftes Licht und immer dieselbe Reihenfolge – das ist unspektakulär und wirkt trotzdem mehr als die meisten Maßnahmen, die auf den Nachtschlaf selbst zielen."
+        },
+        {
+          "type": "callout",
+          "variant": "tip",
+          "title": "Vier Stellschrauben, die realistisch etwas bringen",
+          "items": [
+            "Morgens zu einer halbwegs ähnlichen Zeit den Tag beginnen – der Anker sitzt am Morgen, nicht am Abend.",
+            "Tageslicht am Vormittag, auch bei schlechtem Wetter und auch nur zwanzig Minuten.",
+            "Eine kurze, immer gleiche Abendabfolge von zwanzig bis dreißig Minuten. Der Inhalt ist zweitrangig, die Reihenfolge nicht.",
+            "Den letzten Tagschlaf nicht zu spät enden lassen – als grobe Orientierung mindestens drei Stunden Abstand zur gewünschten Bettzeit."
+          ]
+        },
+        {
+          "type": "scene",
+          "preset": "meilensteine",
+          "title": "Der Schlaf im ersten Jahr als Entwicklungspfad",
+          "alt": "Animierter Entwicklungspfad, der die Stationen der Schlafreifung im ersten Lebensjahr nacheinander sichtbar macht",
+          "fallback": "Die Schlafentwicklung im ersten Jahr verläuft in Stationen: In den ersten Wochen gibt es keinen Tag-Nacht-Rhythmus. Ab etwa sechs bis acht Wochen beginnt sich der Nachtschlaf zu bündeln. Zwischen drei und fünf Monaten reift die Schlafarchitektur zur erwachsenenähnlichen Struktur mit mehreren Stadien. Im zweiten Halbjahr werden aus vier bis fünf Tagschlafphasen meist zwei, und der längste Nachtblock wächst. Am Ende des ersten Jahres schläft ein Teil der Kinder überwiegend durch, ein anderer Teil braucht dafür noch Monate.",
+          "caption": "Die Stationen liegen bei jedem Kind an einer etwas anderen Stelle. Die Reihenfolge ist stabil, der Zeitpunkt nicht – und der Zeitpunkt lässt sich kaum beschleunigen."
+        }
+      ]
+    },
+    {
+      "type": "section",
+      "heading": "Nachts stillen, Flasche, Beikost",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "Ab wann ein Kind nachts keine Nahrung mehr braucht, ist keine Frage mit einer Jahreszahl als Antwort. Rein energetisch kommen die meisten gesunden, gut gedeihenden Kinder ab dem zweiten Halbjahr ohne nächtliche Mahlzeit aus. Das heißt aber nicht, dass sie deswegen aufhören aufzuwachen – Nahrung ist nur einer von mehreren Gründen, und Nähe und Beruhigung sind die anderen. Wer nachts abstillt, gewinnt deshalb oft weniger Schlaf als erhofft."
+        },
+        {
+          "type": "p",
+          "text": "Ein Hinweis, der praktisch relevant wird, sobald Zähne da sind: Häufiges nächtliches Trinken – gestillt oder aus der Flasche – ist mit einem höheren Kariesrisiko verbunden, wenn die Zähne über lange Zeiträume immer wieder benetzt werden. Das ist kein Grund, nachts abzustillen, aber ein Grund, ab dem ersten Zahn konsequent zweimal täglich zu putzen. Gezuckerte Getränke oder Tees in der Nuckelflasche über Nacht gehören unabhängig davon nicht ins Bett."
+        },
+        {
+          "type": "p",
+          "text": "Und die häufigste Hoffnung von allen: Ein Abendbrei bringt Kinder nicht zuverlässig dazu, länger zu schlafen. Ein sattes Kind schläft nicht länger als ein anderes sattes Kind. Beikost hat ihre Berechtigung aus ernährungsphysiologischen Gründen, nicht als Schlafmittel."
+        }
+      ]
+    },
+    {
+      "type": "section",
+      "heading": "Wenn du nicht mehr kannst",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "Der wichtigste Satz zu diesem Alter steht selten in Ratgebern: Der Schlaf deines Kindes ist über weite Strecken nicht das eigentliche Problem. Das Problem ist die Summe aus fragmentiertem Elternschlaf, Erwerbsarbeit, Haushalt und dem Gefühl, dass alle anderen es besser hinbekommen. An der Reifung des kindlichen Schlafs lässt sich wenig drehen. An der Verteilung der Nächte, an Erwartungen und an Entlastung schon."
+        },
+        {
+          "type": "steps",
+          "title": "Was Familien in dieser Phase wirklich entlastet",
+          "items": [
+            {
+              "title": "Nächte aufteilen statt Nächte teilen",
+              "text": "Zwei Personen, die beide jede Nacht halb wach sind, sind schlechter dran als zwei, die abwechselnd eine Nacht durchschlafen. Wenn gestillt wird, kann die zweite Person zumindest die erste Nachthälfte oder das Wiedereinschlafen übernehmen."
+            },
+            {
+              "title": "Den Schlafplatz an die Realität anpassen",
+              "text": "Ein Beistellbett spart pro Nacht mehrere vollständige Aufwachvorgänge. Die Sicherheitsregeln für den Schlafplatz gelten dabei unverändert – nachzulesen im Artikel zum sicheren Schlaf."
+            },
+            {
+              "title": "Früher ins Bett gehen, nicht später",
+              "text": "Die Stunde nach dem Einschlafen des Kindes fühlt sich wie die einzige eigene Zeit des Tages an. Sie ist es auch. Ein bis zwei Abende pro Woche darauf zu verzichten, ist oft der wirksamste Eingriff überhaupt."
+            },
+            {
+              "title": "Hilfe konkret machen",
+              "text": "Bitte nicht um Unterstützung im Allgemeinen, sondern um einen festen Termin: Samstagvormittag zwei Stunden Kinderwagenrunde, damit du schlafen kannst. Unkonkrete Angebote werden selten eingelöst."
+            },
+            {
+              "title": "Bei der U-Untersuchung ansprechen",
+              "text": "Schlaf gehört in die U5 und U6. Sag klar, wie oft es nachts wirklich ist und wie es dir damit geht – auch wenn es sich nach Klagen auf hohem Niveau anfühlt."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "section",
+      "heading": "Häufige Fragen",
+      "blocks": [
+        {
+          "type": "faq",
+          "items": [
+            {
+              "q": "Mein Kind hat mit drei Monaten sechs Stunden geschlafen und wacht jetzt mit fünf Monaten wieder stündlich auf. Habe ich etwas falsch gemacht?",
+              "a": "Nein. Genau dieser Verlauf ist typisch für die Umstellung der Schlafarchitektur zwischen dem dritten und fünften Monat. Der frühe lange Block war kein Zustand, den du gehalten oder verloren hast – er war eine Eigenschaft des unreifen Schlafmusters. Was jetzt kommt, ist die reifere Struktur, und die bringt mehr Übergänge mit sich."
+            },
+            {
+              "q": "Muss mein Kind lernen, allein einzuschlafen, damit es nachts durchschläft?",
+              "a": "Es gibt einen belegten Zusammenhang zwischen den Umständen beim Einschlafen und dem Verhalten nach nächtlichem Aufwachen: Wenn ein Kind an der Aufwachschwelle dieselbe Situation vorfindet wie beim Einschlafen, meldet es sich seltener. Daraus folgt aber keine Pflicht. Viele Familien fahren jahrelang gut damit, das Einschlafen zu begleiten und dafür nachts kurz einzugreifen. Welche Methoden es gibt und was die Studienlage dazu hergibt, steht im Artikel zur Einschlafbegleitung."
+            },
+            {
+              "q": "Wie viele Tagschläfchen sind in diesem Alter richtig?",
+              "a": "Mit vier Monaten sind drei bis vier kurze Phasen üblich, gegen Ende des ersten Jahres meist zwei. Der Übergang auf zwei Schläfchen fällt oft in die zweite Jahreshälfte und verläuft ruckelig – es gibt Wochen, in denen es mal zwei und mal drei sind. Das ist normal und braucht keinen Plan."
+            },
+            {
+              "q": "Schadet es, wenn mein Kind nur an der Brust oder im Tragetuch einschläft?",
+              "a": "Nachweislich schadet es nicht. Es hat einen praktischen Preis: Wenn dein Kind ausschließlich so einschlafen kann, seid ihr an diese Situation gebunden, auch nachts und auch, wenn eine andere Person übernehmen soll. Ob dir dieser Preis zu hoch ist, ist eine Abwägung, keine medizinische Frage."
+            },
+            {
+              "q": "Ab wann wäre nächtliches Aufwachen tatsächlich auffällig?",
+              "a": "Die Häufigkeit allein sagt wenig. Aufmerksam werden solltest du bei lautem Schnarchen mit Atempausen, bei Kindern, die trotz ausreichender Schlafmengen tagsüber kaum wach oder auffällig unruhig sind, bei stagnierendem Gewicht oder wenn ihr als Familie an einem Punkt seid, an dem nichts mehr geht. Alle vier Punkte gehören in die kinderärztliche Sprechstunde – der letzte genauso wie die ersten drei."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "callout",
+      "variant": "info",
+      "title": "Kurz gesagt",
+      "text": "Zwischen vier und zwölf Monaten reift der Schlaf um, und Aufwachen gehört dazu. Ungefähr ein Drittel der Kinder braucht bis weit ins zweite Jahr, um die Nächte zu bündeln – das ist ein normaler Verlauf, kein Rückstand. Beeinflussbar sind der Tagesrhythmus, das Licht, die Abendgestaltung und vor allem, wie ihr die Nächte untereinander aufteilt."
+    }
+  ],
+  "sources": [
+    {
+      "title": "Normal sleep patterns in infants and children: A systematic review of observational studies",
+      "publisher": "Sleep Medicine Reviews (Galland, Taylor, Elder, Herbison)",
+      "year": "2012",
+      "kind": "Übersichtsarbeit",
+      "url": "https://www.sciencedirect.com/science/article/abs/pii/S1087079211000682"
+    },
+    {
+      "title": "Sleeping Through the Night: The Consolidation of Self-regulated Sleep Across the First Year of Life",
+      "publisher": "Pediatrics (Henderson, France, Owens, Blampied)",
+      "year": "2010",
+      "kind": "Studie",
+      "url": "https://publications.aap.org/pediatrics/article/126/5/e1081/65212/Sleeping-Through-the-Night-The-Consolidation-of"
+    },
+    {
+      "title": "Uninterrupted Infant Sleep, Development, and Maternal Mood",
+      "publisher": "Pediatrics (Pennestri et al.)",
+      "year": "2018",
+      "kind": "Studie",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/30420470/"
+    },
+    {
+      "title": "Patterns of developmental change in infants nighttime sleep awakenings from 6 through 36 months of age",
+      "publisher": "Developmental Psychology (Weinraub et al.)",
+      "year": "2012",
+      "kind": "Studie",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/22448981/"
+    },
+    {
+      "title": "Guidelines on physical activity, sedentary behaviour and sleep for children under 5 years of age",
+      "publisher": "World Health Organization",
+      "year": "2019",
+      "kind": "Leitlinie",
+      "url": "https://www.who.int/publications/i/item/9789241550536"
+    },
+    {
+      "title": "Schlaf im 1. Lebensjahr",
+      "publisher": "Bundeszentrale für gesundheitliche Aufklärung (BZgA), kindergesundheit-info.de",
+      "year": "2024",
+      "kind": "Institutionelle Information",
+      "url": "https://www.kindergesundheit-info.de/themen/schlafen/0-12-monate/"
+    },
+    {
+      "title": "National Sleep Foundation's sleep time duration recommendations: methodology and results summary",
+      "publisher": "Sleep Health (Hirshkowitz et al.)",
+      "year": "2015",
+      "kind": "Empfehlung",
+      "url": "https://www.sleephealthjournal.org/article/s2352-7218(15)00015-7/fulltext"
+    }
+  ],
+  "related": ["sicherer-schlaf", "einschlafbegleitung", "neugeborenen-schlaf", "schlaf-kleinkind"]
+}

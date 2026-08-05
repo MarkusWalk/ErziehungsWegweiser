@@ -1,0 +1,313 @@
+{
+  "slug": "geburt-vorbereiten",
+  "title": "Die Geburt vorbereiten",
+  "subtitle": "Geburtsorte im Vergleich, was ein Vorbereitungskurs leistet, welche Schmerzlinderung es gibt, wie ein Geburtsplan sinnvoll aussieht – und warum die Begleitperson mehr Einfluss hat, als sie meist glaubt.",
+  "phases": ["schwangerschaft"],
+  "topics": ["gesundheit", "eltern"],
+  "updated": "2026-08-05",
+  "summary": "Eine Geburt lässt sich nicht planen, aber vorbereiten. Am meisten bringen dabei zwei Dinge, die wenig kosten: zu wissen, welche Entscheidungen überhaupt anstehen, und jemanden dabeizuhaben, der durchgehend bei dir bleibt. Dieser Artikel vergleicht Geburtsorte, ordnet Schmerzmittel und Kaiserschnitt ein, erklärt, was ein Geburtsplan leisten kann – und was die Person an deiner Seite konkret tun kann.",
+  "keyFacts": [
+    "Rund 98 Prozent der Kinder in Deutschland kommen in einer Klinik zur Welt, etwa 2 Prozent außerklinisch.",
+    "Kontinuierliche Eins-zu-eins-Begleitung ist die am besten belegte Maßnahme für einen guten Geburtsverlauf.",
+    "Der Geburtsvorbereitungskurs mit bis zu 14 Stunden ist für die Schwangere Kassenleistung.",
+    "Eine PDA lindert Schmerzen zuverlässig und erhöht die Kaiserschnittrate nicht.",
+    "2024 endete jede dritte Klinikgeburt in Deutschland mit einem Kaiserschnitt.",
+    "Ein Geburtsplan ist eine Wunschliste, kein Drehbuch – er darf jederzeit geändert werden."
+  ],
+  "blocks": [
+    {
+      "type": "p",
+      "lead": true,
+      "text": "Die meisten Menschen bereiten sich auf die Geburt vor, indem sie Erfahrungsberichte lesen. Das ist verständlich und meist wenig hilfreich, weil kein Bericht deiner Geburt entspricht. Nützlicher ist, vorher zu wissen, welche Entscheidungen überhaupt anstehen, wer sie trifft und was du davon vorab festlegen kannst."
+    },
+    {
+      "type": "callout",
+      "variant": "info",
+      "title": "Die eine Zahl, die es zu merken lohnt",
+      "text": "Die Nummer des Kreißsaals deiner Wunschklinik. Dort ist rund um die Uhr jemand erreichbar, auch für Fragen, die sich am Ende als harmlos herausstellen. Speicher sie spätestens ab der 30. Woche ein."
+    },
+    {
+      "type": "section",
+      "heading": "Wo dein Kind zur Welt kommen kann",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "In Deutschland kommen etwa 98 von 100 Kindern in einer Klinik zur Welt. Der außerklinische Anteil – Hausgeburten und hebammengeleitete Einrichtungen – liegt bei rund zwei Prozent. Zwischen den Extremen liegen mehrere Zwischenformen, die viele Eltern gar nicht kennen."
+        },
+        {
+          "type": "table",
+          "title": "Geburtsorte im Vergleich",
+          "head": ["Ort", "Was ihn ausmacht", "Wofür er sich eignet"],
+          "rows": [
+            ["Klinik mit Kreißsaal", "Ärztliche Geburtshilfe, Anästhesie und Operationssaal im Haus", "Alle Schwangerschaften; notwendig bei Risiken, Mehrlingen, Frühgeburt"],
+            ["Hebammenkreißsaal", "Abteilung derselben Klinik, in der Hebammen die Geburt leiten", "Unauffällige Schwangerschaften – bei Bedarf wird intern übergeben"],
+            ["Beleggeburt", "Eine vorher bekannte Beleghebamme begleitet dich in der Klinik", "Wer Kontinuität will, ohne auf Klinikstrukturen zu verzichten"],
+            ["Geburtshaus / Hausgeburt", "Hebammengeleitet, ohne Anästhesie und OP vor Ort", "Unauffällige Schwangerschaften; Verlegung ins Krankenhaus jederzeit möglich"]
+          ],
+          "caption": "Außerklinische Geburten werden in Deutschland über die Perinatalerhebung der QUAG erfasst; die Überleitungsrate in eine Klinik lag zuletzt bei etwa 16 Prozent, bei Erstgebärenden deutlich höher."
+        },
+        {
+          "type": "callout",
+          "variant": "tip",
+          "title": "Wonach du eine Klinik aussuchen kannst",
+          "items": [
+            "Erreichbarkeit – bei der zweiten Geburt oft der wichtigste Punkt",
+            "Kaiserschnittrate und Rate an Dammschnitten, die Kliniken auf Nachfrage nennen",
+            "Ob es einen Hebammenkreißsaal gibt und ob eine Hebamme mehrere Frauen gleichzeitig betreut",
+            "Angeschlossene Kinderklinik – relevant bei Risiken oder erwarteter Frühgeburt",
+            "Ob die Begleitperson bleiben darf, auch nachts und im Fall eines Kaiserschnitts",
+            "Der eigene Eindruck bei der Kreißsaalführung. Er ist kein Qualitätsmerkmal, aber er entscheidet mit, wie sicher du dich fühlst"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "section",
+      "heading": "Der Vorbereitungskurs – und was er nicht kann",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "Ein Geburtsvorbereitungskurs umfasst in der Regel 14 Stunden und ist für dich als Schwangere kostenfrei, weil die Krankenkasse direkt mit der Hebamme abrechnet. Für die Begleitperson zahlen die meisten Kassen nicht oder nur einen Teil – das ist eine freiwillige Satzungsleistung, nach der du bei deiner Kasse ausdrücklich fragen solltest. Melde dich früh an, üblicherweise um die 20. Woche; in vielen Städten sind die Kurse Monate im Voraus belegt."
+        },
+        {
+          "type": "p",
+          "text": "Was ein guter Kurs leistet: Er nimmt dem Ablauf das Unheimliche, übt Atmung und Positionen, macht Schmerzlinderung und Eingriffe besprechbar und bringt dich mit anderen Schwangeren in Kontakt. Was er nicht leistet: eine bestimmte Geburt garantieren. Kurse, die nahelegen, mit der richtigen Technik werde jede Geburt schmerzarm und interventionsfrei, setzen Eltern unter Druck und hinterlassen im Fall der Fälle Schuldgefühle."
+        }
+      ]
+    },
+    {
+      "type": "section",
+      "heading": "Die wirksamste Vorbereitung ist eine Person",
+      "blocks": [
+        {
+          "type": "evidence",
+          "level": "stark",
+          "claim": "Wer während der gesamten Geburt kontinuierlich begleitet wird, hat häufiger eine spontane vaginale Geburt, kürzere Geburten, seltener eine Saugglocken- oder Zangengeburt, seltener einen Kaiserschnitt und erlebt die Geburt seltener negativ.",
+          "note": "Die Cochrane-Übersicht fasst 27 randomisierte Studien mit rund 16.000 Frauen zusammen und fand keinerlei Nachteile. Am größten war der Effekt, wenn die Begleitung durch eine Person erfolgte, die weder zum Klinikpersonal noch zum engen sozialen Umfeld gehörte – also durch eine Doula. Aber auch Partner, Freundin oder Mutter helfen, wenn sie wirklich bleiben.",
+          "sources": [2]
+        },
+        {
+          "type": "steps",
+          "title": "Was die Begleitperson konkret tun kann",
+          "items": [
+            { "title": "Dableiben", "text": "Nicht in die Cafeteria verschwinden, nicht am Handy versinken. Anwesenheit ist der Wirkstoff." },
+            { "title": "Den Raum gestalten", "text": "Licht dimmen, Musik, Wärme, Getränke anreichen, Türen schließen. Klingt banal, verändert die Atmosphäre enorm." },
+            { "title": "Körperlich unterstützen", "text": "Kreuzbeinmassage, Gegendruck, Halt beim Stehen und Wiegen, Wärme auf den Rücken." },
+            { "title": "Übersetzen und nachfragen", "text": "Wenn etwas vorgeschlagen wird: Warum jetzt? Welche Alternativen gibt es? Wie viel Zeit haben wir zum Überlegen?" },
+            { "title": "Die vereinbarten Wünsche im Kopf haben", "text": "Damit die Gebärende sie nicht mitten in einer Wehe erklären muss." },
+            { "title": "Nichts persönlich nehmen", "text": "Unter der Geburt gesagte Sätze sind keine Beziehungsbilanz." }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "section",
+      "heading": "Schmerzen: was es gibt und was es bewirkt",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "Es gibt keine Rangliste, an deren Spitze das natürlichste Verfahren steht. Es gibt Verfahren mit unterschiedlicher Wirkstärke und unterschiedlichen Nebenwirkungen – und die Entscheidung darf sich mitten in der Geburt ändern."
+        },
+        {
+          "type": "comparison",
+          "title": "Möglichkeiten der Schmerzlinderung",
+          "columns": [
+            {
+              "title": "Ohne Medikamente",
+              "tone": "neutral",
+              "items": [
+                "Bewegung und aufrechte Positionen",
+                "Warmes Wasser: Dusche, Wanne, Wassergeburt",
+                "Massage, Gegendruck, Wärme auf dem Kreuzbein",
+                "Atem- und Tönetechniken",
+                "TENS-Gerät, Akupunktur, Homöopathie – gut verträglich, schwache Datenlage"
+              ]
+            },
+            {
+              "title": "Mit Medikamenten",
+              "tone": "neutral",
+              "items": [
+                "Krampflösende Mittel und Zäpfchen zur Muttermundsentspannung",
+                "Lachgas zum Selbstdosieren, kurz wirksam",
+                "Opioide als Spritze – wirken begrenzt, machen müde, können das Kind schläfrig machen",
+                "Periduralanästhesie (PDA), die stärkste Form der Linderung",
+                "Spinalanästhesie – vor allem beim Kaiserschnitt"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "evidence",
+          "level": "stark",
+          "claim": "Eine PDA lindert Geburtsschmerzen wirksamer als alle anderen Verfahren und erhöht nicht das Risiko für einen Kaiserschnitt. Sie erhöht aber die Wahrscheinlichkeit einer Geburt mit Saugglocke oder Zange.",
+          "note": "Die Cochrane-Übersicht von 2018 fand außerdem keinen Zusammenhang mit langfristigen Rückenschmerzen und keine unmittelbaren Nachteile für das Kind nach Apgar-Werten oder Aufnahmen auf die Neugeborenenstation. Praktisch heißt das: Die PDA ist eine legitime Wahl, keine Kapitulation – und der häufigste Grund gegen sie ist nicht Gefährlichkeit, sondern der Wunsch nach mehr Bewegungsfreiheit.",
+          "sources": [3]
+        }
+      ]
+    },
+    {
+      "type": "section",
+      "heading": "Kaiserschnitt: geplant, ungeplant, notfallmäßig",
+      "blocks": [
+        {
+          "type": "figure",
+          "kind": "bar",
+          "title": "Anteil der Kaiserschnitte an den Klinikgeburten in Deutschland",
+          "alt": "Balkendiagramm: 1991 15,3 Prozent, 2024 bundesweit 33,0 Prozent, Sachsen 27,4 Prozent, Hamburg 36,4 Prozent",
+          "data": [
+            { "label": "1991 (Bund)", "value": 15.3, "display": "15,3 %" },
+            { "label": "2024 (Bund)", "value": 33.0, "display": "33,0 %" },
+            { "label": "2024 Sachsen", "value": 27.4, "display": "27,4 %" },
+            { "label": "2024 Hamburg", "value": 36.4, "display": "36,4 %" }
+          ],
+          "caption": "Zahlen des Statistischen Bundesamtes für 2024. Dass zwischen dem niedrigsten und dem höchsten Bundesland neun Prozentpunkte liegen, lässt sich medizinisch nicht erklären – es zeigt, wie stark Strukturen und Gewohnheiten mitentscheiden.",
+          "sources": [4]
+        },
+        {
+          "type": "list",
+          "ordered": false,
+          "items": [
+            { "title": "Geplanter Kaiserschnitt:", "text": "Termin steht vorher fest, etwa bei Querlage, Plazenta praevia oder bestimmten Vorerkrankungen. Ruhiger Ablauf, meist in Spinalanästhesie, du bist wach und die Begleitperson darf in aller Regel mit." },
+            { "title": "Ungeplanter Kaiserschnitt:", "text": "Entscheidung während der Geburt, weil sie nicht vorangeht oder das Kind Stress zeigt. Es bleibt Zeit für Aufklärung und Fragen." },
+            { "title": "Notkaiserschnitt:", "text": "Selten, dafür sehr schnell, oft in Vollnarkose. Dass in dieser Situation nichts mehr besprochen wird, ist kein Verschulden von irgendjemandem." },
+            { "title": "Kaiserschnitt auf Wunsch:", "text": "In Deutschland möglich, aber aufklärungspflichtig. Die S3-Leitlinie verlangt ein Gespräch über Nutzen und Risiken für diese und für spätere Schwangerschaften." }
+          ]
+        },
+        {
+          "type": "p",
+          "text": "Ein Kaiserschnitt ist eine Bauchoperation. Er ist heute sehr sicher, aber er bringt eine längere Erholung, ein etwas höheres Risiko für Wundheilungsstörungen und Thrombosen mit sich und wirkt sich auf spätere Schwangerschaften aus. Umgekehrt gilt: Nach einem Kaiserschnitt ist eine vaginale Geburt beim nächsten Kind in den meisten Fällen möglich. Frag danach, wenn es soweit ist – nicht jede Klinik spricht es von sich aus an."
+        },
+        {
+          "type": "callout",
+          "variant": "warn",
+          "title": "Wenn die Geburt anders lief als gewünscht",
+          "text": "Ein enttäuschender oder belastender Geburtsverlauf ist häufig und wird oft heruntergespielt („Hauptsache, das Kind ist gesund“). Du darfst dir in der Klinik ein Nachgespräch geben lassen, in dem der Verlauf erklärt wird – viele Häuser bieten das an, oft erst auf Nachfrage. Wenn Bilder oder Panik wiederkehren, sprich deine Hebamme oder Ärztin an: Eine belastungsbedingte Reaktion nach der Geburt ist behandelbar, und je früher, desto besser."
+        }
+      ]
+    },
+    {
+      "type": "section",
+      "heading": "Der Geburtsplan",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "Ein Geburtsplan ist eine Seite, auf der steht, was dir wichtig ist. Er ist keine Bestellung und kein Vertrag – er hilft dem Team, dich einzuschätzen, und dir, dir vorher klarzuwerden, wo du überhaupt Präferenzen hast. Halte ihn kurz, formuliere Wünsche statt Verbote und schreib dazu, was gelten soll, wenn es anders kommt."
+        },
+        {
+          "type": "checklist",
+          "id": "geburtsplan",
+          "title": "Punkte, die auf eine Seite passen",
+          "items": [
+            "Wer begleitet mich, und darf diese Person auch bei einem Kaiserschnitt dabei sein?",
+            "Bewegungsfreiheit und Gebärpositionen – auch Wassergeburt?",
+            "Wie soll mit Schmerzlinderung umgegangen werden: aktiv anbieten oder nur auf Nachfrage?",
+            "Wünsche zur Überwachung (durchgehendes CTG oder zeitweises Abhören)",
+            "Umgang mit Dammschnitt und Dammriss",
+            "Nach der Geburt: Haut-zu-Haut, späteres Abnabeln, erstes Anlegen, U1 auf dem Bauch",
+            "Wer schneidet die Nabelschnur, was passiert mit dem Mutterkuchen",
+            "Was gilt, wenn es notfallmäßig wird – hier reicht ein Satz: Sicherheit geht vor"
+          ]
+        },
+        {
+          "type": "callout",
+          "variant": "tip",
+          "title": "Die drei Fragen für den Moment der Entscheidung",
+          "text": "Wenn im Kreißsaal etwas vorgeschlagen wird und du nicht weiterweißt, helfen drei Fragen, die auch die Begleitperson stellen kann: Was passiert, wenn wir es tun? Was passiert, wenn wir es nicht tun? Und: Wie viel Zeit haben wir für die Entscheidung? Außer im echten Notfall gibt es fast immer Zeit für eine Antwort."
+        }
+      ]
+    },
+    {
+      "type": "section",
+      "heading": "Häufige Fragen",
+      "blocks": [
+        {
+          "type": "faq",
+          "items": [
+            {
+              "q": "Wann müssen wir in die Klinik fahren?",
+              "a": "Eine gängige Orientierung beim ersten Kind: wenn die Wehen etwa eine Stunde lang regelmäßig alle fünf Minuten kommen und so kräftig sind, dass du nicht mehr sprechen kannst. Sofort losfahren solltest du bei Blutungen, wenn das Fruchtwasser grünlich ist, wenn du kaum noch Kindsbewegungen spürst oder wenn die Fruchtblase platzt und das Kind noch nicht ins Becken eingetreten ist. Im Zweifel im Kreißsaal anrufen – dafür ist die Nummer da."
+            },
+            {
+              "q": "Braucht man wirklich eine gepackte Tasche ab der 36. Woche?",
+              "a": "Es beruhigt, ist aber kein medizinisches Muss. Wichtig sind Mutterpass, Personalausweis, Versichertenkarte, bequeme Kleidung und etwas zu trinken. Fast alles andere lässt sich nachbringen – die Klinik ist kein Ort, an dem etwas Vergessenes ein Problem wird."
+            },
+            {
+              "q": "Ist eine Hausgeburt gefährlich?",
+              "a": "Bei unauffälliger Schwangerschaft, erfahrener Hebamme und kurzer Entfernung zur Klinik ist die außerklinische Geburt in Deutschland gut abgesichert. Entscheidend ist die Auswahl: Risikoschwangerschaften, Mehrlinge, Beckenendlage und Frühgeburten gehören in die Klinik. Rechne damit, dass etwa jede sechste geplante außerklinische Geburt in eine Klinik verlegt wird – meist ohne Notfall, sondern wegen Erschöpfung oder Stillstand."
+            },
+            {
+              "q": "Verhindert eine PDA, dass ich die Geburt richtig erlebe?",
+              "a": "Sie verändert das Erleben. Manche Frauen berichten, sie hätten sich dadurch überhaupt erst auf die Geburt einlassen können, andere vermissen die Bewegungsfreiheit. Belegt ist: Sie lindert Schmerzen wirksam und führt nicht häufiger zum Kaiserschnitt, aber häufiger zu einer Geburt mit Saugglocke oder Zange."
+            },
+            {
+              "q": "Kann ich nach einem Kaiserschnitt beim nächsten Kind normal gebären?",
+              "a": "In den meisten Fällen ja. Voraussetzung ist ein Querschnitt am unteren Gebärmutterabschnitt, ein unkomplizierter Heilungsverlauf und eine Klinik, die das begleitet. Sprich es früh in der Folgeschwangerschaft an, weil Kliniken unterschiedlich damit umgehen."
+            },
+            {
+              "q": "Lohnt sich eine Doula, wenn mein Partner dabei ist?",
+              "a": "Beides schließt sich nicht aus. In den Studien war der Effekt kontinuierlicher Begleitung am größten, wenn sie von einer erfahrenen, nicht zur Familie gehörenden Person kam – unter anderem, weil sie ruhig bleibt und den Ablauf kennt. Viele Paare erleben eine Doula als Entlastung für die Begleitperson, nicht als Ersatz. Die Kosten trägt man in Deutschland in der Regel selbst."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "callout",
+      "variant": "info",
+      "title": "Kurz gesagt",
+      "text": "Such den Ort aus, an dem du dich sicher fühlst, sorge für durchgehende Begleitung, schreib eine Seite mit deinen Wünschen und lerne die drei Fragen für Entscheidungsmomente. Alles Weitere entscheidet sich am Tag selbst – und keine Geburt, die anders läuft als geplant, ist eine misslungene."
+    }
+  ],
+  "sources": [
+    {
+      "title": "S3-Leitlinie: Die vaginale Geburt am Termin (AWMF-Registernummer 015/083)",
+      "publisher": "AWMF / DGGG, DGHWi",
+      "year": "2021",
+      "kind": "Leitlinie",
+      "url": "https://register.awmf.org/assets/guidelines/015-083l_S3_Vaginale-Geburt-am-Termin_2021-03.pdf"
+    },
+    {
+      "title": "S3-Leitlinie: Die Sectio caesarea (AWMF-Registernummer 015/084)",
+      "publisher": "AWMF / DGGG, OEGGG, SGGG",
+      "year": "2020",
+      "kind": "Leitlinie",
+      "url": "https://register.awmf.org/de/leitlinien/detail/015-084"
+    },
+    {
+      "title": "Continuous support for women during childbirth",
+      "publisher": "Cochrane Database of Systematic Reviews (Bohren et al.)",
+      "year": "2017",
+      "kind": "Metaanalyse",
+      "url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD003766.pub6/full"
+    },
+    {
+      "title": "Epidural versus non-epidural or no analgesia for pain management in labour",
+      "publisher": "Cochrane Database of Systematic Reviews (Anim-Somuah et al.)",
+      "year": "2018",
+      "kind": "Metaanalyse",
+      "url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD000331.pub4/full"
+    },
+    {
+      "title": "Kaiserschnittrate im Jahr 2024 mit 33,0 % auf Höchststand",
+      "publisher": "Statistisches Bundesamt (Destatis)",
+      "year": "2026",
+      "kind": "Institutionelle Information",
+      "url": "https://www.destatis.de/DE/Presse/Pressemitteilungen/2026/05/PD26_N028_23.html"
+    },
+    {
+      "title": "Geburtenzahlen in Deutschland und Qualitätsbericht außerklinische Geburtshilfe",
+      "publisher": "QUAG – Gesellschaft für Qualität in der außerklinischen Geburtshilfe e. V.",
+      "year": "2024",
+      "kind": "Institutionelle Information",
+      "url": "https://www.quag.de/quag/geburtenzahlen.htm"
+    },
+    {
+      "title": "Richtlinie über die ärztliche Betreuung während der Schwangerschaft und nach der Entbindung (Mutterschafts-Richtlinien)",
+      "publisher": "Gemeinsamer Bundesausschuss (G-BA)",
+      "year": "2023",
+      "kind": "Leitlinie",
+      "url": "https://www.g-ba.de/downloads/62-492-3335/Mu-RL_2023-09-28_iK-2023-12-19.pdf"
+    }
+  ],
+  "related": ["schwangerschaft-gesundheit", "erstausstattung", "wochenbett", "die-ersten-tage"]
+}

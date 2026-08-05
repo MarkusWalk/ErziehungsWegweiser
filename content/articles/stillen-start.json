@@ -1,0 +1,312 @@
+{
+  "slug": "stillen-start",
+  "title": "Stillen: der Anfang",
+  "subtitle": "Warum die ersten Wochen die anstrengendsten sind, wie Milchbildung tatsächlich funktioniert – und woran du erkennst, dass genug ankommt.",
+  "phases": ["neugeborenes"],
+  "topics": ["ernaehrung", "gesundheit"],
+  "updated": "2026-08-05",
+  "summary": "Stillen ist gelerntes Verhalten, kein Instinkt – für dich und für dein Kind. Die Milchbildung läuft nach Angebot und Nachfrage: Je häufiger und wirksamer die Brust entleert wird, desto mehr Milch entsteht. Acht bis zwölf Mahlzeiten in 24 Stunden sind in den ersten Wochen normal, Schmerzen dagegen nicht. Fast alle Startprobleme haben mit dem Anlegen zu tun und lassen sich mit guter Begleitung lösen. Und wenn Stillen am Ende nicht klappt oder du dich dagegen entscheidest: Dein Kind wird gut versorgt sein.",
+  "keyFacts": [
+    "Milchbildung folgt der Nachfrage – häufiges Anlegen ist die wirksamste Maßnahme, nicht Stilltee.",
+    "8–12 Stillmahlzeiten in 24 Stunden sind in den ersten Wochen der Normalfall.",
+    "Schmerzen beim Stillen sind ein Signal, kein Preis. Meist liegt es am Anlegen.",
+    "Der Milcheinschuss kommt meist zwischen dem zweiten und fünften Tag nach der Geburt.",
+    "Frühe fachliche Begleitung senkt die Abbruchrate nachweislich – Hebamme, Stillberatung, Stillambulanz."
+  ],
+  "blocks": [
+    {
+      "type": "p",
+      "lead": true,
+      "text": "In den ersten Tagen fühlt sich Stillen für viele Eltern nicht nach Natur an, sondern nach Prüfung. Das Kind sucht, rutscht ab, schreit; die Brust schmerzt; jemand sagt, es sei doch das Natürlichste der Welt. Es ist nicht das Natürlichste der Welt. Es ist eine Fertigkeit, die zwei Menschen gleichzeitig lernen – und die meisten Startprobleme lösen sich, wenn man weiß, worauf zu achten ist."
+    },
+    {
+      "type": "callout",
+      "variant": "danger",
+      "title": "Wann du nicht abwarten solltest",
+      "items": [
+        "Dein Kind wirkt auffallend schlapp, ist schwer wach zu bekommen oder verweigert mehrere Mahlzeiten hintereinander",
+        "Weniger nasse Windeln als erwartet, sehr dunkler oder auffallend konzentrierter Urin",
+        "Ab dem fünften Lebenstag kein Stuhlgang mehr, oder der Stuhl bleibt dunkel statt gelblich zu werden",
+        "Dein Kind nimmt nach dem vierten bis fünften Lebenstag weiter ab oder hat das Geburtsgewicht nach zwei Wochen deutlich nicht erreicht",
+        "Bei dir: hohes Fieber, Schüttelfrost, ein geröteter und schmerzender Brustbereich",
+        "Gelbfärbung von Haut oder Augen, die zunimmt statt abzunehmen"
+      ]
+    },
+    {
+      "type": "section",
+      "heading": "Was in den ersten Tagen passiert",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "Direkt nach der Geburt bildet deine Brust Kolostrum – eine dickflüssige, gelbliche Vormilch in sehr kleinen Mengen. Das ist kein Mangel, sondern passend: Der Magen eines Neugeborenen fasst am ersten Tag nur wenige Milliliter. Kolostrum ist extrem konzentriert und enthält Abwehrstoffe, die die Darmschleimhaut auskleiden. Zwischen dem zweiten und fünften Tag folgt der sogenannte Milcheinschuss, gesteuert vom Hormonabfall nach der Geburt. Ab da wird die Brust praller, oft auch empfindlich, und die Menge steigt deutlich."
+        },
+        {
+          "type": "p",
+          "text": "Ab diesem Punkt kippt die Steuerung: Bis zum Milcheinschuss läuft die Milchbildung hormonell, danach lokal – über die Entleerung der Brust. Eine Brust, die häufig und gründlich geleert wird, bildet mehr Milch; eine Brust, die lange voll bleibt, drosselt. Deshalb wirkt häufiges Anlegen, und deshalb kann Zufüttern ohne Not gegen das arbeiten, was man eigentlich erreichen will."
+        },
+        {
+          "type": "timeline",
+          "title": "Die erste Woche im Groben",
+          "entries": [
+            { "age": "Tag 1", "label": "Kolostrum, viel Haut auf Haut", "text": "Sehr kleine Milchmengen, dafür häufiges Saugen. Ungestörter Hautkontakt in der ersten Stunde erleichtert den Stillstart." },
+            { "age": "Tag 2–3", "label": "Häufigkeit steigt stark", "text": "Viele Kinder wollen jetzt sehr oft an die Brust, oft in langen Serien. Das ist die Bestellung für den Milcheinschuss, kein Zeichen für zu wenig Milch." },
+            { "age": "Tag 2–5", "label": "Milcheinschuss", "text": "Die Brust wird voller, wärmer, manchmal hart. Häufiges Anlegen und kurze Kühlung zwischen den Mahlzeiten helfen." },
+            { "age": "Tag 3–5", "label": "Der Stuhl wechselt die Farbe", "text": "Vom schwarzgrünen Mekonium über grünbraun zu gelblich und körnig – eines der besten Zeichen dafür, dass ausreichend Milch ankommt." },
+            { "age": "Tag 5–14", "label": "Gewicht dreht", "text": "Ein Gewichtsverlust in den ersten Tagen ist normal; danach soll die Kurve wieder steigen. Hebamme und Praxis behalten das im Blick – du musst zu Hause nicht täglich wiegen." }
+          ],
+          "caption": "Grober Verlauf bei einem reif geborenen, gesunden Kind. Einzelne Tage verschieben sich, insbesondere nach Kaiserschnitt oder bei Frühgeburt."
+        }
+      ]
+    },
+    {
+      "type": "section",
+      "heading": "Anlegen: der Punkt, an dem sich fast alles entscheidet",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "Wunde Brustwarzen, zu wenig Milch, ein unruhiges Kind an der Brust – erstaunlich oft ist die Ursache dieselbe: Das Kind hat zu wenig Brustgewebe im Mund und saugt an der Brustwarze statt am Warzenhof. Ein gutes Anlegen erkennt man weniger am Bild als am Gefühl: Die ersten Sekunden dürfen ziehen, danach soll es nicht mehr wehtun."
+        },
+        {
+          "type": "steps",
+          "title": "Anlegen, Schritt für Schritt",
+          "items": [
+            { "title": "Zuerst du, dann das Kind", "text": "Setz oder leg dich so hin, dass du zehn Minuten bequem bleiben kannst: Rücken gestützt, Arme abgelegt, Getränk in Reichweite. Wer sich zum Kind hinunterbeugt, bekommt Nackenschmerzen und ein schlechtes Anlegen." },
+            { "title": "Bauch an Bauch", "text": "Das Kind liegt mit dem ganzen Körper dir zugewandt, Ohr, Schulter und Hüfte in einer Linie. Der Kopf soll sich nicht zur Brust drehen müssen." },
+            { "title": "Nase auf Höhe der Brustwarze", "text": "Nicht Mund auf Höhe der Warze. Aus dieser Position kippt das Kind den Kopf leicht in den Nacken und öffnet den Mund weit." },
+            { "title": "Warten auf den weit geöffneten Mund", "text": "Streich mit der Brustwarze über die Oberlippe und warte, bis der Mund weit offen ist wie beim Gähnen. Dann zieh das Kind zügig an dich heran – nicht die Brust zum Kind." },
+            { "title": "Kontrolle", "text": "Kinn an der Brust, Nase frei, Unterlippe nach außen gestülpt, unterhalb der Warze mehr Warzenhof im Mund als oberhalb. Nach kurzem schnellem Saugen hörst du regelmäßiges Schlucken." },
+            { "title": "Bei Schmerz: neu ansetzen", "text": "Schieb einen sauberen Finger in den Mundwinkel, löse das Vakuum und beginn von vorn. Aushalten macht ein schlechtes Anlegen nicht besser, sondern verletzt." }
+          ]
+        },
+        {
+          "type": "list",
+          "ordered": false,
+          "items": [
+            { "title": "Wiegehaltung:", "text": "Der Klassiker, gut für erfahrene Paare – am Anfang oft schwer zu kontrollieren." },
+            { "title": "Rückengriff (Football):", "text": "Kind seitlich unter dem Arm, Kopf in der Hand. Sehr gut nach Kaiserschnitt und bei großen Brüsten, weil du den Kopf gezielt führen kannst." },
+            { "title": "Seitenlage:", "text": "Beide liegen. Entlastet in den ersten Tagen enorm und macht nächtliches Stillen erträglich." },
+            { "title": "Zurückgelehntes Stillen:", "text": "Du liegst halb zurückgelehnt, das Kind liegt bäuchlings auf dir und sucht selbst. Nutzt die angeborenen Suchreflexe und hilft besonders bei Kindern, die sich an der Brust wehren." }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "section",
+      "heading": "Woran du merkst, dass genug ankommt",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "Die häufigste Sorge in den ersten Wochen ist die Menge – und sie ist fast nie an der Brust ablesbar. Weiche Brüste bedeuten nicht wenig Milch, sondern meist eine eingespielte Bildung. Ein Kind, das nach dem Stillen noch trinken will, ist nicht zwangsläufig hungrig. Verlässlich sind Ausscheidung, Gewicht und Verhalten über den Tag."
+        },
+        {
+          "type": "checklist",
+          "id": "genug-milch",
+          "title": "Zeichen für ausreichende Milchaufnahme",
+          "items": [
+            "Ab dem fünften Lebenstag mindestens sechs deutlich nasse Windeln in 24 Stunden",
+            "Mehrmals täglich weicher, gelblich-körniger Stuhl in den ersten Wochen",
+            "Regelmäßiges, hörbares Schlucken während der Mahlzeit",
+            "Das Kind lässt am Ende der Mahlzeit von sich aus los und wirkt entspannt",
+            "8–12 Mahlzeiten in 24 Stunden, unregelmäßig über den Tag verteilt",
+            "Die Gewichtskurve steigt nach der ersten Woche stetig",
+            "Wache Phasen, in denen dein Kind Blickkontakt aufnimmt"
+          ]
+        },
+        {
+          "type": "evidence",
+          "level": "stark",
+          "claim": "Häufiges Anlegen nach Bedarf ist die wirksamste Maßnahme zur Milchbildung. Feste Stillabstände und routinemäßiges Zufüttern ohne medizinischen Grund senken die Milchmenge.",
+          "note": "Das ist Fachkonsens quer durch die nationalen und internationalen Empfehlungen und ergibt sich direkt aus dem Regelkreis der Milchbildung: Entleerung ist das Signal. Praktisch heißt das: In den ersten Wochen nicht nach der Uhr stillen, sondern nach den Signalen deines Kindes – Suchbewegungen, Handzum-Mund, Schmatzen. Schreien ist ein spätes Zeichen.",
+          "sources": [0, 6]
+        }
+      ]
+    },
+    {
+      "type": "section",
+      "heading": "Clusterfeeding: die Abende, an denen nichts hilft",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "Irgendwann in den ersten Wochen kommt der Abend, an dem dein Kind zwei, drei, vier Stunden lang praktisch durchgehend an der Brust hängt, zwischendurch schreit und sich nicht ablegen lässt. Dieses Muster heißt Clusterfeeding, tritt typischerweise am späten Nachmittag und Abend auf und ist kein Zeichen für zu wenig Milch – im Gegenteil. Es ist die Bestellung für die nächsten Tage: Viel Nachfrage erzeugt viel Angebot."
+        },
+        {
+          "type": "callout",
+          "variant": "tip",
+          "title": "Clusterfeeding-Abende überstehen",
+          "items": [
+            "Plan diese Abende ein, statt gegen sie zu arbeiten: Essen vorbereiten, Getränk und Ladekabel griffbereit",
+            "Die zweite erwachsene Person übernimmt alles außer dem Stillen – Wickeln, Tragen, Haushalt, Geschwisterkinder",
+            "Position wechseln, im Liegen stillen, zwischendurch tragen",
+            "Wenn dir alles zu viel wird: Leg dein Kind sicher auf den Rücken ab und geh zwei Minuten aus dem Raum. Das ist immer besser als in der Anspannung weiterzumachen"
+          ]
+        },
+        {
+          "type": "callout",
+          "variant": "myth",
+          "title": "„Meine Milch ist zu dünn“",
+          "text": "Muttermilch sieht wässriger aus als Kuhmilch, besonders die Vordermilch am Anfang einer Mahlzeit. Das sagt nichts über ihren Gehalt. Auch Stilltee, Malzbier oder bestimmte Lebensmittel haben keinen belegten Einfluss auf die Milchmenge. Was wirkt, ist Entleerung – alles andere ist bestenfalls angenehm."
+        }
+      ]
+    },
+    {
+      "type": "section",
+      "heading": "Wenn es wehtut: wunde Warzen, Milchstau, Mastitis",
+      "blocks": [
+        {
+          "type": "table",
+          "title": "Die drei häufigsten Stillprobleme",
+          "head": ["Problem", "Typisch", "Erste Schritte"],
+          "rows": [
+            ["Wunde Brustwarzen", "Schmerz während der ganzen Mahlzeit, Risse, verformte Warze nach dem Stillen", "Anlegen von einer Fachperson anschauen lassen, Positionen wechseln, Warzen an der Luft trocknen lassen, wenige Tropfen Muttermilch auftragen"],
+            ["Milchstau", "Ein umschriebener harter, druckempfindlicher Bezirk, Haut darüber gerötet, meist ohne starkes Krankheitsgefühl", "Weiterstillen, betroffene Seite häufig anbieten, vor dem Stillen Wärme, danach kühlen, Schonung"],
+            ["Mastitis", "Zusätzlich Fieber, Schüttelfrost, ausgeprägtes Krankheitsgefühl", "Ärztlich abklären – am selben Tag. Weiterstillen ist in aller Regel richtig und Teil der Behandlung"]
+          ],
+          "caption": "Orientierung nach der Leitlinie zur Therapie entzündlicher Brusterkrankungen in der Stillzeit und den Elterninformationen der BZgA. Abstillen ist bei Milchstau und Mastitis fast nie die Lösung, weil es den Stau verschärft."
+        },
+        {
+          "type": "evidence",
+          "level": "moderat",
+          "claim": "Ein Großteil früher Stillprobleme geht auf Anlege- und Positionsfehler zurück und ist mit fachlicher Anleitung behebbar.",
+          "note": "Die Elterninformationen der BZgA und die deutschen Handlungsempfehlungen benennen die Anlegetechnik als Hauptursache wunder Brustwarzen. Kontrollierte Studien dazu sind schwierig, die klinische Erfahrung ist aber sehr einheitlich. Praktisch: Hol jemanden dazu, der dir beim Anlegen zusieht, statt Salben durchzuprobieren.",
+          "sources": [5, 0]
+        },
+        {
+          "type": "evidence",
+          "level": "stark",
+          "claim": "Zusätzliche, organisierte Stillunterstützung verringert die Wahrscheinlichkeit, das Stillen früher als gewünscht zu beenden.",
+          "note": "Ein Cochrane-Review von 2022 fasst 116 Studien mit über 98.000 Mutter-Kind-Paaren zusammen. Die Sicherheit der Evidenz wird als moderat eingestuft. Wirksam war Unterstützung, die vorhersehbar angeboten wurde – nicht erst dann, wenn Eltern von sich aus um Hilfe baten. Für dich heißt das: Termin bei der Hebamme oder in einer Stillsprechstunde aktiv vereinbaren, bevor es brennt.",
+          "sources": [2]
+        }
+      ]
+    },
+    {
+      "type": "section",
+      "heading": "Wie lange, und was bringt es",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "Die Nationale Stillkommission am Bundesinstitut für Risikobewertung empfiehlt, mindestens bis zum Beginn des fünften Monats ausschließlich zu stillen; Beikost soll frühestens dann und spätestens mit Beginn des siebten Monats dazukommen. Die WHO empfiehlt sechs Monate ausschließliches Stillen und danach Weiterstillen bis zwei Jahre und darüber hinaus. Die amerikanische Fachgesellschaft hat sich 2022 dieser Formulierung angeschlossen und ergänzt einen Halbsatz, der viel wert ist: so lange, wie es beide Seiten möchten."
+        },
+        {
+          "type": "evidence",
+          "level": "stark",
+          "claim": "Gestillte Kinder haben ein niedrigeres Risiko für Infektionen des Magen-Darm-Trakts und der Atemwege; für die stillende Person sinkt mit der Gesamtstilldauer das Risiko für Brust- und Eierstockkrebs sowie Typ-2-Diabetes.",
+          "note": "Grundlage ist unter anderem die Lancet-Serie von 2016, die weltweite Daten zusammenfasst. Wichtig für die Einordnung: Die größten Effekte stammen aus Regionen mit unsicherer Trinkwasserversorgung und eingeschränkter medizinischer Versorgung. In Deutschland sind die Unterschiede kleiner, aber messbar – und sie sagen nichts über ein einzelnes Kind. Ein nicht gestilltes Kind in Deutschland wächst gesund auf.",
+          "sources": [1, 3]
+        },
+        {
+          "type": "callout",
+          "variant": "info",
+          "title": "Zahlen aus Deutschland",
+          "text": "In der bundesweiten Studie SuSe II wurden 82 Prozent der Kinder im Alter von vier Monaten noch gestillt, 56 Prozent ausschließlich. Zwanzig Jahre zuvor lag der Anteil gestillter Vier-Monats-Kinder bei 45 Prozent. Anders gesagt: Stillen ist in Deutschland der Normalfall – und trotzdem beenden viele Eltern es früher als geplant. Der häufigste Grund sind lösbare Probleme in den ersten Wochen."
+        }
+      ]
+    },
+    {
+      "type": "section",
+      "heading": "Häufige Fragen",
+      "blocks": [
+        {
+          "type": "faq",
+          "items": [
+            {
+              "q": "Muss ich nach jeder Mahlzeit die Seite wechseln?",
+              "a": "Nein. Biete eine Seite an, bis dein Kind von selbst loslässt oder das Schlucken deutlich nachlässt, und dann die zweite als Angebot. Manche Kinder brauchen beide Seiten, manche nicht. Wichtig ist, dass eine Brust wirklich geleert wird – die fettreichere Milch kommt gegen Ende der Mahlzeit."
+            },
+            {
+              "q": "Ab wann darf ein Schnuller oder eine Flasche dazu?",
+              "a": "Die verbreitete Sorge vor Saugverwirrung ist weniger gut belegt, als sie klingt. Trotzdem ist der pragmatische Rat, in den ersten zwei bis drei Wochen ohne Sauger auszukommen, bis das Anlegen sicher sitzt. Danach spricht wenig dagegen. Wenn du früher zufüttern musst, geht das auch per Becher, Löffel oder Brusternährungsset."
+            },
+            {
+              "q": "Darf ich in der Stillzeit Kaffee trinken oder Alkohol?",
+              "a": "Koffein in üblichen Mengen ist vertretbar, manche Kinder reagieren empfindlich – dann reduzieren. Bei Alkohol lautet die Empfehlung der deutschen Fachgremien, in der Stillzeit auf regelmäßigen Konsum zu verzichten; gelegentlich ein kleines Glas direkt nach einer Stillmahlzeit gilt als vertretbar. Abpumpen und Wegschütten beschleunigt den Abbau nicht."
+            },
+            {
+              "q": "Mein Kind schläft an der Brust ständig ein. Ist das ein Problem?",
+              "a": "In den ersten Tagen sind viele Kinder sehr schläfrig. Wenn dabei zu wenig getrunken wird, hilft Ausziehen bis auf die Windel, Hautkontakt, sanftes Massieren der Brust während des Trinkens (Brustkompression) und Seitenwechsel. Wenn dein Kind trotzdem kaum wach zu bekommen ist oder das Gewicht nicht stimmt, gehört das ärztlich abgeklärt."
+            },
+            {
+              "q": "Kann ich zu wenig Milch haben?",
+              "a": "Eine echte, körperlich bedingte Milchbildungsstörung gibt es – sie ist aber selten. Häufiger sind zu seltenes oder unwirksames Entleeren, Schmerzen, starke Erschöpfung oder ein Kind, das schlecht andockt. Deshalb wird zuerst das Anlegen und die Häufigkeit angeschaut. Bei anhaltendem Verdacht ist eine Stillberatung oder Stillambulanz die richtige Adresse."
+            },
+            {
+              "q": "Ich will oder kann nicht stillen. Wie sehr schade ich meinem Kind?",
+              "a": "Du schadest ihm nicht. Industriell hergestellte Säuglingsnahrung ist in ihrer Zusammensetzung gesetzlich geregelt und deckt den Bedarf im ersten Lebensjahr vollständig. Ein Kind, das mit der Flasche gefüttert und dabei zugewandt gehalten wird, ist gut versorgt – ernährungsphysiologisch wie emotional."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "callout",
+      "variant": "info",
+      "title": "Kurz gesagt",
+      "text": "Häufig anlegen, auf gutes Andocken achten, Schmerzen ernst nehmen, früh Hilfe holen. Die ersten zwei bis drei Wochen sind die schwersten; danach wird Stillen für die meisten Paare unkompliziert. Und falls nicht: Es gibt einen zweiten, gleichwertigen Weg, dein Kind satt zu bekommen."
+    }
+  ],
+  "sources": [
+    {
+      "title": "Ernährung und Bewegung von Säuglingen und stillenden Frauen – Handlungsempfehlungen",
+      "publisher": "Netzwerk Gesund ins Leben / Bundeszentrum für Ernährung",
+      "year": "2024",
+      "kind": "Empfehlung",
+      "url": "https://www.gesund-ins-leben.de/fuer-fachkreise/bestens-unterstuetzt-durchs-1-lebensjahr/handlungsempfehlungen/"
+    },
+    {
+      "title": "Nationale Stillkommission: Weiterhin 4 bis 6 Monate ausschließlich stillen",
+      "publisher": "Bundesinstitut für Risikobewertung (BfR), Nationale Stillkommission",
+      "year": "2022",
+      "kind": "Empfehlung",
+      "url": "https://www.bfr.bund.de/presseinformation/nationale-stillkommission-weiterhin-4-bis-6-monate-ausschliesslich-stillen/"
+    },
+    {
+      "title": "Support for healthy breastfeeding mothers with healthy term babies",
+      "publisher": "Cochrane Database of Systematic Reviews (Gavine et al.)",
+      "year": "2022",
+      "kind": "Übersichtsarbeit",
+      "url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD001141.pub6/full"
+    },
+    {
+      "title": "Breastfeeding in the 21st century: epidemiology, mechanisms, and lifelong effect",
+      "publisher": "The Lancet (Victora et al.)",
+      "year": "2016",
+      "kind": "Übersichtsarbeit",
+      "url": "https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(16)30547-5/fulltext"
+    },
+    {
+      "title": "Infant and young child feeding – Fact sheet",
+      "publisher": "World Health Organization",
+      "year": "2023",
+      "kind": "Empfehlung",
+      "url": "https://www.who.int/news-room/fact-sheets/detail/infant-and-young-child-feeding"
+    },
+    {
+      "title": "Probleme beim Stillen",
+      "publisher": "Bundeszentrale für gesundheitliche Aufklärung (BZgA), kindergesundheit-info.de",
+      "year": "2024",
+      "kind": "Institutionelle Information",
+      "url": "https://www.kindergesundheit-info.de/themen/ernaehrung/stillen/stillprobleme/"
+    },
+    {
+      "title": "Still-Marathon: Was bedeutet Clusterfeeding?",
+      "publisher": "Netzwerk Gesund ins Leben",
+      "year": "2023",
+      "kind": "Institutionelle Information",
+      "url": "https://www.gesund-ins-leben.de/fuer-fachkreise/bestens-unterstuetzt-durchs-1-lebensjahr/nachgefragt/still-marathon-was-bedeutet-clusterfeeding/"
+    },
+    {
+      "title": "Stillquoten in Deutschland erfreulich hoch – Ergebnisse der Studie SuSe II",
+      "publisher": "Deutsche Gesellschaft für Ernährung (DGE)",
+      "year": "2020",
+      "kind": "Studie",
+      "url": "https://www.dge.de/presse/meldungen/2020/stillquoten-in-deutschland-erfreulich-hoch/"
+    },
+    {
+      "title": "S3-Leitlinie Therapie entzündlicher Brusterkrankungen in der Stillzeit (AWMF 015/071)",
+      "publisher": "AWMF / Nationale Stillkommission",
+      "year": "2013",
+      "kind": "Leitlinie"
+    }
+  ],
+  "related": ["flasche-und-formula", "abstillen", "vitamin-d-und-nahrungsergaenzung", "wochenbett"]
+}

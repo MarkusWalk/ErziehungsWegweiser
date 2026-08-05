@@ -1,0 +1,275 @@
+{
+  "slug": "elterngeld-elternzeit",
+  "title": "Elterngeld, Elternzeit und Mutterschutz",
+  "subtitle": "Drei Regelwerke, drei Stellen, drei Fristen – einmal sauber auseinandersortiert, damit ihr wisst, was ihr wann tun müsst und was euch zusteht.",
+  "phases": ["schwangerschaft", "neugeborenes"],
+  "topics": ["familie"],
+  "updated": "2026-08-05",
+  "summary": "Mutterschutz ist ein gesetzlicher Schutz rund um die Geburt, Elternzeit ist die Freistellung vom Arbeitsplatz, Elterngeld ist Geld – drei verschiedene Dinge, die oft verwechselt werden. Der Mutterschutz beginnt sechs Wochen vor dem errechneten Termin und endet acht Wochen nach der Geburt. Elternzeit muss schriftlich beim Arbeitgeber angemeldet werden, sieben Wochen vor Beginn. Elterngeld wird bei der Elterngeldstelle beantragt und höchstens drei Lebensmonate rückwirkend gezahlt. Diese drei Fristen sind die einzigen, die man sich wirklich merken muss.",
+  "keyFacts": [
+    "Mutterschutz: sechs Wochen vor dem errechneten Termin bis acht Wochen nach der Geburt, bei Früh- und Mehrlingsgeburten zwölf Wochen danach.",
+    "Elternzeit: bis zu drei Jahre je Elternteil, schriftlich anzumelden – sieben Wochen vor Beginn.",
+    "Basiselterngeld: in der Regel 65 Prozent des wegfallenden Nettoeinkommens, mindestens 300 und höchstens 1.800 Euro im Monat.",
+    "Elterngeld gibt es höchstens drei Lebensmonate rückwirkend – wer später beantragt, verliert Geld.",
+    "Für Geburten ab dem 1. April 2025 entfällt der Anspruch ab 175.000 Euro zu versteuerndem Jahreseinkommen.",
+    "Kindergeld: seit Januar 2026 sind es 259 Euro pro Kind und Monat."
+  ],
+  "blocks": [
+    {
+      "type": "p",
+      "lead": true,
+      "text": "Kaum ein Thema löst in der Schwangerschaft so viel diffuse Nervosität aus wie der Behördenteil. Das liegt selten an der Komplexität und fast immer daran, dass drei völlig verschiedene Regelwerke ständig in einem Atemzug genannt werden. Mutterschutz ist Arbeitsschutzrecht und gilt automatisch. Elternzeit ist ein Anspruch gegenüber dem Arbeitgeber. Elterngeld ist eine Leistung, die man beantragen muss. Sobald diese drei auseinandersortiert sind, wird der Rest überschaubar."
+    },
+    {
+      "type": "callout",
+      "variant": "warn",
+      "title": "Die drei Fristen, die tatsächlich weh tun",
+      "items": [
+        "Elternzeit: schriftlich anmelden, spätestens sieben Wochen vor Beginn (13 Wochen, wenn sie zwischen dem 3. und 8. Geburtstag liegt).",
+        "Elterngeld: wird höchstens für die letzten drei Lebensmonate vor Antragseingang gezahlt.",
+        "Mutterschaftsgeld: Bescheinigung über den errechneten Termin frühestens sieben Wochen vor dem Termin ausstellen lassen und zügig bei der Krankenkasse einreichen."
+      ]
+    },
+    {
+      "type": "section",
+      "heading": "Mutterschutz: gilt, ohne dass man ihn beantragt",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "Der Mutterschutz ist kein Antrag, sondern ein Verbot – er richtet sich an den Arbeitgeber. Sobald du deine Schwangerschaft meldest, greifen Schutzvorschriften: keine Nachtarbeit, keine Akkordarbeit, keine gefährdenden Tätigkeiten, Freistellung für Vorsorgeuntersuchungen. Und rund um die Geburt liegt die Schutzfrist."
+        },
+        {
+          "type": "evidence",
+          "level": "stark",
+          "claim": "Die Mutterschutzfrist beginnt sechs Wochen vor dem errechneten Entbindungstermin und endet acht Wochen nach der Geburt. Bei Frühgeburten, Mehrlingsgeburten und – auf Antrag – wenn beim Kind innerhalb von acht Wochen eine Behinderung festgestellt wird, verlängert sie sich auf zwölf Wochen nach der Geburt.",
+          "note": "Vor der Geburt darfst du auf ausdrücklichen eigenen Wunsch weiterarbeiten und diese Erklärung jederzeit widerrufen. Nach der Geburt gilt ein absolutes Beschäftigungsverbot – da gibt es keine Wahlmöglichkeit, und das ist auch gut so. Verschiebt sich die Geburt nach hinten, verkürzt sich die Frist danach nicht: Die acht Wochen laufen ab dem tatsächlichen Geburtstag.",
+          "sources": [3]
+        },
+        {
+          "type": "p",
+          "text": "Geld gibt es in dieser Zeit aus zwei Töpfen. Die gesetzliche Krankenkasse zahlt Mutterschaftsgeld von höchstens 13 Euro pro Kalendertag. Liegt dein durchschnittlicher Nettoverdienst darüber – was fast immer der Fall ist –, stockt dein Arbeitgeber die Differenz auf, berechnet aus den letzten drei abgerechneten Kalendermonaten vor Beginn der Schutzfrist. Unter dem Strich bleibt dein Nettoeinkommen also erhalten. Wer nicht gesetzlich krankenversichert ist, bekommt Mutterschaftsgeld über das Bundesamt für Soziale Sicherung. Und wenn du schon vorher wegen eines ärztlichen Beschäftigungsverbots nicht arbeiten darfst, zahlt der Arbeitgeber Mutterschutzlohn."
+        },
+        {
+          "type": "callout",
+          "variant": "info",
+          "title": "Und der andere Elternteil?",
+          "text": "Für ihn gibt es keinen Mutterschutz. Wer bei der Geburt und in den ersten Tagen dabei sein will, nimmt dafür Urlaub oder legt den Beginn der Elternzeit auf den Geburtstag des Kindes. Der Anspruch auf Elternzeit besteht ab dem Tag der Geburt – auch für zwei Wochen, auch für einen Monat."
+        }
+      ]
+    },
+    {
+      "type": "section",
+      "heading": "Elternzeit: die Freistellung vom Job",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "Elternzeit ist unbezahlte Freistellung mit Rückkehrrecht. Sie hat mit Elterngeld nichts zu tun, außer dass beides meistens parallel läuft. Jeder Elternteil hat bis zu drei Jahre Anspruch – pro Kind, unabhängig voneinander, auch gleichzeitig."
+        },
+        {
+          "type": "evidence",
+          "level": "stark",
+          "claim": "Jeder Elternteil kann bis zu drei Jahre Elternzeit nehmen. Bis zu 24 Monate davon lassen sich auf die Zeit zwischen dem dritten und dem achten Geburtstag verschieben. Die Elternzeit kann in bis zu drei Abschnitte aufgeteilt werden.",
+          "note": "Praktisch heißt das: Ihr könnt euch ein Jahr nehmen, arbeiten gehen und später zur Einschulung noch einmal Monate anhängen. Der Arbeitgeber kann den dritten Abschnitt nach dem dritten Geburtstag aus dringenden betrieblichen Gründen ablehnen – die ersten beiden nicht.",
+          "sources": [1]
+        },
+        {
+          "type": "p",
+          "text": "Die Anmeldung ist der einzige echte Stolperstein: Sie muss schriftlich erfolgen, mit eigenhändiger Unterschrift – eine E-Mail genügt formal nicht. Für Elternzeit bis zum dritten Geburtstag gilt eine Frist von sieben Wochen vor Beginn, für Elternzeit zwischen dem dritten und dem achten Geburtstag 13 Wochen. Und du musst dich gleich festlegen, wie du die ersten zwei Jahre aufteilst. Wer als Mutter direkt an die Mutterschutzfrist anschließen will, rechnet rückwärts: acht Wochen Schutzfrist plus sieben Wochen Anmeldefrist heißt, dass die Anmeldung noch in der Schwangerschaft rausgehen muss."
+        },
+        {
+          "type": "list",
+          "ordered": false,
+          "items": [
+            { "title": "Kündigungsschutz:", "text": "Ab der Anmeldung – frühestens acht Wochen beziehungsweise 14 Wochen vor Beginn – und während der gesamten Elternzeit besteht besonderer Kündigungsschutz." },
+            { "title": "Teilzeit in Elternzeit:", "text": "Erlaubt sind bis zu 32 Wochenstunden im Durchschnitt. Einen Rechtsanspruch darauf hast du, wenn der Betrieb regelmäßig mehr als 15 Beschäftigte hat, dein Arbeitsverhältnis länger als sechs Monate besteht und du für mindestens zwei Monate auf 15 bis 32 Wochenstunden reduzieren willst." },
+            { "title": "Urlaub:", "text": "Der Arbeitgeber darf den Erholungsurlaub für volle Monate der Elternzeit anteilig kürzen. Nicht genommener Urlaub aus der Zeit davor verfällt aber nicht – er steht nach der Rückkehr zur Verfügung." }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "section",
+      "heading": "Elterngeld: die drei Varianten",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "Elterngeld ersetzt einen Teil des Einkommens, das wegfällt, weil ihr euch um euer Kind kümmert. In der Regel sind es 65 Prozent des wegfallenden Nettoeinkommens; bei kleineren Einkommen steigt der Satz, bis zu 100 Prozent. Basiselterngeld liegt zwischen 300 und 1.800 Euro im Monat, ElterngeldPlus zwischen 150 und 900 Euro. Die 300 Euro Minimum bekommt auch, wer vorher gar nicht erwerbstätig war."
+        },
+        {
+          "type": "table",
+          "title": "Die drei Elterngeld-Varianten",
+          "head": ["Variante", "Höhe", "Dauer und Bedingung"],
+          "rows": [
+            ["Basiselterngeld", "300 bis 1.800 Euro pro Monat", "12 Monate für beide zusammen, 14 Monate, wenn beide Elternteile mindestens zwei Monate nehmen (Partnermonate). Alleinerziehende können die 14 Monate allein nutzen."],
+            ["ElterngeldPlus", "150 bis 900 Euro pro Monat", "Ein Monat Basiselterngeld wird zu zwei Monaten ElterngeldPlus. Ohne Zuverdienst höchstens halb so hoch, dafür doppelt so lange – mit Teilzeitverdienst oft die deutlich günstigere Variante."],
+            ["Partnerschaftsbonus", "wie ElterngeldPlus", "2, 3 oder 4 zusätzliche Monate ElterngeldPlus für jeden Elternteil, wenn beide in diesen Monaten gleichzeitig zwischen 24 und 32 Wochenstunden arbeiten."]
+          ],
+          "caption": "Nach den Angaben des Familienportals des Bundes. Die Varianten lassen sich kombinieren; der Elterngeldrechner des Bundes rechnet konkrete Kombinationen durch.",
+          "sources": [0]
+        },
+        {
+          "type": "p",
+          "text": "Zwei Zuschläge werden oft übersehen. Der Geschwisterbonus erhöht das Elterngeld um 10 Prozent, wenn noch ein kleines Geschwisterkind im Haushalt lebt. Und bei Mehrlingen kommt für jedes weitere Kind ein Zuschlag dazu. Beides musst du nicht separat beantragen, aber im Antrag angeben."
+        },
+        {
+          "type": "callout",
+          "variant": "tip",
+          "title": "Der praktische Rat zur Reihenfolge",
+          "text": "Mutterschaftsgeld und der Arbeitgeberzuschuss werden voll auf das Elterngeld angerechnet. Für die ersten beiden Lebensmonate bleibt der gebärenden Person dadurch in der Regel nichts vom Elterngeld übrig – diese Monate gelten trotzdem als verbraucht. Wer plant, sollte das vorher wissen: Es ist kein Fehler in eurem Antrag, sondern so vorgesehen. Der zweite Elternteil legt seine Monate deshalb oft bewusst später, wenn das Geld tatsächlich fehlt."
+        }
+      ]
+    },
+    {
+      "type": "section",
+      "heading": "Was sich zuletzt geändert hat",
+      "blocks": [
+        {
+          "type": "evidence",
+          "level": "stark",
+          "claim": "Für Geburten ab dem 1. April 2024 liegt die Einkommensgrenze für Elterngeld bei 200.000 Euro zu versteuerndem Einkommen, für Geburten ab dem 1. April 2025 bei 175.000 Euro – für Paare und für Alleinerziehende gleichermaßen. Wer darüber liegt, bekommt kein Elterngeld.",
+          "note": "Maßgeblich ist das zu versteuernde Einkommen aus dem Kalenderjahr vor der Geburt, nicht das Bruttoeinkommen. Das zu versteuernde Einkommen liegt nach Abzug von Werbungskosten, Sonderausgaben und Freibeträgen in der Regel deutlich niedriger als das Brutto – viele Familien, die sich beim Brutto abschrecken lassen, haben trotzdem Anspruch. Eine Gleitzone gibt es nicht: Ein Euro darüber bedeutet null Elterngeld.",
+          "sources": [4]
+        },
+        {
+          "type": "evidence",
+          "level": "stark",
+          "claim": "Für Geburten ab dem 1. April 2024 können beide Eltern Basiselterngeld nur noch für einen gemeinsamen Monat gleichzeitig beziehen, und nur innerhalb der ersten zwölf Lebensmonate.",
+          "note": "Ausgenommen sind Eltern von Mehrlingen, Eltern von Frühgeborenen, die mindestens sechs Wochen vor dem errechneten Termin auf die Welt kamen, und Eltern von Kindern mit Behinderung. Wichtig: Die Beschränkung gilt nur fürs Basiselterngeld. Sobald ein Elternteil ElterngeldPlus bezieht, ist ein längerer gemeinsamer Bezug weiterhin möglich – und genau darüber lösen viele Familien die ersten Wochen zu dritt.",
+          "sources": [4]
+        }
+      ]
+    },
+    {
+      "type": "section",
+      "heading": "Der Fahrplan",
+      "blocks": [
+        {
+          "type": "timeline",
+          "title": "Wann was erledigt sein sollte",
+          "entries": [
+            { "age": "ab ca. SSW 20", "label": "Arbeitgeber informieren", "text": "Die Schwangerschaft melden, damit der Mutterschutz greifen kann. Eine gesetzliche Pflicht dazu gibt es nicht, aber ohne Meldung greifen die Schutzvorschriften faktisch nicht." },
+            { "age": "ca. SSW 25–28", "label": "Elternzeit planen und anmelden", "text": "Wer direkt nach der Mutterschutzfrist in Elternzeit gehen will, muss die Anmeldung sieben Wochen vor deren Beginn schriftlich abgeben – also noch weit vor der Geburt. Auch der zweite Elternteil meldet jetzt an, wenn er ab Geburt zu Hause bleiben will." },
+            { "age": "ab SSW 33", "label": "Mutterschaftsgeld beantragen", "text": "Die Bescheinigung über den errechneten Termin gibt es frühestens sieben Wochen vorher; damit geht der Antrag an die Krankenkasse, die den Arbeitgeber informiert." },
+            { "age": "SSW 34", "label": "Beginn der Mutterschutzfrist", "text": "Sechs Wochen vor dem errechneten Termin. Ab hier gilt das Beschäftigungsverbot, auf ausdrücklichen eigenen Wunsch darf weitergearbeitet werden." },
+            { "age": "Geburt bis 4 Wochen", "label": "Geburtsurkunde und Anträge", "text": "Beim Standesamt mehrere beglaubigte Geburtsurkunden ausstellen lassen: eine für die Elterngeldstelle, eine für die Familienkasse, eine für die Krankenkasse. Kind bei der Krankenkasse anmelden." },
+            { "age": "bis 3. Lebensmonat", "label": "Elterngeld beantragen", "text": "Rückwirkend wird höchstens für die letzten drei Lebensmonate vor Antragseingang gezahlt. Wer im vierten Monat beantragt, verliert den ersten Monat endgültig. Kindergeld läuft parallel über die Familienkasse." }
+          ],
+          "caption": "Die Wochenangaben sind Orientierung, die Fristen für Elternzeit-Anmeldung und Elterngeld-Antrag sind gesetzlich festgelegt (Familienportal des Bundes)."
+        },
+        {
+          "type": "checklist",
+          "id": "antraege",
+          "title": "Unterlagen, die ihr ohnehin braucht",
+          "items": [
+            "Mehrere beglaubigte Geburtsurkunden mit dem Zusatz für Elterngeld beziehungsweise Kindergeld",
+            "Einkommensnachweise der letzten zwölf Monate vor der Geburt (bei Selbstständigen: Steuerbescheid des Vorjahres)",
+            "Bescheinigung über Mutterschaftsgeld und Arbeitgeberzuschuss",
+            "Bestätigung des Arbeitgebers über die Elternzeit",
+            "Steuer-Identifikationsnummern von Kind und Eltern",
+            "Nachweis der Krankenversicherung"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "section",
+      "heading": "Kindergeld und was danach kommt",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "Kindergeld beantragt ihr schriftlich oder online bei der Familienkasse der Bundesagentur für Arbeit. Seit Januar 2026 beträgt es 259 Euro pro Kind und Monat, einheitlich für jedes Kind. Wer bereits Kindergeld bezieht, muss für die Erhöhung nichts tun – die Familienkasse passt die Beträge automatisch an. Kindergeld läuft in aller Regel bis zum 18. Geburtstag und darüber hinaus, solange das Kind in Ausbildung ist."
+        },
+        {
+          "type": "p",
+          "text": "Familien mit kleinem Einkommen sollten zusätzlich den Kinderzuschlag prüfen; er wird ebenfalls über die Familienkasse beantragt und schließt Leistungen für Bildung und Teilhabe auf. Und was auffällt, wenn man alles zusammen betrachtet: Die deutschen Familienleistungen sind nicht kompliziert, weil die Regeln kompliziert wären, sondern weil sie auf drei Behörden verteilt sind, die nicht miteinander sprechen. Das ist ärgerlich, aber kein Grund zur Sorge – die Anträge sind in ein bis zwei Abenden erledigt."
+        }
+      ]
+    },
+    {
+      "type": "section",
+      "heading": "Häufige Fragen",
+      "blocks": [
+        {
+          "type": "faq",
+          "items": [
+            {
+              "q": "Wir haben den Elterngeldantrag verschlafen. Ist das Geld weg?",
+              "a": "Nur teilweise. Gezahlt wird rückwirkend für die letzten drei Lebensmonate vor dem Monat, in dem der Antrag eingeht. Alles, was davor liegt, ist tatsächlich verloren. Wichtig: Es zählen Lebensmonate des Kindes, die am Geburtstag beginnen, nicht Kalendermonate. Stell den Antrag lieber unvollständig und reiche nach – entscheidend ist das Eingangsdatum."
+            },
+            {
+              "q": "Muss ich mich schon vor der Geburt festlegen, wie wir die Monate aufteilen?",
+              "a": "Für die Elternzeit ja, jedenfalls für die ersten zwei Jahre – die Aufteilung gehört in die Anmeldung. Beim Elterngeld könnt ihr die Aufteilung später noch ändern, solange die betroffenen Monate nicht länger als drei Monate zurückliegen und noch nicht ausgezahlt sind. Ein Wechsel von Basiselterngeld zu ElterngeldPlus ist auf diesem Weg oft möglich."
+            },
+            {
+              "q": "Lohnt sich ein Steuerklassenwechsel vor der Geburt?",
+              "a": "Er kann das Elterngeld deutlich erhöhen, weil das Nettoeinkommen der letzten zwölf Monate vor der Geburt die Bemessungsgrundlage ist. Der Wechsel muss allerdings früh genug erfolgen, damit er in den maßgeblichen Zeitraum fällt, und er verschiebt die Steuerlast innerhalb des Jahres nur – am Jahresende gleicht sich das über die Steuererklärung aus. Wer das ausreizen will, sollte konkret nachrechnen oder sich beraten lassen."
+            },
+            {
+              "q": "Können wir beide gleichzeitig zu Hause bleiben?",
+              "a": "Elternzeit ja, uneingeschränkt. Beim Basiselterngeld ist der gemeinsame Bezug für Geburten ab dem 1. April 2024 auf einen Monat innerhalb der ersten zwölf Lebensmonate begrenzt – außer bei Mehrlingen, Frühgeborenen und Kindern mit Behinderung. Über ElterngeldPlus lässt sich eine längere gemeinsame Zeit trotzdem abbilden."
+            },
+            {
+              "q": "Was passiert mit dem Elterngeld, wenn ich nebenbei arbeite?",
+              "a": "Erlaubt sind bis zu 32 Wochenstunden im Durchschnitt. Der Verdienst wird angerechnet, das Elterngeld sinkt entsprechend. Bei regelmäßigem Zuverdienst ist ElterngeldPlus fast immer die bessere Wahl, weil dort die Anrechnung anders funktioniert und der Anspruch nicht so schnell aufgebraucht wird."
+            },
+            {
+              "q": "Zählt das Elterngeld beim Bürgergeld oder Wohngeld als Einkommen?",
+              "a": "Elterngeld wird bei einkommensabhängigen Sozialleistungen grundsätzlich als Einkommen angerechnet, mit Ausnahme eines Elterngeldfreibetrags für Menschen, die vor der Geburt erwerbstätig waren. Wenn ihr solche Leistungen bezieht, klärt das vor der Antragstellung mit der jeweiligen Stelle – die Regeln unterscheiden sich je nach Leistung."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "callout",
+      "variant": "info",
+      "title": "Kurz gesagt",
+      "text": "Mutterschutz läuft automatisch, Elternzeit meldest du sieben Wochen vorher schriftlich an, Elterngeld beantragst du innerhalb der ersten drei Lebensmonate. Alles andere lässt sich nachbessern. Der Elterngeldrechner und der Elterngeldplaner des Bundes rechnen eure konkrete Situation durch, bevor ihr euch festlegt – und die Elterngeldstellen der Länder beraten kostenlos, auch telefonisch."
+    }
+  ],
+  "sources": [
+    {
+      "title": "Elterngeld – Was Sie zum Elterngeld wissen müssen (FAQ)",
+      "publisher": "Familienportal des Bundes, Bundesministerium für Familie, Senioren, Frauen und Jugend",
+      "year": "2026",
+      "kind": "Institutionelle Information",
+      "url": "https://familienportal.de/familienportal/familienleistungen/elterngeld/faq"
+    },
+    {
+      "title": "Elternzeit – Was Sie zur Elternzeit wissen müssen (FAQ)",
+      "publisher": "Familienportal des Bundes, Bundesministerium für Familie, Senioren, Frauen und Jugend",
+      "year": "2026",
+      "kind": "Institutionelle Information",
+      "url": "https://familienportal.de/familienportal/familienleistungen/elternzeit/faq"
+    },
+    {
+      "title": "Mutterschaftsleistungen: Mutterschaftsgeld, Arbeitgeberzuschuss, Mutterschutzlohn",
+      "publisher": "Familienportal des Bundes",
+      "year": "2026",
+      "kind": "Institutionelle Information",
+      "url": "https://familienportal.de/familienportal/familienleistungen/mutterschaftsleistungen"
+    },
+    {
+      "title": "Wie lange besteht der Mutterschutz vor und nach der Geburt?",
+      "publisher": "Familienportal des Bundes",
+      "year": "2026",
+      "kind": "Institutionelle Information",
+      "url": "https://familienportal.de/familienportal/familienleistungen/mutterschutz/wie-lange-besteht-der-mutterschutz-vor-und-nach-der-geburt--125046"
+    },
+    {
+      "title": "Neuregelungen beim Elterngeld für Geburten ab 1. April 2024 sowie ab 1. April 2025",
+      "publisher": "Bundesministerium für Bildung, Familie, Senioren, Frauen und Jugend",
+      "year": "2025",
+      "kind": "Institutionelle Information",
+      "url": "https://www.bmbfsfj.bund.de/bmbfsfj/themen/familie/familienleistungen/neuregelungen-beim-elterngeld-fuer-geburten-ab-1-april-2024-sowie-ab-1-april-2025-228588"
+    },
+    {
+      "title": "Kindergeld steigt ab Januar 2026",
+      "publisher": "Bundesagentur für Arbeit",
+      "year": "2025",
+      "kind": "Institutionelle Information",
+      "url": "https://www.arbeitsagentur.de/presse/2025-53-kindergeld-steigt-ab-januar-2026"
+    }
+  ],
+  "related": ["wochenbett", "erstausstattung", "partnerschaft-nach-der-geburt", "betreuung-waehlen"]
+}

@@ -1,0 +1,332 @@
+{
+  "slug": "meilensteine-uebersicht",
+  "title": "Meilensteine von 0 bis 6 im Überblick",
+  "subtitle": "Was Kinder wann können – und warum die Spannbreite dabei kein Ausrutscher ist, sondern der eigentliche Befund.",
+  "phases": ["neugeborenes", "saeugling", "kleinkind", "kindergarten"],
+  "topics": ["entwicklung"],
+  "updated": "2026-08-05",
+  "featured": true,
+  "summary": "Entwicklung verläuft in Spannen, nicht an Stichtagen. Gesunde Kinder laufen frei irgendwann zwischen dem 8. und dem 18. Lebensmonat, sprechen ihr erstes Wort zwischen 10 und 15 Monaten und werden trotzdem alle erwachsen. Diese Übersicht zeigt für Motorik, Sprache, Sozialverhalten und Denken, was in welchem Alter üblich ist – und trennt das klar von den wenigen Punkten, den sogenannten Grenzsteinen, bei denen du tatsächlich nachfragen solltest.",
+  "keyFacts": [
+    "Ein Meilenstein ist ein Durchschnitt, ein Grenzstein eine Untergrenze – nur der Grenzstein ist ein Anlass zur Abklärung.",
+    "Die WHO-Fenster für freies Laufen reichen von 8,2 bis 17,6 Monaten. Alles dazwischen ist unauffällig.",
+    "Rund 4 Prozent der gesunden Kinder krabbeln nie auf Händen und Knien – sie robben, rutschen oder stehen einfach auf.",
+    "Entwicklung ist ungleichmäßig: Wer motorisch früh ist, ist sprachlich oft später dran, und umgekehrt.",
+    "Wichtiger als jeder einzelne Termin ist die Richtung: Es geht stetig weiter, und erworbene Fähigkeiten gehen nicht verloren."
+  ],
+  "blocks": [
+    {
+      "type": "p",
+      "lead": true,
+      "text": "Kaum etwas erzeugt bei Eltern so verlässlich ein flaues Gefühl wie eine Meilensteintabelle. Da steht eine Zahl, daneben eine Fähigkeit, und das eigene Kind passt nicht dazu. Was in diesen Tabellen fast immer fehlt: Die Zahl ist ein Mittelwert. Um jeden Mittelwert liegt eine Spanne, und diese Spanne ist bei kleinen Kindern erstaunlich breit. Die WHO hat sie in einer der sorgfältigsten Studien zum Thema tatsächlich vermessen – das Fenster für freies Laufen ist über neun Monate breit. Neun Monate, in denen alles normal ist."
+    },
+    {
+      "type": "callout",
+      "variant": "danger",
+      "title": "Diese Punkte gehören zeitnah in die Kinderarztpraxis",
+      "items": [
+        "Dein Kind verliert eine Fähigkeit, die es schon hatte (spricht nicht mehr, krabbelt nicht mehr, reagiert weniger als vorher)",
+        "Es reagiert nicht auf laute Geräusche oder auf deine Stimme",
+        "Es nimmt keinen Blickkontakt auf und lächelt bis zum dritten Lebensmonat niemanden an",
+        "Eine Körperhälfte wird deutlich weniger benutzt als die andere, oder eine Hand wird vor dem ersten Geburtstag klar bevorzugt",
+        "Der Muskeltonus fällt auf: das Kind wirkt durchgehend schlaff oder durchgehend steif",
+        "Du hast ein anhaltendes ungutes Gefühl, das du nicht wegargumentieren kannst"
+      ]
+    },
+    {
+      "type": "section",
+      "heading": "Meilenstein oder Grenzstein – der Unterschied entscheidet alles",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "Diese beiden Begriffe werden ständig verwechselt, und aus dieser Verwechslung entsteht ein großer Teil der elterlichen Sorge. Ein Meilenstein beschreibt, wann ein Entwicklungsschritt typischerweise zum ersten Mal auftritt – oft der Durchschnitt oder der Median. Ein Grenzstein beschreibt etwas ganz anderes: das Alter, zu dem etwa 90 bis 95 Prozent aller Kinder diesen Schritt erreicht haben. Wer den Meilenstein verpasst, gehört zur normalen zweiten Hälfte. Wer den Grenzstein reißt, gehört zu den letzten fünf bis zehn Prozent – und das ist ein Grund, genauer hinzusehen, aber noch immer keine Diagnose."
+        },
+        {
+          "type": "evidence",
+          "level": "moderat",
+          "claim": "Das Grenzsteinkonzept nach Richard Michaelis ist als Screening gedacht, nicht als Test. Es soll Kinder herausfiltern, bei denen eine genauere Untersuchung sinnvoll ist – es misst nicht, wie gut ein Kind entwickelt ist.",
+          "note": "Der Tübinger Entwicklungsneurologe Richard Michaelis (1931–2017) hat das Konzept eingeführt, damit in der begrenzten Zeit einer Vorsorgeuntersuchung überhaupt systematisch geschaut werden kann. Grenzsteine bilden bewusst keine individuellen Entwicklungswege ab. Sie beantworten genau eine Frage: Sollte hier jemand genauer hinschauen?",
+          "sources": [1]
+        },
+        {
+          "type": "table",
+          "title": "Zwei Begriffe, zwei völlig verschiedene Bedeutungen",
+          "head": ["", "Meilenstein", "Grenzstein"],
+          "rows": [
+            ["Was er angibt", "Wann Kinder es typischerweise können", "Wann fast alle Kinder es können"],
+            ["Bezugsgröße", "Mittelwert oder Median", "90. bis 95. Perzentile"],
+            ["Wenn dein Kind später ist", "Völlig üblich – die Hälfte aller Kinder ist später als der Median", "Anlass für ein Gespräch in der Praxis"],
+            ["Typische Quelle", "Elternratgeber, Apps, Tabellen", "Vorsorgeuntersuchungen, Entwicklungsscreening"]
+          ],
+          "caption": "Nach der Darstellung in der Übersichtsarbeit „Meilen- und Grenzsteine der Entwicklung“ in der Monatsschrift Kinderheilkunde (2022)."
+        },
+        {
+          "type": "callout",
+          "variant": "myth",
+          "title": "„Mit einem Jahr sollte es laufen können“",
+          "text": "Der erste Geburtstag ist kein Termin für irgendetwas. Er ist ein kalendarisches Datum, das mit der Reifung des Nervensystems nichts zu tun hat. Der Grenzstein für freies Laufen liegt bei 18 Monaten – erst dann haben rund 90 Prozent der Kinder es gelernt. Ein Kind, das mit 14 Monaten noch nicht läuft, ist also nicht spät, sondern mitten im Feld."
+        }
+      ]
+    },
+    {
+      "type": "section",
+      "heading": "Wie breit die Spannbreite wirklich ist",
+      "blocks": [
+        {
+          "type": "evidence",
+          "level": "stark",
+          "claim": "Die WHO hat bei 816 gesund aufwachsenden Kindern in Ghana, Indien, Norwegen, Oman und den USA gemessen, wann sechs grobmotorische Schritte erreicht werden. Die daraus abgeleiteten Fenster reichen vom 1. bis zum 99. Perzentil und sind sehr breit.",
+          "note": "Das schmalste Fenster ist das freie Sitzen mit 5,4 Monaten Breite, die breitesten sind freies Stehen (10,0 Monate) und freies Laufen (9,4 Monate). Praktisch heißt das: Zwei gleich gesunde Kinder können beim Laufenlernen über neun Monate auseinanderliegen, ohne dass eines davon auffällig wäre.",
+          "sources": [0]
+        },
+        {
+          "type": "figure",
+          "kind": "range",
+          "title": "WHO-Fenster für sechs grobmotorische Schritte",
+          "alt": "Balkendiagramm mit den Altersspannen für Sitzen, Stehen mit Hilfe, Krabbeln, Laufen mit Hilfe, freies Stehen und freies Laufen",
+          "min": 3,
+          "max": 18,
+          "ticks": [3, 6, 9, 12, 15, 18],
+          "data": [
+            { "label": "Sitzen ohne Stütze", "from": 3.8, "to": 9.2, "display": "3,8–9,2 Mon." },
+            { "label": "Stehen mit Festhalten", "from": 4.8, "to": 11.4, "display": "4,8–11,4 Mon." },
+            { "label": "Krabbeln auf Händen und Knien", "from": 5.2, "to": 13.5, "display": "5,2–13,5 Mon." },
+            { "label": "Laufen mit Festhalten", "from": 5.9, "to": 13.7, "display": "5,9–13,7 Mon." },
+            { "label": "Freies Stehen", "from": 6.9, "to": 16.9, "display": "6,9–16,9 Mon." },
+            { "label": "Freies Laufen", "from": 8.2, "to": 17.6, "display": "8,2–17,6 Mon." }
+          ],
+          "caption": "1. bis 99. Perzentil aus der WHO Motor Development Study (2006). Die Fenster überlappen sich stark – ein Kind kann in einem Bereich am oberen, im nächsten am unteren Rand liegen.",
+          "sources": [0]
+        },
+        {
+          "type": "p",
+          "text": "Zwei weitere Befunde aus derselben Studie sind alltagstauglich: Etwa 90 Prozent der Kinder durchlaufen fünf dieser Schritte in derselben Reihenfolge – aber eben nur etwa 90 Prozent. Und 4,3 Prozent der Kinder krabbelten nie auf Händen und Knien. Sie robbten, rutschten auf dem Po oder standen irgendwann einfach auf. Das Auslassen des Krabbelns ist damit keine Lücke, sondern eine von mehreren normalen Varianten."
+        },
+        {
+          "type": "scene",
+          "preset": "meilensteine",
+          "title": "Entwicklung als Pfad, nicht als Treppe",
+          "alt": "Animierte Darstellung mehrerer Entwicklungspfade, die sich unterschiedlich schnell durch dieselben Stationen bewegen",
+          "fallback": "Mehrere Kinder bewegen sich durch dieselben Entwicklungsstationen, aber mit unterschiedlichem Tempo und teilweise in unterschiedlicher Reihenfolge. Manche legen Pausen ein, dann kommt ein Sprung. Am Ende erreichen alle dieselben Stationen.",
+          "caption": "Entwicklung verläuft nicht linear. Auf Phasen mit sichtbarem Stillstand folgen oft Sprünge – und häufig pausiert ein Bereich, während ein anderer gerade Fahrt aufnimmt."
+        }
+      ]
+    },
+    {
+      "type": "section",
+      "heading": "Motorik von 0 bis 6",
+      "blocks": [
+        {
+          "type": "timeline",
+          "title": "Grobmotorik und Feinmotorik im Verlauf",
+          "entries": [
+            { "age": "0–3 Monate", "label": "Kopfkontrolle beginnt", "text": "In Bauchlage hebt dein Kind den Kopf kurz an, später bis 45 Grad. Die Hände öffnen sich allmählich aus der Faust. Bewegungen wirken noch ruckartig und unwillkürlich." },
+            { "age": "3–6 Monate", "label": "Greifen und Drehen", "text": "Gezieltes Greifen mit der ganzen Hand, Gegenstände wandern in den Mund. Das Drehen vom Rücken auf den Bauch gelingt irgendwann in diesem Fenster – bei manchen erst deutlich später." },
+            { "age": "6–10 Monate", "label": "Freies Sitzen und Fortbewegung", "text": "Sitzen ohne Stütze, Robben oder Krabbeln. Die Hand wird geschickter: Gegenstände werden von einer Hand in die andere gegeben." },
+            { "age": "9–15 Monate", "label": "Hochziehen, Stehen, erste Schritte", "text": "Hochziehen am Möbel, seitliches Entlanggehen, dann freies Stehen. Der Pinzettengriff mit Daumen und Zeigefinger entsteht und macht Krümel jagen möglich." },
+            { "age": "12–18 Monate", "label": "Freies Laufen", "text": "Die meisten Kinder laufen in diesem Fenster los. Bis 18 Monate ist es der Grenzstein – wer dann noch nicht frei läuft, sollte angeschaut werden." },
+            { "age": "2–3 Jahre", "label": "Rennen, Treppen, Kritzeln", "text": "Rennen mit zunehmender Kontrolle, Treppensteigen zunächst nachstellend, dann alternierend. Erste Kritzelspuren, Türme aus mehreren Klötzen." },
+            { "age": "3–4 Jahre", "label": "Dreirad, Einbeinstand, Kreis", "text": "Kurz auf einem Bein stehen, hüpfen mit beiden Beinen, Dreirad fahren. Der Stift wird häufiger im Dreipunktgriff gehalten, ein Kreis wird erkennbar." },
+            { "age": "4–6 Jahre", "label": "Feinmotorik wird alltagstauglich", "text": "Roller oder Fahrrad, Balancieren, Ballspiel. Ausschneiden mit der Schere, erkennbare Figuren zeichnen, oft die ersten Buchstaben nachmalen." }
+          ],
+          "caption": "Orientierungsspannen aus gängigen pädiatrischen Entwicklungsübersichten. Die Fenster im ersten Lebensjahr entsprechen den gemessenen WHO-Spannen, die späteren Angaben sind grobe Richtwerte und keine Prüfkriterien."
+        },
+        {
+          "type": "callout",
+          "variant": "tip",
+          "title": "Der beste Entwicklungsförderer ist Bodenfreiheit",
+          "text": "Kinder brauchen zum Üben vor allem Platz, flache Unterlagen und Zeit ohne Hilfsmittel. Wippen, Türhopser, Lauflernhilfen und Sitzschalen nehmen genau die Bewegungen ab, die geübt werden müssten. Eine Decke auf dem Boden und ein Erwachsener in Sichtweite reichen völlig."
+        }
+      ]
+    },
+    {
+      "type": "section",
+      "heading": "Sprache von 0 bis 6",
+      "blocks": [
+        {
+          "type": "timeline",
+          "title": "Vom Gurren zum Erzählen",
+          "entries": [
+            { "age": "0–3 Monate", "label": "Erste Laute, erstes Lächeln", "text": "Gurrlaute, Blickkontakt, das soziale Lächeln – meist zwischen der 6. und 8. Lebenswoche. Dein Kind reagiert auf Stimmen und dreht sich zu Geräuschen." },
+            { "age": "6–9 Monate", "label": "Silbenketten", "text": "Ba-ba-ba, da-da-da. Diese Kanonade ist ein wichtiges Zeichen: Sie zeigt, dass Hören und Stimmbildung zusammenspielen." },
+            { "age": "9–14 Monate", "label": "Zeigen und erste Wörter", "text": "Das Zeigen mit dem Finger auf Dinge, die interessant sind, ist entwicklungspsychologisch mindestens so bedeutsam wie das erste Wort. Erste sinnvolle Wörter fallen meist zwischen 10 und 15 Monaten." },
+            { "age": "18–24 Monate", "label": "Wortschatzspurt und Zweiwortsätze", "text": "Der aktive Wortschatz wächst schnell, oft von wenigen Dutzend auf mehrere hundert Wörter. Es entstehen Kombinationen wie „Mama da“ oder „mehr Milch“." },
+            { "age": "2–3 Jahre", "label": "Mehrwortsätze und das große Warum", "text": "Sätze werden länger, Fragewörter tauchen auf. Fremde verstehen dein Kind zunehmend, auch wenn viele Laute noch nicht sauber gebildet werden." },
+            { "age": "3–4 Jahre", "label": "Verständlich für Fremde", "text": "Die Grammatik wird stabiler, Vergangenheitsformen werden ausprobiert und dabei charmant übergeneralisiert („gegeht“). Etwa drei Viertel der Äußerungen sind für Außenstehende verständlich." },
+            { "age": "4–6 Jahre", "label": "Erzählen und Lautbildung", "text": "Zusammenhängende Geschichten, Nebensätze, Witze. Die meisten Laute sind korrekt gebildet; das Zisch-S und das R kommen bei manchen erst zuletzt." }
+          ],
+          "caption": "Orientierungsspannen aus pädiatrischen und logopädischen Entwicklungsübersichten. Bei mehrsprachig aufwachsenden Kindern zählt für den Wortschatz die Summe aller Sprachen."
+        },
+        {
+          "type": "evidence",
+          "level": "stark",
+          "claim": "Kinder, die mit 24 Monaten weniger als 50 Wörter sprechen oder noch keine Zweiwortkombinationen bilden, gelten als sogenannte Late Talker. Das ist keine Diagnose, aber ein belegter Risikomarker für eine spätere Sprachentwicklungsstörung.",
+          "note": "Etwa die Hälfte dieser Kinder holt von selbst auf – nur weiß man vorher nicht, welche Hälfte. Deshalb empfehlen die deutschen Leitlinien, mit 24 Monaten hinzuschauen und den Verlauf zu kontrollieren, statt einfach abzuwarten. Wichtig: Gezählt wird der aktive Wortschatz, und Wörter dürfen kindlich ausgesprochen sein.",
+          "sources": [3, 5]
+        }
+      ]
+    },
+    {
+      "type": "section",
+      "heading": "Sozialverhalten, Gefühle und Denken",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "Diese beiden Bereiche werden in Tabellen oft stiefmütterlich behandelt, weil sie schwerer messbar sind. Für den Alltag sind sie mindestens so aussagekräftig wie die Motorik – und sie erklären viel von dem, was Eltern gerade anstrengend finden."
+        },
+        {
+          "type": "table",
+          "title": "Soziale und emotionale Entwicklung",
+          "head": ["Alter", "Was üblicherweise dazukommt", "Was das im Alltag heißt"],
+          "rows": [
+            ["6–8 Wochen", "Soziales Lächeln als Antwort auf ein Gesicht", "Der erste echte Dialog – dein Kind antwortet auf dich"],
+            ["6–9 Monate", "Fremdeln, klare Bevorzugung vertrauter Personen", "Kein Rückschritt, sondern ein Zeichen gelungener Bindung"],
+            ["9–14 Monate", "Blick zu dir, um eine Situation einzuschätzen", "Dein Gesicht wird zum Kompass in unklaren Momenten"],
+            ["18–36 Monate", "Eigener Wille, Wut, erste Trotzreaktionen", "Das Gefühl ist da, die Bremse im Gehirn noch nicht"],
+            ["3–4 Jahre", "Rollenspiel, erste echte Spielpartnerschaften", "Konflikte werden häufiger, weil überhaupt gemeinsam gespielt wird"],
+            ["4–6 Jahre", "Regeln verstehen, warten können, Perspektivwechsel", "Gesellschaftsspiele funktionieren – manchmal"]
+          ],
+          "caption": "Grobe Orientierung. Temperament und Familiensituation verschieben diese Punkte deutlich stärker als bei der Motorik."
+        },
+        {
+          "type": "table",
+          "title": "Denken, Verstehen, Spielen",
+          "head": ["Alter", "Kognitiver Schritt", "Woran du es merkst"],
+          "rows": [
+            ["4–8 Monate", "Ursache und Wirkung", "Etwas fallen lassen, weil es Geräusche macht – zwanzigmal"],
+            ["8–12 Monate", "Objektpermanenz", "Suchen unter der Decke; Verstecken-Spiele werden lustig"],
+            ["12–18 Monate", "Funktionsspiel", "Löffel gehört zum Mund, Telefon ans Ohr"],
+            ["18–30 Monate", "Symbolspiel", "Ein Klotz wird zum Auto, ein Tuch zur Decke fürs Kuscheltier"],
+            ["3–4 Jahre", "Mengen und Reihenfolgen", "Erste Zahlwörter, Sortieren nach Farbe oder Größe"],
+            ["4–6 Jahre", "Zeit- und Regelverständnis", "„Morgen“ wird begreifbar, Absprachen halten länger"]
+          ],
+          "caption": "Grobe Orientierung nach gängigen entwicklungspsychologischen Übersichten."
+        }
+      ]
+    },
+    {
+      "type": "section",
+      "heading": "Grenzsteine: die Punkte, an denen du nachfragen solltest",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "Die folgende Auswahl ersetzt kein Screening und ist keine vollständige Grenzsteintabelle – die gehört in die Hand der Kinderarztpraxis und wird bei den U-Untersuchungen abgefragt. Sie zeigt aber die Art von Beobachtung, um die es geht: einzelne, klar formulierte Fähigkeiten mit einem Alter, zu dem fast alle Kinder sie zeigen."
+        },
+        {
+          "type": "table",
+          "title": "Anlässe für ein Gespräch in der Praxis",
+          "head": ["Alter", "Wenn dein Kind das nicht zeigt"],
+          "rows": [
+            ["3 Monate", "Kein Blickkontakt, kein soziales Lächeln, keine Reaktion auf Geräusche"],
+            ["6 Monate", "Kopf wird in Bauchlage nicht gehalten, keine Lautbildung, kein Greifen nach Gegenständen"],
+            ["10 Monate", "Kein freies Sitzen, keine Silbenketten, kein Interesse an Gegenständen oder Personen"],
+            ["12 Monate", "Kein Zeigen auf Dinge, keine Reaktion auf den eigenen Namen, keine Fortbewegungsform"],
+            ["18 Monate", "Kein freies Laufen, keine sinnvollen Einzelwörter, kein Nachahmen von Alltagshandlungen"],
+            ["24 Monate", "Weniger als 50 Wörter oder keine Zweiwortkombinationen, kein Symbolspiel"],
+            ["3 Jahre", "Für Fremde kaum verständliche Sprache, kein Interesse an anderen Kindern"],
+            ["Jedes Alter", "Verlust bereits erworbener Fähigkeiten"]
+          ],
+          "caption": "Zusammengestellt aus dem Grenzsteinkonzept nach Michaelis, den Leitlinienkriterien für Late Talker und den Inhalten der Früherkennungsuntersuchungen. Ein Punkt allein ist kein Befund – er ist ein Anlass für ein Gespräch."
+        },
+        {
+          "type": "callout",
+          "variant": "info",
+          "title": "Wie du das Gespräch führst, ohne abgewimmelt zu werden",
+          "text": "Nimm konkrete Beobachtungen mit statt eines Gefühls: Was genau kann dein Kind nicht, seit wann, und was hat es davor gekonnt? Ein kurzes Handyvideo einer typischen Situation sagt oft mehr als zehn Minuten Beschreibung. Wenn du das Gefühl hast, nicht gehört zu werden, ist eine Zweitmeinung oder die Überweisung in ein Sozialpädiatrisches Zentrum (SPZ) ein legitimer nächster Schritt – nicht Misstrauen, sondern Sorgfalt."
+        },
+        {
+          "type": "callout",
+          "variant": "warn",
+          "title": "Frühgeborene: immer korrigiertes Alter rechnen",
+          "text": "Bei Kindern, die vor der 37. Schwangerschaftswoche geboren wurden, wird die Entwicklung bis etwa zum zweiten Geburtstag nach dem korrigierten Alter beurteilt – also gerechnet ab dem errechneten Geburtstermin. Ein Kind, das acht Wochen zu früh kam, ist mit zehn Monaten entwicklungsmäßig acht Monate alt. Wer das vergisst, produziert Sorgen aus dem Nichts."
+        }
+      ]
+    },
+    {
+      "type": "section",
+      "heading": "Häufige Fragen",
+      "blocks": [
+        {
+          "type": "faq",
+          "items": [
+            {
+              "q": "Das Nachbarskind ist drei Monate jünger und läuft schon. Muss ich mir Sorgen machen?",
+              "a": "Nein. Genau dieser Vergleich ist der häufigste Sorgenauslöser und der am wenigsten aussagekräftige. Das Fenster für freies Laufen ist über neun Monate breit. Zwei Kinder aus derselben Krabbelgruppe können ein halbes Jahr auseinanderliegen und beide völlig unauffällig sein. Relevant ist der Grenzstein bei 18 Monaten, nicht das Nachbarskind."
+            },
+            {
+              "q": "Mein Kind hat das Krabbeln übersprungen. Fehlt ihm jetzt etwas?",
+              "a": "Nach der WHO-Studie krabbeln rund 4 Prozent der gesunden Kinder nie auf Händen und Knien, sondern robben, rutschen auf dem Po oder ziehen sich direkt hoch. Die verbreitete Vorstellung, das Krabbeln sei für die spätere Über-Kreuz-Koordination oder gar fürs Lesenlernen unverzichtbar, ist nicht belegt. Entscheidend ist, dass dein Kind sich überhaupt selbstständig fortbewegt und beide Körperhälften benutzt."
+            },
+            {
+              "q": "Kann ich die Entwicklung durch Förderprogramme beschleunigen?",
+              "a": "Nicht sinnvoll. Das Tempo der motorischen und sprachlichen Reifung wird stark von der Reifung des Nervensystems bestimmt, und die lässt sich nicht antrainieren. Was hilft, ist banal: Gelegenheit, Zeit, Zuwendung und ein Erwachsener, der auf das reagiert, was das Kind gerade tut. Programme, die einen Entwicklungsvorsprung versprechen, verkaufen Elternangst."
+            },
+            {
+              "q": "Mein Kind kann motorisch viel, spricht aber kaum. Ist das ein Widerspruch?",
+              "a": "Nein, das ist eher die Regel als die Ausnahme. Entwicklung läuft nicht in allen Bereichen gleichzeitig. Viele Kinder pausieren sprachlich, während sie das Laufen lernen, und legen danach los. Wichtig ist trotzdem: Für Sprache gibt es mit 24 Monaten ein klares Kriterium, und das gilt unabhängig davon, wie sportlich dein Kind ist."
+            },
+            {
+              "q": "Mein Kind wächst zweisprachig auf und spricht wenig. Zählt das anders?",
+              "a": "Ja. Bei Mehrsprachigkeit wird der Wortschatz über alle Sprachen zusammengezählt, nicht pro Sprache. Mehrsprachigkeit verursacht keine Sprachentwicklungsstörung und ist keine Erklärung, mit der man ein deutliches Zurückbleiben abtun sollte. Wenn dein Kind in allen seinen Sprachen zusammen deutlich unter den Kriterien liegt, gehört das abgeklärt."
+            },
+            {
+              "q": "Wo werden diese Punkte eigentlich offiziell überprüft?",
+              "a": "Bei den U-Untersuchungen. Die Kinder-Richtlinie des Gemeinsamen Bundesausschusses legt für U1 bis U9 fest, was in welchem Alter angeschaut wird – die Entwicklungsbeurteilung ist ein zentraler Teil davon. Deshalb lohnt es sich, die Termine einzuhalten und Beobachtungen vorher aufzuschreiben."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "callout",
+      "variant": "info",
+      "title": "Kurz gesagt",
+      "text": "Ein Meilenstein sagt dir, wo die Mitte liegt. Ein Grenzstein sagt dir, wann du fragen solltest. Zwischen diesen beiden Punkten liegt bei den meisten Fähigkeiten ein halbes Jahr oder mehr – und dieser Raum gehört deinem Kind, nicht der Tabelle."
+    }
+  ],
+  "sources": [
+    {
+      "title": "WHO Motor Development Study: Windows of achievement for six gross motor development milestones",
+      "publisher": "WHO Multicentre Growth Reference Study Group, Acta Paediatrica Supplement",
+      "year": "2006",
+      "kind": "Studie",
+      "url": "https://cdn.who.int/media/docs/default-source/child-growth/child-growth-standards/indicators/motor-development-milestones/who-motor-development-study-windows-of-achievement-for-six-gross-motor-development-milestones.pdf"
+    },
+    {
+      "title": "Meilen- und Grenzsteine der Entwicklung: Was Kinderärztinnen und Kinderärzte wissen müssen",
+      "publisher": "Monatsschrift Kinderheilkunde, Springer",
+      "year": "2022",
+      "kind": "Übersichtsarbeit",
+      "url": "https://link.springer.com/article/10.1007/s00112-022-01547-z"
+    },
+    {
+      "title": "Die kindliche Entwicklung – Grundlagen und Entwicklungsschritte",
+      "publisher": "Bundeszentrale für gesundheitliche Aufklärung (BZgA), kindergesundheit-info.de",
+      "year": "2024",
+      "kind": "Institutionelle Information",
+      "url": "https://www.kindergesundheit-info.de/themen/entwicklung/entwicklungsschritte/entwicklungsgrundlagen/"
+    },
+    {
+      "title": "S3-Leitlinie Therapie von Sprachentwicklungsstörungen (049-015)",
+      "publisher": "AWMF / Deutsche Gesellschaft für Phoniatrie und Pädaudiologie u. a.",
+      "year": "2022",
+      "kind": "Leitlinie",
+      "url": "https://register.awmf.org/assets/guidelines/049-015l_S3_Therapie_von_Sprachentwicklungsst%C3%B6rungen_Text_2022-12.pdf"
+    },
+    {
+      "title": "Kinder-Richtlinie: Früherkennungsuntersuchungen für Kinder",
+      "publisher": "Gemeinsamer Bundesausschuss (G-BA)",
+      "year": "2024",
+      "kind": "Leitlinie",
+      "url": "https://www.g-ba.de/richtlinien/15/"
+    },
+    {
+      "title": "Late Talker – Sprachentwicklungsverzögerung",
+      "publisher": "Deutscher Bundesverband für Logopädie (dbl)",
+      "year": "2024",
+      "kind": "Institutionelle Information",
+      "url": "https://www.dbl-ev.de/fachwissen-logopaedie/late-talker-sprachentwicklungsverzoegerung/"
+    }
+  ],
+  "related": ["motorik-erstes-jahr", "gehirnentwicklung", "u-untersuchungen", "entwicklungsverzoegerung-erkennen"]
+}

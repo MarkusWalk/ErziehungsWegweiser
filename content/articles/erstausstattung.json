@@ -1,0 +1,295 @@
+{
+  "slug": "erstausstattung",
+  "title": "Erstausstattung: was wirklich gebraucht wird",
+  "subtitle": "Eine nüchterne Liste statt einer Marktübersicht – was ein Neugeborenes tatsächlich braucht, worauf es bei Sicherheit und Normen ankommt, was sich fast immer als überflüssig erweist und welche finanziellen Hilfen es gibt.",
+  "phases": ["schwangerschaft", "neugeborenes"],
+  "topics": ["familie", "sicherheit"],
+  "updated": "2026-08-05",
+  "summary": "Ein Neugeborenes braucht sehr wenig: einen sicheren Schlafplatz, Kleidung zum Wechseln, etwas zum Wickeln, eine Möglichkeit, transportiert zu werden – und Menschen. Teuer und wichtig sind nur zwei Dinge: der Autositz und der Schlafplatz, weil an beiden Sicherheit hängt. Bei fast allem anderen kannst du abwarten, gebraucht kaufen oder leihen. Dieser Artikel sortiert die Liste, erklärt die relevanten Normen und nennt die Stellen, die bei knappem Budget helfen.",
+  "keyFacts": [
+    "Sicherheitsrelevant sind vor allem Schlafplatz und Autositz – hier lohnt sich Genauigkeit.",
+    "Autositze müssen der Norm UN R129 (i-Size) entsprechen; ältere R44-Sitze dürfen seit September 2024 nicht mehr verkauft werden.",
+    "Rückwärtsgerichtet fahren ist bis mindestens 15 Monate Pflicht – länger ist deutlich sicherer.",
+    "Ins Babybett gehören eine feste Matratze und ein Schlafsack, sonst nichts.",
+    "Das meiste andere kann gebraucht sein; beim Autositz ist die Vorgeschichte entscheidend.",
+    "Bei knappem Budget helfen die Bundesstiftung Mutter und Kind und die Erstausstattung nach SGB II."
+  ],
+  "blocks": [
+    {
+      "type": "p",
+      "lead": true,
+      "text": "Kaum ein Bereich der Elternschaft wird so gründlich vermarktet wie dieser. Die ehrliche Nachricht: Die Liste dessen, was ein Neugeborenes wirklich braucht, passt auf eine Postkarte, und der Rest lässt sich nachkaufen, wenn sich zeigt, dass ihr ihn braucht. Nachkaufen ist fast immer möglich – Zurückschicken auch, aber lästiger."
+    },
+    {
+      "type": "section",
+      "heading": "Die Postkarten-Liste",
+      "blocks": [
+        {
+          "type": "checklist",
+          "id": "erstausstattung-basis",
+          "title": "Was in den ersten Wochen tatsächlich gebraucht wird",
+          "items": [
+            "Ein sicherer Schlafplatz im Elternschlafzimmer (Beistellbett oder Babybett) mit fester Matratze",
+            "Zwei Schlafsäcke in Neugeborenengröße",
+            "Etwa sechs Bodys und sechs Strampler oder Einteiler, dazu Söckchen und je nach Jahreszeit eine Mütze",
+            "Ein Jäckchen oder Wollwalkanzug für draußen",
+            "Windeln in der kleinsten Größe, Waschlappen oder Feuchttücher, eine Wickelunterlage",
+            "Fünf bis zehn Mullwindeln – die vielseitigsten Textilien im Haushalt",
+            "Ein Autositz, wenn ihr Auto fahrt oder mit dem Auto nach Hause kommt",
+            "Eine Tragehilfe oder ein Tragetuch und/oder ein Kinderwagen",
+            "Zwei bis drei Handtücher, eine Babybadewanne oder Wanneneinsatz ist optional",
+            "Ein Fieberthermometer",
+            "Falls nicht gestillt wird: Flaschen, Sauger und Pre-Nahrung"
+          ]
+        },
+        {
+          "type": "p",
+          "text": "Alles, was hier nicht steht, ist Komfort oder kommt später. Das gilt ausdrücklich auch für Wickelkommode, Wippe, Stubenwagen, Spieluhr, Babyphone, Heizstrahler und Stillkissen. Viele davon sind angenehm – aber keines davon entscheidet über die ersten Wochen."
+        },
+        {
+          "type": "timeline",
+          "title": "Wann was gebraucht wird",
+          "entries": [
+            { "age": "vor der Geburt", "label": "Nur das Nötigste", "text": "Schlafplatz, Kleidung, Wickelzeug, Autositz. Alles andere kann warten – auch, weil ihr euer Kind noch nicht kennt." },
+            { "age": "erste Wochen", "label": "Nachjustieren", "text": "Jetzt zeigt sich, was ihr wirklich braucht: mehr Bodys, ein anderes Tragesystem, eine bestimmte Windelgröße." },
+            { "age": "ab 3–4 Monaten", "label": "Erste Beschäftigung", "text": "Eine Krabbeldecke, ein paar greifbare Gegenstände. Spielzeug im engeren Sinn braucht es weiterhin kaum." },
+            { "age": "ab 5–6 Monaten", "label": "Beikost und Sitzen", "text": "Hochstuhl, Löffel, Schüsseln, Lätzchen. Erst jetzt – nicht vorher." },
+            { "age": "ab 8–10 Monaten", "label": "Mobilität", "text": "Türgitter, Steckdosensicherungen, Eckenschutz. Kindersicherung lohnt sich, bevor das Kind losrobbt." },
+            { "age": "ab 15 Monaten", "label": "Nächste Sitzgruppe", "text": "Frühestens jetzt der Wechsel aus der Babyschale in einen größeren, weiterhin möglichst rückwärtsgerichteten Sitz." }
+          ],
+          "caption": "Eine grobe Reihenfolge. Der Sinn dahinter: Fast nichts muss vor der Geburt gekauft sein, und vieles wird deutlich später gebraucht, als der Handel nahelegt."
+        }
+      ]
+    },
+    {
+      "type": "section",
+      "heading": "Der Schlafplatz: hier lohnt sich Genauigkeit",
+      "blocks": [
+        {
+          "type": "evidence",
+          "level": "stark",
+          "claim": "Ein Neugeborenes schläft am sichersten auf dem Rücken, auf einer festen, passgenauen Matratze, im eigenen Schlafplatz im Zimmer der Eltern, im Schlafsack statt unter einer Decke – und mit nichts Weichem im Bett.",
+          "note": "Das sind die Kernpunkte der Empfehlungen zur Prävention des plötzlichen Säuglingstods. Für die Erstausstattung heißt das ganz praktisch: Du brauchst ein Bett und eine Matratze, sonst nichts. Nestchen, Lagerungshilfen, Kissen, Fellchen und Kuscheltiere sind nicht nur überflüssig, sie gelten als zusätzliches Risiko.",
+          "sources": [0, 1]
+        },
+        {
+          "type": "list",
+          "ordered": false,
+          "items": [
+            { "title": "Matratze:", "text": "Fest, eben, passgenau. Zwischen Matratze und Bettrahmen soll kein Spalt bleiben, in den eine Hand passt. Für Kindermatratzen gilt die europäische Norm EN 16890." },
+            { "title": "Bett:", "text": "Kinderbetten für den Wohnbereich sind über die Norm EN 716 geregelt, unter anderem für die Abstände zwischen den Sprossen. Achte bei gebrauchten Betten darauf, dass keine Sprossen fehlen und nichts gerissen ist." },
+            { "title": "Schlafsack:", "text": "Halsausschnitt eng genug, dass das Kind nicht hineinrutschen kann; Beinlänge großzügig. Zwei Stück reichen." },
+            { "title": "Beistellbett:", "text": "Löst den Konflikt zwischen Nähe und eigenem Schlafplatz elegant. Wichtig ist, dass es fest am Elternbett fixiert ist und auf gleicher Höhe steht." }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "section",
+      "heading": "Der Autositz: das einzige Teil, bei dem Sparen wirklich Risiko bedeutet",
+      "blocks": [
+        {
+          "type": "evidence",
+          "level": "stark",
+          "claim": "Säuglinge und Kleinkinder müssen rückwärtsgerichtet transportiert werden. Nach der Norm UN R129 (i-Size) ist das bis mindestens 15 Monate verpflichtend – fachlich empfohlen wird deutlich länger.",
+          "note": "Bei einem Frontalaufprall verteilt der rückwärtsgerichtete Sitz die Kräfte über den ganzen Rücken, statt sie auf den noch schwachen Nacken wirken zu lassen. Deshalb ist der Wechsel in Fahrtrichtung keine Entwicklungsstufe, auf die man hinarbeitet, sondern ein Sicherheitsverlust, den man möglichst lange aufschiebt – viele Sitze erlauben Rückwärtsfahren bis vier Jahre.",
+          "sources": [2]
+        },
+        {
+          "type": "table",
+          "title": "Was bei Autositzen zählt",
+          "head": ["Punkt", "Worauf du achtest"],
+          "rows": [
+            ["Norm", "UN R129 (i-Size). Sitze nach der alten Norm ECE R44 dürfen seit September 2024 nicht mehr verkauft werden."],
+            ["Einbau", "Isofix ist weniger fehleranfällig als der Gurt. Einbaufehler sind die häufigste Ursache dafür, dass ein Sitz nicht schützt."],
+            ["Passung ins Auto", "Nicht jeder Sitz passt in jedes Auto. Vor dem Kauf im eigenen Fahrzeug ausprobieren."],
+            ["Gebrauchtkauf", "Nur aus bekannter Hand und nur, wenn der Sitz nie in einen Unfall verwickelt war. Alter und Lagerung sind relevant, unsichtbare Risse nicht erkennbar."]
+          ],
+          "caption": "Die Kindersitzpflicht in Deutschland gilt bis zum zwölften Geburtstag oder bis 150 Zentimeter Körpergröße – je nachdem, was zuerst eintritt."
+        },
+        {
+          "type": "callout",
+          "variant": "warn",
+          "title": "Die Babyschale ist kein Aufenthaltsort",
+          "text": "In der halb sitzenden Haltung wird der Brustkorb zusammengedrückt; bei Neugeborenen kann das die Atmung erschweren. Als Faustregel wird meist genannt, die Zeit am Stück auf etwa 30 Minuten zu begrenzen und bei längeren Fahrten Pausen einzulegen, in denen das Kind flach liegen kann. Zu Hause gehört das schlafende Kind nicht in die Schale, sondern ins Bett. Das ist eine gut begründete Vorsichtsregel, keine harte Studienlage – aber sie kostet nichts."
+        }
+      ]
+    },
+    {
+      "type": "section",
+      "heading": "Tragen und Fahren",
+      "blocks": [
+        {
+          "type": "evidence",
+          "level": "moderat",
+          "claim": "Beim Tragen sollten die Beine des Kindes angehockt und leicht gespreizt sein, die Knie etwas höher als der Po. Diese Haltung unterstützt die Reifung des Hüftgelenks, das Tragen mit hängenden Beinen kann sie beeinträchtigen.",
+          "note": "Orthopädische Fachgesellschaften und das International Hip Dysplasia Institute empfehlen deshalb Tragehilfen, deren Steg bis zu den Kniekehlen reicht und in der Breite mitwächst. Für Tragetücher gilt dasselbe Prinzip. Praktisch heißt das: Der entscheidende Punkt ist nicht die Marke, sondern die Passform – und eine Trageberatung, die es vielerorts kostenlos oder günstig gibt, ist mehr wert als ein teures Modell.",
+          "sources": [3, 4]
+        },
+        {
+          "type": "p",
+          "text": "Ob ihr zusätzlich einen Kinderwagen braucht, hängt vom Alltag ab. In der Stadt mit kurzen Wegen und vielen Treppen tragen viele Familien fast ausschließlich; auf dem Land mit langen Spaziergängen ist der Wagen praktischer. Beides gleichzeitig neu zu kaufen, ist selten nötig. Kinderwagen sind über die Norm EN 1888 geregelt; ein gebrauchter Wagen mit funktionierender Bremse und intaktem Gurt ist unbedenklich."
+        }
+      ]
+    },
+    {
+      "type": "section",
+      "heading": "Was sich fast immer als überflüssig erweist",
+      "blocks": [
+        {
+          "type": "comparison",
+          "title": "Erfahrungswerte",
+          "columns": [
+            {
+              "title": "Wird selten bereut",
+              "tone": "good",
+              "items": [
+                "Viele Mullwindeln",
+                "Ein gut sitzendes Tragesystem",
+                "Ein Beistellbett",
+                "Kleidung, die sich vorn öffnen lässt",
+                "Ein zweites Set Bettwäsche für nachts um drei"
+              ]
+            },
+            {
+              "title": "Bleibt meist ungenutzt",
+              "tone": "bad",
+              "items": [
+                "Nestchen, Lagerungskissen, Schlafpositionierer – nicht nur unnötig, sondern abgeraten",
+                "Flaschenwärmer, Windeleimer mit Kassettensystem, Wischwasserwärmer",
+                "Neugeborenenkleidung in großer Menge – viele Kinder passen kaum hinein",
+                "Sensormatten und Atemüberwachung ohne medizinische Indikation",
+                "Spielbögen und Motorikspielzeug für die ersten Wochen",
+                "Wickeltasche in Sondergröße; ein Rucksack tut es auch"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "callout",
+          "variant": "tip",
+          "title": "Gebraucht ist meist die bessere Wahl",
+          "items": [
+            "Kleidung, Betten, Kinderwagen, Tragen und Möbel gebraucht zu kaufen, ist unproblematisch und spart erheblich",
+            "Nicht gebraucht: Autositze mit unbekannter Vorgeschichte, Matratzen mit Verformungen, Schnuller und Sauger",
+            "Wasch gebrauchte Textilien vor der ersten Nutzung – aber auch neue, wegen Ausrüstungsrückständen",
+            "Frag im Umfeld nach Leihgaben: Babyschalen, Waagen und Stillkissen werden oft nur wenige Monate gebraucht",
+            "Sozialkaufhäuser, Kleiderkammern und Elterninitiativen haben oft komplette Grundausstattungen"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "section",
+      "heading": "Wenn das Geld knapp ist",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "Eine Grundausstattung kostet auch sparsam zusammengestellt schnell mehrere hundert Euro. In Deutschland gibt es dafür zwei wesentliche Wege, und beide werden zu selten genutzt."
+        },
+        {
+          "type": "list",
+          "ordered": false,
+          "items": [
+            { "title": "Bundesstiftung Mutter und Kind:", "text": "Einmalige, nicht rückzahlbare Hilfe für Schwangere in einer finanziellen Notlage, unter anderem für die Erstausstattung. Der Antrag läuft über eine Schwangerschaftsberatungsstelle und muss vor der Geburt gestellt werden – das ist der Punkt, an dem es am häufigsten scheitert." },
+            { "title": "Erstausstattung nach dem SGB II:", "text": "Wer Bürgergeld bezieht, kann für Schwangerschaft und Geburt eine einmalige Leistung beantragen, die nicht im Regelsatz enthalten ist – üblicherweise für Umstandskleidung, Babykleidung, Kinderwagen, Bett und Wickelmöglichkeit. Der Antrag muss vor dem Kauf gestellt werden. Für Menschen in der Sozialhilfe gilt eine entsprechende Regelung." },
+            { "title": "Beratung:", "text": "Schwangerschaftsberatungsstellen (pro familia, Caritas, Diakonie, donum vitae, SkF) beraten kostenfrei und helfen beim Ausfüllen. Sie kennen zusätzlich regionale Töpfe und Kleiderkammern." },
+            { "title": "Frühe Hilfen:", "text": "Über die Frühen Hilfen und das Portal elternsein.info findest du aufsuchende Unterstützung, wenn zur finanziellen Lage weitere Belastungen kommen." }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "section",
+      "heading": "Häufige Fragen",
+      "blocks": [
+        {
+          "type": "faq",
+          "items": [
+            {
+              "q": "Wie viel Kleidung brauchen wir wirklich?",
+              "a": "Für die ersten Wochen reichen etwa sechs Bodys und sechs Strampler pro Größe, dazu ein bis zwei Jäckchen. Neugeborene spucken und lecken aus, deshalb ist Wechselkleidung wichtiger als Vielfalt. Kauf wenig in Größe 50 – viele Kinder tragen sie nur Tage, manche nie."
+            },
+            {
+              "q": "Brauchen wir eine Wickelkommode?",
+              "a": "Nein. Eine rutschfeste Wickelauflage auf einer stabilen, hüfthohen Fläche tut es genauso. Wichtiger als das Möbelstück ist die Regel dahinter: Ab dem ersten Tag nie loslassen und alles Nötige in Reichweite legen, bevor du anfängst. Stürze vom Wickeltisch gehören zu den häufigsten Unfällen im ersten Jahr."
+            },
+            {
+              "q": "Ist ein Babyphone notwendig?",
+              "a": "In einer normalen Wohnung meist nicht, solange das Kind ohnehin im Elternschlafzimmer schläft. Modelle mit Atem- oder Bewegungssensor sind ausdrücklich keine Vorsorge gegen den plötzlichen Kindstod – dafür gibt es keinen Beleg, und Fehlalarme sind häufig."
+            },
+            {
+              "q": "Können wir einen gebrauchten Autositz nehmen?",
+              "a": "Nur, wenn du die Vorgeschichte sicher kennst: kein Unfall, keine unsachgemäße Lagerung, Anleitung vorhanden, Norm UN R129. Kunststoff altert, und Schäden nach einem Aufprall sind von außen oft nicht sichtbar. Bei einem Sitz vom Flohmarkt ist der Preisvorteil das Risiko nicht wert."
+            },
+            {
+              "q": "Wann sollten wir alles besorgt haben?",
+              "a": "Schlafplatz, Autositz und ein Satz Kleidung sollten ab etwa der 34. Woche bereitstehen, weil Kinder auch früher kommen. Alles andere darf offen bleiben. Wenn das Kind unerwartet früh da ist, gibt es nichts, was sich nicht innerhalb weniger Tage nachholen ließe."
+            },
+            {
+              "q": "Was schenken wir Verwandten, die unbedingt etwas kaufen wollen?",
+              "a": "Praktische Vorschläge helfen beiden Seiten: Windeln in größeren Größen, ein Gutschein für eine Trageberatung, Beteiligung am Autositz, eine Reinigungshilfe oder gekochtes Essen für die ersten Wochen. Das ist deutlich nützlicher als das dritte Kuscheltier – und für Großeltern oft eine willkommene Idee."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "callout",
+      "variant": "info",
+      "title": "Kurz gesagt",
+      "text": "Zwei Anschaffungen verdienen Sorgfalt: der Schlafplatz und der Autositz. Beim Rest reicht wenig, vieles geht gebraucht, und fast alles lässt sich nachkaufen. Wenn das Geld knapp ist, geh vor der Geburt in eine Schwangerschaftsberatung – die Fristen sind der häufigste Grund, warum Hilfen nicht ankommen."
+    }
+  ],
+  "sources": [
+    {
+      "title": "S1-Leitlinie: Prävention des plötzlichen Säuglingstods",
+      "publisher": "AWMF / Deutsche Gesellschaft für Schlafforschung und Schlafmedizin",
+      "year": "2022",
+      "kind": "Leitlinie",
+      "url": "https://register.awmf.org/de/leitlinien/detail/063-002"
+    },
+    {
+      "title": "Sicherer Babyschlaf – Elterninformation",
+      "publisher": "Bundeszentrale für gesundheitliche Aufklärung (BZgA), kindergesundheit-info.de",
+      "year": "2024",
+      "kind": "Institutionelle Information",
+      "url": "https://www.kindergesundheit-info.de/themen/schlafen/"
+    },
+    {
+      "title": "Kindersitz-Normen: i-Size (UN R129) und ECE R44",
+      "publisher": "ADAC",
+      "year": "2025",
+      "kind": "Institutionelle Information",
+      "url": "https://www.adac.de/rund-ums-fahrzeug/ausstattung-technik-zubehoer/kindersitze/kindersitzberater/kindersitz-normen/"
+    },
+    {
+      "title": "Anhock-Spreizstellung beim Tragen fördert gesunde Entwicklung der Babyhüfte",
+      "publisher": "Deutsche Gesellschaft für Orthopädie und Unfallchirurgie (DGOU)",
+      "year": "2022",
+      "kind": "Empfehlung",
+      "url": "https://dgou.de/news/news/detailansicht/artikel/anhock-spreizstellung-beim-tragen-foerdert-gesunde-entwicklung-der-babyhuefte"
+    },
+    {
+      "title": "Baby Wearing – Hip-Healthy Positioning",
+      "publisher": "International Hip Dysplasia Institute",
+      "year": "2024",
+      "kind": "Institutionelle Information",
+      "url": "https://hipdysplasia.org/baby-wearing/"
+    },
+    {
+      "title": "Hilfen für Schwangere in Notlagen",
+      "publisher": "Bundesstiftung Mutter und Kind – Schutz des ungeborenen Lebens",
+      "year": "2025",
+      "kind": "Institutionelle Information",
+      "url": "https://www.bundesstiftung-mutter-und-kind.de/"
+    },
+    {
+      "title": "Einmalige Leistungen für Erstausstattung bei Schwangerschaft und Geburt (§ 24 Abs. 3 SGB II)",
+      "publisher": "Bundesagentur für Arbeit / Jobcenter",
+      "year": "2025",
+      "kind": "Institutionelle Information"
+    }
+  ],
+  "related": ["sicherer-schlaf", "geburt-vorbereiten", "autositz-und-unterwegs", "tragen-und-koerperkontakt"]
+}

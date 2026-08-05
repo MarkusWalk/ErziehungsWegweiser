@@ -1,0 +1,283 @@
+{
+  "slug": "vitamin-d-und-nahrungsergaenzung",
+  "title": "Vitamin D, Jod und Co.",
+  "subtitle": "Vier Dinge werden im Säuglingsalter in Deutschland tatsächlich ergänzt – und eine lange Liste weiterer Präparate braucht dein Kind nicht.",
+  "phases": ["neugeborenes", "saeugling", "kleinkind"],
+  "topics": ["ernaehrung", "gesundheit"],
+  "updated": "2026-08-05",
+  "summary": "Im ersten Lebensjahr sind in Deutschland genau vier Ergänzungen vorgesehen: Vitamin K direkt nach der Geburt und bei den ersten Vorsorgeuntersuchungen, Vitamin D zur Rachitisprophylaxe, Fluorid zur Kariesvorbeugung – und für stillende Frauen Jod. Alles davon wird von der Kinderarztpraxis verordnet und dort auch dosiert. Alles andere, was als Nahrungsergänzung für Babys verkauft wird, ist im Regelfall überflüssig und kann bei Überdosierung schaden. Das gilt unabhängig davon, ob dein Kind gestillt wird oder die Flasche bekommt.",
+  "keyFacts": [
+    "Vier Ergänzungen sind vorgesehen: Vitamin K, Vitamin D, Fluorid – und Jod für die stillende Person.",
+    "Alle gelten gleichermaßen für gestillte und mit Säuglingsmilchnahrung ernährte Kinder.",
+    "Die konkrete Dosis und das Präparat legt die Kinderarztpraxis fest, nicht die Drogerie.",
+    "Vitamin D ist bei Säuglingen schnell überdosiert – niemals mehrere Präparate parallel geben.",
+    "Multivitaminpräparate, Omega-3-Tropfen und Immun-Booster für Babys sind nicht empfohlen."
+  ],
+  "blocks": [
+    {
+      "type": "p",
+      "lead": true,
+      "text": "Kaum ein Regal ist so voll wie das mit Nahrungsergänzung für Kinder, und kaum eine Empfehlungslage ist so knapp. In Deutschland ist für gesunde, reif geborene Säuglinge eine sehr kurze Liste vorgesehen – und sie ist deshalb kurz, weil die Präparate darauf einen belegten Zweck erfüllen. Der Rest ist Markt."
+    },
+    {
+      "type": "callout",
+      "variant": "danger",
+      "title": "Nicht auf eigene Faust dosieren",
+      "text": "Vitamin D lässt sich bei Säuglingen schnell überdosieren. Die Arzneimittelkommission der deutschen Ärzteschaft hat 2025 ausdrücklich davor gewarnt – Auslöser waren unter anderem hoch dosierte Tropfenpräparate und die gleichzeitige Gabe mehrerer Produkte. **Gib niemals zwei Vitamin-D-haltige Präparate parallel**, und wechsle nicht eigenmächtig zwischen Tropfen und Tabletten, weil sich der Gehalt pro Einheit unterscheidet. Anhaltendes Erbrechen, auffällige Trinkschwäche, Verstopfung oder Teilnahmslosigkeit nach Beginn einer Supplementierung gehören noch am selben Tag ärztlich abgeklärt."
+    },
+    {
+      "type": "section",
+      "heading": "Die kurze Liste",
+      "blocks": [
+        {
+          "type": "table",
+          "title": "Was in Deutschland im ersten Lebensjahr ergänzt wird",
+          "head": ["Was", "Wofür", "Wer bekommt es"],
+          "rows": [
+            ["Vitamin K", "Vorbeugung von Vitamin-K-Mangelblutungen, die im Gehirn lebensbedrohlich verlaufen können", "Alle Neugeborenen, dreimal oral: bei U1, U2 und U3"],
+            ["Vitamin D", "Vorbeugung der Rachitis, also einer Störung der Knochenmineralisierung", "Alle Säuglinge, täglich ab den ersten Lebenswochen bis in das zweite Lebensjahr hinein"],
+            ["Fluorid", "Kariesvorbeugung an den Milchzähnen", "Alle Säuglinge und Kleinkinder – entweder als Tablette oder über fluoridhaltige Zahnpasta, nie beides"],
+            ["Jod", "Versorgung des Kindes über die Muttermilch", "Stillende Frauen, zusätzlich zur Verwendung von jodiertem Speisesalz"]
+          ],
+          "caption": "Zusammenstellung nach den Handlungsempfehlungen des Netzwerks Gesund ins Leben, den Empfehlungen der DGKJ zur Vitamin-K-Prophylaxe und der gemeinsamen Fluoridempfehlung der pädiatrischen und zahnmedizinischen Fachgesellschaften."
+        },
+        {
+          "type": "callout",
+          "variant": "tip",
+          "title": "Der einfachste Weg durch das Thema",
+          "text": "Frag bei der U2 oder U3 nach einem Rezept und lass dir aufschreiben, welches Präparat, wie viel davon, wie lange. Die Kinderarztpraxis entscheidet das anhand von Geburtszeitpunkt, Reifegrad und Zahndurchbruch. Wenn dir jemand anderes – Drogerie, Ratgeber, Verwandtschaft – etwas anderes empfiehlt, gilt der Zettel aus der Praxis."
+        }
+      ]
+    },
+    {
+      "type": "section",
+      "heading": "Vitamin K: drei Termine, dann erledigt",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "Neugeborene kommen mit sehr geringen Vitamin-K-Reserven zur Welt, und Muttermilch enthält davon wenig. Ohne Prophylaxe kann es zu Vitamin-K-Mangelblutungen kommen – selten, aber in der späten Form häufig als Hirnblutung und dann mit bleibenden Schäden oder tödlich. Deshalb wird Vitamin K in Deutschland routinemäßig gegeben, und zwar an drei Terminen, die ohnehin stattfinden: bei der U1 direkt nach der Geburt, bei der U2 am vierten bis sechsten Lebenstag und bei der U3 in der vierten bis sechsten Lebenswoche."
+        },
+        {
+          "type": "evidence",
+          "level": "stark",
+          "claim": "Die dreimalige orale Vitamin-K-Gabe bei U1, U2 und U3 senkt das Risiko für Vitamin-K-Mangelblutungen deutlich.",
+          "note": "Die Ernährungskommission der Deutschen Gesellschaft für Kinder- und Jugendmedizin nennt für reif geborene, gesunde Neugeborene dreimal 2 mg oral als Standard. Diese Zahl steht hier als Angabe aus der Empfehlung, nicht als Anweisung – verabreicht wird sie in der Praxis oder Klinik. Wichtig für den Alltag: Wenn eine Untersuchung verschoben wird, sag aktiv, dass die Vitamin-K-Gabe noch aussteht. Bei Frühgeborenen oder Kindern mit Leber- oder Darmerkrankungen gilt ein abweichendes Vorgehen.",
+          "sources": [1]
+        }
+      ]
+    },
+    {
+      "type": "section",
+      "heading": "Vitamin D: das einzige Präparat für zu Hause",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "Vitamin D entsteht im Wesentlichen in der Haut unter UV-B-Strahlung. Genau die soll ein Säugling aber nicht abbekommen: Direkte Sonne ist im ersten Lebensjahr zu meiden, und in Mitteleuropa reicht die Sonnenstrahlung im Winterhalbjahr ohnehin nicht aus. Über die Nahrung ist der Bedarf ebenfalls nicht zu decken – weder Muttermilch noch Säuglingsmilchnahrung enthalten genug. Deshalb gilt die Rachitisprophylaxe unabhängig von der Ernährungsform."
+        },
+        {
+          "type": "evidence",
+          "level": "stark",
+          "claim": "Eine tägliche Vitamin-D-Gabe im Säuglingsalter verhindert die Vitamin-D-Mangel-Rachitis. Die Empfehlung gilt für gestillte und mit Säuglingsmilchnahrung ernährte Kinder gleichermaßen.",
+          "note": "Die deutschen Handlungsempfehlungen nennen 400 bis 500 Internationale Einheiten täglich ab etwa der zweiten Lebenswoche, fortgeführt bis zum zweiten erlebten Frühsommer – ein Kind, das im Herbst geboren wird, bekommt sie also länger als ein im Frühjahr geborenes. Diese Angaben sind hier zitiert, nicht empfohlen: Was dein Kind konkret bekommt, verordnet die Kinderarztpraxis. Praktisch hilfreich ist, die Gabe an einen festen Punkt im Tagesablauf zu koppeln, etwa an die Morgenmahlzeit.",
+          "sources": [0, 3]
+        },
+        {
+          "type": "timeline",
+          "title": "Wann was gegeben wird",
+          "entries": [
+            { "age": "Erste Lebensstunden", "label": "Vitamin K bei der U1", "text": "Findet in der Klinik oder bei einer Hausgeburt durch die Hebamme statt. Du musst dich darum nicht kümmern, nur wissen, dass es geschehen ist." },
+            { "age": "4.–6. Lebenstag", "label": "Vitamin K bei der U2", "text": "Zweiter Termin, häufig noch in der Klinik oder bei der Nachsorge." },
+            { "age": "Ab 1.–2. Lebenswoche", "label": "Start Vitamin D", "text": "Die tägliche Rachitisprophylaxe beginnt. Präparat und Dosis kommen aus der Praxis; meist wird ein Kombinationspräparat mit Fluorid verordnet." },
+            { "age": "4.–6. Lebenswoche", "label": "Vitamin K bei der U3", "text": "Dritter und letzter Vitamin-K-Termin. Danach ist dieses Thema abgeschlossen." },
+            { "age": "Mit dem ersten Zahn", "label": "Fluorid wird neu entschieden", "text": "Ab jetzt gibt es zwei gleichwertige Wege – Tablette weiter oder Umstieg auf fluoridhaltige Zahnpasta. Besprich das beim nächsten Termin." },
+            { "age": "Bis zum zweiten Frühsommer", "label": "Ende der Vitamin-D-Gabe", "text": "Je nach Geburtsmonat etwa zwischen dem 12. und 18. Lebensmonat. Danach übernimmt bei üblichem Aufenthalt im Freien die Eigenbildung." }
+          ],
+          "caption": "Ablauf nach den Handlungsempfehlungen von Gesund ins Leben und den Empfehlungen der DGKJ. Bei Frühgeborenen weicht der Plan ab und wird individuell festgelegt."
+        }
+      ]
+    },
+    {
+      "type": "section",
+      "heading": "Fluorid: die Entscheidung mit dem ersten Zahn",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "Fluorid war lange ein Streitpunkt zwischen Kinder- und Zahnmedizin – die einen setzten auf Tabletten, die anderen auf Zahnpasta. Seit 2021 gibt es eine gemeinsame Empfehlung der beteiligten Fachgesellschaften, die 2024 in die Handlungsempfehlungen für das erste Lebensjahr eingearbeitet wurde. Ihr Kern: Bis zum ersten Zahn Tablette, ab dem ersten Zahn entscheidest du dich für einen von zwei Wegen."
+        },
+        {
+          "type": "comparison",
+          "title": "Ab dem Durchbruch des ersten Zahns – zwei gleichwertige Wege",
+          "columns": [
+            {
+              "title": "Weg A: Tablette weiter",
+              "tone": "neutral",
+              "items": [
+                "Kombinationspräparat mit Vitamin D und Fluorid wird weitergegeben",
+                "Zähne putzen ohne Zahnpasta oder mit fluoridfreier Zahnpasta",
+                "Praktisch, wenn das Zähneputzen noch nicht zuverlässig klappt"
+              ]
+            },
+            {
+              "title": "Weg B: Zahnpasta",
+              "tone": "neutral",
+              "items": [
+                "Nur noch ein Vitamin-D-Präparat ohne Fluorid",
+                "Zähneputzen mit fluoridhaltiger Kinderzahnpasta, laut Empfehlung mit 1.000 ppm Fluorid und in sehr kleiner Menge",
+                "Bringt den Wirkstoff direkt an den Zahn, wo er wirkt"
+              ]
+            },
+            {
+              "title": "Nicht kombinieren",
+              "tone": "bad",
+              "items": [
+                "Fluoridtablette und fluoridhaltige Zahnpasta gleichzeitig",
+                "Zusätzliche Fluoridprodukte ohne Absprache",
+                "Zahnpasta für Erwachsene bei kleinen Kindern"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "evidence",
+          "level": "stark",
+          "claim": "Fluorid senkt das Kariesrisiko an Milchzähnen. Beide von den Fachgesellschaften vorgesehenen Wege – Tablette oder fluoridhaltige Zahnpasta – gelten als wirksam; entscheidend ist, dass nur einer davon gewählt wird.",
+          "note": "Grundlage ist die gemeinsame Empfehlung zur Kariesprävention im Säuglings- und frühen Kindesalter, die 2021 in der Monatsschrift Kinderheilkunde veröffentlicht und in die nationalen Handlungsempfehlungen übernommen wurde. Die Wirksamkeit von Fluorid ist gut belegt; strittig war lange nur der Weg. Praktisch heißt das: Sprich beim ersten Zahn aktiv an, welchen Weg deine Familie geht, damit nicht versehentlich beides läuft.",
+          "sources": [4, 5]
+        }
+      ]
+    },
+    {
+      "type": "section",
+      "heading": "Jod, Eisen und was sonst diskutiert wird",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "Jod ist der Nährstoff, bei dem nicht das Kind, sondern die stillende Person ergänzt. Deutschland gilt weiterhin als Gebiet mit grenzwertiger Jodversorgung, und schon ein milder Mangel der Mutter wirkt sich auf das gestillte Kind aus – Jod wird für die Schilddrüsenhormone und damit für die geistige und körperliche Entwicklung gebraucht. Die nationalen Handlungsempfehlungen nennen für die Stillzeit zusätzlich zur Verwendung von Jodsalz eine tägliche Supplementierung von 100 Mikrogramm. Auch das gehört ärztlich besprochen, insbesondere bei bekannten Schilddrüsenerkrankungen."
+        },
+        {
+          "type": "evidence",
+          "level": "moderat",
+          "claim": "Für stillende Frauen wird in Deutschland eine tägliche Jodsupplementierung zusätzlich zu jodiertem Speisesalz empfohlen.",
+          "note": "Die Empfehlung stammt vom Netzwerk Gesund ins Leben und stützt sich auf die Versorgungslage in Deutschland, nicht auf randomisierte Studien mit harten Endpunkten. Bei vollständigem Verzicht auf Fisch und Milchprodukte – etwa bei veganer Ernährung – steigt das Risiko einer Unterversorgung, und die Menge sollte ärztlich abgewogen werden. Wer nicht stillt, braucht diese Supplementierung nicht.",
+          "sources": [6]
+        },
+        {
+          "type": "list",
+          "ordered": false,
+          "items": [
+            { "title": "Eisen:", "text": "Die Reserven aus der Schwangerschaft reichen etwa bis zur Mitte des ersten Lebensjahres. Danach wird der Bedarf über die Beikost gedeckt – deshalb enthalten die Empfehlungen einen fleisch- oder alternativ eisenreichen pflanzlichen Beikostanteil. Eisenpräparate sind nur bei nachgewiesenem Mangel und auf ärztliche Anordnung sinnvoll." },
+            { "title": "Vitamin B12:", "text": "Relevant, wenn sich die stillende Person vegan ernährt. Dann ist eine Supplementierung der Mutter und eine ärztliche Begleitung des Kindes ausdrücklich vorgesehen." },
+            { "title": "Probiotika und bestimmte Milchzucker-Zusätze in Säuglingsnahrung:", "text": "Das BfR bewertet den gesundheitlichen Nutzen dieser Zusätze weiterhin als wissenschaftlich nicht belegt. Sie schaden nach derzeitigem Kenntnisstand nicht, rechtfertigen aber keinen Aufpreis." },
+            { "title": "Multivitaminpräparate, Omega-3-Tropfen, Immunpräparate für Babys:", "text": "Für gesunde Säuglinge nicht empfohlen. Bei fettlöslichen Vitaminen besteht zusätzlich ein Überdosierungsrisiko." }
+          ]
+        },
+        {
+          "type": "callout",
+          "variant": "myth",
+          "title": "„Im Winter braucht mein Kind mehr Vitamin D“",
+          "text": "Die Prophylaxe im Säuglingsalter ist bewusst ganzjährig und gleichbleibend angelegt – gerade weil die Eigenbildung im Winterhalbjahr in unseren Breiten kaum stattfindet. Es gibt keinen Anlass, im Winter eigenmächtig zu erhöhen oder im Sommer auszusetzen. Wenn du unsicher bist, ob die Menge noch passt, klär das bei der nächsten U-Untersuchung, statt selbst nachzujustieren."
+        }
+      ]
+    },
+    {
+      "type": "section",
+      "heading": "Häufige Fragen",
+      "blocks": [
+        {
+          "type": "faq",
+          "items": [
+            {
+              "q": "Mein Kind bekommt Säuglingsmilchnahrung, in der schon Vitamin D drin ist. Brauche ich das Präparat trotzdem?",
+              "a": "Ja. Säuglingsmilchnahrung enthält Vitamin D, aber die Mengen, die ein Säugling darüber aufnimmt, liegen unter dem, was für die Rachitisprophylaxe vorgesehen ist. Die Empfehlung gilt deshalb ausdrücklich unabhängig von der Ernährungsform. Setz das Präparat nicht ohne Rücksprache ab."
+            },
+            {
+              "q": "Wir haben die Gabe ein paar Tage vergessen. Muss ich nachholen?",
+              "a": "Nein, nicht nachdosieren. Einfach am nächsten Tag normal weitermachen. Die Prophylaxe wirkt über die Dauer, nicht über einzelne Tage – und doppelte Gaben sind das eigentliche Risiko. Wenn ihr sie regelmäßig vergesst, hilft eine feste Kopplung an eine tägliche Routine."
+            },
+            {
+              "q": "Tropfen oder Tablette – was ist besser?",
+              "a": "Tabletten lassen sich zuverlässiger dosieren; bei Tropfen kann die Tropfengröße je nach Temperatur und Handhabung schwanken, worauf die Arzneimittelkommission ausdrücklich hingewiesen hat. Tabletten lassen sich in etwas Wasser oder Milch auflösen. Welches Präparat für euch passt, entscheidet die Praxis mit."
+            },
+            {
+              "q": "Sollte man den Vitamin-D-Spiegel im Blut messen lassen?",
+              "a": "Bei gesunden Säuglingen, die die vorgesehene Prophylaxe bekommen, ist eine Blutuntersuchung nicht routinemäßig vorgesehen. Sie kommt bei bestimmten Erkrankungen, Frühgeburtlichkeit oder klinischen Auffälligkeiten in Betracht – dann ordnet die Praxis sie an. Kommerzielle Selbsttests bringen für die Entscheidung nichts."
+            },
+            {
+              "q": "Was gilt bei Frühgeborenen?",
+              "a": "Für Frühgeborene gelten eigene Vorgaben – bei Vitamin K, bei Vitamin D und häufig auch bei Eisen. Das wird individuell in der Klinik oder in der Nachsorge festgelegt und weicht bewusst von den Angaben für reif geborene Kinder ab. Halte dich dort an den Plan, den ihr bekommen habt."
+            },
+            {
+              "q": "Ab wann braucht mein Kind gar nichts mehr?",
+              "a": "Vitamin K endet mit der U3. Vitamin D endet nach dem zweiten erlebten Frühsommer, also je nach Geburtsmonat etwa im Alter von einem bis anderthalb Jahren. Fluorid läuft in der einen oder anderen Form weiter, weil Kariesprophylaxe ein Dauerthema bleibt – ab dem Kleinkindalter in der Regel über die Zahnpasta."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "callout",
+      "variant": "info",
+      "title": "Kurz gesagt",
+      "text": "Vitamin K bei U1, U2 und U3. Vitamin D täglich bis zum zweiten Frühsommer. Fluorid – Tablette oder Zahnpasta, nie beides. Jod für die stillende Person. Alles andere im Regal darfst du stehen lassen. Die Dosis kommt aus der Kinderarztpraxis, nicht aus einem Ratgeber."
+    }
+  ],
+  "sources": [
+    {
+      "title": "Nährstoffsupplemente im 1. Lebensjahr – Handlungsempfehlungen Ernährung und Bewegung von Säuglingen und stillenden Frauen",
+      "publisher": "Netzwerk Gesund ins Leben / Bundeszentrum für Ernährung",
+      "year": "2024",
+      "kind": "Empfehlung",
+      "url": "https://www.gesund-ins-leben.de/fuer-fachkreise/bestens-unterstuetzt-durchs-1-lebensjahr/handlungsempfehlungen/beikost/naehrstoffsupplemente-im-1-lebensjahr/"
+    },
+    {
+      "title": "Vitamin-K-Prophylaxe bei Neugeborenen – Empfehlungen der Ernährungskommission der DGKJ",
+      "publisher": "Deutsche Gesellschaft für Kinder- und Jugendmedizin (DGKJ)",
+      "year": "2013",
+      "kind": "Empfehlung",
+      "url": "https://www.dgkj.de/fileadmin/user_upload/Stellungnahmen/1304_SN_VitK.pdf"
+    },
+    {
+      "title": "Vitamine und Co. – Nährstoffergänzung gezielt einsetzen",
+      "publisher": "Bundeszentrale für gesundheitliche Aufklärung (BZgA), kindergesundheit-info.de",
+      "year": "2024",
+      "kind": "Institutionelle Information",
+      "url": "https://www.kindergesundheit-info.de/themen/ernaehrung/0-12-monate/naehrstoffergaenzung/"
+    },
+    {
+      "title": "Ernährung und Bewegung von Säuglingen und stillenden Frauen 2024 – teilaktualisierte Handlungsempfehlungen",
+      "publisher": "Monatsschrift Kinderheilkunde",
+      "year": "2024",
+      "kind": "Empfehlung",
+      "url": "https://link.springer.com/article/10.1007/s00112-024-02014-7"
+    },
+    {
+      "title": "Kariesprävention im Säuglings- und frühen Kindesalter",
+      "publisher": "Monatsschrift Kinderheilkunde",
+      "year": "2021",
+      "kind": "Empfehlung",
+      "url": "https://link.springer.com/article/10.1007/s00112-021-01167-z"
+    },
+    {
+      "title": "Handlungsempfehlungen Kariesprävention",
+      "publisher": "Netzwerk Gesund ins Leben / Bundeszentrum für Ernährung",
+      "year": "2024",
+      "kind": "Empfehlung",
+      "url": "https://www.gesund-ins-leben.de/fuer-fachkreise/handlungsempfehlungen/kariespraevention/empfehlungen/"
+    },
+    {
+      "title": "Nährstoffsupplemente in der Stillzeit",
+      "publisher": "Netzwerk Gesund ins Leben / Bundeszentrum für Ernährung",
+      "year": "2024",
+      "kind": "Empfehlung",
+      "url": "https://www.gesund-ins-leben.de/fuer-fachkreise/bestens-unterstuetzt-durchs-1-lebensjahr/handlungsempfehlungen/empfehlungen-fuer-die-mutter/naehrstoffsupplemente-in-der-stillzeit/"
+    },
+    {
+      "title": "Vitamin D – bei Säuglingen schnell überdosiert",
+      "publisher": "Arzneiverordnung in der Praxis (AVP), Arzneimittelkommission der deutschen Ärzteschaft",
+      "year": "2025",
+      "kind": "Institutionelle Information",
+      "url": "https://www.akdae.de/fileadmin/user_upload/akdae/Arzneimitteltherapie/AVP/Artikel/2025-01/016.pdf"
+    }
+  ],
+  "related": ["stillen-start", "flasche-und-formula", "zahnen", "u-untersuchungen"]
+}

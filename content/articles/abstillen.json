@@ -1,0 +1,236 @@
+{
+  "slug": "abstillen",
+  "title": "Abstillen: wann und wie",
+  "subtitle": "Es gibt keinen richtigen Zeitpunkt – aber es gibt Wege, die für deinen Körper und für dein Kind deutlich leichter sind als andere.",
+  "phases": ["saeugling", "kleinkind"],
+  "topics": ["ernaehrung", "bindung"],
+  "updated": "2026-08-05",
+  "summary": "Abstillen ist eine Entscheidung, kein medizinischer Stichtag. Die Fachgesellschaften empfehlen Weiterstillen, solange beide Seiten es möchten – das kann drei Monate bedeuten oder drei Jahre. Was zählt, ist das Tempo: Wer schrittweise abstillt, eine Mahlzeit nach der anderen und mit einigen Tagen Abstand, vermeidet Milchstau und gibt dem Kind Zeit, den Trost woanders zu finden. Abruptes Abstillen ist schmerzhaft und sollte die Ausnahme bleiben. Dass der Abschied emotional schwerfällt, ist normal – und gilt für beide Seiten.",
+  "keyFacts": [
+    "Es gibt keinen von Fachgesellschaften gesetzten Endpunkt – WHO und AAP nennen zwei Jahre und darüber hinaus, solange beide es möchten.",
+    "Schrittweise abstillen: eine Mahlzeit ersetzen, dann einige Tage warten.",
+    "Die Brust nur so weit entleeren, dass der Spannungsschmerz nachlässt – nicht leer pumpen.",
+    "Die abendliche und die morgendliche Stillmahlzeit fallen meist zuletzt weg.",
+    "Fieber, Schüttelfrost und eine gerötete, schmerzende Brust gehören am selben Tag ärztlich abgeklärt."
+  ],
+  "blocks": [
+    {
+      "type": "p",
+      "lead": true,
+      "text": "Irgendwann kommt der Punkt, an dem eine von beiden Seiten nicht mehr will – oder nicht mehr kann. Manchmal ist es das Kind, das sich nach und nach abwendet. Häufiger ist es die stillende Person: Erschöpfung, Rückkehr in den Beruf, der Wunsch, den eigenen Körper zurückzubekommen, oder einfach das Gefühl, dass es genug war. Alle diese Gründe reichen. Abstillen braucht keine Rechtfertigung, aber es braucht einen Plan – vor allem für den Körper."
+    },
+    {
+      "type": "callout",
+      "variant": "warn",
+      "title": "Nicht abrupt abstillen, wenn es sich vermeiden lässt",
+      "text": "Von einem Tag auf den anderen aufzuhören führt fast immer zu prallen, schmerzenden Brüsten und erhöht das Risiko für Milchstau und Brustentzündung. Wenn es aus medizinischen Gründen schnell gehen muss, besprich das Vorgehen mit deiner Hebamme oder ärztlich – nicht allein durchhalten. **Sofort ärztlich abklären** solltest du: Fieber über 38,5 °C, Schüttelfrost, ausgeprägtes Krankheitsgefühl oder einen geröteten, überwärmten Brustbereich."
+    },
+    {
+      "type": "section",
+      "heading": "Der richtige Zeitpunkt existiert nicht",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "Die Frage nach dem Ende des Stillens wird oft so gestellt, als gäbe es eine Frist, ab der es unnötig oder ab der es zu viel wird. Beides ist so nicht belegt. Die Nationale Stillkommission in Deutschland macht Vorgaben zum Beginn der Beikost, nicht zum Ende der Stillzeit. Die WHO empfiehlt, neben der Beikost bis zwei Jahre und darüber hinaus weiterzustillen. Die amerikanische Kinderärztegesellschaft hat sich 2022 dieser Formulierung angeschlossen – mit dem entscheidenden Zusatz, dass es so lange gelten soll, wie beide Seiten es möchten."
+        },
+        {
+          "type": "evidence",
+          "level": "stark",
+          "claim": "Es gibt keine fachliche Empfehlung, das Stillen zu einem bestimmten Alter zu beenden. Empfohlen wird Weiterstillen neben der Beikost, solange Kind und stillende Person das wollen.",
+          "note": "WHO und die American Academy of Pediatrics formulieren das seit 2022 gleichlautend. Bemerkenswert ist die Verschiebung: Frühere Empfehlungen endeten mit dem ersten Geburtstag. Für dich heißt das praktisch, dass niemand – auch keine Kinderarztpraxis – einen sachlichen Grund hat, dich zu einem Termin zu drängen. Es heißt aber genauso wenig, dass du weiterstillen musst.",
+          "sources": [0, 1]
+        },
+        {
+          "type": "callout",
+          "variant": "myth",
+          "title": "„Nach dem ersten Jahr hat Muttermilch keinen Wert mehr“",
+          "text": "Das stimmt nicht. Muttermilch verändert ihre Zusammensetzung im Verlauf der Stillzeit, verliert aber weder Nährstoffe noch Abwehrstoffe. Im zweiten Lebensjahr ist sie allerdings nicht mehr die Hauptnahrungsquelle, sondern eine Ergänzung – und für viele Kinder vor allem ein Weg, sich zu beruhigen. Umgekehrt gilt genauso: Ein Kind, das mit acht Monaten abgestillt wird, verpasst nichts Entscheidendes."
+        }
+      ]
+    },
+    {
+      "type": "section",
+      "heading": "Schrittweise abstillen: der Fahrplan",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "Das Prinzip ist einfach: Eine Stillmahlzeit wird ersetzt, dann passiert einige Tage nichts. In dieser Zeit stellt sich die Milchbildung auf die geringere Nachfrage ein, und dein Kind gewöhnt sich an die neue Reihenfolge. Erst dann folgt die nächste. Wer sich daran hält, hat in der Regel weder Milchstau noch ein Kind, das den Verlust als Bruch erlebt."
+        },
+        {
+          "type": "timeline",
+          "title": "Ein typischer Ablauf über vier bis sechs Wochen",
+          "entries": [
+            { "age": "Woche 1", "label": "Die unwichtigste Mahlzeit ersetzen", "text": "Meist eine Mahlzeit mitten am Tag, an der dein Kind ohnehin wenig interessiert ist. Ersetzt wird je nach Alter durch Säuglingsmilchnahrung, ab dem ersten Geburtstag durch eine Mahlzeit vom Familientisch mit Getränk." },
+            { "age": "Woche 2", "label": "Zweite Mahlzeit", "text": "Wenn die Brust sich an die erste Reduktion gewöhnt hat und du keine Spannung mehr spürst, fällt die nächste weg. Zwischen den Schritten sollten mindestens drei bis fünf Tage liegen." },
+            { "age": "Woche 3–4", "label": "Weitere Tagesmahlzeiten", "text": "Jetzt merkt man den Rhythmuswechsel auch im Alltag. Hilfreich sind neue kleine Rituale genau in den Zeitfenstern, in denen sonst gestillt wurde – vorlesen, hinausgehen, gemeinsam essen." },
+            { "age": "Woche 4–6", "label": "Morgen- und Abendmahlzeit", "text": "Diese beiden fallen fast immer zuletzt, weil sie am stärksten mit Einschlafen und Ankommen verknüpft sind. Wenn möglich, lass die Abendmahlzeit ganz zum Schluss." },
+            { "age": "Danach", "label": "Nachlauf", "text": "Es ist normal, dass sich über Wochen noch etwas Milch gewinnen lässt. Wenn dabei allerdings Schmerzen, Knoten oder blutige Absonderungen auftreten, gehört das ärztlich angeschaut." }
+          ],
+          "caption": "Orientierung nach den Elterninformationen der BZgA: eine Mahlzeit ersetzen, dann einige Tage warten. Schneller geht es auch – langsamer ist für den Körper aber fast immer angenehmer."
+        },
+        {
+          "type": "evidence",
+          "level": "moderat",
+          "claim": "Allmähliches Abstillen senkt das Risiko für Milchstau und Brustentzündung, weil sich die Milchbildung mit der sinkenden Entleerung zurückbildet, ohne dass sich Milch staut.",
+          "note": "Das ergibt sich direkt aus dem Regelkreis der Milchbildung und ist Fachkonsens in den deutschen Elterninformationen sowie in der Leitlinie zu entzündlichen Brusterkrankungen in der Stillzeit. Randomisierte Studien zum Abstilltempo gibt es kaum – hier folgt die Empfehlung dem Mechanismus, nicht einer großen Datenbasis. Praktisch: Nicht leer pumpen, sondern nur so viel entleeren, bis der Spannungsschmerz nachlässt.",
+          "sources": [2, 5]
+        }
+      ]
+    },
+    {
+      "type": "section",
+      "heading": "Was dem Körper hilft",
+      "blocks": [
+        {
+          "type": "list",
+          "ordered": false,
+          "items": [
+            { "title": "Entlasten statt entleeren:", "text": "Wenn die Brust spannt, von Hand oder mit der Pumpe nur so viel gewinnen, dass der Druck nachlässt. Jede vollständige Entleerung ist eine neue Bestellung." },
+            { "title": "Kühlen:", "text": "Kühlpacks in ein Tuch gewickelt, mehrmals täglich für 15 bis 20 Minuten. Das lindert Spannungsschmerz und Schwellung. Wärme dagegen kurbelt den Milchfluss an und ist beim Abstillen meist kontraproduktiv." },
+            { "title": "Gut sitzender, nicht einschnürender BH:", "text": "Abbinden oder ein zu enger BH ist ein alter Rat, der heute nicht mehr gegeben wird – er begünstigt Milchstau." },
+            { "title": "Bewusst auf die Brust achten:", "text": "Ein- bis zweimal täglich abtasten. Harte, druckempfindliche Stellen früh erkennen und die betroffene Stelle in Richtung Brustwarze sanft ausstreichen." },
+            { "title": "Trinkmenge normal halten:", "text": "Weniger zu trinken verringert die Milchbildung nicht, macht dich aber müder und anfälliger für Kopfschmerzen." },
+            { "title": "Kräutertees und Hausmittel:", "text": "Salbei- oder Pfefferminztee werden traditionell empfohlen. Belastbare Studien dazu gibt es kaum; sie schaden in üblichen Mengen nicht, aber die Hauptarbeit macht das reduzierte Entleeren." }
+          ]
+        },
+        {
+          "type": "callout",
+          "variant": "info",
+          "title": "Medikamentöses Abstillen",
+          "text": "Es gibt verschreibungspflichtige Medikamente, die die Milchbildung hemmen. Sie kommen vor allem in Betracht, wenn direkt nach der Geburt gar nicht gestillt wird oder wenn medizinische Gründe ein schnelles Ende erzwingen. Weil sie Nebenwirkungen haben können, ist das immer eine ärztliche Abwägung und Verordnung – dieser Artikel nennt bewusst keine Wirkstoffe und keine Dosierungen. Bei einem geplanten, schrittweisen Abstillen nach Monaten des Stillens sind sie in aller Regel nicht nötig."
+        }
+      ]
+    },
+    {
+      "type": "section",
+      "heading": "Nachts abstillen, ohne alles aufzugeben",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "Viele Eltern wollen gar nicht komplett abstillen, sondern nur schlafen. Nächtliches Abstillen ist ein eigener Schritt und für viele Familien der entlastendste. Sinnvoll ist er, wenn dein Kind über den Tag ausreichend isst und trinkt – im ersten Lebenshalbjahr gehören nächtliche Mahlzeiten dagegen zur normalen Versorgung."
+        },
+        {
+          "type": "steps",
+          "title": "Nächtliches Abstillen behutsam angehen",
+          "items": [
+            { "title": "Vorher ankündigen", "text": "Auch jüngere Kleinkinder verstehen mehr, als man denkt. Ein einfacher, tagelang wiederholter Satz – dass die Brust nachts schläft und morgens wieder da ist – schafft Vorhersehbarkeit." },
+            { "title": "Ein Zeitfenster nach dem anderen", "text": "Beginne damit, in der ersten Nachthälfte nicht mehr zu stillen und später weiterhin. Danach das Fenster schrittweise ausdehnen." },
+            { "title": "Trost ersetzen, nicht streichen", "text": "Statt Stillen: auf den Arm nehmen, streicheln, singen, tragen. Das Ziel ist der Wegfall einer Methode, nicht der Wegfall von Nähe." },
+            { "title": "Wenn möglich, die zweite Bezugsperson übernehmen lassen", "text": "Für viele Kinder ist der Verzicht deutlich leichter, wenn nachts jemand anderes tröstet. Für einige Nächte ist das eine große Umstellung – danach meist nicht mehr." },
+            { "title": "Nicht in Umbruchphasen starten", "text": "Umzug, Kita-Eingewöhnung, Krankheit oder ein Geschwisterkind sind schlechte Zeitpunkte. Verschiebe lieber um ein paar Wochen." }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "section",
+      "heading": "Die emotionale Seite – für beide",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "Beim Abstillen sinken die Hormone, die während der Stillzeit hoch waren. Viele Frauen berichten in den Tagen und Wochen danach von einer gedrückten Stimmung, Reizbarkeit oder unerwarteter Traurigkeit – auch dann, wenn sie das Abstillen selbst wollten. Das ist keine Einbildung und kein Zeichen dafür, dass die Entscheidung falsch war. Es klingt in der Regel innerhalb weniger Wochen ab."
+        },
+        {
+          "type": "callout",
+          "variant": "tip",
+          "title": "Was durch die Übergangszeit hilft",
+          "items": [
+            "Langsam abstillen – die Stimmungsschwankungen fallen bei schrittweisem Vorgehen meist milder aus",
+            "Neue Nähe-Rituale bewusst etablieren: gemeinsames Kuscheln zur alten Stillzeit, tragen, vorlesen",
+            "Mit jemandem darüber sprechen, der es nicht kommentiert, sondern zuhört – Hebamme, Stillberatung, Freundin",
+            "Wenn die gedrückte Stimmung länger als zwei bis drei Wochen anhält, Freudlosigkeit oder Hoffnungslosigkeit dazukommen: ärztlich ansprechen. Eine postpartale Depression kann auch spät auftreten und ist gut behandelbar"
+          ]
+        },
+        {
+          "type": "p",
+          "text": "Beim Kind sieht der Übergang unterschiedlich aus. Manche verlieren das Interesse fast unbemerkt. Andere protestieren, greifen nach der Kleidung, werden anhänglicher oder wachen nachts wieder häufiger auf. Diese Reaktionen halten meist nur wenige Tage bis zwei Wochen an. Wichtig ist, dass die Nähe nicht mit weniger wird: Wer weniger stillt, muss mehr auf den Arm nehmen."
+        }
+      ]
+    },
+    {
+      "type": "section",
+      "heading": "Häufige Fragen",
+      "blocks": [
+        {
+          "type": "faq",
+          "items": [
+            {
+              "q": "Wie lange dauert es, bis die Milch ganz weg ist?",
+              "a": "Bei schrittweisem Abstillen bildet sich die Milch über einige Wochen zurück. Dass sich noch Monate später einzelne Tropfen gewinnen lassen, ist normal und kein Grund zur Sorge. Anhaltender, deutlicher Milchfluss ohne Stillen über viele Monate oder eine blutige Absonderung gehören dagegen ärztlich abgeklärt."
+            },
+            {
+              "q": "Mein Kind will einfach nicht aufhören. Muss ich es aushalten?",
+              "a": "Nein. Abstillen darf auch dann stattfinden, wenn dein Kind es nicht von sich aus möchte – es ist eine Entscheidung von zwei Beteiligten, und deine Grenzen zählen. Hilfreich ist, klare, gleichbleibende Regeln zu setzen (etwa: nur noch morgens und abends), statt jedes Mal neu zu verhandeln. Uneindeutigkeit ist für Kinder anstrengender als eine klare Grenze."
+            },
+            {
+              "q": "Ich muss wegen einer Behandlung schnell abstillen. Was tun?",
+              "a": "Erste Frage an die behandelnde Praxis sollte sein, ob wirklich abgestillt werden muss – viele Medikamente sind mit dem Stillen vereinbar, und es gibt spezialisierte Beratungsstellen für Arzneimittel in der Stillzeit, die Ärztinnen und Ärzte hinzuziehen können. Wenn es tatsächlich schnell gehen muss, plane Entlastung ein: kühlen, nur bis zur Schmerzgrenze entleeren, und ärztlich klären, ob ein Medikament sinnvoll ist."
+            },
+            {
+              "q": "Was gebe ich statt der Muttermilch?",
+              "a": "Vor dem ersten Geburtstag Säuglingsanfangsnahrung, dazu je nach Alter Beikost. Ab dem ersten Geburtstag reicht in der Regel Vollmilch als Getränk zu den Mahlzeiten plus Wasser; Folgemilch oder spezielle Kindermilch ist nicht erforderlich. Kuhmilch als Hauptgetränk gehört nicht ins erste Lebensjahr."
+            },
+            {
+              "q": "Kann ich einzelne Stillmahlzeiten behalten und den Rest weglassen?",
+              "a": "Ja, sehr gut sogar. Viele Familien stillen monatelang nur morgens oder nur abends weiter. Die Milchbildung passt sich an eine feste, reduzierte Anzahl von Mahlzeiten problemlos an. Das ist oft der Kompromiss, der Alltag und Bedürfnis zusammenbringt."
+            },
+            {
+              "q": "Schadet Abstillen der Bindung zu meinem Kind?",
+              "a": "Nein. Bindungssicherheit entsteht aus verlässlicher, feinfühliger Reaktion über den ganzen Tag – nicht aus einer bestimmten Ernährungsform. Was in der Übergangszeit zählt, ist, dass dein Kind spürt: Der Trost bleibt, nur der Weg dorthin ändert sich."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "callout",
+      "variant": "info",
+      "title": "Kurz gesagt",
+      "text": "Kein Stichtag, kein Muss – aber ein Tempo, das zählt. Eine Mahlzeit nach der anderen, einige Tage Pause dazwischen, kühlen statt leer pumpen, Morgen und Abend zuletzt. Und den Trost, der wegfällt, an anderer Stelle wieder auffüllen."
+    }
+  ],
+  "sources": [
+    {
+      "title": "Infant and young child feeding – Fact sheet",
+      "publisher": "World Health Organization",
+      "year": "2023",
+      "kind": "Empfehlung",
+      "url": "https://www.who.int/news-room/fact-sheets/detail/infant-and-young-child-feeding"
+    },
+    {
+      "title": "Policy Statement: Breastfeeding and the Use of Human Milk",
+      "publisher": "American Academy of Pediatrics, Pediatrics",
+      "year": "2022",
+      "kind": "Empfehlung",
+      "url": "https://publications.aap.org/pediatrics/article/150/1/e2022057988/188347/Policy-Statement-Breastfeeding-and-the-Use-of"
+    },
+    {
+      "title": "Abstillen",
+      "publisher": "Bundeszentrale für gesundheitliche Aufklärung (BZgA), kindergesundheit-info.de",
+      "year": "2024",
+      "kind": "Institutionelle Information",
+      "url": "https://www.kindergesundheit-info.de/themen/ernaehrung/stillen/abstillen/"
+    },
+    {
+      "title": "Nationale Stillkommission: Weiterhin 4 bis 6 Monate ausschließlich stillen",
+      "publisher": "Bundesinstitut für Risikobewertung (BfR), Nationale Stillkommission",
+      "year": "2022",
+      "kind": "Empfehlung",
+      "url": "https://www.bfr.bund.de/presseinformation/nationale-stillkommission-weiterhin-4-bis-6-monate-ausschliesslich-stillen/"
+    },
+    {
+      "title": "Ernährung und Bewegung von Säuglingen und stillenden Frauen – Handlungsempfehlungen",
+      "publisher": "Netzwerk Gesund ins Leben / Bundeszentrum für Ernährung",
+      "year": "2024",
+      "kind": "Empfehlung",
+      "url": "https://www.gesund-ins-leben.de/fuer-fachkreise/bestens-unterstuetzt-durchs-1-lebensjahr/handlungsempfehlungen/"
+    },
+    {
+      "title": "S3-Leitlinie Therapie entzündlicher Brusterkrankungen in der Stillzeit (AWMF 015/071)",
+      "publisher": "AWMF / Nationale Stillkommission",
+      "year": "2013",
+      "kind": "Leitlinie"
+    }
+  ],
+  "related": ["stillen-start", "flasche-und-formula", "beikost-einfuehren", "schlaf-4-12-monate"]
+}
