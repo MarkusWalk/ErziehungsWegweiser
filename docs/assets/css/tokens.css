@@ -1,0 +1,202 @@
+/* ============================================================
+   ERZIEHUNGSWEGWEISER — DESIGN TOKENS
+   ------------------------------------------------------------
+   STATUS: PLATZHALTER.
+   Die verbindliche Designrichtlinie wird nachgeliefert und
+   ersetzt die Werte in dieser Datei vollständig.
+
+   Diese Datei ist die EINZIGE Quelle für Farben, Typografie,
+   Abstände, Radien und Schatten. Alle übrigen Stylesheets und
+   der Generator greifen ausschließlich über diese Variablen zu.
+   Ein neues Design wird deshalb allein durch Belegen der unten
+   aufgeführten Token-Namen eingespielt – ohne Änderung an
+   base.css, components.css oder am Generator.
+
+   Erwartet werden von der Designrichtlinie:
+     · Farbpalette (Basis, Akzent, Semantik, Evidenz, 6 Phasen)
+     · Schriftfamilien + Größenskala + Zeilenhöhen
+     · Abstandsskala, Satzbreite, Layoutbreiten
+     · Radien, Rahmen, Schatten
+     · Bewegungskurven und -dauern
+     · Dark-Mode-Entsprechungen aller Farbwerte
+   ============================================================ */
+
+:root {
+  /* ---------- Farbe: Basis ---------- */
+  --c-bg:              #fbf7f2;
+  --c-bg-sunk:         #f4ede4;
+  --c-surface:         #ffffff;
+  --c-surface-alt:     #fdfaf6;
+  --c-ink:             #1e1b18;
+  --c-ink-soft:        #4a443d;
+  --c-ink-muted:       #7d746a;
+  --c-line:            #e3d9cc;
+  --c-line-strong:     #cdbfad;
+
+  /* ---------- Farbe: Akzent ---------- */
+  --c-accent:          #b4533a;
+  --c-accent-hover:    #97422d;
+  --c-accent-soft:     #f6e5df;
+  --c-accent-ink:      #ffffff;
+
+  --c-secondary:       #2f6b62;
+  --c-secondary-soft:  #dfeeea;
+
+  /* ---------- Farbe: Semantik ---------- */
+  --c-info:            #2c5d86;
+  --c-info-soft:       #e2edf6;
+  --c-tip:             #46703a;
+  --c-tip-soft:        #e5f0e0;
+  --c-warn:            #9a6712;
+  --c-warn-soft:       #fbeed5;
+  --c-danger:          #9d2b26;
+  --c-danger-soft:     #fae3e1;
+
+  /* ---------- Farbe: Evidenz-Ampel ---------- */
+  --c-ev-stark:        #46703a;
+  --c-ev-moderat:      #9a6712;
+  --c-ev-umstritten:   #8a5a8f;
+
+  /* ---------- Farbe: Altersphasen ---------- */
+  --c-phase-1:         #8a6fa8;
+  --c-phase-2:         #c4705a;
+  --c-phase-3:         #c8963e;
+  --c-phase-4:         #5b8c5a;
+  --c-phase-5:         #3d7f97;
+  --c-phase-6:         #6b6ba8;
+
+  /* ---------- Typografie ---------- */
+  --font-display: "Iowan Old Style", "Palatino Linotype", Palatino, "Book Antiqua", Georgia, serif;
+  --font-body:    ui-sans-serif, system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+  --font-mono:    ui-monospace, SFMono-Regular, "SF Mono", Menlo, Consolas, monospace;
+
+  --fs-xs:    0.78rem;
+  --fs-sm:    0.875rem;
+  --fs-base:  1.0625rem;
+  --fs-md:    1.1875rem;
+  --fs-lg:    1.375rem;
+  --fs-xl:    1.75rem;
+  --fs-2xl:   2.25rem;
+  --fs-3xl:   3rem;
+  --fs-4xl:   3.9rem;
+
+  --lh-tight: 1.15;
+  --lh-snug:  1.35;
+  --lh-body:  1.72;
+
+  --fw-normal: 400;
+  --fw-medium: 500;
+  --fw-semi:   600;
+  --fw-bold:   700;
+
+  --tracking-tight: -0.022em;
+  --tracking-wide:   0.08em;
+
+  /* ---------- Raum ---------- */
+  --sp-1:  0.25rem;
+  --sp-2:  0.5rem;
+  --sp-3:  0.75rem;
+  --sp-4:  1rem;
+  --sp-5:  1.5rem;
+  --sp-6:  2rem;
+  --sp-7:  3rem;
+  --sp-8:  4rem;
+  --sp-9:  6rem;
+  --sp-10: 8rem;
+
+  --measure:        68ch;
+  --width-content:  1180px;
+  --width-wide:     1440px;
+
+  /* ---------- Form ---------- */
+  --radius-sm:  6px;
+  --radius-md:  12px;
+  --radius-lg:  20px;
+  --radius-xl:  32px;
+  --radius-pill: 999px;
+
+  --border:        1px solid var(--c-line);
+  --border-strong: 1px solid var(--c-line-strong);
+
+  --shadow-sm: 0 1px 2px rgba(30, 27, 24, 0.05);
+  --shadow-md: 0 4px 16px rgba(30, 27, 24, 0.07);
+  --shadow-lg: 0 18px 48px rgba(30, 27, 24, 0.11);
+
+  /* ---------- Bewegung ---------- */
+  --ease:      cubic-bezier(0.4, 0, 0.2, 1);
+  --ease-out:  cubic-bezier(0.16, 1, 0.3, 1);
+  --dur-fast:  140ms;
+  --dur-base:  260ms;
+  --dur-slow:  520ms;
+
+  /* ---------- Ebenen ---------- */
+  --z-canvas:  0;
+  --z-base:    1;
+  --z-sticky:  50;
+  --z-header:  100;
+  --z-overlay: 200;
+  --z-modal:   300;
+}
+
+/* ============================================================
+   DARK MODE
+   ============================================================ */
+:root[data-theme="dark"] {
+  --c-bg:              #14120f;
+  --c-bg-sunk:         #0e0c0a;
+  --c-surface:         #1d1a16;
+  --c-surface-alt:     #232019;
+  --c-ink:             #f2ece3;
+  --c-ink-soft:        #c9c0b4;
+  --c-ink-muted:       #948a7d;
+  --c-line:            #332e27;
+  --c-line-strong:     #4a4339;
+
+  --c-accent:          #e08268;
+  --c-accent-hover:    #f0997f;
+  --c-accent-soft:     #3a241d;
+  --c-accent-ink:      #1a120e;
+
+  --c-secondary:       #6fbdb0;
+  --c-secondary-soft:  #1b312e;
+
+  --c-info:            #7fb3dd;
+  --c-info-soft:       #1a2a38;
+  --c-tip:             #93c286;
+  --c-tip-soft:        #1f2e1b;
+  --c-warn:            #dbaa54;
+  --c-warn-soft:       #362a13;
+  --c-danger:          #e08a83;
+  --c-danger-soft:     #38201e;
+
+  --c-ev-stark:        #93c286;
+  --c-ev-moderat:      #dbaa54;
+  --c-ev-umstritten:   #c095c5;
+
+  --c-phase-1:         #b39ccc;
+  --c-phase-2:         #e0977f;
+  --c-phase-3:         #e0b96a;
+  --c-phase-4:         #8bbb89;
+  --c-phase-5:         #6fadc4;
+  --c-phase-6:         #9a9ad4;
+
+  --shadow-sm: 0 1px 2px rgba(0, 0, 0, 0.4);
+  --shadow-md: 0 4px 16px rgba(0, 0, 0, 0.45);
+  --shadow-lg: 0 18px 48px rgba(0, 0, 0, 0.55);
+}
+
+/* ============================================================
+   LESEMODUS — immersives, ablenkungsfreies Lesen
+   ============================================================ */
+:root[data-reading="on"] {
+  --fs-base:  1.1875rem;
+  --fs-md:    1.3125rem;
+  --lh-body:  1.85;
+  --measure:  62ch;
+}
+
+/* ============================================================
+   SCHRIFTGRÖSSEN-SKALIERUNG (Nutzereinstellung)
+   ============================================================ */
+:root[data-textsize="l"]  { --fs-base: 1.1875rem; --fs-md: 1.3125rem; }
+:root[data-textsize="xl"] { --fs-base: 1.3125rem; --fs-md: 1.4375rem; --lh-body: 1.8; }

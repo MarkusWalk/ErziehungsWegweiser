@@ -1,0 +1,390 @@
+<!DOCTYPE html>
+<html lang="de" data-theme="auto">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>Erziehungswegweiser — Wissenschaftlich fundiert durch die ersten Jahre</title>
+<meta name="description" content="Ein Kompendium zu Schwangerschaft, Neugeborenen, Babys, Kleinkindern und Erziehung – aufbereitet für Eltern, gestützt auf Leitlinien und Forschung.">
+<meta name="color-scheme" content="light dark">
+<meta property="og:type" content="website">
+<meta property="og:title" content="Erziehungswegweiser — Wissenschaftlich fundiert durch die ersten Jahre">
+<meta property="og:description" content="Ein Kompendium zu Schwangerschaft, Neugeborenen, Babys, Kleinkindern und Erziehung – aufbereitet für Eltern, gestützt auf Leitlinien und Forschung.">
+<meta property="og:site_name" content="Erziehungswegweiser">
+<link rel="canonical" href="">
+<link rel="icon" href="./assets/img/favicon.svg" type="image/svg+xml">
+<link rel="stylesheet" href="./assets/css/tokens.css">
+<link rel="stylesheet" href="./assets/css/base.css">
+<link rel="stylesheet" href="./assets/css/components.css">
+<link rel="stylesheet" href="./assets/css/layout.css">
+<script>
+  /* Theme, Lesemodus und Schriftgröße vor dem ersten Paint setzen,
+     damit kein Aufblitzen des falschen Modus entsteht. */
+  (function () {
+    try {
+      var s = JSON.parse(localStorage.getItem('ew:prefs') || '{}');
+      var r = document.documentElement;
+      var theme = s.theme || 'auto';
+      if (theme === 'auto') {
+        theme = matchMedia('(prefers-color-scheme: dark)').matches ? 'dark' : 'light';
+      }
+      r.setAttribute('data-theme', theme);
+      if (s.reading) r.setAttribute('data-reading', 'on');
+      if (s.textsize) r.setAttribute('data-textsize', s.textsize);
+    } catch (e) {}
+  })();
+</script>
+
+</head>
+<body class="page page--home" data-root="./">
+<a class="skip-link" href="#inhalt">Zum Inhalt springen</a>
+
+
+<header class="site-header" data-header>
+  <div class="site-header__inner">
+    <a class="brand" href="./index.html">
+      <span class="brand__mark" aria-hidden="true"></span>
+      <span class="brand__text">
+        <span class="brand__name">Erziehungswegweiser</span>
+        <span class="brand__tagline">Wissenschaftlich fundiert durch die ersten Jahre</span>
+      </span>
+    </a>
+
+    <nav class="site-nav" aria-label="Hauptnavigation">
+      <ul class="site-nav__list">
+        <li><a class="site-nav__link" href="./alter/">Nach Alter</a></li><li><a class="site-nav__link" href="./themen/">Nach Thema</a></li><li><a class="site-nav__link" href="./artikel/">Alle Artikel</a></li><li><a class="site-nav__link" href="./notfall.html">Notfall</a></li><li><a class="site-nav__link" href="./ueber.html">Über</a></li>
+      </ul>
+    </nav>
+
+    <div class="site-header__actions">
+      <button class="icon-btn" type="button" data-open-search aria-label="Suche öffnen" title="Suchen (S)">
+        <svg class="icon " viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><circle cx="11" cy="11" r="7"/><path d="m20 20-3.5-3.5"/></svg>
+      </button>
+      <button class="icon-btn" type="button" data-open-settings aria-label="Darstellung und Einstellungen" title="Darstellung">
+        <svg class="icon " viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M4 8h10M18 8h2M4 16h4M12 16h8"/><circle cx="16" cy="8" r="2"/><circle cx="10" cy="16" r="2"/></svg>
+      </button>
+      <button class="icon-btn icon-btn--menu" type="button" data-open-menu aria-label="Menü öffnen" aria-expanded="false">
+        <svg class="icon " viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M4 7h16M4 12h16M4 17h16"/></svg>
+      </button>
+    </div>
+  </div>
+  <div class="site-progress" data-progress aria-hidden="true"><span></span></div>
+</header>
+
+<main id="inhalt" class="main">
+
+<section class="hero">
+  <div class="hero__scene" data-scene="hero" aria-hidden="true"></div>
+  <div class="hero__inner">
+    <p class="hero__eyebrow">Kompendium für die ersten Jahre</p>
+    <h1 class="hero__title">Wissenschaftlich fundiert durch die ersten Jahre</h1>
+    <p class="hero__lead">Ein Kompendium zu Schwangerschaft, Neugeborenen, Babys, Kleinkindern und Erziehung – aufbereitet für Eltern, gestützt auf Leitlinien und Forschung.</p>
+    <div class="hero__actions">
+      <a class="btn btn--primary" href="alter/">Nach Alter einsteigen <svg class="icon " viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M5 12h14M13 6l6 6-6 6"/></svg></a>
+      <a class="btn btn--ghost" href="themen/">Themen durchstöbern</a>
+    </div>
+    <dl class="hero__stats">
+      <div><dt>Artikel</dt><dd>1</dd></div>
+      <div><dt>Themenfelder</dt><dd>15</dd></div>
+      <div><dt>Altersphasen</dt><dd>6</dd></div>
+      <div><dt>Quellen</dt><dd>5</dd></div>
+    </dl>
+  </div>
+</section>
+
+<section class="band band--personal" data-personal hidden>
+  <div class="wrap">
+    <h2 class="band__title">Für dein Kind gerade relevant</h2>
+    <p class="band__sub" data-personal-age></p>
+    <div class="card-grid" data-personal-results></div>
+  </div>
+</section>
+
+<section class="band">
+  <div class="wrap">
+    <header class="band__head">
+      <h2 class="band__title">Nach Alter</h2>
+      <p class="band__sub">Jede Phase bringt eigene Fragen mit. Steig dort ein, wo dein Kind gerade steht.</p>
+    </header>
+    <div class="phase-grid">
+      
+<a class="phase-card phase-card--phase-1" href="0alter/schwangerschaft.html">
+  <span class="phase-card__range">vor der Geburt</span>
+  <h3 class="phase-card__name">Schwangerschaft</h3>
+  <p class="phase-card__blurb">Vorbereitung, Gesundheit und die ersten Weichenstellungen für Bindung.</p>
+  <span class="phase-card__count">0 Artikel</span>
+</a>
+<a class="phase-card phase-card--phase-2" href="1alter/neugeborenes.html">
+  <span class="phase-card__range">0–3 Monate</span>
+  <h3 class="phase-card__name">Neugeborenes</h3>
+  <p class="phase-card__blurb">Ankommen, Regulation, Stillen und Schlafen – die intensivste Anpassungszeit.</p>
+  <span class="phase-card__count">1 Artikel</span>
+</a>
+<a class="phase-card phase-card--phase-3" href="2alter/saeugling.html">
+  <span class="phase-card__range">4–12 Monate</span>
+  <h3 class="phase-card__name">Säugling</h3>
+  <p class="phase-card__blurb">Beikost, Mobilität, Fremdeln und der Aufbau sicherer Bindung.</p>
+  <span class="phase-card__count">1 Artikel</span>
+</a>
+<a class="phase-card phase-card--phase-4" href="3alter/kleinkind.html">
+  <span class="phase-card__range">1–3 Jahre</span>
+  <h3 class="phase-card__name">Kleinkind</h3>
+  <p class="phase-card__blurb">Autonomie, Sprache, Gefühlsstürme und die Entdeckung des eigenen Willens.</p>
+  <span class="phase-card__count">0 Artikel</span>
+</a>
+<a class="phase-card phase-card--phase-5" href="4alter/kindergarten.html">
+  <span class="phase-card__range">3–6 Jahre</span>
+  <h3 class="phase-card__name">Kindergartenalter</h3>
+  <p class="phase-card__blurb">Freundschaften, Rollenspiel, Regeln verstehen und Selbstständigkeit.</p>
+  <span class="phase-card__count">0 Artikel</span>
+</a>
+<a class="phase-card phase-card--phase-6" href="5alter/schulkind.html">
+  <span class="phase-card__range">ab 6 Jahren</span>
+  <h3 class="phase-card__name">Schulkind</h3>
+  <p class="phase-card__blurb">Lernen, Leistung, Peers und wachsende Eigenverantwortung.</p>
+  <span class="phase-card__count">0 Artikel</span>
+</a>
+    </div>
+  </div>
+</section>
+
+<section class="band band--sunk">
+  <div class="wrap">
+    <header class="band__head">
+      <h2 class="band__title">Nach Thema</h2>
+      <p class="band__sub">Quer durch alle Altersstufen – von Bindung bis Bildschirmzeit.</p>
+    </header>
+    <div class="topic-grid">
+      
+<a class="topic-card" href="0themen/bindung.html" data-icon="heart">
+  <h3 class="topic-card__name">Bindung &amp; Beziehung</h3>
+  <p class="topic-card__blurb">Feinfühligkeit, Bindungstypen, Urvertrauen und die Beziehung als Fundament.</p>
+  <span class="topic-card__count">0</span>
+</a>
+<a class="topic-card" href="1themen/schlaf.html" data-icon="moon">
+  <h3 class="topic-card__name">Schlaf</h3>
+  <p class="topic-card__blurb">Schlafbedarf, Einschlafbegleitung, Aufwachen, sicheres Schlafen.</p>
+  <span class="topic-card__count">1</span>
+</a>
+<a class="topic-card" href="2themen/ernaehrung.html" data-icon="spoon">
+  <h3 class="topic-card__name">Ernährung</h3>
+  <p class="topic-card__blurb">Stillen, Flasche, Beikost, Familienkost und Essverhalten.</p>
+  <span class="topic-card__count">0</span>
+</a>
+<a class="topic-card" href="3themen/entwicklung.html" data-icon="growth">
+  <h3 class="topic-card__name">Entwicklung &amp; Meilensteine</h3>
+  <p class="topic-card__blurb">Motorik, Kognition, Wahrnehmung – was wann typischerweise passiert.</p>
+  <span class="topic-card__count">0</span>
+</a>
+<a class="topic-card" href="4themen/sprache.html" data-icon="speech">
+  <h3 class="topic-card__name">Sprache</h3>
+  <p class="topic-card__blurb">Spracherwerb, Mehrsprachigkeit, Vorlesen und Sprachförderung.</p>
+  <span class="topic-card__count">0</span>
+</a>
+<a class="topic-card" href="5themen/emotionen.html" data-icon="wave">
+  <h3 class="topic-card__name">Gefühle &amp; Regulation</h3>
+  <p class="topic-card__blurb">Wutanfälle, Co-Regulation, Frustrationstoleranz und Selbstberuhigung.</p>
+  <span class="topic-card__count">0</span>
+</a>
+<a class="topic-card" href="6themen/erziehung.html" data-icon="compass">
+  <h3 class="topic-card__name">Erziehung &amp; Grenzen</h3>
+  <p class="topic-card__blurb">Erziehungsstile, Regeln, Konsequenzen, Autonomie und Kooperation.</p>
+  <span class="topic-card__count">0</span>
+</a>
+<a class="topic-card" href="7themen/gesundheit.html" data-icon="shield">
+  <h3 class="topic-card__name">Gesundheit &amp; Vorsorge</h3>
+  <p class="topic-card__blurb">U-Untersuchungen, Impfungen, Fieber, Zahnen, wann zum Arzt.</p>
+  <span class="topic-card__count">1</span>
+</a>
+<a class="topic-card" href="8themen/spiel.html" data-icon="blocks">
+  <h3 class="topic-card__name">Spiel &amp; Lernen</h3>
+  <p class="topic-card__blurb">Freies Spiel, Spielzeug, Kreativität und wie Kinder wirklich lernen.</p>
+  <span class="topic-card__count">0</span>
+</a>
+<a class="topic-card" href="9themen/medien.html" data-icon="screen">
+  <h3 class="topic-card__name">Medien &amp; Digitales</h3>
+  <p class="topic-card__blurb">Bildschirmzeit, altersgerechte Inhalte, Vorbildfunktion.</p>
+  <span class="topic-card__count">0</span>
+</a>
+<a class="topic-card" href="10themen/familie.html" data-icon="home">
+  <h3 class="topic-card__name">Familie &amp; Alltag</h3>
+  <p class="topic-card__blurb">Geschwister, Partnerschaft, Rituale, Vereinbarkeit, Alleinerziehende.</p>
+  <span class="topic-card__count">0</span>
+</a>
+<a class="topic-card" href="11themen/eltern.html" data-icon="cup">
+  <h3 class="topic-card__name">Eltern-Wohlbefinden</h3>
+  <p class="topic-card__blurb">Erschöpfung, mentale Last, postpartale Depression, Selbstfürsorge.</p>
+  <span class="topic-card__count">0</span>
+</a>
+<a class="topic-card" href="12themen/betreuung.html" data-icon="building">
+  <h3 class="topic-card__name">Betreuung &amp; Kita</h3>
+  <p class="topic-card__blurb">Eingewöhnung, Kitaqualität, Tagespflege, Trennungsschmerz.</p>
+  <span class="topic-card__count">0</span>
+</a>
+<a class="topic-card" href="13themen/sicherheit.html" data-icon="helmet">
+  <h3 class="topic-card__name">Sicherheit</h3>
+  <p class="topic-card__blurb">Unfallprävention, Erste Hilfe, sicheres Zuhause und unterwegs.</p>
+  <span class="topic-card__count">1</span>
+</a>
+<a class="topic-card" href="14themen/besondere-situationen.html" data-icon="path">
+  <h3 class="topic-card__name">Besondere Situationen</h3>
+  <p class="topic-card__blurb">Frühgeburt, chronische Erkrankung, Trennung, Trauer, Neurodivergenz.</p>
+  <span class="topic-card__count">0</span>
+</a>
+    </div>
+  </div>
+</section>
+
+<section class="band">
+  <div class="wrap">
+    <header class="band__head">
+      <h2 class="band__title">Zum Einstieg</h2>
+      <p class="band__sub">Artikel, die vielen Eltern früh weiterhelfen.</p>
+    </header>
+    <div class="card-grid">
+      
+<a class="card card--phase-2" href="artikel/sicherer-schlaf.html">
+  <span class="card__kicker">Neugeborenes</span>
+  <h3 class="card__title">Sicherer Schlaf im ersten Lebensjahr</h3>
+  <p class="card__text">Rückenlage, eigener Schlafplatz im Elternschlafzimmer, rauchfreie Umgebung, keine weichen Gegenstände im Bett und nicht zu warm – diese fünf Punkte …</p>
+  <span class="card__foot">4 Min.</span>
+</a>
+    </div>
+  </div>
+</section>
+
+<section class="band band--method">
+  <div class="wrap wrap--narrow">
+    <h2 class="band__title">Wie dieses Kompendium arbeitet</h2>
+    <div class="method-grid">
+      <div class="method">
+        <h3>Belegt statt behauptet</h3>
+        <p>Jede Aussage bekommt eine Einordnung: gut belegt, Hinweise vorhanden oder umstritten. Quellen stehen unter jedem Artikel.</p>
+      </div>
+      <div class="method">
+        <h3>Alltagstauglich</h3>
+        <p>Forschung wird übersetzt: was sie konkret für den Abend um 19 Uhr bedeutet, nicht was sie im Fachjournal heißt.</p>
+      </div>
+      <div class="method">
+        <h3>Ohne Schuldzuweisung</h3>
+        <p>Es gibt selten den einen richtigen Weg. Wir zeigen Spielräume statt Vorschriften.</p>
+      </div>
+    </div>
+    <p class="band__more"><a class="link-arrow" href="methodik.html">Methodik im Detail <svg class="icon " viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M5 12h14M13 6l6 6-6 6"/></svg></a></p>
+  </div>
+</section>
+</main>
+
+
+<footer class="site-footer">
+  <div class="site-footer__inner">
+    <div class="site-footer__brand">
+      <p class="site-footer__name">Erziehungswegweiser</p>
+      <p class="site-footer__claim">Ein Kompendium zu Schwangerschaft, Neugeborenen, Babys, Kleinkindern und Erziehung – aufbereitet für Eltern, gestützt auf Leitlinien und Forschung.</p>
+    </div>
+
+    <nav class="site-footer__nav" aria-label="Fußzeile">
+      <div>
+        <p class="site-footer__head">Einstieg</p>
+        <ul>
+          <li><a href="./alter/">Nach Alter</a></li>
+          <li><a href="./themen/">Nach Thema</a></li>
+          <li><a href="./artikel/">Alle Artikel</a></li>
+        </ul>
+      </div>
+      <div>
+        <p class="site-footer__head">Hintergrund</p>
+        <ul>
+          <li><a href="./ueber.html">Über das Projekt</a></li>
+          <li><a href="./methodik.html">Methodik &amp; Evidenz</a></li>
+          <li><a href="./quellen.html">Quellenverzeichnis</a></li>
+        </ul>
+      </div>
+      <div>
+        <p class="site-footer__head">Hilfe</p>
+        <ul>
+          <li><a href="./notfall.html">Notfall &amp; Hotlines</a></li>
+          <li><a href="./glossar.html">Glossar</a></li>
+        </ul>
+      </div>
+    </nav>
+  </div>
+
+  <div class="site-footer__legal">
+    <p class="disclaimer">
+      <strong>Wichtig:</strong> Dieses Kompendium ersetzt keine ärztliche, therapeutische
+      oder psychologische Beratung. Bei Sorgen um die Gesundheit oder Entwicklung
+      eines Kindes wende dich an die Kinderarztpraxis. In akuten Notfällen gilt der
+      Notruf <strong>112</strong>.
+    </p>
+  </div>
+</footer>
+
+
+<div class="overlay" data-search-overlay hidden>
+  <div class="overlay__backdrop" data-close-search></div>
+  <div class="overlay__panel search" role="dialog" aria-modal="true" aria-label="Suche">
+    <div class="search__field">
+      <svg class="icon " viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><circle cx="11" cy="11" r="7"/><path d="m20 20-3.5-3.5"/></svg>
+      <input type="search" class="search__input" data-search-input placeholder="Wonach suchst du? z. B. Schlaf, Trotzphase, Beikost" autocomplete="off" spellcheck="false">
+      <button class="icon-btn" type="button" data-close-search aria-label="Suche schließen"><svg class="icon " viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M6 6l12 12M18 6L6 18"/></svg></button>
+    </div>
+    <div class="search__filters" data-search-filters></div>
+    <div class="search__results" data-search-results>
+      <p class="search__hint">Tippe los – die Suche läuft vollständig in deinem Browser.</p>
+    </div>
+  </div>
+</div>
+
+<div class="overlay" data-settings-overlay hidden>
+  <div class="overlay__backdrop" data-close-settings></div>
+  <div class="overlay__panel settings" role="dialog" aria-modal="true" aria-label="Darstellung">
+    <div class="settings__head">
+      <h2>Darstellung</h2>
+      <button class="icon-btn" type="button" data-close-settings aria-label="Schließen"><svg class="icon " viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M6 6l12 12M18 6L6 18"/></svg></button>
+    </div>
+
+    <fieldset class="settings__group">
+      <legend>Farbmodus</legend>
+      <div class="segmented" data-pref="theme">
+        <button type="button" data-value="light">Hell</button>
+        <button type="button" data-value="auto">Automatisch</button>
+        <button type="button" data-value="dark">Dunkel</button>
+      </div>
+    </fieldset>
+
+    <fieldset class="settings__group">
+      <legend>Schriftgröße</legend>
+      <div class="segmented" data-pref="textsize">
+        <button type="button" data-value="m">Normal</button>
+        <button type="button" data-value="l">Groß</button>
+        <button type="button" data-value="xl">Sehr groß</button>
+      </div>
+    </fieldset>
+
+    <fieldset class="settings__group">
+      <legend>Lesemodus</legend>
+      <label class="switch">
+        <input type="checkbox" data-pref-toggle="reading">
+        <span class="switch__track" aria-hidden="true"></span>
+        <span class="switch__label">Immersiv lesen – Navigation und Beiwerk treten zurück</span>
+      </label>
+    </fieldset>
+
+    <fieldset class="settings__group">
+      <legend>Alter meines Kindes</legend>
+      <p class="settings__hint">Damit hebt die Seite passende Inhalte hervor. Die Angabe bleibt in deinem Browser.</p>
+      <label class="field">
+        <span>Geburtsdatum</span>
+        <input type="date" data-pref-birthdate>
+      </label>
+      <p class="settings__age" data-age-readout aria-live="polite"></p>
+      <button type="button" class="btn btn--quiet" data-clear-birthdate>Angabe löschen</button>
+    </fieldset>
+  </div>
+</div>
+
+<script src="./assets/js/app.js" defer></script>
+<script src="./assets/js/search.js" defer></script>
+
+</body>
+</html>

@@ -1,0 +1,70 @@
+{
+  "title": "Über dieses Kompendium",
+  "subtitle": "Was der Erziehungswegweiser sein will – und was ausdrücklich nicht.",
+  "blocks": [
+    {
+      "type": "p",
+      "lead": true,
+      "text": "Eltern werden heute nicht von zu wenig Information überrollt, sondern von zu viel. Jede Frage – Schlafen, Essen, Schreien, Grenzen – hat im Netz mindestens drei sich widersprechende Antworten, meist mit großer Sicherheit vorgetragen. Dieses Kompendium versucht das Gegenteil: sortieren statt behaupten."
+    },
+    {
+      "type": "section",
+      "heading": "Drei Grundsätze",
+      "blocks": [
+        {
+          "type": "steps",
+          "items": [
+            {
+              "title": "Belegt statt behauptet",
+              "text": "Aussagen bekommen eine sichtbare Einordnung: gut belegt, Hinweise vorhanden oder umstritten. Wo die Forschung uneins ist, steht das da – statt einer erfundenen Eindeutigkeit."
+            },
+            {
+              "title": "Übersetzt statt referiert",
+              "text": "Eine Studie über Emotionsregulation nützt niemandem um 19 Uhr im Flur. Wir schreiben, was Forschung konkret für den Alltag bedeutet, und wo sie schweigt."
+            },
+            {
+              "title": "Spielraum statt Vorschrift",
+              "text": "Es gibt selten den einen richtigen Weg. Wo mehrere Wege vertretbar sind, zeigen wir sie nebeneinander – mit ihren Kosten und Vorzügen, ohne moralische Note."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "section",
+      "heading": "Was hier nicht steht",
+      "blocks": [
+        {
+          "type": "list",
+          "items": [
+            "**Keine Diagnosen.** Dieses Kompendium kann Symptome einordnen helfen, aber nichts feststellen. Das bleibt bei Menschen, die dein Kind sehen.",
+            "**Keine Erziehungsideologie.** Weder „nur so geht Bindung“ noch „früher hat man das auch überlebt“.",
+            "**Keine Produktempfehlungen.** Es gibt keine Werbung, keine Kooperationen, keine Affiliate-Links.",
+            "**Keine Vollständigkeit.** Ein Kompendium wächst. Fehlende Themen sind meist noch nicht geschrieben, nicht bewusst ausgelassen."
+          ]
+        }
+      ]
+    },
+    {
+      "type": "section",
+      "heading": "Sprache",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "Wir schreiben „Eltern“ und meinen alle, die ein Kind großziehen – leiblich, adoptiert, in Pflege, zu zweit, allein, zu dritt. Wo im Text „Mutter“ steht, geht es um eine Rolle, die auch anders besetzt sein kann; wo es um körperliche Vorgänge wie Stillen oder Wochenbett geht, ist die gebärende Person gemeint."
+        },
+        {
+          "type": "p",
+          "text": "Wir duzen. Nicht aus Vertraulichkeit, sondern weil Ratschläge im Sie-Ton schnell wie Vorschriften klingen."
+        }
+      ]
+    },
+    {
+      "type": "callout",
+      "variant": "warn",
+      "title": "Wichtiger Hinweis",
+      "text": "Dieses Kompendium ersetzt keine ärztliche, therapeutische oder psychologische Beratung. Bei Sorgen um Gesundheit oder Entwicklung eines Kindes: Kinderarztpraxis. Bei akuter Gefahr: **112**. Siehe auch die [Notfallseite](notfall.html)."
+    }
+  ],
+  "sources": []
+}

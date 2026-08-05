@@ -1,0 +1,94 @@
+{
+  "title": "Methodik & Evidenz",
+  "subtitle": "Woher die Inhalte stammen, wie Quellen ausgewählt werden und was die Evidenz-Ampel bedeutet.",
+  "blocks": [
+    {
+      "type": "section",
+      "heading": "Die Evidenz-Ampel",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "Nicht jede Aussage über Kinder ist gleich gut belegt. „Rückenlage senkt das Risiko für plötzlichen Kindstod“ steht auf einem anderen Fundament als „Kinder brauchen feste Essenszeiten“. Damit dieser Unterschied sichtbar bleibt, bekommt jede zentrale Aussage eine Kennzeichnung."
+        },
+        {
+          "type": "evidence",
+          "level": "stark",
+          "claim": "Gut belegt: Die Aussage wird von medizinischen Leitlinien, systematischen Übersichtsarbeiten oder mehreren unabhängigen Studien mit übereinstimmendem Ergebnis getragen.",
+          "note": "Beispiel: Rückenlage zum Schlafen im ersten Lebensjahr."
+        },
+        {
+          "type": "evidence",
+          "level": "moderat",
+          "claim": "Hinweise vorhanden: Es gibt Studien oder breiten Fachkonsens, aber die Datenlage ist begrenzt – kleine Stichproben, Beobachtungsstudien oder Ergebnisse, die noch nicht repliziert wurden.",
+          "note": "Beispiel: Wirkung von Vorlesen auf den späteren Wortschatz."
+        },
+        {
+          "type": "evidence",
+          "level": "umstritten",
+          "claim": "Umstritten: Fachwelt und Studienlage kommen zu unterschiedlichen Ergebnissen, oder die Frage ist kulturell und weltanschaulich stark aufgeladen.",
+          "note": "Beispiel: Auswirkungen von Schlaflernprogrammen auf die Bindungssicherheit."
+        }
+      ]
+    },
+    {
+      "type": "section",
+      "heading": "Welche Quellen wir bevorzugen",
+      "blocks": [
+        {
+          "type": "list",
+          "ordered": true,
+          "items": [
+            "**Leitlinien** medizinischer Fachgesellschaften (AWMF, DGKJ, WHO, NICE, AAP) – sie fassen die Studienlage bereits bewertet zusammen.",
+            "**Systematische Übersichtsarbeiten und Metaanalysen**, insbesondere Cochrane Reviews.",
+            "**Positionspapiere und Empfehlungen** öffentlicher Institutionen (BZgA, RKI, STIKO, Netzwerk Gesunde Kinder, Nationales Zentrum Frühe Hilfen).",
+            "**Einzelstudien** nur, wenn sie methodisch stark sind oder eine Lücke schließen – und dann als solche gekennzeichnet.",
+            "**Fachbücher und etablierte Theorien** (z. B. Bindungsforschung) für Einordnung und Begriffe, nicht als Beleg für Wirksamkeit."
+          ]
+        },
+        {
+          "type": "callout",
+          "variant": "info",
+          "title": "Warum kaum Elternratgeber zitiert werden",
+          "text": "Ratgeberliteratur ist oft klug, aber selten belegt. Wo eine Idee aus einem Ratgeber stammt und keine Studienlage dahintersteht, kennzeichnen wir das als Erfahrungswissen – nicht als Evidenz."
+        }
+      ]
+    },
+    {
+      "type": "section",
+      "heading": "Grenzen dieser Aufbereitung",
+      "blocks": [
+        {
+          "type": "list",
+          "items": [
+            "**Forschung altert.** Jeder Artikel trägt ein Standdatum. Empfehlungen ändern sich, teils deutlich.",
+            "**Studien beschreiben Gruppen, nicht dein Kind.** Ein Durchschnittswert sagt wenig über das einzelne Kind vor dir.",
+            "**Kultur steckt in den Daten.** Ein Großteil der Entwicklungsforschung stammt aus westlichen Industrieländern. Was dort „normal“ heißt, ist nicht universell.",
+            "**Korrelation ist keine Ursache.** Viele Befunde zeigen Zusammenhänge, keine Wirkrichtung – wir versuchen, das offen zu benennen."
+          ]
+        }
+      ]
+    },
+    {
+      "type": "section",
+      "heading": "Wie die Artikel entstehen",
+      "blocks": [
+        {
+          "type": "steps",
+          "items": [
+            { "title": "Themenlandkarte", "text": "Themen werden entlang von Altersphasen und Themenfeldern strukturiert erfasst, damit keine großen Lücken bleiben." },
+            { "title": "Recherche", "text": "Zu jedem Thema werden Leitlinien, Übersichtsarbeiten und Empfehlungen öffentlicher Stellen zusammengetragen." },
+            { "title": "Aufbereitung", "text": "Der Inhalt wird in ein festes Blockformat gebracht – Zusammenfassung, Abschnitte, Evidenz-Einordnungen, Visualisierungen, Quellen." },
+            { "title": "Prüfung", "text": "Jeder Artikel wird gegen das Schema geprüft: Sind Quellen vorhanden? Sind Aussagen eingeordnet? Fehlen Sicherheitshinweise?" }
+          ]
+        },
+        {
+          "type": "callout",
+          "variant": "warn",
+          "title": "Transparenz",
+          "text": "Die Inhalte dieses Kompendiums werden KI-gestützt recherchiert und aufbereitet. Das beschleunigt die Arbeit, ersetzt aber keine fachärztliche Prüfung. Belege sind deshalb bei jedem Artikel angegeben – prüf im Zweifel die Originalquelle, und triff medizinische Entscheidungen mit deiner Kinderarztpraxis."
+        }
+      ]
+    }
+  ],
+  "sources": []
+}

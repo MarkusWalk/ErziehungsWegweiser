@@ -1,0 +1,246 @@
+{
+  "slug": "sicherer-schlaf",
+  "title": "Sicherer Schlaf im ersten Lebensjahr",
+  "subtitle": "Wie ein Schlafplatz aussehen sollte, damit das Risiko für den plötzlichen Kindstod so klein wie möglich bleibt – und welche Maßnahmen tatsächlich etwas bringen.",
+  "phases": ["neugeborenes", "saeugling"],
+  "topics": ["schlaf", "gesundheit", "sicherheit"],
+  "updated": "2026-08-05",
+  "featured": true,
+  "summary": "Rückenlage, eigener Schlafplatz im Elternschlafzimmer, rauchfreie Umgebung, keine weichen Gegenstände im Bett und nicht zu warm – diese fünf Punkte senken das Risiko für den plötzlichen Kindstod nachweislich und deutlich. Fast alles andere, was verkauft wird, tut es nicht.",
+  "keyFacts": [
+    "Rückenlage zum Schlafen, bei jedem Schlaf – auch tagsüber und bei anderen Betreuungspersonen.",
+    "Eigener Schlafplatz im Zimmer der Eltern, im ersten Jahr, am besten die ersten sechs Monate.",
+    "Schlafsack statt Decke, feste Matratze, nichts Weiches im Bett.",
+    "Rauchfrei – in der Schwangerschaft und danach.",
+    "Stillen und ein Schnuller zum Einschlafen senken das Risiko zusätzlich."
+  ],
+  "blocks": [
+    {
+      "type": "p",
+      "lead": true,
+      "text": "Der plötzliche Kindstod (SIDS) ist selten geworden – in Deutschland sterben heute rund 0,1 von 1.000 Säuglingen daran, ein Rückgang um über 90 Prozent seit den 1990er-Jahren. Dieser Rückgang ist kein Zufall: Er folgte auf Kampagnen, die eine einzige Sache verändert haben – die Schlafposition."
+    },
+    {
+      "type": "section",
+      "heading": "Die fünf Maßnahmen, die wirklich zählen",
+      "blocks": [
+        {
+          "type": "evidence",
+          "level": "stark",
+          "claim": "Säuglinge sollten zum Schlafen konsequent auf den Rücken gelegt werden. Bauchlage erhöht das SIDS-Risiko um ein Vielfaches, Seitenlage ist instabil und gilt ebenfalls als unsicher.",
+          "note": "Das ist die am besten belegte Einzelmaßnahme der gesamten Säuglingsmedizin. Sobald sich ein Kind selbstständig vom Rücken auf den Bauch und zurück drehen kann, muss es nicht zurückgedreht werden – hingelegt wird es weiterhin auf den Rücken.",
+          "sources": [0, 1]
+        },
+        {
+          "type": "evidence",
+          "level": "stark",
+          "claim": "Der eigene Schlafplatz im Schlafzimmer der Eltern – Beistellbett oder eigenes Bettchen – senkt das Risiko, verglichen mit einem eigenen Zimmer.",
+          "note": "Empfohlen wird das für mindestens die ersten sechs Monate, besser das erste Jahr. Nähe hilft, gemeinsames Bett ist damit aber nicht gemeint.",
+          "sources": [0, 2]
+        },
+        {
+          "type": "evidence",
+          "level": "stark",
+          "claim": "Rauchen in der Schwangerschaft und Rauchbelastung nach der Geburt sind der stärkste vermeidbare Risikofaktor nach der Schlafposition.",
+          "note": "Das gilt auch für Rauchen außerhalb der Wohnung: Rückstände an Kleidung und Haut spielen eine Rolle. Am wirksamsten ist ein tatsächlich rauchfreier Haushalt.",
+          "sources": [0, 1]
+        },
+        {
+          "type": "evidence",
+          "level": "stark",
+          "claim": "Stillen senkt das SIDS-Risiko, auch teilweises Stillen. Ein Schnuller beim Einschlafen ist ebenfalls mit einem geringeren Risiko verbunden.",
+          "note": "Der Schutzmechanismus ist nicht abschließend geklärt – diskutiert werden leichtere Weckbarkeit und offener gehaltene Atemwege. Wenn ein Kind den Schnuller ablehnt oder er im Schlaf herausfällt, muss man nichts erzwingen.",
+          "sources": [0, 3]
+        },
+        {
+          "type": "evidence",
+          "level": "moderat",
+          "claim": "Überwärmung erhöht das Risiko. Die Zimmertemperatur sollte bei etwa 16–18 °C liegen, Mütze und dicke Decken gehören nicht ins Bett.",
+          "note": "Die Datenlage ist schwächer als bei der Schlafposition, die Empfehlung aber breit getragen. Praktischer Test: Nacken des Kindes fühlt sich warm an, nicht schwitzig; kühle Hände und Füße sind normal.",
+          "sources": [0, 1]
+        }
+      ]
+    },
+    {
+      "type": "section",
+      "heading": "Wie der Schlafplatz aussehen sollte",
+      "blocks": [
+        {
+          "type": "checklist",
+          "id": "schlafplatz",
+          "title": "Checkliste Schlafplatz",
+          "items": [
+            "Feste, ebene Matratze, passgenau im Bettrahmen (kein Spalt, in den eine Hand passt)",
+            "Schlafsack in passender Größe statt Bettdecke",
+            "Keine Kissen, Kuscheltiere, Nestchen, Fellchen oder Lagerungshilfen im Bett",
+            "Keine Bänder, Kordeln oder Ketten in Reichweite",
+            "Kind schläft mit den Füßen am unteren Bettende (verhindert Herunterrutschen unter Textilien)",
+            "Zimmertemperatur um 16–18 °C, kein Heizstrahler direkt am Bett",
+            "Kein Rauchen in der Wohnung",
+            "Bett steht nicht in direkter Sonne und nicht direkt an der Heizung"
+          ]
+        },
+        {
+          "type": "callout",
+          "variant": "myth",
+          "title": "Nestchen, Schlafpositionierer und Sensormatten",
+          "text": "Alle drei werden für Sicherheit vermarktet, keines davon hat einen belegten Nutzen gegen SIDS. Nestchen und Positionierer gelten als **zusätzliches Risiko**, weil sie die Luftzirkulation behindern oder das Kind in eine ungünstige Lage bringen können. Sensormatten und Baby-Wearables erkennen keine SIDS-Fälle zuverlässig und können falsche Sicherheit erzeugen – die medizinischen Fachgesellschaften empfehlen sie nicht als Präventionsmaßnahme."
+        }
+      ]
+    },
+    {
+      "type": "section",
+      "heading": "Familienbett: was man dazu ehrlich sagen kann",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "Kaum ein Thema ist so aufgeladen. Ein Teil der Fachgesellschaften rät im ersten halben Jahr grundsätzlich vom gemeinsamen Bett ab, andere unterscheiden nach Risikofaktoren. Was sich aus der Datenlage sagen lässt, ist deutlicher als die Debatte vermuten lässt:"
+        },
+        {
+          "type": "comparison",
+          "title": "Gemeinsames Schlafen – Risikoeinschätzung",
+          "columns": [
+            {
+              "title": "Deutlich erhöhtes Risiko",
+              "tone": "bad",
+              "items": [
+                "Ein Elternteil raucht (auch wenn nur draußen)",
+                "Alkohol, Schlafmittel, Drogen oder starke Erschöpfung im Spiel",
+                "Kind unter 3 Monaten",
+                "Frühgeborene oder Kinder mit niedrigem Geburtsgewicht",
+                "Einschlafen mit dem Kind auf Sofa oder Sessel – das gilt als besonders gefährlich"
+              ]
+            },
+            {
+              "title": "Risiko geringer, aber nicht null",
+              "tone": "neutral",
+              "items": [
+                "Nichtrauchende, ausgeschlafene Eltern",
+                "Gestilltes Kind über 3 Monate",
+                "Feste Matratze, keine schwere Decke über dem Kind",
+                "Kein Haustier und keine anderen Kinder im Bett"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "callout",
+          "variant": "tip",
+          "title": "Der pragmatische Weg",
+          "text": "Viele Eltern schlafen irgendwann versehentlich mit dem Kind ein – das ist Realität, nicht Versagen. Deshalb: Wenn nachts gestillt oder getröstet wird, mach das lieber im Bett als auf dem Sofa, und richte das Bett vorher so ein, dass ein Einschlafen sicher wäre (Decke weg vom Kind, Kissen weg, Kind auf dem Rücken, nicht zwischen zwei Erwachsenen). Ein Beistellbett löst das Dilemma am elegantesten."
+        }
+      ]
+    },
+    {
+      "type": "section",
+      "heading": "Wie viel Schlaf ist normal?",
+      "blocks": [
+        {
+          "type": "figure",
+          "kind": "range",
+          "title": "Empfohlener Gesamtschlaf pro 24 Stunden",
+          "alt": "Balkendiagramm mit Schlafspannen nach Alter",
+          "min": 8,
+          "max": 19,
+          "ticks": [8, 10, 12, 14, 16, 18],
+          "data": [
+            { "label": "0–3 Monate", "from": 14, "to": 17, "display": "14–17 h" },
+            { "label": "4–11 Monate", "from": 12, "to": 16, "display": "12–16 h" },
+            { "label": "1–2 Jahre", "from": 11, "to": 14, "display": "11–14 h" },
+            { "label": "3–5 Jahre", "from": 10, "to": 13, "display": "10–13 h" }
+          ],
+          "caption": "Spannen inklusive Tagschlaf, nach Empfehlungen der WHO und der National Sleep Foundation. Die Bandbreite ist Absicht: Kinder am unteren und oberen Rand sind nicht auffällig, solange sie tagsüber ausgeglichen wirken.",
+          "sources": [4]
+        },
+        {
+          "type": "p",
+          "text": "Nächtliches Aufwachen ist im ersten Jahr keine Störung, sondern der Normalfall. Etwa ein Drittel der Einjährigen wacht nachts regelmäßig auf und braucht Hilfe beim Wiedereinschlafen – daran ist weder das Kind noch die Einschlafbegleitung schuld."
+        },
+        {
+          "type": "scene",
+          "preset": "schlafzyklus",
+          "title": "Schlafzyklen im Verlauf der Nacht",
+          "alt": "Animierte Wellenlinie, die den Wechsel zwischen leichtem und tiefem Schlaf über die Nacht zeigt",
+          "fallback": "Der Schlaf verläuft in Zyklen zwischen leichtem und tiefem Schlaf. Bei Säuglingen dauert ein Zyklus etwa 50 Minuten, beim Erwachsenen etwa 90. Am Ende jedes Zyklus liegt eine kurze Wachphase – deshalb wachen Babys häufiger auf.",
+          "options": { "cycles": 5 },
+          "caption": "Am Ende jedes Schlafzyklus liegt eine kurze Wachschwelle. Babys durchlaufen mehr Zyklen pro Nacht als Erwachsene und haben mehr Leichtschlafanteile – dass sie dabei häufiger ganz aufwachen, ist biologisch angelegt."
+        }
+      ]
+    },
+    {
+      "type": "section",
+      "heading": "Häufige Fragen",
+      "blocks": [
+        {
+          "type": "faq",
+          "items": [
+            {
+              "q": "Mein Kind dreht sich nachts selbst auf den Bauch – muss ich es zurückdrehen?",
+              "a": "Nein. Sobald ein Kind sich selbstständig in beide Richtungen dreht (meist ab 5–6 Monaten), darf es die Position finden, die es mag. Hingelegt wird es weiterhin auf den Rücken."
+            },
+            {
+              "q": "Ab wann darf ein Kuscheltier ins Bett?",
+              "a": "Fachgesellschaften empfehlen, das Bett im ersten Lebensjahr leer zu halten. Ab etwa 12 Monaten ist ein kleines, flaches Kuscheltier vertretbar – große Plüschtiere und Kissen weiterhin nicht."
+            },
+            {
+              "q": "Ist ein Babyphone mit Atemsensor sinnvoll?",
+              "a": "Als Beruhigung für die Eltern: manchmal. Als Sicherheitsmaßnahme: nein. Für keines der auf dem Markt erhältlichen Geräte ist belegt, dass es SIDS-Fälle verhindert. Fehlalarme sind häufig und können den Schlaf der ganzen Familie zusätzlich belasten."
+            },
+            {
+              "q": "Was ist mit Pucken?",
+              "a": "Pucken kann bei Neugeborenen beruhigen, muss aber korrekt gemacht werden: Hüfte beweglich, nicht zu warm, nie in Bauchlage, und spätestens beendet, sobald das Kind Drehversuche zeigt. Falsch gepuckt erhöht es das Risiko."
+            },
+            {
+              "q": "Gilt das alles auch für den Mittagsschlaf?",
+              "a": "Ja, uneingeschränkt – auch bei Großeltern, in der Tagespflege und im Kinderwagen. Ein großer Teil der SIDS-Fälle ereignet sich in Betreuungssituationen, in denen die Regeln nicht bekannt waren."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "callout",
+      "variant": "info",
+      "title": "Kurz gesagt",
+      "text": "Rücken, eigener Schlafplatz im Elternzimmer, Schlafsack, rauchfrei, nicht zu warm. Fünf Punkte, die zusammen den größten Teil des vermeidbaren Risikos abdecken – und die kein Gerät und kein Zubehör ersetzen kann."
+    }
+  ],
+  "sources": [
+    {
+      "title": "S1-Leitlinie: Prävention des plötzlichen Säuglingstods",
+      "publisher": "AWMF / Deutsche Gesellschaft für Schlafforschung und Schlafmedizin",
+      "year": "2022",
+      "kind": "Leitlinie",
+      "url": "https://register.awmf.org/de/leitlinien/detail/063-002"
+    },
+    {
+      "title": "Sleep-Related Infant Deaths: Updated 2022 Recommendations for Reducing Infant Deaths in the Sleep Environment",
+      "publisher": "American Academy of Pediatrics",
+      "year": "2022",
+      "kind": "Empfehlung",
+      "url": "https://publications.aap.org/pediatrics/article/150/1/e2022057990"
+    },
+    {
+      "title": "Sicherer Babyschlaf – Elterninformation",
+      "publisher": "Bundeszentrale für gesundheitliche Aufklärung (BZgA), kindergesundheit-info.de",
+      "year": "2024",
+      "kind": "Institutionelle Information",
+      "url": "https://www.kindergesundheit-info.de/themen/schlafen/"
+    },
+    {
+      "title": "Breastfeeding and Reduced Risk of Sudden Infant Death Syndrome: A Meta-analysis",
+      "publisher": "Pediatrics (Thompson et al.)",
+      "year": "2017",
+      "kind": "Metaanalyse",
+      "url": "https://publications.aap.org/pediatrics/article/140/5/e20171324"
+    },
+    {
+      "title": "Guidelines on physical activity, sedentary behaviour and sleep for children under 5 years of age",
+      "publisher": "World Health Organization",
+      "year": "2019",
+      "kind": "Leitlinie",
+      "url": "https://www.who.int/publications/i/item/9789241550536"
+    }
+  ],
+  "related": []
+}

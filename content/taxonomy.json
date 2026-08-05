@@ -1,0 +1,177 @@
+{
+  "site": {
+    "title": "Erziehungswegweiser",
+    "tagline": "Wissenschaftlich fundiert durch die ersten Jahre",
+    "description": "Ein Kompendium zu Schwangerschaft, Neugeborenen, Babys, Kleinkindern und Erziehung – aufbereitet für Eltern, gestützt auf Leitlinien und Forschung.",
+    "baseUrl": "",
+    "lang": "de"
+  },
+  "phases": [
+    {
+      "id": "schwangerschaft",
+      "name": "Schwangerschaft",
+      "range": "vor der Geburt",
+      "months": [-9, 0],
+      "color": "phase-1",
+      "icon": "seed",
+      "blurb": "Vorbereitung, Gesundheit und die ersten Weichenstellungen für Bindung."
+    },
+    {
+      "id": "neugeborenes",
+      "name": "Neugeborenes",
+      "range": "0–3 Monate",
+      "months": [0, 3],
+      "color": "phase-2",
+      "icon": "newborn",
+      "blurb": "Ankommen, Regulation, Stillen und Schlafen – die intensivste Anpassungszeit."
+    },
+    {
+      "id": "saeugling",
+      "name": "Säugling",
+      "range": "4–12 Monate",
+      "months": [4, 12],
+      "color": "phase-3",
+      "icon": "baby",
+      "blurb": "Beikost, Mobilität, Fremdeln und der Aufbau sicherer Bindung."
+    },
+    {
+      "id": "kleinkind",
+      "name": "Kleinkind",
+      "range": "1–3 Jahre",
+      "months": [12, 36],
+      "color": "phase-4",
+      "icon": "toddler",
+      "blurb": "Autonomie, Sprache, Gefühlsstürme und die Entdeckung des eigenen Willens."
+    },
+    {
+      "id": "kindergarten",
+      "name": "Kindergartenalter",
+      "range": "3–6 Jahre",
+      "months": [36, 72],
+      "color": "phase-5",
+      "icon": "child",
+      "blurb": "Freundschaften, Rollenspiel, Regeln verstehen und Selbstständigkeit."
+    },
+    {
+      "id": "schulkind",
+      "name": "Schulkind",
+      "range": "ab 6 Jahren",
+      "months": [72, 144],
+      "color": "phase-6",
+      "icon": "school",
+      "blurb": "Lernen, Leistung, Peers und wachsende Eigenverantwortung."
+    }
+  ],
+  "topics": [
+    {
+      "id": "bindung",
+      "name": "Bindung & Beziehung",
+      "icon": "heart",
+      "blurb": "Feinfühligkeit, Bindungstypen, Urvertrauen und die Beziehung als Fundament."
+    },
+    {
+      "id": "schlaf",
+      "name": "Schlaf",
+      "icon": "moon",
+      "blurb": "Schlafbedarf, Einschlafbegleitung, Aufwachen, sicheres Schlafen."
+    },
+    {
+      "id": "ernaehrung",
+      "name": "Ernährung",
+      "icon": "spoon",
+      "blurb": "Stillen, Flasche, Beikost, Familienkost und Essverhalten."
+    },
+    {
+      "id": "entwicklung",
+      "name": "Entwicklung & Meilensteine",
+      "icon": "growth",
+      "blurb": "Motorik, Kognition, Wahrnehmung – was wann typischerweise passiert."
+    },
+    {
+      "id": "sprache",
+      "name": "Sprache",
+      "icon": "speech",
+      "blurb": "Spracherwerb, Mehrsprachigkeit, Vorlesen und Sprachförderung."
+    },
+    {
+      "id": "emotionen",
+      "name": "Gefühle & Regulation",
+      "icon": "wave",
+      "blurb": "Wutanfälle, Co-Regulation, Frustrationstoleranz und Selbstberuhigung."
+    },
+    {
+      "id": "erziehung",
+      "name": "Erziehung & Grenzen",
+      "icon": "compass",
+      "blurb": "Erziehungsstile, Regeln, Konsequenzen, Autonomie und Kooperation."
+    },
+    {
+      "id": "gesundheit",
+      "name": "Gesundheit & Vorsorge",
+      "icon": "shield",
+      "blurb": "U-Untersuchungen, Impfungen, Fieber, Zahnen, wann zum Arzt."
+    },
+    {
+      "id": "spiel",
+      "name": "Spiel & Lernen",
+      "icon": "blocks",
+      "blurb": "Freies Spiel, Spielzeug, Kreativität und wie Kinder wirklich lernen."
+    },
+    {
+      "id": "medien",
+      "name": "Medien & Digitales",
+      "icon": "screen",
+      "blurb": "Bildschirmzeit, altersgerechte Inhalte, Vorbildfunktion."
+    },
+    {
+      "id": "familie",
+      "name": "Familie & Alltag",
+      "icon": "home",
+      "blurb": "Geschwister, Partnerschaft, Rituale, Vereinbarkeit, Alleinerziehende."
+    },
+    {
+      "id": "eltern",
+      "name": "Eltern-Wohlbefinden",
+      "icon": "cup",
+      "blurb": "Erschöpfung, mentale Last, postpartale Depression, Selbstfürsorge."
+    },
+    {
+      "id": "betreuung",
+      "name": "Betreuung & Kita",
+      "icon": "building",
+      "blurb": "Eingewöhnung, Kitaqualität, Tagespflege, Trennungsschmerz."
+    },
+    {
+      "id": "sicherheit",
+      "name": "Sicherheit",
+      "icon": "helmet",
+      "blurb": "Unfallprävention, Erste Hilfe, sicheres Zuhause und unterwegs."
+    },
+    {
+      "id": "besondere-situationen",
+      "name": "Besondere Situationen",
+      "icon": "path",
+      "blurb": "Frühgeburt, chronische Erkrankung, Trennung, Trauer, Neurodivergenz."
+    }
+  ],
+  "evidenceLevels": [
+    {
+      "id": "stark",
+      "label": "Gut belegt",
+      "short": "Gut belegt",
+      "description": "Durch Leitlinien, Metaanalysen oder breite Forschungslage gestützt."
+    },
+    {
+      "id": "moderat",
+      "label": "Hinweise vorhanden",
+      "short": "Hinweise",
+      "description": "Einzelne Studien oder Fachkonsens sprechen dafür, die Datenlage ist begrenzt."
+    },
+    {
+      "id": "umstritten",
+      "label": "Umstritten",
+      "short": "Umstritten",
+      "description": "Fachwelt und Studien kommen zu unterschiedlichen Ergebnissen."
+    }
+  ]
+}

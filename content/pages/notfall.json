@@ -1,0 +1,97 @@
+{
+  "title": "Notfall & Anlaufstellen",
+  "subtitle": "Wenn es schnell gehen muss: Nummern, Warnzeichen und wo du Hilfe bekommst – auch für dich selbst.",
+  "blocks": [
+    {
+      "type": "callout",
+      "variant": "danger",
+      "title": "Bei akuter Lebensgefahr",
+      "text": "**Notruf 112.** Bewusstlosigkeit, Atemstillstand, Krampfanfall der länger als 5 Minuten dauert, schwere Verletzung, Verdacht auf Vergiftung mit Bewusstseinstrübung, blaue Lippen, starke Atemnot. Ruf an, bevor du recherchierst."
+    },
+    {
+      "type": "section",
+      "heading": "Die wichtigsten Nummern",
+      "blocks": [
+        {
+          "type": "table",
+          "head": ["Anliegen", "Nummer", "Erreichbar"],
+          "rows": [
+            ["Notruf (Rettungsdienst, Feuerwehr)", "112", "rund um die Uhr, kostenlos, EU-weit"],
+            ["Ärztlicher Bereitschaftsdienst", "116 117", "außerhalb der Praxiszeiten"],
+            ["Giftnotruf", "je nach Bundesland, z. B. Berlin 030 19240", "rund um die Uhr"],
+            ["Telefonseelsorge", "0800 111 0 111 / 0800 111 0 222", "rund um die Uhr, anonym"],
+            ["Elterntelefon (Nummer gegen Kummer)", "0800 111 0 550", "Mo–Fr, kostenfrei"],
+            ["Hilfetelefon Gewalt gegen Frauen", "116 016", "rund um die Uhr"],
+            ["Schreibaby-Ambulanzen", "über Kinderarztpraxis oder Klinik", "regional"]
+          ],
+          "caption": "Angaben für Deutschland. In Österreich gilt zusätzlich 144 (Rettung), in der Schweiz 144 bzw. 145 (Tox Info)."
+        }
+      ]
+    },
+    {
+      "type": "section",
+      "heading": "Warnzeichen, bei denen du nicht abwarten solltest",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "Diese Liste ersetzt keine Diagnose. Sie hilft, die Schwelle zum Anruf zu senken – im Zweifel immer anrufen, lieber einmal zu früh."
+        },
+        {
+          "type": "list",
+          "items": [
+            { "title": "Fieber bei Säuglingen unter 3 Monaten:", "text": "ab 38 °C rektal gemessen sofort ärztlich abklären lassen." },
+            { "title": "Auffällige Atmung:", "text": "Nasenflügeln, Einziehungen zwischen den Rippen, Stöhnen beim Ausatmen, sehr schnelle Atmung." },
+            { "title": "Trinkverweigerung:", "text": "ein Säugling, der mehrere Mahlzeiten hintereinander verweigert oder deutlich weniger nasse Windeln hat." },
+            { "title": "Auffällige Wachheit:", "text": "sehr schlapp, kaum weckbar, oder anhaltend schrill schreiend und nicht beruhigbar." },
+            { "title": "Hautzeichen:", "text": "Flecken, die sich beim Draufdrücken mit einem Glas nicht wegdrücken lassen; graue oder marmorierte Haut." },
+            { "title": "Nach Sturz:", "text": "Erbrechen, Bewusstseinstrübung, ungleiche Pupillen, Sturz aus Höhe über Körpergröße oder auf harten Untergrund bei Säuglingen." },
+            { "title": "Dein Bauchgefühl:", "text": "Wenn dein Kind „anders“ ist als sonst und du es nicht erklären kannst – das ist ein anerkanntes Warnzeichen, kein Bauchgefühl zweiter Klasse." }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "section",
+      "heading": "Wenn du selbst am Limit bist",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "Erschöpfung, Wut auf das eigene Kind und der Impuls, es zu schütteln, sind unter Schlafentzug verbreitet – und sie sind nichts, wofür man sich schämen muss. Entscheidend ist, was du in diesem Moment tust."
+        },
+        {
+          "type": "callout",
+          "variant": "danger",
+          "title": "Niemals schütteln",
+          "text": "Schütteln kann bei Säuglingen innerhalb von Sekunden zu bleibenden Hirnschäden oder zum Tod führen. Wenn du kurz davor bist: Leg dein Kind an einem sicheren Ort ab (Bett, Laufstall), geh aus dem Zimmer, atme. Ein schreiendes Baby allein im sicheren Bett ist ungefährlich – ein geschütteltes nicht."
+        },
+        {
+          "type": "steps",
+          "title": "Notfallplan für den eigenen Kipppunkt",
+          "items": [
+            { "title": "Kind sicher ablegen", "text": "Rückenlage im eigenen Bett, nichts drumherum. Tür offen lassen." },
+            { "title": "Raum verlassen, 2 Minuten", "text": "Kaltes Wasser übers Handgelenk, Fenster auf, laut ausatmen." },
+            { "title": "Jemanden anrufen", "text": "Partner, Freundin, Elterntelefon 0800 111 0 550. Sprechen unterbricht die Anspannung." },
+            { "title": "Danach Hilfe organisieren", "text": "Nicht nur diesen Abend überstehen: Kinderarztpraxis ansprechen, Schreiambulanz, Hebamme, Frühe Hilfen." }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "section",
+      "heading": "Frühe Hilfen: kostenlose Unterstützung",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "Die „Frühen Hilfen“ sind ein bundesweites Netzwerk für Familien mit Kindern bis 3 Jahre: Familienhebammen, Gesundheitsfachkräfte, Beratung, Begleitung nach Hause. Kostenlos, freiwillig und unabhängig vom Einkommen. Zugang über das örtliche Jugendamt, die Kinderarztpraxis oder [elternsein.info](https://www.elternsein.info)."
+        },
+        {
+          "type": "callout",
+          "variant": "info",
+          "title": "Das Jugendamt ist kein Gegner",
+          "text": "Viele Eltern zögern aus Angst, „auffällig“ zu werden. Der weit überwiegende Teil der Arbeit des Jugendamts ist Unterstützung, nicht Kontrolle. Wer früh um Hilfe bittet, zeigt Verantwortung."
+        }
+      ]
+    }
+  ],
+  "sources": []
+}

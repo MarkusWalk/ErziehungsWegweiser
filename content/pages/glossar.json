@@ -1,0 +1,60 @@
+{
+  "title": "Glossar",
+  "subtitle": "Fachbegriffe, die in Artikeln, Arztpraxen und Elternforen auftauchen – kurz erklärt.",
+  "blocks": [
+    {
+      "type": "section",
+      "heading": "A – F",
+      "blocks": [
+        {
+          "type": "table",
+          "head": ["Begriff", "Bedeutung"],
+          "rows": [
+            ["Bindungstyp", "Muster, nach dem ein Kind Nähe und Trost bei Belastung sucht. Unterschieden werden sicher, unsicher-vermeidend, unsicher-ambivalent und desorganisiert."],
+            ["BLW (Baby-led Weaning)", "Beikost-Einführung, bei der das Kind von Anfang an selbst greifbare Stücke isst statt Brei gefüttert zu bekommen."],
+            ["Co-Regulation", "Beruhigung eines Kindes über das Nervensystem einer erwachsenen Person – Voraussetzung dafür, dass Selbstregulation später entstehen kann."],
+            ["Explorationsverhalten", "Der Drang, die Umgebung zu erkunden. Funktioniert nur, wenn eine sichere Basis zum Zurückkehren da ist."],
+            ["Feinfühligkeit", "Signale des Kindes wahrnehmen, richtig deuten, angemessen und prompt beantworten. Zentraler Begriff der Bindungsforschung."],
+            ["Fremdeln", "Ab etwa 6–8 Monaten auftretende Zurückhaltung gegenüber unbekannten Personen. Ein Entwicklungsschritt, kein Rückschritt."]
+          ]
+        }
+      ]
+    },
+    {
+      "type": "section",
+      "heading": "G – R",
+      "blocks": [
+        {
+          "type": "table",
+          "head": ["Begriff", "Bedeutung"],
+          "rows": [
+            ["Gedeihstörung", "Deutlich verlangsamte Gewichts- oder Längenentwicklung über längere Zeit. Immer ärztlich abzuklären."],
+            ["Meilenstein", "Entwicklungsschritt, den die meisten Kinder in einem bestimmten Zeitfenster erreichen. Die Spannbreite ist groß."],
+            ["Perzentile", "Vergleichswert in Wachstumskurven. Die 25. Perzentile heißt: 25 % der Kinder sind kleiner/leichter, 75 % größer/schwerer."],
+            ["Regulationsstörung", "Anhaltende Schwierigkeiten beim Schreien, Schlafen oder Füttern, die Familien stark belasten. Es gibt spezialisierte Ambulanzen."],
+            ["Responsivität", "Prompte und passende Reaktion auf kindliche Signale – der aktive Teil von Feinfühligkeit."]
+          ]
+        }
+      ]
+    },
+    {
+      "type": "section",
+      "heading": "S – Z",
+      "blocks": [
+        {
+          "type": "table",
+          "head": ["Begriff", "Bedeutung"],
+          "rows": [
+            ["Schlafassoziation", "Bedingung, die ein Kind mit dem Einschlafen verknüpft (Stillen, Tragen, Hand halten). Wird beim nächtlichen Aufwachen erneut gesucht."],
+            ["SIDS", "Plötzlicher Kindstod (Sudden Infant Death Syndrome). Risiko sinkt deutlich durch Rückenlage, rauchfreie Umgebung und eigenen Schlafplatz im Elternzimmer."],
+            ["Selbstwirksamkeit", "Die Erfahrung, mit eigenem Handeln etwas bewirken zu können – ein Kernbaustein von Selbstvertrauen."],
+            ["Trotzphase", "Umgangssprachlich für die Autonomiephase ab etwa 18 Monaten. Fachlich unglücklich: Es geht nicht um Trotz, sondern um Wollen ohne Regulationsfähigkeit."],
+            ["U-Untersuchungen", "Reihe kostenloser Vorsorgeuntersuchungen von U1 (Geburt) bis U9 (5–6 Jahre), danach J1."],
+            ["Wortschatzexplosion", "Sprunghafter Zuwachs des aktiven Wortschatzes, meist zwischen 18 und 24 Monaten."]
+          ]
+        }
+      ]
+    }
+  ],
+  "sources": []
+}
