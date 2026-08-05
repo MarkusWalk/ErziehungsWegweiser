@@ -1,0 +1,551 @@
+<!DOCTYPE html>
+<html lang="de" data-theme="auto">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>Elterngeld, Elternzeit und Mutterschutz · Erziehungswegweiser</title>
+<meta name="description" content="Mutterschutz ist ein gesetzlicher Schutz rund um die Geburt, Elternzeit ist die Freistellung vom Arbeitsplatz, Elterngeld ist Geld – drei verschiedene Dinge, die oft verwechselt werden. Der Mutterschutz beginnt sechs Wochen vor dem errechneten Termin und endet acht Wochen nach der Geburt. Elternzeit muss schriftlich beim Arbeitgeber angemeldet werden, sieben Wochen vor Beginn. Elterngeld wird bei der Elterngeldstelle beantragt und höchstens drei Lebensmonate rückwirkend gezahlt. Diese drei Fristen sind die einzigen, die man sich wirklich merken muss.">
+<meta name="color-scheme" content="light dark">
+<meta property="og:type" content="article">
+<meta property="og:title" content="Elterngeld, Elternzeit und Mutterschutz">
+<meta property="og:description" content="Mutterschutz ist ein gesetzlicher Schutz rund um die Geburt, Elternzeit ist die Freistellung vom Arbeitsplatz, Elterngeld ist Geld – drei verschiedene Dinge, die oft verwechselt werden. Der Mutterschutz beginnt sechs Wochen vor dem errechneten Termin und endet acht Wochen nach der Geburt. Elternzeit muss schriftlich beim Arbeitgeber angemeldet werden, sieben Wochen vor Beginn. Elterngeld wird bei der Elterngeldstelle beantragt und höchstens drei Lebensmonate rückwirkend gezahlt. Diese drei Fristen sind die einzigen, die man sich wirklich merken muss.">
+<meta property="og:site_name" content="Erziehungswegweiser">
+<link rel="canonical" href="">
+<link rel="icon" href="../assets/img/favicon.svg" type="image/svg+xml">
+<link rel="stylesheet" href="../assets/css/tokens.css">
+<link rel="stylesheet" href="../assets/css/base.css">
+<link rel="stylesheet" href="../assets/css/components.css">
+<link rel="stylesheet" href="../assets/css/layout.css">
+<script>
+  /* Theme, Lesemodus und Schriftgröße vor dem ersten Paint setzen,
+     damit kein Aufblitzen des falschen Modus entsteht. */
+  (function () {
+    try {
+      var s = JSON.parse(localStorage.getItem('ew:prefs') || '{}');
+      var r = document.documentElement;
+      var theme = s.theme || 'auto';
+      if (theme === 'auto') {
+        theme = matchMedia('(prefers-color-scheme: dark)').matches ? 'dark' : 'light';
+      }
+      r.setAttribute('data-theme', theme);
+      if (s.reading) r.setAttribute('data-reading', 'on');
+      if (s.textsize) r.setAttribute('data-textsize', s.textsize);
+    } catch (e) {}
+  })();
+</script>
+<script type="application/ld+json">{"@context":"https://schema.org","@type":"Article","headline":"Elterngeld, Elternzeit und Mutterschutz","description":"Mutterschutz ist ein gesetzlicher Schutz rund um die Geburt, Elternzeit ist die Freistellung vom Arbeitsplatz, Elterngeld ist Geld – drei verschiedene Dinge, die oft verwechselt werden. Der Mutterschutz beginnt sechs Wochen vor dem errechneten Termin und endet acht Wochen nach der Geburt. Elternzeit muss schriftlich beim Arbeitgeber angemeldet werden, sieben Wochen vor Beginn. Elterngeld wird bei der Elterngeldstelle beantragt und höchstens drei Lebensmonate rückwirkend gezahlt. Diese drei Fristen sind die einzigen, die man sich wirklich merken muss.","inLanguage":"de","dateModified":"2026-08-05","isAccessibleForFree":true,"publisher":{"@type":"Organization","name":"Erziehungswegweiser"}}</script>
+</head>
+<body class="page page--article" data-root="../">
+<a class="skip-link" href="#inhalt">Zum Inhalt springen</a>
+
+
+<header class="site-header" data-header>
+  <div class="site-header__inner">
+    <a class="brand" href="../index.html">
+      <span class="brand__mark" aria-hidden="true"></span>
+      <span class="brand__text">
+        <span class="brand__name">Erziehungswegweiser</span>
+        <span class="brand__tagline">Wissenschaftlich fundiert durch die ersten Jahre</span>
+      </span>
+    </a>
+
+    <nav class="site-nav" aria-label="Hauptnavigation">
+      <ul class="site-nav__list">
+        <li><a class="site-nav__link" href="../alter/">Nach Alter</a></li><li><a class="site-nav__link" href="../themen/">Nach Thema</a></li><li><a class="site-nav__link is-current" href="../artikel/" aria-current="page">Alle Artikel</a></li><li><a class="site-nav__link" href="../notfall.html">Notfall</a></li><li><a class="site-nav__link" href="../ueber.html">Über</a></li>
+      </ul>
+    </nav>
+
+    <div class="site-header__actions">
+      <button class="icon-btn" type="button" data-open-search aria-label="Suche öffnen" title="Suchen (S)">
+        <svg class="icon " viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><circle cx="11" cy="11" r="7"/><path d="m20 20-3.5-3.5"/></svg>
+      </button>
+      <button class="icon-btn" type="button" data-open-settings aria-label="Darstellung und Einstellungen" title="Darstellung">
+        <svg class="icon " viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M4 8h10M18 8h2M4 16h4M12 16h8"/><circle cx="16" cy="8" r="2"/><circle cx="10" cy="16" r="2"/></svg>
+      </button>
+      <button class="icon-btn icon-btn--menu" type="button" data-open-menu aria-label="Menü öffnen" aria-expanded="false">
+        <svg class="icon " viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M4 7h16M4 12h16M4 17h16"/></svg>
+      </button>
+    </div>
+  </div>
+  <div class="site-progress" data-progress aria-hidden="true"><span></span></div>
+</header>
+
+<main id="inhalt" class="main">
+
+<article class="article" data-article
+  data-phases="schwangerschaft neugeborenes"
+  data-topics="familie">
+
+  <header class="article__header">
+    <div class="wrap wrap--narrow">
+      <nav class="breadcrumb" aria-label="Pfad">
+        <a href="../index.html">Start</a>
+        <span aria-hidden="true">/</span><a href="../themen/familie.html">Familie &amp; Alltag</a>
+      </nav>
+
+      <h1 class="article__title">Elterngeld, Elternzeit und Mutterschutz</h1>
+      <p class="article__subtitle">Drei Regelwerke, drei Stellen, drei Fristen – einmal sauber auseinandersortiert, damit ihr wisst, was ihr wann tun müsst und was euch zusteht.</p>
+
+      <div class="article__meta">
+        <span class="meta-item"><svg class="icon " viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><circle cx="12" cy="12" r="9"/><path d="M12 7v5l3 2"/></svg> 8 Min. Lesezeit</span>
+        <span class="meta-item">Stand: 5. August 2026</span>
+        <span class="meta-item">6 Quellen</span>
+      </div>
+
+      <div class="article__tags">
+        <a class="tag tag--phase-1" href="../alter/schwangerschaft.html">Schwangerschaft</a><a class="tag tag--phase-2" href="../alter/neugeborenes.html">Neugeborenes</a>
+        <a class="tag" href="../themen/familie.html">Familie &amp; Alltag</a>
+      </div>
+    </div>
+  </header>
+
+  
+<div class="wrap wrap--narrow">
+  <div class="summary">
+    <p class="summary__label">Das Wichtigste in Kürze</p>
+    <p class="summary__text">Mutterschutz ist ein gesetzlicher Schutz rund um die Geburt, Elternzeit ist die Freistellung vom Arbeitsplatz, Elterngeld ist Geld – drei verschiedene Dinge, die oft verwechselt werden. Der Mutterschutz beginnt sechs Wochen vor dem errechneten Termin und endet acht Wochen nach der Geburt. Elternzeit muss schriftlich beim Arbeitgeber angemeldet werden, sieben Wochen vor Beginn. Elterngeld wird bei der Elterngeldstelle beantragt und höchstens drei Lebensmonate rückwirkend gezahlt. Diese drei Fristen sind die einzigen, die man sich wirklich merken muss.</p>
+    <ul class="summary__facts"><li>Mutterschutz: sechs Wochen vor dem errechneten Termin bis acht Wochen nach der Geburt, bei Früh- und Mehrlingsgeburten zwölf Wochen danach.</li><li>Elternzeit: bis zu drei Jahre je Elternteil, schriftlich anzumelden – sieben Wochen vor Beginn.</li><li>Basiselterngeld: in der Regel 65 Prozent des wegfallenden Nettoeinkommens, mindestens 300 und höchstens 1.800 Euro im Monat.</li><li>Elterngeld gibt es höchstens drei Lebensmonate rückwirkend – wer später beantragt, verliert Geld.</li><li>Für Geburten ab dem 1. April 2025 entfällt der Anspruch ab 175.000 Euro zu versteuerndem Jahreseinkommen.</li><li>Kindergeld: seit Januar 2026 sind es 259 Euro pro Kind und Monat.</li></ul>
+  </div>
+</div>
+
+  <div class="article__layout wrap">
+    
+<aside class="toc" aria-label="Inhaltsverzeichnis">
+  <p class="toc__title">Inhalt</p>
+  <ol class="toc__list">
+    <li><a href="#mutterschutz-gilt-ohne-dass-man-ihn-beantragt" data-toc-link>Mutterschutz: gilt, ohne dass man ihn beantragt</a></li><li><a href="#elternzeit-die-freistellung-vom-job" data-toc-link>Elternzeit: die Freistellung vom Job</a></li><li><a href="#elterngeld-die-drei-varianten" data-toc-link>Elterngeld: die drei Varianten</a></li><li><a href="#was-sich-zuletzt-geaendert-hat" data-toc-link>Was sich zuletzt geändert hat</a></li><li><a href="#der-fahrplan" data-toc-link>Der Fahrplan</a></li><li><a href="#kindergeld-und-was-danach-kommt" data-toc-link>Kindergeld und was danach kommt</a></li><li><a href="#haeufige-fragen" data-toc-link>Häufige Fragen</a></li>
+  </ol>
+</aside>
+    <div class="article__body">
+      <p class="c-p c-p--lead">Kaum ein Thema löst in der Schwangerschaft so viel diffuse Nervosität aus wie der Behördenteil. Das liegt selten an der Komplexität und fast immer daran, dass drei völlig verschiedene Regelwerke ständig in einem Atemzug genannt werden. Mutterschutz ist Arbeitsschutzrecht und gilt automatisch. Elternzeit ist ein Anspruch gegenüber dem Arbeitgeber. Elterngeld ist eine Leistung, die man beantragen muss. Sobald diese drei auseinandersortiert sind, wird der Rest überschaubar.</p>
+
+<aside class="c-callout c-callout--warn" role="note">
+  <p class="c-callout__title">Die drei Fristen, die tatsächlich weh tun</p>
+  <div class="c-callout__body"><ul class="c-list c-list--bullet"><li>Elternzeit: schriftlich anmelden, spätestens sieben Wochen vor Beginn (13 Wochen, wenn sie zwischen dem 3. und 8. Geburtstag liegt).</li><li>Elterngeld: wird höchstens für die letzten drei Lebensmonate vor Antragseingang gezahlt.</li><li>Mutterschaftsgeld: Bescheinigung über den errechneten Termin frühestens sieben Wochen vor dem Termin ausstellen lassen und zügig bei der Krankenkasse einreichen.</li></ul></div>
+</aside>
+
+<section class="c-section" id="mutterschutz-gilt-ohne-dass-man-ihn-beantragt">
+  <h2 class="c-section__title">
+    <a class="c-section__anchor" href="#mutterschutz-gilt-ohne-dass-man-ihn-beantragt" aria-label="Direktlink zu diesem Abschnitt">#</a>
+    Mutterschutz: gilt, ohne dass man ihn beantragt
+  </h2>
+  <p class="c-p">Der Mutterschutz ist kein Antrag, sondern ein Verbot – er richtet sich an den Arbeitgeber. Sobald du deine Schwangerschaft meldest, greifen Schutzvorschriften: keine Nachtarbeit, keine Akkordarbeit, keine gefährdenden Tätigkeiten, Freistellung für Vorsorgeuntersuchungen. Und rund um die Geburt liegt die Schutzfrist.</p>
+
+<div class="c-evidence c-evidence--stark">
+  <p class="c-evidence__badge">
+    <span class="c-evidence__dot" aria-hidden="true"></span>
+    <span class="c-evidence__label">Gut belegt</span>
+  </p>
+  <p class="c-evidence__claim">Die Mutterschutzfrist beginnt sechs Wochen vor dem errechneten Entbindungstermin und endet acht Wochen nach der Geburt. Bei Frühgeburten, Mehrlingsgeburten und – auf Antrag – wenn beim Kind innerhalb von acht Wochen eine Behinderung festgestellt wird, verlängert sie sich auf zwölf Wochen nach der Geburt.</p>
+  <p class="c-evidence__note">Vor der Geburt darfst du auf ausdrücklichen eigenen Wunsch weiterarbeiten und diese Erklärung jederzeit widerrufen. Nach der Geburt gilt ein absolutes Beschäftigungsverbot – da gibt es keine Wahlmöglichkeit, und das ist auch gut so. Verschiebt sich die Geburt nach hinten, verkürzt sich die Frist danach nicht: Die acht Wochen laufen ab dem tatsächlichen Geburtstag.</p>
+  <p class="c-evidence__refs">Belege: <a class="c-ref" href="#quelle-4" title="Wie lange besteht der Mutterschutz vor und nach der Geburt?">[4]</a></p>
+</div>
+<p class="c-p">Geld gibt es in dieser Zeit aus zwei Töpfen. Die gesetzliche Krankenkasse zahlt Mutterschaftsgeld von höchstens 13 Euro pro Kalendertag. Liegt dein durchschnittlicher Nettoverdienst darüber – was fast immer der Fall ist –, stockt dein Arbeitgeber die Differenz auf, berechnet aus den letzten drei abgerechneten Kalendermonaten vor Beginn der Schutzfrist. Unter dem Strich bleibt dein Nettoeinkommen also erhalten. Wer nicht gesetzlich krankenversichert ist, bekommt Mutterschaftsgeld über das Bundesamt für Soziale Sicherung. Und wenn du schon vorher wegen eines ärztlichen Beschäftigungsverbots nicht arbeiten darfst, zahlt der Arbeitgeber Mutterschutzlohn.</p>
+
+<aside class="c-callout c-callout--info" role="note">
+  <p class="c-callout__title">Und der andere Elternteil?</p>
+  <div class="c-callout__body"><p>Für ihn gibt es keinen Mutterschutz. Wer bei der Geburt und in den ersten Tagen dabei sein will, nimmt dafür Urlaub oder legt den Beginn der Elternzeit auf den Geburtstag des Kindes. Der Anspruch auf Elternzeit besteht ab dem Tag der Geburt – auch für zwei Wochen, auch für einen Monat.</p></div>
+</aside>
+</section>
+
+<section class="c-section" id="elternzeit-die-freistellung-vom-job">
+  <h2 class="c-section__title">
+    <a class="c-section__anchor" href="#elternzeit-die-freistellung-vom-job" aria-label="Direktlink zu diesem Abschnitt">#</a>
+    Elternzeit: die Freistellung vom Job
+  </h2>
+  <p class="c-p">Elternzeit ist unbezahlte Freistellung mit Rückkehrrecht. Sie hat mit Elterngeld nichts zu tun, außer dass beides meistens parallel läuft. Jeder Elternteil hat bis zu drei Jahre Anspruch – pro Kind, unabhängig voneinander, auch gleichzeitig.</p>
+
+<div class="c-evidence c-evidence--stark">
+  <p class="c-evidence__badge">
+    <span class="c-evidence__dot" aria-hidden="true"></span>
+    <span class="c-evidence__label">Gut belegt</span>
+  </p>
+  <p class="c-evidence__claim">Jeder Elternteil kann bis zu drei Jahre Elternzeit nehmen. Bis zu 24 Monate davon lassen sich auf die Zeit zwischen dem dritten und dem achten Geburtstag verschieben. Die Elternzeit kann in bis zu drei Abschnitte aufgeteilt werden.</p>
+  <p class="c-evidence__note">Praktisch heißt das: Ihr könnt euch ein Jahr nehmen, arbeiten gehen und später zur Einschulung noch einmal Monate anhängen. Der Arbeitgeber kann den dritten Abschnitt nach dem dritten Geburtstag aus dringenden betrieblichen Gründen ablehnen – die ersten beiden nicht.</p>
+  <p class="c-evidence__refs">Belege: <a class="c-ref" href="#quelle-2" title="Elternzeit – Was Sie zur Elternzeit wissen müssen (FAQ)">[2]</a></p>
+</div>
+<p class="c-p">Die Anmeldung ist der einzige echte Stolperstein: Sie muss schriftlich erfolgen, mit eigenhändiger Unterschrift – eine E-Mail genügt formal nicht. Für Elternzeit bis zum dritten Geburtstag gilt eine Frist von sieben Wochen vor Beginn, für Elternzeit zwischen dem dritten und dem achten Geburtstag 13 Wochen. Und du musst dich gleich festlegen, wie du die ersten zwei Jahre aufteilst. Wer als Mutter direkt an die Mutterschutzfrist anschließen will, rechnet rückwärts: acht Wochen Schutzfrist plus sieben Wochen Anmeldefrist heißt, dass die Anmeldung noch in der Schwangerschaft rausgehen muss.</p>
+<ul class="c-list c-list--bullet"><li><strong>Kündigungsschutz:</strong> Ab der Anmeldung – frühestens acht Wochen beziehungsweise 14 Wochen vor Beginn – und während der gesamten Elternzeit besteht besonderer Kündigungsschutz.</li><li><strong>Teilzeit in Elternzeit:</strong> Erlaubt sind bis zu 32 Wochenstunden im Durchschnitt. Einen Rechtsanspruch darauf hast du, wenn der Betrieb regelmäßig mehr als 15 Beschäftigte hat, dein Arbeitsverhältnis länger als sechs Monate besteht und du für mindestens zwei Monate auf 15 bis 32 Wochenstunden reduzieren willst.</li><li><strong>Urlaub:</strong> Der Arbeitgeber darf den Erholungsurlaub für volle Monate der Elternzeit anteilig kürzen. Nicht genommener Urlaub aus der Zeit davor verfällt aber nicht – er steht nach der Rückkehr zur Verfügung.</li></ul>
+</section>
+
+<section class="c-section" id="elterngeld-die-drei-varianten">
+  <h2 class="c-section__title">
+    <a class="c-section__anchor" href="#elterngeld-die-drei-varianten" aria-label="Direktlink zu diesem Abschnitt">#</a>
+    Elterngeld: die drei Varianten
+  </h2>
+  <p class="c-p">Elterngeld ersetzt einen Teil des Einkommens, das wegfällt, weil ihr euch um euer Kind kümmert. In der Regel sind es 65 Prozent des wegfallenden Nettoeinkommens; bei kleineren Einkommen steigt der Satz, bis zu 100 Prozent. Basiselterngeld liegt zwischen 300 und 1.800 Euro im Monat, ElterngeldPlus zwischen 150 und 900 Euro. Die 300 Euro Minimum bekommt auch, wer vorher gar nicht erwerbstätig war.</p>
+
+<figure class="c-tablewrap">
+  <figcaption class="c-tablewrap__title">Die drei Elterngeld-Varianten</figcaption>
+  <div class="c-tablewrap__scroll">
+    <table class="c-table">
+      <thead><tr><th scope="col">Variante</th><th scope="col">Höhe</th><th scope="col">Dauer und Bedingung</th></tr></thead>
+      <tbody><tr><th scope="row">Basiselterngeld</th><td>300 bis 1.800 Euro pro Monat</td><td>12 Monate für beide zusammen, 14 Monate, wenn beide Elternteile mindestens zwei Monate nehmen (Partnermonate). Alleinerziehende können die 14 Monate allein nutzen.</td></tr><tr><th scope="row">ElterngeldPlus</th><td>150 bis 900 Euro pro Monat</td><td>Ein Monat Basiselterngeld wird zu zwei Monaten ElterngeldPlus. Ohne Zuverdienst höchstens halb so hoch, dafür doppelt so lange – mit Teilzeitverdienst oft die deutlich günstigere Variante.</td></tr><tr><th scope="row">Partnerschaftsbonus</th><td>wie ElterngeldPlus</td><td>2, 3 oder 4 zusätzliche Monate ElterngeldPlus für jeden Elternteil, wenn beide in diesen Monaten gleichzeitig zwischen 24 und 32 Wochenstunden arbeiten.</td></tr></tbody>
+    </table>
+  </div>
+  <p class="c-caption">Nach den Angaben des Familienportals des Bundes. Die Varianten lassen sich kombinieren; der Elterngeldrechner des Bundes rechnet konkrete Kombinationen durch.</p>
+</figure>
+<p class="c-p">Zwei Zuschläge werden oft übersehen. Der Geschwisterbonus erhöht das Elterngeld um 10 Prozent, wenn noch ein kleines Geschwisterkind im Haushalt lebt. Und bei Mehrlingen kommt für jedes weitere Kind ein Zuschlag dazu. Beides musst du nicht separat beantragen, aber im Antrag angeben.</p>
+
+<aside class="c-callout c-callout--tip" role="note">
+  <p class="c-callout__title">Der praktische Rat zur Reihenfolge</p>
+  <div class="c-callout__body"><p>Mutterschaftsgeld und der Arbeitgeberzuschuss werden voll auf das Elterngeld angerechnet. Für die ersten beiden Lebensmonate bleibt der gebärenden Person dadurch in der Regel nichts vom Elterngeld übrig – diese Monate gelten trotzdem als verbraucht. Wer plant, sollte das vorher wissen: Es ist kein Fehler in eurem Antrag, sondern so vorgesehen. Der zweite Elternteil legt seine Monate deshalb oft bewusst später, wenn das Geld tatsächlich fehlt.</p></div>
+</aside>
+</section>
+
+<section class="c-section" id="was-sich-zuletzt-geaendert-hat">
+  <h2 class="c-section__title">
+    <a class="c-section__anchor" href="#was-sich-zuletzt-geaendert-hat" aria-label="Direktlink zu diesem Abschnitt">#</a>
+    Was sich zuletzt geändert hat
+  </h2>
+  
+<div class="c-evidence c-evidence--stark">
+  <p class="c-evidence__badge">
+    <span class="c-evidence__dot" aria-hidden="true"></span>
+    <span class="c-evidence__label">Gut belegt</span>
+  </p>
+  <p class="c-evidence__claim">Für Geburten ab dem 1. April 2024 liegt die Einkommensgrenze für Elterngeld bei 200.000 Euro zu versteuerndem Einkommen, für Geburten ab dem 1. April 2025 bei 175.000 Euro – für Paare und für Alleinerziehende gleichermaßen. Wer darüber liegt, bekommt kein Elterngeld.</p>
+  <p class="c-evidence__note">Maßgeblich ist das zu versteuernde Einkommen aus dem Kalenderjahr vor der Geburt, nicht das Bruttoeinkommen. Das zu versteuernde Einkommen liegt nach Abzug von Werbungskosten, Sonderausgaben und Freibeträgen in der Regel deutlich niedriger als das Brutto – viele Familien, die sich beim Brutto abschrecken lassen, haben trotzdem Anspruch. Eine Gleitzone gibt es nicht: Ein Euro darüber bedeutet null Elterngeld.</p>
+  <p class="c-evidence__refs">Belege: <a class="c-ref" href="#quelle-5" title="Neuregelungen beim Elterngeld für Geburten ab 1. April 2024 sowie ab 1. April 2025">[5]</a></p>
+</div>
+
+<div class="c-evidence c-evidence--stark">
+  <p class="c-evidence__badge">
+    <span class="c-evidence__dot" aria-hidden="true"></span>
+    <span class="c-evidence__label">Gut belegt</span>
+  </p>
+  <p class="c-evidence__claim">Für Geburten ab dem 1. April 2024 können beide Eltern Basiselterngeld nur noch für einen gemeinsamen Monat gleichzeitig beziehen, und nur innerhalb der ersten zwölf Lebensmonate.</p>
+  <p class="c-evidence__note">Ausgenommen sind Eltern von Mehrlingen, Eltern von Frühgeborenen, die mindestens sechs Wochen vor dem errechneten Termin auf die Welt kamen, und Eltern von Kindern mit Behinderung. Wichtig: Die Beschränkung gilt nur fürs Basiselterngeld. Sobald ein Elternteil ElterngeldPlus bezieht, ist ein längerer gemeinsamer Bezug weiterhin möglich – und genau darüber lösen viele Familien die ersten Wochen zu dritt.</p>
+  <p class="c-evidence__refs">Belege: <a class="c-ref" href="#quelle-5" title="Neuregelungen beim Elterngeld für Geburten ab 1. April 2024 sowie ab 1. April 2025">[5]</a></p>
+</div>
+</section>
+
+<section class="c-section" id="der-fahrplan">
+  <h2 class="c-section__title">
+    <a class="c-section__anchor" href="#der-fahrplan" aria-label="Direktlink zu diesem Abschnitt">#</a>
+    Der Fahrplan
+  </h2>
+  
+<div class="c-timeline">
+  <h4 class="c-timeline__heading">Wann was erledigt sein sollte</h4>
+  <ol class="c-timeline__list">
+      <li class="c-timeline__item">
+        <span class="c-timeline__age">ab ca. SSW 20</span>
+        <div class="c-timeline__body">
+          <h4 class="c-timeline__label">Arbeitgeber informieren</h4>
+          <p>Die Schwangerschaft melden, damit der Mutterschutz greifen kann. Eine gesetzliche Pflicht dazu gibt es nicht, aber ohne Meldung greifen die Schutzvorschriften faktisch nicht.</p>
+        </div>
+      </li>
+      <li class="c-timeline__item">
+        <span class="c-timeline__age">ca. SSW 25–28</span>
+        <div class="c-timeline__body">
+          <h4 class="c-timeline__label">Elternzeit planen und anmelden</h4>
+          <p>Wer direkt nach der Mutterschutzfrist in Elternzeit gehen will, muss die Anmeldung sieben Wochen vor deren Beginn schriftlich abgeben – also noch weit vor der Geburt. Auch der zweite Elternteil meldet jetzt an, wenn er ab Geburt zu Hause bleiben will.</p>
+        </div>
+      </li>
+      <li class="c-timeline__item">
+        <span class="c-timeline__age">ab SSW 33</span>
+        <div class="c-timeline__body">
+          <h4 class="c-timeline__label">Mutterschaftsgeld beantragen</h4>
+          <p>Die Bescheinigung über den errechneten Termin gibt es frühestens sieben Wochen vorher; damit geht der Antrag an die Krankenkasse, die den Arbeitgeber informiert.</p>
+        </div>
+      </li>
+      <li class="c-timeline__item">
+        <span class="c-timeline__age">SSW 34</span>
+        <div class="c-timeline__body">
+          <h4 class="c-timeline__label">Beginn der Mutterschutzfrist</h4>
+          <p>Sechs Wochen vor dem errechneten Termin. Ab hier gilt das Beschäftigungsverbot, auf ausdrücklichen eigenen Wunsch darf weitergearbeitet werden.</p>
+        </div>
+      </li>
+      <li class="c-timeline__item">
+        <span class="c-timeline__age">Geburt bis 4 Wochen</span>
+        <div class="c-timeline__body">
+          <h4 class="c-timeline__label">Geburtsurkunde und Anträge</h4>
+          <p>Beim Standesamt mehrere beglaubigte Geburtsurkunden ausstellen lassen: eine für die Elterngeldstelle, eine für die Familienkasse, eine für die Krankenkasse. Kind bei der Krankenkasse anmelden.</p>
+        </div>
+      </li>
+      <li class="c-timeline__item">
+        <span class="c-timeline__age">bis 3. Lebensmonat</span>
+        <div class="c-timeline__body">
+          <h4 class="c-timeline__label">Elterngeld beantragen</h4>
+          <p>Rückwirkend wird höchstens für die letzten drei Lebensmonate vor Antragseingang gezahlt. Wer im vierten Monat beantragt, verliert den ersten Monat endgültig. Kindergeld läuft parallel über die Familienkasse.</p>
+        </div>
+      </li></ol>
+  <p class="c-caption">Die Wochenangaben sind Orientierung, die Fristen für Elternzeit-Anmeldung und Elterngeld-Antrag sind gesetzlich festgelegt (Familienportal des Bundes).</p>
+</div>
+
+<div class="c-checklist" data-checklist="antraege">
+  <h4 class="c-checklist__title">Unterlagen, die ihr ohnehin braucht</h4>
+  <ul class="c-checklist__list">
+      <li class="c-checklist__item">
+        <input type="checkbox" id="chk-antraege-0" class="c-checklist__box">
+        <label for="chk-antraege-0">Mehrere beglaubigte Geburtsurkunden mit dem Zusatz für Elterngeld beziehungsweise Kindergeld</label>
+      </li>
+      <li class="c-checklist__item">
+        <input type="checkbox" id="chk-antraege-1" class="c-checklist__box">
+        <label for="chk-antraege-1">Einkommensnachweise der letzten zwölf Monate vor der Geburt (bei Selbstständigen: Steuerbescheid des Vorjahres)</label>
+      </li>
+      <li class="c-checklist__item">
+        <input type="checkbox" id="chk-antraege-2" class="c-checklist__box">
+        <label for="chk-antraege-2">Bescheinigung über Mutterschaftsgeld und Arbeitgeberzuschuss</label>
+      </li>
+      <li class="c-checklist__item">
+        <input type="checkbox" id="chk-antraege-3" class="c-checklist__box">
+        <label for="chk-antraege-3">Bestätigung des Arbeitgebers über die Elternzeit</label>
+      </li>
+      <li class="c-checklist__item">
+        <input type="checkbox" id="chk-antraege-4" class="c-checklist__box">
+        <label for="chk-antraege-4">Steuer-Identifikationsnummern von Kind und Eltern</label>
+      </li>
+      <li class="c-checklist__item">
+        <input type="checkbox" id="chk-antraege-5" class="c-checklist__box">
+        <label for="chk-antraege-5">Nachweis der Krankenversicherung</label>
+      </li></ul>
+</div>
+</section>
+
+<section class="c-section" id="kindergeld-und-was-danach-kommt">
+  <h2 class="c-section__title">
+    <a class="c-section__anchor" href="#kindergeld-und-was-danach-kommt" aria-label="Direktlink zu diesem Abschnitt">#</a>
+    Kindergeld und was danach kommt
+  </h2>
+  <p class="c-p">Kindergeld beantragt ihr schriftlich oder online bei der Familienkasse der Bundesagentur für Arbeit. Seit Januar 2026 beträgt es 259 Euro pro Kind und Monat, einheitlich für jedes Kind. Wer bereits Kindergeld bezieht, muss für die Erhöhung nichts tun – die Familienkasse passt die Beträge automatisch an. Kindergeld läuft in aller Regel bis zum 18. Geburtstag und darüber hinaus, solange das Kind in Ausbildung ist.</p>
+<p class="c-p">Familien mit kleinem Einkommen sollten zusätzlich den Kinderzuschlag prüfen; er wird ebenfalls über die Familienkasse beantragt und schließt Leistungen für Bildung und Teilhabe auf. Und was auffällt, wenn man alles zusammen betrachtet: Die deutschen Familienleistungen sind nicht kompliziert, weil die Regeln kompliziert wären, sondern weil sie auf drei Behörden verteilt sind, die nicht miteinander sprechen. Das ist ärgerlich, aber kein Grund zur Sorge – die Anträge sind in ein bis zwei Abenden erledigt.</p>
+</section>
+
+<section class="c-section" id="haeufige-fragen">
+  <h2 class="c-section__title">
+    <a class="c-section__anchor" href="#haeufige-fragen" aria-label="Direktlink zu diesem Abschnitt">#</a>
+    Häufige Fragen
+  </h2>
+  
+<div class="c-faq">
+  
+  
+      <details class="c-faq__item">
+        <summary>Wir haben den Elterngeldantrag verschlafen. Ist das Geld weg?</summary>
+        <div class="c-faq__answer"><p>Nur teilweise. Gezahlt wird rückwirkend für die letzten drei Lebensmonate vor dem Monat, in dem der Antrag eingeht. Alles, was davor liegt, ist tatsächlich verloren. Wichtig: Es zählen Lebensmonate des Kindes, die am Geburtstag beginnen, nicht Kalendermonate. Stell den Antrag lieber unvollständig und reiche nach – entscheidend ist das Eingangsdatum.</p></div>
+      </details>
+      <details class="c-faq__item">
+        <summary>Muss ich mich schon vor der Geburt festlegen, wie wir die Monate aufteilen?</summary>
+        <div class="c-faq__answer"><p>Für die Elternzeit ja, jedenfalls für die ersten zwei Jahre – die Aufteilung gehört in die Anmeldung. Beim Elterngeld könnt ihr die Aufteilung später noch ändern, solange die betroffenen Monate nicht länger als drei Monate zurückliegen und noch nicht ausgezahlt sind. Ein Wechsel von Basiselterngeld zu ElterngeldPlus ist auf diesem Weg oft möglich.</p></div>
+      </details>
+      <details class="c-faq__item">
+        <summary>Lohnt sich ein Steuerklassenwechsel vor der Geburt?</summary>
+        <div class="c-faq__answer"><p>Er kann das Elterngeld deutlich erhöhen, weil das Nettoeinkommen der letzten zwölf Monate vor der Geburt die Bemessungsgrundlage ist. Der Wechsel muss allerdings früh genug erfolgen, damit er in den maßgeblichen Zeitraum fällt, und er verschiebt die Steuerlast innerhalb des Jahres nur – am Jahresende gleicht sich das über die Steuererklärung aus. Wer das ausreizen will, sollte konkret nachrechnen oder sich beraten lassen.</p></div>
+      </details>
+      <details class="c-faq__item">
+        <summary>Können wir beide gleichzeitig zu Hause bleiben?</summary>
+        <div class="c-faq__answer"><p>Elternzeit ja, uneingeschränkt. Beim Basiselterngeld ist der gemeinsame Bezug für Geburten ab dem 1. April 2024 auf einen Monat innerhalb der ersten zwölf Lebensmonate begrenzt – außer bei Mehrlingen, Frühgeborenen und Kindern mit Behinderung. Über ElterngeldPlus lässt sich eine längere gemeinsame Zeit trotzdem abbilden.</p></div>
+      </details>
+      <details class="c-faq__item">
+        <summary>Was passiert mit dem Elterngeld, wenn ich nebenbei arbeite?</summary>
+        <div class="c-faq__answer"><p>Erlaubt sind bis zu 32 Wochenstunden im Durchschnitt. Der Verdienst wird angerechnet, das Elterngeld sinkt entsprechend. Bei regelmäßigem Zuverdienst ist ElterngeldPlus fast immer die bessere Wahl, weil dort die Anrechnung anders funktioniert und der Anspruch nicht so schnell aufgebraucht wird.</p></div>
+      </details>
+      <details class="c-faq__item">
+        <summary>Zählt das Elterngeld beim Bürgergeld oder Wohngeld als Einkommen?</summary>
+        <div class="c-faq__answer"><p>Elterngeld wird bei einkommensabhängigen Sozialleistungen grundsätzlich als Einkommen angerechnet, mit Ausnahme eines Elterngeldfreibetrags für Menschen, die vor der Geburt erwerbstätig waren. Wenn ihr solche Leistungen bezieht, klärt das vor der Antragstellung mit der jeweiligen Stelle – die Regeln unterscheiden sich je nach Leistung.</p></div>
+      </details>
+</div>
+</section>
+
+<aside class="c-callout c-callout--info" role="note">
+  <p class="c-callout__title">Kurz gesagt</p>
+  <div class="c-callout__body"><p>Mutterschutz läuft automatisch, Elternzeit meldest du sieben Wochen vorher schriftlich an, Elterngeld beantragst du innerhalb der ersten drei Lebensmonate. Alles andere lässt sich nachbessern. Der Elterngeldrechner und der Elterngeldplaner des Bundes rechnen eure konkrete Situation durch, bevor ihr euch festlegt – und die Elterngeldstellen der Länder beraten kostenlos, auch telefonisch.</p></div>
+</aside>
+      
+      
+<section class="sources" id="quellen">
+  <h2 class="sources__title">Quellen</h2>
+  <ol class="sources__list">
+    
+    <li class="sources__item" id="quelle-1">
+      <span class="sources__num">1</span>
+      <div>
+        <p class="sources__name"><a href="https://familienportal.de/familienportal/familienleistungen/elterngeld/faq" target="_blank" rel="noopener noreferrer">Elterngeld – Was Sie zum Elterngeld wissen müssen (FAQ)</a></p>
+        <p class="sources__pub">Familienportal des Bundes, Bundesministerium für Familie, Senioren, Frauen und Jugend · 2026 · Institutionelle Information</p>
+        
+      </div>
+    </li>
+    <li class="sources__item" id="quelle-2">
+      <span class="sources__num">2</span>
+      <div>
+        <p class="sources__name"><a href="https://familienportal.de/familienportal/familienleistungen/elternzeit/faq" target="_blank" rel="noopener noreferrer">Elternzeit – Was Sie zur Elternzeit wissen müssen (FAQ)</a></p>
+        <p class="sources__pub">Familienportal des Bundes, Bundesministerium für Familie, Senioren, Frauen und Jugend · 2026 · Institutionelle Information</p>
+        
+      </div>
+    </li>
+    <li class="sources__item" id="quelle-3">
+      <span class="sources__num">3</span>
+      <div>
+        <p class="sources__name"><a href="https://familienportal.de/familienportal/familienleistungen/mutterschaftsleistungen" target="_blank" rel="noopener noreferrer">Mutterschaftsleistungen: Mutterschaftsgeld, Arbeitgeberzuschuss, Mutterschutzlohn</a></p>
+        <p class="sources__pub">Familienportal des Bundes · 2026 · Institutionelle Information</p>
+        
+      </div>
+    </li>
+    <li class="sources__item" id="quelle-4">
+      <span class="sources__num">4</span>
+      <div>
+        <p class="sources__name"><a href="https://familienportal.de/familienportal/familienleistungen/mutterschutz/wie-lange-besteht-der-mutterschutz-vor-und-nach-der-geburt--125046" target="_blank" rel="noopener noreferrer">Wie lange besteht der Mutterschutz vor und nach der Geburt?</a></p>
+        <p class="sources__pub">Familienportal des Bundes · 2026 · Institutionelle Information</p>
+        
+      </div>
+    </li>
+    <li class="sources__item" id="quelle-5">
+      <span class="sources__num">5</span>
+      <div>
+        <p class="sources__name"><a href="https://www.bmbfsfj.bund.de/bmbfsfj/themen/familie/familienleistungen/neuregelungen-beim-elterngeld-fuer-geburten-ab-1-april-2024-sowie-ab-1-april-2025-228588" target="_blank" rel="noopener noreferrer">Neuregelungen beim Elterngeld für Geburten ab 1. April 2024 sowie ab 1. April 2025</a></p>
+        <p class="sources__pub">Bundesministerium für Bildung, Familie, Senioren, Frauen und Jugend · 2025 · Institutionelle Information</p>
+        
+      </div>
+    </li>
+    <li class="sources__item" id="quelle-6">
+      <span class="sources__num">6</span>
+      <div>
+        <p class="sources__name"><a href="https://www.arbeitsagentur.de/presse/2025-53-kindergeld-steigt-ab-januar-2026" target="_blank" rel="noopener noreferrer">Kindergeld steigt ab Januar 2026</a></p>
+        <p class="sources__pub">Bundesagentur für Arbeit · 2025 · Institutionelle Information</p>
+        
+      </div>
+    </li>
+  </ol>
+  <p class="sources__hint">Wie wir Quellen auswählen und Aussagen einordnen, steht in der <a href="../methodik.html">Methodik</a>.</p>
+</section>
+    </div>
+  </div>
+
+  
+<section class="band band--sunk related">
+  <div class="wrap">
+    <h2 class="band__title">Passt dazu</h2>
+    <div class="card-grid">
+<a class="card card--phase-2" href="../artikel/wochenbett.html">
+  <span class="card__kicker">Neugeborenes</span>
+  <h3 class="card__title">Wochenbett: die ersten Wochen zu dritt</h3>
+  <p class="card__text">Das Wochenbett dauert sechs bis acht Wochen. In dieser Zeit bildet sich die Gebärmutter von rund einem Kilogramm auf 50 bis 70 Gramm zurück, eine …</p>
+  <span class="card__foot">9 Min.</span>
+</a>
+<a class="card card--phase-1" href="../artikel/erstausstattung.html">
+  <span class="card__kicker">Schwangerschaft</span>
+  <h3 class="card__title">Erstausstattung: was wirklich gebraucht wird</h3>
+  <p class="card__text">Ein Neugeborenes braucht sehr wenig: einen sicheren Schlafplatz, Kleidung zum Wechseln, etwas zum Wickeln, eine Möglichkeit, transportiert zu werden …</p>
+  <span class="card__foot">6 Min.</span>
+</a></div>
+  </div>
+</section>
+</article>
+</main>
+
+
+<footer class="site-footer">
+  <div class="site-footer__inner">
+    <div class="site-footer__brand">
+      <p class="site-footer__name">Erziehungswegweiser</p>
+      <p class="site-footer__claim">Ein Kompendium zu Schwangerschaft, Neugeborenen, Babys, Kleinkindern und Erziehung – aufbereitet für Eltern, gestützt auf Leitlinien und Forschung.</p>
+    </div>
+
+    <nav class="site-footer__nav" aria-label="Fußzeile">
+      <div>
+        <p class="site-footer__head">Einstieg</p>
+        <ul>
+          <li><a href="../alter/">Nach Alter</a></li>
+          <li><a href="../themen/">Nach Thema</a></li>
+          <li><a href="../artikel/">Alle Artikel</a></li>
+        </ul>
+      </div>
+      <div>
+        <p class="site-footer__head">Hintergrund</p>
+        <ul>
+          <li><a href="../ueber.html">Über das Projekt</a></li>
+          <li><a href="../methodik.html">Methodik &amp; Evidenz</a></li>
+          <li><a href="../quellen.html">Quellenverzeichnis</a></li>
+        </ul>
+      </div>
+      <div>
+        <p class="site-footer__head">Hilfe</p>
+        <ul>
+          <li><a href="../notfall.html">Notfall &amp; Hotlines</a></li>
+          <li><a href="../glossar.html">Glossar</a></li>
+        </ul>
+      </div>
+    </nav>
+  </div>
+
+  <div class="site-footer__legal">
+    <p class="disclaimer">
+      <strong>Wichtig:</strong> Dieses Kompendium ersetzt keine ärztliche, therapeutische
+      oder psychologische Beratung. Bei Sorgen um die Gesundheit oder Entwicklung
+      eines Kindes wende dich an die Kinderarztpraxis. In akuten Notfällen gilt der
+      Notruf <strong>112</strong>.
+    </p>
+  </div>
+</footer>
+
+
+<div class="overlay" data-search-overlay hidden>
+  <div class="overlay__backdrop" data-close-search></div>
+  <div class="overlay__panel search" role="dialog" aria-modal="true" aria-label="Suche">
+    <div class="search__field">
+      <svg class="icon " viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><circle cx="11" cy="11" r="7"/><path d="m20 20-3.5-3.5"/></svg>
+      <input type="search" class="search__input" data-search-input placeholder="Wonach suchst du? z. B. Schlaf, Trotzphase, Beikost" autocomplete="off" spellcheck="false">
+      <button class="icon-btn" type="button" data-close-search aria-label="Suche schließen"><svg class="icon " viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M6 6l12 12M18 6L6 18"/></svg></button>
+    </div>
+    <div class="search__filters" data-search-filters></div>
+    <div class="search__results" data-search-results>
+      <p class="search__hint">Tippe los – die Suche läuft vollständig in deinem Browser.</p>
+    </div>
+  </div>
+</div>
+
+<div class="overlay" data-settings-overlay hidden>
+  <div class="overlay__backdrop" data-close-settings></div>
+  <div class="overlay__panel settings" role="dialog" aria-modal="true" aria-label="Darstellung">
+    <div class="settings__head">
+      <h2>Darstellung</h2>
+      <button class="icon-btn" type="button" data-close-settings aria-label="Schließen"><svg class="icon " viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M6 6l12 12M18 6L6 18"/></svg></button>
+    </div>
+
+    <fieldset class="settings__group">
+      <legend>Farbmodus</legend>
+      <div class="segmented" data-pref="theme">
+        <button type="button" data-value="light">Hell</button>
+        <button type="button" data-value="auto">Automatisch</button>
+        <button type="button" data-value="dark">Dunkel</button>
+      </div>
+    </fieldset>
+
+    <fieldset class="settings__group">
+      <legend>Schriftgröße</legend>
+      <div class="segmented" data-pref="textsize">
+        <button type="button" data-value="m">Normal</button>
+        <button type="button" data-value="l">Groß</button>
+        <button type="button" data-value="xl">Sehr groß</button>
+      </div>
+    </fieldset>
+
+    <fieldset class="settings__group">
+      <legend>Lesemodus</legend>
+      <label class="switch">
+        <input type="checkbox" data-pref-toggle="reading">
+        <span class="switch__track" aria-hidden="true"></span>
+        <span class="switch__label">Immersiv lesen – Navigation und Beiwerk treten zurück</span>
+      </label>
+    </fieldset>
+
+    <fieldset class="settings__group">
+      <legend>Alter meines Kindes</legend>
+      <p class="settings__hint">Damit hebt die Seite passende Inhalte hervor. Die Angabe bleibt in deinem Browser.</p>
+      <label class="field">
+        <span>Geburtsdatum</span>
+        <input type="date" data-pref-birthdate>
+      </label>
+      <p class="settings__age" data-age-readout aria-live="polite"></p>
+      <button type="button" class="btn btn--quiet" data-clear-birthdate>Angabe löschen</button>
+    </fieldset>
+  </div>
+</div>
+
+<script src="../assets/js/app.js" defer></script>
+<script src="../assets/js/search.js" defer></script>
+
+</body>
+</html>
