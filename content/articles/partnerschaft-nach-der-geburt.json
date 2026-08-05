@@ -1,0 +1,277 @@
+{
+  "slug": "partnerschaft-nach-der-geburt",
+  "title": "Paar bleiben, wenn drei daraus werden",
+  "subtitle": "Warum die Beziehungszufriedenheit nach der Geburt bei fast allen sinkt, was daran an Schlafmangel liegt und was an Arbeitsteilung – und welche wenigen Dinge nachweislich helfen.",
+  "phases": ["neugeborenes", "saeugling", "kleinkind"],
+  "topics": ["familie", "eltern"],
+  "updated": "2026-08-05",
+  "summary": "Die Zufriedenheit mit der Partnerschaft sinkt nach der Geburt des ersten Kindes bei den meisten Paaren – das ist einer der robustesten Befunde der Familienforschung und kein Zeichen dafür, dass etwas mit euch nicht stimmt. Die Ursachen sind erstaunlich banal: zu wenig Schlaf, zu wenig Zeit zu zweit und eine Arbeitsteilung, die sich in den ersten Monaten oft ungeplant verschiebt und dann bleibt. Was hilft, ist ebenfalls wenig spektakulär: früh über konkrete Aufgaben sprechen statt über Gerechtigkeit im Allgemeinen, Verantwortung teilen statt Aufgaben zu delegieren, und die Wiedergutmachung nach einem Streit ernster nehmen als den Streit selbst.",
+  "keyFacts": [
+    "Nach der Geburt des ersten Kindes sinkt die Beziehungszufriedenheit bei den meisten Paaren messbar und bleibt zunächst niedriger.",
+    "Der stärkste Einzelfaktor in den ersten Monaten ist Schlafmangel, nicht mangelnde Liebe.",
+    "Frauen leisten in Deutschland 44,3 Prozent mehr unbezahlte Sorgearbeit als Männer – rund neun Stunden pro Woche mehr.",
+    "Etwa 8 bis 10 Prozent der Väter entwickeln im ersten Jahr nach der Geburt depressive Symptome.",
+    "Paarkurse rund um die Geburt zeigen kleine, aber nachweisbare Effekte – vor allem, wenn sie vor der Geburt beginnen."
+  ],
+  "blocks": [
+    {
+      "type": "p",
+      "lead": true,
+      "text": "Es gibt in der Familienforschung wenige Befunde, die so oft repliziert wurden und über die so selten offen gesprochen wird: Nach der Geburt des ersten Kindes sinkt bei den meisten Paaren die Zufriedenheit mit der Beziehung. Nicht bei den unglücklichen Paaren. Bei den meisten. Wer das vorher weiß, erlebt die erste schlechte Phase nicht als Beweis dafür, dass die Beziehung ein Fehler war, sondern als das, was sie meistens ist: eine Umbauphase unter Schlafentzug."
+    },
+    {
+      "type": "section",
+      "heading": "Was die Forschung tatsächlich zeigt",
+      "blocks": [
+        {
+          "type": "evidence",
+          "level": "stark",
+          "claim": "Eltern berichten im Durchschnitt eine geringere Beziehungszufriedenheit als kinderlose Paare, und der Effekt ist bei Müttern von Säuglingen am deutlichsten ausgeprägt.",
+          "note": "Die Metaanalyse von Twenge, Campbell und Foster fasst zahlreiche Studien zusammen. Ein Beispiel aus den Daten: 38 Prozent der Mütter von Säuglingen berichten hohe Beziehungszufriedenheit gegenüber 62 Prozent der kinderlosen Frauen. Als Erklärung diskutieren die Autoren Rollenkonflikte und den Verlust an Freiheit – nicht ein Nachlassen der Zuneigung. Der Effekt fällt in höheren Einkommensgruppen und in jüngeren Geburtsjahrgängen stärker aus, was dafür spricht, dass Erwartungen eine Rolle spielen.",
+          "sources": [0]
+        },
+        {
+          "type": "evidence",
+          "level": "stark",
+          "claim": "Eine achtjährige Längsschnittstudie an 218 Paaren zeigt nach der Geburt des ersten Kindes eine plötzliche Verschlechterung der Beziehungsqualität, die über die folgenden Jahre bestehen bleibt. Mütter und Väter verändern sich dabei ähnlich stark.",
+          "note": "Wichtig an dieser Studie ist der Vergleich mit dem Trend davor: Beziehungen werden über die Jahre ohnehin etwas weniger euphorisch. Nach der Geburt kommt aber ein zusätzlicher, abrupter Knick dazu. Die Effekte sind klein bis mittelgroß – das heißt, sie sind real, aber sie sagen über euer konkretes Paar wenig aus. Ermutigend ist der zweite Befund derselben Studie: Wie stark der Knick ausfällt, hängt systematisch von Merkmalen vor der Geburt ab. Es ist also beeinflussbar.",
+          "sources": [1]
+        },
+        {
+          "type": "p",
+          "text": "Man muss diese Zahlen richtig lesen. Sie beschreiben Durchschnitte über viele Paare, nicht Schicksale. Ein erheblicher Teil der Paare berichtet keine Verschlechterung, manche sogar eine Verbesserung. Und die zweite Lesart ist wichtiger als die erste: Wenn ein Effekt so verlässlich auftritt, liegt er nicht an individuellem Versagen, sondern an Bedingungen. Bedingungen kann man verändern."
+        }
+      ]
+    },
+    {
+      "type": "section",
+      "heading": "Die drei üblichen Verdächtigen",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "In den Berichten von Paaren tauchen immer wieder dieselben drei Themen auf: Schlaf, Arbeitsteilung und der Verlust der gemeinsamen Zeit. Sie hängen zusammen und verstärken sich gegenseitig."
+        },
+        {
+          "type": "list",
+          "ordered": true,
+          "items": [
+            { "title": "Schlafmangel:", "text": "Chronisch unterbrochener Schlaf senkt die Impulskontrolle, verschiebt die Wahrnehmung ins Negative und macht aus einer Frage eine Anklage. Ein großer Teil der Konflikte im ersten Jahr ist kein Beziehungsproblem, sondern ein Schlafproblem, das sich als Beziehungsproblem verkleidet. Ein guter Test: Verschieb den Streit auf einen Zeitpunkt, an dem beide geschlafen haben. Erstaunlich viele Themen lösen sich dabei in Luft auf – und die, die bleiben, sind die echten." },
+            { "title": "Arbeitsteilung:", "text": "In den ersten Wochen entstehen aus purer Notwendigkeit Zuständigkeiten. Wer stillt, ist nachts dran; wer nachts dran ist, schläft tagsüber; wer tagsüber zu Hause ist, macht die Wäsche. Das Problem ist nicht die Aufteilung, sondern dass sie sich einschleift und später als natürliche Ordnung behandelt wird." },
+            { "title": "Zeit zu zweit:", "text": "Sie verschwindet zuerst und kehrt am langsamsten zurück. Dabei geht es weniger um romantische Abende als um Gespräche, in denen es nicht um Organisation geht. Viele Paare merken erst nach Monaten, dass sie seit Wochen ausschließlich Logistik besprochen haben." }
+          ]
+        },
+        {
+          "type": "callout",
+          "variant": "warn",
+          "title": "Der Unterschied zwischen Helfen und Zuständigsein",
+          "text": "„Sag mir, was ich tun soll“ klingt hilfsbereit und verlagert trotzdem die gesamte Denkarbeit auf die andere Person: wissen, was zu tun ist, wann es zu tun ist, und daran denken, es einzufordern. Diese unsichtbare Planungsarbeit ist es, die viele Eltern erschöpft – nicht das Wäscheaufhängen. Der wirksame Schritt ist deshalb nicht, mehr zu helfen, sondern ganze Bereiche vollständig zu übernehmen: Wer für die Kita-Kommunikation zuständig ist, ist auch für das Erinnern zuständig."
+        }
+      ]
+    },
+    {
+      "type": "section",
+      "heading": "Wie ungleich es tatsächlich verteilt ist",
+      "blocks": [
+        {
+          "type": "evidence",
+          "level": "stark",
+          "claim": "In Deutschland lag der Gender Care Gap 2022 bei 44,3 Prozent: Frauen leisteten im Schnitt rund neun Stunden pro Woche mehr unbezahlte Arbeit als Männer, also etwa eine Stunde und 19 Minuten pro Tag. Bei der Kinderbetreuung liegt der Unterschied bei rund einer Stunde täglich.",
+          "note": "Die Zahlen stammen aus der Zeitverwendungserhebung des Statistischen Bundesamtes und beschreiben die Gesamtbevölkerung. In Haushalten mit kleinen Kindern fällt der Unterschied größer aus als im Durchschnitt. Das ist keine Aussage über euer Paar – aber es erklärt, warum dieses Thema in so vielen Beziehungen mit kleinen Kindern derselbe Konfliktherd ist, und es entlastet den Verdacht, es liege am eigenen Unvermögen.",
+          "sources": [3, 4]
+        },
+        {
+          "type": "figure",
+          "kind": "bar",
+          "title": "Mehr unbezahlte Arbeit von Frauen gegenüber Männern, pro Tag",
+          "alt": "Balkendiagramm mit zwei Balken: unbezahlte Arbeit insgesamt 79 Minuten, Kinderbetreuung 60 Minuten",
+          "data": [
+            { "label": "Unbezahlte Arbeit insgesamt", "value": 79, "display": "79 Min." },
+            { "label": "davon Kinderbetreuung", "value": 60, "display": "60 Min." }
+          ],
+          "caption": "Zeitverwendungserhebung 2022 des Statistischen Bundesamtes: Frauen wenden täglich rund eine Stunde und 19 Minuten mehr Zeit für unbezahlte Arbeit auf als Männer; bei der Kinderbetreuung beträgt der Unterschied etwa eine Stunde.",
+          "sources": [3]
+        },
+        {
+          "type": "p",
+          "text": "Interessant ist, wo die Weichen gestellt werden. Die Verteilung, die sich in den ersten Monaten ergibt, hält sich oft über Jahre – auch dann noch, wenn beide wieder erwerbstätig sind. Der wirksamste Hebel liegt deshalb früh: in der Frage, wer wie lange Elternzeit nimmt, wer nachts mit aufsteht, sobald das möglich ist, und wer welche Bereiche vollständig übernimmt, bevor sich Routinen verfestigen."
+        },
+        {
+          "type": "p",
+          "text": "Dass dieses Thema so schwer zu besprechen ist, liegt auch daran, dass es meist im falschen Moment hochkommt – nachts, im Streit, als Vorwurf. Ein Vorwurf provoziert Rechtfertigung, und Rechtfertigung erzeugt Gegenvorwürfe. Hilfreicher ist es, die Lage erst einmal gemeinsam sichtbar zu machen, bevor sie bewertet wird: eine Woche lang notieren, was tatsächlich anfällt, inklusive der Dinge, die niemand sieht. Danach ist das Gespräch ein anderes."
+        },
+        {
+          "type": "comparison",
+          "title": "Zwei Arten, dasselbe Gespräch zu führen",
+          "columns": [
+            {
+              "title": "Führt selten weiter",
+              "tone": "bad",
+              "items": [
+                "„Du machst nie etwas im Haushalt.“",
+                "Bilanzen über Wochen aufmachen, wer mehr geleistet hat",
+                "Das Thema nachts um drei ansprechen",
+                "Gerechtigkeit im Allgemeinen verhandeln",
+                "Kritik an der Ausführung, nachdem jemand etwas übernommen hat"
+              ]
+            },
+            {
+              "title": "Führt öfter weiter",
+              "tone": "good",
+              "items": [
+                "Eine Woche lang alles aufschreiben, was anfällt – auch das Daran-Denken",
+                "Ganze Bereiche zuteilen statt einzelner Handgriffe",
+                "Feste Zeit im Kalender für dieses Gespräch, ausgeschlafen",
+                "Konkret werden: Wer bucht die Kinderarzttermine, wer kauft Kleidung in der nächsten Größe?",
+                "Aushalten, dass die andere Person es anders macht"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "section",
+      "heading": "Was nachweislich hilft – und was man sich sparen kann",
+      "blocks": [
+        {
+          "type": "evidence",
+          "level": "moderat",
+          "claim": "Paarbezogene Kurse und Programme rund um den Übergang zur Elternschaft zeigen kleine, aber statistisch nachweisbare positive Effekte auf die Paarbeziehung und das elterliche Wohlbefinden.",
+          "note": "Die Metaanalyse von Pinquart und Teubert wertet 21 kontrollierte Studien aus. Die Effekte sind klein – man sollte von einem Wochenendkurs keine Rettung erwarten. Was sich in den Auswertungen abzeichnet: Angebote, die schon in der Schwangerschaft beginnen und beide Partner einbeziehen, schneiden besser ab als spätere Einzelmaßnahmen. In Deutschland gibt es solche Angebote unter anderem bei Familienbildungsstätten, Ehe- und Familienberatungsstellen und im Rahmen der Frühen Hilfen, oft kostenfrei oder gegen geringe Gebühr.",
+          "sources": [2]
+        },
+        {
+          "type": "steps",
+          "title": "Fünf Dinge, die sich im Alltag umsetzen lassen",
+          "items": [
+            { "title": "Schlaf zuerst", "text": "Organisiert für beide je eine geschützte Schlafphase, in der die andere Person vollständig übernimmt – auch am Wochenende, auch wenn gestillt wird. Vier zusammenhängende Stunden verändern die Stimmungslage mehr als jedes Beziehungsgespräch." },
+            { "title": "Zuständigkeiten statt Aufgaben", "text": "Teilt Bereiche komplett auf, inklusive Planung und Erinnern: Gesundheitstermine, Kleidung, Behördenkram, Einkauf, Geburtstage. Schreibt es einmal auf, damit es nicht Verhandlungssache bleibt." },
+            { "title": "Ein festes kurzes Gespräch pro Woche", "text": "Zwanzig Minuten, gleicher Termin, zwei Fragen: Was steht diese Woche an, und wie geht es dir gerade? Kurz und regelmäßig schlägt lang und selten." },
+            { "title": "Reparatur üben", "text": "Streit gibt es in dieser Phase; entscheidend ist, wie schnell ihr wieder zueinander findet. Ein knappes „Das war unfair von mir, ich war fertig“ zwei Stunden später hat mehr Wirkung als der Versuch, Streit ganz zu vermeiden." },
+            { "title": "Hilfe von außen holen, bevor es brennt", "text": "Großeltern, Freundinnen, Nachbarn, Frühe Hilfen, Haushaltshilfe. Entlastung ist keine Kapitulation, sondern die Voraussetzung dafür, dass ihr abends noch Menschen und nicht nur Betriebspersonal seid." }
+          ]
+        },
+        {
+          "type": "p",
+          "text": "Auffällig ist, wie unspektakulär die wirksamen Maßnahmen sind. Es geht selten um große Gespräche über Liebe und Zukunft und fast immer um Organisation: wer wann schläft, wer woran denkt, wann geredet wird. Das enttäuscht Menschen, die auf eine tiefere Erklärung gehofft hatten – und es ist gleichzeitig die gute Nachricht, denn Organisation lässt sich verändern, Gefühle lassen sich nicht auf Kommando herstellen. Wer die Bedingungen verbessert, bekommt die Gefühle oft von selbst zurück."
+        },
+        {
+          "type": "callout",
+          "variant": "myth",
+          "title": "„Ein Kind kittet eine wackelige Beziehung“",
+          "text": "Das Gegenteil ist der Fall. Ein Kind verstärkt bestehende Muster: Paare, die vorher gut über Konflikte sprechen konnten, können es meist auch nachher; Paare mit ungelösten Konflikten finden nach der Geburt weniger Ruhe und Gelegenheit, sie zu klären. Wer vor der Geburt eine schwierige Phase hat, sollte sie vor der Geburt angehen – nicht danach."
+        }
+      ]
+    },
+    {
+      "type": "section",
+      "heading": "Wenn es mehr ist als Erschöpfung",
+      "blocks": [
+        {
+          "type": "evidence",
+          "level": "moderat",
+          "claim": "Auch Väter entwickeln nach der Geburt depressive Symptome. Metaanalysen kommen für die perinatale Zeit auf Häufigkeiten von etwa 8 bis 10 Prozent.",
+          "note": "Die Spannweite der Einzelstudien ist groß, weil unterschiedliche Messinstrumente und Zeitpunkte verwendet werden – deshalb keine höhere Evidenzstufe. Klinisch relevant ist vor allem, dass sich väterliche Depression oft anders zeigt als erwartet: als Reizbarkeit, Rückzug in Arbeit, Zynismus oder erhöhter Alkoholkonsum statt als offene Traurigkeit. Und: Die Depression eines Elternteils erhöht das Risiko beim anderen deutlich.",
+          "sources": [5]
+        },
+        {
+          "type": "p",
+          "text": "Die Grenze zwischen normaler Erschöpfung und behandlungsbedürftiger Belastung ist nicht scharf, aber es gibt Anhaltspunkte: wenn die Niedergeschlagenheit länger als zwei Wochen anhält, wenn nichts mehr Freude macht, wenn Schlaf auch dann nicht möglich ist, wenn das Kind schläft, wenn Gedanken kreisen und nicht abzustellen sind. Erste Anlaufstellen sind die Hausarztpraxis, die gynäkologische Praxis, die Hebamme und die Frühen Hilfen in eurer Kommune, die ihr über elternsein.info per Postleitzahl findet. In akuten Krisen ist die Telefonseelsorge rund um die Uhr erreichbar: 0800 111 0 111 oder 0800 111 0 222."
+        }
+      ]
+    },
+    {
+      "type": "section",
+      "heading": "Häufige Fragen",
+      "blocks": [
+        {
+          "type": "faq",
+          "items": [
+            {
+              "q": "Wir streiten seit der Geburt ständig. Ist unsere Beziehung kaputt?",
+              "a": "Wahrscheinlich nicht. Häufigere Konflikte im ersten Jahr sind so verbreitet, dass sie in der Forschung als Regelfall gelten. Aussagekräftiger als die Häufigkeit ist der Ton: Wenn ihr euch nach Streit wieder annähert, euch entschuldigen könnt und noch Humor findet, ist das ein gutes Zeichen. Verachtung, Rückzug über Tage und das Gefühl, gegeneinander statt miteinander zu arbeiten, sind die ernsteren Signale."
+            },
+            {
+              "q": "Wir haben keine Lust auf Sex. Wann kommt das zurück?",
+              "a": "Sehr unterschiedlich, und Monate sind normal. Beteiligt sind Hormonlage und Stillen, Wundheilung, Schlafmangel und schlicht das Gefühl, den ganzen Tag körperlich in Anspruch genommen worden zu sein. Hilfreicher als Druck ist, Körperlichkeit ohne Zielsetzung wieder aufzubauen – nebeneinanderliegen, Massage, Umarmungen, die nicht als Anfrage gemeint sind. Wenn Schmerzen im Spiel sind, gehört das gynäkologisch abgeklärt und nicht ausgehalten."
+            },
+            {
+              "q": "Wie schaffen wir Zeit zu zweit ohne Betreuung?",
+              "a": "Klein anfangen. Zwanzig Minuten nach dem Einschlafen des Kindes ohne Handy und ohne Organisationsthemen sind realistischer als der geplante Abend, der dreimal ausfällt. Manche Paare verabreden ein Themenverbot: In dieser Zeit wird nicht über Termine, Haushalt und Kind gesprochen. Das fühlt sich am Anfang künstlich an und funktioniert trotzdem."
+            },
+            {
+              "q": "Mein Partner sagt, ich lasse ihn nicht ran. Was ist da los?",
+              "a": "Das ist ein häufiges Muster: Eine Person ist von Anfang an mehr mit dem Kind zusammen, wird dadurch schneller routinierter und korrigiert die andere – die sich daraufhin zurückzieht, wodurch der Abstand wächst. Der Ausweg ist unbequem und einfach: allein lassen. Ohne Anleitung, ohne Nachkontrolle, für mehrere Stunden am Stück. Kompetenz entsteht durch Alleinverantwortung, nicht durch Assistenz."
+            },
+            {
+              "q": "Lohnt sich ein Paarkurs oder eine Beratung?",
+              "a": "Die Effekte solcher Angebote sind in Studien klein, aber vorhanden, und Beratung ist in Deutschland über Familienberatungsstellen häufig kostenlos oder sehr günstig. Am ehesten lohnt sie sich, wenn ihr früh hingeht – nicht erst, wenn ihr schon ein Jahr aneinander vorbeilebt. Eine Beratungsstelle aufzusuchen ist kein Zeichen dafür, dass die Beziehung am Ende ist."
+            },
+            {
+              "q": "Wie viel Elternzeit sollte der zweite Elternteil nehmen?",
+              "a": "Aus Sicht der Arbeitsteilung sind längere, allein verantwortete Phasen wirksamer als zwei Monate parallel zu Hause. Wer mehrere Wochen allein für Kind und Haushalt zuständig ist, baut Routinen und Selbstvertrauen auf, die später den Unterschied machen. Was rechtlich möglich ist und wie sich die Monate legen lassen, steht im Artikel zu Elterngeld und Elternzeit."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "callout",
+      "variant": "info",
+      "title": "Kurz gesagt",
+      "text": "Dass es schwieriger wird, ist der Normalfall und kein Urteil über eure Beziehung. Was zählt, sind Schlaf, klar verteilte Zuständigkeiten inklusive der Planungsarbeit, ein kurzes regelmäßiges Gespräch und die Fähigkeit, sich nach einem Streit wieder zuzuwenden. Das ist wenig – und es ist mehr, als die meisten Paare im ersten Jahr bewusst tun."
+    }
+  ],
+  "sources": [
+    {
+      "title": "Parenthood and Marital Satisfaction: A Meta-Analytic Review",
+      "publisher": "Journal of Marriage and Family (Twenge JM, Campbell WK, Foster CA)",
+      "year": "2003",
+      "kind": "Metaanalyse",
+      "url": "https://onlinelibrary.wiley.com/doi/abs/10.1111/j.1741-3737.2003.00574.x"
+    },
+    {
+      "title": "The Effect of the Transition to Parenthood on Relationship Quality: An 8-Year Prospective Study",
+      "publisher": "Journal of Personality and Social Psychology (Doss BD, Rhoades GK, Stanley SM, Markman HJ)",
+      "year": "2009",
+      "kind": "Studie",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/19254107/"
+    },
+    {
+      "title": "A Meta-analytic Study of Couple Interventions During the Transition to Parenthood",
+      "publisher": "Family Relations (Pinquart M, Teubert D)",
+      "year": "2010",
+      "kind": "Metaanalyse",
+      "url": "https://onlinelibrary.wiley.com/doi/abs/10.1111/j.1741-3729.2010.00597.x"
+    },
+    {
+      "title": "Gender Care Gap 2022: Frauen leisten 44,3 % mehr unbezahlte Arbeit als Männer (Pressemitteilung Nr. 073/24)",
+      "publisher": "Statistisches Bundesamt (Destatis), Zeitverwendungserhebung 2022",
+      "year": "2024",
+      "kind": "Institutionelle Information",
+      "url": "https://www.destatis.de/DE/Presse/Pressemitteilungen/2024/02/PD24_073_63991.html"
+    },
+    {
+      "title": "Gender Care Gap – ein Indikator für die Gleichstellung",
+      "publisher": "Bundesministerium für Bildung, Familie, Senioren, Frauen und Jugend",
+      "year": "2024",
+      "kind": "Institutionelle Information",
+      "url": "https://www.bmbfsfj.bund.de/bmbfsfj/themen/gleichstellung/gender-care-gap/indikator-fuer-die-gleichstellung/gender-care-gap-ein-indikator-fuer-die-gleichstellung-137294"
+    },
+    {
+      "title": "Prevalence of paternal depression in pregnancy and the postpartum: An updated meta-analysis",
+      "publisher": "Journal of Affective Disorders",
+      "year": "2016",
+      "kind": "Metaanalyse",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/27475890/"
+    },
+    {
+      "title": "Hilfen für Familien mit Kindern bis 3 Jahre",
+      "publisher": "Nationales Zentrum Frühe Hilfen (NZFH), elternsein.info",
+      "year": "2025",
+      "kind": "Institutionelle Information",
+      "url": "https://www.elternsein.info/"
+    }
+  ],
+  "related": ["mentale-last", "postpartale-depression", "elterliche-erschoepfung", "elterngeld-elternzeit"]
+}

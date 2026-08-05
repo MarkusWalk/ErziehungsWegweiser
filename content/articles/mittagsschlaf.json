@@ -1,0 +1,269 @@
+{
+  "slug": "mittagsschlaf",
+  "title": "Mittagsschlaf: brauchen, behalten, abgewöhnen",
+  "subtitle": "Wie lange Kinder Tagschlaf tatsächlich benötigen, woran du das Ende erkennst, was er dem Nachtschlaf wegnimmt – und was du tust, wenn die Kita eine andere Vorstellung davon hat als dein Kind.",
+  "phases": ["kleinkind", "kindergarten"],
+  "topics": ["schlaf"],
+  "updated": "2026-08-05",
+  "summary": "Der Mittagsschlaf verschwindet nicht an einem Stichtag, sondern über gut zwei Jahre hinweg: Vor dem zweiten Geburtstag schläft praktisch jedes Kind tagsüber, mit dreieinhalb bis vier Jahren hat rund die Hälfte aufgehört, mit fünfeinhalb fast alle. Für Kinder unter zwei ist Tagschlaf klar sinnvoll, danach wird die Rechnung komplizierter: Ab etwa zwei Jahren geht Tagschlaf regelmäßig zulasten des Nachtschlafs. Die praktische Frage ist deshalb selten ob, sondern wann, wie lang und wie ihr den Übergang gestaltet, ohne dass die Abende kippen.",
+  "keyFacts": [
+    "Weniger als 3 Prozent der Kinder hören vor dem zweiten Geburtstag mit dem Tagschlaf auf.",
+    "Mit vier Jahren schläft etwa die Hälfte der Kinder tagsüber nicht mehr, mit fünfeinhalb Jahren rund 6 Prozent.",
+    "Ab etwa zwei Jahren ist Tagschlaf mit späterem Einschlafen und kürzerem Nachtschlaf verbunden.",
+    "Tagschlaf unterstützt bei jüngeren Kindern nachweislich das Behalten von am Vormittag Gelerntem.",
+    "Der Gesamtschlaf über 24 Stunden zählt – nicht die Verteilung auf Tag und Nacht."
+  ],
+  "blocks": [
+    {
+      "type": "p",
+      "lead": true,
+      "text": "Der Mittagsschlaf ist der einzige Teil des Familienschlafs, bei dem die Interessen offen auseinandergehen: Dein Kind braucht ihn irgendwann nicht mehr, du brauchst ihn möglicherweise noch sehr. Das darf man aussprechen – und es ändert nichts daran, dass der Übergang irgendwann kommt."
+    },
+    {
+      "type": "section",
+      "heading": "Wann Kinder aufhören – und wie breit die Spanne ist",
+      "blocks": [
+        {
+          "type": "figure",
+          "kind": "line",
+          "title": "Anteil der Kinder, die den Mittagsschlaf aufgegeben haben",
+          "alt": "Liniendiagramm vom zweiten bis zum sechsten Lebensjahr. Der Anteil steigt von unter drei Prozent mit zwei Jahren auf rund 94 Prozent mit fünfeinhalb Jahren.",
+          "xMin": 2,
+          "xMax": 6,
+          "yMin": 0,
+          "yMax": 100,
+          "xTicks": [2, 3, 4, 5, 6],
+          "yTicks": [0, 25, 50, 75, 100],
+          "series": [
+            {
+              "label": "Kinder ohne Tagschlaf (kumuliert, in Prozent)",
+              "points": [[2, 2.5], [3, 33], [4, 57], [4.5, 80], [5.5, 94]]
+            }
+          ],
+          "caption": "Nach einer systematischen Übersichtsarbeit mit Metaanalyse zu Schlafmustern von Kindern zwischen 0 und 12 Jahren (Staton et al., Sleep Medicine Reviews 2020). Die Kurve zeigt, wie sehr sich der Ausstieg verteilt: Zwischen dem dritten und dem fünften Geburtstag ist praktisch jeder Zeitpunkt normal.",
+          "sources": [0]
+        },
+        {
+          "type": "evidence",
+          "level": "stark",
+          "claim": "Der Mittagsschlaf endet nicht in einem engen Zeitfenster, sondern über etwa drei Jahre verteilt. Vor dem zweiten Geburtstag hört fast kein Kind auf, zwischen drei und fünf Jahren steigt der Anteil steil an.",
+          "note": "Die Metaanalyse fasst Daten aus vielen Ländern zusammen und beschreibt drei Phasen: viele kurze Schläfchen im ersten Jahr, ein Mittagsschlaf im zweiten und dritten Jahr, dann der Ausstieg. Praktisch heißt das: Ein Dreijähriger, der noch zwei Stunden schläft, ist genauso im Rahmen wie ein Dreijähriger, der seit einem halben Jahr nicht mehr schläft. Wer sich mit anderen Familien vergleicht, vergleicht hier verlässlich falsch.",
+          "sources": [0, 6]
+        },
+        {
+          "type": "p",
+          "text": "Wichtiger als die Verteilung auf Tag und Nacht ist die Summe. WHO und Konsensempfehlungen nennen für Ein- bis Zweijährige 11 bis 14 Stunden pro 24 Stunden, für Drei- bis Vierjährige 10 bis 13 Stunden – jeweils einschließlich Tagschlaf. Ein Kind, das mittags 90 Minuten schläft und nachts zehn Stunden, liegt genauso gut wie eines, das mittags nichts schläft und nachts zwölf."
+        }
+      ]
+    },
+    {
+      "type": "section",
+      "heading": "Was der Mittagsschlaf leistet",
+      "blocks": [
+        {
+          "type": "evidence",
+          "level": "moderat",
+          "claim": "Ein Mittagsschlaf hilft jüngeren Kindern, am Vormittag Gelerntes zu behalten. Der Effekt zeigt sich im Vergleich zu einer gleich langen Wachphase und ist bei Kindern am deutlichsten, die regelmäßig schlafen.",
+          "note": "Belegt in einer US-amerikanischen Untersuchung an Vorschulkindern, in der Gedächtnisleistungen nach einem Mittagsschlaf im Kindergarten besser waren als nach einem gleich langen wachen Zeitraum. Die Studien dieses Typs sind klein und arbeiten mit Laboraufgaben – der Befund ist konsistent, aber er rechtfertigt keine Panik, wenn ein Kind an einem Tag nicht schläft.",
+          "sources": [2]
+        },
+        {
+          "type": "p",
+          "text": "Der spürbarere Nutzen ist ohnehin ein anderer: Ein müdes Kleinkind bricht am späten Nachmittag zusammen. Der Mittagsschlaf ist für viele Familien weniger eine Lernmaßnahme als eine Stabilitätsmaßnahme – für das Kind und für die Erwachsenen, die dann kurz durchatmen. Auch das ist ein legitimes Argument."
+        }
+      ]
+    },
+    {
+      "type": "section",
+      "heading": "Was er dem Nachtschlaf wegnimmt",
+      "blocks": [
+        {
+          "type": "evidence",
+          "level": "moderat",
+          "claim": "Ab etwa zwei Jahren ist Tagschlaf regelmäßig mit späterem Einschlafen am Abend sowie kürzerem und weniger erholsamem Nachtschlaf verbunden.",
+          "note": "Das ist das durchgängigste Ergebnis einer systematischen Übersichtsarbeit zu Tagschlaf bei Kindern von 0 bis 5 Jahren. Einschränkung, die dazugehört: Alle eingeschlossenen Arbeiten waren Beobachtungsstudien von methodisch niedriger Qualität. Ein Ursache-Wirkungs-Nachweis ist das nicht – aber die Richtung ist eindeutig genug, um sie ernst zu nehmen, wenn eure Abende schwierig geworden sind.",
+          "sources": [1]
+        },
+        {
+          "type": "p",
+          "text": "Für den Alltag ist das die entscheidende Information. Wenn dein Kind abends anderthalb Stunden wach im Bett liegt, ist der wahrscheinlichste Grund nicht Trotz, sondern fehlender Schlafdruck. Bevor du etwas an der Abendgestaltung änderst, lohnt ein Blick auf den Nachmittag: Wie lang war der Mittagsschlaf, und wann endete er?"
+        },
+        {
+          "type": "callout",
+          "variant": "tip",
+          "title": "Zwei Schrauben, bevor du ganz aufhörst",
+          "items": [
+            "Die Länge begrenzen: Wecke nach 60 bis 90 Minuten, statt schlafen zu lassen, bis das Kind von selbst aufwacht. Das erhält den Tagschlaf und schont den Abend.",
+            "Den Zeitpunkt vorziehen: Als grobe Orientierung sollten zwischen Aufwachen und gewünschter Bettzeit mindestens vier Stunden liegen. Ein Schlaf, der um 16:30 Uhr endet, macht eine Bettzeit um 19 Uhr unwahrscheinlich."
+          ]
+        }
+      ]
+    },
+    {
+      "type": "section",
+      "heading": "Woran du merkst, dass es reicht",
+      "blocks": [
+        {
+          "type": "checklist",
+          "id": "ende-tagschlaf",
+          "title": "Anzeichen, dass der Mittagsschlaf ausläuft",
+          "items": [
+            "Dein Kind liegt mittags über Wochen wach da und schläft nicht mehr ein",
+            "Nach dem Mittagsschlaf braucht es abends deutlich länger als früher, um einzuschlafen",
+            "Es wacht morgens sehr früh auf oder nachts wieder häufiger",
+            "An Tagen ohne Mittagsschlaf ist es am Nachmittag zwar müde, aber nicht unerträglich – und schläft abends schnell ein",
+            "Das Muster hält über zwei bis drei Wochen an und fällt nicht mit Infekt, Umzug, Kita-Start oder Geschwisterkind zusammen"
+          ]
+        },
+        {
+          "type": "p",
+          "text": "Der Ausstieg verläuft bei den meisten Kindern nicht linear, sondern über Monate mit hin und her: eine Woche ohne, dann drei Tage mit, dann wieder ohne. Das ist kein Rückschritt, sondern die Normalform. Praktisch bewährt sich, den Schlaf nicht abzuschaffen, sondern das Angebot bestehen zu lassen – ohne Erwartung, dass es angenommen wird."
+        },
+        {
+          "type": "steps",
+          "title": "Der Übergang: von Schlaf zu Ruhezeit",
+          "items": [
+            {
+              "title": "Die Zeit behalten, den Schlaf loslassen",
+              "text": "Der Slot bleibt im Tagesablauf – gleiche Uhrzeit, gleicher Ort, gleiches Ritual. Nur der Auftrag ändert sich: ausruhen statt schlafen."
+            },
+            {
+              "title": "Ruhe definieren, nicht Schlaf verlangen",
+              "text": "Bilderbücher, Hörgeschichte, im Bett liegen und Quatsch denken – alles erlaubt, solange es liegend und leise passiert. Wer schlafen muss, schläft; wer nicht, ruht."
+            },
+            {
+              "title": "Die Dauer begrenzen",
+              "text": "30 bis 45 Minuten reichen meist. Ein klares Ende – Wecker, Musikstück, Licht – verhindert Verhandlungen und sorgt dafür, dass die Ruhezeit nicht zur Strafe wird."
+            },
+            {
+              "title": "Die Bettzeit nachziehen",
+              "text": "Fällt der Mittagsschlaf weg, fehlen dem Tag ein bis zwei Stunden Schlaf. Ziehe die Abendbettzeit für einige Wochen um 30 bis 45 Minuten vor, sonst landet ihr in einer Übermüdungsspirale mit schwierigeren Abenden."
+            },
+            {
+              "title": "Rückfalltage einplanen",
+              "text": "Nach anstrengenden Tagen, Infekten oder in den ersten Kita-Wochen schlafen Kinder wieder. Das rückgängig zu machen wäre unnötig – es ist Bedarf, kein Rückschritt."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "section",
+      "heading": "Die Kita-Realität",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "In vielen Kitas gibt es eine feste Schlaf- oder Ruhezeit nach dem Mittagessen – aus organisatorischen Gründen, nicht aus fachlichen. Für Kinder, die den Tagschlaf noch brauchen, passt das gut. Für Kinder, die ihn hinter sich haben, entstehen zwei typische Probleme: Entweder sie schlafen dort ein, weil sie liegen und es dunkel ist, und sind abends zu Hause nicht müde. Oder sie liegen 60 Minuten still da und empfinden das als Zumutung."
+        },
+        {
+          "type": "p",
+          "text": "Beides ist besprechbar. Kein Kind kann zum Schlafen gezwungen werden, und Ruhezeit ist etwas anderes als Schlafzeit. Sinnvolle Bitten sind konkret: nach 45 Minuten wecken, wenn dein Kind eingeschlafen ist. Oder: eine leise Beschäftigung für die Kinder, die nicht mehr schlafen. Ob das umsetzbar ist, hängt von Personalschlüssel und Räumen ab – und genau darüber lohnt sich ein sachliches Gespräch statt einer Forderung."
+        },
+        {
+          "type": "callout",
+          "variant": "tip",
+          "title": "Formulierungen, die im Kita-Gespräch weiterhelfen",
+          "items": [
+            "Beschreibe den Abend, nicht die Kita: Wenn er mittags länger als eine Stunde schläft, liegt er abends bis 21:30 Uhr wach.",
+            "Frag nach dem, was möglich ist, statt nach dem, was du willst: Wie handhabt ihr das bei Kindern, die nicht mehr schlafen?",
+            "Biete eine Grenze statt eines Verbots an: Wecken nach 45 Minuten wäre für uns die größte Hilfe.",
+            "Und akzeptiere, wenn es nicht geht: Dann gleicht ihr es abends aus, statt es in der Kita zu erzwingen."
+          ]
+        }
+      ]
+    },
+    {
+      "type": "section",
+      "heading": "Häufige Fragen",
+      "blocks": [
+        {
+          "type": "faq",
+          "items": [
+            {
+              "q": "Mein Kind ist zweieinhalb und will mittags nicht mehr schlafen. Ist das zu früh?",
+              "a": "Es ist früh, aber es kommt vor – rund ein Drittel der Kinder hat mit drei Jahren aufgehört. Prüfe zwei Wochen lang, wie die Abende und Nächte aussehen. Wenn dein Kind abends schneller einschläft, nachts länger durchschläft und nachmittags erträglich ist, ist der Zeitpunkt schlicht gekommen. Wenn es am Nachmittag regelmäßig zusammenbricht, halte den Slot als Ruhezeit und zieh die Bettzeit vor."
+            },
+            {
+              "q": "Wie lange darf ein Mittagsschlaf höchstens sein?",
+              "a": "Es gibt keine feste Obergrenze. Als praktischer Richtwert haben sich 60 bis 90 Minuten bewährt, weil längerer Tagschlaf dem Abend spürbar Schlafdruck entzieht. Wenn dein Kind drei Stunden schläft und trotzdem abends gut einschläft und nachts durchschläft, gibt es keinen Grund einzugreifen."
+            },
+            {
+              "q": "Darf ich mein Kind aus dem Mittagsschlaf wecken?",
+              "a": "Ja. Kinder wachen dabei manchmal verstimmt auf, aber schädlich ist es nicht. Sanft wecken heißt: Licht rein, Geräusche zulassen, Zeit geben. Rechne mit zehn bis zwanzig Minuten Übergangsphase, in der dein Kind noch nicht ansprechbar ist – das ist normal und geht vorbei."
+            },
+            {
+              "q": "Mein Kind schläft in der Kita, zu Hause aber nie. Woran liegt das?",
+              "a": "An Gruppendynamik, Tagesstruktur und daran, dass alle gleichzeitig liegen. Das ist keine Aussage über eure Abendgestaltung. Wenn der Kita-Schlaf die Abende sabotiert, ist ein Gespräch über eine Weckzeit der direktere Weg als der Versuch, es zu Hause nachzubauen."
+            },
+            {
+              "q": "Wir haben den Mittagsschlaf gestrichen und jetzt ist alles schlimmer. Was tun?",
+              "a": "Sehr wahrscheinlich fehlt Schlaf insgesamt. Übermüdete Kinder wirken nicht müde, sondern aufgedreht, und schlafen dann abends schlechter ein – das ist der klassische Teufelskreis. Zieh die Bettzeit für zwei Wochen um eine halbe Stunde vor und biete die Ruhezeit weiter an. Wenn sich nichts bessert, war der Ausstieg zu früh und ihr dürft zurück."
+            },
+            {
+              "q": "Braucht mein Vierjähriger den Mittagsschlaf für die Schulvorbereitung?",
+              "a": "Nein. Es gibt keinen Beleg dafür, dass Kinder, die früher aufhören, kognitiv benachteiligt sind. Was zählt, ist der Gesamtschlaf über 24 Stunden. Wenn der stimmt, ist die Verteilung Nebensache."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "callout",
+      "variant": "info",
+      "title": "Kurz gesagt",
+      "text": "Bis zwei Jahre gehört der Tagschlaf dazu, danach beginnt ein Ausstieg, der sich über Jahre ziehen darf. Beobachte statt zu planen: Wie sind die Abende, wie die Nächte, wie der Nachmittag? Bevor du den Mittagsschlaf ganz streichst, kürze ihn und leg ihn früher. Und wenn er wegfällt, zieh die Bettzeit vor – das ist der Schritt, den fast alle vergessen."
+    }
+  ],
+  "sources": [
+    {
+      "title": "Many naps, one nap, none: A systematic review and meta-analysis of napping patterns in children 0–12 years",
+      "publisher": "Sleep Medicine Reviews (Staton et al.)",
+      "year": "2020",
+      "kind": "Metaanalyse",
+      "url": "https://www.sciencedirect.com/science/article/abs/pii/S1087079219302151"
+    },
+    {
+      "title": "Napping, development and health from 0 to 5 years: a systematic review",
+      "publisher": "Archives of Disease in Childhood (Thorpe et al.)",
+      "year": "2015",
+      "kind": "Übersichtsarbeit",
+      "url": "https://eprints.qut.edu.au/82020/"
+    },
+    {
+      "title": "Sleep spindles in midday naps enhance learning in preschool children",
+      "publisher": "Proceedings of the National Academy of Sciences (Kurdziel, Duclos, Spencer)",
+      "year": "2013",
+      "kind": "Studie",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/24062429/"
+    },
+    {
+      "title": "Guidelines on physical activity, sedentary behaviour and sleep for children under 5 years of age",
+      "publisher": "World Health Organization",
+      "year": "2019",
+      "kind": "Leitlinie",
+      "url": "https://www.who.int/publications/i/item/9789241550536"
+    },
+    {
+      "title": "Von Schlafbedarf und Schlafdauer (1 bis 6 Jahre)",
+      "publisher": "Bundeszentrale für gesundheitliche Aufklärung (BZgA), kindergesundheit-info.de",
+      "year": "2024",
+      "kind": "Institutionelle Information",
+      "url": "https://www.kindergesundheit-info.de/themen/schlafen/1-6-jahre/schlafbedarf/"
+    },
+    {
+      "title": "National Sleep Foundation's sleep time duration recommendations: methodology and results summary",
+      "publisher": "Sleep Health (Hirshkowitz et al.)",
+      "year": "2015",
+      "kind": "Empfehlung",
+      "url": "https://www.sleephealthjournal.org/article/s2352-7218(15)00015-7/fulltext"
+    },
+    {
+      "title": "Normal sleep patterns in infants and children: A systematic review of observational studies",
+      "publisher": "Sleep Medicine Reviews (Galland, Taylor, Elder, Herbison)",
+      "year": "2012",
+      "kind": "Übersichtsarbeit",
+      "url": "https://www.sciencedirect.com/science/article/abs/pii/S1087079211000682"
+    }
+  ],
+  "related": ["schlaf-kleinkind", "schlaf-3-6", "kita-eingewoehnung", "rituale-und-struktur"]
+}

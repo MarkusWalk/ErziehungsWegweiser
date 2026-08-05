@@ -348,7 +348,10 @@
   var scenes = document.querySelectorAll('[data-scene]');
   if (scenes.length && !matchMedia('(prefers-reduced-motion: reduce)').matches) {
     var loadScenes = function () {
-      import(root.getAttribute('data-root') + 'assets/js/scenes.js')
+      /* Absolut auflösen: in einem klassischen Skript bezieht sich import()
+         sonst auf den Pfad dieser Datei, nicht auf das Dokument. */
+      var url = new URL(root.getAttribute('data-root') + 'assets/js/scenes.js', location.href).href;
+      import(url)
         .then(function (mod) { mod.mountAll(scenes); })
         .catch(function () { /* Szenen sind Beiwerk – Ausfall bleibt folgenlos. */ });
     };

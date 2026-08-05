@@ -10,7 +10,7 @@ export function layout(page, site) {
   const js = (file) => `${root}assets/js/${file}`;
 
   return `<!DOCTYPE html>
-<html lang="de" data-theme="auto">
+<html lang="de" data-theme="auto" data-root="${root}">
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">

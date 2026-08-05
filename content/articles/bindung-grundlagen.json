@@ -2,8 +2,14 @@
   "slug": "bindung-grundlagen",
   "title": "Bindung: was Kinder wirklich brauchen",
   "subtitle": "Was die Bindungsforschung tatsächlich zeigt – die vier Bindungsmuster, die Rolle der Feinfühligkeit, Bindung an mehrere Personen – und wo die populäre Erzählung über das Ziel hinausschießt.",
-  "phases": ["neugeborenes", "saeugling", "kleinkind"],
-  "topics": ["bindung"],
+  "phases": [
+    "neugeborenes",
+    "saeugling",
+    "kleinkind"
+  ],
+  "topics": [
+    "bindung"
+  ],
   "updated": "2026-08-05",
   "summary": "Bindung ist kein Gefühl, das Eltern erzeugen müssen, sondern ein biologisches Schutzsystem: Jedes Kind bindet sich an die Menschen, die regelmäßig für es da sind – auch an solche, die viele Fehler machen. Worin sich Kinder unterscheiden, ist nicht das Ob, sondern das Wie: was sie erwarten, wenn sie Trost brauchen. Feinfühligkeit ist dabei der am besten belegte Einflussfaktor, aber sie erklärt bei Weitem nicht alles. Und Bindung ist kein Schicksal: Sie sagt spätere Entwicklung nur mit kleinen bis mittleren Effekten vorher.",
   "keyFacts": [
@@ -55,12 +61,32 @@
         {
           "type": "table",
           "title": "Die vier Bindungsmuster im Überblick",
-          "head": ["Muster", "Was man beim Wiedersehen sieht", "Was das Kind gelernt hat"],
+          "head": [
+            "Muster",
+            "Was man beim Wiedersehen sieht",
+            "Was das Kind gelernt hat"
+          ],
           "rows": [
-            ["Sicher", "Sucht offen Nähe, lässt sich trösten, spielt danach wieder", "Wenn ich Stress zeige, kommt Hilfe – ich kann mich darauf verlassen"],
-            ["Unsicher-vermeidend", "Wirkt gefasst, wendet sich ab, spielt betont weiter (die Stressreaktion im Körper läuft trotzdem)", "Mit meiner Not bin ich besser allein – ich zeige sie lieber nicht"],
-            ["Unsicher-ambivalent", "Weint lange, sucht Nähe und wehrt sie gleichzeitig ab, beruhigt sich schwer", "Ob Hilfe kommt, ist unberechenbar – ich muss laut und ausdauernd sein"],
-            ["Desorganisiert", "Widersprüchliche, abbrechende Reaktionen: hinlaufen und erstarren, wegdrehen im Näherkommen", "Die Person, die mich beschützen soll, macht mir zugleich Angst"]
+            [
+              "Sicher",
+              "Sucht offen Nähe, lässt sich trösten, spielt danach wieder",
+              "Wenn ich Stress zeige, kommt Hilfe – ich kann mich darauf verlassen"
+            ],
+            [
+              "Unsicher-vermeidend",
+              "Wirkt gefasst, wendet sich ab, spielt betont weiter (die Stressreaktion im Körper läuft trotzdem)",
+              "Mit meiner Not bin ich besser allein – ich zeige sie lieber nicht"
+            ],
+            [
+              "Unsicher-ambivalent",
+              "Weint lange, sucht Nähe und wehrt sie gleichzeitig ab, beruhigt sich schwer",
+              "Ob Hilfe kommt, ist unberechenbar – ich muss laut und ausdauernd sein"
+            ],
+            [
+              "Desorganisiert",
+              "Widersprüchliche, abbrechende Reaktionen: hinlaufen und erstarren, wegdrehen im Näherkommen",
+              "Die Person, die mich beschützen soll, macht mir zugleich Angst"
+            ]
           ],
           "caption": "Die ersten drei Muster sind Anpassungsstrategien und in sich stimmig. Nur das vierte gilt als Risikomarker und ist typischerweise mit Misshandlung, unverarbeiteten Traumata oder schwerer psychischer Erkrankung der Bezugsperson verbunden."
         },
@@ -70,20 +96,40 @@
           "title": "Verteilung der Bindungsmuster weltweit",
           "alt": "Anteilsdiagramm: rund die Hälfte sicher, der Rest verteilt auf vermeidend, ambivalent und desorganisiert",
           "data": [
-            { "label": "Sicher", "value": 51.6, "display": "51,6 %" },
-            { "label": "Desorganisiert", "value": 23.5, "display": "23,5 %" },
-            { "label": "Unsicher-vermeidend", "value": 14.7, "display": "14,7 %" },
-            { "label": "Unsicher-ambivalent", "value": 10.2, "display": "10,2 %" }
+            {
+              "label": "Sicher",
+              "value": 51.6,
+              "display": "51,6 %"
+            },
+            {
+              "label": "Desorganisiert",
+              "value": 23.5,
+              "display": "23,5 %"
+            },
+            {
+              "label": "Unsicher-vermeidend",
+              "value": 14.7,
+              "display": "14,7 %"
+            },
+            {
+              "label": "Unsicher-ambivalent",
+              "value": 10.2,
+              "display": "10,2 %"
+            }
           ],
           "caption": "Zusammenfassung von rund 285 Studien mit über 20.000 Kind-Eltern-Paaren aus mehr als 20 Ländern (Madigan und Kollegen, 2023). Enthalten sind auch viele Untersuchungen aus Hochrisikogruppen, weshalb der Anteil desorganisierter Einstufungen höher liegt als in unbelasteten Stichproben.",
-          "sources": [1]
+          "sources": [
+            0
+          ]
         },
         {
           "type": "evidence",
           "level": "stark",
           "claim": "Unsichere Bindungsmuster sind häufig und über Kulturen hinweg verbreitet. Sicher gebunden ist etwa die Hälfte bis zwei Drittel der Kinder – je nach Stichprobe.",
-          "note": "Schon die erste große kulturvergleichende Auswertung von 1988 fand mehr Unterschiede innerhalb einzelner Länder als zwischen ihnen. Praktisch heißt das: Ein unsicheres Muster ist keine Diagnose und kein Befund, den man an einem einzelnen Kind ablesen könnte. Die Verfahren wurden für Gruppenvergleiche in der Forschung entwickelt, nicht für die Einschätzung eines einzelnen Kindes im Alltag.",
-          "sources": [0, 1]
+          "note": "Die Daten stammen aus mehr als 20 Ländern, und die Unterschiede innerhalb einzelner Länder sind größer als die zwischen ihnen. Praktisch heißt das: Ein unsicheres Muster ist keine Diagnose und kein Befund, den man an einem einzelnen Kind ablesen könnte. Die Verfahren wurden für Gruppenvergleiche in der Forschung entwickelt, nicht für die Einschätzung eines einzelnen Kindes im Alltag.",
+          "sources": [
+            0
+          ]
         },
         {
           "type": "callout",
@@ -102,7 +148,9 @@
           "level": "moderat",
           "claim": "Feinfühliges Elternverhalten hängt mit späterer Bindungssicherheit zusammen, erklärt sie aber nur zu einem kleineren Teil.",
           "note": "Die maßgebliche Zusammenfassung von 66 Studien mit über 4.000 Kindern fand einen Zusammenhang mittlerer Stärke (in der Kernauswertung r = 0,24). Das ist deutlich mehr als nichts – und deutlich weniger als die Alltagserzählung, Bindung sei das direkte Ergebnis elterlicher Anstrengung. Feinfühligkeit ist, in den Worten der Autoren, eine wichtige, aber nicht die alleinige Bedingung.",
-          "sources": [2]
+          "sources": [
+            1
+          ]
         },
         {
           "type": "p",
@@ -116,8 +164,10 @@
           "type": "evidence",
           "level": "stark",
           "claim": "Feinfühligkeit lässt sich durch gezielte, kurze Beratung messbar verbessern – und mit ihr, in kleinerem Ausmaß, auch die Bindungssicherheit.",
-          "note": "Eine Zusammenfassung von 70 Interventionsstudien fand deutliche Effekte auf das Elternverhalten und kleinere auf die Bindungssicherheit der Kinder. Wirksam waren dabei nicht die aufwendigsten Programme, sondern die fokussierten: wenige Sitzungen, klarer Verhaltensbezug. Ein Cochrane-Review zu Videofeedback-Beratung kommt in dieselbe Richtung. Für Eltern ist das die wichtigste Nachricht dieses Kapitels: Es ist veränderbar, und zwar ohne Therapiejahre.",
-          "sources": [3, 4]
+          "note": "Eine Zusammenfassung von 70 Interventionsstudien fand deutliche Effekte auf das Elternverhalten und kleinere auf die Bindungssicherheit der Kinder. Wirksam waren dabei nicht die aufwendigsten Programme, sondern die fokussierten: wenige Sitzungen, klarer Verhaltensbezug. Für Eltern ist das die wichtigste Nachricht dieses Kapitels: Es ist veränderbar, und zwar ohne Therapiejahre.",
+          "sources": [
+            2
+          ]
         }
       ]
     },
@@ -138,7 +188,10 @@
           "level": "moderat",
           "claim": "Fremdbetreuung an sich – Beginn, Umfang, Art – verändert die Bindungssicherheit zu den Eltern nicht. Ein erhöhtes Risiko zeigte sich nur, wenn wenig feinfühlige Betreuung zu Hause mit wenig feinfühliger Betreuung außer Haus zusammenkam.",
           "note": "Das ist das Ergebnis der großen US-amerikanischen NICHD-Längsschnittstudie, die über 1.300 Kinder von Geburt an begleitet hat. Übertragbar ist es nicht eins zu eins auf deutsche Verhältnisse, aber die Grundaussage ist stabil: Was zählt, ist die Qualität der Beziehungen – innen wie außen –, nicht der Betreuungsbeginn im Kalender.",
-          "sources": [5]
+          "sources": [
+            3,
+            6
+          ]
         }
       ]
     },
@@ -157,7 +210,9 @@
           "level": "umstritten",
           "claim": "Ob prompte Reaktion auf Weinen das Weinen im späteren ersten Lebensjahr verringert, ist wissenschaftlich nicht abschließend geklärt. Dass sie schadet, zeigt jedoch keine Studie.",
           "note": "Die klassische Untersuchung von Bell und Ainsworth (1972) fand: Je schneller Mütter reagierten, desto weniger weinten die Kinder gegen Ende des ersten Jahres. Eine methodisch strengere Wiederholung kam später zu einem anderen Ergebnis. Für den Alltag ändert das wenig: Der Streit dreht sich darum, ob Reagieren einen Zusatznutzen bringt – nicht darum, ob es schadet.",
-          "sources": [6, 7]
+          "sources": [
+            4
+          ]
         }
       ]
     },
@@ -170,7 +225,9 @@
           "level": "moderat",
           "claim": "Frühe Bindungssicherheit hängt mit späterer sozialer Kompetenz und mit weniger auffälligem Verhalten zusammen. Die Effekte sind real, aber klein bis mittelgroß.",
           "note": "Eine Zusammenschau der vorliegenden Metaanalysen fand für den Zusammenhang zwischen Bindungssicherheit und sozialer Kompetenz unter Gleichaltrigen einen Effekt von d = 0,39 – nach den üblichen Maßstäben ein moderater Zusammenhang. Für innere Belastungen wie Ängstlichkeit fällt er noch kleiner aus. Bindung ist damit ein Faktor unter vielen, kein Schalter, der die Biografie festlegt.",
-          "sources": [8]
+          "sources": [
+            5
+          ]
         },
         {
           "type": "p",
@@ -230,13 +287,6 @@
   ],
   "sources": [
     {
-      "title": "Cross-cultural patterns of attachment: A meta-analysis of the strange situation",
-      "publisher": "Child Development (van IJzendoorn & Kroonenberg)",
-      "year": "1988",
-      "kind": "Metaanalyse",
-      "url": "https://scholarlypublications.universiteitleiden.nl/access/item:2856033/view"
-    },
-    {
       "title": "The first 20,000 strange situation procedures: A meta-analytic review",
       "publisher": "Psychological Bulletin (Madigan, Fearon, van IJzendoorn u. a.)",
       "year": "2023",
@@ -258,13 +308,6 @@
       "url": "https://scholarlypublications.universiteitleiden.nl/handle/1887/2348"
     },
     {
-      "title": "Video feedback for parental sensitivity and attachment security in children under five years",
-      "publisher": "Cochrane Database of Systematic Reviews (O'Hara u. a.)",
-      "year": "2019",
-      "kind": "Übersichtsarbeit",
-      "url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD012348.pub2/full"
-    },
-    {
       "title": "The Effects of Infant Child Care on Infant-Mother Attachment Security: Results of the NICHD Study of Early Child Care",
       "publisher": "Child Development (NICHD Early Child Care Research Network)",
       "year": "1997",
@@ -279,13 +322,6 @@
       "url": "https://eric.ed.gov/?id=EJ066002"
     },
     {
-      "title": "Maternal Unresponsiveness and Infant Crying. A Critical Replication of the Bell & Ainsworth Study",
-      "publisher": "Advances in Psychology (Hubbard & van IJzendoorn)",
-      "year": "1987",
-      "kind": "Studie",
-      "url": "https://www.sciencedirect.com/science/article/abs/pii/S0166411508610791"
-    },
-    {
       "title": "Attachment in the Early Life Course: Meta-Analytic Evidence for Its Role in Socioemotional Development",
       "publisher": "Child Development Perspectives (Groh, Fearon, van IJzendoorn u. a.)",
       "year": "2017",
@@ -298,14 +334,12 @@
       "year": "abgerufen 2026",
       "kind": "Institutionelle Information",
       "url": "https://www.kindergesundheit-info.de/themen/entwicklung/0-12-monate/bindung/"
-    },
-    {
-      "title": "Narrowing the transmission gap: A synthesis of three decades of research on intergenerational transmission of attachment",
-      "publisher": "Psychological Bulletin (Verhage u. a.)",
-      "year": "2016",
-      "kind": "Metaanalyse",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/26653864/"
     }
   ],
-  "related": ["feinfuehligkeit", "fremdeln-und-trennungsangst", "co-regulation", "kita-eingewoehnung"]
+  "related": [
+    "feinfuehligkeit",
+    "fremdeln-und-trennungsangst",
+    "co-regulation",
+    "kita-eingewoehnung"
+  ]
 }

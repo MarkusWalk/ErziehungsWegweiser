@@ -1,0 +1,249 @@
+{
+  "slug": "u-untersuchungen",
+  "title": "Die U-Untersuchungen im Überblick",
+  "subtitle": "Welche Termine wann anstehen, was dabei tatsächlich untersucht wird, wie du dich vorbereitest – und was passiert, wenn du eine Frist verpasst.",
+  "phases": ["neugeborenes", "saeugling", "kleinkind", "kindergarten"],
+  "topics": ["gesundheit", "entwicklung"],
+  "updated": "2026-08-05",
+  "summary": "U1 bis U9 decken die ersten sechs Lebensjahre ab, dazu kommt die J1 im Jugendalter. Was untersucht wird, legt die Kinder-Richtlinie des Gemeinsamen Bundesausschusses fest; die Kosten trägt die gesetzliche Krankenversicherung. Die Termine sind nicht willkürlich gesetzt: Sie liegen genau dort, wo bestimmte Erkrankungen und Entwicklungsschritte am besten beurteilbar sind. Der wichtigste Teil ist oft nicht das Abhorchen, sondern das Gespräch – und darauf kannst du dich vorbereiten.",
+  "keyFacts": [
+    "U1 bis U9 sind Leistungen der gesetzlichen Krankenversicherung, festgelegt in der Kinder-Richtlinie des G-BA.",
+    "Jede U hat einen festen Untersuchungszeitraum, dazu eine Toleranzzeit – beides steht im gelben Heft.",
+    "Die großen Screenings liegen ganz am Anfang: Hörscreening, erweitertes Neugeborenenscreening, Pulsoxymetrie, Hüftultraschall.",
+    "U10, U11 und J2 gehören nicht zum Standardkatalog, werden aber von vielen Kassen freiwillig übernommen.",
+    "Schreib deine Fragen vorher auf. Die Zeit ist knapp, und im Termin fällt einem die Hälfte nicht mehr ein."
+  ],
+  "blocks": [
+    {
+      "type": "p",
+      "lead": true,
+      "text": "Das gelbe Heft begleitet die ersten Jahre wie kaum ein anderes Dokument – und ist für viele Eltern trotzdem ein Rätsel. Was passiert bei welcher U eigentlich? Warum sind die Zeiträume so eng? Und was macht man, wenn der Termin nicht zu bekommen war? Die Antworten stehen alle in einem einzigen Dokument: der Kinder-Richtlinie des Gemeinsamen Bundesausschusses, die für ganz Deutschland regelt, was bei den Früherkennungsuntersuchungen zu tun ist."
+    },
+    {
+      "type": "callout",
+      "variant": "danger",
+      "title": "Nicht auf die nächste U warten",
+      "text": "Die U-Untersuchungen sind Vorsorge, keine Notfallversorgung. Geh sofort in die Praxis oder in eine Kinderklinik, wenn dein Kind Fieber im ersten Lebensmonat hat, auffällig schlapp oder schwer erweckbar ist, schnell und angestrengt atmet, sich blau oder grau verfärbt, mehrere Mahlzeiten hintereinander verweigert oder eine erworbene Fähigkeit plötzlich verliert. Bei einem Krampfanfall, Bewusstlosigkeit oder Atemstillstand gilt die 112."
+    },
+    {
+      "type": "section",
+      "heading": "Was die U-Untersuchungen sind – und wer sie festlegt",
+      "blocks": [
+        {
+          "type": "evidence",
+          "level": "stark",
+          "claim": "Die Früherkennungsuntersuchungen U1 bis U9 sind für gesetzlich versicherte Kinder eine Regelleistung. Inhalte, Zeitpunkte, Toleranzgrenzen und Dokumentation regelt die Kinder-Richtlinie des Gemeinsamen Bundesausschusses.",
+          "note": "Die Richtlinie wurde zuletzt mehrfach überarbeitet; seit 2016 gelten strukturierte Vorgaben zur Entwicklungsbeurteilung und zur Dokumentation im gelben Heft. Für dich heißt das: Die Untersuchungen laufen bundesweit nach denselben Vorgaben ab, unabhängig von Praxis und Wohnort.",
+          "sources": [0, 1]
+        },
+        {
+          "type": "p",
+          "text": "Ein Teil der Untersuchung ist körperlich: messen, wiegen, abhören, Reflexe, Haut, Bauch, Hoden oder Leiste, Zähne, Wirbelsäule. Der andere Teil ist die Entwicklungsbeurteilung – dabei wird geprüft, ob dein Kind die Schritte zeigt, die zu diesem Alter gehören. Dahinter steht das Grenzsteinprinzip: Gefragt wird nicht, ob dein Kind besonders weit ist, sondern ob es Schritte erreicht hat, die fast alle Kinder in diesem Alter erreichen."
+        },
+        {
+          "type": "evidence",
+          "level": "moderat",
+          "claim": "Die Entwicklungsbeurteilung bei den U-Untersuchungen ist ein Screening, kein Test. Sie soll Kinder herausfiltern, bei denen eine genauere Abklärung sinnvoll ist.",
+          "note": "Ein auffälliger Punkt bedeutet deshalb erst einmal nur: Hier wird nochmal geschaut. Umgekehrt gilt aber auch – ein unauffälliges Screening schließt nichts sicher aus. Wenn dir zwischen zwei Terminen etwas auffällt, ist das ein eigener Anlass für einen Termin und kein Grund zu warten.",
+          "sources": [6]
+        }
+      ]
+    },
+    {
+      "type": "section",
+      "heading": "Die Termine im Überblick",
+      "blocks": [
+        {
+          "type": "timeline",
+          "title": "Von der Geburt bis ins Jugendalter",
+          "entries": [
+            { "age": "U1 – direkt nach der Geburt", "label": "Erstuntersuchung im Kreißsaal", "text": "Anpassung an das Leben außerhalb des Bauches: Atmung, Herzschlag, Muskeltonus, Reflexe, Hautfarbe (APGAR). Sichtbare Fehlbildungen, Geburtsverletzungen, erste Vitamin-K-Gabe." },
+            { "age": "U2 – 3. bis 10. Lebenstag", "label": "Die große Screening-Untersuchung", "text": "Gründliche körperliche Untersuchung von Kopf bis Fuß. Hier laufen die zentralen Screenings zusammen: erweitertes Neugeborenenscreening, Hörscreening (falls nicht schon erfolgt) und Pulsoxymetrie." },
+            { "age": "U3 – 4. bis 5. Lebenswoche", "label": "Hüftultraschall und Trinkverhalten", "text": "Ultraschall der Hüften zur Erkennung einer Hüftreifungsstörung, Gewichtsentwicklung, Trinken, Bewegungsmuster, Beratung zu Vitamin D, Rachitis- und Kariesprophylaxe sowie zum sicheren Schlaf." },
+            { "age": "U4 – 3. bis 4. Lebensmonat", "label": "Sehen, Hören, Reagieren", "text": "Kopfkontrolle, Greifen, Reaktion auf Ansprache, Blickfolgen. Erste Impfungen nach STIKO-Kalender werden hier üblicherweise besprochen und begonnen." },
+            { "age": "U5 – 6. bis 7. Lebensmonat", "label": "Beweglichkeit und Lautbildung", "text": "Drehen, Abstützen, gezieltes Greifen, Silbenketten. Ernährungsberatung zum Beikoststart." },
+            { "age": "U6 – 10. bis 12. Lebensmonat", "label": "Fortbewegung und erste Sprache", "text": "Sitzen, Fortbewegung, Pinzettengriff, Reaktion auf den eigenen Namen, Schielprüfung. Unfallverhütung wird zum Thema, weil Kinder jetzt mobil werden." },
+            { "age": "U7 – 21. bis 24. Lebensmonat", "label": "Sprache im Fokus", "text": "Wortschatz und Zweiwortkombinationen, freies Laufen, Feinmotorik, Zahngesundheit. Der Zeitpunkt ist bewusst so gelegt, dass das Late-Talker-Kriterium beurteilbar ist." },
+            { "age": "U7a – 34. bis 36. Lebensmonat", "label": "Sehen und Sozialverhalten", "text": "Sehtest, Sprachverständlichkeit, Verhalten in der Gruppe, Gewichtsentwicklung. Diese U wurde 2008 zusätzlich eingeführt, um die große Lücke zwischen U7 und U8 zu schließen." },
+            { "age": "U8 – 46. bis 48. Lebensmonat", "label": "Vor dem Kindergartenendspurt", "text": "Ausführliche Prüfung von Sprache, Aussprache, Hören, Grob- und Feinmotorik, Sozialverhalten und Selbstständigkeit." },
+            { "age": "U9 – 60. bis 64. Lebensmonat", "label": "Blick Richtung Schule", "text": "Letzte U vor der Einschulung: Motorik, Sprache, Zahlen- und Mengenverständnis, Sehen, Hören, Verhalten. Grundlage für Beratung zur Schulfähigkeit." },
+            { "age": "J1 – zwischen 12 und 14 Jahren", "label": "Jugendgesundheitsuntersuchung", "text": "Körperliche Entwicklung und Pubertät, Impfstatus, Haltung, Schule, seelische Gesundheit, Risikoverhalten. Jugendliche dürfen hier auch allein hineingehen." }
+          ],
+          "caption": "Untersuchungszeiträume nach der Kinder-Richtlinie des G-BA in der Darstellung der BZgA. Zusätzlich zu diesen Zeiträumen definiert die Richtlinie Toleranzzeiten, die etwas darüber hinausreichen – die genauen Grenzen stehen im gelben Heft.",
+          "sources": [0, 2]
+        },
+        {
+          "type": "evidence",
+          "level": "stark",
+          "claim": "Die drei großen Neugeborenen-Screenings – erweitertes Stoffwechsel- und Hormonscreening aus wenigen Blutstropfen, Hörscreening und Pulsoxymetrie – erkennen schwere Erkrankungen, bevor Symptome auftreten.",
+          "note": "Das erweiterte Neugeborenenscreening wurde 2004 mit zunächst zehn Stoffwechsel- und zwei Hormonstörungen in die Kinder-Richtlinie aufgenommen und seither mehrfach erweitert, unter anderem um Mukoviszidose. Das Hörscreening findet in den ersten Lebenstagen statt, möglichst vor der Entlassung aus der Geburtsklinik; bei einer Geburt außerhalb der Klinik erfolgt es bei der U2. Die Pulsoxymetrie misst schmerzfrei über einen Lichtsensor am Fuß den Sauerstoffgehalt im Blut und dient der frühen Erkennung schwerer Herzfehler.",
+          "sources": [0, 2]
+        }
+      ]
+    },
+    {
+      "type": "section",
+      "heading": "Fristen, Toleranzzeiten und Kosten",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "Die engen Zeiträume haben zwei Gründe. Erstens ist manche Erkrankung nur in einem bestimmten Fenster erfolgreich zu behandeln – die Hüftreifungsstörung ist das klassische Beispiel. Zweitens sind Entwicklungsschritte nur dann sinnvoll beurteilbar, wenn das Kind im passenden Alter ist: Mit 15 Monaten lässt sich das Late-Talker-Kriterium nicht prüfen, mit 30 ist der Zeitpunkt für eine frühe Reaktion verstrichen."
+        },
+        {
+          "type": "list",
+          "ordered": false,
+          "items": [
+            { "title": "Untersuchungszeitraum:", "text": "Das ideale Fenster, in dem die U stattfinden soll. Es steht bei jeder U im gelben Heft." },
+            { "title": "Toleranzzeit:", "text": "Ein zusätzlicher Puffer, der über den Zeitraum hinausgeht. Wer den Termin knapp verpasst, bekommt die U in der Regel trotzdem – die Richtlinie sieht das ausdrücklich vor." },
+            { "title": "Nach Ablauf der Toleranz:", "text": "Dann kann die Abrechnung als Früherkennungsuntersuchung entfallen. Trotzdem gilt: lieber verspätet untersuchen lassen als gar nicht. Sprich in der Praxis offen an, dass der Termin verpasst wurde – meist findet sich eine Lösung." },
+            { "title": "Kosten:", "text": "U1 bis U9 und die J1 sind für gesetzlich Versicherte ohne Zuzahlung; private Versicherungen erstatten sie in der Regel ebenfalls." },
+            { "title": "Einladewesen:", "text": "Die Bundesländer regeln unterschiedlich, wie an die Termine erinnert wird. In einigen Ländern – unter anderem Bayern, Hessen und Baden-Württemberg – ist die Teilnahme verbindlich geregelt, andernorts wird schriftlich erinnert. Je nach Bundesland wird bei der Kita-Anmeldung ein Nachweis verlangt." }
+          ]
+        },
+        {
+          "type": "callout",
+          "variant": "info",
+          "title": "U10, U11 und J2",
+          "text": "Diese drei Untersuchungen füllen die Lücke zwischen U9 und J1 sowie die Zeit danach: U10 mit etwa 7 bis 8 Jahren, U11 mit etwa 9 bis 10 Jahren, J2 mit 16 bis 17 Jahren. Sie gehören nicht zum Standardkatalog der gesetzlichen Krankenversicherung, werden aber von vielen Kassen freiwillig übernommen – fragen lohnt sich. Dokumentiert werden sie nicht im gelben, sondern in einem grünen Heft."
+        }
+      ]
+    },
+    {
+      "type": "section",
+      "heading": "So holst du das Meiste aus dem Termin heraus",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "Eine U dauert selten so lange, wie man sich das wünscht. Der Unterschied zwischen einem Termin, aus dem man ratlos herausgeht, und einem, der etwas bringt, entsteht meistens vorher – am Küchentisch."
+        },
+        {
+          "type": "checklist",
+          "id": "u-vorbereitung",
+          "title": "Vor dem Termin",
+          "items": [
+            "Gelbes Heft und Impfausweis einpacken (und das grüne Heft, falls vorhanden)",
+            "Drei bis fünf Fragen aufschreiben – die wichtigste zuerst nennen",
+            "Konkrete Beobachtungen notieren: Was genau, seit wann, wie oft",
+            "Falls möglich ein kurzes Handyvideo einer auffälligen Situation aufnehmen",
+            "Termin so legen, dass dein Kind ausgeschlafen und satt ist",
+            "Bequeme Kleidung anziehen, die schnell aus- und wieder angezogen ist",
+            "Bei Kleinkindern: ein vertrautes Kuscheltier oder Buch mitnehmen",
+            "Wenn möglich zu zweit gehen – eine Person hält, eine Person fragt"
+          ]
+        },
+        {
+          "type": "callout",
+          "variant": "tip",
+          "title": "Was du unbedingt ansprechen solltest",
+          "items": [
+            "Alles, was mit Hören und Sehen zu tun hat – hier zählt Zeit besonders",
+            "Sprache: Wie viele Wörter, verstehst nur du dein Kind oder auch Fremde?",
+            "Schlaf und Schreien, wenn es euch belastet – das gehört ausdrücklich dazu",
+            "Essen und Gewicht, wenn Mahlzeiten regelmäßig eskalieren",
+            "Deine eigene Verfassung: Erschöpfung, Traurigkeit, Überforderung. Die Kinderarztpraxis ist oft der niedrigschwelligste Ort, an dem das jemand hört",
+            "Familiäre Vorerkrankungen, die neu bekannt geworden sind"
+          ]
+        },
+        {
+          "type": "callout",
+          "variant": "warn",
+          "title": "Wenn du das Gefühl hast, nicht gehört zu werden",
+          "text": "Das kommt vor, und es liegt selten an dir. Du darfst um einen zweiten, längeren Termin bitten, eine Zweitmeinung einholen oder um eine Überweisung in ein Sozialpädiatrisches Zentrum (SPZ) bitten. Bei Verdacht auf eine Entwicklungsverzögerung ist das der reguläre Weg – kein Misstrauensvotum gegen die Praxis."
+        }
+      ]
+    },
+    {
+      "type": "section",
+      "heading": "Häufige Fragen",
+      "blocks": [
+        {
+          "type": "faq",
+          "items": [
+            {
+              "q": "Wir haben die U verpasst. Was jetzt?",
+              "a": "Ruf in der Praxis an und sag genau das. Innerhalb der Toleranzzeit ist die U normal möglich. Danach hängt die Abrechnung von der Krankenkasse ab – untersuchen lassen solltest du trotzdem. Bei einer verpassten U3 ist der Hüftultraschall der zeitkritische Punkt, den man zügig nachholen sollte."
+            },
+            {
+              "q": "Muss ich zu den U-Untersuchungen gehen?",
+              "a": "Eine bundesweite Pflicht gibt es nicht, aber einige Bundesländer haben eine verbindliche Teilnahme geregelt und alle Länder haben ein Einladewesen. Unabhängig von der Rechtslage: Es sind die einzigen systematischen Gelegenheiten, bei denen Sehen, Hören, Wachstum und Entwicklung strukturiert geprüft werden. Ein Teil der Dinge, die dort auffallen, fällt sonst niemandem auf."
+            },
+            {
+              "q": "Bei der U wurde etwas als auffällig notiert. Ist mein Kind jetzt entwicklungsverzögert?",
+              "a": "Nein. Ein Screening filtert – es diagnostiziert nicht. Ein auffälliger Punkt bedeutet, dass ein zweiter, genauerer Blick sinnvoll ist. Sehr häufig ist der Befund bei der Kontrolle wenige Wochen später verschwunden, weil das Kind an dem Tag müde, fremdelnd oder einfach nicht in Stimmung war."
+            },
+            {
+              "q": "Werden bei der U auch Impfungen gemacht?",
+              "a": "Impfungen sind formal eine eigene Leistung, werden aber praktisch fast immer bei den U-Terminen mitbesprochen und durchgeführt, weil die Zeitpunkte gut zusammenpassen. Nimm den Impfausweis deshalb immer mit. Grundlage ist der Impfkalender der Ständigen Impfkommission (STIKO)."
+            },
+            {
+              "q": "Was ist, wenn ich privat versichert bin oder keine Versicherung habe?",
+              "a": "Private Krankenversicherungen erstatten die Früherkennungsuntersuchungen in der Regel, die genauen Bedingungen stehen im Tarif. Wenn du gar nicht versichert bist, wende dich an das örtliche Gesundheitsamt oder an eine Anlaufstelle der Frühen Hilfen – für Kinder gibt es in fast allen Kommunen Wege, die Untersuchungen trotzdem zu bekommen."
+            },
+            {
+              "q": "Mein Kind hat bei jeder U Panik. Kann ich etwas tun?",
+              "a": "Ja. Kündige den Termin altersgerecht an, ohne zu dramatisieren und ohne Überraschung. Sag nicht „das tut nicht weh“, wenn eine Blutentnahme ansteht – Vertrauen ist wichtiger als der kurzfristige Frieden. Nimm dein Kind auf den Schoß statt es auf die Liege zu legen, wo immer das geht, und sag der Praxis vorher Bescheid, dass es Zeit braucht."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "callout",
+      "variant": "info",
+      "title": "Kurz gesagt",
+      "text": "Zehn Termine in sechs Jahren, bundesweit einheitlich geregelt und von der Kasse bezahlt. Die frühen Us tragen die großen Screenings, die späteren die Entwicklungsbeurteilung. Trag die Zeiträume gleich nach der Geburt in den Kalender ein – und schreib deine Fragen jedes Mal vorher auf."
+    }
+  ],
+  "sources": [
+    {
+      "title": "Kinder-Richtlinie: Früherkennungsuntersuchungen für Kinder",
+      "publisher": "Gemeinsamer Bundesausschuss (G-BA)",
+      "year": "2024",
+      "kind": "Leitlinie",
+      "url": "https://www.g-ba.de/richtlinien/15/"
+    },
+    {
+      "title": "Richtlinie des Gemeinsamen Bundesausschusses über die Früherkennung von Krankheiten bei Kindern (Kinder-Richtlinie), Fassung 2024",
+      "publisher": "Gemeinsamer Bundesausschuss (G-BA)",
+      "year": "2024",
+      "kind": "Leitlinie",
+      "url": "https://www.g-ba.de/downloads/17-98-5741/Kinder-RL_2024-03-21_iK-2024-07-13_WZ.pdf"
+    },
+    {
+      "title": "U1 bis U9: Was wird gemacht?",
+      "publisher": "Bundeszentrale für gesundheitliche Aufklärung (BZgA), kindergesundheit-info.de",
+      "year": "2024",
+      "kind": "Institutionelle Information",
+      "url": "https://www.kindergesundheit-info.de/themen/frueherkennung-u1-u9-und-j1/untersuchungen-u1-bis-u9/die-untersuchungen-u1-bis-u9/"
+    },
+    {
+      "title": "Gesundheitsuntersuchungen für Kinder und Jugendliche",
+      "publisher": "Bundesministerium für Gesundheit",
+      "year": "2024",
+      "kind": "Institutionelle Information",
+      "url": "https://www.bundesgesundheitsministerium.de/themen/praevention/kindergesundheit/frueherkennungsuntersuchung-bei-kindern"
+    },
+    {
+      "title": "Gehören U10, U11 und J2 auch zu den „normalen“ Früherkennungsuntersuchungen?",
+      "publisher": "Bundeszentrale für gesundheitliche Aufklärung (BZgA), kindergesundheit-info.de",
+      "year": "2024",
+      "kind": "Institutionelle Information",
+      "url": "https://www.kindergesundheit-info.de/themen/faq/gehoeren-u10-u11-und-j2-auch-zu-den-normalen-frueherkennungsuntersuchungen/"
+    },
+    {
+      "title": "Kinder-Richtlinie § 2: Allgemeines zu den Untersuchungen, Zeiträume und Toleranzgrenzen",
+      "publisher": "Haufe Normenkatalog",
+      "year": "2024",
+      "kind": "Institutionelle Information",
+      "url": "https://www.haufe.de/id/norm/kinder-richtlinie-kinderrl-2-allgemeines-zu-den-untersuchungen-zeitraeume-und-toleranzgrenzen-HI579435_p2.html"
+    },
+    {
+      "title": "Meilen- und Grenzsteine der Entwicklung: Was Kinderärztinnen und Kinderärzte wissen müssen",
+      "publisher": "Monatsschrift Kinderheilkunde, Springer",
+      "year": "2022",
+      "kind": "Übersichtsarbeit",
+      "url": "https://link.springer.com/article/10.1007/s00112-022-01547-z"
+    }
+  ],
+  "related": ["meilensteine-uebersicht", "impfungen", "entwicklungsverzoegerung-erkennen", "die-ersten-tage"]
+}

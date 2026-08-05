@@ -1,0 +1,302 @@
+{
+  "slug": "co-regulation",
+  "title": "Co-Regulation: ruhig bleiben, wenn das Kind es nicht kann",
+  "subtitle": "Wie ein Kind über das Nervensystem der Erwachsenen lernt, sich selbst zu beruhigen – und was zu tun ist, wenn du selbst die Fassung verlierst.",
+  "phases": ["saeugling", "kleinkind", "kindergarten"],
+  "topics": ["emotionen", "bindung"],
+  "updated": "2026-08-05",
+  "summary": "Kleine Kinder können sich nicht selbst beruhigen, weil die dafür zuständigen Hirnstrukturen noch jahrelang reifen. Sie leihen sich das ruhigere Nervensystem eines Erwachsenen – das ist mit Co-Regulation gemeint. Messbar ist das bis in Herzschlag und Stresshormone hinein: Anwesenheit einer vertrauten Person dämpft die Cortisolreaktion eines Kindes, elterlicher Stress überträgt sich umgekehrt körperlich auf den Säugling. Praktisch heißt das: Erst die Erregung senken, dann reden. Und wenn du selbst laut geworden bist, ist die Wiederannäherung danach der Teil, der zählt.",
+  "keyFacts": [
+    "Selbstregulation entsteht aus Fremdregulation – nicht aus Übung im Alleinsein.",
+    "Die Anwesenheit einer vertrauten, ruhigen Bezugsperson dämpft die Stresshormonreaktion eines Kindes messbar.",
+    "Stress überträgt sich körperlich: Die Herzreaktion von Säuglingen folgt der ihrer Mutter.",
+    "Im emotionalen Ausnahmezustand nimmt ein Kind Erklärungen kaum auf. Erst regulieren, dann reden.",
+    "Weniger Worte, tiefere Stimme, langsamere Bewegung wirken stärker als gute Argumente.",
+    "Auch Eltern verlieren die Fassung. Entscheidend ist die Reparatur danach, nicht die Fehlerfreiheit."
+  ],
+  "blocks": [
+    {
+      "type": "p",
+      "lead": true,
+      "text": "„Beruhig dich mal“ ist der wirkungsloseste Satz der Elternschaft. Nicht weil Kinder nicht wollen, sondern weil die Fähigkeit, sich selbst herunterzuregulieren, im Kleinkindalter schlicht noch nicht existiert. Sie entsteht über Jahre – und zwar dadurch, dass ein Kind tausendfach erlebt, wie jemand anderes das für es übernimmt."
+    },
+    {
+      "type": "callout",
+      "variant": "danger",
+      "title": "Wenn du kurz davor bist, die Kontrolle zu verlieren",
+      "text": "Leg dein Kind an einem sicheren Ort ab – Bett oder Boden – und verlass für ein bis zwei Minuten den Raum. Ein Kind, das zwei Minuten allein weint, nimmt keinen Schaden. Ein geschütteltes Kind schon: Schütteln kann bei Säuglingen innerhalb von Sekunden zu bleibenden Hirnschäden führen. Wenn dich solche Momente häufiger überkommen, hol dir Unterstützung – über die Kinderarztpraxis, die Frühen Hilfen (fruehehilfen.de), eine Schreiambulanz oder das Elterntelefon der Nummer gegen Kummer unter 0800 111 0 550."
+    },
+    {
+      "type": "section",
+      "heading": "Selbstregulation wächst aus Fremdregulation",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "Ein Neugeborenes hat praktisch keine eigenen Mittel, einen erregten Zustand zu beenden. Es kann sich abwenden, die Hand zum Mund führen, saugen – mehr nicht. Alles Weitere kommt von außen: Getragenwerden, Stimme, Rhythmus, Wärme, Nähe. Im Lauf des ersten Jahres kommen erste eigene Strategien dazu, im zweiten und dritten die Sprache, im Vorschulalter die Fähigkeit, kurz zu warten und Aufmerksamkeit umzulenken. Vollständig ausgereift ist das System erst im jungen Erwachsenenalter."
+        },
+        {
+          "type": "timeline",
+          "title": "Wie Regulation reift",
+          "entries": [
+            {
+              "age": "0–6 Monate",
+              "label": "Vollständig auf andere angewiesen",
+              "text": "Beruhigung kommt fast ausschließlich von außen: Körperkontakt, Bewegung, Saugen, gleichmäßige Geräusche. Eigenanteil: Wegschauen und Hand zum Mund."
+            },
+            {
+              "age": "6–18 Monate",
+              "label": "Erste eigene Mittel",
+              "text": "Das Kind sucht aktiv Nähe, holt sich ein Kuscheltier, wendet sich ab, wenn es zu viel wird. Es orientiert sich am Gesicht der Eltern, um Situationen einzuschätzen."
+            },
+            {
+              "age": "18 Monate – 3 Jahre",
+              "label": "Sprache kommt dazu, Gefühle werden groß",
+              "text": "Wörter für Zustände entstehen, gleichzeitig ist der Wille stark und die Bremse schwach. Die Häufung von Wutanfällen in diesem Alter ist keine Verhaltensfrage, sondern eine Reifungsfrage."
+            },
+            {
+              "age": "3–6 Jahre",
+              "label": "Warten, umlenken, aushandeln",
+              "text": "Kurzes Aufschieben gelingt, Regeln werden verstanden und teils befolgt. Unter Müdigkeit, Hunger oder Stress bricht das aber zuverlässig wieder zusammen."
+            },
+            {
+              "age": "Ab Schulalter",
+              "label": "Strategien werden bewusst",
+              "text": "Kinder können Strategien benennen und gezielt einsetzen. Die Feinsteuerung entwickelt sich bis weit in die Jugend hinein weiter."
+            }
+          ],
+          "caption": "Grobe Orientierung nach entwicklungspsychologischer Längsschnittforschung zur Selbstregulation in den ersten Lebensjahren (Kochanska und Kollegen) und den Altersangaben der deutschen Leitlinie zu psychischen Störungen im Vorschulalter.",
+          "sources": [0, 1]
+        },
+        {
+          "type": "evidence",
+          "level": "moderat",
+          "claim": "Die Fähigkeit zur Selbstregulation entwickelt sich über die ersten Lebensjahre schrittweise und hängt eng damit zusammen, wie regelmäßig ein Kind zuvor von außen reguliert wurde.",
+          "note": "Längsschnittstudien verfolgen diese Entwicklung von der frühen Kindheit an und finden Zusammenhänge mit der Qualität der Eltern-Kind-Interaktion. Die Effekte sind mittelgroß, und Temperament spielt eine erhebliche Rolle. Was man daraus nicht ableiten kann: dass ein impulsives Kind ein Zeichen für zu wenig Co-Regulation wäre.",
+          "sources": [0]
+        }
+      ]
+    },
+    {
+      "type": "section",
+      "heading": "Was dabei im Körper passiert",
+      "blocks": [
+        {
+          "type": "scene",
+          "preset": "koregulation",
+          "title": "Zwei Nervensysteme finden in den Gleichtakt",
+          "alt": "Animierte Darstellung zweier Kurven, die sich zunächst unterschiedlich bewegen und sich dann angleichen",
+          "fallback": "Zwei Systeme schwingen zunächst unabhängig voneinander: eines schnell und unruhig, eines langsam und gleichmäßig. Im Kontakt gleichen sie sich an. Das schnellere folgt dem langsameren – vorausgesetzt, das langsamere bleibt langsam.",
+          "caption": "Co-Regulation ist keine Metapher. Herzrhythmen von Mutter und Säugling koordinieren sich während abgestimmter Interaktionsphasen innerhalb von Sekundenbruchteilen, und die Richtung der Angleichung ist keine Einbahnstraße."
+        },
+        {
+          "type": "evidence",
+          "level": "moderat",
+          "claim": "Die Anwesenheit einer vertrauten, feinfühlig reagierenden Bezugsperson dämpft die Stresshormonreaktion eines Kleinkinds – auch dann, wenn das Kind sichtbar Angst zeigt.",
+          "note": "In Untersuchungen zur sogenannten sozialen Pufferung reagierten Kleinkinder auf erschreckende Situationen mit deutlich geringeren Cortisolanstiegen, wenn ein Elternteil anwesend war und sensibel reagierte. Bemerkenswert daran ist die Entkopplung: Das Kind weint trotzdem. Sichtbares Verhalten und körperliche Stressreaktion sind zwei verschiedene Dinge – ein Kind, das leise ist, muss nicht reguliert sein.",
+          "sources": [2]
+        },
+        {
+          "type": "evidence",
+          "level": "moderat",
+          "claim": "Stress überträgt sich in beide Richtungen. Erlebt eine Mutter eine belastende Situation, zeigt ihr Säugling anschließend eine ähnliche körperliche Stressreaktion, ohne die Situation selbst erlebt zu haben.",
+          "note": "In einem kontrollierten Experiment wurden Mütter einer sozialen Bewertungssituation ausgesetzt; anschließend spiegelte die Herzreaktion ihrer zwölf bis vierzehn Monate alten Babys die der Mütter, und die Kinder verhielten sich Fremden gegenüber zurückhaltender. Es handelt sich um eine Einzelstudie mit kleiner Stichprobe – der Mechanismus ist gut plausibel, die genaue Größenordnung nicht gesichert. Praktisch heißt das nicht, dass du nie gestresst sein darfst. Es heißt, dass deine eigene Regulation Teil der Methode ist.",
+          "sources": [3]
+        }
+      ]
+    },
+    {
+      "type": "section",
+      "heading": "Co-Regulation im Alltag",
+      "blocks": [
+        {
+          "type": "steps",
+          "title": "Wenn dein Kind gerade außer sich ist",
+          "items": [
+            {
+              "title": "Zuerst dich selbst",
+              "text": "Zwei bewusste Ausatmungen, Schultern lösen, Kiefer lockern. Das ist kein esoterisches Beiwerk, sondern die Voraussetzung: Ein hochgefahrenes Nervensystem kann kein anderes herunterregulieren."
+            },
+            {
+              "title": "Tiefer und langsamer werden",
+              "text": "Runter auf Augenhöhe oder tiefer, Stimme absenken, Tempo halbieren. Kinder nehmen im Erregungszustand vor allem Prosodie, Körperhaltung und Tempo wahr – nicht Inhalt."
+            },
+            {
+              "title": "Weniger Worte",
+              "text": "Drei bis fünf Wörter, wiederholt. „Ich bin da.“ „Das ist schwer.“ Lange Erklärungen im Ausnahmezustand erhöhen die Reizlast, statt sie zu senken."
+            },
+            {
+              "title": "Nähe anbieten, nicht aufdrängen",
+              "text": "Manche Kinder wollen gehalten werden, andere brauchen Abstand und nur deine Anwesenheit. Beides ist regulierend. „Ich setz mich hierhin“ ist ein vollwertiges Angebot."
+            },
+            {
+              "title": "Erst regulieren, dann klären",
+              "text": "Erklärungen, Regeln und Alternativen kommen später – oft eine halbe Stunde später oder am nächsten Tag. Im Sturm gelernt wird nichts."
+            },
+            {
+              "title": "Halten, was zu halten ist",
+              "text": "Co-Regulation heißt nicht, die Grenze aufzugeben. Du kannst gleichzeitig freundlich mitfühlen und dabei bleiben, dass die Straße nicht allein überquert wird."
+            }
+          ]
+        },
+        {
+          "type": "callout",
+          "variant": "myth",
+          "title": "„Wenn ich jetzt tröste, belohne ich das Verhalten“",
+          "text": "Regulation und Verhaltenskonsequenz sind zwei verschiedene Ebenen. Trost belohnt nicht das Werfen des Tellers – er beendet einen körperlichen Ausnahmezustand, in dem kein Lernen stattfindet. Über den Teller lässt sich reden, wenn das System wieder unten ist. Umgekehrt gilt: Ein Kind, das im Ausnahmezustand allein gelassen wird, lernt nicht, sich zu regulieren; es lernt, den Ausdruck zu unterdrücken."
+        }
+      ]
+    },
+    {
+      "type": "section",
+      "heading": "Deine eigenen Trigger",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "Es gibt Situationen, in denen Eltern regelmäßig aussteigen: das Quengeln beim Anziehen, das Geschrei im Supermarkt, das Nachthemd um 22 Uhr, wenn man selbst am Ende ist. Diese Punkte sind meistens persönlich – sie hängen mit Erschöpfung zusammen, mit Beobachtetwerden, oder mit Szenen aus der eigenen Kindheit. Sie zu kennen ist der praktisch wirksamste Teil dieses Themas, weil man vorbereitet reagieren kann statt reflexhaft."
+        },
+        {
+          "type": "checklist",
+          "id": "notfallplan",
+          "title": "Notfallplan für deine eigene Regulation",
+          "items": [
+            "Zwei bis drei Situationen benennen, in denen es dir regelmäßig zu viel wird",
+            "Für jede eine vorbereitete Handlung festlegen (Raum verlassen, Wasser trinken, mit dem Partner tauschen)",
+            "Einen Satz bereithalten, den du in solchen Momenten sagen kannst: „Ich brauche kurz.“",
+            "Grundlast senken: Termine reduzieren, Übergänge entzerren, Hunger und Müdigkeit vorbeugen",
+            "Mit der anderen Bezugsperson vereinbaren, wer im Zweifel übernimmt – vorher, nicht mittendrin",
+            "Wenn du merkst, dass du diese Momente häufiger nicht mehr steuern kannst: Beratungsstelle oder Kinderarztpraxis ansprechen"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "section",
+      "heading": "Reparatur nach dem Ausrasten",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "Alle Eltern werden manchmal laut, unfair oder abweisend. Das ist keine Katastrophe, sondern Bestandteil jeder Beziehung. Was den Unterschied macht, ist nicht, wie selten es passiert, sondern ob danach jemand zurückkommt. Für Kinder ist erlebte Wiedergutmachung eine eigenständige Erfahrung: Konflikte sind überlebbar, Beziehungen halten Fehler aus, und man kann Verantwortung übernehmen, ohne sich selbst zu zerlegen."
+        },
+        {
+          "type": "steps",
+          "title": "So sieht eine Reparatur aus",
+          "items": [
+            {
+              "title": "Warten, bis du selbst unten bist",
+              "text": "Eine Entschuldigung mit angespanntem Kiefer ist keine. Zehn Minuten sind völlig in Ordnung, auch der nächste Morgen."
+            },
+            {
+              "title": "Benennen, was war",
+              "text": "Konkret und ohne Nebensatz mit „aber“: „Ich habe dich vorhin angeschrien. Das war zu laut, und es tut mir leid.“"
+            },
+            {
+              "title": "Die Verantwortung bei dir lassen",
+              "text": "Nicht: „Du hast mich so wütend gemacht.“ Dein Kind ist nicht für deine Regulation zuständig – das ist genau der Punkt."
+            },
+            {
+              "title": "Etwas anbieten, nichts fordern",
+              "text": "Nähe anbieten, aber Ablehnung akzeptieren. Manche Kinder brauchen Stunden. Die Reparatur wirkt trotzdem."
+            },
+            {
+              "title": "Kurz halten",
+              "text": "Ausführliche Schuldbekenntnisse belasten Kinder, statt sie zu entlasten. Zwei Sätze genügen."
+            }
+          ]
+        },
+        {
+          "type": "callout",
+          "variant": "info",
+          "title": "Der entlastende Kern",
+          "text": "Kinder brauchen keine durchgehend regulierten Eltern. Sie brauchen Eltern, die verlässlich zurückkommen. In der Interaktionsforschung ist genau das der wiederkehrende Befund: Nicht die dauerhafte Abstimmung unterscheidet gelingende Beziehungen, sondern der Umgang mit den Momenten, in denen sie fehlt."
+        }
+      ]
+    },
+    {
+      "type": "section",
+      "heading": "Häufige Fragen",
+      "blocks": [
+        {
+          "type": "faq",
+          "items": [
+            {
+              "q": "Ich bin oft selbst am Limit. Reicht es, wenn ich nur so tue, als wäre ich ruhig?",
+              "a": "Teilweise. Tempo, Lautstärke und Körperhaltung kannst du bewusst herunterfahren, und das wirkt tatsächlich – auch wenn es innen anders aussieht. Auf Dauer ist Schauspielern aber anstrengend und wenig überzeugend. Sinnvoller ist, die Grundlast zu senken: Schlaf, Entlastung, weniger Termine. Das ist keine Nebenbaustelle, sondern der Hauptzugang zu diesem Thema."
+            },
+            {
+              "q": "Mein Kind will bei Wut überhaupt nicht angefasst werden. Mache ich dann etwas falsch?",
+              "a": "Nein, das ist häufig. Für manche Kinder ist Berührung im erregten Zustand ein zusätzlicher Reiz. Co-Regulation funktioniert auch über Anwesenheit, ruhige Stimme und die Bereitschaft zu bleiben. Ein Satz wie „Ich bin hier, wenn du mich brauchst“ und dann tatsächlich dableiben ist vollwertige Begleitung."
+            },
+            {
+              "q": "Ab wann kann ich erwarten, dass mein Kind sich allein beruhigt?",
+              "a": "Ansatzweise ab dem Vorschulalter, verlässlich deutlich später – und immer nur dann, wenn die Belastung nicht zu hoch ist. Auch Erwachsene regulieren sich in Krisen über andere Menschen. Die Erwartung, ein Vierjähriger solle das im Wutanfall allein schaffen, ist entwicklungsfern."
+            },
+            {
+              "q": "Schadet es, wenn ich mein Kind kurz allein weinen lasse, weil ich sonst explodiere?",
+              "a": "Nein. Ein bis zwei Minuten an einem sicheren Ort sind unbedenklich und deutlich besser als eine unkontrollierte Reaktion. Diese Regel ist ausdrücklich Teil der Prävention von Schütteltrauma und wird von Fachstellen so empfohlen."
+            },
+            {
+              "q": "Wir haben gestern beide geschrien. Muss ich das mit meinem Zweijährigen aufarbeiten?",
+              "a": "Aufarbeiten nicht, benennen ja. Ein kurzer Satz am nächsten Tag reicht: „Gestern war laut. Ich war wütend. Jetzt ist es wieder gut.“ Kleine Kinder brauchen die Einordnung, nicht die Analyse."
+            },
+            {
+              "q": "Hilft es, meinem Kind Atemübungen beizubringen?",
+              "a": "In ruhigen Momenten geübt, kann das später eine Hilfe sein. Mitten im Anfall funktioniert es fast nie – dann ist der Teil des Gehirns, der solche Anweisungen umsetzt, gerade nicht verfügbar. Übe es also, wenn es nicht gebraucht wird, und erwarte im Ernstfall nichts davon."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "title": "The Development of Self-Regulation in the First Four Years of Life",
+      "publisher": "Child Development (Kochanska, Coy & Murray)",
+      "year": "2001",
+      "kind": "Studie",
+      "url": "https://local.psy.miami.edu/faculty/dmessinger/c_c/rsrcs/rdgs/emot/kochanska2001.CD.selfReg.pdf"
+    },
+    {
+      "title": "S2k-Leitlinie Psychische Störungen im Säuglings-, Kleinkind- und Vorschulalter (AWMF-Register-Nr. 028-041)",
+      "publisher": "AWMF / Deutsche Gesellschaft für Kinder- und Jugendpsychiatrie, Psychosomatik und Psychotherapie",
+      "year": "2025",
+      "kind": "Leitlinie",
+      "url": "https://register.awmf.org/de/leitlinien/detail/028-041"
+    },
+    {
+      "title": "The social buffering of the hypothalamic-pituitary-adrenocortical axis in humans: Developmental and experiential determinants",
+      "publisher": "Social Neuroscience (Gunnar & Hostinar)",
+      "year": "2015",
+      "kind": "Übersichtsarbeit",
+      "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4618716/"
+    },
+    {
+      "title": "Stress Contagion: Physiological Covariation Between Mothers and Infants",
+      "publisher": "Psychological Science (Waters, West & Mendes)",
+      "year": "2014",
+      "kind": "Studie",
+      "url": "https://journals.sagepub.com/doi/abs/10.1177/0956797613518352"
+    },
+    {
+      "title": "Mother and infant coordinate heart rhythms through episodes of interaction synchrony",
+      "publisher": "Infant Behavior and Development (Feldman u. a.)",
+      "year": "2011",
+      "kind": "Studie",
+      "url": "https://www.sciencedirect.com/science/article/abs/pii/S0163638311000749"
+    },
+    {
+      "title": "Parent-infant synchrony: A biobehavioral model of mutual influences in the formation of affiliative bonds",
+      "publisher": "Monographs of the Society for Research in Child Development (Feldman)",
+      "year": "2012",
+      "kind": "Übersichtsarbeit",
+      "url": "https://ruthfeldmanlab.com/wp-content/uploads/2019/06/biobehavioral-synchrony.SRCD-Monograph-2012.pdf"
+    },
+    {
+      "title": "Materialien für Eltern und Familien",
+      "publisher": "Nationales Zentrum Frühe Hilfen (NZFH)",
+      "year": "abgerufen 2026",
+      "kind": "Institutionelle Information",
+      "url": "https://www.fruehehilfen.de/service/materialien-fuer-eltern-und-familien/"
+    }
+  ],
+  "related": ["wutanfaelle-begleiten", "feinfuehligkeit", "autonomiephase", "emotionen-benennen"]
+}

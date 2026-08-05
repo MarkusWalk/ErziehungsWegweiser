@@ -17,7 +17,7 @@
     {
       "type": "p",
       "lead": true,
-      "text": "Irgendwann kommt der Punkt, an dem eine von beiden Seiten nicht mehr will – oder nicht mehr kann. Manchmal ist es das Kind, das sich nach und nach abwendet. Häufiger ist es die stillende Person: Erschöpfung, Rückkehr in den Beruf, der Wunsch, den eigenen Körper zurückzubekommen, oder einfach das Gefühl, dass es genug war. Alle diese Gründe reichen. Abstillen braucht keine Rechtfertigung, aber es braucht einen Plan – vor allem für den Körper."
+      "text": "Irgendwann kommt der Punkt, an dem eine von beiden Seiten nicht mehr will. Manchmal ist es das Kind, das sich nach und nach abwendet. Häufiger die stillende Person: Erschöpfung, Rückkehr in den Beruf, der Wunsch, den eigenen Körper zurückzubekommen, oder das Gefühl, dass es genug war. Alle diese Gründe reichen. Abstillen braucht keine Rechtfertigung, aber einen Plan – vor allem für den Körper."
     },
     {
       "type": "callout",
@@ -31,7 +31,7 @@
       "blocks": [
         {
           "type": "p",
-          "text": "Die Frage nach dem Ende des Stillens wird oft so gestellt, als gäbe es eine Frist, ab der es unnötig oder ab der es zu viel wird. Beides ist so nicht belegt. Die Nationale Stillkommission in Deutschland macht Vorgaben zum Beginn der Beikost, nicht zum Ende der Stillzeit. Die WHO empfiehlt, neben der Beikost bis zwei Jahre und darüber hinaus weiterzustillen. Die amerikanische Kinderärztegesellschaft hat sich 2022 dieser Formulierung angeschlossen – mit dem entscheidenden Zusatz, dass es so lange gelten soll, wie beide Seiten es möchten."
+          "text": "Die Frage nach dem Ende des Stillens wird oft so gestellt, als gäbe es eine Frist, ab der es unnötig oder ab der es zu viel wird. Beides ist nicht belegt. Die Nationale Stillkommission macht Vorgaben zum Beginn der Beikost, nicht zum Ende der Stillzeit. Die WHO empfiehlt, neben der Beikost bis zwei Jahre und darüber hinaus weiterzustillen; die amerikanische Kinderärztegesellschaft hat sich 2022 angeschlossen – mit dem entscheidenden Zusatz, so lange, wie beide Seiten es möchten."
         },
         {
           "type": "evidence",
@@ -60,11 +60,11 @@
           "type": "timeline",
           "title": "Ein typischer Ablauf über vier bis sechs Wochen",
           "entries": [
-            { "age": "Woche 1", "label": "Die unwichtigste Mahlzeit ersetzen", "text": "Meist eine Mahlzeit mitten am Tag, an der dein Kind ohnehin wenig interessiert ist. Ersetzt wird je nach Alter durch Säuglingsmilchnahrung, ab dem ersten Geburtstag durch eine Mahlzeit vom Familientisch mit Getränk." },
-            { "age": "Woche 2", "label": "Zweite Mahlzeit", "text": "Wenn die Brust sich an die erste Reduktion gewöhnt hat und du keine Spannung mehr spürst, fällt die nächste weg. Zwischen den Schritten sollten mindestens drei bis fünf Tage liegen." },
-            { "age": "Woche 3–4", "label": "Weitere Tagesmahlzeiten", "text": "Jetzt merkt man den Rhythmuswechsel auch im Alltag. Hilfreich sind neue kleine Rituale genau in den Zeitfenstern, in denen sonst gestillt wurde – vorlesen, hinausgehen, gemeinsam essen." },
-            { "age": "Woche 4–6", "label": "Morgen- und Abendmahlzeit", "text": "Diese beiden fallen fast immer zuletzt, weil sie am stärksten mit Einschlafen und Ankommen verknüpft sind. Wenn möglich, lass die Abendmahlzeit ganz zum Schluss." },
-            { "age": "Danach", "label": "Nachlauf", "text": "Es ist normal, dass sich über Wochen noch etwas Milch gewinnen lässt. Wenn dabei allerdings Schmerzen, Knoten oder blutige Absonderungen auftreten, gehört das ärztlich angeschaut." }
+            { "age": "Woche 1", "label": "Die unwichtigste Mahlzeit ersetzen", "text": "Meist eine mitten am Tag, an der dein Kind ohnehin wenig interessiert ist. Ersetzt wird je nach Alter durch Säuglingsmilchnahrung oder eine Mahlzeit vom Familientisch." },
+            { "age": "Woche 2", "label": "Zweite Mahlzeit", "text": "Wenn die Brust sich gewöhnt hat und du keine Spannung mehr spürst, fällt die nächste weg. Zwischen den Schritten sollten mindestens drei bis fünf Tage liegen." },
+            { "age": "Woche 3–4", "label": "Weitere Tagesmahlzeiten", "text": "Hilfreich sind neue kleine Rituale genau in den Zeitfenstern, in denen sonst gestillt wurde – vorlesen, hinausgehen, gemeinsam essen." },
+            { "age": "Woche 4–6", "label": "Morgen- und Abendmahlzeit", "text": "Diese beiden fallen fast immer zuletzt, weil sie am stärksten mit Einschlafen und Ankommen verknüpft sind. Lass die Abendmahlzeit ganz zum Schluss." },
+            { "age": "Danach", "label": "Nachlauf", "text": "Dass sich über Wochen noch etwas Milch gewinnen lässt, ist normal. Schmerzen, Knoten oder blutige Absonderungen gehören ärztlich angeschaut." }
           ],
           "caption": "Orientierung nach den Elterninformationen der BZgA: eine Mahlzeit ersetzen, dann einige Tage warten. Schneller geht es auch – langsamer ist für den Körper aber fast immer angenehmer."
         },
@@ -90,7 +90,7 @@
             { "title": "Gut sitzender, nicht einschnürender BH:", "text": "Abbinden oder ein zu enger BH ist ein alter Rat, der heute nicht mehr gegeben wird – er begünstigt Milchstau." },
             { "title": "Bewusst auf die Brust achten:", "text": "Ein- bis zweimal täglich abtasten. Harte, druckempfindliche Stellen früh erkennen und die betroffene Stelle in Richtung Brustwarze sanft ausstreichen." },
             { "title": "Trinkmenge normal halten:", "text": "Weniger zu trinken verringert die Milchbildung nicht, macht dich aber müder und anfälliger für Kopfschmerzen." },
-            { "title": "Kräutertees und Hausmittel:", "text": "Salbei- oder Pfefferminztee werden traditionell empfohlen. Belastbare Studien dazu gibt es kaum; sie schaden in üblichen Mengen nicht, aber die Hauptarbeit macht das reduzierte Entleeren." }
+            { "title": "Kräutertees:", "text": "Salbei- oder Pfefferminztee werden traditionell empfohlen. Belastbare Studien dazu gibt es kaum; die Hauptarbeit macht das reduzierte Entleeren." }
           ]
         },
         {
@@ -128,7 +128,7 @@
       "blocks": [
         {
           "type": "p",
-          "text": "Beim Abstillen sinken die Hormone, die während der Stillzeit hoch waren. Viele Frauen berichten in den Tagen und Wochen danach von einer gedrückten Stimmung, Reizbarkeit oder unerwarteter Traurigkeit – auch dann, wenn sie das Abstillen selbst wollten. Das ist keine Einbildung und kein Zeichen dafür, dass die Entscheidung falsch war. Es klingt in der Regel innerhalb weniger Wochen ab."
+          "text": "Beim Abstillen sinken die Hormone, die während der Stillzeit hoch waren. Viele Frauen berichten danach von gedrückter Stimmung, Reizbarkeit oder unerwarteter Traurigkeit – auch dann, wenn sie das Abstillen selbst wollten. Das ist keine Einbildung und kein Zeichen dafür, dass die Entscheidung falsch war; es klingt meist innerhalb weniger Wochen ab."
         },
         {
           "type": "callout",

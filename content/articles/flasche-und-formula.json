@@ -17,7 +17,7 @@
     {
       "type": "p",
       "lead": true,
-      "text": "Es gibt viele Gründe für die Flasche: eine Milchbildung, die trotz guter Begleitung nicht reicht, Medikamente, eine Erkrankung, eine belastende Vorgeschichte, ein Rückkehrdatum in den Beruf – oder schlicht die Entscheidung, es nicht zu wollen. Alle diese Gründe sind ausreichend. Was dagegen selten gut erklärt wird: wie man Flaschennahrung so auswählt, zubereitet und gibt, dass sie sicher ist und die Beziehung nicht verliert, die beim Stillen selbstverständlich mitläuft."
+      "text": "Es gibt viele Gründe für die Flasche: eine Milchbildung, die trotz guter Begleitung nicht reicht, Medikamente, eine Erkrankung, ein Rückkehrdatum in den Beruf – oder schlicht die Entscheidung, es nicht zu wollen. Alle diese Gründe reichen aus. Selten gut erklärt wird dagegen, wie man Flaschennahrung so auswählt, zubereitet und gibt, dass sie sicher ist und die Nähe nicht verliert, die beim Stillen mitläuft."
     },
     {
       "type": "callout",
@@ -35,7 +35,7 @@
       "blocks": [
         {
           "type": "p",
-          "text": "Im Regal stehen mehrere Stufen nebeneinander, und die Verpackungen suggerieren einen Fahrplan. Den gibt es so nicht. Säuglingsanfangsnahrung – die Stufen Pre und 1 – ist für das gesamte erste Lebensjahr geeignet, anfangs allein, später neben der Beikost. Der Unterschied zwischen Pre und 1 ist begrenzt: Pre enthält als verdauliches Kohlenhydrat nur Milchzucker, wie Muttermilch; 1er-Nahrung darf zusätzlich geringe Mengen Stärke enthalten, wodurch sie sämiger wird und langsamer aus der Flasche läuft."
+          "text": "Im Regal stehen mehrere Stufen nebeneinander, und die Verpackungen suggerieren einen Fahrplan. Den gibt es so nicht. Säuglingsanfangsnahrung – die Stufen Pre und 1 – ist für das gesamte erste Lebensjahr geeignet, anfangs allein, später neben der Beikost. Der Unterschied: Pre enthält als verdauliches Kohlenhydrat nur Milchzucker wie Muttermilch, 1er-Nahrung darf zusätzlich geringe Mengen Stärke enthalten und ist dadurch sämiger."
         },
         {
           "type": "p",
@@ -85,7 +85,7 @@
       "blocks": [
         {
           "type": "p",
-          "text": "Milchpulver ist nicht steril. Das ist kein Skandal, sondern verfahrensbedingt – und deshalb steht die Zubereitung im Mittelpunkt aller offiziellen Empfehlungen. Relevante Keime wie Cronobacter sind selten, können bei Neugeborenen aber schwere Infektionen verursachen. Das Risiko hängt weniger vom Produkt ab als davon, wie lange die fertige Milch bei welcher Temperatur herumsteht."
+          "text": "Milchpulver ist nicht steril – das ist verfahrensbedingt, und deshalb steht die Zubereitung im Mittelpunkt aller offiziellen Empfehlungen. Keime wie Cronobacter sind selten, können bei Neugeborenen aber schwere Infektionen verursachen. Das Risiko hängt weniger vom Produkt ab als davon, wie lange die fertige Milch bei welcher Temperatur herumsteht."
         },
         {
           "type": "steps",
@@ -93,10 +93,10 @@
           "items": [
             { "title": "Hände waschen, saubere Flasche", "text": "Flaschen und Sauger nach jeder Mahlzeit gründlich mit Bürste und Spülmittel reinigen und trocknen lassen. Regelmäßiges Auskochen oder Sterilisieren ist in den ersten Monaten sinnvoll, ersetzt aber kein Reinigen." },
             { "title": "Wasser abkochen", "text": "Leitungswasser einige Sekunden sprudelnd kochen lassen. In Haushalten mit alten Bleileitungen oder bei Brunnenwasser vorher Trinkwasserqualität klären; Wasser aus dem Warmwasserhahn nie verwenden." },
-            { "title": "Abkühlen lassen", "text": "Das BfR hält für reif geborene, gesunde Säuglinge ein Abkühlen auf etwa 50 °C für ausreichend, wenn die Nahrung frisch zubereitet und zügig gefüttert wird. Für Frühgeborene und Kinder mit geschwächter Abwehr gelten strengere Vorgaben – dort wird mit mindestens 70 °C heißem Wasser zubereitet. Frag im Zweifel in der Klinik oder Praxis nach, was für dein Kind gilt." },
+            { "title": "Abkühlen lassen", "text": "Das BfR hält für reif geborene, gesunde Säuglinge ein Abkühlen auf etwa 50 °C für ausreichend, sofern frisch zubereitet und zügig gefüttert wird. Für Frühgeborene und Kinder mit geschwächter Abwehr gelten strengere Vorgaben mit mindestens 70 °C heißem Wasser. Frag im Zweifel in der Praxis nach." },
             { "title": "Exakt dosieren", "text": "Nur den beiliegenden Messlöffel verwenden, gestrichen abmessen, und immer erst das Wasser, dann das Pulver. Die Reihenfolge und die Menge stehen auf der Packung – nicht schätzen." },
             { "title": "Auf Trinktemperatur bringen", "text": "Unter kaltem, fließendem Wasser abkühlen. Vor dem Füttern einen Tropfen auf die Innenseite des Handgelenks – sie soll sich weder warm noch kalt anfühlen. Keine Mikrowelle: Sie erhitzt ungleichmäßig und erzeugt heiße Zonen." },
-            { "title": "Frisch füttern, Reste entsorgen", "text": "Innerhalb von etwa zwei Stunden füttern. Was das Kind übrig lässt, wird weggeschüttet – auch wenn es wehtut. Vorbereitete Flaschen nicht in der Wärmebox transportieren; unterwegs abgekochtes Wasser und Pulver getrennt mitnehmen und erst vor Ort mischen." }
+            { "title": "Frisch füttern, Reste entsorgen", "text": "Zügig füttern. Was das Kind übrig lässt, wird weggeschüttet. Unterwegs abgekochtes Wasser und Pulver getrennt mitnehmen und erst vor Ort mischen – nicht die fertige Flasche warm halten." }
           ]
         },
         {
@@ -146,7 +146,7 @@
           "type": "evidence",
           "level": "moderat",
           "claim": "Ein einfühlsamer, auf die Signale des Kindes reagierender Fütterstil (responsive feeding) unterstützt die Selbstregulation und wird auch für Flaschenmahlzeiten empfohlen.",
-          "note": "Das Netzwerk Gesund ins Leben überträgt das Prinzip des Fütterns nach Bedarf ausdrücklich auf Flaschenmilch und Beikost. Die Datenlage stützt sich auf Beobachtungsstudien und plausible Mechanismen, nicht auf große randomisierte Studien – der Fachkonsens ist aber einheitlich. Praktisch relevant: Wer die Flasche leer trinken lässt, obwohl das Kind Pausen macht, übergeht ein Signal, das Kinder von Anfang an senden.",
+          "note": "Das Netzwerk Gesund ins Leben überträgt das Füttern nach Bedarf ausdrücklich auf Flaschenmilch und Beikost. Die Datenlage stützt sich auf Beobachtungsstudien und plausible Mechanismen, nicht auf große randomisierte Studien – der Fachkonsens ist aber einheitlich. Praktisch: Wer die Flasche leer trinken lässt, obwohl das Kind Pausen macht, übergeht ein Signal, das Kinder von Anfang an senden.",
           "sources": [4, 0]
         }
       ]
@@ -177,7 +177,7 @@
       "blocks": [
         {
           "type": "p",
-          "text": "Die Vorteile des Stillens sind real, und sie zu benennen ist keine Bevormundung. Aber die Art, wie sie im Alltag transportiert werden, ist es oft: als moralischer Auftrag, als Charakterfrage, als etwas, das man nur wollen müsse. Diese Zuspitzung hält keiner Prüfung stand. Die stärksten Effekte des Stillens auf Erkrankung und Sterblichkeit stammen aus Regionen mit unsicherer Trinkwasserversorgung. In einem Land mit sicherem Trinkwasser, gesetzlich regulierter Säuglingsnahrung und flächendeckender Vorsorge sind die Unterschiede kleiner – und für ein einzelnes Kind meist gar nicht spürbar."
+          "text": "Die Vorteile des Stillens sind real, und sie zu benennen ist keine Bevormundung. Die Art, wie sie im Alltag transportiert werden, ist es oft: als moralischer Auftrag, als Charakterfrage. Diese Zuspitzung hält keiner Prüfung stand. Die stärksten Effekte auf Erkrankung und Sterblichkeit stammen aus Regionen mit unsicherer Trinkwasserversorgung. In einem Land mit sicherem Trinkwasser, regulierter Säuglingsnahrung und flächendeckender Vorsorge sind die Unterschiede kleiner – und für ein einzelnes Kind meist nicht spürbar."
         },
         {
           "type": "callout",
@@ -201,11 +201,11 @@
           "items": [
             {
               "q": "Muss ich Flaschen und Sauger wirklich jedes Mal sterilisieren?",
-              "a": "Wichtiger als Sterilisieren ist gründliches Reinigen direkt nach der Mahlzeit: heißes Wasser, Spülmittel, Flaschenbürste, danach vollständig trocknen lassen. In den ersten Monaten ist regelmäßiges Auskochen oder ein Vaporisator zusätzlich sinnvoll, vor allem bei sehr jungen oder empfindlichen Kindern. Feuchte Restwasser in Sauger und Flasche sind das eigentliche Problem."
+              "a": "Wichtiger als Sterilisieren ist gründliches Reinigen direkt nach der Mahlzeit: heißes Wasser, Spülmittel, Flaschenbürste, danach vollständig trocknen lassen. In den ersten Monaten ist regelmäßiges Auskochen zusätzlich sinnvoll. Restfeuchte in Sauger und Flasche ist das eigentliche Problem."
             },
             {
               "q": "Darf ich nachts eine Flasche vorbereiten und im Kühlschrank aufbewahren?",
-              "a": "Die offiziellen Empfehlungen raten zur frischen Zubereitung unmittelbar vor der Mahlzeit. Wenn sich das nicht organisieren lässt, ist der Kühlschrank die deutlich bessere Option als ein Flaschenwärmer über Stunden – aber auch dort gilt: bald verbrauchen, nie länger als nötig aufbewahren, Reste weg. Praktikabler ist meist, abgekochtes abgekühltes Wasser bereitzustellen und nur das Pulver frisch einzurühren."
+              "a": "Die offiziellen Empfehlungen raten zur frischen Zubereitung unmittelbar vor der Mahlzeit. Praktikabler als eine fertige Flasche im Kühlschrank ist meist, abgekochtes, abgekühltes Wasser bereitzustellen und nur das Pulver frisch einzurühren. Was gar nicht geht, ist eine fertige Flasche stundenlang im Flaschenwärmer."
             },
             {
               "q": "Mein Kind trinkt deutlich weniger als auf der Packung steht. Ist das schlimm?",
@@ -221,7 +221,7 @@
             },
             {
               "q": "Kann ich später von Flasche wieder auf Stillen umsteigen?",
-              "a": "Ein Wiederaufbau der Milchbildung – Relaktation – ist möglich, aber aufwendig und nicht immer erfolgreich. Er braucht sehr häufiges Anlegen oder Abpumpen und fachliche Begleitung durch eine Stillberatung. Sinnvoll ist, das mit realistischen Erwartungen und ohne Selbstverpflichtung anzugehen."
+              "a": "Ein Wiederaufbau der Milchbildung – Relaktation – ist möglich, aber aufwendig und nicht immer erfolgreich. Er braucht sehr häufiges Anlegen oder Abpumpen und fachliche Begleitung. Geh es mit realistischen Erwartungen an."
             }
           ]
         }

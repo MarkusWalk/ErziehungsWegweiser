@@ -1,0 +1,263 @@
+{
+  "slug": "babys-spielen",
+  "title": "Wie Babys spielen und lernen",
+  "subtitle": "Warum Schauen, Greifen und Fallenlassen schon das ganze Programm sind – und warum ein halbleeres Regal für dein Baby oft anregender ist als ein volles.",
+  "phases": ["saeugling"],
+  "topics": ["spiel", "entwicklung"],
+  "updated": "2026-08-05",
+  "summary": "Ein Baby spielt nicht, um etwas zu lernen – es lernt, weil es spielt. Im ersten Jahr besteht Spiel aus Schauen, Greifen, Mundern, Fallenlassen und Wiederholen. Was dein Kind dafür braucht, ist wenig: Platz auf dem Boden, ein paar wenige Gegenstände, viel Zeit ohne Programm und ein Gesicht, das antwortet. Fördermaterial und volle Spielkörbe sind nicht nötig und können sogar stören.",
+  "keyFacts": [
+    "Das interessanteste Objekt im Raum bist in den ersten Monaten du – nicht das Spielzeug.",
+    "Mund und Hände sind die wichtigsten Erkundungswerkzeuge des ersten Jahres.",
+    "Weniger Spielsachen gleichzeitig führen zu längerem und tieferem Spiel.",
+    "Die WHO empfiehlt für Säuglinge mindestens 30 Minuten Bauchlage im Wachzustand über den Tag verteilt.",
+    "Bildschirmmedien werden im ersten Lebensjahr nicht empfohlen – Videotelefonate ausgenommen."
+  ],
+  "blocks": [
+    {
+      "type": "p",
+      "lead": true,
+      "text": "Ein Baby spielt nicht, um etwas zu lernen. Es lernt, weil es spielt. In den ersten Monaten sieht das oft nach fast nichts aus: schauen, greifen, in den Mund stecken, loslassen, zusehen wie es fällt, wieder von vorn. Genau das ist die Entwicklungsarbeit dieses Jahres – und du musst dafür erstaunlich wenig tun."
+    },
+    {
+      "type": "section",
+      "heading": "Spiel ist keine Beschäftigungstherapie",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "Viele Eltern haben das Gefühl, sie müssten ihr Baby „bespaßen“ – und fühlen sich schlecht, wenn das Kind eine halbe Stunde einfach nur auf dem Boden liegt und die Vorhänge anschaut. Dabei ist genau das eine vollwertige Spielsituation. Dein Baby sortiert gerade Licht, Bewegung, Geräusche und die eigenen Körperempfindungen. Dass es dabei still wirkt, heißt nicht, dass nichts passiert."
+        },
+        {
+          "type": "evidence",
+          "level": "stark",
+          "claim": "Freies, selbstgesteuertes Spiel und gemeinsames Spiel mit vertrauten Erwachsenen fördern Sprache, Problemlösen, Selbstregulation und die Verarbeitung von Stress. Fachgesellschaften behandeln Spiel als eigenständigen Gesundheitsfaktor, nicht als Freizeitbeschäftigung.",
+          "note": "Der Bericht der amerikanischen Kinderärztegesellschaft fasst dafür Befunde aus Entwicklungspsychologie und Neurobiologie zusammen. Praktisch heißt das: Du musst nichts kaufen und kein Programm durchziehen. Zeit, Bodenfläche und ein Gesicht, das auf dein Kind reagiert, sind die Grundausstattung.",
+          "sources": [2]
+        },
+        {
+          "type": "p",
+          "text": "In den ersten Wochen ist der stärkste Reiz im Raum ohnehin kein Gegenstand, sondern du. Gesichter auf kurze Distanz, deine Stimme, dein Geruch, das Wechselspiel aus Blicken und Antworten – daraus besteht das erste Spiel. Alles Weitere kommt in Ruhe dazu."
+        }
+      ]
+    },
+    {
+      "type": "section",
+      "heading": "So verändert sich das Spiel im ersten Jahr",
+      "blocks": [
+        {
+          "type": "timeline",
+          "title": "Vom Schauen zum gemeinsamen Tun",
+          "entries": [
+            {
+              "age": "0–2 Monate",
+              "label": "Schauen und hören",
+              "text": "Auf kurze Distanz sieht dein Baby am schärfsten. Kontrastreiche Muster und vor allem Gesichter ziehen den Blick an. Spielzeug braucht es in dieser Zeit praktisch keines."
+            },
+            {
+              "age": "2–4 Monate",
+              "label": "Die Hände entdecken",
+              "text": "Erst werden die eigenen Hände betrachtet, dann eingesetzt. Greifen wird zielgerichteter, Gegenstände werden festgehalten – noch ohne Plan, was danach damit geschehen soll."
+            },
+            {
+              "age": "4–6 Monate",
+              "label": "Alles in den Mund",
+              "text": "Der Mund ist in diesem Alter das feinste Tastorgan. Was in die Hand kommt, wird gemundet, gedreht, von einer Hand in die andere gegeben. Das ist Untersuchung, nicht Unart."
+            },
+            {
+              "age": "6–9 Monate",
+              "label": "Ursache und Wirkung",
+              "text": "Klopfen, schütteln, fallen lassen, hundertmal. Dein Kind prüft, ob dieselbe Handlung dieselbe Folge hat. Auch Kuckuck-Spiele werden jetzt spannend: Dinge sind noch da, wenn man sie nicht sieht."
+            },
+            {
+              "age": "9–12 Monate",
+              "label": "Zusammen schauen",
+              "text": "Zeigen, Blicken folgen, dir etwas hinhalten: Spiel wird geteilt. Behälter werden aus- und wieder eingeräumt, Gegenstände zweckgemäß benutzt – der Löffel wandert zum Mund, der Kamm zum Kopf."
+            }
+          ],
+          "caption": "Grobe Orientierung nach den Entwicklungsübersichten der BZgA. Die Spannen sind groß: Ein Kind kann in einem Bereich früher und in einem anderen später dran sein, ohne dass etwas nicht stimmt."
+        }
+      ]
+    },
+    {
+      "type": "section",
+      "heading": "Weniger Spielzeug, längeres Spiel",
+      "blocks": [
+        {
+          "type": "evidence",
+          "level": "moderat",
+          "claim": "Kleine Kinder beschäftigen sich mit einem einzelnen Gegenstand länger und auf mehr Arten, wenn insgesamt weniger Spielsachen verfügbar sind.",
+          "note": "In einer Laborstudie mit 36 Kleinkindern spielten die Kinder mit vier angebotenen Spielsachen etwa doppelt so lange und abwechslungsreicher mit dem einzelnen Gegenstand als mit sechzehn. Das ist eine einzelne kleine Studie und noch kein Beweis, passt aber zu einer verbreiteten Beobachtung: Ein überfüllter Teppich lädt zum Wechseln ein, nicht zum Vertiefen. Für Säuglinge wurde das nicht eigens geprüft, die Richtung ist aber plausibel.",
+          "sources": [3]
+        },
+        {
+          "type": "callout",
+          "variant": "tip",
+          "title": "Spielsachen rotieren statt anhäufen",
+          "items": [
+            "Nur wenige Dinge gleichzeitig erreichbar lassen, den Rest in eine Kiste außer Sicht.",
+            "Alle ein bis zwei Wochen tauschen – Bekanntes wirkt danach wieder neu.",
+            "Wenn Geschenke sich stapeln: nicht alles auspacken, sondern nachlegen.",
+            "Ein Gegenstand, der lange fesselt, ist mehr wert als fünf, die kurz anregen."
+          ]
+        }
+      ]
+    },
+    {
+      "type": "section",
+      "heading": "Das meiste hast du schon zu Hause",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "Babys interessieren sich für Eigenschaften, nicht für Themen. Etwas ist kalt oder warm, glatt oder rau, laut oder leise, schwer oder leicht. Haushaltsgegenstände liefern davon mehr als die meisten Kunststoffangebote – und sie kosten nichts."
+        },
+        {
+          "type": "list",
+          "ordered": false,
+          "items": [
+            { "title": "Behälter und Deckel:", "text": "Schüsseln, Becher, leere Dosen. Aus- und Einräumen ist monatelang eines der beliebtesten Spiele." },
+            { "title": "Stoffe:", "text": "Tücher in verschiedenen Materialien zum Ziehen, Verstecken, Drüberwerfen." },
+            { "title": "Holz und Metall aus der Küche:", "text": "Holzlöffel, kleine Schöpfkelle, Silikonform – anderes Gewicht, anderer Klang." },
+            { "title": "Papier und Karton:", "text": "Kartons zum Hineinsetzen, festes Papier zum Knistern (unter Aufsicht, nicht dünnes Papier zum Verschlucken)." },
+            { "title": "Der eigene Körper:", "text": "Fingerspiele, Hochheben, Schaukeln auf den Beinen, Grimassen. Nichts davon lässt sich kaufen." }
+          ]
+        },
+        {
+          "type": "callout",
+          "variant": "warn",
+          "title": "Sicherheit geht vor Kreativität",
+          "text": "Alles, was durch eine Klopapierrolle passt, kann verschluckt oder eingeatmet werden. Tabu sind außerdem Knopfzellen und Magnete, lange Bänder und Kordeln, brechbares Plastik, abziehbare Kleinteile und alles mit scharfen Kanten. Spielzeug für Säuglinge sollte speichel- und bissfest sein – Selbstgebautes ebenso prüfen wie Gekauftes."
+        }
+      ]
+    },
+    {
+      "type": "section",
+      "heading": "Wann es zu viel wird",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "Babys können Reize noch nicht ausblenden. Musikmobile, sprechendes Spielzeug, Fernseher im Hintergrund und Besuch gleichzeitig – das ist nicht Förderung, sondern Arbeit. Überreizte Babys wirken oft nicht müde, sondern aufgedreht, und schlafen anschließend schlechter ein."
+        },
+        {
+          "type": "list",
+          "ordered": false,
+          "items": [
+            "Wegdrehen des Kopfes, Blick abwenden",
+            "Fäuste ballen, Arme und Beine stärker strecken",
+            "Schluckauf, Gähnen, Niesen mitten im Spiel",
+            "Quengeln, das ohne erkennbaren Anlass kippt",
+            "Blasse Haut um Mund und Nase, hektisches Atmen"
+          ]
+        },
+        {
+          "type": "callout",
+          "variant": "tip",
+          "title": "Die einfachste Antwort ist Pause",
+          "text": "Reize wegnehmen statt neue anbieten: Licht dimmen, Geräusche aus, auf den Arm nehmen, nichts sagen. Kurze Wachphasen mit ruhigen Anteilen sind für Säuglinge normal – Langeweile im Sinne von Unterforderung gibt es in diesem Alter praktisch nicht."
+        }
+      ]
+    },
+    {
+      "type": "section",
+      "heading": "Boden, Bewegung und Bildschirme",
+      "blocks": [
+        {
+          "type": "evidence",
+          "level": "stark",
+          "claim": "Säuglinge sollten mehrmals täglich aktiv sein, davon mindestens 30 Minuten in Bauchlage im Wachzustand über den Tag verteilt. Bildschirmzeit wird im ersten Lebensjahr nicht empfohlen, und länger als eine Stunde am Stück sollten Kinder nicht festgehalten oder angeschnallt sein.",
+          "note": "Das sind die WHO-Empfehlungen für Kinder unter fünf Jahren. Die 30 Minuten sind eine Tagessumme aus vielen kurzen Einheiten, kein Trainingsplan – zwei Minuten nach jedem Wickeln reichen als Einstieg. Wippe, Autoschale und Tragehilfe sind praktisch, aber jede Zeit darin ist Zeit, in der dein Kind sich nicht selbst bewegen kann.",
+          "sources": [1]
+        },
+        {
+          "type": "p",
+          "text": "Der beste Spielplatz im ersten Jahr ist eine Decke auf dem Fußboden. Dort kann sich dein Kind drehen, robben, sich am Tisch hochziehen – und zwischendurch einfach liegen. Hinsetzen oder Hinstellen, bevor ein Kind das selbst schafft, bringt keinen Vorteil und nimmt ihm die Übung, die es dafür braucht."
+        }
+      ]
+    },
+    {
+      "type": "section",
+      "heading": "Häufige Fragen",
+      "blocks": [
+        {
+          "type": "faq",
+          "items": [
+            {
+              "q": "Mein Baby spielt nur zwei Minuten mit einer Sache. Ist das normal?",
+              "a": "Ja. Aufmerksamkeitsspannen sind im ersten Jahr kurz und schwanken stark – nach Tagesform, Müdigkeit und Hunger. Was du unterstützen kannst: nicht ständig neue Angebote hinschieben. Oft kommt ein Kind zum selben Gegenstand zurück, wenn man ihm die Gelegenheit lässt."
+            },
+            {
+              "q": "Brauchen wir eine Spielbogen, ein Mobile oder eine Krabbeldecke mit Sound?",
+              "a": "Nichts davon ist notwendig. Ein Spielbogen kann in den ersten Monaten nützlich sein, weil er zum Greifen einlädt. Elektronische Elemente mit Licht und Musik machen dagegen eher den Gegenstand aktiv und das Kind passiv – dabei ist es andersherum sinnvoll."
+            },
+            {
+              "q": "Mein Kind steckt alles in den Mund. Soll ich das abgewöhnen?",
+              "a": "Nein. Der Mund ist im ersten Jahr das genaueste Tast- und Untersuchungsorgan. Statt es zu unterbinden, ist es wirkungsvoller, die Umgebung so einzurichten, dass das meiste unbedenklich ist – und Verschluckbares konsequent außer Reichweite zu räumen."
+            },
+            {
+              "q": "Wie viel soll ich mich beim Spielen einmischen?",
+              "a": "Als Faustregel: erst zuschauen, dann anschließen. Beschreibe, was dein Kind tut, reiche an, was es sucht, aber führe nicht vor, wie es „richtig“ geht. Kinder verlieren das Interesse oft genau dann, wenn Erwachsene die Regie übernehmen."
+            },
+            {
+              "q": "Wir schauen abends fern, während das Baby auf dem Boden spielt. Ist das schlimm?",
+              "a": "Schlimm nicht, aber es ist nicht neutral. Laufende Bildschirme im Hintergrund verkürzen nachweislich die Spielphasen kleiner Kinder und verringern die Zahl der Worte, die Eltern nebenbei sprechen. Wenn es geht: den Fernseher in den Spielzeiten aus lassen – und ihn dann bewusst einschalten, wenn dein Kind schläft."
+            },
+            {
+              "q": "Ist Videotelefonat mit den Großeltern Bildschirmzeit?",
+              "a": "Fachgesellschaften zählen es nicht dazu. Es ist kurz, es ist echte Interaktion mit vertrauten Menschen und dein Kind bekommt dabei viel Sprache. Alles andere auf dem Bildschirm ist im ersten Jahr nicht empfohlen."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "callout",
+      "variant": "info",
+      "title": "Kurz gesagt",
+      "text": "Boden statt Wippe, wenige Dinge statt voller Kisten, dein Gesicht statt Bildschirm, Pause statt Programm. Das erste Spieljahr braucht keine Ausstattung, sondern Gelegenheit – und einen Erwachsenen, der aushält, dass zwanzig Minuten Fallenlassen für dein Kind gerade das Interessanteste auf der Welt sind."
+    }
+  ],
+  "sources": [
+    {
+      "title": "Spielen im 1. Lebensjahr",
+      "publisher": "Bundeszentrale für gesundheitliche Aufklärung (BZgA), kindergesundheit-info.de",
+      "year": "2024",
+      "kind": "Institutionelle Information",
+      "url": "https://www.kindergesundheit-info.de/themen/spielen/0-12-monate/"
+    },
+    {
+      "title": "Guidelines on physical activity, sedentary behaviour and sleep for children under 5 years of age",
+      "publisher": "World Health Organization",
+      "year": "2019",
+      "kind": "Leitlinie",
+      "url": "https://www.who.int/publications/i/item/9789241550536"
+    },
+    {
+      "title": "The Power of Play: A Pediatric Role in Enhancing Development in Young Children",
+      "publisher": "Pediatrics / American Academy of Pediatrics (Yogman et al.)",
+      "year": "2018",
+      "kind": "Übersichtsarbeit",
+      "url": "https://publications.aap.org/pediatrics/article/142/3/e20182058/38649/The-Power-of-Play-A-Pediatric-Role-in-Enhancing"
+    },
+    {
+      "title": "The influence of the number of toys in the environment on toddlers’ play",
+      "publisher": "Infant Behavior and Development (Dauch et al.)",
+      "year": "2018",
+      "kind": "Studie",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/29190457/"
+    },
+    {
+      "title": "Sicheres Spielzeug für Babys",
+      "publisher": "Bundeszentrale für gesundheitliche Aufklärung (BZgA), kindergesundheit-info.de",
+      "year": "2024",
+      "kind": "Institutionelle Information",
+      "url": "https://www.kindergesundheit-info.de/themen/sicher-aufwachsen/0-12-monate/spielzeug/"
+    },
+    {
+      "title": "The Effects of Background Television on the Toy Play Behavior of Very Young Children",
+      "publisher": "Child Development (Schmidt, Pempek, Kirkorian, Lund, Anderson)",
+      "year": "2008",
+      "kind": "Studie",
+      "url": "https://eric.ed.gov/?id=EJ802187"
+    }
+  ],
+  "related": ["spiel-kleinkind", "motorik-erstes-jahr", "bildschirmzeit-kleinkind", "sprachentwicklung-erstes-jahr"]
+}

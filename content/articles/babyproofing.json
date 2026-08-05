@@ -1,0 +1,308 @@
+{
+  "slug": "babyproofing",
+  "title": "Die Wohnung kindersicher machen",
+  "subtitle": "Welche Sicherungen wirklich etwas bringen, in welcher Reihenfolge sie sinnvoll sind – und warum eine Wohnung ohne jedes Risiko weder möglich noch wünschenswert ist.",
+  "phases": ["saeugling", "kleinkind"],
+  "topics": ["sicherheit"],
+  "updated": "2026-08-05",
+  "summary": "Die meisten Unfälle kleiner Kinder passieren zu Hause, und sie folgen einem sehr vorhersehbaren Muster: Stürze, Verbrühungen, Vergiftungen, Ersticken an Kleinteilen, Ertrinken in wenig Wasser. Wer diese fünf Bereiche absichert, hat den größten Teil der Arbeit erledigt. Alles andere ist Feinschliff – und Aufsicht bleibt durch kein Gerät ersetzbar.",
+  "keyFacts": [
+    "Rund zwei Drittel aller Kinderunfälle passieren im häuslichen und im Freizeitbereich.",
+    "Stürze sind in jeder Altersgruppe die häufigste Unfallart – Sicherungen an Treppe, Fenster und Möbeln haben deshalb Vorrang.",
+    "Heiße Getränke sind im ersten und zweiten Lebensjahr die unterschätzteste Gefahr im Haushalt.",
+    "Knopfzellen und Magnete sind kein Randthema mehr, sondern ein akuter Notfall.",
+    "Sicherungen kaufen ist der leichtere Teil; Gewohnheiten ändern der wirksamere."
+  ],
+  "blocks": [
+    {
+      "type": "p",
+      "lead": true,
+      "text": "Kindersicherung wird oft als Einkaufsliste verkauft: Steckdosenschutz, Eckenschutz, Schranksicherung, fertig. Das ist nicht falsch, aber es sortiert schlecht. Denn die Unfälle, die Kinder tatsächlich ins Krankenhaus bringen, verteilen sich sehr ungleich – und ausgerechnet die Dinge, die sich am schlechtesten in einen Warenkorb legen lassen, wirken am meisten: wo die Teetasse steht, wie das Fenster gekippt wird, ob jemand am Wasser danebensitzt."
+    },
+    {
+      "type": "callout",
+      "variant": "danger",
+      "title": "Drei Dinge, die keinen Aufschub dulden",
+      "items": [
+        "**Knopfzellen** aus Fernbedienungen, Grußkarten, Küchenwaagen, Leuchtspielzeug: Ein verschlucktes Exemplar kann innerhalb von Stunden schwere Verätzungen der Speiseröhre verursachen. Verdacht heißt sofort in die Klinik oder 112 – nicht abwarten, nicht zu Hause beobachten.",
+        "**Mehrere starke Magnete** (Neodym, Magnetkugeln, Magnetbausteine): Werden zwei oder mehr verschluckt, können sie sich durch Darmwände hindurch anziehen. Ebenfalls Notfall.",
+        "**Offenes Wasser** – Regentonne, Gartenteich, Planschbecken, volle Badewanne, Putzeimer. Kleinkinder können schon in sehr flachem Wasser ertrinken, lautlos und in weniger als zwei Minuten."
+      ]
+    },
+    {
+      "type": "section",
+      "heading": "Wo Kinder tatsächlich verunglücken",
+      "blocks": [
+        {
+          "type": "evidence",
+          "level": "stark",
+          "claim": "Unfallverletzungen sind in Deutschland ab dem vollendeten ersten Lebensjahr die häufigste Todesursache im Kindesalter. Der größte Teil der Unfälle passiert nicht im Straßenverkehr, sondern zu Hause und in der Freizeit.",
+          "note": "Die Bundesarbeitsgemeinschaft Mehr Sicherheit für Kinder beziffert die Größenordnung auf rund 1,9 Millionen ärztlich behandelte Kinder pro Jahr, etwa 200.000 davon im Krankenhaus. Das klingt dramatisch – entscheidend ist die andere Seite derselben Zahl: Ein großer Teil dieser Unfälle ist mit einfachen Mitteln vermeidbar.",
+          "sources": [0, 4]
+        },
+        {
+          "type": "figure",
+          "kind": "share",
+          "title": "Wo Kinderunfälle passieren",
+          "alt": "Anteilsdiagramm der Unfallorte bei Kindern: Zuhause und privates Umfeld knapp 44 Prozent, Schule und Betreuung 24 Prozent, Spielplatz und Sport 17 Prozent",
+          "data": [
+            { "label": "Zuhause / privates Umfeld", "value": 43.8, "display": "43,8 %" },
+            { "label": "Schule / Betreuung", "value": 24.2, "display": "24,2 %" },
+            { "label": "Spielplatz / Sportstätte", "value": 17.4, "display": "17,4 %" }
+          ],
+          "caption": "Verteilung der Unfallorte nach Zahlen der Bundesarbeitsgemeinschaft Mehr Sicherheit für Kinder. Bei Kindern unter vier Jahren ist der Anteil des häuslichen Umfelds noch deutlich höher, weil sie sich fast ausschließlich dort aufhalten.",
+          "sources": [0]
+        },
+        {
+          "type": "evidence",
+          "level": "stark",
+          "claim": "Stürze sind in jeder Altersgruppe die häufigste Unfallart. Rund die Hälfte aller Kinderunfälle sind Stürze, ein erheblicher Teil davon Stürze aus der Höhe.",
+          "note": "Praktisch heißt das: Wickeltisch, Sofa, Hochstuhl, Treppe, Fenster und kippgefährdete Möbel verdienen mehr Aufmerksamkeit als der Steckdosenschutz. Bei den Kleinsten gilt eine sehr einfache Regel – auf dem Wickeltisch bleibt immer eine Hand am Kind, auch wenn es sich noch gar nicht dreht. Der erste Rolldreher kommt ohne Ankündigung.",
+          "sources": [3, 1]
+        }
+      ]
+    },
+    {
+      "type": "section",
+      "heading": "Was wann dran ist",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "Kindersicherung ist keine einmalige Aktion, sondern läuft der Entwicklung hinterher. Jede neue motorische Fähigkeit eröffnet neue Gefahren – und meistens ein paar Wochen, bevor Eltern damit rechnen. Der beste Zeitpunkt für eine Sicherung ist deshalb immer kurz vor dem Können, nicht danach."
+        },
+        {
+          "type": "timeline",
+          "title": "Sicherungen entlang der Entwicklung",
+          "entries": [
+            {
+              "age": "0–4 Monate",
+              "label": "Ersticken und Stürze vom Wickelplatz",
+              "text": "Schlafplatz leer halten, Wickeln nie ohne Hand am Kind, keine Bänder und Kordeln in Reichweite, keine Ketten am Hals der tragenden Person."
+            },
+            {
+              "age": "4–8 Monate",
+              "label": "Drehen, greifen, alles in den Mund",
+              "text": "Kleinteile aus Bodennähe, Fernbedienungen und Batteriefächer sichern, heiße Getränke außer Reichweite, nichts mehr auf der Tischkante."
+            },
+            {
+              "age": "8–14 Monate",
+              "label": "Robben, Krabbeln, Hochziehen",
+              "text": "Treppenschutzgitter oben und unten, Möbel an der Wand verankern, Tischdecken weg (Zug daran zieht die Kanne mit), Herdschutz, Putzmittel nach oben."
+            },
+            {
+              "age": "14–24 Monate",
+              "label": "Laufen, klettern, öffnen",
+              "text": "Fenster- und Balkontürgriffe abschließbar, Schubladen mit Messern sichern, Toilettendeckel und Eimer im Blick, Gartenteich und Regentonne abdecken."
+            },
+            {
+              "age": "2–4 Jahre",
+              "label": "Stühle als Leitern, Türen als Aufgabe",
+              "text": "Alles, was durch Klettern erreichbar wird, neu bewerten. Medikamente und Nikotinprodukte gehören jetzt in einen verschlossenen Schrank, nicht nur ins oberste Fach."
+            }
+          ],
+          "caption": "Orientierung nach den Unfallschwerpunkten, die die BZgA für die einzelnen Altersstufen beschreibt. Die Altersangaben sind Spannen, keine Stichtage – manche Kinder klettern mit zehn Monaten auf den Küchenstuhl."
+        }
+      ]
+    },
+    {
+      "type": "section",
+      "heading": "Raum für Raum: die kurze Liste",
+      "blocks": [
+        {
+          "type": "checklist",
+          "id": "kueche",
+          "title": "Küche und Esszimmer",
+          "items": [
+            "Heiße Getränke nie in Reichweite abstellen und nie mit Kind auf dem Arm trinken",
+            "Keine Tischdecken und Tischläufer, solange gezogen wird",
+            "Töpfe auf die hinteren Platten, Griffe nach innen; Herdschutzgitter bei freistehendem Herd",
+            "Wasserkocher- und Bügeleisenkabel aufrollen, nicht herunterhängen lassen",
+            "Putz- und Spülmittel aus dem Unterschrank nach oben – Kindersicherungen am Schrank sind die zweitbeste Lösung",
+            "Spülmaschinen-Tabs sind Gift und sehen aus wie Bonbons: geschlossener Schrank, Tür der Maschine zu",
+            "Backofentür heiß? Kühle Frontscheibe oder Schutzgitter prüfen"
+          ]
+        },
+        {
+          "type": "checklist",
+          "id": "bad-wohnen",
+          "title": "Bad, Wohnbereich, Treppe, Fenster",
+          "items": [
+            "Kind niemals allein in der Badewanne lassen – auch nicht für den Türklingel-Moment",
+            "Wassertemperatur vor dem Baden am eigenen Unterarm prüfen; wenn möglich Thermostat am Boiler begrenzen",
+            "Medikamente, Nagellackentferner, ätherische Öle und E-Zigaretten-Liquids in einen verschlossenen Schrank",
+            "Regale, Kommoden und Fernseher mit Kippsicherung an der Wand befestigen",
+            "Treppenschutzgitter oben und unten, oben immer an der Wand verschraubt (kein Klemmgitter am oberen Treppenende)",
+            "Fenster- und Balkontürgriffe abschließbar; keine Klettermöbel unter dem Fenster",
+            "Gekippte Fenster sind für Kleinkinder gefährlich – Kippsicherung oder Fenster ganz zu",
+            "Kabel von Rollos und Jalousien kurz binden (Strangulationsgefahr)"
+          ]
+        },
+        {
+          "type": "callout",
+          "variant": "tip",
+          "title": "Der Krabbeltest",
+          "text": "Geh einmal auf allen vieren durch jeden Raum und schau von unten. Was blinkt, was hängt herunter, was steht kippelig, was passt in einen Mund? Diese zehn Minuten finden zuverlässig mehr als jede Checkliste – und sie sind die einzige Methode, die auch die Wohnung der Großeltern ehrlich bewertet."
+        }
+      ]
+    },
+    {
+      "type": "section",
+      "heading": "Kleinteile, Knopfzellen, Magnete",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "Alles, was durch eine leere Klopapierrolle passt, kann von einem Kind unter drei Jahren verschluckt oder eingeatmet werden. Spielzeugnormen arbeiten mit einem Prüfzylinder von etwa 32 Millimetern Durchmesser – die Klopapierrolle ist etwas größer und damit die praktikable, vorsichtigere Variante für den Alltag."
+        },
+        {
+          "type": "comparison",
+          "title": "Verschlucktes richtig einordnen",
+          "columns": [
+            {
+              "title": "Sofort in die Klinik oder 112",
+              "tone": "bad",
+              "items": [
+                "Knopfzelle oder Verdacht darauf – auch wenn es dem Kind gut geht",
+                "Zwei oder mehr Magnete, oder ein Magnet plus Metallteil",
+                "Spitze oder scharfe Gegenstände",
+                "Wasserperlen und Quellkügelchen (sie wachsen im Darm weiter)",
+                "Atemnot, Husten, Speicheln, Schluckweigerung, blaue Lippen"
+              ]
+            },
+            {
+              "title": "Ärztlich abklären, aber ohne Panik",
+              "tone": "neutral",
+              "items": [
+                "Münze oder glatter Kunststoffteil, Kind isst und trinkt normal",
+                "Kleines Stück Papier, Krümel, Erde",
+                "Ein einzelner kleiner Magnet ohne weiteres Metall im Bauch",
+                "Im Zweifel: Kinderarztpraxis anrufen oder 116 117 außerhalb der Sprechzeiten"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "callout",
+          "variant": "warn",
+          "title": "Batteriefächer im Blick behalten",
+          "text": "Die häufigsten Quellen für Knopfzellen im Kinderzimmer sind nicht Batterien in der Schublade, sondern Geräte: Fernbedienungen, Autoschlüssel, LED-Teelichter, singende Grußkarten, Küchen- und Personenwaagen, Blinkschuhe, kleine Spielfiguren mit Licht. Prüf einmal, ob sich das Batteriefach ohne Schraubendreher öffnen lässt – wenn ja, gehört das Gerät nach oben oder weg."
+        }
+      ]
+    },
+    {
+      "type": "section",
+      "heading": "Was Sicherungen nicht können",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "Keine Steckdosensicherung ersetzt Aufsicht, und keine noch so gut gesicherte Wohnung ersetzt die Fähigkeit eines Kindes, Gefahren selbst einzuschätzen. Beides muss zusammenkommen. Die Unfallversicherungsträger formulieren das für Kitas als Grundsatz, der sich gut auf zu Hause übertragen lässt: Sicherheit heißt nicht Überbehütung. Kinder brauchen Gelegenheiten, an denen sie Risiken erproben können – klettern, balancieren, springen –, damit sie Risiken später einschätzen können."
+        },
+        {
+          "type": "evidence",
+          "level": "moderat",
+          "claim": "Bewegungserfahrung und geschützte Gelegenheiten zum Erproben von Risiken gelten in der Unfallprävention als eigenständiger Schutzfaktor, nicht als Gegensatz zur Sicherheit.",
+          "note": "Die Datenlage ist hier weicher als bei technischen Sicherungen, der Fachkonsens aber breit. Praktisch: Sichere das ab, was schwere Verletzungen verursacht (Höhe, Wasser, Hitze, Gift) – und lass bewusst zu, was höchstens blaue Flecken kostet.",
+          "sources": [4]
+        },
+        {
+          "type": "callout",
+          "variant": "myth",
+          "title": "„Ich sag ihm doch, dass es heiß ist“",
+          "text": "Kinder unter drei Jahren können Verbote nicht zuverlässig gegen ihren Impuls durchsetzen, auch wenn sie sie verstanden haben und brav nicken. Sprachliche Warnungen sind sinnvoll als Begleitung, aber niemals als Sicherung. Wer sich darauf verlässt, verlagert die Verantwortung auf jemanden, der sie noch nicht tragen kann."
+        }
+      ]
+    },
+    {
+      "type": "section",
+      "heading": "Häufige Fragen",
+      "blocks": [
+        {
+          "type": "faq",
+          "items": [
+            {
+              "q": "Müssen wir wirklich die ganze Wohnung umbauen?",
+              "a": "Nein. Priorisier nach Schwere: Was kann tödlich oder bleibend schädigen? Wasser, Höhe, Hitze, Gift, Kleinteile. Das sichert man konsequent. Alles andere – Ecken, Türen, Schubladen – kann man abwägen und auch später nachrüsten, wenn sich zeigt, dass das eigene Kind ausgerechnet dort landet."
+            },
+            {
+              "q": "Bringen Steckdosensicherungen überhaupt etwas?",
+              "a": "Wenig. Moderne Steckdosen in Deutschland haben in der Regel bereits einen Berührungsschutz, und Stromunfälle machen einen sehr kleinen Teil der Kinderunfälle aus. Sie schaden nicht, stehen aber in vielen Ratgebern viel weiter oben, als es die Zahlen rechtfertigen."
+            },
+            {
+              "q": "Wie kindersicher muss es bei den Großeltern sein?",
+              "a": "Zumindest für die tödlichen Kategorien genauso. Praktikabel ist ein kleiner Reisesatz: ein Klemmgitter, zwei Fenstersicherungen, ein Beutel für die Medikamente. Und ein freundliches Gespräch über die Tablettenschachtel auf dem Nachttisch – dort passieren erstaunlich viele Vergiftungsunfälle."
+            },
+            {
+              "q": "Ab wann kann ich Sicherungen wieder abbauen?",
+              "a": "Treppengitter meist im dritten bis vierten Lebensjahr, wenn das Kind die Treppe sicher und ohne Aufforderung im Wechselschritt bewältigt. Fenstersicherungen, Kippsicherungen an Möbeln und die verschlossene Medikamentenbox bleiben deutlich länger – Klettern wird mit vier Jahren besser, nicht seltener."
+            },
+            {
+              "q": "Unser Kind zieht sich an allem hoch und fällt ständig hin. Ist das normal?",
+              "a": "Ja. Kleine Stürze aus dem Stand sind Teil des Lernprozesses und verursachen selten mehr als Schrecken und Beulen. Gefährlich sind Stürze aus Höhe und auf harte Kanten. Ein weicher Boden im Hauptspielbereich ist deshalb sinnvoller als der Versuch, jedes Hinfallen zu verhindern."
+            },
+            {
+              "q": "Was gehört in die Hausapotheke für Kinder?",
+              "a": "Wund- und Verbandmaterial, sterile Kompressen, eine Pinzette, ein digitales Fieberthermometer, eine Rettungsdecke und eine Zeckenkarte. Wichtiger als der Inhalt sind die Nummern an der Kühlschranktür: 112, 116 117 und der Giftnotruf deines Bundeslandes. Eine Übersicht dazu findest du auf unserer [Notfallseite](/notfall)."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "callout",
+      "variant": "info",
+      "title": "Kurz gesagt",
+      "text": "Sichere zuerst, was schwer verletzt: Wasser, Höhe, Hitze, Gift, Kleinteile. Geh einmal krabbelnd durch die Wohnung. Häng die Notfallnummern sichtbar auf. Und lass danach ruhig ein paar Kanten unbeschützt – ein Kind, das nie stolpert, lernt nicht, wie Stolpern sich anfühlt."
+    }
+  ],
+  "sources": [
+    {
+      "title": "Statistiken zu Unfällen bei Kindern",
+      "publisher": "Bundesarbeitsgemeinschaft Mehr Sicherheit für Kinder e. V.",
+      "year": "2024",
+      "kind": "Institutionelle Information",
+      "url": "https://www.kindersicherheit.de/fachinformation/unfallstatistiken"
+    },
+    {
+      "title": "Unfallschwerpunkte im Kindesalter",
+      "publisher": "Bundeszentrale für gesundheitliche Aufklärung (BZgA), kindergesundheit-info.de",
+      "year": "2024",
+      "kind": "Institutionelle Information",
+      "url": "https://www.kindergesundheit-info.de/themen/sicher-aufwachsen/entwicklungsaspekte/unfallschwerpunkte/"
+    },
+    {
+      "title": "Unfallschwerpunkte im 1. Lebensjahr",
+      "publisher": "Bundeszentrale für gesundheitliche Aufklärung (BZgA), kindergesundheit-info.de",
+      "year": "2024",
+      "kind": "Institutionelle Information",
+      "url": "https://www.kindergesundheit-info.de/themen/sicher-aufwachsen/0-12-monate/unfallschwerpunkte/"
+    },
+    {
+      "title": "Unfälle vermeiden: Stürze bei Kindern",
+      "publisher": "Bundesarbeitsgemeinschaft Mehr Sicherheit für Kinder e. V.",
+      "year": "2024",
+      "kind": "Institutionelle Information",
+      "url": "https://www.kindersicherheit.de/kindersicherheit/unfallarten/sturz"
+    },
+    {
+      "title": "Prävention von Kinderunfällen",
+      "publisher": "Bundesministerium für Gesundheit",
+      "year": "2024",
+      "kind": "Institutionelle Information",
+      "url": "https://www.bundesgesundheitsministerium.de/themen/praevention/kindergesundheit/praevention-von-kinderunfaellen"
+    },
+    {
+      "title": "Wohnung und Haus kindersicher machen",
+      "publisher": "ADAC",
+      "year": "2024",
+      "kind": "Institutionelle Information",
+      "url": "https://www.adac.de/rund-ums-haus/wohnen/haushalt/wohnung-haus-kindersicher-machen/"
+    },
+    {
+      "title": "Verschluckbarkeit von Spielzeugteilen – was bedeutet das eigentlich?",
+      "publisher": "Niedersächsisches Landesamt für Verbraucherschutz und Lebensmittelsicherheit (LAVES)",
+      "year": "2023",
+      "kind": "Institutionelle Information",
+      "url": "https://www.laves.niedersachsen.de/startseite/bedarfsgegenstande/spielwaren_scherzartikel/verschluckbarkeit-was-bedeutet-das-eigentlich-203291.html"
+    }
+  ],
+  "related": ["erste-hilfe-am-kind", "unfallpraevention-kleinkind", "autositz-und-unterwegs", "motorik-erstes-jahr"]
+}

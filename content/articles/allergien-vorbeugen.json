@@ -1,0 +1,268 @@
+{
+  "slug": "allergien-vorbeugen",
+  "title": "Allergien vorbeugen",
+  "subtitle": "Vom Meiden zum frühen Einführen: warum sich die Empfehlungen zu Erdnuss, Ei und Fisch umgekehrt haben, was Neurodermitis damit zu tun hat und welche verbreiteten Maßnahmen nachweislich nichts bringen.",
+  "phases": ["saeugling", "kleinkind"],
+  "topics": ["ernaehrung", "gesundheit"],
+  "updated": "2026-08-05",
+  "summary": "Zwei Jahrzehnte lang lautete der Rat, potenzielle Allergene möglichst lange wegzulassen. Heute gilt fast das Gegenteil: Vielfältige Beikost im normalen Zeitfenster, einschließlich Fisch, Milchprodukten und durcherhitztem Hühnerei, ist die wirksamste Ernährungsmaßnahme. Für Erdnuss gibt es die stärksten Daten – bei Kindern mit ausgeprägter Neurodermitis allerdings erst nach ärztlicher Abklärung. Gleichzeitig gilt: Vieles, was als Vorbeugung verkauft wird, von Spezialnahrung bis Probiotika, hat keinen belegten Nutzen.",
+  "keyFacts": [
+    "Allergene nicht meiden: Beikost soll von Anfang an vielfältig sein, mit Fisch, Milchprodukten und durcherhitztem Ei.",
+    "Stillen in den ersten vier bis sechs Monaten wird auch aus Gründen der Allergievorbeugung empfohlen.",
+    "Frühe, regelmäßige Erdnussgabe senkt bei Risikokindern das Erdnussallergierisiko deutlich – bei ausgeprägter Neurodermitis vorher abklären lassen.",
+    "Rauchfreie Umgebung ist eine der wenigen wirklich starken Maßnahmen.",
+    "Haustiere müssen zur Allergievorbeugung nicht abgeschafft werden."
+  ],
+  "blocks": [
+    {
+      "type": "p",
+      "lead": true,
+      "text": "Wenn deine Eltern dir erzählen, du hättest als Baby kein Ei bekommen dürfen, dann stimmt das – so lautete jahrelang die Empfehlung. Sie war gut gemeint und falsch. Heute wissen wir: Das Immunsystem lernt in den ersten Lebensmonaten, was harmlos ist, und es lernt das über den Darm. Was in dieser Zeit nie ankommt, wird eher zum Verdächtigen. Diese Umkehr ist eine der größten Kursänderungen der Kinderheilkunde der letzten Jahrzehnte – und sie ist noch längst nicht bei allen angekommen."
+    },
+    {
+      "type": "callout",
+      "variant": "danger",
+      "title": "Bevor du neue Lebensmittel einführst",
+      "items": [
+        "Hat dein Kind eine mittelschwere bis schwere Neurodermitis oder gab es bereits eine Reaktion auf ein Lebensmittel, sprich mit der Kinderarztpraxis, bevor du Erdnuss oder Ei einführst. In dieser Gruppe kann eine bereits bestehende Sensibilisierung vorliegen – die Leitlinie empfiehlt, eine klinisch relevante Erdnussallergie vorher auszuschließen.",
+        "Sofortreaktionen zeigen sich meist innerhalb von Minuten bis zwei Stunden: Quaddeln oder Rötung, Schwellung von Lippen, Zunge oder Augenlidern, Erbrechen, plötzlicher Durchfall, Husten, pfeifende Atmung, Blässe, Schlappheit.",
+        "Bei Atemnot, Schwellung im Mund- und Rachenraum, Kreislaufschwäche oder Bewusstseinstrübung: sofort Notruf 112. Das Kind flach lagern, Beine hoch, nicht allein lassen. Wenn ein Notfallset verordnet ist, jetzt einsetzen – Zögern ist bei Anaphylaxie das größte Risiko.",
+        "Neue Lebensmittel deshalb tagsüber einführen, wenn eine Praxis erreichbar ist, und nicht kurz vor dem Schlafengehen."
+      ]
+    },
+    {
+      "type": "section",
+      "heading": "Was sich umgekehrt hat",
+      "blocks": [
+        {
+          "type": "comparison",
+          "title": "Früher empfohlen – heute überholt",
+          "columns": [
+            {
+              "title": "Alter Rat",
+              "tone": "myth",
+              "items": [
+                "Meidungsdiät der Mutter in Schwangerschaft und Stillzeit",
+                "Beikost möglichst spät beginnen",
+                "Ei, Fisch, Nüsse erst nach dem ersten oder zweiten Geburtstag",
+                "HA-Nahrung für alle Risikokinder",
+                "Haustiere lieber abschaffen"
+              ]
+            },
+            {
+              "title": "Heutige Empfehlung",
+              "tone": "good",
+              "items": [
+                "Ausgewogene, vielfältige Ernährung ohne Meidung – auch beim Stillen",
+                "Beikoststart im normalen Fenster ab Beginn des fünften Monats",
+                "Fisch, Milchprodukte und durcherhitztes Hühnerei gehören in die Beikost",
+                "Keine generelle Empfehlung für hydrolysierte Spezialnahrung",
+                "Vorhandene Haustiere können bleiben"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "evidence",
+          "level": "stark",
+          "claim": "Die Beikost soll nicht verzögert werden und von Anfang an vielfältig sein – einschließlich Fisch, Milchprodukten und gut durcherhitztem Hühnerei. Eine gezielte Meidung potenter Allergene zur Allergievorbeugung wird nicht empfohlen.",
+          "note": "Das ist eine Kernaussage der deutschen S3-Leitlinie Allergieprävention von 2022 und deckt sich mit den europäischen Empfehlungen. Durcherhitzt heißt hart gekocht oder gebacken – nicht Rührei, nicht weich gekocht, nicht roh im Teig. Praktisch heißt das: Du musst nichts extra tun, außer nichts wegzulassen.",
+          "sources": [0, 5]
+        }
+      ]
+    },
+    {
+      "type": "section",
+      "heading": "Erdnuss: der bestuntersuchte Einzelfall",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "Den Anstoß gab eine Beobachtung: In Israel, wo Säuglinge früh und regelmäßig ein erdnusshaltiges Knabbergebäck bekommen, war Erdnussallergie deutlich seltener als unter jüdischen Kindern in Großbritannien, wo Erdnuss gemieden wurde. Daraus wurde eine randomisierte Studie – die LEAP-Studie – mit 640 Säuglingen, die wegen schwerer Neurodermitis oder Hühnereiallergie ein hohes Risiko hatten."
+        },
+        {
+          "type": "figure",
+          "kind": "bar",
+          "title": "Erdnussallergie im Alter von fünf Jahren (LEAP-Studie)",
+          "alt": "Balkendiagramm: 13,7 Prozent Erdnussallergie in der Vermeidungsgruppe gegenüber 1,9 Prozent in der Verzehrgruppe",
+          "data": [
+            { "label": "Erdnuss gemieden", "value": 13.7, "display": "13,7 %" },
+            { "label": "Erdnuss regelmäßig gegessen", "value": 1.9, "display": "1,9 %" }
+          ],
+          "caption": "Ergebnis für die Teilgruppe von 530 Kindern, die zu Studienbeginn im Hauttest noch nicht auf Erdnuss reagierten (Du Toit et al., New England Journal of Medicine 2015). Die Kinder erhielten ab einem Alter von 4 bis 11 Monaten wöchentlich etwa 6 Gramm Erdnussprotein – nie ganze Nüsse. Eine Nachuntersuchung im Jugendalter fand den Schutzeffekt weiterhin bestehend.",
+          "sources": [1, 2]
+        },
+        {
+          "type": "evidence",
+          "level": "stark",
+          "claim": "Die frühe und regelmäßige Gabe von Erdnussprotein senkt bei Säuglingen mit hohem Allergierisiko das Risiko einer Erdnussallergie erheblich – und der Schutz hält bis ins Jugendalter an.",
+          "note": "Die Datenlage selbst ist stark. Die deutsche Leitlinie formuliert die Empfehlung dennoch zurückhaltender als die britische oder US-amerikanische: Weil Erdnuss hierzulande kein üblicher Bestandteil der Säuglingsernährung ist, kann in Familien, in denen ohnehin regelmäßig Erdnuss gegessen wird, bei Säuglingen mit Neurodermitis der regelmäßige Verzehr erdnusshaltiger Lebensmittel in altersgerechter Form erwogen werden. Altersgerecht heißt: glattes Erdnussmus, dünn verstrichen oder in Brei gerührt. Ganze oder gehackte Nüsse sind wegen der Erstickungsgefahr im ganzen Kleinkindalter ungeeignet.",
+          "sources": [0, 1]
+        }
+      ]
+    },
+    {
+      "type": "section",
+      "heading": "Stillen, Rauchfreiheit und die Zeit vor der Geburt",
+      "blocks": [
+        {
+          "type": "list",
+          "ordered": false,
+          "items": [
+            { "title": "Stillen:", "text": "Empfohlen werden vier bis sechs Monate ausschließliches Stillen und Weiterstillen nach Beikostbeginn. Der Effekt auf Allergien ist moderat, die übrigen Vorteile sind gut belegt. Wer nicht stillt, hat keinen Grund für Schuldgefühle – eine geeignete Säuglingsanfangsnahrung ist eine sichere Alternative." },
+            { "title": "Keine Meidungsdiät in Schwangerschaft und Stillzeit:", "text": "Milch, Ei oder Nüsse wegzulassen bringt nachweislich nichts und kann die Versorgung verschlechtern. Empfohlen wird eine ausgewogene, vielfältige Kost, die auch Fisch enthält." },
+            { "title": "Tabakrauch:", "text": "Rauchbelastung vor und nach der Geburt erhöht das Risiko für Asthma und allergische Erkrankungen. Das ist eine der wenigen wirklich starken und zugleich beeinflussbaren Größen." },
+            { "title": "Übergewicht:", "text": "Adipositas bei der Mutter vor und während der Schwangerschaft sowie beim Kind ist mit einem höheren Asthmarisiko verbunden; die Leitlinie nennt Gewicht deshalb ausdrücklich als Präventionsthema." },
+            { "title": "Geburtsmodus:", "text": "Kaiserschnittkinder haben ein geringfügig höheres Asthmarisiko. Das ist ein Argument unter vielen bei einer geplanten Entscheidung – und kein Grund für schlechtes Gewissen, wenn ein Kaiserschnitt medizinisch nötig war." },
+            { "title": "Luftschadstoffe und Schimmel:", "text": "Belastete Innenraumluft und Feuchteschäden in der Wohnung sind vermeidbare Risikofaktoren." }
+          ]
+        },
+        {
+          "type": "evidence",
+          "level": "moderat",
+          "claim": "Wer kein besonderes Allergierisiko hat, muss auf Haustiere nicht verzichten. Für Hundehaltung in den ersten Lebensjahren zeigen mehrere Beobachtungsstudien sogar einen schützenden Effekt; für Katzen ist die Datenlage widersprüchlich.",
+          "note": "Bereits vorhandene Tiere sollen zur Allergievorbeugung nicht abgeschafft werden. Anders sieht es aus, wenn dein Kind bereits auf ein Tier allergisch reagiert – dann ist Meidung Therapie und nicht Prävention. Und: Sogenannte hypoallergene Rassen gibt es nicht; auch haarlose oder wenig haarende Hunde geben die relevanten Allergene ab.",
+          "sources": [0, 6]
+        }
+      ]
+    },
+    {
+      "type": "section",
+      "heading": "Neurodermitis und die Hautbarriere",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "Neurodermitis ist bei diesem Thema kein Nebenschauplatz, sondern der Ausgangspunkt. Eine gestörte Hautbarriere lässt Allergene über die Haut eindringen – und dieser Weg scheint eher zur Sensibilisierung zu führen als der Weg über den Darm. Das erklärt, warum Kinder mit früher, ausgeprägter Neurodermitis besonders häufig Nahrungsmittelallergien entwickeln, und es ist der Grund, warum eine konsequente Basispflege bei bestehender Neurodermitis wichtig ist."
+        },
+        {
+          "type": "evidence",
+          "level": "umstritten",
+          "claim": "Vorbeugend cremen bei gesunden Neugeborenen verhindert keine Neurodermitis. Große randomisierte Studien fanden keinen Schutzeffekt, in einer Studie traten in der Cremegruppe sogar mehr Hautinfektionen auf.",
+          "note": "In der britischen BEEP-Studie hatten mit zwei Jahren 23 Prozent der täglich eingecremten Kinder ein Ekzem gegenüber 25 Prozent der Kontrollgruppe – kein bedeutsamer Unterschied, auch nicht in der Nachbeobachtung bis fünf Jahre. Der Mechanismus über die Hautbarriere ist plausibel, die Intervention funktioniert trotzdem nicht als Vorbeugung. Etwas ganz anderes ist die Basispflege bei einer bereits bestehenden Neurodermitis: Dort gehören Emollienzien zur Standardtherapie, regelmäßig und direkt nach dem Baden aufgetragen.",
+          "sources": [3, 4]
+        }
+      ]
+    },
+    {
+      "type": "section",
+      "heading": "Was nachweislich nicht hilft",
+      "blocks": [
+        {
+          "type": "list",
+          "ordered": false,
+          "items": [
+            { "title": "HA-Nahrung als Standard:", "text": "Für hydrolysierte Säuglingsnahrung lässt sich ein allgemeiner allergievorbeugender Nutzen bei Risikokindern nicht mehr belegen. Die früheren Empfehlungen wurden zurückgenommen; seit 2024 gibt es dazu auch aktualisierte deutsche Handlungsempfehlungen. Wenn nicht oder nicht voll gestillt wird, ist eine übliche Säuglingsanfangsnahrung die Standardwahl." },
+            { "title": "Prä- und Probiotika:", "text": "Große randomisierte Studien konnten keinen präventiven Effekt auf allergische Erkrankungen zeigen. Die Leitlinie spricht sich gegen ihren Einsatz zur Allergievorbeugung aus – bei Schwangeren wie bei Säuglingen." },
+            { "title": "Sojanahrung als Alternative:", "text": "Kein Vorteil zur Allergievorbeugung und im Säuglingsalter ohnehin nur bei besonderer medizinischer Indikation." },
+            { "title": "Spätes Einführen einzelner Lebensmittel:", "text": "Verschiebt das Problem, verhindert es nicht. Auch das häufige Aufschieben von Fisch oder Ei über den ersten Geburtstag hinaus ist nicht begründet." },
+            { "title": "Allergietests ohne Beschwerden:", "text": "Ein positiver Bluttest bedeutet nicht, dass dein Kind allergisch ist. Sensibilisierung und Allergie sind zweierlei – Tests auf Verdacht führen häufig zu unnötigen Diäten." }
+          ]
+        },
+        {
+          "type": "callout",
+          "variant": "tip",
+          "title": "So sieht das im Alltag aus",
+          "items": [
+            "Beikost im normalen Zeitfenster starten, ab Beginn des fünften und spätestens ab Beginn des siebten Monats",
+            "Innerhalb weniger Wochen breit werden: Gemüse, Getreide, Kartoffeln, Fleisch, Fisch, Milchprodukte im Brei, durcherhitztes Ei",
+            "Ein neues Lebensmittel alle paar Tage – nicht wegen der Allergie, sondern damit du bei einer Reaktion weißt, woran es lag",
+            "Einmal eingeführte Allergene regelmäßig weitergeben; einmal probieren und dann monatelang weglassen bringt nichts",
+            "Bei ausgeprägter Neurodermitis: erst Rücksprache, dann Erdnuss und Ei",
+            "Rauchfreier Haushalt, auch auf Balkon und in Kleidung gedacht"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "section",
+      "heading": "Häufige Fragen",
+      "blocks": [
+        {
+          "type": "faq",
+          "items": [
+            {
+              "q": "Wir haben beide Heuschnupfen. Müssen wir bei unserem Kind etwas anders machen?",
+              "a": "Grundsätzlich nein. Ein erhöhtes familiäres Risiko ändert die Empfehlungen kaum: Es gilt dieselbe vielfältige Beikost im gleichen Zeitfenster. Die früheren Sonderregeln für Risikokinder – Spezialnahrung, spätere Beikost, Meidung – sind entfallen. Zusätzlich wichtig sind eine rauchfreie Umgebung und, falls dein Kind eine Neurodermitis entwickelt, eine konsequente Hautpflege."
+            },
+            {
+              "q": "Mein Kind hat um den Mund herum einen Ausschlag bekommen, nachdem es Tomate gegessen hat. Ist das eine Allergie?",
+              "a": "Meist nicht. Rötungen rund um den Mund entstehen häufig durch Kontakt mit säurehaltigen Lebensmitteln – Tomate, Zitrusfrüchte, Erdbeere – und sind eine Reizung, keine Allergie. Verdächtig wird es, wenn Quaddeln auch anderswo am Körper auftreten, das Gesicht anschwillt, Erbrechen oder Atemprobleme dazukommen. Dann gehört das abgeklärt."
+            },
+            {
+              "q": "Muss ich Erdnuss wirklich geben, wenn wir sonst nie welche essen?",
+              "a": "Nein. Die deutsche Leitlinie fordert das ausdrücklich nicht. Sie empfiehlt es dort, wo Erdnuss ohnehin zum Speiseplan gehört, und nennt es für Säuglinge mit Neurodermitis als erwägenswert. Wichtiger als Erdnuss im Speziellen ist die Vielfalt im Allgemeinen – und dass du nichts aktiv meidest."
+            },
+            {
+              "q": "Erhöhen Impfungen das Allergierisiko?",
+              "a": "Dafür gibt es keinen Beleg. Impfungen werden nach dem Impfkalender der Ständigen Impfkommission auch für Kinder mit Allergierisiko empfohlen. Bei einer bekannten schweren Allergie gegen einen Impfstoffbestandteil wird individuell beraten – das ist selten."
+            },
+            {
+              "q": "Sollen wir mit dem Hund vor der Geburt ausziehen?",
+              "a": "Nein. Für die Allergievorbeugung gibt es keinen Grund, ein vorhandenes Tier abzugeben. Anders ist es, wenn bereits eine ärztlich bestätigte Tierhaarallergie besteht – dann geht es nicht mehr um Vorbeugung, sondern um Beschwerden."
+            },
+            {
+              "q": "Mein Kind reagiert auf Kuhmilch. Muss es das ein Leben lang meiden?",
+              "a": "Sehr wahrscheinlich nicht. Kuhmilch- und Hühnereiallergien im Säuglingsalter verlieren sich bei vielen Kindern bis zum Schulalter. Deshalb wird in der Regel in Abständen ärztlich überprüft, ob das Lebensmittel wieder vertragen wird. Eine Meidungsdiät bei Kindern gehört immer ernährungsfachlich begleitet, damit keine Versorgungslücken entstehen."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "callout",
+      "variant": "info",
+      "title": "Kurz gesagt",
+      "text": "Nicht meiden, sondern früh und vielfältig anbieten. Stillen, wenn es geht, rauchfrei leben, Haustiere behalten, Neurodermitis konsequent pflegen. Und die Energie, die früher ins Weglassen ging, lieber in einen entspannten Esstisch stecken – das ist am Ende auch für das Immunsystem die bessere Investition."
+    }
+  ],
+  "sources": [
+    {
+      "title": "S3-Leitlinie Allergieprävention (AWMF-Registernummer 061-016), Langfassung",
+      "publisher": "AWMF / Deutsche Gesellschaft für Allergologie und klinische Immunologie (DGAKI) und Deutsche Gesellschaft für Kinder- und Jugendmedizin (DGKJ)",
+      "year": "2022",
+      "kind": "Leitlinie",
+      "url": "https://register.awmf.org/assets/guidelines/061-016l_S3_Allergiepraevention_2022-11.pdf"
+    },
+    {
+      "title": "Randomized Trial of Peanut Consumption in Infants at Risk for Peanut Allergy (LEAP)",
+      "publisher": "New England Journal of Medicine (Du Toit et al.)",
+      "year": "2015",
+      "kind": "Studie"
+    },
+    {
+      "title": "Follow-up to Adolescence after Early Peanut Introduction for Allergy Prevention (LEAP-Trio)",
+      "publisher": "NEJM Evidence",
+      "year": "2024",
+      "kind": "Studie",
+      "url": "https://evidence.nejm.org/doi/full/10.1056/EVIDoa2300311"
+    },
+    {
+      "title": "Daily emollient during infancy for prevention of eczema: the BEEP randomised controlled trial",
+      "publisher": "The Lancet (Chalmers et al.)",
+      "year": "2020",
+      "kind": "Studie",
+      "url": "https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(19)32984-8/fulltext"
+    },
+    {
+      "title": "Emollients for prevention of atopic dermatitis: 5-year findings from the BEEP randomized trial",
+      "publisher": "Allergy (Bradshaw et al.)",
+      "year": "2023",
+      "kind": "Studie",
+      "url": "https://onlinelibrary.wiley.com/doi/10.1111/all.15555"
+    },
+    {
+      "title": "Auswahl von Säuglingsnahrung bei erhöhtem Allergierisiko – Handlungsempfehlungen",
+      "publisher": "Netzwerk Gesund ins Leben / Bundeszentrum für Ernährung (BZfE)",
+      "year": "2024",
+      "kind": "Empfehlung",
+      "url": "https://www.gesund-ins-leben.de/fuer-fachkreise/bestens-unterstuetzt-durchs-1-lebensjahr/handlungsempfehlungen/saeuglingsmilchnahrung/auswahl-von-saeuglingsnahrung-bei-erhoehtem-allergierisiko/"
+    },
+    {
+      "title": "Elternratgeber Allergieprävention",
+      "publisher": "Gesellschaft für Pädiatrische Allergologie und Umweltmedizin (GPA)",
+      "year": "2023",
+      "kind": "Institutionelle Information",
+      "url": "https://www.gpau.de/media/2015/pdfs/ER_2023-02_Allergiepraevention.pdf"
+    }
+  ],
+  "related": ["beikost-einfuehren", "familienkost", "wickeln-und-hautpflege", "chronische-krankheit-im-alltag"]
+}

@@ -1,0 +1,264 @@
+{
+  "slug": "impfungen",
+  "title": "Impfungen im Kindesalter",
+  "subtitle": "Was die STIKO wann empfiehlt, was nach dem Piks normal ist – und was sich zu den verbreiteten Bedenken sachlich sagen lässt.",
+  "phases": ["saeugling", "kleinkind", "kindergarten"],
+  "topics": ["gesundheit"],
+  "updated": "2026-08-05",
+  "summary": "Die Ständige Impfkommission (STIKO) am Robert Koch-Institut legt jedes Jahr fest, welche Impfungen für Kinder in Deutschland empfohlen sind. Die meisten davon fallen in die ersten beiden Lebensjahre und lassen sich mit den U-Untersuchungen verbinden. Vorübergehende Impfreaktionen sind häufig und harmlos, echte Komplikationen sind selten – und der behauptete Zusammenhang zwischen der MMR-Impfung und Autismus ist in sehr großen Studien nicht bestätigt worden.",
+  "keyFacts": [
+    "Der Impfkalender der STIKO wird jährlich aktualisiert und im Epidemiologischen Bulletin veröffentlicht.",
+    "Der Großteil der Grundimmunisierung liegt zwischen dem 2. und dem 15. Lebensmonat.",
+    "Rötung, Schwellung, Quengeligkeit und Fieber in den ersten Tagen sind Impfreaktionen – kein Warnsignal.",
+    "Seit März 2020 gilt für Kita und Schule eine Nachweispflicht für den Masernschutz.",
+    "Verpasste Impfungen werden nachgeholt, nicht neu begonnen – es gibt keine Frist, nach der alles umsonst war."
+  ],
+  "blocks": [
+    {
+      "type": "p",
+      "lead": true,
+      "text": "Kaum ein Termin im ersten Lebensjahr ist so aufgeladen wie der erste Impftermin. Das liegt selten an der Datenlage – die ist bei kaum einer anderen Maßnahme der Kindermedizin so umfangreich – sondern daran, dass man einem gesunden Kind bewusst etwas antut, um etwas zu verhindern, das man nie zu Gesicht bekommt. Dieser Artikel erklärt, was empfohlen wird, was danach normal ist und wie sich die verbreiteten Bedenken einordnen lassen."
+    },
+    {
+      "type": "section",
+      "heading": "Was eine Impfung im Körper macht",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "Das Immunsystem lernt an Vorlagen. Eine Impfung liefert eine solche Vorlage – abgetötete Erreger, einzelne Eiweißbausteine oder stark abgeschwächte lebende Erreger – ohne die Krankheit selbst auszulösen. Der Körper baut Antikörper und Gedächtniszellen auf. Trifft er später auf den echten Erreger, ist die Abwehr schon vorbereitet. Genau deshalb ist eine Impfreaktion in den ersten Tagen kein Zeichen dafür, dass etwas schiefläuft, sondern dafür, dass das Immunsystem arbeitet."
+        },
+        {
+          "type": "p",
+          "text": "Manche Impfungen brauchen mehrere Dosen, weil das Gedächtnis erst durch Wiederholung stabil wird. Deshalb steht im Impfkalender bei den meisten Impfungen nicht ein Termin, sondern eine Serie. Und deshalb ist der Abstand zwischen den Dosen keine Formsache: Zu früh gegebene Auffrischungen wirken schlechter, zu spät gegebene sind dagegen unproblematisch."
+        },
+        {
+          "type": "evidence",
+          "level": "stark",
+          "claim": "Die Masern-Mumps-Röteln-Impfung schützt zuverlässig vor Masern: In der Cochrane-Übersichtsarbeit lag die Wirksamkeit bei rund 95 Prozent nach einer und rund 96 Prozent nach zwei Dosen.",
+          "note": "Die Übersichtsarbeit fasst 138 Studien mit über 23 Millionen Teilnehmenden zusammen – eine der größten Datenbasen, die es zu einer einzelnen medizinischen Maßnahme gibt. Praktisch heißt das: Zwei Dosen sind kein Sicherheitsnetz für Ängstliche, sondern der Regelfall, weil ein kleiner Teil der Kinder nach der ersten Dosis noch keinen Schutz aufbaut.",
+          "sources": [1]
+        }
+      ]
+    },
+    {
+      "type": "section",
+      "heading": "Der Impfkalender: was wann ansteht",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "Die Ständige Impfkommission (STIKO) am Robert Koch-Institut aktualisiert ihre Empfehlungen jedes Jahr. Die Standardimpfungen sind Leistung der Krankenkassen, also für dich kostenfrei. In der Praxis werden sie meist an die U-Untersuchungen gekoppelt, sodass ihr ohnehin nicht extra kommen müsst."
+        },
+        {
+          "type": "timeline",
+          "title": "Grundimmunisierung im Überblick",
+          "entries": [
+            { "age": "ab 6 Wochen", "label": "Rotaviren", "text": "Schluckimpfung gegen die häufigste Ursache schwerer Brechdurchfälle im Säuglingsalter. Je nach Impfstoff zwei oder drei Dosen, früher Start ist wichtig." },
+            { "age": "2 Monate", "label": "Sechsfachimpfung, Pneumokokken", "text": "Diphtherie, Tetanus, Keuchhusten, Kinderlähmung, Haemophilus influenzae Typ b und Hepatitis B in einer Spritze, dazu Pneumokokken. Meningokokken B kommt in diesem Zeitraum hinzu." },
+            { "age": "4 Monate", "label": "Zweite Dosis", "text": "Sechsfachimpfung und Pneumokokken werden wiederholt. Frühgeborene erhalten nach einem engeren Schema eine zusätzliche Dosis im 3. Lebensmonat." },
+            { "age": "11 Monate", "label": "Abschluss der Grundimmunisierung", "text": "Dritte Dosis Sechsfachimpfung und Pneumokokken. Ab dem 11. Monat außerdem die erste Impfung gegen Masern, Mumps, Röteln und Windpocken." },
+            { "age": "12 Monate", "label": "Meningokokken C", "text": "Einmalige Impfung, meist zusammen mit den anderen Terminen dieses Alters." },
+            { "age": "15 Monate", "label": "Zweite MMR- und Windpockendosis", "text": "Frühestens vier Wochen nach der ersten Dosis. Damit ist der Masernschutz im Sinne des Gesetzes vollständig." },
+            { "age": "5–6 Jahre und 9–16 Jahre", "label": "Auffrischungen", "text": "Tetanus, Diphtherie und Keuchhusten werden aufgefrischt, im Jugendalter zusätzlich Kinderlähmung. Zwischen 9 und 14 Jahren steht die HPV-Impfung für alle Geschlechter an." }
+          ],
+          "caption": "Vereinfachte Übersicht nach dem STIKO-Impfkalender. Der jeweils gültige Kalender wird jährlich im Epidemiologischen Bulletin des Robert Koch-Instituts veröffentlicht; einzelne Empfehlungen ändern sich, zuletzt etwa bei RSV, Hib und Meningokokken.",
+          "sources": [0]
+        },
+        {
+          "type": "callout",
+          "variant": "tip",
+          "title": "Praktisches für den Termin",
+          "items": [
+            "Impfausweis immer mitnehmen – auch zu Terminen, bei denen du keine Impfung erwartest.",
+            "Stillen oder Fläschchen direkt beim oder nach dem Piks lindert nachweislich den Schmerz; Körperkontakt hilft mehr als Ablenkung mit dem Handy.",
+            "Verpasste Termine sind kein Drama: Es wird weitergeimpft, wo aufgehört wurde, nie von vorn begonnen.",
+            "Ein banaler Schnupfen ohne Fieber ist kein Grund, den Termin abzusagen. Bei fieberhaftem Infekt wird verschoben.",
+            "Neben den Standardimpfungen gibt es saisonale Angebote, etwa den RSV-Antikörper für Neugeborene, die in die kalte Jahreszeit hinein geboren werden."
+          ]
+        }
+      ]
+    },
+    {
+      "type": "section",
+      "heading": "Was nach dem Piks normal ist – und was nicht",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "Der wichtigste Unterschied, den kaum jemand erklärt bekommt, ist der zwischen Impfreaktion und Impfkomplikation. Eine Impfreaktion ist die erwartete, vorübergehende Antwort des Immunsystems. Eine Impfkomplikation geht darüber hinaus, beeinträchtigt die Gesundheit deutlich und ist selten. Beides in einen Topf zu werfen, macht die Debatte unnötig unübersichtlich."
+        },
+        {
+          "type": "comparison",
+          "title": "Impfreaktion oder Impfkomplikation?",
+          "columns": [
+            {
+              "title": "Impfreaktion – häufig, harmlos",
+              "tone": "good",
+              "items": [
+                "Rötung, Schwellung, Druckempfindlichkeit an der Einstichstelle",
+                "Fieber, Quengeligkeit, mehr Schlafbedürfnis in den ersten ein bis drei Tagen",
+                "Appetitlosigkeit für einen Tag",
+                "Bei MMR: leichter Ausschlag mit Fieber etwa 7 bis 12 Tage später, die sogenannten Impfmasern – nicht ansteckend",
+                "Klingt von selbst ab, ohne bleibende Folgen"
+              ]
+            },
+            {
+              "title": "Impfkomplikation – selten, abklärungsbedürftig",
+              "tone": "bad",
+              "items": [
+                "Allergische Sofortreaktion (deshalb bleibt man nach dem Termin kurz in der Praxis)",
+                "Fieberkrampf im Rahmen des Impffiebers",
+                "Anhaltendes, untröstliches Schreien über viele Stunden",
+                "Ausgeprägte Schwellung des ganzen Arms oder Beins",
+                "Alles, was länger als wenige Tage anhält oder dich beunruhigt"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "callout",
+          "variant": "warn",
+          "title": "Wann du nach einer Impfung ärztlich Rat holst",
+          "text": "Bei Atemnot, Kreislaufproblemen, ausgedehntem Nesselausschlag, einem Krampfanfall oder wenn dein Kind auffällig schlapp und kaum weckbar wirkt: sofort. Alle Alarmzeichen und die richtigen Nummern findest du gebündelt auf der Seite **Notfall & Anlaufstellen**. Verdachtsfälle auf schwere Nebenwirkungen sollten außerdem gemeldet werden – das ist der Weg, auf dem Impfstoffsicherheit überhaupt überwacht wird."
+        }
+      ]
+    },
+    {
+      "type": "section",
+      "heading": "Häufige Bedenken, sachlich sortiert",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "Zweifel sind kein Zeichen von Nachlässigkeit, sondern eine normale Reaktion darauf, dass man für ein gesundes Kind eine Entscheidung treffen soll. Die drei Argumente, die dir am häufigsten begegnen werden, lassen sich ziemlich klar beantworten."
+        },
+        {
+          "type": "evidence",
+          "level": "stark",
+          "claim": "Ein Zusammenhang zwischen der MMR-Impfung und Autismus lässt sich in großen Bevölkerungsstudien nicht nachweisen.",
+          "note": "Die dänische Kohortenstudie von 2019 begleitete 657.461 Kinder; Autismus trat bei geimpften Kindern nicht häufiger auf als bei ungeimpften – auch nicht bei Kindern mit erhöhtem familiärem Risiko. Die ursprüngliche Arbeit von 1998, auf die sich die Behauptung stützt, wurde später zurückgezogen. Das heißt nicht, dass Eltern, die sich Sorgen machen, unvernünftig wären – es heißt nur, dass diese eine Sorge sehr gründlich untersucht und nicht bestätigt worden ist.",
+          "sources": [2, 1]
+        },
+        {
+          "type": "evidence",
+          "level": "stark",
+          "claim": "Aluminiumverbindungen als Verstärker in Impfstoffen waren in einer landesweiten dänischen Kohorte nicht mit einem erhöhten Risiko für chronische Erkrankungen verbunden.",
+          "note": "Die 2025 veröffentlichte Auswertung umfasste rund 1,2 Millionen Kinder und 50 untersuchte Krankheitsbilder – Autoimmunerkrankungen, Allergien und Entwicklungsstörungen eingeschlossen. Ein Zusammenhang mit der über Impfungen aufgenommenen Aluminiummenge zeigte sich nicht. Zur Einordnung: Aluminium wird ohnehin täglich über Nahrung und Trinkwasser aufgenommen, in weit größeren Mengen als über Impfungen.",
+          "sources": [3]
+        },
+        {
+          "type": "callout",
+          "variant": "myth",
+          "title": "„So viele Impfungen auf einmal überfordern das Immunsystem“",
+          "text": "Das Immunsystem eines Säuglings setzt sich täglich mit einer sehr großen Zahl von Keimen auseinander – jede Mahlzeit, jeder Griff ins Gesicht, jedes Krabbeln über den Boden liefert Antigene. Die Zahl der Antigene in modernen Kombinationsimpfstoffen ist gegenüber früheren Impfstoffgenerationen sogar deutlich gesunken, obwohl heute gegen mehr Krankheiten geimpft wird. Kombinationsimpfungen bedeuten vor allem: weniger Einstiche für dein Kind."
+        }
+      ]
+    },
+    {
+      "type": "section",
+      "heading": "Masernschutzgesetz: was das für dich konkret heißt",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "Seit dem 1. März 2020 gilt in Deutschland eine Nachweispflicht für den Masernschutz. Sie betrifft Kinder in Kitas, Kindertagespflege und Schulen ebenso wie das dort tätige Personal, soweit es nach 1970 geboren ist. Hintergrund ist, dass Masern hoch ansteckend sind und Menschen schützen sollen, die selbst nicht geimpft werden können – Säuglinge unter elf Monaten etwa, oder Kinder in Chemotherapie."
+        },
+        {
+          "type": "list",
+          "items": [
+            { "title": "Vor der Aufnahme:", "text": "Der Nachweis wird bei der Aufnahme in die Einrichtung verlangt. Kinder unter einem Jahr können ohne Nachweis aufgenommen werden." },
+            { "title": "Ab zwei Jahren:", "text": "Betreute Kinder ab dem vollendeten zweiten Lebensjahr müssen zwei Masernimpfungen oder eine ausreichende Immunität nachweisen." },
+            { "title": "Als Nachweis gelten:", "text": "Impfausweis, das gelbe Untersuchungsheft oder ein ärztliches Zeugnis über Immunität beziehungsweise eine medizinische Gegenanzeige." },
+            { "title": "Schulpflicht bleibt:", "text": "Ein schulpflichtiges Kind wird nicht vom Unterricht ausgeschlossen. Bei fehlendem Nachweis wird das Gesundheitsamt eingeschaltet, es drohen Bußgelder." }
+          ]
+        },
+        {
+          "type": "p",
+          "text": "Warum ausgerechnet Masern? Weil sie keine harmlose Kinderkrankheit sind. Etwa einer von 1.000 Erkrankten entwickelt eine Gehirnentzündung, die häufig bleibende Schäden hinterlässt. Die sehr seltene Spätfolge SSPE tritt Jahre nach der Erkrankung auf und verläuft tödlich; besonders gefährdet sind Kinder, die im ersten Lebensjahr erkranken – also bevor sie selbst geimpft werden können."
+        }
+      ]
+    },
+    {
+      "type": "section",
+      "heading": "Häufige Fragen",
+      "blocks": [
+        {
+          "type": "faq",
+          "items": [
+            {
+              "q": "Mein Kind hat Schnupfen – kann trotzdem geimpft werden?",
+              "a": "Ein banaler Infekt ohne Fieber ist kein Hinderungsgrund. Bei einem fieberhaften Infekt wird der Termin verschoben, nicht weil die Impfung schaden würde, sondern damit man Impfreaktion und Krankheitsverlauf auseinanderhalten kann."
+            },
+            {
+              "q": "Wir haben einen Termin verpasst. Müssen wir jetzt von vorn anfangen?",
+              "a": "Nein. Es gibt keine Serie, die durch eine Lücke ungültig würde. Die Praxis setzt dort fort, wo ihr aufgehört habt. Sprich die versäumten Impfungen beim nächsten regulären Termin an – auch Jahre später ist Nachholen möglich."
+            },
+            {
+              "q": "Darf ich meinem Kind vorbeugend ein Fiebermittel geben?",
+              "a": "Vorbeugend wird das in der Regel nicht empfohlen, weil es die Impfantwort abschwächen kann. Wenn dein Kind nach der Impfung Fieber bekommt und sich sichtbar schlecht fühlt, sprich mit der Kinderarztpraxis darüber, was in eurem Fall sinnvoll ist, und halte dich an die ärztliche Anweisung und die Packungsbeilage."
+            },
+            {
+              "q": "Ist es besser, Impfungen einzeln zu geben statt als Kombination?",
+              "a": "Für Kombinationsimpfstoffe spricht, dass sie weniger Einstiche und weniger Termine bedeuten und gut untersucht sind. Für die getrennte Gabe gibt es keinen belegten gesundheitlichen Vorteil; für einzelne Bestandteile sind Einzelimpfstoffe in Deutschland teilweise gar nicht mehr verfügbar."
+            },
+            {
+              "q": "Mein Kind hat nach der letzten Impfung stark reagiert. Weiterimpfen?",
+              "a": "Das gehört in die Sprechstunde und nicht in ein Elternforum. Beschreib genau, was passiert ist und wie lange es anhielt. In den allermeisten Fällen war es eine Impfreaktion, und es wird normal weitergeimpft; sehr selten führt eine echte Komplikation dazu, dass ein einzelner Bestandteil künftig weggelassen wird."
+            },
+            {
+              "q": "Bringt es etwas, gegen Krankheiten zu impfen, die es hier kaum noch gibt?",
+              "a": "Dass es sie kaum noch gibt, ist das Ergebnis der Impfungen. Erreger verschwinden nicht durch Landesgrenzen: Masern- und Keuchhustenausbrüche entstehen regelmäßig dort, wo Impfquoten sinken. Bei Tetanus kommt hinzu, dass der Erreger im Erdreich vorkommt und sich überhaupt nicht ausrotten lässt."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "callout",
+      "variant": "info",
+      "title": "Kurz gesagt",
+      "text": "Die meisten Impfungen liegen zwischen dem 2. und dem 15. Lebensmonat und laufen mit den U-Untersuchungen mit. Reaktionen in den ersten Tagen sind erwartbar, Komplikationen selten und beschrieben. Wenn du unsicher bist: Bring deine Fragen in die Sprechstunde mit, statt sie mit Suchmaschinen zu klären – die Praxis kennt dein Kind."
+    }
+  ],
+  "sources": [
+    {
+      "title": "Empfehlungen der Ständigen Impfkommission (STIKO) – Impfkalender",
+      "publisher": "Robert Koch-Institut",
+      "year": "2026",
+      "kind": "Empfehlung",
+      "url": "https://www.rki.de/DE/Themen/Infektionskrankheiten/Impfen/Staendige-Impfkommission/Empfehlungen-der-STIKO/Empfehlungen/Impfkalender.html"
+    },
+    {
+      "title": "Vaccines for measles, mumps, rubella, and varicella in children",
+      "publisher": "Cochrane Database of Systematic Reviews (Di Pietrantonj et al.)",
+      "year": "2021",
+      "kind": "Übersichtsarbeit",
+      "url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD004407.pub5/full"
+    },
+    {
+      "title": "Measles, Mumps, Rubella Vaccination and Autism: A Nationwide Cohort Study",
+      "publisher": "Annals of Internal Medicine (Hviid et al.)",
+      "year": "2019",
+      "kind": "Studie",
+      "url": "https://www.acpjournals.org/doi/10.7326/M18-2101"
+    },
+    {
+      "title": "Aluminum-Adsorbed Vaccines and Chronic Diseases in Childhood: A Nationwide Cohort Study",
+      "publisher": "Annals of Internal Medicine (Andersson et al.)",
+      "year": "2025",
+      "kind": "Studie",
+      "url": "https://www.acpjournals.org/doi/10.7326/ANNALS-25-00997"
+    },
+    {
+      "title": "Masernschutzgesetz: Impfpflicht soll Kinder vor Masern schützen",
+      "publisher": "Bundesministerium für Gesundheit",
+      "year": "2024",
+      "kind": "Institutionelle Information",
+      "url": "https://www.bundesgesundheitsministerium.de/impfpflicht"
+    },
+    {
+      "title": "RKI-Ratgeber Masern",
+      "publisher": "Robert Koch-Institut",
+      "year": "2024",
+      "kind": "Institutionelle Information",
+      "url": "https://www.rki.de/DE/Aktuelles/Publikationen/RKI-Ratgeber/Ratgeber/Ratgeber_Masern.html"
+    }
+  ],
+  "related": ["u-untersuchungen", "fieber-und-infekte", "kinderkrankheiten", "erste-hilfe-am-kind"]
+}

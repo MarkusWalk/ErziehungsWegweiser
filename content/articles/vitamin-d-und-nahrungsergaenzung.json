@@ -55,13 +55,13 @@
       "blocks": [
         {
           "type": "p",
-          "text": "Neugeborene kommen mit sehr geringen Vitamin-K-Reserven zur Welt, und Muttermilch enthält davon wenig. Ohne Prophylaxe kann es zu Vitamin-K-Mangelblutungen kommen – selten, aber in der späten Form häufig als Hirnblutung und dann mit bleibenden Schäden oder tödlich. Deshalb wird Vitamin K in Deutschland routinemäßig gegeben, und zwar an drei Terminen, die ohnehin stattfinden: bei der U1 direkt nach der Geburt, bei der U2 am vierten bis sechsten Lebenstag und bei der U3 in der vierten bis sechsten Lebenswoche."
+          "text": "Neugeborene kommen mit sehr geringen Vitamin-K-Reserven zur Welt, und Muttermilch enthält davon wenig. Ohne Prophylaxe kann es zu Vitamin-K-Mangelblutungen kommen – selten, in der späten Form aber häufig als Hirnblutung. Deshalb wird Vitamin K in Deutschland routinemäßig an drei Terminen gegeben, die ohnehin stattfinden: U1 direkt nach der Geburt, U2 am vierten bis sechsten Lebenstag, U3 in der vierten bis sechsten Lebenswoche."
         },
         {
           "type": "evidence",
           "level": "stark",
           "claim": "Die dreimalige orale Vitamin-K-Gabe bei U1, U2 und U3 senkt das Risiko für Vitamin-K-Mangelblutungen deutlich.",
-          "note": "Die Ernährungskommission der Deutschen Gesellschaft für Kinder- und Jugendmedizin nennt für reif geborene, gesunde Neugeborene dreimal 2 mg oral als Standard. Diese Zahl steht hier als Angabe aus der Empfehlung, nicht als Anweisung – verabreicht wird sie in der Praxis oder Klinik. Wichtig für den Alltag: Wenn eine Untersuchung verschoben wird, sag aktiv, dass die Vitamin-K-Gabe noch aussteht. Bei Frühgeborenen oder Kindern mit Leber- oder Darmerkrankungen gilt ein abweichendes Vorgehen.",
+          "note": "Die Ernährungskommission der DGKJ nennt für reif geborene, gesunde Neugeborene dreimal 2 mg oral als Standard. Diese Zahl steht hier als Angabe aus der Empfehlung, nicht als Anweisung – verabreicht wird sie in Praxis oder Klinik. Wichtig für den Alltag: Wird eine Untersuchung verschoben, sag aktiv, dass die Vitamin-K-Gabe noch aussteht. Bei Frühgeborenen gilt ein abweichendes Vorgehen.",
           "sources": [1]
         }
       ]

@@ -1,0 +1,359 @@
+{
+  "slug": "kita-eingewoehnung",
+  "title": "Kita-Eingewöhnung",
+  "subtitle": "Wie die beiden verbreiteten Modelle tatsächlich ablaufen, woran du erkennst, dass es gut läuft – und wann es richtig ist, das Tempo zurückzunehmen.",
+  "phases": ["kleinkind", "kindergarten"],
+  "topics": ["betreuung", "bindung"],
+  "updated": "2026-08-05",
+  "summary": "In der Eingewöhnung geht es nicht darum, dass ein Kind lernt, dich zu entbehren, sondern darum, dass es eine neue Beziehung aufbaut – zu einer festen Fachkraft, die es trösten darf. Das Berliner und das Münchener Modell gehen dabei unterschiedlich vor, verfolgen aber dasselbe Ziel und brauchen beide zwei bis vier Wochen, oft länger. Das entscheidende Gelingenskriterium ist nicht, ob dein Kind beim Abschied weint, sondern ob es sich von der Bezugserzieherin beruhigen lässt.",
+  "keyFacts": [
+    "Rechne mit zwei bis vier Wochen, im Münchener Modell eher drei bis vier – und plane Puffer ein.",
+    "In den ersten Tagen findet keine Trennung statt. Das ist kein Zeitverlust, sondern die Grundlage.",
+    "Erfolgskriterium ist, dass dein Kind sich von der Bezugserzieherin trösten lässt – nicht, dass es nicht weint.",
+    "Ein Kind, das gar nicht protestiert und den Tag über still bleibt, braucht mehr Aufmerksamkeit als eines, das weint.",
+    "Der Stresshormonspiegel steigt in der Eingewöhnung messbar an. Was das langfristig bedeutet, ist offen.",
+    "Nach längerer Krankheit ist eine kurze Wiedereingewöhnung normal und kein Rückschritt."
+  ],
+  "blocks": [
+    {
+      "type": "p",
+      "lead": true,
+      "text": "Der erste Kita-Tag wird oft erzählt wie eine Mutprobe: für das Kind, das durchhalten muss, und für die Eltern, die nicht weich werden dürfen. Fachlich ist das Gegenteil gemeint. Eine Eingewöhnung ist kein Trennungstraining, sondern der Aufbau einer neuen Beziehung – und die entsteht nur in deiner Anwesenheit, nicht in deiner Abwesenheit."
+    },
+    {
+      "type": "section",
+      "heading": "Worum es eigentlich geht",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "Ein einjähriges Kind kann sich in einer fremden Umgebung nicht selbst beruhigen. Es braucht dafür jemanden. Solange dieser Jemand nur du bist, bedeutet jede Trennung für das Kind: keine Hilfe verfügbar. Die Aufgabe der Eingewöhnung ist deshalb, dass eine zweite Person dazukommt, die dein Kind als Trösterin akzeptiert. Erst wenn das geschafft ist, ist die Trennung für das Kind wirklich zu bewältigen – und erst dann gilt eine Eingewöhnung als abgeschlossen."
+        },
+        {
+          "type": "p",
+          "text": "Das erklärt, warum die ersten Tage ohne jede Trennung ablaufen. Du bist in dieser Zeit vor allem eines: der Sessel, von dem aus erkundet wird. Nicht Animateurin, nicht Vermittlerin, nicht Ersatzerzieherin."
+        },
+        {
+          "type": "evidence",
+          "level": "moderat",
+          "claim": "Kinder bauen zu ihren Erzieherinnen eigenständige Bindungsbeziehungen auf. In Einrichtungen hängt deren Qualität weniger an der Feinfühligkeit gegenüber dem einzelnen Kind als daran, wie die Fachkraft die ganze Gruppe im Blick hat.",
+          "note": "Eine Metaanalyse über 40 Untersuchungen mit fast 2.900 Kindern fand genau dieses Muster: In kleinen Settings wie der Kindertagespflege sagt die individuelle Feinfühligkeit die Beziehungsqualität vorher, in größeren Gruppen die gruppenbezogene. Praktisch heißt das: Eine Erzieherin, die den Überblick behält, ist für dein Kind wertvoller als eine, die sich mit ihm allein perfekt beschäftigt und den Rest aus den Augen verliert.",
+          "sources": [4]
+        }
+      ]
+    },
+    {
+      "type": "section",
+      "heading": "Das Berliner Modell Schritt für Schritt",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "Das Berliner Eingewöhnungsmodell wurde am Berliner infans-Institut von Hans-Joachim Laewen, Beate Andres und Éva Hédervári-Heller entwickelt und ist in Deutschland das am weitesten verbreitete Verfahren. Es ist stark strukturiert und arbeitet mit einem geplanten Trennungsversuch, dessen Ausgang darüber entscheidet, wie lange alles Weitere dauert."
+        },
+        {
+          "type": "steps",
+          "title": "Der Ablauf im Berliner Modell",
+          "items": [
+            {
+              "title": "Vor dem Start: das Aufnahmegespräch",
+              "text": "Die Einrichtung fragt nach Schlaf- und Essgewohnheiten, Tröstritualen, Übergangsobjekten. Je genauer die Fachkraft weiß, wie dein Kind beruhigt wird, desto schneller kann sie es selbst."
+            },
+            {
+              "title": "Tag 1 bis 3: Grundphase, keine Trennung",
+              "text": "Ein Elternteil kommt mit dem Kind für etwa ein bis zwei Stunden in die Gruppe und bleibt durchgehend dabei. Du hältst dich zurück, drängst dein Kind nicht ins Spiel und übernimmst weiterhin Wickeln und Füttern. Die Bezugserzieherin nähert sich vorsichtig über Spielangebote."
+            },
+            {
+              "title": "Tag 4: der erste Trennungsversuch",
+              "text": "Du verabschiedest dich klar und verlässt den Raum – meist für etwa 30 Minuten, du bleibst aber in der Einrichtung erreichbar. Dieser Versuch ist keine Prüfung, sondern eine Messung: Er zeigt, wie viel Zeit dein Kind noch braucht."
+            },
+            {
+              "title": "Die Weiche: kurz oder lang",
+              "text": "Lässt dein Kind sich von der Erzieherin schnell beruhigen oder spielt es nach kurzem Protest weiter, ist eine kürzere Eingewöhnung von etwa einer Woche möglich. Weint es untröstlich oder erstarrt es, wird der nächste Trennungsversuch verschoben und mit zwei bis drei Wochen geplant."
+            },
+            {
+              "title": "Stabilisierungsphase",
+              "text": "Die Trennungszeiten werden schrittweise verlängert. Die Bezugserzieherin übernimmt nach und nach Wickeln, Essen und schließlich das Einschlafen – die Pflegesituationen sind der eigentliche Beziehungsmotor, nicht das Spiel."
+            },
+            {
+              "title": "Schlussphase",
+              "text": "Du bist nicht mehr in der Einrichtung, aber jederzeit telefonisch erreichbar und könntest innerhalb weniger Minuten da sein. Abgeschlossen ist die Eingewöhnung erst, wenn dein Kind sich in einer Krisensituation von der Fachkraft trösten lässt."
+            }
+          ]
+        },
+        {
+          "type": "evidence",
+          "level": "moderat",
+          "claim": "Kinder, die in den ersten Tagen von einem Elternteil begleitet wurden und keiner sofortigen Trennung ausgesetzt waren, fehlten im ersten Kita-Jahr deutlich seltener krankheitsbedingt als Kinder ohne begleitete Eingewöhnung.",
+          "note": "Dieser Befund aus den Vorarbeiten zum Berliner Modell wird bis heute als Hauptargument für die begleitete Eingewöhnung angeführt. Die Untersuchung ist alt und methodisch nicht mit heutigen Standards vergleichbar; der Zusammenhang ist plausibel, die Größe des Effekts würde ich nicht überinterpretieren. Unstrittig ist inzwischen der Fachkonsens: Eine abrupte Übergabe am ersten Tag gilt als überholt.",
+          "sources": [0, 1]
+        }
+      ]
+    },
+    {
+      "type": "section",
+      "heading": "Das Münchener Modell: derselbe Zweck, anderer Weg",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "Das Münchener Eingewöhnungsmodell geht auf ein Forschungsprojekt der Jahre 1987 bis 1991 zurück und wurde von Anna Winner und Elisabeth Erndt-Doll ausgearbeitet. Es verzichtet auf den terminierten Trennungsversuch und beobachtet stattdessen, wann das Kind selbst signalisiert, dass es so weit ist. Der auffälligste Unterschied: Die Kinder, die schon in der Gruppe sind, werden ausdrücklich einbezogen – sie zeigen dem neuen Kind die Abläufe und sind für viele Kinder der attraktivere Anker als jede Erwachsene."
+        },
+        {
+          "type": "table",
+          "title": "Die beiden Modelle im Vergleich",
+          "head": ["", "Berliner Modell", "Münchener Modell"],
+          "rows": [
+            ["Struktur", "Feste Phasen, Trennungsversuch am 4. Tag geplant", "Phasen ohne festen Trennungstermin, Beobachtung entscheidet"],
+            ["Dauer", "Meist 2 bis 4 Wochen, in der Kurzvariante ab etwa 6 Tagen", "In der Regel 3 bis 4 Wochen, Eltern sind länger anwesend"],
+            ["Rolle der Eltern", "Passiver sicherer Hafen, Rückzug in klaren Schritten", "Aktiv beteiligt, erleben den ganzen Tagesablauf mit"],
+            ["Rolle der Kindergruppe", "Kaum thematisiert", "Ausdrücklicher Bestandteil, Kinder werden zu Wegbegleitern"],
+            ["Abschluss", "Kind lässt sich von der Bezugserzieherin trösten", "Vertrautheit mit Raum, Menschen und Abläufen, Abschlussgespräch"]
+          ],
+          "caption": "Nach den Fachtexten von Braukhane/Knobeloch zum Berliner und von Winner zum Münchener Modell. In der Praxis mischen viele Einrichtungen beide Ansätze."
+        },
+        {
+          "type": "callout",
+          "variant": "tip",
+          "title": "Die Frage, die du bei der Anmeldung stellen solltest",
+          "text": "Nicht „Nach welchem Modell arbeitet ihr?“, sondern: „Was passiert, wenn mein Kind nach drei Wochen noch nicht so weit ist?“ Die Antwort verrät mehr über die Einrichtung als jedes Konzeptpapier. Gut ist, wenn dir jemand ohne Zögern erklärt, dass dann verlangsamt wird. Ungünstig ist alles, was nach einem festen Enddatum klingt."
+        }
+      ]
+    },
+    {
+      "type": "section",
+      "heading": "Wie ein realistischer Verlauf aussieht",
+      "blocks": [
+        {
+          "type": "timeline",
+          "title": "Vier Wochen Eingewöhnung – ein typischer, kein verbindlicher Verlauf",
+          "entries": [
+            {
+              "age": "Tage 1–3",
+              "label": "Ankommen",
+              "text": "Kurze gemeinsame Besuche, keine Trennung. Viele Kinder wirken in dieser Phase erstaunlich entspannt – das täuscht oft über das hinweg, was noch kommt."
+            },
+            {
+              "age": "Tage 4–6",
+              "label": "Erste Trennung",
+              "text": "Der Abschied wird angekündigt und ist kurz. Ob dein Kind weint, ist weniger wichtig als die Frage, wer es beruhigen konnte."
+            },
+            {
+              "age": "Woche 2",
+              "label": "Der Einbruch",
+              "text": "Häufig die schwerste Woche: Der Neuigkeitsreiz ist weg, die Beziehung noch dünn. Rückschritte zu Hause, mehr Anhänglichkeit, unruhige Nächte sind jetzt normal."
+            },
+            {
+              "age": "Woche 3",
+              "label": "Pflege übergeben",
+              "text": "Die Bezugserzieherin wickelt, füttert und begleitet zunehmend den Mittagsschlaf. Der Schlaf ist meist der letzte Schritt und braucht oft am längsten."
+            },
+            {
+              "age": "Woche 4",
+              "label": "Alltag auf Probe",
+              "text": "Erste vollständige Tage, du bleibst erreichbar. Zeitgleich kommt oft der erste Infekt – das wirft den Plan zurück und ist trotzdem kein Scheitern."
+            },
+            {
+              "age": "Monate 2–3",
+              "label": "Wirklich angekommen",
+              "text": "Das Kind hat eigene Vorlieben in der Gruppe, sucht die Erzieherin von sich aus auf und erzählt zu Hause von der Kita. Erst hier ist die Umstellung tatsächlich verarbeitet."
+            }
+          ],
+          "caption": "Zusammengestellt aus den Ablaufbeschreibungen des Berliner und des Münchener Modells. Kinder unter einem Jahr und Kinder nach belastenden Vorerfahrungen brauchen regelmäßig länger."
+        }
+      ]
+    },
+    {
+      "type": "section",
+      "heading": "Was der Stress im Körper macht – ehrlich eingeordnet",
+      "blocks": [
+        {
+          "type": "evidence",
+          "level": "moderat",
+          "claim": "Während der Eingewöhnung steigt der Cortisolspiegel von Kleinkindern messbar an. In einer viel zitierten Untersuchung an 15 Monate alten Kindern lagen die Werte in der Stunde nach dem Weggehen der Mutter um 75 bis 100 Prozent über den Werten zu Hause. Auch fünf Monate später waren sie noch erhöht.",
+          "note": "Der Anstieg selbst ist mehrfach repliziert und gilt als gesichert. Bemerkenswert ist ein Nebenbefund: Sicher gebundene Kinder hatten in der begleiteten Phase niedrigere Cortisolwerte, weinten aber in der Trennungsphase mehr. Weinen ist also kein Maß für Stress – manche Kinder sind gerade dann besonders belastet, wenn sie still bleiben.",
+          "sources": [3, 5]
+        },
+        {
+          "type": "evidence",
+          "level": "umstritten",
+          "claim": "Ob diese erhöhten Cortisolwerte langfristige Folgen für die Entwicklung haben, ist nicht geklärt.",
+          "note": "Hier wird in beide Richtungen überzogen: Die eine Seite liest aus dem Anstieg einen dauerhaften Schaden, die andere spielt ihn zur belanglosen Messgröße herunter. Belegt ist ein vorübergehender physiologischer Anpassungsprozess, wie er auch bei anderen großen Umstellungen auftritt. Was daraus über Jahre wird, hängt an Faktoren, die diese Studien gar nicht erfassen. Praktisch nützlich ist der Befund trotzdem: Er ist ein starkes Argument dafür, langsam zu machen und die Betreuungszeiten am Anfang kurz zu halten.",
+          "sources": [3, 5]
+        },
+        {
+          "type": "callout",
+          "variant": "info",
+          "title": "Was daraus folgt – und was nicht",
+          "text": "Daraus folgt nicht, dass Kita schadet. Es folgt daraus, dass die ersten Wochen kein Vollzeitprogramm sein sollten, dass ein müdes Kind früher abgeholt werden darf und dass ein Nachmittag zu Hause nach einem anstrengenden Vormittag keine Verwöhnung ist, sondern Erholung. Wenn es organisatorisch irgendwie geht: Leg den Kita-Start nicht auf denselben Tag wie deinen Wiedereinstieg in den Job."
+        }
+      ]
+    },
+    {
+      "type": "section",
+      "heading": "Woran du erkennst, ob es gelingt",
+      "blocks": [
+        {
+          "type": "comparison",
+          "title": "Zwei Arten, den Verlauf zu lesen",
+          "columns": [
+            {
+              "title": "Zeichen, dass es trägt",
+              "tone": "good",
+              "items": [
+                "Dein Kind lässt sich von der Bezugserzieherin trösten – auch wenn es vorher heftig geweint hat.",
+                "Es erkundet den Raum, nimmt Spielmaterial in die Hand, beobachtet andere Kinder.",
+                "Es isst und trinkt in der Kita, wenn auch anfangs wenig.",
+                "Beim Abholen kommt eine Reaktion: Freude, Empörung, Weinen – irgendetwas.",
+                "Zu Hause ist es erschöpft und anhänglicher als sonst."
+              ]
+            },
+            {
+              "title": "Zeichen, dass ihr zu schnell seid",
+              "tone": "bad",
+              "items": [
+                "Nach zwei bis drei Wochen lässt es sich immer noch von niemandem in der Kita beruhigen.",
+                "Es protestiert gar nicht, wirkt aber teilnahmslos, sitzt am Rand und spielt nicht.",
+                "Es verweigert über Tage Essen und Schlaf in der Einrichtung.",
+                "Beim Abholen reagiert es abgewandt oder wie erstarrt.",
+                "Zu Hause halten massive Rückschritte über Wochen an und nehmen zu statt ab."
+              ]
+            }
+          ]
+        },
+        {
+          "type": "p",
+          "text": "Das stille, pflegeleichte Kind ist der häufigste blinde Fleck. Es macht keine Arbeit, deshalb fällt es niemandem auf – dabei ist es oft dasjenige, das sich zurückgezogen hat, statt sich zu regulieren. Wenn dir das bekannt vorkommt, sprich es an. Ein guter Satz dafür: „Sie weint nie, aber sie spielt auch nicht. Können wir da genauer hinschauen?“"
+        },
+        {
+          "type": "callout",
+          "variant": "warn",
+          "title": "Wann verlangsamen oder abbrechen richtig ist",
+          "text": "Wenn nach etwa vier Wochen keine Annäherung an eine Bezugsperson erkennbar ist, ist Weitermachen nach Plan der falsche Weg. Möglich sind: zurück zu kürzeren Zeiten, eine Trennungspause von einigen Tagen, ein Wechsel der Bezugserzieherin oder – falls die Rahmenbedingungen es hergeben – ein späterer Neustart. Ein Abbruch ist kein Scheitern deines Kindes, sondern in der Regel ein Hinweis darauf, dass Zeitpunkt, Personalsituation oder Passung nicht gestimmt haben."
+        }
+      ]
+    },
+    {
+      "type": "section",
+      "heading": "Rückschritte, Infekte und die zweite Eingewöhnung",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "Fast alle Eingewöhnungen werden mindestens einmal unterbrochen, meistens durch den ersten Infektzyklus. Nach ein bis zwei Wochen zu Hause fängt ein Kind nicht bei null an, aber es braucht ein paar Tage Wiederanlauf: kürzere Zeiten, ein bewusster Abschied, die vertraute Fachkraft. Dasselbe gilt nach den Sommerferien, nach einem Krankenhausaufenthalt oder wenn ein Geschwisterkind geboren wurde."
+        },
+        {
+          "type": "list",
+          "ordered": false,
+          "items": [
+            {
+              "title": "Rückschritte zu Hause sind Verarbeitungsarbeit:",
+              "text": "Wieder Windel, wieder nachts wach, wieder auf den Arm wollen. Das ist keine Fehlentwicklung, sondern der Preis für einen großen Umbau. Meist gibt es sich innerhalb einiger Wochen."
+            },
+            {
+              "title": "Abschiedsrituale bleiben, auch später:",
+              "text": "Ein immer gleicher, kurzer Ablauf ist wirksamer als jede Ablenkung. Heimliches Verschwinden dagegen verschärft die Anhänglichkeit dauerhaft."
+            },
+            {
+              "title": "Ein Übergangsobjekt darf mit:",
+              "text": "Tuch, Kuscheltier, ein Foto in der Hosentasche. Das ist kein Krückstock, sondern eine Selbstberuhigungshilfe, die dein Kind selbst gewählt hat."
+            },
+            {
+              "title": "Deine eigene Anspannung ist Teil der Gleichung:",
+              "text": "Kinder in diesem Alter lesen Unsicherheit direkt am Gesicht ab. Wenn du das Gefühl hast, dein Kind in der Tür zurückzulassen, spürt es genau das. Es hilft, den eigenen Zweifel woanders zu besprechen als vor der Garderobe."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "section",
+      "heading": "Häufige Fragen",
+      "blocks": [
+        {
+          "type": "faq",
+          "items": [
+            {
+              "q": "Mein Kind weint jeden Morgen beim Abschied. Läuft die Eingewöhnung schlecht?",
+              "a": "Nicht unbedingt. Trennungsprotest ist bei ein- bis dreijährigen Kindern der Normalfall und hält bei vielen über Monate an, auch wenn sie den Tag gut verbringen. Entscheidend ist, was in den zwei Minuten danach passiert: Lässt dein Kind sich von der Erzieherin auffangen und findet es anschließend ins Spiel, ist alles in Ordnung. Lass dir das ruhig einmal in der Woche schildern oder ein Foto schicken."
+            },
+            {
+              "q": "Wie lange darf eine Eingewöhnung dauern?",
+              "a": "Zwei bis vier Wochen sind der Regelfall, drei bis sechs Wochen keine Seltenheit. Bei Kindern unter zwölf Monaten, sehr zurückhaltenden Kindern und nach Belastungen in der Familie dauert es fast immer länger. Ein festes Zeitfenster, das die Einrichtung nicht überschreiten will, ist ein Warnsignal – meist ein Zeichen für Personalmangel, nicht für pädagogische Überzeugung."
+            },
+            {
+              "q": "Kann auch der Vater oder eine Großmutter eingewöhnen?",
+              "a": "Ja, solange es eine Person ist, zu der dein Kind eine sichere Beziehung hat, und solange dieselbe Person die gesamte Eingewöhnung begleitet. Ein Wechsel zwischen zwei Erwachsenen mitten in der Eingewöhnung erschwert es, weil das Kind seine Basis jeden Tag neu sortieren muss. Wer eingewöhnt, sollte zeitlich wirklich verfügbar sein – das ist das einzige harte Kriterium."
+            },
+            {
+              "q": "Unsere Kita hat nur eine Woche Eingewöhnung eingeplant. Ist das vertretbar?",
+              "a": "Eine Woche ist die untere Kurzvariante des Berliner Modells und nur dann vorgesehen, wenn das Kind beim ersten Trennungsversuch schnell zu beruhigen war. Als Standard für alle Kinder ist es fachlich nicht gedeckt. Sprich es an und frage nach der Möglichkeit zu verlängern – häufig ist mehr möglich, als im Aushang steht."
+            },
+            {
+              "q": "Was ist, wenn die Bezugserzieherin krank wird oder kündigt?",
+              "a": "Das kommt häufiger vor, als man hofft. Frag von Anfang an, wer die Zweitbezugsperson ist, und sorge dafür, dass dein Kind auch diese kennt. Fällt die Bezugsperson dauerhaft aus, braucht es eine verkürzte Wiedereingewöhnung mit der neuen Fachkraft – nicht einfach eine Weiterführung."
+            },
+            {
+              "q": "Mein Kind schläft in der Kita nicht. Muss es das können?",
+              "a": "Der Mittagsschlaf ist fast immer der letzte Schritt, weil Einschlafen die größte Vertrauensleistung ist. Viele Kinder brauchen dafür Wochen länger als für alles andere. Kurzfristig lässt sich das über frühes Abholen lösen; mittelfristig hilft es, wenn die Bezugserzieherin die vertrauten Einschlafhilfen von zu Hause übernimmt."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "callout",
+      "variant": "info",
+      "title": "Kurz gesagt",
+      "text": "Die Eingewöhnung ist gelungen, wenn dein Kind in der Kita jemanden hat, bei dem es sich trösten lässt. Alles andere – die Anzahl der Tage, die Menge der Tränen, das Modell im Konzeptheft – ist zweitrangig. Geh so langsam, wie es die Reaktionen deines Kindes nahelegen, halte die ersten Wochen kurz, und rechne mit einem Rückschlag durch den ersten Infekt. Das ist normal und geht vorbei."
+    }
+  ],
+  "sources": [
+    {
+      "title": "Die Eingewöhnung von Kindern in Kindertageseinrichtungen",
+      "publisher": "infans – Institut für angewandte Sozialisationsforschung / Frühe Kindheit (Laewen, Andres, Hédervári-Heller)",
+      "year": "abgerufen 2026",
+      "kind": "Institutionelle Information",
+      "url": "https://infans.de/wp-content/uploads/PDF-eingewoehnungstext-1.pdf"
+    },
+    {
+      "title": "Das Berliner Eingewöhnungsmodell – Theoretische Grundlagen und praktische Umsetzung",
+      "publisher": "KiTa Fachtexte (Braukhane & Knobeloch)",
+      "year": "2011",
+      "kind": "Übersichtsarbeit",
+      "url": "https://www.kita-fachtexte.de/fileadmin/Redaktion/Publikationen/KiTaFT_Braukhane_Knobeloch_2011.pdf"
+    },
+    {
+      "title": "Das Münchener Eingewöhnungsmodell – Theorie und Praxis der Gestaltung des Übergangs von der Familie in die Kindertagesstätte",
+      "publisher": "KiTa Fachtexte (Winner)",
+      "year": "2015",
+      "kind": "Übersichtsarbeit",
+      "url": "https://www.kita-fachtexte.de/fileadmin/Redaktion/Publikationen/KiTaFT_winner_2015.pdf"
+    },
+    {
+      "title": "Transition to Child Care: Associations With Infant–Mother Attachment, Infant Negative Emotion, and Cortisol Elevations",
+      "publisher": "Child Development (Ahnert, Gunnar, Lamb & Barthel)",
+      "year": "2004",
+      "kind": "Studie",
+      "url": "https://srcd.onlinelibrary.wiley.com/doi/abs/10.1111/j.1467-8624.2004.00698.x"
+    },
+    {
+      "title": "Security of Children's Relationships With Nonparental Care Providers: A Meta-Analysis",
+      "publisher": "Child Development (Ahnert, Pinquart & Lamb)",
+      "year": "2006",
+      "kind": "Metaanalyse",
+      "url": "https://srcd.onlinelibrary.wiley.com/doi/abs/10.1111/j.1467-8624.2006.00896.x"
+    },
+    {
+      "title": "Stress during transition from home to public childcare",
+      "publisher": "Applied Developmental Science",
+      "year": "2022",
+      "kind": "Studie",
+      "url": "https://www.tandfonline.com/doi/full/10.1080/10888691.2022.2070168"
+    },
+    {
+      "title": "Eingewöhnung: Modelle und Rahmenbedingungen",
+      "publisher": "nifbe – Niedersächsisches Institut für frühkindliche Bildung und Entwicklung",
+      "year": "abgerufen 2026",
+      "kind": "Übersichtsarbeit",
+      "url": "https://nifbe.de/fachbeitraege/eingewoehnung-modelle-und-rahmenbedingungen/"
+    }
+  ],
+  "related": ["betreuung-waehlen", "fremdeln-und-trennungsangst", "bindung-grundlagen", "mittagsschlaf"]
+}

@@ -1,0 +1,298 @@
+{
+  "slug": "sprachentwicklung-erstes-jahr",
+  "title": "Von Gurren bis Mama: Sprache im ersten Jahr",
+  "subtitle": "Was im ersten Lebensjahr an Sprache passiert, passiert fast vollständig vor dem ersten Wort – im Zuhören, im Lallen, im gemeinsamen Blick. Und warum bei jedem Verdacht zuerst das Gehör geprüft wird.",
+  "phases": ["saeugling"],
+  "topics": ["sprache", "entwicklung"],
+  "updated": "2026-08-05",
+  "summary": "Das erste Wort kommt bei den meisten Kindern rund um den ersten Geburtstag – aber die eigentliche Sprachentwicklung läuft da schon ein Jahr lang. Dein Kind sortiert Laute, übt Sprechmelodie, lernt Blickwechsel und entdeckt, dass man mit Geräuschen etwas bewirken kann. Was du dafür tun kannst, ist unspektakulär: sprechen, antworten, benennen, warten. Und bei jedem Zweifel an der Sprachentwicklung steht ein Hörtest ganz am Anfang.",
+  "keyFacts": [
+    "Das erste echte Wort kommt meist zwischen 10 und 15 Monaten – die Spanne ist groß und normal.",
+    "Ab etwa 6 Monaten beginnt das Silbenlallen (bababa, dadada). Bleibt es bis 9 bis 10 Monate ganz aus, gehört das Gehör überprüft.",
+    "Gemeinsame Aufmerksamkeit – Zeigen, Blick folgen, etwas zusammen anschauen – ist der beste Vorbote von Wortschatz.",
+    "Die hohe, singende Ammensprache ist kein albernes Getue, sondern erleichtert dem Kind das Heraushören von Wörtern.",
+    "Das Neugeborenen-Hörscreening schließt eine spätere Schwerhörigkeit nicht aus – Paukenergüsse entstehen erst später."
+  ],
+  "blocks": [
+    {
+      "type": "p",
+      "lead": true,
+      "text": "Irgendwann zwischen dem zehnten und dem fünfzehnten Monat sagt dein Kind ein erstes Wort, das wirklich gemeint ist. Dieser Moment wird gefeiert, protokolliert und mit anderen Kindern verglichen – und er ist entwicklungsbiologisch fast der unwichtigste Teil des ersten Jahres. Denn alles, was Sprache erst möglich macht, ist da längst passiert: das Sortieren der Laute, das Üben der Sprechmelodie, das Verstehen, dass Menschen sich abwechseln, und die Entdeckung, dass ein Geräusch aus dem eigenen Mund etwas bei anderen bewirkt."
+    },
+    {
+      "type": "callout",
+      "variant": "danger",
+      "title": "Diese Beobachtungen gehören zeitnah in die Kinderarztpraxis",
+      "items": [
+        "Dein Kind erschrickt nicht bei plötzlichen lauten Geräuschen und dreht sich mit 6 Monaten nicht zu einer Schallquelle",
+        "Es hat mit 9 bis 10 Monaten noch nie Silbenketten gelallt (bababa, dadada) oder das Lallen ist wieder verstummt",
+        "Es reagiert nicht auf seinen Namen und nicht auf deine Stimme, wenn es dich nicht sieht",
+        "Es nimmt keinen Blickkontakt auf, lächelt nicht zurück, zeigt mit 12 Monaten nicht auf Dinge",
+        "Es verliert eine Fähigkeit, die es schon hatte – plappert nicht mehr, reagiert weniger als vorher",
+        "Du hast ein ungutes Gefühl beim Hören deines Kindes, obwohl das Neugeborenen-Screening unauffällig war"
+      ]
+    },
+    {
+      "type": "section",
+      "heading": "Sprache beginnt vor der Geburt",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "Ab etwa der 25. Schwangerschaftswoche hört ein Fetus. Was durch die Bauchdecke ankommt, ist gedämpft, aber die Sprechmelodie bleibt erhalten – Rhythmus, Betonung, das Auf und Ab. Neugeborene bevorzugen deshalb messbar die Stimme der Person, die sie ausgetragen hat, und sie unterscheiden die Sprache, die sie im Bauch gehört haben, von einer fremden. Das erste Jahr baut auf dieser Vorarbeit auf."
+        },
+        {
+          "type": "p",
+          "text": "In den ersten Monaten leistet dein Kind vor allem Sortierarbeit: Es kommt mit der Fähigkeit auf die Welt, die Lautunterschiede aller Sprachen zu hören, und verliert diese Fähigkeit im Lauf des ersten Jahres wieder – zugunsten der Laute, die es tatsächlich hört. Das klingt nach Verlust, ist aber Spezialisierung."
+        },
+        {
+          "type": "timeline",
+          "title": "Das erste Jahr, in Etappen",
+          "entries": [
+            {
+              "age": "0–2 Monate",
+              "label": "Reflexlaute und erstes Gurren",
+              "text": "Schreien, Schmatzen, Räuspern. Ab etwa der sechsten Woche kommen weiche Kehllaute dazu – das Gurren. Dein Kind entdeckt, dass es Geräusche machen kann, die niemandem wehtun."
+            },
+            {
+              "age": "2–5 Monate",
+              "label": "Lallen ohne Regeln",
+              "text": "Alles wird ausprobiert, auch Laute, die es in keiner Sprache der Umgebung gibt. Gleichzeitig entsteht der erste Dialog: Dein Kind macht ein Geräusch, wartet, du antwortest, es antwortet zurück."
+            },
+            {
+              "age": "6–9 Monate",
+              "label": "Silbenlallen",
+              "text": "bababa, dadada, mamama – Silben werden verdoppelt und verkettet. Diese Phase ist ein wichtiger Kontrollpunkt: Sie setzt voraus, dass das Kind sich selbst hört."
+            },
+            {
+              "age": "9–12 Monate",
+              "label": "Zeigen, Verstehen, erste Wörter",
+              "text": "Dein Kind zeigt auf Dinge, um sie dir zu zeigen – nicht nur, um sie zu bekommen. Es versteht deutlich mehr, als es sagt. Erste Wörter tauchen auf, oft weich in der Aussprache und nur für Eingeweihte erkennbar."
+            },
+            {
+              "age": "12–15 Monate",
+              "label": "Die ersten echten Wörter",
+              "text": "Ein Wort gilt als Wort, wenn es zuverlässig für dieselbe Sache benutzt wird – auch wenn es nicht korrekt klingt. Wauwau für alle Vierbeiner zählt."
+            }
+          ],
+          "caption": "Zeitpunkte nach den Darstellungen der Bundeszentrale für gesundheitliche Aufklärung zur Sprachentwicklung im ersten Lebensjahr. Alle Altersangaben sind Mittelwerte mit breiten Spannen."
+        }
+      ]
+    },
+    {
+      "type": "section",
+      "heading": "Lallen ist die eigentliche Arbeit",
+      "blocks": [
+        {
+          "type": "evidence",
+          "level": "stark",
+          "claim": "Das kanonische Silbenlallen setzt bei den meisten Kindern zwischen dem 6. und 10. Lebensmonat ein. Bleibt es bis zum 10. Monat vollständig aus, ist eine Überprüfung des Gehörs angezeigt.",
+          "note": "Silbenlallen setzt voraus, dass ein Kind seine eigene Stimme hört und mit dem vergleicht, was es von außen hört. Genau deshalb ist ausbleibendes Lallen eines der wenigen früh sichtbaren Zeichen für eine Hörstörung. Gehörlose Kinder gurren wie alle anderen – aber der Schritt zum Silbenlallen bleibt aus oder verkümmert wieder.",
+          "sources": [2, 4]
+        },
+        {
+          "type": "p",
+          "text": "Beim Lallen passiert mehr, als es klingt. Dein Kind koppelt Bewegung und Klang, baut eine Landkarte des eigenen Mundes auf und übt die Atemsteuerung, die zum Sprechen nötig ist. Und es filtert nach und nach die Laute heraus, die in seiner Umgebungssprache vorkommen – gegen Ende des ersten Jahres klingt das Lallen deutscher Kinder anders als das französischer."
+        },
+        {
+          "type": "callout",
+          "variant": "tip",
+          "title": "Lallen beantworten, nicht korrigieren",
+          "text": "Wenn dein Kind eine Silbenkette produziert, antworte darauf, als hätte es etwas gesagt – mit einer Pause davor und danach. Diese Sprechpausen sind das Wichtigste daran: Sie lehren dein Kind, dass Sprache abwechselnd funktioniert. Das Nachahmen der Babysprache schadet dabei nicht. Was hilft, ist zusätzlich das Aufgreifen: Auf ein bababa antwortest du mit einem Wort, das dazu passt – etwa mit einem Ball, wenn gerade einer da ist."
+        }
+      ]
+    },
+    {
+      "type": "section",
+      "heading": "Der gemeinsame Blick",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "Etwa ab dem neunten Monat verändert sich etwas Grundlegendes. Bis dahin schaut dein Kind entweder dich an oder einen Gegenstand. Nun entsteht ein Dreieck: Kind – Gegenstand – du. Es folgt deinem Blick. Es zeigt auf einen Vogel, nicht weil es ihn haben will, sondern damit du ihn auch siehst."
+        },
+        {
+          "type": "p",
+          "text": "Diese gemeinsame Aufmerksamkeit ist die Bühne, auf der Wörter überhaupt erst andocken können. Ein Wort ist nur dann lernbar, wenn Kind und Erwachsener im selben Moment über dasselbe reden. Deshalb hängt der spätere Wortschatz stärker mit dem Zeigen und dem Blickwechsel zusammen als mit der Menge an Sprache, die auf ein Kind einprasselt."
+        },
+        {
+          "type": "evidence",
+          "level": "moderat",
+          "claim": "Vorsprachliche Fähigkeiten wie das Folgen des Blicks und die Zeigegeste mit etwa 12 Monaten sagen den späteren Wortschatz besser vorher als die reine Sprachmenge in der Umgebung.",
+          "note": "Das ist Korrelation, keine bewiesene Ursache – Kinder, die viel zeigen, bekommen auch mehr sprachliche Antworten, und beides verstärkt sich gegenseitig. Praktisch heißt das trotzdem etwas Konkretes: Ein Radio, das den ganzen Tag läuft, hilft der Sprachentwicklung nicht. Ein Erwachsener, der auf das reagiert, was das Kind gerade anschaut, sehr wohl.",
+          "sources": [1, 3]
+        }
+      ]
+    },
+    {
+      "type": "section",
+      "heading": "Ammensprache: warum du automatisch das Richtige tust",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "Fast alle Erwachsenen wechseln in Gegenwart eines Babys unwillkürlich die Stimmlage: höher, melodischer, langsamer, mit übertriebenen Vokalen und vielen Wiederholungen. Diese kindgerichtete Sprache – oft Ammensprache genannt – ist in sehr unterschiedlichen Kulturen nachweisbar."
+        },
+        {
+          "type": "evidence",
+          "level": "stark",
+          "claim": "Kindgerichtete Sprache unterscheidet sich sprachübergreifend systematisch von Erwachsenensprache: höhere Grundfrequenz, größere Tonhöhenspanne, langsamere Artikulation, längere Vokale. Babys hören ihr messbar lieber zu.",
+          "note": "Eine große Metaanalyse über 88 Studien hat diese Merkmale bestätigt, ebenso wie eine internationale Replikationsstudie zur Vorliebe von Säuglingen für diese Sprechweise. Der Nutzen liegt im Deutlicheren: Wortgrenzen sind leichter herauszuhören, Vokale klarer unterscheidbar. Du musst das nicht trainieren – es passiert von selbst. Und du darfst es sein lassen, wenn es sich albern anfühlt: Ein normal gesprochener Satz mit voller Zuwendung ist immer noch besser als gar keiner.",
+          "sources": [6]
+        },
+        {
+          "type": "callout",
+          "variant": "myth",
+          "title": "„Babysprache verzögert das Sprechenlernen“",
+          "text": "Der Vorwurf gilt zwei verschiedenen Dingen, die oft verwechselt werden. Die melodische, langsame Sprechweise mit einfachen Sätzen ist gut belegt hilfreich. Etwas anderes ist das dauerhafte Verwenden von Fantasiewörtern und verniedlichten Formen für Dinge, die einen normalen Namen haben. Das schadet nicht dramatisch, nimmt deinem Kind aber Gelegenheiten. Der einfache Weg: Melodie und Tempo behalten, die Wörter richtig sagen."
+        }
+      ]
+    },
+    {
+      "type": "section",
+      "heading": "Hören: die Voraussetzung, die man nicht sieht",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "Seit 2009 wird in Deutschland allen Neugeborenen ein Hörscreening angeboten, meist noch in der Geburtsklinik – im Schlaf und schmerzfrei. Ein auffälliges Ergebnis bedeutet zunächst nur, dass nachgemessen werden muss; schon Fruchtwasserreste im Gehörgang reichen für ein Fehlergebnis."
+        },
+        {
+          "type": "p",
+          "text": "Wichtig ist die andere Richtung: Ein unauffälliges Screening ist kein Freifahrtschein für die nächsten Jahre. Hörstörungen können später entstehen, und die häufigste Ursache im Kleinkindalter ist banal und vorübergehend – ein Paukenerguss hinter dem Trommelfell nach einem Infekt. Wenn er über Monate bestehen bleibt, hört dein Kind wie unter Watte, ausgerechnet in der Phase, in der es Laute sortiert."
+        },
+        {
+          "type": "callout",
+          "variant": "info",
+          "title": "Der erste Schritt bei jedem Sprachverdacht",
+          "text": "Wenn dir irgendetwas an der Sprachentwicklung deines Kindes Sorgen macht – ausbleibendes Lallen, fehlende Reaktion auf Ansprache, später kein Wortzuwachs –, ist die Reihenfolge immer dieselbe: erst das Gehör prüfen lassen, dann alles andere. Eine unentdeckte Schwerhörigkeit lässt sich behandeln, und je früher das geschieht, desto weniger holt das Kind später auf. Diesen Schritt kann dir niemand mit Abwarten ersparen."
+        }
+      ]
+    },
+    {
+      "type": "section",
+      "heading": "Was im Alltag wirklich hilft",
+      "blocks": [
+        {
+          "type": "list",
+          "ordered": false,
+          "items": [
+            {
+              "title": "Sprich, was gerade passiert:",
+              "text": "Wickeln, Anziehen, Einkaufen – benenne, was du tust. Sprache braucht einen sichtbaren Bezug, sonst ist sie nur Geräusch."
+            },
+            {
+              "title": "Mach Pausen:",
+              "text": "Nach jedem Satz eine Lücke lassen, in die dein Kind hineinlallen kann. Der Wechsel ist die Lektion, nicht der Inhalt."
+            },
+            {
+              "title": "Folge dem Blick deines Kindes:",
+              "text": "Benenne das, was es gerade anschaut, statt es auf etwas anderes zu lenken. Das verdoppelt die Chance, dass das Wort hängen bleibt."
+            },
+            {
+              "title": "Singen zählt:",
+              "text": "Lieder und Reime bieten Rhythmus, Wiederholung und Vorhersagbarkeit – für den Spracherwerb eine ideale Kombination. Falsch singen ist ausdrücklich erlaubt."
+            },
+            {
+              "title": "Bilderbücher schon im ersten Jahr:",
+              "text": "Nicht zum Vorlesen im eigentlichen Sinn, sondern zum gemeinsamen Anschauen und Zeigen. Ein Buch ist ein tragbarer Anlass für gemeinsame Aufmerksamkeit."
+            },
+            {
+              "title": "Bildschirme helfen nicht:",
+              "text": "Im ersten Lebensjahr lernen Kinder Sprache nachweislich nicht aus Videos, auch nicht aus solchen, die dafür beworben werden. Sprache wird zwischen Menschen gelernt."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "section",
+      "heading": "Häufige Fragen",
+      "blocks": [
+        {
+          "type": "faq",
+          "items": [
+            {
+              "q": "Mein Kind ist ein Jahr alt und sagt noch kein Wort. Ist das ein Problem?",
+              "a": "Für sich genommen nicht. Entscheidend ist, was drumherum passiert: Reagiert dein Kind auf seinen Namen? Versteht es einfache Aufforderungen? Zeigt es auf Dinge? Lallt es in Silbenketten? Wenn ja, ist Abwarten vertretbar. Wenn nein, sprich es bei der nächsten Vorsorgeuntersuchung an."
+            },
+            {
+              "q": "Was ist mit dem Neugeborenen-Hörscreening – reicht das nicht?",
+              "a": "Es erfasst zuverlässig mittel- und hochgradige Schwerhörigkeiten, die von Geburt an bestehen. Es sagt nichts über Hörstörungen, die erst später entstehen, und wenig über leichte Einschränkungen. Ein unauffälliges Screening ist ein guter Startpunkt, kein Dauerergebnis."
+            },
+            {
+              "q": "Wir sprechen zu Hause eine andere Sprache. Muss ich mit meinem Baby Deutsch üben?",
+              "a": "Nein, im Gegenteil. Sprich mit deinem Kind die Sprache, in der du dich frei, reich und gefühlvoll ausdrücken kannst. Genau die braucht es. Deutsch kommt über die Kita und die Umgebung – und es kommt leichter, wenn dein Kind eine erste Sprache wirklich gut kann."
+            },
+            {
+              "q": "Mein Kind versteht viel mehr, als es sagt. Ist das normal?",
+              "a": "Das ist bei praktisch allen Kindern so, und zwar dauerhaft. Der passive Wortschatz läuft dem aktiven ein gutes Stück voraus. Wenn dein Kind Aufforderungen versteht und angemessen reagiert, ist der wichtigere Teil der Sprachentwicklung ohnehin schon da."
+            },
+            {
+              "q": "Verzögert ein Schnuller die Sprachentwicklung?",
+              "a": "Im ersten Lebensjahr ist er unproblematisch. Kritisch wird dauerhaftes Nuckeln über den Tag im zweiten und dritten Jahr: Es nimmt dem Kind Gelegenheiten zum Lautieren und kann den Kiefer verformen."
+            },
+            {
+              "q": "Muss ich meinem Baby ständig etwas erzählen? Ich schaffe das nicht.",
+              "a": "Musst du nicht. Es gibt keinen Sprachzähler, den du füllen musst, und schweigsame Phasen sind kein Defizit. Was zählt, sind wenige wache, zugewandte Momente pro Tag, in denen ihr euch aufeinander bezieht – beim Wickeln, beim Essen, beim Ins-Bett-Bringen. Qualität schlägt hier Dauerbeschallung."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "callout",
+      "variant": "info",
+      "title": "Kurz gesagt",
+      "text": "Sprache entsteht im ersten Jahr fast vollständig ohne Wörter: durch Zuhören, Lallen, Blickwechsel und Zeigen. Du unterstützt das nicht durch Fördern, sondern durch Antworten. Und wenn irgendetwas nicht stimmig wirkt, beginnt die Abklärung immer beim Gehör."
+    }
+  ],
+  "sources": [
+    {
+      "title": "Grundzüge der Sprachentwicklung – Erste Schritte in der Sprachentwicklung (0–12 Monate)",
+      "publisher": "Bundeszentrale für gesundheitliche Aufklärung (BZgA), kindergesundheit-info.de",
+      "year": "2024",
+      "kind": "Institutionelle Information",
+      "url": "https://www.kindergesundheit-info.de/themen/entwicklung/0-12-monate/sprechen-verstehen/"
+    },
+    {
+      "title": "Bedeutung und Grundlagen der sprachlichen Entwicklung",
+      "publisher": "Bundeszentrale für gesundheitliche Aufklärung (BZgA), kindergesundheit-info.de",
+      "year": "2024",
+      "kind": "Institutionelle Information",
+      "url": "https://www.kindergesundheit-info.de/themen/entwicklung/entwicklungsschritte/sprachentwicklung/"
+    },
+    {
+      "title": "S3-Leitlinie Therapie von Sprachentwicklungsstörungen (AWMF-Register 049-015)",
+      "publisher": "AWMF / Deutsche Gesellschaft für Phoniatrie und Pädaudiologie",
+      "year": "2022",
+      "kind": "Leitlinie",
+      "url": "https://register.awmf.org/de/leitlinien/detail/049-015"
+    },
+    {
+      "title": "Früherkennung von Risiken und Störungen in der Sprachentwicklung",
+      "publisher": "Bundeszentrale für gesundheitliche Aufklärung (BZgA), kindergesundheit-info.de",
+      "year": "2024",
+      "kind": "Institutionelle Information",
+      "url": "https://www.kindergesundheit-info.de/themen/entwicklung/entwicklungsschritte/sprachentwicklung/frueherkennung-sprachstoerung/"
+    },
+    {
+      "title": "Früherkennung von Schwerhörigkeiten im Neugeborenen- und Säuglingsalter",
+      "publisher": "Deutsches Ärzteblatt",
+      "year": "2019",
+      "kind": "Übersichtsarbeit",
+      "url": "https://www.aerzteblatt.de/archiv/frueherkennung-von-schwerhoerigkeiten-im-neugeborenen-und-saeuglingsalter-f3a083ce-c42b-41b7-b4fd-45242554bd4b"
+    },
+    {
+      "title": "Kinder-Richtlinie: Neugeborenen-Hörscreening – Beschlüsse",
+      "publisher": "Gemeinsamer Bundesausschuss (G-BA)",
+      "year": "2026",
+      "kind": "Empfehlung",
+      "url": "https://www.g-ba.de/beschluesse/681/"
+    },
+    {
+      "title": "A systematic review and Bayesian meta-analysis of the acoustic features of infant-directed speech",
+      "publisher": "Nature Human Behaviour (Cox et al.)",
+      "year": "2023",
+      "kind": "Metaanalyse",
+      "url": "https://www.nature.com/articles/s41562-022-01452-1"
+    }
+  ],
+  "related": ["sprachexplosion", "vorlesen", "meilensteine-uebersicht", "u-untersuchungen"]
+}
