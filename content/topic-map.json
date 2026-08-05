@@ -1,6 +1,7 @@
 {
   "note": "Redaktionelle Themenlandkarte. Jeder Eintrag wird zu content/articles/<slug>.json. Der Status wird beim Schreiben auf 'fertig' gesetzt.",
   "articles": [
+    { "slug": "sicherer-schlaf", "title": "Sicherer Schlaf im ersten Lebensjahr", "phases": ["neugeborenes", "saeugling"], "topics": ["schlaf", "gesundheit", "sicherheit"], "brief": "Referenzartikel. SIDS-Prävention: Rückenlage, Schlafplatz, rauchfrei, Überwärmung, Familienbett-Risikoabwägung, Schlafbedarf.", "status": "fertig" },
     { "slug": "schwangerschaft-gesundheit", "title": "Gesund durch die Schwangerschaft", "phases": ["schwangerschaft"], "topics": ["gesundheit", "ernaehrung"], "brief": "Ernährung, Nahrungsergänzung (Folsäure, Jod, Vitamin D), Bewegung, Verzichtsthemen (Alkohol, Nikotin, Listerien/Toxoplasmose), Vorsorgetermine.", "status": "offen" },
     { "slug": "bindung-vor-der-geburt", "title": "Bindung beginnt vor der Geburt", "phases": ["schwangerschaft"], "topics": ["bindung", "eltern"], "brief": "Pränatale Wahrnehmung des Kindes, Stress in der Schwangerschaft, Vorstellungen vom Kind, Bindung bei nicht gebärenden Elternteilen.", "status": "offen" },
     { "slug": "geburt-vorbereiten", "title": "Die Geburt vorbereiten", "phases": ["schwangerschaft"], "topics": ["gesundheit", "eltern"], "brief": "Geburtsorte im Vergleich, Geburtsvorbereitungskurs, Geburtsplan, Schmerzmittel, Kaiserschnitt, Rolle der Begleitperson.", "status": "offen" },
