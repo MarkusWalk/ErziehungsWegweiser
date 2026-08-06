@@ -1029,27 +1029,6 @@
      warmen Grund, und bleiben so blass, dass Text lesbar bleibt.
    ============================================================ */
 
-/* ---------- Kugel ---------- */
-.orb {
-  border-radius: var(--radius-circle);
-  display: block;
-  flex: none;
-}
-
-.orb--coral  { background: var(--orb-coral);  box-shadow: var(--glow-coral); }
-.orb--violet { background: var(--orb-violet); box-shadow: var(--glow-violet); }
-.orb--sky    { background: var(--orb-sky);    box-shadow: var(--glow-sky); }
-.orb--moss   { background: var(--orb-moss);   box-shadow: var(--glow-moss); }
-
-/* ---------- Wash-Flächen ---------- */
-.band--wash-cream { background: var(--wash-cream); }
-.band--wash-cool  { background: var(--wash-cool-pale); }
-
-:root[data-theme="dark"] .band--wash-cream,
-:root[data-theme="dark"] .band--wash-cool {
-  background: var(--c-bg-sunk);
-}
-
 /* Der Spektrumsverlauf erscheint nur als schmale Leiste, nie als Fläche. */
 .spectrum-rule {
   height: 3px;
@@ -1119,6 +1098,9 @@
   text-transform: uppercase;
   color: var(--c-accent);
 }
+
+.pagehead .section-label,
+.hero .section-label { margin-bottom: var(--sp-4); }
 
 .section-label::before {
   content: "";
