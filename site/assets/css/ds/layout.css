@@ -1,0 +1,31 @@
+:root {
+  /* Slide canvas */
+  --slide-w: 1920px;
+  --slide-h: 1080px;
+  --slide-margin-x: 140px;
+  --slide-margin-y: 100px;
+  --slide-gutter: 36px;
+
+  /* Product / web layout */
+  --container-sm: 640px;
+  --container-md: 880px;
+  --container-lg: 1120px;
+  --container-xl: 1360px;
+  --measure: 68ch;          /* max comfortable reading width */
+
+  --grid-columns: 12; /* @kind other */
+  --grid-gutter: 24px;
+
+  --bp-sm: 640px;
+  --bp-md: 900px;
+  --bp-lg: 1200px;
+  --bp-xl: 1536px;
+
+  /* Stacking */
+  --z-base: 0; /* @kind other */
+  --z-raised: 10; /* @kind other */
+  --z-sticky: 100; /* @kind other */
+  --z-overlay: 500; /* @kind other */
+  --z-modal: 1000; /* @kind other */
+  --z-toast: 1500; /* @kind other */
+}

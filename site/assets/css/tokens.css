@@ -1,202 +1,260 @@
 /* ============================================================
    ERZIEHUNGSWEGWEISER — DESIGN TOKENS
    ------------------------------------------------------------
-   STATUS: PLATZHALTER.
-   Die verbindliche Designrichtlinie wird nachgeliefert und
-   ersetzt die Werte in dieser Datei vollständig.
+   Adapter auf das Designsystem (Design System/tokens/*.css,
+   ausgeliefert als assets/css/ds-tokens.css).
 
-   Diese Datei ist die EINZIGE Quelle für Farben, Typografie,
-   Abstände, Radien und Schatten. Alle übrigen Stylesheets und
-   der Generator greifen ausschließlich über diese Variablen zu.
-   Ein neues Design wird deshalb allein durch Belegen der unten
-   aufgeführten Token-Namen eingespielt – ohne Änderung an
-   base.css, components.css oder am Generator.
+   Die Seite verwendet durchgehend die hier definierten Namen.
+   Diese Datei ist die einzige Stelle, an der sie auf die Tokens
+   des Designsystems abgebildet werden – base.css, components.css
+   und layout.css greifen ausschließlich über sie zu.
 
-   Erwartet werden von der Designrichtlinie:
-     · Farbpalette (Basis, Akzent, Semantik, Evidenz, 6 Phasen)
-     · Schriftfamilien + Größenskala + Zeilenhöhen
-     · Abstandsskala, Satzbreite, Layoutbreiten
-     · Radien, Rahmen, Schatten
-     · Bewegungskurven und -dauern
-     · Dark-Mode-Entsprechungen aller Farbwerte
+   ------------------------------------------------------------
+   Gesetzte Regeln des Designsystems, die hier durchgesetzt werden
+
+   1. Ein Akzent. Coral ist die einzige Markenfarbe. Violett,
+      Sky, Moss und Amber sind sekundär, funktional oder
+      dekorativ.
+   2. Coral-500 trägt niemals kleinen Text (2,6:1 auf Weiß).
+      Es ist Füllung. Für Text auf hellem Grund und für weiße
+      Schrift auf Coral wird deshalb durchgehend Coral-700
+      genutzt (4,6:1 bzw. 4,7:1).
+   3. Zwei Radius-Sprachen. Kreise für Abzeichen und Kugeln,
+      16/24 px für Container, vollrund für Schaltflächen und
+      Tags. Nicht mischen.
+   4. Der Schein ist farbgleich. Ein --glow-* liegt nur auf
+      Kugeln und Zahlenabzeichen, niemals auf Karten.
+
+   Zusätzlich gilt für dieses Projekt: alle Text-auf-Fläche-Paare
+   erreichen mindestens 4,5:1. Wo eine Systemfarbe das knapp
+   verfehlt, steht daneben eine abgedunkelte Textvariante
+   (--c-*-ink). Die Füllfarben bleiben unverändert.
    ============================================================ */
 
 :root {
-  /* ---------- Farbe: Basis ---------- */
-  --c-bg:              #fbf7f2;
-  --c-bg-sunk:         #f4ede4;
-  --c-surface:         #ffffff;
-  --c-surface-alt:     #fdfaf6;
-  --c-ink:             #1e1b18;
-  --c-ink-soft:        #4a443d;
-  --c-ink-muted:       #6b6257;
-  --c-line:            #e3d9cc;
-  --c-line-strong:     #cdbfad;
+  /* ---------- Farbe: Basis ----------
+     Warme Seite der Palette: Creme als Grund, Weiß für Karten.
+     Das Kompendium ist eine Lesefläche, kein Dashboard. */
+  --c-bg:              var(--cream-050);
+  --c-bg-sunk:         var(--cream-100);
+  --c-surface:         var(--ink-000);
+  --c-surface-alt:     var(--cream-050);
+  --c-ink:             var(--ink-900);
+  --c-ink-soft:        var(--ink-700);
+  --c-ink-muted:       var(--ink-600);
+  --c-line:            var(--border-warm);
+  --c-line-strong:     #DCD0B4;
 
-  /* ---------- Farbe: Akzent ---------- */
-  --c-accent:          #b4533a;
-  --c-accent-hover:    #97422d;
-  --c-accent-soft:     #f6e5df;
-  --c-accent-ink:      #ffffff;
+  /* ---------- Farbe: Akzent ----------
+     Coral-700 statt Coral-500, weil der Akzent hier Fließtext
+     trägt: Links, Marken-Labels, Aufzählungspunkte. */
+  --c-accent:          var(--coral-700);
+  --c-accent-hover:    #A83F26;
+  --c-accent-fill:     var(--coral-500);
+  --c-accent-soft:     var(--coral-100);
+  --c-accent-faint:    var(--coral-050);
+  --c-accent-ink:      var(--ink-000);
+  --c-accent-on-soft:  #A83F26;
 
-  --c-secondary:       #2f6b62;
-  --c-secondary-soft:  #dfeeea;
+  --c-secondary:       var(--violet-600);
+  --c-secondary-fill:  var(--violet-500);
+  --c-secondary-soft:  var(--violet-100);
 
   /* ---------- Farbe: Semantik ---------- */
-  --c-info:            #2c5d86;
-  --c-info-soft:       #e2edf6;
-  --c-tip:             #46703a;
-  --c-tip-soft:        #e5f0e0;
-  --c-warn:            #8a5c0d;
-  --c-warn-soft:       #fbeed5;
-  --c-danger:          #9d2b26;
-  --c-danger-soft:     #fae3e1;
+  --c-info:            var(--sky-700);
+  --c-info-soft:       var(--sky-100);
+  --c-tip:             var(--moss-700);
+  --c-tip-soft:        var(--moss-100);
+  --c-warn:            #96600F;
+  --c-warn-soft:       var(--amber-100);
+  --c-danger:          #B33A33;
+  --c-danger-soft:     var(--status-danger-soft);
 
-  /* ---------- Farbe: Evidenz-Ampel ---------- */
-  --c-ev-stark:        #46703a;
-  --c-ev-moderat:      #9a6712;
-  --c-ev-umstritten:   #8a5a8f;
+  /* ---------- Farbe: Evidenz-Ampel ----------
+     Funktional, nicht dekorativ: Moss = belegt, Amber = Hinweise,
+     Violett = umstritten. */
+  --c-ev-stark:        var(--moss-700);
+  --c-ev-moderat:      #96600F;
+  --c-ev-umstritten:   var(--violet-700);
 
-  /* ---------- Farbe: Altersphasen ---------- */
-  --c-phase-1:         #8a6fa8;
-  --c-phase-2:         #c4705a;
-  --c-phase-3:         #c8963e;
-  --c-phase-4:         #5b8c5a;
-  --c-phase-5:         #3d7f97;
-  --c-phase-6:         #6b6ba8;
+  /* ---------- Farbe: Altersphasen ----------
+     Je Phase ein Füllton aus der Diagrammreihenfolge und eine
+     abgedunkelte Textvariante. Fläche und Schrift sind bewusst
+     getrennt: die Fülltöne sind zu hell für Text. */
+  --c-phase-1:         var(--violet-500);
+  --c-phase-2:         var(--coral-500);
+  --c-phase-3:         var(--amber-500);
+  --c-phase-4:         var(--moss-500);
+  --c-phase-5:         var(--sky-500);
+  --c-phase-6:         var(--violet-700);
 
-  /* ---------- Typografie ---------- */
-  --font-display: "Iowan Old Style", "Palatino Linotype", Palatino, "Book Antiqua", Georgia, serif;
-  --font-body:    ui-sans-serif, system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
-  --font-mono:    ui-monospace, SFMono-Regular, "SF Mono", Menlo, Consolas, monospace;
+  --c-phase-1-ink:     var(--violet-700);
+  --c-phase-2-ink:     var(--coral-700);
+  --c-phase-3-ink:     #96600F;
+  --c-phase-4-ink:     var(--moss-700);
+  --c-phase-5-ink:     var(--sky-700);
+  --c-phase-6-ink:     var(--violet-700);
 
-  --fs-xs:    0.78rem;
-  --fs-sm:    0.875rem;
-  --fs-base:  1.0625rem;
-  --fs-md:    1.1875rem;
-  --fs-lg:    1.375rem;
-  --fs-xl:    1.75rem;
-  --fs-2xl:   2.25rem;
-  --fs-3xl:   3rem;
-  --fs-4xl:   3.9rem;
+  /* ---------- Diagrammreihe ---------- */
+  --c-series-1:        var(--chart-1);
+  --c-series-2:        var(--chart-2);
+  --c-series-3:        var(--chart-3);
+  --c-series-4:        var(--chart-4);
+  --c-series-5:        var(--chart-5);
+  --c-series-6:        var(--chart-6);
 
-  --lh-tight: 1.15;
-  --lh-snug:  1.35;
-  --lh-body:  1.72;
+  /* ---------- Typografie ----------
+     --font-display, --font-mono, --measure, --tracking-tight und
+     --tracking-eyebrow kommen unveraendert aus dem Designsystem und
+     werden hier absichtlich nicht neu definiert. */
+  --font-body: var(--font-sans);
 
-  --fw-normal: 400;
-  --fw-medium: 500;
-  --fw-semi:   600;
-  --fw-bold:   700;
+  --fs-xs:    0.75rem;    /* 12 – Bildunterschriften, Tag-Labels */
+  --fs-sm:    0.875rem;   /* 14 – Sekundärtext, Tabellenzellen  */
+  --fs-base:  1rem;       /* 16 – Fließtext                     */
+  --fs-md:    1.125rem;   /* 18 – Vorspann                      */
+  --fs-lg:    1.25rem;    /* 20 – Kartentitel                   */
+  --fs-xl:    1.5rem;     /* 24 – Unterabschnitt                */
+  --fs-2xl:   1.875rem;   /* 30 – Abschnitt                     */
+  --fs-3xl:   2.375rem;   /* 38 – Seitentitel                   */
+  --fs-4xl:   3rem;       /* 48 – Hero                          */
 
-  --tracking-tight: -0.022em;
-  --tracking-wide:   0.08em;
+  --lh-tight: var(--leading-tight);
+  --lh-snug:  var(--leading-snug);
+  --lh-body:  var(--leading-loose);
+
+  --fw-normal: var(--weight-regular);
+  --fw-medium: var(--weight-medium);
+  --fw-semi:   var(--weight-semibold);
+  --fw-bold:   var(--weight-bold);
 
   /* ---------- Raum ---------- */
-  --sp-1:  0.25rem;
-  --sp-2:  0.5rem;
-  --sp-3:  0.75rem;
-  --sp-4:  1rem;
-  --sp-5:  1.5rem;
-  --sp-6:  2rem;
-  --sp-7:  3rem;
-  --sp-8:  4rem;
-  --sp-9:  6rem;
-  --sp-10: 8rem;
+  --sp-1:  var(--space-1);
+  --sp-2:  var(--space-2);
+  --sp-3:  var(--space-3);
+  --sp-4:  var(--space-4);
+  --sp-5:  var(--space-5);
+  --sp-6:  var(--space-6);
+  --sp-7:  var(--space-7);
+  --sp-8:  var(--space-8);
+  --sp-9:  var(--space-9);
+  --sp-10: var(--space-10);
 
-  --measure:        68ch;
-  --width-content:  1180px;
-  --width-wide:     1440px;
+  --width-content:  var(--container-xl);
+  --width-article:  var(--container-md);
+  --width-wide:     1560px;
 
-  /* ---------- Form ---------- */
-  --radius-sm:  6px;
-  --radius-md:  12px;
-  --radius-lg:  20px;
-  --radius-xl:  32px;
-  --radius-pill: 999px;
+  /* ---------- Form ----------
+     Radius-Sprache des Designsystems: Container 16/24,
+     Kleinteile 8, Schaltflächen und Tags vollrund. */
+  --r-sm:   var(--radius-sm);    /*  8 – Kleinteile          */
+  --r-md:   var(--radius-lg);    /* 16 – Karten, Bloecke     */
+  --r-lg:   var(--radius-xl);    /* 24 – grosse Container    */
+  --r-xl:   var(--radius-2xl);   /* 32 – Overlays            */
+  --r-pill: var(--radius-pill);  /* Schaltflaechen, Tags     */
 
-  --border:        1px solid var(--c-line);
-  --border-strong: 1px solid var(--c-line-strong);
+  --rule:        var(--stroke-hairline) solid var(--c-line);
+  --rule-strong: var(--stroke-hairline) solid var(--c-line-strong);
 
-  --shadow-sm: 0 1px 2px rgba(30, 27, 24, 0.05);
-  --shadow-md: 0 4px 16px rgba(30, 27, 24, 0.07);
-  --shadow-lg: 0 18px 48px rgba(30, 27, 24, 0.11);
+  --shadow-sm: var(--elevation-1);
+  --shadow-md: var(--elevation-2);
+  --shadow-lg: var(--elevation-4);
 
   /* ---------- Bewegung ---------- */
-  --ease:      cubic-bezier(0.4, 0, 0.2, 1);
-  --ease-out:  cubic-bezier(0.16, 1, 0.3, 1);
-  --dur-fast:  140ms;
-  --dur-base:  260ms;
-  --dur-slow:  520ms;
+  --ease:      var(--ease-standard);
+  --dur-fast:  var(--duration-fast);
+  --dur-base:  var(--duration-base);
+  --dur-slow:  var(--duration-slower);
 
   /* ---------- Ebenen ---------- */
-  --z-canvas:  0;
-  --z-base:    1;
-  --z-sticky:  50;
-  --z-header:  100;
-  --z-overlay: 200;
-  --z-modal:   300;
+  --layer-canvas:  0;
+  --layer-base:    var(--z-raised);
+  --layer-sticky:  var(--z-sticky);
+  --layer-header:  var(--z-sticky);
+  --layer-overlay: var(--z-overlay);
+  --layer-modal:   var(--z-modal);
 }
 
 /* ============================================================
    DARK MODE
+   Navy-Panels des Designsystems als Grund, aufgehellte Akzente.
+   Coral-400 statt Coral-700, damit der Akzent auf dunklem Grund
+   wieder genug Kontrast bekommt.
    ============================================================ */
 :root[data-theme="dark"] {
-  --c-bg:              #14120f;
-  --c-bg-sunk:         #0e0c0a;
-  --c-surface:         #1d1a16;
-  --c-surface-alt:     #232019;
-  --c-ink:             #f2ece3;
-  --c-ink-soft:        #c9c0b4;
-  --c-ink-muted:       #948a7d;
-  --c-line:            #332e27;
-  --c-line-strong:     #4a4339;
+  --c-bg:              var(--navy-950);
+  --c-bg-sunk:         #06060F;
+  --c-surface:         var(--navy-900);
+  --c-surface-alt:     #16162A;
+  --c-ink:             #F4F2EE;
+  --c-ink-soft:        #C8C5CE;
+  --c-ink-muted:       #9C98A6;
+  --c-line:            #2C2C44;
+  --c-line-strong:     #3E3E5A;
 
-  --c-accent:          #e08268;
-  --c-accent-hover:    #f0997f;
-  --c-accent-soft:     #3a241d;
-  --c-accent-ink:      #1a120e;
+  --c-accent:          var(--coral-400);
+  --c-accent-hover:    var(--coral-300);
+  --c-accent-fill:     var(--coral-500);
+  --c-accent-soft:     #3B211A;
+  --c-accent-faint:    #2A1813;
+  --c-accent-ink:      #23120C;
+  --c-accent-on-soft:  var(--coral-300);
 
-  --c-secondary:       #6fbdb0;
-  --c-secondary-soft:  #1b312e;
+  --c-secondary:       var(--violet-400);
+  --c-secondary-fill:  var(--violet-500);
+  --c-secondary-soft:  #241F3F;
 
-  --c-info:            #7fb3dd;
-  --c-info-soft:       #1a2a38;
-  --c-tip:             #93c286;
-  --c-tip-soft:        #1f2e1b;
-  --c-warn:            #dbaa54;
-  --c-warn-soft:       #362a13;
-  --c-danger:          #e08a83;
-  --c-danger-soft:     #38201e;
+  --c-info:            var(--sky-400);
+  --c-info-soft:       #10263A;
+  --c-tip:             var(--moss-300);
+  --c-tip-soft:        #10291F;
+  --c-warn:            var(--amber-300);
+  --c-warn-soft:       #2D2110;
+  --c-danger:          #F09A94;
+  --c-danger-soft:     #331616;
 
-  --c-ev-stark:        #93c286;
-  --c-ev-moderat:      #dbaa54;
-  --c-ev-umstritten:   #c095c5;
+  --c-ev-stark:        var(--moss-300);
+  --c-ev-moderat:      var(--amber-300);
+  --c-ev-umstritten:   var(--violet-300);
 
-  --c-phase-1:         #b39ccc;
-  --c-phase-2:         #e0977f;
-  --c-phase-3:         #e0b96a;
-  --c-phase-4:         #8bbb89;
-  --c-phase-5:         #6fadc4;
-  --c-phase-6:         #9a9ad4;
+  --c-phase-1:         var(--violet-400);
+  --c-phase-2:         var(--coral-400);
+  --c-phase-3:         var(--amber-500);
+  --c-phase-4:         var(--moss-500);
+  --c-phase-5:         var(--sky-400);
+  --c-phase-6:         var(--violet-300);
 
-  --shadow-sm: 0 1px 2px rgba(0, 0, 0, 0.4);
-  --shadow-md: 0 4px 16px rgba(0, 0, 0, 0.45);
-  --shadow-lg: 0 18px 48px rgba(0, 0, 0, 0.55);
+  --c-phase-1-ink:     var(--violet-300);
+  --c-phase-2-ink:     var(--coral-300);
+  --c-phase-3-ink:     var(--amber-300);
+  --c-phase-4-ink:     var(--moss-300);
+  --c-phase-5-ink:     var(--sky-300);
+  --c-phase-6-ink:     var(--violet-300);
+
+  --c-series-1:        var(--coral-400);
+  --c-series-2:        var(--violet-400);
+  --c-series-3:        var(--moss-500);
+  --c-series-4:        var(--sky-400);
+  --c-series-5:        var(--amber-500);
+  --c-series-6:        var(--violet-300);
+
+  --shadow-sm: 0 1px 2px rgba(0, 0, 0, 0.5);
+  --shadow-md: 0 2px 12px rgba(0, 0, 0, 0.55);
+  --shadow-lg: 0 16px 44px rgba(0, 0, 0, 0.65);
 }
 
 /* ============================================================
    LESEMODUS — immersives, ablenkungsfreies Lesen
    ============================================================ */
 :root[data-reading="on"] {
-  --fs-base:  1.1875rem;
-  --fs-md:    1.3125rem;
-  --lh-body:  1.85;
+  --fs-base:  1.125rem;
+  --fs-md:    1.25rem;
+  --lh-body:  1.8;
   --measure:  62ch;
 }
 
 /* ============================================================
    SCHRIFTGRÖSSEN-SKALIERUNG (Nutzereinstellung)
    ============================================================ */
-:root[data-textsize="l"]  { --fs-base: 1.1875rem; --fs-md: 1.3125rem; }
-:root[data-textsize="xl"] { --fs-base: 1.3125rem; --fs-md: 1.4375rem; --lh-body: 1.8; }
+:root[data-textsize="l"]  { --fs-base: 1.125rem; --fs-md: 1.25rem; }
+:root[data-textsize="xl"] { --fs-base: 1.25rem;  --fs-md: 1.375rem; --lh-body: 1.75; }

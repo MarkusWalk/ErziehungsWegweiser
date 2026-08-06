@@ -1,0 +1,395 @@
+/* Design-Tokens, aus site/assets/css/ds/ zusammengeführt.
+   Nicht von Hand bearbeiten – Änderungen gehören in die Einzeldateien. */
+
+/* ---- colors.css ---- */
+:root {
+  /* ============================================================
+     ITM 2627 — Color
+     Base hues sampled from trends-2026-slide-master.pptx; ramps
+     extended in OKLCH-even steps so tints/shades stay harmonic.
+     ============================================================ */
+
+  /* ---- Neutral / ink ---- */
+  --ink-900: #1A1A1A;
+  --ink-800: #333333;
+  --ink-700: #4D4D4D;
+  --ink-600: #666666;
+  --ink-500: #808080;
+  --ink-400: #999999;
+  --ink-300: #C4C4C4;
+  --ink-200: #E0E0E0;
+  --ink-100: #EFEFEF;
+  --ink-050: #F7F7F7;
+  --ink-000: #FFFFFF;
+
+  /* ---- Coral — primary accent ---- */
+  --coral-700: #C64B2E;
+  --coral-600: #E9603F;
+  --coral-500: #FF7A59;  /* brand primary */
+  --coral-400: #FF9678;
+  --coral-300: #FFB6A0;
+  --coral-200: #FFD2C4;
+  --coral-100: #FFE4DA;
+  --coral-050: #FFF3EF;
+
+  /* ---- Violet — secondary accent ---- */
+  --violet-700: #52447A;
+  --violet-600: #6D5B97;
+  --violet-500: #8B7FFF;
+  --violet-400: #ADA4FF;
+  --violet-300: #C6C0FF;
+  --violet-200: #DCD8FF;
+  --violet-100: #E9E6FF;
+  --violet-050: #F5F3FF;
+
+  /* ---- Sky — tertiary accent ---- */
+  --sky-700: #1B6FB5;
+  --sky-600: #2E8ED8;
+  --sky-500: #4FACFE;
+  --sky-400: #7DC4FE;
+  --sky-300: #9AD3FF;
+  --sky-200: #C3E5FF;
+  --sky-100: #E2F2FF;
+
+  /* ---- Cream — warm surface family (the "nature" side of the palette) ---- */
+  --cream-300: #EDE2C8;
+  --cream-200: #F4EDDC;
+  --cream-100: #FBF7EC;
+  --cream-050: #FDFBF5;
+
+  /* ---- Moss — the one true green; nature motif, charts, success ---- */
+  --moss-700: #226B4C;
+  --moss-600: #2E8B5F;
+  --moss-500: #46A97A;
+  --moss-300: #98D3B5;
+  --moss-100: #E1F3EA;
+
+  /* ---- Amber — warning / highlight ---- */
+  --amber-700: #A96A12;
+  --amber-600: #D08A1E;
+  --amber-500: #E8A33D;
+  --amber-300: #F5CE8C;
+  --amber-100: #FCF0DA;
+
+  /* ---- Deep navy — retained for high-contrast panels ---- */
+  --navy-950: #0A0A1A;
+  --navy-900: #1A1A2E;
+  --navy-800: #2B2B42;
+
+  /* ============ Semantic aliases ============ */
+  --text-primary: var(--ink-900);
+  --text-secondary: var(--ink-700);
+  --text-muted: var(--ink-600);
+  --text-faint: var(--ink-400);
+  --text-on-dark: var(--ink-000);
+  --text-on-accent: var(--ink-000);
+  --text-accent: var(--coral-600);
+
+  --surface-page: #F5F5F5;
+  --surface-card: var(--ink-000);
+  --surface-sunken: var(--ink-050);
+  --surface-warm: var(--cream-100);
+  --surface-warm-deep: var(--cream-200);
+  --surface-dark: var(--navy-950);
+  --surface-dark-alt: var(--navy-900);
+
+  --accent-primary: var(--coral-500);
+  --accent-primary-hover: var(--coral-600);
+  --accent-primary-active: var(--coral-700);
+  --accent-primary-soft: var(--coral-100);
+  --accent-secondary: var(--violet-500);
+  --accent-secondary-soft: var(--violet-100);
+  --accent-tertiary: var(--sky-500);
+  --accent-tertiary-soft: var(--sky-100);
+
+  /* ---- Status ---- */
+  --status-success: var(--moss-600);
+  --status-success-soft: var(--moss-100);
+  --status-warning: var(--amber-600);
+  --status-warning-soft: var(--amber-100);
+  --status-danger: #D6453D;
+  --status-danger-soft: #FDE7E5;
+  --status-info: var(--sky-600);
+  --status-info-soft: var(--sky-100);
+
+  /* ---- Lines ---- */
+  --border-subtle: #E4E4E4;
+  --border-strong: #D0D0D0;
+  --border-warm: #EBE2CC;
+  --border-accent: var(--coral-500);
+
+  /* ---- Interaction ---- */
+  --state-hover-tint: rgba(26, 26, 26, 0.04);
+  --state-active-tint: rgba(26, 26, 26, 0.08);
+  --state-disabled-opacity: 0.42; /* @kind other */
+  --focus-ring-color: var(--coral-500);
+  --focus-ring-width: 2px;
+  --focus-ring-offset: 2px;
+
+  /* ---- Data visualisation — ordered for max hue separation ---- */
+  --chart-1: var(--coral-500);
+  --chart-2: var(--violet-500);
+  --chart-3: var(--moss-500);
+  --chart-4: var(--sky-500);
+  --chart-5: var(--amber-500);
+  --chart-6: var(--violet-700);
+
+  --link-color: var(--coral-600);
+  --link-color-hover: var(--coral-500);
+}
+
+/* ---- typography.css ---- */
+:root {
+  /* ============================================================
+     ITM 2627 — Typography
+     Bricolage Grotesque (display) sets the warm, slightly organic
+     voice; Instrument Sans (text) keeps UI copy neutral and legible.
+     Arial remains the presentation-software fallback so decks
+     exported to PowerPoint degrade predictably.
+     ============================================================ */
+  --font-display: "Bricolage Grotesque", "Instrument Sans", Arial, sans-serif;
+  --font-sans: "Instrument Sans", "Helvetica Neue", Arial, sans-serif;
+  --font-mono: "JetBrains Mono", ui-monospace, "SF Mono", Menlo, monospace;
+
+  /* ---- Interface scale (1.25 major-third, 16px base) ---- */
+  --text-2xs: 11px;
+  --text-xs: 12px;
+  --text-sm: 14px;
+  --text-base: 16px;
+  --text-md: 18px;
+  --text-lg: 20px;
+  --text-xl: 24px;
+  --text-2xl: 30px;
+  --text-3xl: 38px;
+  --text-4xl: 48px;
+
+  /* ---- Slide scale (1920x1080 canvas) ---- */
+  --slide-display: 120px;   /* hero numerals, "10 Trends" */
+  --slide-h1: 72px;
+  --slide-h2: 56px;
+  --slide-h3: 44px;
+  --slide-h4: 32px;
+  --slide-lead: 30px;
+  --slide-body: 22px;
+  --slide-caption: 18px;
+  --slide-eyebrow: 22px;
+
+  /* ---- Legacy aliases (kept so existing decks/components don't break) ---- */
+  --text-display: var(--slide-display);
+  --text-h1: var(--slide-h1);
+  --text-h2: var(--slide-h3);
+  --text-h3: var(--slide-h4);
+  --text-body-lg: var(--text-xl);
+  --text-body: var(--text-lg);
+  --text-small: var(--text-base);
+  --text-micro: var(--text-sm);
+
+  --leading-tight: 1.06;
+  --leading-snug: 1.22;
+  --leading-normal: 1.5;
+  --leading-loose: 1.7;
+
+  --weight-regular: 400;
+  --weight-medium: 500;
+  --weight-semibold: 600;
+  --weight-bold: 700;
+  --weight-black: 800;
+
+  --tracking-tighter: -0.028em;  /* display sizes 56px+ */
+  --tracking-tight: -0.015em;    /* headings 24-48px */
+  --tracking-normal: 0;
+  --tracking-wide: 0.06em;
+  --tracking-eyebrow: 0.12em;    /* uppercase section labels */
+}
+
+/* ---- spacing.css ---- */
+:root {
+  /* Spacing — 4px base grid, derived from the deck's EMU rhythm */
+  --space-0: 0px;
+  --space-1: 4px;
+  --space-2: 8px;
+  --space-3: 12px;
+  --space-4: 16px;
+  --space-5: 24px;
+  --space-6: 32px;
+  --space-7: 48px;
+  --space-8: 64px;
+  --space-9: 96px;
+  --space-10: 128px;
+  --space-11: 160px;
+
+  /* Corner radii — two languages: badges/orbs are circular, containers
+     are gently rounded. Never mix the two on one element family. */
+  --radius-xs: 4px;
+  --radius-sm: 8px;
+  --radius-md: 12px;
+  --radius-lg: 16px;
+  --radius-xl: 24px;
+  --radius-2xl: 32px;
+  --radius-pill: 999px;
+  --radius-circle: 50%;
+
+  /* Control heights — keeps buttons, inputs and selects aligned */
+  --control-sm: 32px;
+  --control-md: 40px;
+  --control-lg: 48px;
+
+  /* Stroke weights */
+  --stroke-hairline: 1px;
+  --stroke-regular: 1.5px;
+  --stroke-icon: 1.75px;
+  --stroke-heavy: 3px;
+}
+
+/* ---- elevation.css ---- */
+:root {
+  /* Elevation — one soft neutral family. Shadows are always
+     low-contrast and warm-neutral; never black at high alpha. */
+  --elevation-0: none;
+  --elevation-1: 0 1px 2px rgba(26,26,26,0.05), 0 1px 1px rgba(26,26,26,0.03);
+  --elevation-2: 0 2px 10px rgba(26,26,26,0.06), 0 1px 2px rgba(26,26,26,0.04);
+  --elevation-3: 0 6px 20px rgba(26,26,26,0.09), 0 2px 4px rgba(26,26,26,0.05);
+  --elevation-4: 0 16px 40px rgba(26,26,26,0.12), 0 4px 8px rgba(26,26,26,0.06);
+  --elevation-inset: inset 0 1px 2px rgba(26,26,26,0.06);
+
+  /* Legacy aliases */
+  --shadow-card: var(--elevation-2);
+  --shadow-card-hover: var(--elevation-3);
+
+  /* Harmonic highlight — a colored glow matched to the shape's own hue.
+     The system's one deliberate lighting effect. Badges and orbs only. */
+  --glow-coral: 0 8px 40px rgba(255,122,89,0.40);
+  --glow-violet: 0 8px 40px rgba(139,127,255,0.45);
+  --glow-sky: 0 8px 40px rgba(79,172,254,0.40);
+  --glow-moss: 0 8px 40px rgba(70,169,122,0.38);
+  --glow-amber: 0 8px 40px rgba(232,163,61,0.40);
+}
+
+/* ---- motion.css ---- */
+:root {
+  /* Motion — not present in the static source deck; this is a
+     restrained house default. Everything is short and eased-out;
+     nothing bounces. */
+  --duration-instant: 80ms; /* @kind other */
+  --duration-fast: 120ms; /* @kind other */
+  --duration-base: 200ms; /* @kind other */
+  --duration-slow: 320ms; /* @kind other */
+  --duration-slower: 520ms; /* @kind other */
+
+  --ease-standard: cubic-bezier(0.4, 0, 0.2, 1); /* @kind other */
+  --ease-out: cubic-bezier(0.16, 1, 0.3, 1); /* @kind other */
+  --ease-in: cubic-bezier(0.4, 0, 1, 1); /* @kind other */
+  --ease-in-out: cubic-bezier(0.65, 0, 0.35, 1); /* @kind other */
+
+  --transition-color: color var(--duration-fast) var(--ease-standard), background-color var(--duration-fast) var(--ease-standard), border-color var(--duration-fast) var(--ease-standard); /* @kind other */
+  --transition-elevation: box-shadow var(--duration-base) var(--ease-standard), transform var(--duration-base) var(--ease-out); /* @kind other */
+
+  /* Slide-build entrance: content rises 16px over 520ms, staggered 60ms */
+  --stagger-step: 60ms; /* @kind other */
+  --enter-distance: 16px; /* @kind other */
+}
+
+/* ---- layout.css ---- */
+:root {
+  /* Slide canvas */
+  --slide-w: 1920px;
+  --slide-h: 1080px;
+  --slide-margin-x: 140px;
+  --slide-margin-y: 100px;
+  --slide-gutter: 36px;
+
+  /* Product / web layout */
+  --container-sm: 640px;
+  --container-md: 880px;
+  --container-lg: 1120px;
+  --container-xl: 1360px;
+  --measure: 68ch;          /* max comfortable reading width */
+
+  --grid-columns: 12; /* @kind other */
+  --grid-gutter: 24px;
+
+  --bp-sm: 640px;
+  --bp-md: 900px;
+  --bp-lg: 1200px;
+  --bp-xl: 1536px;
+
+  /* Stacking */
+  --z-base: 0; /* @kind other */
+  --z-raised: 10; /* @kind other */
+  --z-sticky: 100; /* @kind other */
+  --z-overlay: 500; /* @kind other */
+  --z-modal: 1000; /* @kind other */
+  --z-toast: 1500; /* @kind other */
+}
+
+/* ---- effects.css ---- */
+:root {
+  /* ---- Harmonic geometry: CSS-native decorative shapes ----
+     These replace raster cutouts. Compose them on a light or cream
+     surface as large, soft, low-contrast background geometry. */
+
+  /* Soft sphere: a hue-matched radial gradient with an off-centre
+     specular highlight. Pair with the matching --glow-* shadow. */
+  --orb-coral: radial-gradient(circle at 34% 28%, #FFC9B7 0%, #FF9678 38%, #F2643F 76%, #D9502E 100%); /* @kind other */
+  --orb-violet: radial-gradient(circle at 34% 28%, #D6D0FF 0%, #ADA4FF 38%, #8B7FFF 74%, #6D5B97 100%); /* @kind other */
+  --orb-sky: radial-gradient(circle at 34% 28%, #CDE9FF 0%, #7DC4FE 40%, #4FACFE 76%, #2E8ED8 100%); /* @kind other */
+  --orb-moss: radial-gradient(circle at 34% 28%, #C6E9D6 0%, #98D3B5 38%, #46A97A 76%, #2E8B5F 100%); /* @kind other */
+
+  /* Full-bleed section washes — the diagonal panels from the deck,
+     rebuilt as gradients so they scale to any canvas. */
+  --wash-cream: linear-gradient(135deg, #FDFBF5 0%, #FBF7EC 42%, #FFE4DA 100%); /* @kind other */
+  --wash-violet-sky: linear-gradient(135deg, #F5F3FF 0%, #E9E6FF 40%, #E2F2FF 100%); /* @kind other */
+  --wash-cool-pale: linear-gradient(160deg, #FFFFFF 0%, #F2F6FA 55%, #E8EFF6 100%); /* @kind other */
+  --wash-spectrum: linear-gradient(100deg, #FF7A59 0%, #E8A33D 26%, #46A97A 52%, #4FACFE 76%, #8B7FFF 100%); /* @kind other */
+  --wash-dark: linear-gradient(140deg, #1A1A2E 0%, #0A0A1A 100%); /* @kind other */
+
+  /* Bar / pill fills */
+  --fill-coral-bar: linear-gradient(90deg, #FF9678 0%, #FF7A59 55%, #E9603F 100%); /* @kind other */
+  --fill-spectrum-bar: var(--wash-spectrum); /* @kind other */
+
+  /* Contour rings — concentric hairlines used as a quiet geometric
+     accent behind numerals and orbs. */
+  --ring-hairline: 1px solid rgba(26,26,26,0.08); /* @kind other */
+  --ring-accent: 1.5px solid var(--coral-200); /* @kind other */
+
+  /* Focus ring composite */
+  --focus-ring: 0 0 0 2px var(--ink-000), 0 0 0 4px var(--coral-500);
+
+  /* Legacy aliases retained from v1 */
+  --ease-standard: cubic-bezier(0.4, 0, 0.2, 1); /* @kind other */
+  --duration-fast: 120ms; /* @kind other */
+  --duration-base: 200ms; /* @kind other */
+}
+
+/* ---- paper.css ---- */
+:root {
+  /* ============================================================
+     ITM 2627 — Paper grounds
+     The botanical half of the system. Specimen cutouts are period
+     artwork on aged paper; they need a warm, low-chroma ground to
+     sit on. Clean slides keep --surface-page / --surface-card.
+     Never put a specimen on white.
+     ============================================================ */
+
+  --paper-cream: #F2E9D5;
+  --paper-sage: #DEDFD2;
+  --paper-tan: #E7D3BF;
+
+  /* Ink for text on paper grounds — warmer and softer than --ink-900,
+     which reads as a printing error against aged stock. */
+  --paper-ink: #33302A;
+  --paper-ink-muted: #6B6357;
+  --paper-rule: rgba(51,48,42,0.14);
+
+  /* Procedural paper grain. Apply as an overlay layer, not a background:
+     position:absolute; inset:0; background-image:var(--grain);
+     opacity:var(--grain-opacity); mix-blend-mode:var(--grain-blend). */
+  --grain: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='180' height='180'%3E%3Cfilter id='n'%3E%3CfeTurbulence type='fractalNoise' baseFrequency='0.85' numOctaves='4' stitchTiles='stitch'/%3E%3CfeColorMatrix type='saturate' values='0'/%3E%3C/filter%3E%3Crect width='180' height='180' filter='url(%23n)'/%3E%3C/svg%3E"); /* @kind other */
+  --grain-opacity: 0.32; /* @kind other */
+  --grain-blend: multiply; /* @kind other */
+
+  /* Specimen scale — fractions of the glyph or slide height. */
+  --specimen-piece: 0.24; /* @kind other */
+  --specimen-scatter-opacity: 0.15; /* @kind other */
+  --specimen-rotate-max: 18deg; /* @kind other */
+}

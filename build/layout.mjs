@@ -3,6 +3,7 @@
    im Browser läuft kein Renderer, nur Progressive Enhancement. */
 
 import { esc } from './inline.mjs';
+import { ICONS } from './icons.mjs';
 
 export function layout(page, site) {
   const root = '../'.repeat(page.depth || 0) || './';
@@ -23,6 +24,10 @@ export function layout(page, site) {
 <meta property="og:site_name" content="${esc(site.title)}">
 <link rel="canonical" href="${esc(page.canonical || '')}">
 <link rel="icon" href="${root}assets/img/favicon.svg" type="image/svg+xml">
+<link rel="preload" href="${root}assets/fonts/instrument-latin.woff2" as="font" type="font/woff2" crossorigin>
+<link rel="preload" href="${root}assets/fonts/bricolage-latin.woff2" as="font" type="font/woff2" crossorigin>
+<link rel="stylesheet" href="${css('fonts.css')}">
+<link rel="stylesheet" href="${css('ds-tokens.css')}">
 <link rel="stylesheet" href="${css('tokens.css')}">
 <link rel="stylesheet" href="${css('base.css')}">
 <link rel="stylesheet" href="${css('components.css')}">
@@ -100,13 +105,13 @@ function header(page, site, root) {
 
     <div class="site-header__actions">
       <button class="icon-btn" type="button" data-open-search aria-label="Suche öffnen" title="Suchen (S)">
-        ${icon('search')}
+        ${icon('search', { size: 20 })}
       </button>
       <button class="icon-btn" type="button" data-open-settings aria-label="Darstellung und Einstellungen" title="Darstellung">
-        ${icon('sliders')}
+        ${icon('settings', { size: 20 })}
       </button>
       <button class="icon-btn icon-btn--menu" type="button" data-open-menu aria-label="Menü öffnen" aria-expanded="false">
-        ${icon('menu')}
+        ${icon('menu', { size: 20 })}
       </button>
     </div>
   </div>
@@ -167,9 +172,9 @@ function searchOverlay() {
   <div class="overlay__backdrop" data-close-search></div>
   <div class="overlay__panel search" role="dialog" aria-modal="true" aria-label="Suche">
     <div class="search__field">
-      ${icon('search')}
+      ${icon('search', { size: 20 })}
       <input type="search" class="search__input" data-search-input placeholder="Wonach suchst du? z. B. Schlaf, Trotzphase, Beikost" autocomplete="off" spellcheck="false">
-      <button class="icon-btn" type="button" data-close-search aria-label="Suche schließen">${icon('close')}</button>
+      <button class="icon-btn" type="button" data-close-search aria-label="Suche schließen">${icon('close', { size: 20 })}</button>
     </div>
     <div class="search__filters" data-search-filters></div>
     <div class="search__results" data-search-results>
@@ -186,7 +191,7 @@ function settingsPanel() {
   <div class="overlay__panel settings" role="dialog" aria-modal="true" aria-label="Darstellung">
     <div class="settings__head">
       <h2>Darstellung</h2>
-      <button class="icon-btn" type="button" data-close-settings aria-label="Schließen">${icon('close')}</button>
+      <button class="icon-btn" type="button" data-close-settings aria-label="Schließen">${icon('close', { size: 20 })}</button>
     </div>
 
     <fieldset class="settings__group">
@@ -230,17 +235,34 @@ function settingsPanel() {
 </div>`;
 }
 
-/* Inline-SVG-Icons: keine Icon-Font, keine externen Requests. */
-export function icon(name, cls = '') {
-  const paths = {
-    search: '<circle cx="11" cy="11" r="7"/><path d="m20 20-3.5-3.5"/>',
-    close: '<path d="M6 6l12 12M18 6L6 18"/>',
-    menu: '<path d="M4 7h16M4 12h16M4 17h16"/>',
-    sliders: '<path d="M4 8h10M18 8h2M4 16h4M12 16h8"/><circle cx="16" cy="8" r="2"/><circle cx="10" cy="16" r="2"/>',
-    arrow: '<path d="M5 12h14M13 6l6 6-6 6"/>',
-    clock: '<circle cx="12" cy="12" r="9"/><path d="M12 7v5l3 2"/>',
-    book: '<path d="M4 5a2 2 0 0 1 2-2h12v18H6a2 2 0 0 1-2-2z"/><path d="M8 3v18"/>',
-    alert: '<path d="M12 4 2.5 20h19z"/><path d="M12 10v4M12 17h.01"/>',
-  };
-  return `<svg class="icon ${cls}" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">${paths[name] || ''}</svg>`;
+/* Icons des Designsystems, inline eingesetzt.
+   24px-Raster, Strichstärke nach Größe: 16 → 1.5, 20/24 → 1.75, 32/48 → 2.
+   Immer currentColor, nie gefüllt, nie mit einer zweiten Icon-Familie gemischt. */
+export function icon(name, opts = {}) {
+  const body = ICONS[name];
+  if (!body) return '';
+  const size = opts.size || 24;
+  const stroke = size <= 16 ? 1.5 : size >= 32 ? 2 : 1.75;
+  const cls = ['icon', opts.cls].filter(Boolean).join(' ');
+  return `<svg class="${cls}" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="${stroke}" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true" focusable="false">${body}</svg>`;
 }
+
+/* Zuordnung Themenfeld → Icon aus dem 73er-Satz. */
+export const TOPIC_ICONS = {
+  bindung: 'users',
+  schlaf: 'cloud',
+  ernaehrung: 'leaf',
+  entwicklung: 'trend-up',
+  sprache: 'message',
+  emotionen: 'sparkle',
+  erziehung: 'compass',
+  gesundheit: 'shield',
+  spiel: 'star',
+  medien: 'presentation',
+  familie: 'network',
+  eltern: 'sun',
+  betreuung: 'graduation-cap',
+  sicherheit: 'lock',
+  'besondere-situationen': 'flag',
+  forschung: 'lightbulb',
+};

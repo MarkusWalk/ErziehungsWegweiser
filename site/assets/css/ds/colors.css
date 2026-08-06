@@ -1,0 +1,135 @@
+:root {
+  /* ============================================================
+     ITM 2627 — Color
+     Base hues sampled from trends-2026-slide-master.pptx; ramps
+     extended in OKLCH-even steps so tints/shades stay harmonic.
+     ============================================================ */
+
+  /* ---- Neutral / ink ---- */
+  --ink-900: #1A1A1A;
+  --ink-800: #333333;
+  --ink-700: #4D4D4D;
+  --ink-600: #666666;
+  --ink-500: #808080;
+  --ink-400: #999999;
+  --ink-300: #C4C4C4;
+  --ink-200: #E0E0E0;
+  --ink-100: #EFEFEF;
+  --ink-050: #F7F7F7;
+  --ink-000: #FFFFFF;
+
+  /* ---- Coral — primary accent ---- */
+  --coral-700: #C64B2E;
+  --coral-600: #E9603F;
+  --coral-500: #FF7A59;  /* brand primary */
+  --coral-400: #FF9678;
+  --coral-300: #FFB6A0;
+  --coral-200: #FFD2C4;
+  --coral-100: #FFE4DA;
+  --coral-050: #FFF3EF;
+
+  /* ---- Violet — secondary accent ---- */
+  --violet-700: #52447A;
+  --violet-600: #6D5B97;
+  --violet-500: #8B7FFF;
+  --violet-400: #ADA4FF;
+  --violet-300: #C6C0FF;
+  --violet-200: #DCD8FF;
+  --violet-100: #E9E6FF;
+  --violet-050: #F5F3FF;
+
+  /* ---- Sky — tertiary accent ---- */
+  --sky-700: #1B6FB5;
+  --sky-600: #2E8ED8;
+  --sky-500: #4FACFE;
+  --sky-400: #7DC4FE;
+  --sky-300: #9AD3FF;
+  --sky-200: #C3E5FF;
+  --sky-100: #E2F2FF;
+
+  /* ---- Cream — warm surface family (the "nature" side of the palette) ---- */
+  --cream-300: #EDE2C8;
+  --cream-200: #F4EDDC;
+  --cream-100: #FBF7EC;
+  --cream-050: #FDFBF5;
+
+  /* ---- Moss — the one true green; nature motif, charts, success ---- */
+  --moss-700: #226B4C;
+  --moss-600: #2E8B5F;
+  --moss-500: #46A97A;
+  --moss-300: #98D3B5;
+  --moss-100: #E1F3EA;
+
+  /* ---- Amber — warning / highlight ---- */
+  --amber-700: #A96A12;
+  --amber-600: #D08A1E;
+  --amber-500: #E8A33D;
+  --amber-300: #F5CE8C;
+  --amber-100: #FCF0DA;
+
+  /* ---- Deep navy — retained for high-contrast panels ---- */
+  --navy-950: #0A0A1A;
+  --navy-900: #1A1A2E;
+  --navy-800: #2B2B42;
+
+  /* ============ Semantic aliases ============ */
+  --text-primary: var(--ink-900);
+  --text-secondary: var(--ink-700);
+  --text-muted: var(--ink-600);
+  --text-faint: var(--ink-400);
+  --text-on-dark: var(--ink-000);
+  --text-on-accent: var(--ink-000);
+  --text-accent: var(--coral-600);
+
+  --surface-page: #F5F5F5;
+  --surface-card: var(--ink-000);
+  --surface-sunken: var(--ink-050);
+  --surface-warm: var(--cream-100);
+  --surface-warm-deep: var(--cream-200);
+  --surface-dark: var(--navy-950);
+  --surface-dark-alt: var(--navy-900);
+
+  --accent-primary: var(--coral-500);
+  --accent-primary-hover: var(--coral-600);
+  --accent-primary-active: var(--coral-700);
+  --accent-primary-soft: var(--coral-100);
+  --accent-secondary: var(--violet-500);
+  --accent-secondary-soft: var(--violet-100);
+  --accent-tertiary: var(--sky-500);
+  --accent-tertiary-soft: var(--sky-100);
+
+  /* ---- Status ---- */
+  --status-success: var(--moss-600);
+  --status-success-soft: var(--moss-100);
+  --status-warning: var(--amber-600);
+  --status-warning-soft: var(--amber-100);
+  --status-danger: #D6453D;
+  --status-danger-soft: #FDE7E5;
+  --status-info: var(--sky-600);
+  --status-info-soft: var(--sky-100);
+
+  /* ---- Lines ---- */
+  --border-subtle: #E4E4E4;
+  --border-strong: #D0D0D0;
+  --border-warm: #EBE2CC;
+  --border-accent: var(--coral-500);
+
+  /* ---- Interaction ---- */
+  --state-hover-tint: rgba(26, 26, 26, 0.04);
+  --state-active-tint: rgba(26, 26, 26, 0.08);
+  --state-disabled-opacity: 0.42; /* @kind other */
+  --focus-ring-color: var(--coral-500);
+  --focus-ring-width: 2px;
+  --focus-ring-offset: 2px;
+
+  /* ---- Data visualisation — ordered for max hue separation ---- */
+  --chart-1: var(--coral-500);
+  --chart-2: var(--violet-500);
+  --chart-3: var(--moss-500);
+  --chart-4: var(--sky-500);
+  --chart-5: var(--amber-500);
+  --chart-6: var(--violet-700);
+
+  --link-color: var(--coral-600);
+  --link-color-hover: var(--coral-500);
+}

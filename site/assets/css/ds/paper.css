@@ -1,0 +1,31 @@
+:root {
+  /* ============================================================
+     ITM 2627 — Paper grounds
+     The botanical half of the system. Specimen cutouts are period
+     artwork on aged paper; they need a warm, low-chroma ground to
+     sit on. Clean slides keep --surface-page / --surface-card.
+     Never put a specimen on white.
+     ============================================================ */
+
+  --paper-cream: #F2E9D5;
+  --paper-sage: #DEDFD2;
+  --paper-tan: #E7D3BF;
+
+  /* Ink for text on paper grounds — warmer and softer than --ink-900,
+     which reads as a printing error against aged stock. */
+  --paper-ink: #33302A;
+  --paper-ink-muted: #6B6357;
+  --paper-rule: rgba(51,48,42,0.14);
+
+  /* Procedural paper grain. Apply as an overlay layer, not a background:
+     position:absolute; inset:0; background-image:var(--grain);
+     opacity:var(--grain-opacity); mix-blend-mode:var(--grain-blend). */
+  --grain: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='180' height='180'%3E%3Cfilter id='n'%3E%3CfeTurbulence type='fractalNoise' baseFrequency='0.85' numOctaves='4' stitchTiles='stitch'/%3E%3CfeColorMatrix type='saturate' values='0'/%3E%3C/filter%3E%3Crect width='180' height='180' filter='url(%23n)'/%3E%3C/svg%3E"); /* @kind other */
+  --grain-opacity: 0.32; /* @kind other */
+  --grain-blend: multiply; /* @kind other */
+
+  /* Specimen scale — fractions of the glyph or slide height. */
+  --specimen-piece: 0.24; /* @kind other */
+  --specimen-scatter-opacity: 0.15; /* @kind other */
+  --specimen-rotate-max: 18deg; /* @kind other */
+}

@@ -1,0 +1,37 @@
+/* Icons aus dem Designsystem (assets/icons/icons.svg).
+   Erzeugt von build/extract-icons.mjs – nicht von Hand bearbeiten.
+   24px-Raster, 1.75px Strich, runde Enden, keine Fuellungen. */
+
+export const ICONS = {
+  "search": "<circle cx=\"11\" cy=\"11\" r=\"6\"></circle><path d=\"M20 20l-4.6-4.6\"></path>",
+  "close": "<path d=\"M6 6l12 12\"></path><path d=\"M18 6 6 18\"></path>",
+  "menu": "<path d=\"M4 7h16\"></path><path d=\"M4 12h16\"></path><path d=\"M4 17h16\"></path>",
+  "settings": "<path d=\"M4 8h9\"></path><path d=\"M17 8h3\"></path><path d=\"M4 16h3\"></path><path d=\"M11 16h9\"></path><circle cx=\"15\" cy=\"8\" r=\"2.2\"></circle><circle cx=\"9\" cy=\"16\" r=\"2.2\"></circle>",
+  "arrow-right": "<path d=\"M4 12h15\"></path><path d=\"M13 6l6 6-6 6\"></path>",
+  "arrow-down": "<path d=\"M12 4v15\"></path><path d=\"M6 13l6 6 6-6\"></path>",
+  "clock": "<circle cx=\"12\" cy=\"12\" r=\"8.5\"></circle><path d=\"M12 7v5.3l3.4 2\"></path>",
+  "book": "<path d=\"M12 7c-1.9-1.6-4.3-2.3-7-2.1v13c2.7-.2 5.1.5 7 2.1 1.9-1.6 4.3-2.3 7-2.1v-13c-2.7-.2-5.1.5-7 2.1z\"></path><path d=\"M12 7v13\"></path>",
+  "alert": "<path d=\"M12 4 21.2 19.8H2.8z\"></path><path d=\"M12 10v4.4\"></path><path d=\"M12 17.3v.4\"></path>",
+  "check-circle": "<circle cx=\"12\" cy=\"12\" r=\"8.5\"></circle><path d=\"M8 12.3l2.8 2.8 5.4-5.6\"></path>",
+  "chevron-down": "<path d=\"M6 9l6 6 6-6\"></path>",
+  "external-link": "<path d=\"M14 4h6v6\"></path><path d=\"M20 4l-8.5 8.5\"></path><path d=\"M18 13.5V19a1 1 0 0 1-1 1H5a1 1 0 0 1-1-1V7a1 1 0 0 1 1-1h5.5\"></path>",
+  "sparkle": "<path d=\"M11 3l1.8 4.9L17.7 9.7l-4.9 1.8L11 16.4 9.2 11.5 4.3 9.7l4.9-1.8z\"></path><path d=\"M18 15l.8 2.2 2.2.8-2.2.8-.8 2.2-.8-2.2-2.2-.8 2.2-.8z\"></path>",
+  "sprout": "<path d=\"M12 21.2v-7.6\"></path><path d=\"M12 13.6C12 9.4 9 6.6 4.2 6.6c-.1 4.7 3 7 7.8 7z\"></path><path d=\"M12 13.6c0-3.6 2.6-6 6.7-6.4.1 4-2.6 6.4-6.7 6.4z\"></path>",
+  "users": "<circle cx=\"9\" cy=\"8\" r=\"3.5\"></circle><path d=\"M2.5 20c0-3.6 2.9-6 6.5-6s6.5 2.4 6.5 6\"></path><path d=\"M16.2 5.3a3.5 3.5 0 0 1 0 5.4\"></path><path d=\"M17.8 14.4c2 .8 3.7 2.5 3.7 5.6\"></path>",
+  "cloud": "<path d=\"M7.5 19a4.5 4.5 0 0 1-.6-9A6 6 0 0 1 18.4 11 4 4 0 0 1 17.5 19z\"></path>",
+  "leaf": "<path d=\"M4 20C4 10.6 9.8 4.6 20.5 3.5 20.5 14 14.4 19.8 4 20z\"></path><path d=\"M4.5 19.5C8.4 13.6 11.6 10.9 16 8.5\"></path>",
+  "trend-up": "<path d=\"M3 17l6-6 4 4 8-8\"></path><path d=\"M15 7h6v6\"></path>",
+  "message": "<path d=\"M20.5 11.8a7.6 7.6 0 0 1-11.1 6.8L4 20.2l1.4-4.5a7.6 7.6 0 1 1 15.1-3.9z\"></path>",
+  "compass": "<circle cx=\"12\" cy=\"12\" r=\"8.5\"></circle><path d=\"M15.6 8.4 13.5 13.5 8.4 15.6 10.5 10.5z\"></path>",
+  "shield": "<path d=\"M12 3l7.5 3v5.5c0 4.6-3.1 8.3-7.5 9.5-4.4-1.2-7.5-4.9-7.5-9.5V6z\"></path>",
+  "star": "<path d=\"M12 3.5l2.6 5.7 6.2.7-4.6 4.2 1.2 6.1L12 17.2l-5.4 3 1.2-6.1L3.2 9.9l6.2-.7z\"></path>",
+  "presentation": "<path d=\"M3 4h18\"></path><path d=\"M4.7 4v9.5a1.5 1.5 0 0 0 1.5 1.5h11.6a1.5 1.5 0 0 0 1.5-1.5V4\"></path><path d=\"M12 15v3\"></path><path d=\"M8.5 21 12 18l3.5 3\"></path>",
+  "network": "<circle cx=\"12\" cy=\"5\" r=\"2.5\"></circle><circle cx=\"5\" cy=\"19\" r=\"2.5\"></circle><circle cx=\"19\" cy=\"19\" r=\"2.5\"></circle><path d=\"M11 7.3 6.2 16.6\"></path><path d=\"M13 7.3l4.8 9.3\"></path><path d=\"M7.5 19h9\"></path>",
+  "sun": "<circle cx=\"12\" cy=\"12\" r=\"4\"></circle><path d=\"M12 2v2.6M12 19.4V22M2 12h2.6M19.4 12H22M4.9 4.9l1.9 1.9M17.2 17.2l1.9 1.9M19.1 4.9l-1.9 1.9M6.8 17.2l-1.9 1.9\"></path>",
+  "graduation-cap": "<path d=\"M12 4 22 9l-10 5L2 9z\"></path><path d=\"M6 11.3V16c0 1.9 2.7 3.3 6 3.3s6-1.4 6-3.3v-4.7\"></path>",
+  "lock": "<rect x=\"4.5\" y=\"10.5\" width=\"15\" height=\"9.5\" rx=\"2.5\"></rect><path d=\"M8 10.5v-3a4 4 0 0 1 8 0v3\"></path>",
+  "flag": "<path d=\"M6 21.5V3\"></path><path d=\"M6 4h11.5l-2.3 4.2L17.5 12.5H6\"></path>",
+  "lightbulb": "<path d=\"M12 3.2a6.2 6.2 0 0 0-3.5 11.3v2.3h7V14.5A6.2 6.2 0 0 0 12 3.2z\"></path><path d=\"M10 19.8h4\"></path>",
+  "info": "<circle cx=\"12\" cy=\"12\" r=\"8.5\"></circle><path d=\"M12 11v5.2\"></path><path d=\"M12 7.6v.5\"></path>",
+  "help": "<circle cx=\"12\" cy=\"12\" r=\"8.5\"></circle><path d=\"M9.6 9.6a2.5 2.5 0 1 1 3.3 2.4c-.6.2-.9.8-.9 1.5v.4\"></path><path d=\"M12 16.6v.4\"></path>",
+};

@@ -55,7 +55,7 @@ a:hover { color: var(--c-accent); }
 :focus-visible {
   outline: 2px solid var(--c-accent);
   outline-offset: 3px;
-  border-radius: var(--radius-sm);
+  border-radius: var(--r-sm);
 }
 
 img, svg, video { max-width: 100%; height: auto; display: block; }
@@ -72,12 +72,12 @@ code {
   font-size: 0.9em;
   background: var(--c-bg-sunk);
   padding: 0.12em 0.35em;
-  border-radius: var(--radius-sm);
+  border-radius: var(--r-sm);
 }
 
 hr {
   border: 0;
-  border-top: var(--border);
+  border-top: var(--rule);
   margin: var(--sp-7) 0;
 }
 
@@ -104,11 +104,11 @@ hr {
   position: absolute;
   left: -9999px;
   top: 0;
-  z-index: var(--z-modal);
+  z-index: var(--layer-modal);
   background: var(--c-accent);
   color: var(--c-accent-ink);
   padding: var(--sp-3) var(--sp-5);
-  border-radius: 0 0 var(--radius-md) 0;
+  border-radius: 0 0 var(--r-md) 0;
 }
 
 .skip-link:focus { left: 0; }

@@ -10,7 +10,7 @@ import path from 'node:path';
 import { fileURLToPath } from 'node:url';
 import { esc, inline, plain } from './inline.mjs';
 import { renderBlocks } from './blocks.mjs';
-import { layout, icon } from './layout.mjs';
+import { layout, icon, TOPIC_ICONS } from './layout.mjs';
 
 const ROOT = path.resolve(path.dirname(fileURLToPath(import.meta.url)), '..');
 const CONTENT = path.join(ROOT, 'content');
@@ -43,6 +43,7 @@ log(`  ${articles.length} Artikel · ${phases.length} Altersphasen · ${topics.l
 resetDir(OUT);
 copyDir(path.join(SITE, 'assets'), path.join(OUT, 'assets'));
 write('.nojekyll', '');
+bundleDesignTokens();
 
 /* ================================================================
    Seiten erzeugen
@@ -79,12 +80,17 @@ function buildHome() {
   const body = `
 <section class="hero">
   <div class="hero__scene" data-scene="hero" aria-hidden="true"></div>
+  ${specimens([
+    { file: 'bloom-05', style: 'bottom:-10%;right:2%;width:15rem;transform:rotate(9deg)' },
+    { file: 'wing-07', style: 'top:9%;right:30%;width:8rem;transform:rotate(-6deg)' },
+    { file: 'leaf-06', style: 'top:-4%;right:16%;width:10rem;transform:rotate(-14deg)' },
+  ])}
   <div class="hero__inner">
     <p class="hero__eyebrow">Kompendium für die ersten Jahre</p>
     <h1 class="hero__title">${esc(site.tagline)}</h1>
     <p class="hero__lead">${esc(site.description)}</p>
     <div class="hero__actions">
-      <a class="btn btn--primary" href="alter/">Nach Alter einsteigen ${icon('arrow')}</a>
+      <a class="btn btn--primary" href="alter/">Nach Alter einsteigen ${icon('arrow-right', { size: 20 })}</a>
       <a class="btn btn--ghost" href="themen/">Themen durchstöbern</a>
     </div>
     <dl class="hero__stats">
@@ -157,7 +163,7 @@ function buildHome() {
         <p>Es gibt selten den einen richtigen Weg. Wir zeigen Spielräume statt Vorschriften.</p>
       </div>
     </div>
-    <p class="band__more"><a class="link-arrow" href="methodik.html">Methodik im Detail ${icon('arrow')}</a></p>
+    <p class="band__more"><a class="link-arrow" href="methodik.html">Methodik im Detail ${icon('arrow-right', { size: 20 })}</a></p>
   </div>
 </section>`;
 
@@ -372,7 +378,7 @@ function buildArticlePage(article) {
       ${article.subtitle ? `<p class="article__subtitle">${inline(article.subtitle)}</p>` : ''}
 
       <div class="article__meta">
-        <span class="meta-item">${icon('clock')} ${article.readingTime || estimateReadingTime(article)} Min. Lesezeit</span>
+        <span class="meta-item">${icon('clock', { size: 16 })} ${article.readingTime || estimateReadingTime(article)} Min. Lesezeit</span>
         ${article.updated ? `<span class="meta-item">Stand: ${esc(formatDate(article.updated))}</span>` : ''}
         <span class="meta-item">${(article.sources || []).length} Quellen</span>
       </div>
@@ -658,6 +664,17 @@ function pageHead(title, subtitle, crumbs, root, opts = {}) {
 </header>`;
 }
 
+/* Botanische Spezimen aus dem Designsystem: gedruckte Naturkunde-
+   Ausschnitte als stille Hintergrundgeometrie. Rein dekorativ, deshalb
+   aria-hidden und lazy geladen. */
+function specimens(items, root = '') {
+  return items
+    .map(
+      (item) => `<img class="specimen" src="${root}assets/botanical/${esc(item.file)}.webp" alt="" aria-hidden="true" loading="lazy" decoding="async" style="${esc(item.style)}">`,
+    )
+    .join('\n  ');
+}
+
 function phaseCard(phase, root = '') {
   const count = (byPhase.get(phase.id) || []).length;
   return `
@@ -672,7 +689,8 @@ function phaseCard(phase, root = '') {
 function topicCard(topic, root = '') {
   const count = (byTopic.get(topic.id) || []).length;
   return `
-<a class="topic-card" href="${root}themen/${esc(topic.id)}.html" data-icon="${esc(topic.icon)}">
+<a class="topic-card" href="${root}themen/${esc(topic.id)}.html">
+  <span class="topic-card__icon" aria-hidden="true">${icon(TOPIC_ICONS[topic.id] || 'sparkle', { size: 24 })}</span>
   <h3 class="topic-card__name">${esc(topic.name)}</h3>
   <p class="topic-card__blurb">${esc(topic.blurb)}</p>
   <span class="topic-card__count">${count}</span>
@@ -822,4 +840,27 @@ function resetDir(dir) {
 function copyDir(from, to) {
   if (!fs.existsSync(from)) return;
   fs.cpSync(from, to, { recursive: true });
+}
+
+/* Die Token-Dateien des Designsystems liegen einzeln unter
+   site/assets/css/ds/ – so bleiben sie gegen die Quelle abgleichbar.
+   Ausgeliefert werden sie als eine Datei, damit die Seite nicht acht
+   Stylesheets nacheinander laden muss. */
+function bundleDesignTokens() {
+  const dir = path.join(SITE, 'assets', 'css', 'ds');
+  if (!fs.existsSync(dir)) {
+    warn('Design-Tokens fehlen: site/assets/css/ds/');
+    return;
+  }
+  const order = ['colors', 'typography', 'spacing', 'elevation', 'motion', 'layout', 'effects', 'paper'];
+  const parts = order
+    .map((name) => path.join(dir, `${name}.css`))
+    .filter((file) => fs.existsSync(file))
+    .map((file) => `/* ---- ${path.basename(file)} ---- */\n${fs.readFileSync(file, 'utf8')}`);
+
+  write(
+    'assets/css/ds-tokens.css',
+    `/* Design-Tokens, aus site/assets/css/ds/ zusammengeführt.\n   Nicht von Hand bearbeiten – Änderungen gehören in die Einzeldateien. */\n\n${parts.join('\n')}`,
+  );
+  fs.rmSync(path.join(OUT, 'assets', 'css', 'ds'), { recursive: true, force: true });
 }

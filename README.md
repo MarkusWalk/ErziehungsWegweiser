@@ -71,19 +71,52 @@ ausliefert.
 
 ## Design
 
-Die gesamte visuelle Gestaltung hängt an **`site/assets/css/tokens.css`**. Diese Datei
-enthält aktuell einen neutralen Platzhalter und wird durch die verbindliche
-Designrichtlinie ersetzt. Belegt werden müssen:
+Die Gestaltung folgt dem Designsystem im Ordner `Design System/`.
 
-- Farbpalette: Basis, Akzent, Semantik (Info/Tipp/Warnung/Gefahr), drei Evidenzfarben,
-  sechs Altersphasenfarben – jeweils mit Dark-Mode-Entsprechung
-- Schriftfamilien (Display + Body), Größenskala, Zeilenhöhen, Laufweiten
-- Abstandsskala, Satzbreite, Layoutbreiten
-- Radien, Rahmen, Schatten
-- Bewegungskurven und -dauern
+```
+Design System/tokens/*.css     Quelle der Wahrheit für alle Gestaltungswerte
+        ↓ kopiert nach
+site/assets/css/ds/*.css       unverändert, damit gegen die Quelle abgleichbar
+        ↓ gebündelt vom Generator
+docs/assets/css/ds-tokens.css  eine Datei, ein Request
+        ↓ gelesen von
+site/assets/css/tokens.css     Adapter: bildet die Projektnamen auf die Tokens ab
+        ↓ genutzt von
+base.css · components.css · layout.css · print.css
+```
 
-`base.css`, `components.css` und `layout.css` greifen ausschließlich über diese
-Variablen zu und müssen dafür nicht angefasst werden.
+**Der Adapter ist die einzige Stelle mit einer Zuordnung.** Ein Update des
+Designsystems bedeutet: `Design System/tokens/` nach `site/assets/css/ds/` kopieren,
+bauen, fertig. Die übrigen Stylesheets kennen nur Projektnamen (`--c-accent`,
+`--fs-md`, `--r-md`), nie einzelne Farbwerte.
+
+Übernommen wurden:
+
+- **Farbe** — Coral als einziger Akzent, warme Creme-Flächen, Moss/Amber/Violett
+  funktional für die Evidenz-Ampel, die sechs Altersphasen aus der Chart-Reihe
+- **Schrift** — Bricolage Grotesque (Display) und Instrument Sans (Text),
+  **selbst gehostet** unter `site/assets/fonts/`. Bewusst nicht über Google Fonts:
+  so entsteht beim Seitenaufruf keine Verbindung zu Dritten (DSGVO)
+- **Icons** — der 73-Icon-Satz; die benötigten werden von
+  `build/extract-icons.mjs` aus `assets/icons/icons.svg` nach `build/icons.mjs`
+  extrahiert und inline gesetzt (externe Sprite-Referenzen scheitern in Safari)
+- **Geometrie** — Kugeln mit farbgleichem Schein, Washes als Flächenverlauf,
+  botanische Spezimen als stille Hintergrundgeometrie
+- **Radius-Sprache** — Kreise für Abzeichen, 16/24 px für Container,
+  vollrund für Schaltflächen und Tags
+
+### Zwei Abweichungen, bewusst getroffen
+
+1. **Coral-700 statt Coral-500 für Text.** Das Designsystem hält fest, dass
+   Coral-500 niemals kleinen Text trägt (2,6:1). Da der Akzent hier Links und
+   Labels trägt, ist `--c-accent` auf Coral-700 gelegt (4,6:1). Coral-500 bleibt
+   als `--c-accent-fill` für Flächen.
+2. **Abgedunkelte Textvarianten der Phasen- und Statusfarben.** Die Fülltöne sind
+   für Text zu hell. Neben jedem steht deshalb ein `--c-*-ink` mit mindestens
+   4,5:1. Die Füllfarben selbst sind unverändert.
+
+Geprüft mit axe-core (WCAG 2 A/AA) auf Start-, Artikel-, Phasen-, Listen- und
+Notfallseite, hell und dunkel: 0 Verstöße.
 
 ---
 

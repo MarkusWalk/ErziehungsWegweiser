@@ -1,0 +1,22 @@
+:root {
+  /* Elevation — one soft neutral family. Shadows are always
+     low-contrast and warm-neutral; never black at high alpha. */
+  --elevation-0: none;
+  --elevation-1: 0 1px 2px rgba(26,26,26,0.05), 0 1px 1px rgba(26,26,26,0.03);
+  --elevation-2: 0 2px 10px rgba(26,26,26,0.06), 0 1px 2px rgba(26,26,26,0.04);
+  --elevation-3: 0 6px 20px rgba(26,26,26,0.09), 0 2px 4px rgba(26,26,26,0.05);
+  --elevation-4: 0 16px 40px rgba(26,26,26,0.12), 0 4px 8px rgba(26,26,26,0.06);
+  --elevation-inset: inset 0 1px 2px rgba(26,26,26,0.06);
+
+  /* Legacy aliases */
+  --shadow-card: var(--elevation-2);
+  --shadow-card-hover: var(--elevation-3);
+
+  /* Harmonic highlight — a colored glow matched to the shape's own hue.
+     The system's one deliberate lighting effect. Badges and orbs only. */
+  --glow-coral: 0 8px 40px rgba(255,122,89,0.40);
+  --glow-violet: 0 8px 40px rgba(139,127,255,0.45);
+  --glow-sky: 0 8px 40px rgba(79,172,254,0.40);
+  --glow-moss: 0 8px 40px rgba(70,169,122,0.38);
+  --glow-amber: 0 8px 40px rgba(232,163,61,0.40);
+}
