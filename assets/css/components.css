@@ -8,8 +8,8 @@
   align-items: center;
   gap: var(--sp-2);
   padding: var(--sp-3) var(--sp-5);
-  border: var(--border-strong);
-  border-radius: var(--radius-pill);
+  border: var(--rule-strong);
+  border-radius: var(--r-pill);
   background: transparent;
   text-decoration: none;
   font-size: var(--fs-sm);
@@ -23,6 +23,7 @@
   background: var(--c-accent);
   border-color: var(--c-accent);
   color: var(--c-accent-ink);
+  font-weight: var(--fw-semi);
 }
 
 .btn--primary:hover { background: var(--c-accent-hover); border-color: var(--c-accent-hover); color: var(--c-accent-ink); }
@@ -55,8 +56,8 @@
   align-items: center;
   gap: var(--sp-2);
   padding: var(--sp-1) var(--sp-3);
-  border: var(--border);
-  border-radius: var(--radius-pill);
+  border: var(--rule);
+  border-radius: var(--r-pill);
   background: var(--c-surface);
   font-size: var(--fs-xs);
   font-weight: var(--fw-medium);
@@ -106,8 +107,8 @@
   display: inline-flex;
   flex-direction: column;
   padding: var(--sp-3) var(--sp-5);
-  border: var(--border);
-  border-radius: var(--radius-md);
+  border: var(--rule);
+  border-radius: var(--r-md);
   background: var(--c-surface);
   text-decoration: none;
   font-weight: var(--fw-medium);
@@ -137,8 +138,8 @@
   gap: var(--sp-2);
   padding: var(--sp-5);
   background: var(--c-surface);
-  border: var(--border);
-  border-radius: var(--radius-md);
+  border: var(--rule);
+  border-radius: var(--r-md);
   text-decoration: none;
   box-shadow: var(--shadow-sm);
   border-top: 3px solid var(--card-color, var(--c-line-strong));
@@ -160,7 +161,7 @@
 
 .card__kicker {
   font-size: var(--fs-xs);
-  letter-spacing: var(--tracking-wide);
+  letter-spacing: var(--tracking-eyebrow);
   text-transform: uppercase;
   color: var(--c-ink-muted);
 }
@@ -192,9 +193,9 @@
   flex-direction: column;
   gap: var(--sp-2);
   padding: var(--sp-5);
-  border-radius: var(--radius-lg);
+  border-radius: var(--r-lg);
   background: var(--c-surface);
-  border: var(--border);
+  border: var(--rule);
   text-decoration: none;
   position: relative;
   overflow: hidden;
@@ -211,18 +212,18 @@
 
 .phase-card:hover { transform: translateY(-3px); color: inherit; }
 
-.phase-card--phase-1 { --phase-color: var(--c-phase-1); }
-.phase-card--phase-2 { --phase-color: var(--c-phase-2); }
-.phase-card--phase-3 { --phase-color: var(--c-phase-3); }
-.phase-card--phase-4 { --phase-color: var(--c-phase-4); }
-.phase-card--phase-5 { --phase-color: var(--c-phase-5); }
-.phase-card--phase-6 { --phase-color: var(--c-phase-6); }
+.phase-card--phase-1 { --phase-color: var(--c-phase-1); --phase-ink: var(--c-phase-1-ink); }
+.phase-card--phase-2 { --phase-color: var(--c-phase-2); --phase-ink: var(--c-phase-2-ink); }
+.phase-card--phase-3 { --phase-color: var(--c-phase-3); --phase-ink: var(--c-phase-3-ink); }
+.phase-card--phase-4 { --phase-color: var(--c-phase-4); --phase-ink: var(--c-phase-4-ink); }
+.phase-card--phase-5 { --phase-color: var(--c-phase-5); --phase-ink: var(--c-phase-5-ink); }
+.phase-card--phase-6 { --phase-color: var(--c-phase-6); --phase-ink: var(--c-phase-6-ink); }
 
 .phase-card__range {
   font-size: var(--fs-xs);
   text-transform: uppercase;
-  letter-spacing: var(--tracking-wide);
-  color: var(--phase-color, var(--c-ink-muted));
+  letter-spacing: var(--tracking-eyebrow);
+  color: var(--phase-ink, var(--c-ink-muted));
   font-weight: var(--fw-semi);
 }
 
@@ -253,8 +254,8 @@
   flex-direction: column;
   gap: var(--sp-2);
   padding: var(--sp-4) var(--sp-5);
-  border: var(--border);
-  border-radius: var(--radius-md);
+  border: var(--rule);
+  border-radius: var(--r-md);
   background: var(--c-surface);
   text-decoration: none;
   transition: border-color var(--dur-fast) var(--ease);
@@ -284,8 +285,8 @@
   gap: var(--sp-4);
   padding: var(--sp-5);
   background: var(--c-surface);
-  border: var(--border);
-  border-radius: var(--radius-md);
+  border: var(--rule);
+  border-radius: var(--r-md);
   margin-bottom: var(--sp-4);
 }
 
@@ -299,7 +300,7 @@
 .filterbar__label {
   font-size: var(--fs-xs);
   text-transform: uppercase;
-  letter-spacing: var(--tracking-wide);
+  letter-spacing: var(--tracking-eyebrow);
   color: var(--c-ink-muted);
   width: 4rem;
 }
@@ -315,18 +316,18 @@
   margin-top: calc(var(--sp-6) * -1);
   padding: var(--sp-6);
   background: var(--c-surface);
-  border: var(--border);
+  border: var(--rule);
   border-left: 4px solid var(--c-accent);
-  border-radius: var(--radius-md);
+  border-radius: var(--r-md);
   box-shadow: var(--shadow-md);
   position: relative;
-  z-index: var(--z-base);
+  z-index: var(--layer-base);
 }
 
 .summary__label {
   font-size: var(--fs-xs);
   text-transform: uppercase;
-  letter-spacing: var(--tracking-wide);
+  letter-spacing: var(--tracking-eyebrow);
   color: var(--c-accent);
   font-weight: var(--fw-semi);
   margin-bottom: var(--sp-3);
@@ -416,15 +417,17 @@
 
 .c-steps__num {
   flex: none;
-  width: 2rem;
-  height: 2rem;
+  width: 2.25rem;
+  height: 2.25rem;
   display: grid;
   place-items: center;
-  border-radius: 50%;
-  background: var(--c-accent-soft);
-  color: var(--c-accent);
-  font-weight: var(--fw-semi);
-  font-size: var(--fs-sm);
+  border-radius: var(--radius-circle);
+  background: var(--c-accent-fill);
+  color: var(--ink-000);
+  box-shadow: var(--glow-coral);
+  font-family: var(--font-display);
+  font-weight: var(--weight-bold);
+  font-size: var(--fs-base);
 }
 
 .c-steps__title { font-size: var(--fs-base); margin-bottom: var(--sp-1); }
@@ -433,7 +436,7 @@
 .c-callout {
   max-width: var(--measure);
   padding: var(--sp-5);
-  border-radius: var(--radius-md);
+  border-radius: var(--r-md);
   border-left: 4px solid var(--callout-color, var(--c-info));
   background: var(--callout-bg, var(--c-info-soft));
 }
@@ -460,8 +463,8 @@
 .c-evidence {
   max-width: var(--measure);
   padding: var(--sp-5);
-  border: var(--border);
-  border-radius: var(--radius-md);
+  border: var(--rule);
+  border-radius: var(--r-md);
   background: var(--c-surface);
 }
 
@@ -471,7 +474,7 @@
   gap: var(--sp-2);
   font-size: var(--fs-xs);
   text-transform: uppercase;
-  letter-spacing: var(--tracking-wide);
+  letter-spacing: var(--tracking-eyebrow);
   font-weight: var(--fw-semi);
   color: var(--ev-color);
   margin-bottom: var(--sp-3);
@@ -541,8 +544,8 @@
 
 .c-tablewrap__scroll {
   overflow-x: auto;
-  border: var(--border);
-  border-radius: var(--radius-md);
+  border: var(--rule);
+  border-radius: var(--r-md);
   background: var(--c-surface);
 }
 
@@ -555,7 +558,7 @@
 .c-table th, .c-table td {
   padding: var(--sp-3) var(--sp-4);
   text-align: left;
-  border-bottom: var(--border);
+  border-bottom: var(--rule);
   vertical-align: top;
 }
 
@@ -563,7 +566,7 @@
   background: var(--c-bg-sunk);
   font-size: var(--fs-xs);
   text-transform: uppercase;
-  letter-spacing: var(--tracking-wide);
+  letter-spacing: var(--tracking-eyebrow);
   color: var(--c-ink-muted);
   white-space: nowrap;
 }
@@ -583,8 +586,8 @@
   max-width: var(--measure);
   padding: var(--sp-5);
   background: var(--c-surface);
-  border: var(--border);
-  border-radius: var(--radius-md);
+  border: var(--rule);
+  border-radius: var(--r-md);
 }
 
 .c-checklist__title { font-size: var(--fs-md); margin-bottom: var(--sp-4); }
@@ -640,7 +643,7 @@
   display: inline-block;
   font-size: var(--fs-xs);
   font-weight: var(--fw-semi);
-  letter-spacing: var(--tracking-wide);
+  letter-spacing: var(--tracking-eyebrow);
   text-transform: uppercase;
   color: var(--c-accent);
   margin-bottom: var(--sp-1);
@@ -660,9 +663,9 @@
 
 .c-compare__col {
   padding: var(--sp-4);
-  border-radius: var(--radius-md);
+  border-radius: var(--r-md);
   background: var(--c-surface);
-  border: var(--border);
+  border: var(--rule);
   border-top: 3px solid var(--compare-color, var(--c-line-strong));
 }
 
@@ -685,8 +688,8 @@
 .c-faq__heading { font-size: var(--fs-md); margin-bottom: var(--sp-4); }
 
 .c-faq__item {
-  border: var(--border);
-  border-radius: var(--radius-md);
+  border: var(--rule);
+  border-radius: var(--r-md);
   background: var(--c-surface);
   margin-bottom: var(--sp-2);
   overflow: hidden;
@@ -732,8 +735,8 @@
 .c-figure__canvas {
   padding: var(--sp-5);
   background: var(--c-surface);
-  border: var(--border);
-  border-radius: var(--radius-md);
+  border: var(--rule);
+  border-radius: var(--r-md);
   overflow-x: auto;
 }
 
@@ -773,13 +776,14 @@
   stroke-linejoin: round;
 }
 
-/* Serienfarben – zyklisch über die Phasenpalette. */
-[style*="--i:0"] { --series: var(--c-phase-2); }
-[style*="--i:1"] { --series: var(--c-phase-5); }
-[style*="--i:2"] { --series: var(--c-phase-4); }
-[style*="--i:3"] { --series: var(--c-phase-3); }
-[style*="--i:4"] { --series: var(--c-phase-1); }
-[style*="--i:5"] { --series: var(--c-phase-6); }
+/* Serienfarben – die Chart-Reihe des Designsystems, in ihrer
+   Reihenfolge für maximale Farbtrennung. */
+[style*="--i:0"] { --series: var(--c-series-1); }
+[style*="--i:1"] { --series: var(--c-series-2); }
+[style*="--i:2"] { --series: var(--c-series-3); }
+[style*="--i:3"] { --series: var(--c-series-4); }
+[style*="--i:4"] { --series: var(--c-series-5); }
+[style*="--i:5"] { --series: var(--c-series-6); }
 
 .ch-grid line { stroke: var(--c-line); stroke-dasharray: 3 4; }
 
@@ -803,8 +807,8 @@
 .c-scene__stage {
   position: relative;
   aspect-ratio: 16 / 9;
-  border-radius: var(--radius-md);
-  border: var(--border);
+  border-radius: var(--r-md);
+  border: var(--rule);
   background: var(--c-bg-sunk);
   overflow: hidden;
 }
@@ -826,7 +830,7 @@
 .sources {
   margin-top: var(--sp-8);
   padding-top: var(--sp-6);
-  border-top: var(--border);
+  border-top: var(--rule);
 }
 
 .sources__title { font-size: var(--fs-lg); margin-bottom: var(--sp-5); }
@@ -848,7 +852,7 @@
   display: grid;
   place-items: center;
   border-radius: 50%;
-  border: var(--border);
+  border: var(--rule);
   font-size: var(--fs-xs);
   color: var(--c-ink-muted);
 }
@@ -884,7 +888,7 @@
   align-items: center;
   gap: var(--sp-3);
   padding: var(--sp-4) var(--sp-5);
-  border-bottom: var(--border);
+  border-bottom: var(--rule);
 }
 
 .search__field > .icon { color: var(--c-ink-muted); }
@@ -902,7 +906,7 @@
   flex-wrap: wrap;
   gap: var(--sp-2);
   padding: var(--sp-4) var(--sp-5);
-  border-bottom: var(--border);
+  border-bottom: var(--rule);
 }
 
 .search__filters:empty { display: none; }
@@ -923,7 +927,7 @@
 .search__hit {
   display: block;
   padding: var(--sp-4);
-  border-radius: var(--radius-md);
+  border-radius: var(--r-md);
   text-decoration: none;
 }
 
@@ -954,8 +958,8 @@
 /* ---------- Bedienelemente in den Einstellungen ---------- */
 .segmented {
   display: inline-flex;
-  border: var(--border);
-  border-radius: var(--radius-pill);
+  border: var(--rule);
+  border-radius: var(--r-pill);
   overflow: hidden;
   background: var(--c-bg-sunk);
 }
@@ -982,7 +986,7 @@
   flex: none;
   width: 2.75rem;
   height: 1.6rem;
-  border-radius: var(--radius-pill);
+  border-radius: var(--r-pill);
   background: var(--c-line-strong);
   position: relative;
   transition: background var(--dur-fast) var(--ease);
@@ -1010,7 +1014,116 @@
 
 .field input {
   padding: var(--sp-3);
-  border: var(--border);
-  border-radius: var(--radius-sm);
+  border: var(--rule);
+  border-radius: var(--r-sm);
   background: var(--c-surface);
+}
+
+/* ============================================================
+   DESIGNSYSTEM — Kugeln, Washes, Spezimen, Themen-Icons
+   Die dekorative Hälfte des Systems. Regeln, die hier gelten:
+   · Kugeln tragen einen farbgleichen Schein, Karten nie.
+   · Ein Wash pro Ansicht, niemals zwei konkurrierende Verläufe
+     im selben Blickfeld.
+   · Botanische Spezimen liegen nie auf Weiß, immer auf einem
+     warmen Grund, und bleiben so blass, dass Text lesbar bleibt.
+   ============================================================ */
+
+/* ---------- Kugel ---------- */
+.orb {
+  border-radius: var(--radius-circle);
+  display: block;
+  flex: none;
+}
+
+.orb--coral  { background: var(--orb-coral);  box-shadow: var(--glow-coral); }
+.orb--violet { background: var(--orb-violet); box-shadow: var(--glow-violet); }
+.orb--sky    { background: var(--orb-sky);    box-shadow: var(--glow-sky); }
+.orb--moss   { background: var(--orb-moss);   box-shadow: var(--glow-moss); }
+
+/* ---------- Wash-Flächen ---------- */
+.band--wash-cream { background: var(--wash-cream); }
+.band--wash-cool  { background: var(--wash-cool-pale); }
+
+:root[data-theme="dark"] .band--wash-cream,
+:root[data-theme="dark"] .band--wash-cool {
+  background: var(--c-bg-sunk);
+}
+
+/* Der Spektrumsverlauf erscheint nur als schmale Leiste, nie als Fläche. */
+.spectrum-rule {
+  height: 3px;
+  border: 0;
+  margin: 0;
+  background: var(--wash-spectrum);
+}
+
+/* ---------- Botanische Spezimen ---------- */
+.specimen {
+  position: absolute;
+  pointer-events: none;
+  user-select: none;
+  opacity: 0.11;
+  filter: saturate(0.8);
+}
+
+/* Unter 900px verschwindet die Dekoration: dort konkurriert sie
+   unweigerlich mit dem Text. */
+@media (max-width: 900px) {
+  .specimen { display: none; }
+}
+
+:root[data-theme="dark"] .specimen { opacity: 0.1; filter: saturate(0.6) brightness(1.1); }
+
+@media (prefers-reduced-motion: no-preference) {
+  .specimen { transition: opacity var(--duration-slower) var(--ease-out); }
+}
+
+/* ---------- Themen-Icons ---------- */
+.topic-card {
+  display: grid;
+  grid-template-columns: auto 1fr;
+  grid-template-areas: "icon name" "icon blurb";
+  column-gap: var(--sp-4);
+  row-gap: var(--sp-1);
+  align-items: start;
+}
+
+.topic-card__icon {
+  grid-area: icon;
+  display: grid;
+  place-items: center;
+  width: 2.5rem;
+  height: 2.5rem;
+  border-radius: var(--radius-circle);
+  background: var(--c-accent-faint);
+  color: var(--c-accent);
+  transition: background var(--duration-fast) var(--ease-standard);
+}
+
+.topic-card:hover .topic-card__icon {
+  background: var(--c-accent-soft);
+}
+
+.topic-card__name  { grid-area: name; align-self: center; }
+.topic-card__blurb { grid-area: blurb; }
+
+/* ---------- Abschnittslabel des Designsystems ---------- */
+.section-label {
+  display: inline-flex;
+  align-items: center;
+  gap: var(--sp-2);
+  font-size: var(--fs-sm);
+  font-weight: var(--fw-semi);
+  letter-spacing: var(--tracking-eyebrow);
+  text-transform: uppercase;
+  color: var(--c-accent);
+}
+
+.section-label::before {
+  content: "";
+  width: 1.75rem;
+  height: 2px;
+  border-radius: var(--radius-pill);
+  background: var(--c-accent-fill);
 }

@@ -95,51 +95,58 @@ function token(name, fallback) {
    Szene: Startseite – ruhig treibende Formen
    ================================================================ */
 registry.hero = (scene, camera, options, instance) => {
+  /* Kugeln in der Akzentreihenfolge des Designsystems. Die Beleuchtung
+     bildet die Kugel-Definition nach: ein weicher Hauptglanz oben links,
+     der Rest fällt zum Rand hin ab. */
   const palette = [
-    token('--c-phase-2', '#c4705a'),
-    token('--c-phase-3', '#c8963e'),
-    token('--c-phase-4', '#5b8c5a'),
-    token('--c-phase-5', '#3d7f97'),
-    token('--c-phase-1', '#8a6fa8'),
+    token('--coral-500', '#FF7A59'),
+    token('--violet-500', '#8B7FFF'),
+    token('--sky-500', '#4FACFE'),
+    token('--moss-500', '#46A97A'),
+    token('--amber-500', '#E8A33D'),
   ];
+
+  scene.add(new THREE.AmbientLight(0xffffff, 1.35));
+  const key = new THREE.DirectionalLight(0xffffff, 1.15);
+  key.position.set(-3, 4, 6);
+  scene.add(key);
 
   const group = new THREE.Group();
   scene.add(group);
 
   const blobs = [];
-  const count = 14;
+  const count = 9;
 
+  /* Die Kugeln bleiben in der rechten Bildhälfte. Die linke gehört dem
+     Text – Dekoration darf ihn nicht hinterlegen. */
   for (let i = 0; i < count; i++) {
-    const radius = 0.35 + Math.random() * 0.9;
-    const geometry = new THREE.IcosahedronGeometry(radius, 2);
-    const material = new THREE.MeshBasicMaterial({
+    const radius = 0.6 + Math.random() * 1.2;
+    const material = new THREE.MeshLambertMaterial({
       color: palette[i % palette.length],
       transparent: true,
-      opacity: 0.16 + Math.random() * 0.12,
+      opacity: 0.14 + Math.random() * 0.08,
     });
-    const mesh = new THREE.Mesh(geometry, material);
+    const mesh = new THREE.Mesh(new THREE.SphereGeometry(radius, 48, 32), material);
     mesh.position.set(
-      (Math.random() - 0.5) * 20,
+      2.5 + Math.random() * 9,
       (Math.random() - 0.5) * 9,
-      (Math.random() - 0.5) * 8 - 2,
+      (Math.random() - 0.5) * 8 - 3,
     );
     group.add(mesh);
     blobs.push({
       mesh,
-      speed: 0.08 + Math.random() * 0.16,
+      speed: 0.06 + Math.random() * 0.12,
       phase: Math.random() * Math.PI * 2,
-      drift: 0.2 + Math.random() * 0.4,
     });
   }
 
   return (time) => {
     for (const blob of blobs) {
-      blob.mesh.position.y += Math.sin(time * blob.speed + blob.phase) * 0.0025;
-      blob.mesh.rotation.x = time * blob.speed * 0.3;
-      blob.mesh.rotation.y = time * blob.speed * 0.22;
+      blob.mesh.position.y += Math.sin(time * blob.speed + blob.phase) * 0.0022;
+      blob.mesh.rotation.y = time * blob.speed * 0.18;
     }
-    group.position.x += (instance.pointer.x * 0.6 - group.position.x) * 0.02;
-    group.position.y += (instance.pointer.y * 0.35 - group.position.y) * 0.02;
+    group.position.x += (instance.pointer.x * 0.5 - group.position.x) * 0.02;
+    group.position.y += (instance.pointer.y * 0.3 - group.position.y) * 0.02;
   };
 };
 
@@ -149,8 +156,8 @@ registry.hero = (scene, camera, options, instance) => {
    später gezielt ausgedünnt wird.
    ================================================================ */
 registry.synapsen = (scene, camera, options, instance) => {
-  const nodeColor = token('--c-accent', '#b4533a');
-  const lineColor = token('--c-secondary', '#2f6b62');
+  const nodeColor = token('--coral-500', '#FF7A59');
+  const lineColor = token('--violet-500', '#8B7FFF');
   const count = options.nodes || 90;
 
   camera.position.set(0, 0, 9);
@@ -221,8 +228,8 @@ registry.schlafzyklus = (scene, camera, options) => {
   camera.position.set(0, 1.6, 9);
   camera.lookAt(0, 0, 0);
 
-  const deep = token('--c-phase-1', '#8a6fa8');
-  const light = token('--c-phase-3', '#c8963e');
+  const deep = token('--violet-600', '#6D5B97');
+  const light = token('--amber-500', '#E8A33D');
 
   const segments = 260;
   const geometry = new THREE.BufferGeometry();
@@ -265,8 +272,8 @@ registry.meilensteine = (scene, camera, options, instance) => {
   camera.lookAt(0, 0, 0);
 
   const marks = options.marks || 6;
-  const accent = token('--c-accent', '#b4533a');
-  const soft = token('--c-line-strong', '#cdbfad');
+  const accent = token('--coral-500', '#FF7A59');
+  const soft = token('--c-line-strong', '#DCD0B4');
 
   const curve = new THREE.CatmullRomCurve3([
     new THREE.Vector3(-7, -1.4, 0),
@@ -323,8 +330,8 @@ registry.meilensteine = (scene, camera, options, instance) => {
 registry.koregulation = (scene, camera) => {
   camera.position.set(0, 0, 9);
 
-  const warm = token('--c-accent', '#b4533a');
-  const cool = token('--c-secondary', '#2f6b62');
+  const warm = token('--coral-500', '#FF7A59');
+  const cool = token('--violet-500', '#8B7FFF');
 
   const makeRing = (color, radius) => {
     const geometry = new THREE.TorusGeometry(radius, 0.035, 12, 120);
