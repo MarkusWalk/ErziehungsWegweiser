@@ -1,0 +1,633 @@
+<!DOCTYPE html>
+<html lang="de" data-theme="auto" data-root="../">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>Erste Hilfe am Kind · Erziehungswegweiser</title>
+<meta name="description" content="Dieser Text ersetzt keinen Erste-Hilfe-Kurs am Kind – bitte buch einen, am besten noch in der Schwangerschaft und danach alle zwei bis drei Jahre. Was hier steht, ist die Grundlogik: Notruf 112 früh statt spät, bei Verschlucken erst Rückenschläge, bei fehlender Atmung fünf Beatmungen vor den Kompressionen, bei Verbrennung lauwarm kühlen statt eiskalt, bei Vergiftung niemals Erbrechen auslösen.">
+<meta name="color-scheme" content="light dark">
+<meta property="og:type" content="article">
+<meta property="og:title" content="Erste Hilfe am Kind">
+<meta property="og:description" content="Dieser Text ersetzt keinen Erste-Hilfe-Kurs am Kind – bitte buch einen, am besten noch in der Schwangerschaft und danach alle zwei bis drei Jahre. Was hier steht, ist die Grundlogik: Notruf 112 früh statt spät, bei Verschlucken erst Rückenschläge, bei fehlender Atmung fünf Beatmungen vor den Kompressionen, bei Verbrennung lauwarm kühlen statt eiskalt, bei Vergiftung niemals Erbrechen auslösen.">
+<meta property="og:site_name" content="Erziehungswegweiser">
+<link rel="canonical" href="">
+<link rel="icon" href="../assets/img/favicon.svg" type="image/svg+xml">
+<link rel="stylesheet" href="../assets/css/tokens.css">
+<link rel="stylesheet" href="../assets/css/base.css">
+<link rel="stylesheet" href="../assets/css/components.css">
+<link rel="stylesheet" href="../assets/css/layout.css">
+<script>
+  /* Theme, Lesemodus und Schriftgröße vor dem ersten Paint setzen,
+     damit kein Aufblitzen des falschen Modus entsteht. */
+  (function () {
+    try {
+      var s = JSON.parse(localStorage.getItem('ew:prefs') || '{}');
+      var r = document.documentElement;
+      var theme = s.theme || 'auto';
+      if (theme === 'auto') {
+        theme = matchMedia('(prefers-color-scheme: dark)').matches ? 'dark' : 'light';
+      }
+      r.setAttribute('data-theme', theme);
+      if (s.reading) r.setAttribute('data-reading', 'on');
+      if (s.textsize) r.setAttribute('data-textsize', s.textsize);
+    } catch (e) {}
+  })();
+</script>
+<script type="application/ld+json">{"@context":"https://schema.org","@type":"Article","headline":"Erste Hilfe am Kind","description":"Dieser Text ersetzt keinen Erste-Hilfe-Kurs am Kind – bitte buch einen, am besten noch in der Schwangerschaft und danach alle zwei bis drei Jahre. Was hier steht, ist die Grundlogik: Notruf 112 früh statt spät, bei Verschlucken erst Rückenschläge, bei fehlender Atmung fünf Beatmungen vor den Kompressionen, bei Verbrennung lauwarm kühlen statt eiskalt, bei Vergiftung niemals Erbrechen auslösen.","inLanguage":"de","dateModified":"2026-08-05","isAccessibleForFree":true,"publisher":{"@type":"Organization","name":"Erziehungswegweiser"}}</script>
+</head>
+<body class="page page--article" data-root="../">
+<a class="skip-link" href="#inhalt">Zum Inhalt springen</a>
+
+
+<header class="site-header" data-header>
+  <div class="site-header__inner">
+    <a class="brand" href="../index.html">
+      <span class="brand__mark" aria-hidden="true"></span>
+      <span class="brand__text">
+        <span class="brand__name">Erziehungswegweiser</span>
+        <span class="brand__tagline">Wissenschaftlich fundiert durch die ersten Jahre</span>
+      </span>
+    </a>
+
+    <nav class="site-nav" aria-label="Hauptnavigation">
+      <ul class="site-nav__list">
+        <li><a class="site-nav__link" href="../alter/">Nach Alter</a></li><li><a class="site-nav__link" href="../themen/">Nach Thema</a></li><li><a class="site-nav__link is-current" href="../artikel/" aria-current="page">Alle Artikel</a></li><li><a class="site-nav__link" href="../notfall.html">Notfall</a></li><li><a class="site-nav__link" href="../ueber.html">Über</a></li>
+      </ul>
+    </nav>
+
+    <div class="site-header__actions">
+      <button class="icon-btn" type="button" data-open-search aria-label="Suche öffnen" title="Suchen (S)">
+        <svg class="icon " viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><circle cx="11" cy="11" r="7"/><path d="m20 20-3.5-3.5"/></svg>
+      </button>
+      <button class="icon-btn" type="button" data-open-settings aria-label="Darstellung und Einstellungen" title="Darstellung">
+        <svg class="icon " viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M4 8h10M18 8h2M4 16h4M12 16h8"/><circle cx="16" cy="8" r="2"/><circle cx="10" cy="16" r="2"/></svg>
+      </button>
+      <button class="icon-btn icon-btn--menu" type="button" data-open-menu aria-label="Menü öffnen" aria-expanded="false">
+        <svg class="icon " viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M4 7h16M4 12h16M4 17h16"/></svg>
+      </button>
+    </div>
+  </div>
+  <div class="site-progress" data-progress aria-hidden="true"><span></span></div>
+</header>
+
+<main id="inhalt" class="main">
+
+<article class="article" data-article
+  data-phases="saeugling kleinkind kindergarten"
+  data-topics="sicherheit gesundheit">
+
+  <header class="article__header">
+    <div class="wrap wrap--narrow">
+      <nav class="breadcrumb" aria-label="Pfad">
+        <a href="../index.html">Start</a>
+        <span aria-hidden="true">/</span><a href="../themen/sicherheit.html">Sicherheit</a>
+      </nav>
+
+      <h1 class="article__title">Erste Hilfe am Kind</h1>
+      <p class="article__subtitle">Die Grundlogik der wichtigsten Notfälle – Verschlucken, Verbrennung, Sturz, Fieberkrampf, Vergiftung, Wiederbelebung. Zum Nachlesen, nicht zum Lernen: Handgriffe muss man üben.</p>
+
+      <div class="article__meta">
+        <span class="meta-item"><svg class="icon " viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><circle cx="12" cy="12" r="9"/><path d="M12 7v5l3 2"/></svg> 7 Min. Lesezeit</span>
+        <span class="meta-item">Stand: 5. August 2026</span>
+        <span class="meta-item">7 Quellen</span>
+      </div>
+
+      <div class="article__tags">
+        <a class="tag tag--phase-3" href="../alter/saeugling.html">Säugling</a><a class="tag tag--phase-4" href="../alter/kleinkind.html">Kleinkind</a><a class="tag tag--phase-5" href="../alter/kindergarten.html">Kindergartenalter</a>
+        <a class="tag" href="../themen/sicherheit.html">Sicherheit</a><a class="tag" href="../themen/gesundheit.html">Gesundheit &amp; Vorsorge</a>
+      </div>
+    </div>
+  </header>
+
+  
+<div class="wrap wrap--narrow">
+  <div class="summary">
+    <p class="summary__label">Das Wichtigste in Kürze</p>
+    <p class="summary__text">Dieser Text ersetzt keinen Erste-Hilfe-Kurs am Kind – bitte buch einen, am besten noch in der Schwangerschaft und danach alle zwei bis drei Jahre. Was hier steht, ist die Grundlogik: Notruf 112 früh statt spät, bei Verschlucken erst Rückenschläge, bei fehlender Atmung fünf Beatmungen vor den Kompressionen, bei Verbrennung lauwarm kühlen statt eiskalt, bei Vergiftung niemals Erbrechen auslösen.</p>
+    <ul class="summary__facts"><li>Ein Erste-Hilfe-Kurs am Kind dauert einen Tag und ist die einzige Maßnahme, die im Ernstfall wirklich trägt.</li><li>112 ist immer richtig, wenn du unsicher bist – ein Rückruf kostet nichts, Zögern kann alles kosten.</li><li>Bei Kindern beginnt die Wiederbelebung mit fünf Beatmungen, nicht mit Kompressionen.</li><li>Bei Verdacht auf Vergiftung: kein Erbrechen auslösen, keine Milch geben, Giftnotruf anrufen.</li><li>Nach jedem größeren Notfall gehört auch das eigene Erschrecken nachbesprochen.</li></ul>
+  </div>
+</div>
+
+  <div class="article__layout wrap">
+    
+<aside class="toc" aria-label="Inhaltsverzeichnis">
+  <p class="toc__title">Inhalt</p>
+  <ol class="toc__list">
+    <li><a href="#die-ersten-minuten" data-toc-link>Die ersten Minuten</a></li><li><a href="#verschlucken-und-ersticken" data-toc-link>Verschlucken und Ersticken</a></li><li><a href="#wiederbelebung-beim-kind" data-toc-link>Wiederbelebung beim Kind</a></li><li><a href="#verbrennung-sturz-fieberkrampf" data-toc-link>Verbrennung, Sturz, Fieberkrampf</a></li><li><a href="#vergiftung-und-veraetzung" data-toc-link>Vergiftung und Verätzung</a></li><li><a href="#haeufige-fragen" data-toc-link>Häufige Fragen</a></li>
+  </ol>
+</aside>
+    <div class="article__body">
+      
+<aside class="c-callout c-callout--danger" role="note">
+  <p class="c-callout__title">Dieser Artikel ersetzt keinen Kurs</p>
+  <div class="c-callout__body"><p>Erste Hilfe am Kind ist Handwerk. Man kann nicht lesen, wie fest man den Brustkorb eines Säuglings drückt – man muss es an einer Puppe gespürt haben. <strong>Buch einen Erste-Hilfe-Kurs am Kind</strong> bei DRK, Johannitern, Maltesern, ASB oder DLRG; er dauert in der Regel einen Tag, ist für Eltern, Großeltern und Babysitter gedacht und braucht keine Vorkenntnisse. Empfohlen wird eine Auffrischung alle zwei bis drei Jahre. Dieser Text ist das Nachschlagewerk davor und danach, nicht der Ersatz. <strong>Bei Lebensgefahr immer zuerst 112 wählen</strong> – Bewusstlosigkeit, keine normale Atmung, Krampf über 5 Minuten, starke Atemnot, blaue Lippen, schwere Blutung.</p></div>
+</aside>
+<p class="c-p c-p--lead">Die meisten Notfälle im Kinderalltag sind keine Reanimationen. Es sind verschluckte Erdnüsse, umgekippte Teetassen, Stürze vom Sofa, ein erster Fieberkrampf, ein leergetrunkenes Fläschchen Duftöl. Für all das gilt dieselbe Reihenfolge: erst du selbst ruhig werden, dann das Kind sichern, dann Hilfe holen. In dieser Reihenfolge, weil Panik die Handlungsfähigkeit kostet, die ein Kind in diesem Moment von dir braucht.</p>
+
+<section class="c-section" id="die-ersten-minuten">
+  <h2 class="c-section__title">
+    <a class="c-section__anchor" href="#die-ersten-minuten" aria-label="Direktlink zu diesem Abschnitt">#</a>
+    Die ersten Minuten
+  </h2>
+  
+<div class="c-timeline">
+  <h4 class="c-timeline__heading">Ablauf in jedem ernsten Notfall</h4>
+  <ol class="c-timeline__list">
+      <li class="c-timeline__item">
+        <span class="c-timeline__age">Sekunde 0</span>
+        <div class="c-timeline__body">
+          <h4 class="c-timeline__label">Gefahr beenden</h4>
+          <p>Heiße Flüssigkeit, Strom, Wasser, Straße: erst die Ursache wegnehmen, dann helfen. Dich selbst nicht in Gefahr bringen.</p>
+        </div>
+      </li>
+      <li class="c-timeline__item">
+        <span class="c-timeline__age">Sekunde 10</span>
+        <div class="c-timeline__body">
+          <h4 class="c-timeline__label">Ansprechen und anfassen</h4>
+          <p>Laut ansprechen, sanft an der Schulter rütteln (bei Säuglingen: Fußsohle reiben). Reagiert das Kind? Atmet es normal?</p>
+        </div>
+      </li>
+      <li class="c-timeline__item">
+        <span class="c-timeline__age">Sekunde 30</span>
+        <div class="c-timeline__body">
+          <h4 class="c-timeline__label">112 wählen</h4>
+          <p>Handy auf Lautsprecher legen, damit die Hände frei bleiben. Die Leitstelle sagt dir, was zu tun ist, und bleibt dran.</p>
+        </div>
+      </li>
+      <li class="c-timeline__item">
+        <span class="c-timeline__age">Minute 1</span>
+        <div class="c-timeline__body">
+          <h4 class="c-timeline__label">Maßnahmen beginnen</h4>
+          <p>Was nötig ist: beatmen und drücken, Rückenschläge, kühlen, stabile Seitenlage. Die Leitstelle leitet dich an.</p>
+        </div>
+      </li>
+      <li class="c-timeline__item">
+        <span class="c-timeline__age">Minute 5+</span>
+        <div class="c-timeline__body">
+          <h4 class="c-timeline__label">Dranbleiben</h4>
+          <p>Nicht aufhören, bis der Rettungsdienst übernimmt oder das Kind wieder normal atmet. Wärme halten, Kind ansprechen, nicht allein lassen.</p>
+        </div>
+      </li></ol>
+  <p class="c-caption">Reihenfolge nach den Leitlinien des European Resuscitation Council. Die Zeitangaben sind Orientierung, kein Countdown.</p>
+</div>
+
+<aside class="c-callout c-callout--tip" role="note">
+  <p class="c-callout__title">Was der Notruf hören will</p>
+  <div class="c-callout__body"><ul class="c-list c-list--bullet"><li>Wo? Genaue Adresse, Stockwerk, wie die Tür zu finden ist</li><li>Was ist passiert und wie alt ist das Kind?</li><li>Atmet es? Ist es ansprechbar?</li><li>Nicht auflegen – die Leitstelle beendet das Gespräch</li></ul></div>
+</aside>
+</section>
+
+<section class="c-section" id="verschlucken-und-ersticken">
+  <h2 class="c-section__title">
+    <a class="c-section__anchor" href="#verschlucken-und-ersticken" aria-label="Direktlink zu diesem Abschnitt">#</a>
+    Verschlucken und Ersticken
+  </h2>
+  <p class="c-p">Solange ein Kind kräftig hustet, ist der Husten die beste Hilfe: Ermutige es, beobachte es genau, greif nicht ein. Gefährlich wird es, wenn der Husten leise wird, das Kind nicht mehr einatmen oder sprechen kann, blass oder blau wird. Dann zählt jede Sekunde. Fingern nie blind im Mund herum – sichtbare Gegenstände darfst du vorsichtig herausnehmen, alles andere schiebst du tiefer.</p>
+
+<div class="c-steps">
+  <h4 class="c-steps__heading">Wenn der Husten nicht mehr wirkt</h4>
+  <ol class="c-steps__list">
+      <li class="c-steps__item">
+        <span class="c-steps__num" aria-hidden="true">1</span>
+        <div class="c-steps__body">
+          <h4 class="c-steps__title">112 rufen lassen</h4>
+          <p>Wenn jemand da ist: er ruft an, du machst weiter. Bist du allein, wähl selbst und stell auf Lautsprecher.</p>
+        </div>
+      </li>
+      <li class="c-steps__item">
+        <span class="c-steps__num" aria-hidden="true">2</span>
+        <div class="c-steps__body">
+          <h4 class="c-steps__title">5 Rückenschläge</h4>
+          <p>Kind mit dem Oberkörper nach vorn geneigt, Kopf tiefer als der Brustkorb. Säuglinge legst du bäuchlings über deinen Unterarm, den Kopf mit der Hand stützend. Fünfmal kräftig mit dem Handballen zwischen die Schulterblätter schlagen, nach jedem Schlag prüfen, ob es gelöst ist.</p>
+        </div>
+      </li>
+      <li class="c-steps__item">
+        <span class="c-steps__num" aria-hidden="true">3</span>
+        <div class="c-steps__body">
+          <h4 class="c-steps__title">Dann 5 Kompressionen</h4>
+          <p><strong>Säugling unter 1 Jahr:</strong> auf den Rücken drehen, Kopf tiefer, fünf Kompressionen auf die Mitte des Brustbeins, langsamer und kräftiger als bei einer Herzdruckmassage. <strong>Kind ab 1 Jahr:</strong> fünfmal Oberbauchkompressionen von hinten (Heimlich-Griff). Beim Säugling ist der Heimlich-Griff verboten – Verletzungsgefahr für die Leber.</p>
+        </div>
+      </li>
+      <li class="c-steps__item">
+        <span class="c-steps__num" aria-hidden="true">4</span>
+        <div class="c-steps__body">
+          <h4 class="c-steps__title">Im Wechsel weiter</h4>
+          <p>Fünf Rückenschläge, fünf Kompressionen, wieder von vorn, bis der Fremdkörper heraus ist oder das Kind bewusstlos wird.</p>
+        </div>
+      </li>
+      <li class="c-steps__item">
+        <span class="c-steps__num" aria-hidden="true">5</span>
+        <div class="c-steps__body">
+          <h4 class="c-steps__title">Bewusstlos: Wiederbelebung</h4>
+          <p>Wird das Kind bewusstlos, leg es auf einen harten Untergrund und beginn mit dem Ablauf im nächsten Abschnitt – fünf Beatmungen, dann Kompressionen.</p>
+        </div>
+      </li></ol>
+</div>
+
+<aside class="c-callout c-callout--warn" role="note">
+  <p class="c-callout__title">Danach immer ärztlich abklären</p>
+  <div class="c-callout__body"><p>Nach Oberbauchkompressionen gehört jedes Kind untersucht, auch wenn es wieder munter ist. Und wenn der Verdacht besteht, dass ein Stück im Atemweg oder in der Speiseröhre geblieben ist – anhaltender Husten, pfeifende Atmung, Schluckweigerung, Speicheln –, ebenfalls. Bei Knopfzellen und mehreren Magneten gilt ohne Ausnahme: sofort in die Klinik.</p></div>
+</aside>
+</section>
+
+<section class="c-section" id="wiederbelebung-beim-kind">
+  <h2 class="c-section__title">
+    <a class="c-section__anchor" href="#wiederbelebung-beim-kind" aria-label="Direktlink zu diesem Abschnitt">#</a>
+    Wiederbelebung beim Kind
+  </h2>
+  
+<div class="c-evidence c-evidence--stark">
+  <p class="c-evidence__badge">
+    <span class="c-evidence__dot" aria-hidden="true"></span>
+    <span class="c-evidence__label">Gut belegt</span>
+  </p>
+  <p class="c-evidence__claim">Bei Kindern beginnt die Wiederbelebung mit fünf initialen Beatmungen, bevor mit Thoraxkompressionen begonnen wird. Anschließend arbeiten geschulte Helfer im Verhältnis 15:2, ungeschulte Laien im Verhältnis 30:2.</p>
+  <p class="c-evidence__note">Der Grund für die Beatmungen zuerst: Ein Kreislaufstillstand im Kindesalter entsteht fast immer aus Sauerstoffmangel, nicht aus einem Herzproblem wie bei Erwachsenen. Das 30:2-Schema für Laien ist bewusst identisch mit dem Erwachsenenschema – weniger Umschalten, weniger Fehler unter Stress. Wer beides nicht sicher kann: Drücken allein ist immer besser als gar nichts.</p>
+  <p class="c-evidence__refs">Belege: <a class="c-ref" href="#quelle-1" title="Lebensrettende Maßnahmen bei Kindern (Paediatric Life Support) – Leitlinien des European Resuscitation Council 2021">[1]</a> <a class="c-ref" href="#quelle-2" title="Basic Life Support: European Resuscitation Council Guidelines 2021">[2]</a></p>
+</div>
+
+<div class="c-steps">
+  <h4 class="c-steps__heading">Laienschema, Kind oder Säugling ohne normale Atmung</h4>
+  <ol class="c-steps__list">
+      <li class="c-steps__item">
+        <span class="c-steps__num" aria-hidden="true">1</span>
+        <div class="c-steps__body">
+          <h4 class="c-steps__title">Prüfen, maximal 10 Sekunden</h4>
+          <p>Kind reagiert nicht. Kopf vorsichtig zurückneigen und Kinn anheben – bei Säuglingen nur in Neutralposition, nicht überstrecken. Sehen, hören, fühlen: hebt sich der Brustkorb? Einzelne schnappende Atemzüge sind keine normale Atmung.</p>
+        </div>
+      </li>
+      <li class="c-steps__item">
+        <span class="c-steps__num" aria-hidden="true">2</span>
+        <div class="c-steps__body">
+          <h4 class="c-steps__title">5 Beatmungen</h4>
+          <p>Beim Säugling umschließt dein Mund Mund und Nase, beim größeren Kind hältst du die Nase zu und beatmest Mund zu Mund. Jede Beatmung etwa eine Sekunde lang, gerade so viel, dass sich der Brustkorb sichtbar hebt.</p>
+        </div>
+      </li>
+      <li class="c-steps__item">
+        <span class="c-steps__num" aria-hidden="true">3</span>
+        <div class="c-steps__body">
+          <h4 class="c-steps__title">112, falls noch nicht geschehen</h4>
+          <p>Lautsprecher an. Bist du allein und hast kein Telefon in Reichweite, gib erst etwa eine Minute lang Beatmungen und Kompressionen, dann hol Hilfe.</p>
+        </div>
+      </li>
+      <li class="c-steps__item">
+        <span class="c-steps__num" aria-hidden="true">4</span>
+        <div class="c-steps__body">
+          <h4 class="c-steps__title">30 Kompressionen</h4>
+          <p>Auf der unteren Hälfte des Brustbeins. Beim Säugling mit zwei Fingern oder beiden Daumen, beim Kind mit einem oder beiden Handballen. Etwa ein Drittel des Brustkorbdurchmessers tief, im Takt von 100 bis 120 pro Minute – ungefähr das Tempo eines schnellen Schrittes.</p>
+        </div>
+      </li>
+      <li class="c-steps__item">
+        <span class="c-steps__num" aria-hidden="true">5</span>
+        <div class="c-steps__body">
+          <h4 class="c-steps__title">Dann 2 Beatmungen</h4>
+          <p>Und weiter im Wechsel 30:2, ohne längere Pausen, bis das Kind normal atmet oder der Rettungsdienst übernimmt. Wechsel dich mit jemandem ab, wenn du kannst – nach zwei Minuten lässt die Druckqualität nach.</p>
+        </div>
+      </li></ol>
+</div>
+
+<aside class="c-callout c-callout--info" role="note">
+  <p class="c-callout__title">Angst, etwas kaputt zu machen</p>
+  <div class="c-callout__body"><p>Diese Sorge hält im Ernstfall mehr Menschen zurück als jede Wissenslücke. Ein Kind ohne normale Atmung ist in Lebensgefahr; eine gebrochene Rippe heilt, ein Sauerstoffmangel im Gehirn nicht. Zu zaghaft zu drücken ist der häufigere Fehler, nicht zu fest.</p></div>
+</aside>
+</section>
+
+<section class="c-section" id="verbrennung-sturz-fieberkrampf">
+  <h2 class="c-section__title">
+    <a class="c-section__anchor" href="#verbrennung-sturz-fieberkrampf" aria-label="Direktlink zu diesem Abschnitt">#</a>
+    Verbrennung, Sturz, Fieberkrampf
+  </h2>
+  
+<div class="c-evidence c-evidence--stark">
+  <p class="c-evidence__badge">
+    <span class="c-evidence__dot" aria-hidden="true"></span>
+    <span class="c-evidence__label">Gut belegt</span>
+  </p>
+  <p class="c-evidence__claim">Verbrennungen und Verbrühungen werden mit lauwarmem, handwarmem Wasser gekühlt, nur kleinflächig und höchstens etwa zehn Minuten. Eis und eiskaltes Wasser sind schädlich, weil sie die Durchblutung drosseln und den Gewebeschaden vergrößern.</p>
+  <p class="c-evidence__note">Bei großflächigen Verbrühungen und bei Säuglingen wird gar nicht gekühlt – kleine Kinder kühlen zu schnell aus. Dann gilt: durchnässte Kleidung vorsichtig entfernen (nicht, was festklebt), locker keimfrei abdecken, warm halten, 112. Keine Hausmittel, kein Mehl, kein Öl, keine Salbe. Blasen bleiben zu.</p>
+  <p class="c-evidence__refs">Belege: <a class="c-ref" href="#quelle-3" title="Erste Hilfe bei Verbrennungen und Verbrühungen">[3]</a></p>
+</div>
+
+<figure class="c-tablewrap">
+  <figcaption class="c-tablewrap__title">Drei häufige Situationen, kurz sortiert</figcaption>
+  <div class="c-tablewrap__scroll">
+    <table class="c-table">
+      <thead><tr><th scope="col">Situation</th><th scope="col">Was du tust</th><th scope="col">Wann 112 oder Klinik</th></tr></thead>
+      <tbody><tr><th scope="row">Verbrühung durch heißes Getränk</th><td>Nasse Kleidung weg, kleinflächig lauwarm kühlen (max. 10 Min.), locker abdecken, Kind wärmen</td><td>Größer als die Handfläche des Kindes, jede Verbrühung bei Säuglingen, Gesicht, Hände, Genital, Gelenke, jede Blase</td></tr><tr><th scope="row">Sturz auf den Kopf</th><td>Beule kühlen, Kind hinlegen und 24 bis 48 Stunden beobachten, nachts einmal wecken und ansprechen</td><td>Bewusstlosigkeit (auch kurz), wiederholtes Erbrechen, zunehmende Schläfrigkeit, Krampf, ungleiche Pupillen, klare Flüssigkeit aus Nase oder Ohr, Sturz aus mehr als Körperlänge</td></tr><tr><th scope="row">Fieberkrampf</th><td>Uhrzeit merken, Kind weich und seitlich lagern, nichts in den Mund, nicht festhalten, enge Kleidung öffnen, bei ihm bleiben</td><td>Beim ersten Krampf immer, außerdem ab etwa 5 Minuten Dauer, bei erneutem Krampf oder wenn das Kind danach nicht wieder zu sich kommt</td></tr></tbody>
+    </table>
+  </div>
+  <p class="c-caption">Nach den Elterninformationen der BZgA und der Deutschen Gesellschaft für Kinder- und Jugendmedizin.</p>
+</figure>
+<p class="c-p">Ein Fieberkrampf sieht furchterregend aus und ist für die allermeisten Kinder harmlos. Er dauert typischerweise unter drei Minuten, danach sind Kinder oft tief erschöpft und schlafen ein – das gehört dazu. Gib nichts zu trinken, solange das Kind nicht vollständig wach ist.</p>
+</section>
+
+<section class="c-section" id="vergiftung-und-veraetzung">
+  <h2 class="c-section__title">
+    <a class="c-section__anchor" href="#vergiftung-und-veraetzung" aria-label="Direktlink zu diesem Abschnitt">#</a>
+    Vergiftung und Verätzung
+  </h2>
+  
+<div class="c-evidence c-evidence--stark">
+  <p class="c-evidence__badge">
+    <span class="c-evidence__dot" aria-hidden="true"></span>
+    <span class="c-evidence__label">Gut belegt</span>
+  </p>
+  <p class="c-evidence__claim">Bei Verdacht auf eine Vergiftung wird kein Erbrechen ausgelöst und keine Milch gegeben. Beides kann den Schaden vergrößern – Erbrochenes verätzt die Speiseröhre ein zweites Mal, Milch beschleunigt die Aufnahme mancher Stoffe.</p>
+  <p class="c-evidence__note">Richtig ist: ein paar Schlucke Wasser oder stillen Tee, wenn das Kind wach ist und schlucken kann. Dann sofort den Giftnotruf des Bundeslandes anrufen – dort sitzen rund um die Uhr Fachleute, die einordnen können, ob überhaupt etwas passieren kann. Sehr viele Anrufe enden mit Entwarnung.</p>
+  <p class="c-evidence__refs">Belege: <a class="c-ref" href="#quelle-4" title="Giftinformationszentralen und Giftnotruf">[4]</a> <a class="c-ref" href="#quelle-5" title="Vergiftungen und Verätzungen">[5]</a></p>
+</div>
+
+<div class="c-checklist" data-checklist="gift">
+  <h4 class="c-checklist__title">Was der Giftnotruf wissen muss</h4>
+  <ul class="c-checklist__list">
+      <li class="c-checklist__item">
+        <input type="checkbox" id="chk-gift-0" class="c-checklist__box">
+        <label for="chk-gift-0">Was genau? Packung, Pflanze oder Rest mitnehmen und ans Telefon holen</label>
+      </li>
+      <li class="c-checklist__item">
+        <input type="checkbox" id="chk-gift-1" class="c-checklist__box">
+        <label for="chk-gift-1">Wie viel maximal? Lieber die ungünstigste Schätzung nennen</label>
+      </li>
+      <li class="c-checklist__item">
+        <input type="checkbox" id="chk-gift-2" class="c-checklist__box">
+        <label for="chk-gift-2">Wann? Uhrzeit möglichst genau</label>
+      </li>
+      <li class="c-checklist__item">
+        <input type="checkbox" id="chk-gift-3" class="c-checklist__box">
+        <label for="chk-gift-3">Alter und Gewicht des Kindes</label>
+      </li>
+      <li class="c-checklist__item">
+        <input type="checkbox" id="chk-gift-4" class="c-checklist__box">
+        <label for="chk-gift-4">Wie geht es dem Kind jetzt? Wach, blass, erbricht es, atmet es auffällig?</label>
+      </li>
+      <li class="c-checklist__item">
+        <input type="checkbox" id="chk-gift-5" class="c-checklist__box">
+        <label for="chk-gift-5">Bei Augenkontakt: sofort 10 bis 15 Minuten mit lauwarmem Wasser spülen, dann anrufen</label>
+      </li>
+      <li class="c-checklist__item">
+        <input type="checkbox" id="chk-gift-6" class="c-checklist__box">
+        <label for="chk-gift-6">Bei Bewusstlosigkeit, Krampf oder Atemnot zuerst 112 – der Giftnotruf kommt danach</label>
+      </li></ul>
+</div>
+<p class="c-p">Die Nummern der Giftinformationszentren sind nach Bundesland verschieden und stehen auf unserer <a href="/notfall">Notfallseite</a> zusammen mit 112 und dem ärztlichen Bereitschaftsdienst 116 117. Häng sie an den Kühlschrank – im Ernstfall ist Suchen das, was am längsten dauert.</p>
+</section>
+
+<section class="c-section" id="haeufige-fragen">
+  <h2 class="c-section__title">
+    <a class="c-section__anchor" href="#haeufige-fragen" aria-label="Direktlink zu diesem Abschnitt">#</a>
+    Häufige Fragen
+  </h2>
+  
+<div class="c-faq">
+  
+  
+      <details class="c-faq__item">
+        <summary>Wann soll ich den Erste-Hilfe-Kurs machen?</summary>
+        <div class="c-faq__answer"><p>Am besten in der Schwangerschaft oder in den ersten Monaten, solange noch Zeit ist. Viele Kursanbieter erlauben es, das Baby mitzubringen. Danach etwa alle zwei bis drei Jahre auffrischen – die Handgriffe verblassen schneller, als man denkt, und die Empfehlungen ändern sich.</p></div>
+      </details>
+      <details class="c-faq__item">
+        <summary>Ich habe Angst, im Ernstfall zu erstarren. Ist das normal?</summary>
+        <div class="c-faq__answer"><p>Ja, und genau dagegen hilft der Kurs. Was einmal körperlich geübt wurde, läuft unter Stress eher ab als etwas nur Gelesenes. Der zweite Anker ist die 112: Du musst nicht wissen, was zu tun ist – die Leitstelle sagt es dir Schritt für Schritt und bleibt bei dir.</p></div>
+      </details>
+      <details class="c-faq__item">
+        <summary>Wann rufe ich 112 und wann 116 117?</summary>
+        <div class="c-faq__answer"><p>112 bei allem, was akut lebensbedrohlich sein könnte: keine normale Atmung, Bewusstlosigkeit, starke Atemnot, schwere Blutung, Krampf über 5 Minuten, Verdacht auf schwere Vergiftung. 116 117 ist der ärztliche Bereitschaftsdienst für alles, was nicht bis zur Sprechstunde warten kann, aber kein Notfall ist. Im Zweifel 112 – dort wird umgeleitet, wenn es nicht passt.</p></div>
+      </details>
+      <details class="c-faq__item">
+        <summary>Was ist mit Medikamenten aus der Hausapotheke, etwa fiebersenkenden Zäpfchen?</summary>
+        <div class="c-faq__answer"><p>Dosierungen gehören in die Hände deiner Kinderarztpraxis oder Apotheke, nicht in einen Artikel. Wichtig ist nur eines: Gib im Notfall nichts auf Verdacht, und sag dem Rettungsdienst oder dem Giftnotruf immer, was du dem Kind schon gegeben hast.</p></div>
+      </details>
+      <details class="c-faq__item">
+        <summary>Muss ich ein Kind nach einem Sturz nachts wecken?</summary>
+        <div class="c-faq__answer"><p>In den ersten Stunden nach einem Sturz auf den Kopf ist es sinnvoll, einmal zu prüfen, ob dein Kind sich normal wecken lässt und ansprechbar ist – nicht, es die ganze Nacht wach zu halten. Nicht weckbar, wiederholtes Erbrechen oder ungleiche Pupillen bedeuten sofort 112.</p></div>
+      </details>
+      <details class="c-faq__item">
+        <summary>Unser Kind hat ein paar Schlucke Spülmittel getrunken – reicht es, abzuwarten?</summary>
+        <div class="c-faq__answer"><p>Ruf den Giftnotruf an, auch wenn es dem Kind gut geht. Schaumbildner sind vor allem gefährlich, wenn Schaum in die Lunge gelangt – deshalb keine Milch, kein Erbrechen, nur wenig trinken.</p></div>
+      </details>
+</div>
+</section>
+
+<aside class="c-callout c-callout--info" role="note">
+  <p class="c-callout__title">Kurz gesagt</p>
+  <div class="c-callout__body"><p>Kurs buchen. Nummern an den Kühlschrank. Bei Verschlucken erst Rückenschläge, bei fehlender Atmung fünf Beatmungen vor den Kompressionen, bei Verbrennung lauwarm statt eiskalt, bei Vergiftung Giftnotruf statt Erbrechen. Und im Zweifel immer 112 – niemand wird dir vorwerfen, zu früh angerufen zu haben.</p></div>
+</aside>
+      
+<aside class="c-callout c-callout--warn c-callout--medical" role="note">
+  <p class="c-callout__title">Kein Ersatz für ärztlichen Rat</p>
+  <div class="c-callout__body">
+    <p>Dieser Artikel fasst den aktuellen Wissensstand allgemein zusammen. Jedes Kind ist anders.
+    Bei Sorgen, ungewöhnlichen Symptomen oder wenn dein Bauchgefühl Alarm schlägt: Kinderarztpraxis
+    kontaktieren. Bei akuter Gefahr <strong>112</strong>. Weitere Anlaufstellen findest du auf der
+    <a href="../notfall.html">Notfallseite</a>.</p>
+  </div>
+</aside>
+      
+<section class="sources" id="quellen">
+  <h2 class="sources__title">Quellen</h2>
+  <ol class="sources__list">
+    
+    <li class="sources__item" id="quelle-1">
+      <span class="sources__num">1</span>
+      <div>
+        <p class="sources__name"><a href="https://link.springer.com/article/10.1007/s10049-021-00887-9" target="_blank" rel="noopener noreferrer">Lebensrettende Maßnahmen bei Kindern (Paediatric Life Support) – Leitlinien des European Resuscitation Council 2021</a></p>
+        <p class="sources__pub">European Resuscitation Council / Notfall + Rettungsmedizin · 2021 · Leitlinie</p>
+        
+      </div>
+    </li>
+    <li class="sources__item" id="quelle-2">
+      <span class="sources__num">2</span>
+      <div>
+        <p class="sources__name"><a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8170637/" target="_blank" rel="noopener noreferrer">Basic Life Support: European Resuscitation Council Guidelines 2021</a></p>
+        <p class="sources__pub">European Resuscitation Council / Resuscitation · 2021 · Leitlinie</p>
+        
+      </div>
+    </li>
+    <li class="sources__item" id="quelle-3">
+      <span class="sources__num">3</span>
+      <div>
+        <p class="sources__name"><a href="https://www.kindergesundheit-info.de/themen/sicher-aufwachsen/alltagstipps/sicher-im-alltag/thermische-verletzungen/" target="_blank" rel="noopener noreferrer">Erste Hilfe bei Verbrennungen und Verbrühungen</a></p>
+        <p class="sources__pub">Bundeszentrale für gesundheitliche Aufklärung (BZgA), kindergesundheit-info.de · 2024 · Institutionelle Information</p>
+        
+      </div>
+    </li>
+    <li class="sources__item" id="quelle-4">
+      <span class="sources__num">4</span>
+      <div>
+        <p class="sources__name"><a href="https://www.kindergesundheit-info.de/themen/sicher-aufwachsen/notfall-infos/giftinformationszentralen-giftnotruf/" target="_blank" rel="noopener noreferrer">Giftinformationszentralen und Giftnotruf</a></p>
+        <p class="sources__pub">Bundeszentrale für gesundheitliche Aufklärung (BZgA), kindergesundheit-info.de · 2024 · Institutionelle Information</p>
+        
+      </div>
+    </li>
+    <li class="sources__item" id="quelle-5">
+      <span class="sources__num">5</span>
+      <div>
+        <p class="sources__name"><a href="https://www.kindergesundheit-info.de/themen/sicher-aufwachsen/sicherheit-im-alltag/achtung-giftig/" target="_blank" rel="noopener noreferrer">Vergiftungen und Verätzungen</a></p>
+        <p class="sources__pub">Bundeszentrale für gesundheitliche Aufklärung (BZgA), kindergesundheit-info.de · 2024 · Institutionelle Information</p>
+        
+      </div>
+    </li>
+    <li class="sources__item" id="quelle-6">
+      <span class="sources__num">6</span>
+      <div>
+        <p class="sources__name"><a href="https://www.dgkj.de/eltern/dgkj-elterninformationen/elterninfo-fieberkrampf" target="_blank" rel="noopener noreferrer">Elterninformation Fieberkrampf</a></p>
+        <p class="sources__pub">Deutsche Gesellschaft für Kinder- und Jugendmedizin (DGKJ) · 2023 · Empfehlung</p>
+        
+      </div>
+    </li>
+    <li class="sources__item" id="quelle-7">
+      <span class="sources__num">7</span>
+      <div>
+        <p class="sources__name"><a href="https://www.johanniter.de/dienste-leistungen/medizinische-hilfe/erste-hilfe/erste-hilfe-kurse-fuer-privatpersonen/erste-hilfe-am-kind/" target="_blank" rel="noopener noreferrer">Erste Hilfe am Kind und Baby – Kursangebot für Privatpersonen</a></p>
+        <p class="sources__pub">Johanniter-Unfall-Hilfe e. V. · 2025 · Institutionelle Information</p>
+        
+      </div>
+    </li>
+  </ol>
+  <p class="sources__hint">Wie wir Quellen auswählen und Aussagen einordnen, steht in der <a href="../methodik.html">Methodik</a>.</p>
+</section>
+    </div>
+  </div>
+
+  
+<section class="band band--sunk related">
+  <div class="wrap">
+    <h2 class="band__title">Passt dazu</h2>
+    <div class="card-grid">
+<a class="card card--phase-3" href="../artikel/babyproofing.html">
+  <span class="card__kicker">Säugling</span>
+  <h3 class="card__title">Die Wohnung kindersicher machen</h3>
+  <p class="card__text">Die meisten Unfälle kleiner Kinder passieren zu Hause, und sie folgen einem sehr vorhersehbaren Muster: Stürze, Verbrühungen, Vergiftungen, Ersticken …</p>
+  <span class="card__foot">6 Min.</span>
+</a>
+<a class="card card--phase-3" href="../artikel/fieber-und-infekte.html">
+  <span class="card__kicker">Säugling</span>
+  <h3 class="card__title">Fieber und Infekte richtig einschätzen</h3>
+  <p class="card__text">Fieber ist keine Krankheit, sondern eine Abwehrreaktion – die aktuelle Leitlinie der Kinder- und Jugendmedizin stellt deshalb nicht den Messwert in …</p>
+  <span class="card__foot">8 Min.</span>
+</a>
+<a class="card card--phase-2" href="../artikel/autositz-und-unterwegs.html">
+  <span class="card__kicker">Neugeborenes</span>
+  <h3 class="card__title">Autositz, Kinderwagen und Fahrrad</h3>
+  <p class="card__text">Der beste Kindersitz ist der, der ins Auto passt, zum Kind passt und richtig eingebaut ist – in dieser Reihenfolge. Rückwärtsgerichtet fahren schützt …</p>
+  <span class="card__foot">6 Min.</span>
+</a></div>
+  </div>
+</section>
+</article>
+</main>
+
+
+<footer class="site-footer">
+  <div class="site-footer__inner">
+    <div class="site-footer__brand">
+      <p class="site-footer__name">Erziehungswegweiser</p>
+      <p class="site-footer__claim">Ein Kompendium zu Schwangerschaft, Neugeborenen, Babys, Kleinkindern und Erziehung – aufbereitet für Eltern, gestützt auf Leitlinien und Forschung.</p>
+    </div>
+
+    <nav class="site-footer__nav" aria-label="Fußzeile">
+      <div>
+        <p class="site-footer__head">Einstieg</p>
+        <ul>
+          <li><a href="../alter/">Nach Alter</a></li>
+          <li><a href="../themen/">Nach Thema</a></li>
+          <li><a href="../artikel/">Alle Artikel</a></li>
+        </ul>
+      </div>
+      <div>
+        <p class="site-footer__head">Hintergrund</p>
+        <ul>
+          <li><a href="../ueber.html">Über das Projekt</a></li>
+          <li><a href="../methodik.html">Methodik &amp; Evidenz</a></li>
+          <li><a href="../quellen.html">Quellenverzeichnis</a></li>
+        </ul>
+      </div>
+      <div>
+        <p class="site-footer__head">Hilfe</p>
+        <ul>
+          <li><a href="../notfall.html">Notfall &amp; Hotlines</a></li>
+          <li><a href="../glossar.html">Glossar</a></li>
+        </ul>
+      </div>
+    </nav>
+  </div>
+
+  <div class="site-footer__legal">
+    <p class="disclaimer">
+      <strong>Wichtig:</strong> Dieses Kompendium ersetzt keine ärztliche, therapeutische
+      oder psychologische Beratung. Bei Sorgen um die Gesundheit oder Entwicklung
+      eines Kindes wende dich an die Kinderarztpraxis. In akuten Notfällen gilt der
+      Notruf <strong>112</strong>.
+    </p>
+  </div>
+</footer>
+
+
+<div class="overlay" data-search-overlay hidden>
+  <div class="overlay__backdrop" data-close-search></div>
+  <div class="overlay__panel search" role="dialog" aria-modal="true" aria-label="Suche">
+    <div class="search__field">
+      <svg class="icon " viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><circle cx="11" cy="11" r="7"/><path d="m20 20-3.5-3.5"/></svg>
+      <input type="search" class="search__input" data-search-input placeholder="Wonach suchst du? z. B. Schlaf, Trotzphase, Beikost" autocomplete="off" spellcheck="false">
+      <button class="icon-btn" type="button" data-close-search aria-label="Suche schließen"><svg class="icon " viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M6 6l12 12M18 6L6 18"/></svg></button>
+    </div>
+    <div class="search__filters" data-search-filters></div>
+    <div class="search__results" data-search-results>
+      <p class="search__hint">Tippe los – die Suche läuft vollständig in deinem Browser.</p>
+    </div>
+  </div>
+</div>
+
+<div class="overlay" data-settings-overlay hidden>
+  <div class="overlay__backdrop" data-close-settings></div>
+  <div class="overlay__panel settings" role="dialog" aria-modal="true" aria-label="Darstellung">
+    <div class="settings__head">
+      <h2>Darstellung</h2>
+      <button class="icon-btn" type="button" data-close-settings aria-label="Schließen"><svg class="icon " viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M6 6l12 12M18 6L6 18"/></svg></button>
+    </div>
+
+    <fieldset class="settings__group">
+      <legend>Farbmodus</legend>
+      <div class="segmented" data-pref="theme">
+        <button type="button" data-value="light">Hell</button>
+        <button type="button" data-value="auto">Automatisch</button>
+        <button type="button" data-value="dark">Dunkel</button>
+      </div>
+    </fieldset>
+
+    <fieldset class="settings__group">
+      <legend>Schriftgröße</legend>
+      <div class="segmented" data-pref="textsize">
+        <button type="button" data-value="m">Normal</button>
+        <button type="button" data-value="l">Groß</button>
+        <button type="button" data-value="xl">Sehr groß</button>
+      </div>
+    </fieldset>
+
+    <fieldset class="settings__group">
+      <legend>Lesemodus</legend>
+      <label class="switch">
+        <input type="checkbox" data-pref-toggle="reading">
+        <span class="switch__track" aria-hidden="true"></span>
+        <span class="switch__label">Immersiv lesen – Navigation und Beiwerk treten zurück</span>
+      </label>
+    </fieldset>
+
+    <fieldset class="settings__group">
+      <legend>Alter meines Kindes</legend>
+      <p class="settings__hint">Damit hebt die Seite passende Inhalte hervor. Die Angabe bleibt in deinem Browser.</p>
+      <label class="field">
+        <span>Geburtsdatum</span>
+        <input type="date" data-pref-birthdate>
+      </label>
+      <p class="settings__age" data-age-readout aria-live="polite"></p>
+      <button type="button" class="btn btn--quiet" data-clear-birthdate>Angabe löschen</button>
+    </fieldset>
+  </div>
+</div>
+
+<script src="../assets/js/app.js" defer></script>
+<script src="../assets/js/search.js" defer></script>
+
+</body>
+</html>

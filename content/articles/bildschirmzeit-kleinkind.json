@@ -1,0 +1,267 @@
+{
+  "slug": "bildschirmzeit-kleinkind",
+  "title": "Bildschirmzeit unter drei",
+  "subtitle": "Was WHO und Fachgesellschaften empfehlen, wie belastbar diese Empfehlungen tatsächlich sind – und warum die zwanzig Minuten, in denen du duschen willst, dein Kind nicht beschädigen.",
+  "phases": ["saeugling", "kleinkind"],
+  "topics": ["medien"],
+  "updated": "2026-08-05",
+  "summary": "Für Kinder unter zwei Jahren empfehlen die WHO und die Fachgesellschaften einhellig keine Bildschirmzeit – mit Ausnahme von Videotelefonaten. Der Grund ist gut belegt: Kleine Kinder lernen vom Bildschirm deutlich schlechter als von echten Menschen, und laufende Geräte stören ihr Spiel auch dann, wenn sie kaum hinschauen. Für konkrete Minutengrenzen ist die Datenlage dagegen schwächer, als der breite Konsens vermuten lässt. Entscheidend sind Inhalt, Begleitung und was die Bildschirmzeit verdrängt – nicht die Stoppuhr."
+  ,
+  "keyFacts": [
+    "Unter zwei Jahren: keine Bildschirmmedien empfohlen, Videotelefonate ausgenommen.",
+    "Ab zwei Jahren: höchstens eine Stunde täglich, weniger ist besser, möglichst gemeinsam.",
+    "Video-Defizit: Kleinkinder lernen dieselbe Sache vom Bildschirm messbar schlechter als live.",
+    "Hintergrundfernsehen verkürzt Spielphasen, auch wenn das Kind kaum hinsieht.",
+    "Die WHO stuft die Evidenz hinter ihren Bildschirmempfehlungen selbst als sehr niedrig ein."
+  ],
+  "blocks": [
+    {
+      "type": "p",
+      "lead": true,
+      "text": "Kaum ein Elternthema erzeugt so viel schlechtes Gewissen wie dieses. Deshalb gleich vorweg: Wenn dein Kind gelegentlich vor dem Handy sitzt, weil du duschen, kochen oder einen Anruf beenden musst, richtest du keinen Schaden an. Was die Forschung zeigt, ist etwas anderes – und für den Alltag deutlich brauchbarer als eine Minutenzahl."
+    },
+    {
+      "type": "section",
+      "heading": "Was die Empfehlungen sagen",
+      "blocks": [
+        {
+          "type": "figure",
+          "kind": "bar",
+          "title": "Empfohlene Höchstdauer für Bildschirmzeit pro Tag",
+          "alt": "Balkendiagramm: null Minuten für Kinder unter zwei Jahren, bis zu 60 Minuten ab zwei Jahren",
+          "data": [
+            { "label": "unter 1 Jahr", "value": 0, "display": "keine" },
+            { "label": "1 Jahr", "value": 0, "display": "keine" },
+            { "label": "2 Jahre", "value": 60, "display": "bis 60 min" },
+            { "label": "3–4 Jahre", "value": 60, "display": "bis 60 min" }
+          ],
+          "caption": "Nach der WHO-Leitlinie für Kinder unter fünf Jahren; dort steht zu den Stundenangaben ausdrücklich „weniger ist besser“. Videotelefonate zählen in diesen Empfehlungen nicht als Bildschirmzeit.",
+          "sources": [0]
+        },
+        {
+          "type": "evidence",
+          "level": "stark",
+          "claim": "WHO, amerikanische Kinderärztegesellschaft und die BZgA empfehlen übereinstimmend, Kindern unter zwei Jahren keine Bildschirmmedien anzubieten und die Nutzung danach eng zu begrenzen und zu begleiten.",
+          "note": "Dass die Empfehlung so einhellig ausfällt, sagt etwas über den Fachkonsens – nicht zwingend etwas über die Stärke der zugrunde liegenden Daten. Deutschsprachige Stellen gehen teils noch etwas weiter und raten für Kinder unter drei Jahren grundsätzlich von Bildschirmmedien ab.",
+          "sources": [0, 1, 2]
+        },
+        {
+          "type": "list",
+          "ordered": false,
+          "items": [
+            { "title": "Videotelefonate sind ausgenommen:", "text": "Sie gelten als Beziehungszeit, nicht als Bildschirmzeit – kurz, dialogisch, mit vertrauten Menschen und viel Sprache." },
+            { "title": "Ab etwa 18 Monaten:", "text": "Wenn Medien eingeführt werden, dann mit sorgfältig ausgewählten Inhalten und gemeinsam angeschaut, nicht zum Alleinlassen." },
+            { "title": "Ab zwei Jahren:", "text": "Höchstens eine Stunde täglich, deutlich weniger ist ausdrücklich besser." },
+            { "title": "Nicht am Tisch, nicht im Bett:", "text": "Mahlzeiten und die letzte Stunde vor dem Schlafen bleiben bildschirmfrei – das ist der am besten begründete Teil aller Medienregeln." }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "section",
+      "heading": "Warum unter zwei kaum etwas ankommt",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "Der wichtigste Befund zu kleinen Kindern und Bildschirmen ist kein Schadensnachweis, sondern ein Wirkungsnachweis, der ausbleibt. Zeigt man einem Einjährigen dieselbe Sache einmal live und einmal per Video – ein Versteck, eine Handbewegung, ein neues Wort – lernt es aus dem Video deutlich weniger. Daniel Anderson und Tiffany Pempek nannten das 2005 das Video-Defizit."
+        },
+        {
+          "type": "evidence",
+          "level": "stark",
+          "claim": "Kinder zwischen null und sechs Jahren lernen aus Videos systematisch schlechter als aus einer gleichwertigen Vorführung durch eine anwesende Person. Der Rückstand ist im zweiten Lebensjahr am größten und wird mit dem Alter kleiner.",
+          "note": "Eine Metaanalyse über 122 Effektstärken aus 59 Arbeiten fand einen mittleren Rückstand von etwa einer halben Standardabweichung. Die Autorinnen weisen selbst darauf hin, dass Studienqualität und Publikationsbias den Effekt überschätzt haben könnten. Für den Alltag heißt das: Lern-Apps und Lernvideos halten in diesem Alter nicht, was sie versprechen – ein Video ersetzt keine Person, aber es macht auch nicht dumm.",
+          "sources": [3, 4]
+        },
+        {
+          "type": "p",
+          "text": "Erklärt wird das Video-Defizit vor allem damit, dass ein Bildschirm nicht antwortet. Kleine Kinder lernen über den Wechsel aus Handeln und Reaktion: Sie schauen dich an, du schaust zurück, sie zeigen, du benennst. Ein Video schaut nicht zurück. Genau deshalb sind Videotelefonate die Ausnahme – dort antwortet jemand."
+        }
+      ]
+    },
+    {
+      "type": "section",
+      "heading": "Der Fernseher, der nur nebenbei läuft",
+      "blocks": [
+        {
+          "type": "evidence",
+          "level": "moderat",
+          "claim": "Ein im Hintergrund laufendes Fernsehprogramm verkürzt die Spielphasen kleiner Kinder und verringert ihre konzentrierte Aufmerksamkeit – auch wenn die Kinder kaum hinsehen.",
+          "note": "In einem Experiment spielten 50 Kinder im Alter von 12, 24 und 36 Monaten eine Stunde lang; in der Hälfte der Zeit lief eine Erwachsenensendung. Die Kinder blickten nur sekundenweise und seltener als einmal pro Minute zum Gerät – trotzdem wurden ihre Spielepisoden messbar kürzer. Es handelt sich um eine einzelne, aber häufig zitierte Laborstudie. Praktisch ist das der Punkt mit dem besten Aufwand-Nutzen-Verhältnis: Gerät aus, wenn niemand hinschaut.",
+          "sources": [5]
+        },
+        {
+          "type": "callout",
+          "variant": "tip",
+          "title": "Die eine Stellschraube, die sich leicht drehen lässt",
+          "text": "Hintergrundmedien sind für Familien meist einfacher zu ändern als die bewusste Nutzung – niemandem wird etwas weggenommen. Fernseher aus, wenn keiner zuschaut. Radio oder Musik sind übrigens etwas anderes: Der störende Effekt wurde für bewegte Bilder mit wechselnden Szenen und Erwachsenensprache gezeigt, nicht für Hintergrundmusik."
+        }
+      ]
+    },
+    {
+      "type": "section",
+      "heading": "Wie sicher ist das alles wirklich?",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "Hier lohnt sich Ehrlichkeit, weil die öffentliche Debatte oft härter klingt als die Datenlage. Der Konsens der Fachgesellschaften ist eindeutig – die Studien darunter sind es nicht."
+        },
+        {
+          "type": "evidence",
+          "level": "umstritten",
+          "claim": "Für konkrete Zeitgrenzen gibt es kaum belastbare Belege. Die WHO stuft die Evidenz hinter ihren Empfehlungen zu Bildschirmzeit bei unter Fünfjährigen selbst überwiegend als sehr niedrig ein.",
+          "note": "Die zugrunde liegenden Arbeiten sind fast durchweg Beobachtungsstudien, die Zusammenhänge und keine Ursachen zeigen, und ihre Ergebnisse widersprechen sich häufig. Die Empfehlung „eine Stunde“ ist deshalb eher eine vorsichtige Setzung als ein gemessener Grenzwert. Das entwertet die Richtung nicht – weniger und begleiteter ist plausibel besser –, aber es nimmt der Minutenzahl ihre Autorität.",
+          "sources": [0, 6]
+        },
+        {
+          "type": "callout",
+          "variant": "myth",
+          "title": "„Studien beweisen, dass Bildschirme Sprachstörungen verursachen“",
+          "text": "Häufig wird dafür die deutsche BLIKK-Studie von 2017 zitiert, die bei Kindern mit hoher Mediennutzung mehr Sprachauffälligkeiten und Konzentrationsprobleme fand. Der Abschlussbericht selbst hält aber fest, dass es sich um eine Querschnittserhebung handelt und offen bleibt, was Ursache und was Folge ist. Es ist ebenso plausibel, dass Kinder mit Entwicklungsauffälligkeiten mehr Medien nutzen – oder dass beides mit der Belastung der Familie zusammenhängt. Die Studie ist ein Warnsignal, kein Kausalnachweis."
+        },
+        {
+          "type": "comparison",
+          "title": "Woran du dich statt an Minuten halten kannst",
+          "columns": [
+            {
+              "title": "Zählt viel",
+              "tone": "good",
+              "items": [
+                "Ob jemand daneben sitzt und mitspricht",
+                "Ob das Kind danach wieder gut ins Spiel findet",
+                "Was die Zeit verdrängt: Schlaf, Bewegung, Sprache, Draußen",
+                "Ob das Gerät ruhig oder hektisch geschnitten ist",
+                "Ob es planbar ist oder immer als Notbremse dient"
+              ]
+            },
+            {
+              "title": "Zählt weniger",
+              "tone": "neutral",
+              "items": [
+                "Ob es 15 oder 25 Minuten waren",
+                "Ob es Tablet oder Fernseher war",
+                "Ob im Urlaub eine Ausnahme gemacht wurde",
+                "Ob die Inhalte als pädagogisch beworben werden",
+                "Was andere Familien handhaben"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "section",
+      "heading": "Der Bildschirm als Beruhigungsmittel",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "Der problematischste Einsatz ist nicht der häufigste, sondern der reflexhafte: Bildschirm, sobald das Kind ausrastet, quengelt oder im Wartezimmer nicht stillsitzt. Der Grund ist nicht der Bildschirm selbst, sondern was dabei nicht passiert. Ein Kind, dessen Wut regelmäßig durch Ablenkung beendet wird, übt nicht, sie mit Hilfe eines Erwachsenen auszuhalten – und genau darüber entsteht Selbstregulation."
+        },
+        {
+          "type": "callout",
+          "variant": "tip",
+          "title": "Realistischer Umgang statt Reinheitsgebot",
+          "items": [
+            "Zwischen Notbremse und Gewohnheit unterscheiden: Ein Video im Wartezimmer ist etwas anderes als ein Video bei jedem Wutanfall.",
+            "Planbar machen: eine feste Situation (Freitag nach dem Mittagsschlaf) belastet weniger als spontane Verhandlungen.",
+            "Vorher ansagen, wie lange, und die Zeitanzeige übernehmen lassen – der Wecker klingelt, nicht du.",
+            "Übergang begleiten: nach dem Ausschalten fünf Minuten dabeibleiben, statt sofort das nächste zu verlangen.",
+            "Wenn du duschen willst: mach es. Ein sicher beschäftigtes Kind ist besser als eine erschöpfte Erwachsene."
+          ]
+        }
+      ]
+    },
+    {
+      "type": "section",
+      "heading": "Häufige Fragen",
+      "blocks": [
+        {
+          "type": "faq",
+          "items": [
+            {
+              "q": "Mein Kind hat mit 14 Monaten schon oft Videos gesehen. Ist etwas kaputtgegangen?",
+              "a": "Nein. Es gibt keinen Beleg für einen Schwellenwert, ab dem etwas irreversibel ist. Die Befunde beschreiben Durchschnitte über Gruppen, keine Einzelschicksale. Wenn dein Kind ausreichend schläft, sich bewegt, mit dir spricht und spielt, ist der Rest deutlich weniger wichtig, als es sich anfühlt."
+            },
+            {
+              "q": "Sind Lern-Apps für Kleinkinder besser als Zeichentrick?",
+              "a": "Für Kinder unter zwei ist der Unterschied klein, weil beides am Video-Defizit scheitert. Ab etwa zwei bis drei Jahren spielt der Inhalt eine Rolle: ruhig geschnitten, langsam gesprochen, ohne dauernde Reizwechsel und ohne Kaufaufforderungen. Das Etikett „pädagogisch wertvoll“ ist dabei kein verlässliches Kriterium."
+            },
+            {
+              "q": "Videotelefonate mit den Großeltern – wirklich unbegrenzt?",
+              "a": "Unbegrenzt nicht, aber sie zählen nicht zur Bildschirmzeit. Sie funktionieren am besten, wenn ein Erwachsener mit im Bild ist, wenn es kurz bleibt und wenn das Gegenüber aktiv mitmacht: winken, benennen, Dinge zeigen, auf Reaktionen warten."
+            },
+            {
+              "q": "Was ist mit dem Handy beim Stillen oder Füttern?",
+              "a": "Das ist kein Medienkonsum deines Kindes, sondern deiner. Es beeinflusst trotzdem etwas: Beim Füttern entstehen viele kleine Blickwechsel. Es muss nicht jede Mahlzeit andachtsvoll sein – aber wenn du merkst, dass du fast nie schaust, lohnt es sich, ein oder zwei Mahlzeiten am Tag handyfrei zu halten."
+            },
+            {
+              "q": "Wir sind lange im Auto oder im Flugzeug. Geht das ohne Bildschirm?",
+              "a": "Oft ja, aber es muss nicht sein. Lange Reisen sind Ausnahmesituationen, und Ausnahmen sind der Grund, warum Regeln überhaupt tragen. Wenn du magst, halte es planbar: Bildschirm auf einem festen Abschnitt der Strecke statt durchgehend."
+            },
+            {
+              "q": "Mein Partner sieht das ganz anders. Wie einigen wir uns?",
+              "a": "Sinnvoll ist, nicht über Minuten zu streiten, sondern über zwei, drei gemeinsame Grundlinien: kein Bildschirm beim Essen, keiner in der letzten Stunde vor dem Schlafen, keiner als Standardlösung bei Wut. Das ist konkreter als eine Zahl und lässt beiden Spielraum."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "callout",
+      "variant": "info",
+      "title": "Kurz gesagt",
+      "text": "Unter zwei Jahren bringt der Bildschirm nachweislich wenig und ersetzt nichts – Videotelefonate ausgenommen. Danach zählen Inhalt, Begleitung und der Zeitpunkt mehr als die Dauer. Der wirksamste Schritt für die meisten Familien ist nicht, die bewusste Nutzung zu kürzen, sondern das Gerät auszuschalten, wenn niemand hinschaut."
+    }
+  ],
+  "sources": [
+    {
+      "title": "Guidelines on physical activity, sedentary behaviour and sleep for children under 5 years of age",
+      "publisher": "World Health Organization",
+      "year": "2019",
+      "kind": "Leitlinie",
+      "url": "https://www.who.int/publications/i/item/9789241550536"
+    },
+    {
+      "title": "Media and Young Minds",
+      "publisher": "Pediatrics / American Academy of Pediatrics, Council on Communications and Media",
+      "year": "2016",
+      "kind": "Empfehlung",
+      "url": "https://publications.aap.org/pediatrics/article/138/5/e20162591/60503/Media-and-Young-Minds"
+    },
+    {
+      "title": "Wie oft und wie lange dürfen Kinder Medien nutzen?",
+      "publisher": "Bundeszentrale für gesundheitliche Aufklärung (BZgA), kindergesundheit-info.de",
+      "year": "2024",
+      "kind": "Institutionelle Information",
+      "url": "https://www.kindergesundheit-info.de/themen/medien/alltagstipps/mediennutzung/hoechstdauer/"
+    },
+    {
+      "title": "Learning From Video: A Meta-Analysis of the Video Deficit in Children Ages 0 to 6 Years",
+      "publisher": "Child Development (Strouse & Samson)",
+      "year": "2021",
+      "kind": "Metaanalyse",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/33491209/"
+    },
+    {
+      "title": "Television and Very Young Children",
+      "publisher": "American Behavioral Scientist (Anderson & Pempek)",
+      "year": "2005",
+      "kind": "Übersichtsarbeit",
+      "url": "https://journals.sagepub.com/doi/10.1177/0002764204271506"
+    },
+    {
+      "title": "The Effects of Background Television on the Toy Play Behavior of Very Young Children",
+      "publisher": "Child Development (Schmidt, Pempek, Kirkorian, Lund, Anderson)",
+      "year": "2008",
+      "kind": "Studie",
+      "url": "https://eric.ed.gov/?id=EJ802187"
+    },
+    {
+      "title": "BLIKK-Medien: Kinder und Jugendliche im Umgang mit elektronischen Medien – Abschlussbericht",
+      "publisher": "Bundesministerium für Gesundheit",
+      "year": "2017",
+      "kind": "Studie",
+      "url": "https://www.bundesgesundheitsministerium.de/fileadmin/Dateien/5_Publikationen/Praevention/Berichte/Abschlussbericht_BLIKK_Medien.pdf"
+    }
+  ],
+  "related": ["medienerziehung-3-6", "babys-spielen", "spiel-kleinkind", "co-regulation"]
+}

@@ -1,0 +1,281 @@
+{
+  "slug": "sprachexplosion",
+  "title": "Die Sprachexplosion im zweiten Jahr",
+  "subtitle": "Warum der Wortschatz irgendwann sprunghaft wächst, wie du einen Late Talker erkennst – und was Sprachförderung im Alltag tatsächlich ausmacht.",
+  "phases": ["kleinkind"],
+  "topics": ["sprache", "entwicklung"],
+  "updated": "2026-08-05",
+  "summary": "Zwischen 18 und 24 Monaten wächst der Wortschatz bei vielen Kindern von wenigen Dutzend auf mehrere hundert Wörter – oft in wenigen Monaten. Bei anderen bleibt es lange still. Etwa jedes fünfte Kind spricht mit zwei Jahren weniger als 50 Wörter; ein großer Teil davon holt bis zum dritten Geburtstag auf, ein relevanter Teil nicht. Weil sich das im Einzelfall nicht vorhersagen lässt, gilt: Hören prüfen lassen, Sprachstand mit zweieinhalb Jahren erfassen, nicht endlos abwarten.",
+  "keyFacts": [
+    "Mit 18 Monaten sprechen viele Kinder etwa 50 Wörter, mit 24 Monaten oft mehrere hundert – die Spannbreite ist enorm.",
+    "Zweiwortsätze (Mama Auto, Papa weg) tauchen meist zwischen 18 und 24 Monaten auf.",
+    "Late Talker: unter 50 Wörter und keine Zweiwortsätze mit 24 Monaten. Betrifft etwa jedes fünfte Kind.",
+    "Ein großer Teil holt spontan auf, aber je nach Studie behalten 30 bis 60 Prozent Auffälligkeiten – vorhersagen lässt es sich nicht.",
+    "Erster Schritt bei jedem Verdacht ist immer eine Hörprüfung, nicht das Sprachtraining."
+  ],
+  "blocks": [
+    {
+      "type": "p",
+      "lead": true,
+      "text": "Es gibt Familien, in denen es passiert wie ein Wetterumschwung: Ein Kind sagt monatelang fünf Wörter, und dann kommen plötzlich jeden Tag neue dazu. Andere Eltern warten und warten, vergleichen auf dem Spielplatz und werden mit Sätzen vertröstet, die niemandem helfen – Jungs sprechen eben später, das gibt sich, mein Neffe hat auch erst mit drei angefangen. Beides ist möglich, und genau das ist das Problem: Ohne genaueres Hinsehen kann man den entspannten vom sorgenvollen Fall nicht unterscheiden."
+    },
+    {
+      "type": "section",
+      "heading": "Was im zweiten Jahr passiert",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "Am Anfang des zweiten Jahres lernt ein Kind Wörter mühsam, eines nach dem anderen. Dann kippt etwas: Es begreift, dass jedes Ding einen Namen hat und dass man Namen erfragen kann. Ab da geht das Lernen schneller. In der Fachliteratur heißt das Wortschatzspurt, und der Name ist wörtlich gemeint – manche Kinder nehmen zeitweise mehrere neue Wörter pro Tag auf."
+        },
+        {
+          "type": "timeline",
+          "title": "Sprache zwischen 12 und 36 Monaten",
+          "entries": [
+            {
+              "age": "12–18 Monate",
+              "label": "Einwortsätze",
+              "text": "Ein Wort trägt eine ganze Botschaft. Ball kann heißen: Da ist ein Ball, ich will den Ball, der Ball ist weg. Der Wortschatz wächst langsam auf etwa 50 Wörter."
+            },
+            {
+              "age": "18–24 Monate",
+              "label": "Der Wortschatzspurt",
+              "text": "Nach der Marke von rund 50 Wörtern beschleunigt sich das Lernen deutlich. Viele Kinder kommen am zweiten Geburtstag auf zwei- bis dreihundert Wörter – manche auf deutlich mehr, manche auf deutlich weniger."
+            },
+            {
+              "age": "20–24 Monate",
+              "label": "Zweiwortsätze",
+              "text": "Mama Auto. Papa weg. Mehr Saft. Jetzt wird Grammatik geboren: Zwei Wörter werden zueinander in Beziehung gesetzt. Dieser Schritt ist entwicklungspsychologisch wichtiger als die reine Wörterzahl."
+            },
+            {
+              "age": "24–36 Monate",
+              "label": "Sätze, Fragen, Fehler",
+              "text": "Mehrwortsätze, das Wörtchen ich, endlose Warum-Fragen. Es entstehen typische Übergeneralisierungen wie gegeht oder gemalt für alles Vergangene – ein Zeichen, dass Regeln gebildet werden."
+            }
+          ],
+          "caption": "Orientierungswerte nach den Darstellungen der Bundeszentrale für gesundheitliche Aufklärung und den logopädischen Fachverbänden. Es sind Mittelwerte, keine Sollwerte."
+        },
+        {
+          "type": "callout",
+          "variant": "tip",
+          "title": "Zähl lieber die Satzbausteine als die Wörter",
+          "text": "Wortschatzlisten machen Eltern nervös und sind ungenau, weil niemand mitzählen kann, was ein Kleinkind alles versteht. Die aussagekräftigere Frage lautet: Kombiniert dein Kind schon zwei Wörter zu einer Aussage? Der Schritt vom Einzelwort zur Kombination ist der eigentliche Meilenstein im zweiten Jahr – und er ist der Punkt, an dem Fachleute später am genauesten hinschauen."
+        }
+      ]
+    },
+    {
+      "type": "section",
+      "heading": "Late Talker: die Zahlen und was sie bedeuten",
+      "blocks": [
+        {
+          "type": "evidence",
+          "level": "stark",
+          "claim": "Als Late Talker gilt ein Kind, das mit 24 Monaten weniger als 50 Wörter spricht und keine Zweiwortkombinationen bildet – bei ansonsten altersgemäßer Entwicklung. Das trifft je nach Studie auf 13 bis 20 Prozent der Zweijährigen zu, also etwa jedes fünfte bis siebte Kind.",
+          "note": "Late Talker ist keine Diagnose, sondern eine Beschreibung des Sprachstands zu einem Stichtag. Sie sagt nichts über Intelligenz und nichts über die Zukunft – sie markiert nur eine Gruppe, in der genauer hingeschaut werden sollte.",
+          "sources": [0, 1]
+        },
+        {
+          "type": "figure",
+          "kind": "share",
+          "title": "Wie es Late Talkern mit drei Jahren geht",
+          "alt": "Anteilsdiagramm mit drei Gruppen: aufgeholt, sprachliche Schwäche, Sprachentwicklungsstörung",
+          "data": [
+            { "label": "Rückstand aufgeholt", "value": 37, "display": "37 %" },
+            { "label": "Noch sprachlich schwach", "value": 28, "display": "28 %" },
+            { "label": "Kriterien einer Sprachentwicklungsstörung erfüllt", "value": 35, "display": "35 %" }
+          ],
+          "caption": "Ergebnisse einer deutschen Nachuntersuchung von Kindern, die mit 24 Monaten als Late Talker eingestuft wurden, veröffentlicht in der Zeitschrift Sprache · Stimme · Gehör. Andere Studien kommen auf höhere Aufholquoten – die Größenordnung bleibt: Ein großer Teil holt auf, ein relevanter Teil nicht.",
+          "sources": [2]
+        },
+        {
+          "type": "evidence",
+          "level": "moderat",
+          "claim": "Ob ein Kind zu den Aufholern gehört, lässt sich im Einzelfall mit 24 Monaten nicht vorhersagen. Ein brauchbarer Frühindikator ist die Fähigkeit, mit etwa zweieinhalb Jahren Sätze zu produzieren.",
+          "note": "In der genannten Nachuntersuchung hatten fast alle Kinder mit weit unterdurchschnittlicher Satzproduktion mit zweieinhalb Jahren auch mit drei Jahren noch deutliche Sprachdefizite. Praktisch heißt das: Abwarten bis 24 Monate ist vertretbar, Abwarten bis zum dritten Geburtstag ohne Kontrolle nicht.",
+          "sources": [2]
+        },
+        {
+          "type": "evidence",
+          "level": "moderat",
+          "claim": "Frühe Sprachförderung bei Late Talkern wirkt. Eine Metaanalyse kontrollierter Studien fand einen mittleren Gesamteffekt, mit deutlichen Effekten auf den aktiven Wortschatz und auf die Grammatik.",
+          "note": "Die Datenbasis ist überschaubar – fünf kontrollierte Studien mit gut 440 Kindern. Sie stützt aber die Praxis, nicht bis zum Kindergartenalter zu warten. Viele wirksame Ansätze sind Elterntrainings: Nicht das Kind wird trainiert, sondern die Erwachsenen ändern ihre Art zu sprechen.",
+          "sources": [3]
+        }
+      ]
+    },
+    {
+      "type": "section",
+      "heading": "Was Sprachförderung im Alltag wirklich ausmacht",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "Die gute Nachricht zuerst: Es gibt keine Übungen, die du abarbeiten müsstest, und kein Programm, das man kaufen kann. Was in Elterntrainings vermittelt wird, sind ein paar Gewohnheiten, die sich in normale Gespräche einbauen lassen."
+        },
+        {
+          "type": "comparison",
+          "title": "Zwei Arten, auf ein Kleinkind zu reagieren",
+          "columns": [
+            {
+              "title": "Bringt wenig",
+              "tone": "bad",
+              "items": [
+                "Sag mal Ball. Nein, Baaall. Sag es richtig.",
+                "Abfragen: Was ist das? Und das? Und das?",
+                "Fehler direkt korrigieren und wiederholen lassen",
+                "Sprachlern-Apps und Videos als Ersatz für Gespräche",
+                "Auf ein Wort warten, bevor das Kind bekommt, was es zeigt"
+              ]
+            },
+            {
+              "title": "Bringt viel",
+              "tone": "good",
+              "items": [
+                "Das Gesagte richtig zurückspiegeln: Ball – ja, der Ball rollt weg.",
+                "Erweitern statt korrigieren: Auf Auto weg folgt Das Auto ist weggefahren.",
+                "Über das reden, was dein Kind gerade anschaut oder tut",
+                "Pausen lassen und wirklich auf eine Antwort warten",
+                "Echte Wahlfragen stellen: Willst du Apfel oder Banane?"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "callout",
+          "variant": "myth",
+          "title": "„Wenn ich ihm nicht alles sofort gebe, muss er es sagen“",
+          "text": "Der Rat kursiert hartnäckig: Man solle Wünsche erst erfüllen, wenn das Kind sie sprachlich äußert. Bei Kindern, die noch keine Wörter haben, erzeugt das vor allem Frust – und Frust ist keine gute Lernumgebung. Sinnvoller ist die kleine Verzögerung: einen Moment abwarten, erwartungsvoll schauen, das Wort selbst anbieten (Saft? Du möchtest Saft.) und dann geben. Kommunikation wird belohnt, nicht erzwungen. Gesten, Zeigen und Gebärden gehören ausdrücklich dazu – sie ersetzen die Sprache nicht, sie bahnen sie."
+        }
+      ]
+    },
+    {
+      "type": "section",
+      "heading": "Wann in die Praxis, wann zur Logopädie",
+      "blocks": [
+        {
+          "type": "steps",
+          "title": "Der sinnvolle Weg bei Sprachsorgen",
+          "items": [
+            {
+              "title": "Erst das Gehör",
+              "text": "Bei jeder Sprachauffälligkeit steht die Hörprüfung am Anfang – auch wenn das Neugeborenen-Screening unauffällig war. Häufigste Ursache im Kleinkindalter ist ein anhaltender Paukenerguss nach Infekten, der sich behandeln lässt."
+            },
+            {
+              "title": "Vorsorgeuntersuchung nutzen",
+              "text": "Die U7 mit rund zwei Jahren erfasst den Sprachstand systematisch. Sag dort konkret, was dein Kind kann und was nicht – nicht nur, dass es wenig spricht."
+            },
+            {
+              "title": "Mit 24 Monaten einordnen",
+              "text": "Unter 50 Wörter und keine Zweiwortsätze: Das ist der Zeitpunkt, an dem ein Kind als Late Talker gilt und eine standardisierte Erfassung sinnvoll wird."
+            },
+            {
+              "title": "Mit 30 Monaten kontrollieren",
+              "text": "Wenn abgewartet wurde, gehört ein fester Kontrolltermin dazu. Zeigt sich dann keine deutliche Aufholbewegung, insbesondere bei den Sätzen, ist eine Sprachtherapie angezeigt."
+            },
+            {
+              "title": "Verordnung holen",
+              "text": "Logopädie wird in Deutschland ärztlich verordnet und von den Krankenkassen bezahlt. Wartezeiten sind vielerorts lang – melde dich parallel zur Diagnostik schon in Praxen an."
+            }
+          ]
+        },
+        {
+          "type": "callout",
+          "variant": "warn",
+          "title": "Nicht abwarten, sondern abklären lassen bei",
+          "items": [
+            "einem Kind, das mit 18 Monaten noch keine erkennbaren Wörter benutzt",
+            "sichtbaren Schwierigkeiten beim Verstehen – einfache Aufforderungen kommen nicht an",
+            "Verlust bereits erworbener Wörter oder Fähigkeiten",
+            "fehlendem Blickkontakt, wenig Zeigen, wenig Interesse an gemeinsamem Spiel",
+            "starkem Sabbern, Schwierigkeiten beim Kauen oder Schlucken",
+            "wiederkehrenden Mittelohrentzündungen oder häufig verlegter Nasenatmung"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "section",
+      "heading": "Häufige Fragen",
+      "blocks": [
+        {
+          "type": "faq",
+          "items": [
+            {
+              "q": "Stimmt es, dass Jungen später sprechen?",
+              "a": "Im Mittel etwas, ja – und Sprachentwicklungsstörungen werden bei Jungen etwa doppelt so häufig festgestellt. Als Beruhigung taugt das nicht: Der Geschlechtsunterschied ist klein gegenüber der Streuung zwischen einzelnen Kindern. Ein Junge, der mit zwei Jahren kaum spricht, ist kein Sonderfall der Statistik, sondern ein Kind, dessen Sprachstand erfasst gehört."
+            },
+            {
+              "q": "Unser Kind versteht alles, spricht aber kaum. Beruhigt mich das?",
+              "a": "Teilweise. Ein gutes Sprachverständnis ist tatsächlich ein günstiges Zeichen für die Prognose. Es ersetzt aber nicht die Kontrolle – und Eltern überschätzen das Verstehen leicht, weil Kleinkinder viel aus Gesten, Blickrichtung und Situation erschließen. Ein Test dafür: eine ungewöhnliche Bitte ohne jede Geste, etwa Leg den Löffel auf den Stuhl."
+            },
+            {
+              "q": "Bringt es etwas, mit meinem Kind Gebärden zu benutzen?",
+              "a": "Gebärden verzögern das Sprechen nicht. Sie geben einem Kind, das sich noch nicht ausdrücken kann, einen Weg dazu – das senkt Frust und damit oft auch die Zahl der Wutanfälle. Ein Ersatz für Sprachtherapie sind sie nicht, aber eine sinnvolle Brücke."
+            },
+            {
+              "q": "Mein Kind spricht undeutlich. Ist das dasselbe Problem?",
+              "a": "Nein. Aussprachefehler wie Tuh statt Kuh sind im dritten und vierten Jahr normal und verschwinden meist von selbst. Etwas anderes ist es, wenn dein Kind für Fremde weitgehend unverständlich bleibt: Mit drei Jahren sollten Außenstehende etwa die Hälfte verstehen, mit vier den größten Teil. Bleibt es deutlich darunter, lohnt eine Abklärung."
+            },
+            {
+              "q": "Wir waren beim Kinderarzt, dort hieß es abwarten. Reicht mir das nicht?",
+              "a": "Abwarten kann fachlich richtig sein – aber nur mit Datum. Bitte um einen konkreten Kontrolltermin und um klare Kriterien, was bis dahin passiert sein soll. Wenn dir das verweigert wird und deine Sorge bleibt, ist eine Zweitmeinung, etwa in einer phoniatrisch-pädaudiologischen Praxis oder einem Sozialpädiatrischen Zentrum, ein legitimer Schritt."
+            },
+            {
+              "q": "Ist es meine Schuld, wenn mein Kind spät spricht?",
+              "a": "Nein. Sprachentwicklungsstörungen haben einen starken erblichen Anteil und treten in Familien auf, in denen viel gesprochen und vorgelesen wird, genauso wie in anderen. Was du beeinflussen kannst, ist nicht die Ursache, sondern der Umgang: früh hinschauen, das Gehör prüfen lassen, Hilfe holen, wenn sie gebraucht wird."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "callout",
+      "variant": "info",
+      "title": "Kurz gesagt",
+      "text": "Die Spannbreite im zweiten Jahr ist riesig, und Spätzünder gibt es wirklich. Trotzdem ist Abwarten nur dann eine gute Strategie, wenn es ein Ablaufdatum hat: Hören prüfen, mit 24 Monaten einordnen, mit 30 Monaten kontrollieren. Alles, was du dazwischen tun kannst, ist keine Übung, sondern ein Gespräch."
+    }
+  ],
+  "sources": [
+    {
+      "title": "Late Talker – Patienteninformation",
+      "publisher": "Deutscher Bundesverband für Logopädie (dbl)",
+      "year": "2024",
+      "kind": "Institutionelle Information",
+      "url": "https://www.dbl-ev.de/patienteninformationen/late-talker/"
+    },
+    {
+      "title": "S3-Leitlinie Therapie von Sprachentwicklungsstörungen (AWMF-Register 049-015)",
+      "publisher": "AWMF / Deutsche Gesellschaft für Phoniatrie und Pädaudiologie",
+      "year": "2022",
+      "kind": "Leitlinie",
+      "url": "https://register.awmf.org/de/leitlinien/detail/049-015"
+    },
+    {
+      "title": "Prognose der sprachlichen Entwicklung von Late Talkers",
+      "publisher": "Sprache · Stimme · Gehör (Thieme)",
+      "year": "2019",
+      "kind": "Studie",
+      "url": "https://www.thieme-connect.com/products/ejournals/abstract/10.1055/a-0867-7927"
+    },
+    {
+      "title": "Zur Wirksamkeit sprachfördernder Frühinterventionen bei Late Talkers: Eine Metaanalyse",
+      "publisher": "Sprache · Stimme · Gehör (Thieme); Daniels, Fanselow, Egert",
+      "year": "2020",
+      "kind": "Metaanalyse",
+      "url": "https://www.thieme-connect.de/products/ejournals/abstract/10.1055/a-1060-6181"
+    },
+    {
+      "title": "Früherkennung von Risiken und Störungen in der Sprachentwicklung",
+      "publisher": "Bundeszentrale für gesundheitliche Aufklärung (BZgA), kindergesundheit-info.de",
+      "year": "2024",
+      "kind": "Institutionelle Information",
+      "url": "https://www.kindergesundheit-info.de/themen/entwicklung/entwicklungsschritte/sprachentwicklung/frueherkennung-sprachstoerung/"
+    },
+    {
+      "title": "Sprachliche Entwicklung unterstützen – Alltagstipps",
+      "publisher": "Bundeszentrale für gesundheitliche Aufklärung (BZgA), kindergesundheit-info.de",
+      "year": "2024",
+      "kind": "Institutionelle Information",
+      "url": "https://www.kindergesundheit-info.de/themen/entwicklung/alltagstipps/entwicklungsschritte/sprachfoerderung/"
+    }
+  ],
+  "related": ["sprachentwicklung-erstes-jahr", "vorlesen", "mehrsprachig-aufwachsen", "entwicklungsverzoegerung-erkennen"]
+}

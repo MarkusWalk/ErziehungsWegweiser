@@ -1,0 +1,273 @@
+{
+  "slug": "mehrsprachig-aufwachsen",
+  "title": "Mehrsprachig aufwachsen",
+  "subtitle": "Warum zwei Sprachen kein Kind überfordern, was Sprachmischung wirklich bedeutet – und was du tun kannst, wenn dein Kind eine der Familiensprachen plötzlich verweigert.",
+  "phases": ["kleinkind", "kindergarten", "schulkind"],
+  "topics": ["sprache", "familie"],
+  "updated": "2026-08-05",
+  "summary": "Kinder können mehrere Sprachen gleichzeitig lernen – das ist weltweit eher die Regel als die Ausnahme. Mehrsprachigkeit verursacht keine Sprachentwicklungsstörung und verzögert die Meilensteine nicht. Sprachmischung ist kein Zeichen von Verwirrung, sondern eine geregelte Fähigkeit. Entscheidend ist nicht, welches Modell eine Familie wählt, sondern wie viel reiche, echte Sprache ein Kind in jeder Sprache hört – und dass Eltern in der Sprache sprechen, in der sie sich wirklich ausdrücken können.",
+  "keyFacts": [
+    "Mehrsprachigkeit verursacht keine Sprachentwicklungsstörung – das ist wissenschaftlich gut geklärt.",
+    "Erste Wörter und Zweiwortsätze kommen bei mehrsprachigen Kindern zur gleichen Zeit wie bei einsprachigen.",
+    "Pro Einzelsprache kann der Wortschatz kleiner wirken; zusammengerechnet ist er mindestens so groß.",
+    "Sprachmischung (Code-Switching) folgt Regeln und ist ein Zeichen von Kompetenz, nicht von Überforderung.",
+    "Eine echte Sprachentwicklungsstörung zeigt sich in allen Sprachen des Kindes – niemals nur in einer."
+  ],
+  "blocks": [
+    {
+      "type": "p",
+      "lead": true,
+      "text": "Kaum eine Familie mit zwei Sprachen bleibt von Ratschlägen verschont. Sprich doch lieber nur Deutsch mit ihm, sonst lernt er keines richtig. Das arme Kind, das ist doch viel zu viel auf einmal. Vermischt es die Sprachen, wird das als Beweis genommen. Spricht es spät, ebenso. Die Forschungslage dazu ist seit Jahrzehnten stabil und deutlich – nur ist sie in Kitas, Praxen und an Küchentischen noch nicht überall angekommen."
+    },
+    {
+      "type": "section",
+      "heading": "Was gesichert ist",
+      "blocks": [
+        {
+          "type": "evidence",
+          "level": "stark",
+          "claim": "Mehrsprachiges Aufwachsen verursacht keine Sprachentwicklungsstörung und verzögert die Meilensteine des Spracherwerbs nicht. Erste Wörter, Zweiwortsätze und Grammatikerwerb liegen im selben Zeitfenster wie bei einsprachigen Kindern.",
+          "note": "Der Befund stammt aus Übersichtsarbeiten und aus Vergleichsstudien mit ein- und mehrsprachigen Kindern mit und ohne Sprachstörung. Die Rate von Sprachentwicklungsstörungen ist bei mehrsprachigen Kindern nicht erhöht. Der Mythos stammt aus Untersuchungen des frühen 20. Jahrhunderts, die Kinder aus armen Einwandererfamilien mit privilegierten einsprachigen Kindern verglichen – gemessen wurde Armut, nicht Zweisprachigkeit.",
+          "sources": [2, 4]
+        },
+        {
+          "type": "evidence",
+          "level": "stark",
+          "claim": "Der Wortschatz mehrsprachiger Kinder verteilt sich auf ihre Sprachen. In einer einzelnen Sprache gemessen wirkt er oft kleiner als bei einsprachigen Kindern – über alle Sprachen zusammen ist er mindestens ebenso groß.",
+          "note": "Deshalb sind einsprachige Sprachtests bei mehrsprachigen Kindern systematisch unfair: Sie messen einen Ausschnitt und nennen das Ergebnis Rückstand. Für Eltern heißt das praktisch: Ein Kita-Sprachtest, der nur Deutsch prüft, sagt etwas über den Deutschstand aus – nicht über die Sprachfähigkeit deines Kindes.",
+          "sources": [3, 4]
+        },
+        {
+          "type": "callout",
+          "variant": "myth",
+          "title": "„Doppelte Halbsprachigkeit“",
+          "text": "Der Begriff geistert seit den 1970er-Jahren herum: Mehrsprachige Kinder lernten angeblich beide Sprachen nur halb. Er ist wissenschaftlich nicht haltbar und wird von den Fachinstituten ausdrücklich als Mythos geführt. Was es tatsächlich gibt, sind unterschiedlich starke Sprachen – fast jedes mehrsprachige Kind hat eine dominante und eine schwächere Sprache, und welche das ist, kann sich mehrfach im Leben ändern. Das ist Normalität, kein Defizit."
+        }
+      ]
+    },
+    {
+      "type": "section",
+      "heading": "Zwei Wege in die Mehrsprachigkeit",
+      "blocks": [
+        {
+          "type": "timeline",
+          "title": "Wann welche Sprache dazukommt",
+          "entries": [
+            {
+              "age": "0–3 Jahre",
+              "label": "Gleichzeitiger Erwerb",
+              "text": "Das Kind hört beide Sprachen von Anfang an. Es unterscheidet sie schon im ersten Lebensjahr an Klang und Melodie und baut zwei parallele Systeme auf – nicht ein vermischtes."
+            },
+            {
+              "age": "ab 3 Jahren",
+              "label": "Aufeinanderfolgender Erwerb",
+              "text": "Die Familiensprache ist etabliert, die Umgebungssprache kommt mit der Kita dazu. Typisch ist eine stille Phase von Wochen bis wenigen Monaten, in der das Kind zuhört und wenig produziert. Sie ist normal, sollte aber nicht über ein halbes Jahr dauern."
+            },
+            {
+              "age": "4–6 Jahre",
+              "label": "Umgebungssprache wird dominant",
+              "text": "Mit dem Kita-Alltag kippt oft das Verhältnis: Deutsch wird zur Sprache, in der gespielt und gestritten wird. Genau hier beginnen viele Kinder, die Familiensprache abzulehnen."
+            },
+            {
+              "age": "Schulalter",
+              "label": "Bildungssprache und Schrift",
+              "text": "Jetzt entscheidet sich, ob die Familiensprache auch für Komplexes taugt – erzählen, erklären, streiten, vielleicht lesen und schreiben. Ohne bewusste Pflege bleibt sie sonst eine Küchensprache."
+            }
+          ],
+          "caption": "Darstellung nach den Faktenchecks des Mercator-Instituts für Sprachförderung und den Fachpublikationen der Sprachheilverbände. Die Übergänge sind fließend."
+        },
+        {
+          "type": "p",
+          "text": "Beide Wege führen zu voller Mehrsprachigkeit. Ein später Start ist kein verpasster Zug: Kinder, die erst mit drei oder vier Jahren Deutsch dazulernen, erreichen in der Regel ein muttersprachliches Niveau, wenn sie genug Kontakt zur Sprache haben und sie regelmäßig benutzen dürfen."
+        }
+      ]
+    },
+    {
+      "type": "section",
+      "heading": "Welches Modell passt zu euch?",
+      "blocks": [
+        {
+          "type": "table",
+          "title": "Verbreitete Sprachmodelle in Familien",
+          "head": ["Modell", "So funktioniert es", "Worauf zu achten ist"],
+          "rows": [
+            [
+              "Eine Person, eine Sprache",
+              "Jeder Elternteil spricht durchgehend seine eigene Sprache mit dem Kind.",
+              "Klar und leicht zu erklären. Riskant, wenn ein Elternteil viel weniger Zeit mit dem Kind verbringt – dann bekommt diese Sprache zu wenig Raum."
+            ],
+            [
+              "Familiensprache zu Hause",
+              "Zu Hause wird konsequent die Familiensprache gesprochen, die Umgebungssprache kommt über Kita, Schule und Freunde.",
+              "Sichert der schwächeren Sprache viel Zeit. Braucht Gelassenheit, wenn das Kind zurück auf Deutsch antwortet."
+            ],
+            [
+              "Nach Situation oder Ort",
+              "Sprachen wechseln nach Anlass – etwa Familiensprache beim Essen und am Wochenende.",
+              "Flexibel und alltagstauglich. Braucht bewusste Planung, sonst frisst die Umgebungssprache nach und nach alle Anlässe auf."
+            ]
+          ],
+          "caption": "Keines dieser Modelle ist den anderen nachweislich überlegen. Entscheidend ist die Menge und Qualität des Sprachkontakts, nicht die Systematik."
+        },
+        {
+          "type": "evidence",
+          "level": "moderat",
+          "claim": "Für die Überlegenheit eines bestimmten Familienmodells gibt es keine belastbare Evidenz. Was den Erfolg vorhersagt, ist der Umfang und die Reichhaltigkeit des Kontakts zu jeder Sprache – und die Gelegenheit, sie tatsächlich zu benutzen.",
+          "note": "Strenge Konsequenz ist also nicht der Punkt. Ein Elternteil, der gelegentlich wechselt, richtet keinen Schaden an. Kritisch wird es erst, wenn eine Sprache im Alltag so selten wird, dass das Kind sie nur noch versteht und nicht mehr spricht.",
+          "sources": [0, 1]
+        },
+        {
+          "type": "callout",
+          "variant": "tip",
+          "title": "Sprich die Sprache, in der du dein Kind lieben kannst",
+          "text": "Das ist der einzige wirklich wichtige Rat. Wenn du in einer Sprache Witze machst, schimpfst, tröstest und singst, bekommt dein Kind reiche Sprache. Wenn du in einer angelernten Sprache holprig auf tausend Wörter beschränkt bleibst, bekommt es davon eine dünne Version – und verliert obendrein die Verbindung zu deinen Großeltern. Der gut gemeinte Rat, mit dem Kind zu Hause nur Deutsch zu sprechen, kostet mehr, als er bringt."
+        }
+      ]
+    },
+    {
+      "type": "section",
+      "heading": "Sprachmischung ist kein Alarmzeichen",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "Wenn dein Kind sagt: Ich will noch ein bisschen jugar, dann mischt es nicht aus Verwirrung. Code-Switching folgt in allen untersuchten Sprachpaaren grammatischen Regeln – gewechselt wird an Stellen, an denen beide Sprachen es zulassen. Erwachsene Mehrsprachige tun es ihr Leben lang, oft gerade dann, wenn sie beide Sprachen sehr gut beherrschen."
+        },
+        {
+          "type": "p",
+          "text": "Bei kleinen Kindern hat das Mischen meist einen banalen Grund: Ein Wort fehlt gerade, ein anderes ist schneller da. Manche Wörter sind auch schlicht in einer Sprache gelernt worden – wer nur zu Hause isst, kennt Küchenwörter zuerst in der Familiensprache. Nützlich ist dann nicht das Verbot, sondern das unauffällige Nachliefern: Du wiederholst den Satz vollständig in deiner Sprache, ohne das Kind zu korrigieren."
+        },
+        {
+          "type": "callout",
+          "variant": "warn",
+          "title": "Wenn dein Kind eine Sprache verweigert",
+          "text": "Sehr viele mehrsprachige Kinder gehen durch eine Phase, in der sie auf die Familiensprache nur noch auf Deutsch antworten – meist im Kita-Alter, wenn Dazugehören wichtig wird. Was hilft: selbst bei der eigenen Sprache bleiben, nicht verhandeln und nicht beschämen; Anlässe schaffen, in denen die Sprache nützlich oder attraktiv ist (Verwandte per Video, Besuche, Kinderlieder, andere Kinder mit derselben Sprache); und das Verstehen zählen lassen. Passives Verstehen bleibt erhalten und kann später erstaunlich schnell wieder in aktives Sprechen umschlagen."
+        }
+      ]
+    },
+    {
+      "type": "section",
+      "heading": "Und wenn doch etwas nicht stimmt?",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "Mehrsprachigkeit schützt nicht vor Sprachentwicklungsstörungen – sie kommen genauso häufig vor wie bei einsprachigen Kindern. Der gefährliche Fehler geht in beide Richtungen: Auffälligkeiten werden mit der Mehrsprachigkeit wegerklärt und zu spät abgeklärt, oder normale Merkmale des mehrsprachigen Erwerbs werden fälschlich als Störung behandelt."
+        },
+        {
+          "type": "evidence",
+          "level": "stark",
+          "claim": "Eine Sprachentwicklungsstörung liegt nur vor, wenn alle Sprachen des Kindes betroffen sind. Ist ein Kind nur in der Umgebungssprache auffällig, besteht Förderbedarf, aber kein Therapiebedarf.",
+          "note": "Deshalb gehört zur Diagnostik immer eine Erhebung zur Erstsprache – notfalls über ein strukturiertes Elterngespräch mit Dolmetschung, wenn kein Test in der Sprache verfügbar ist. Wichtige Angaben sind: Ab wann hört dein Kind welche Sprache, wie viele Stunden am Tag, und wie beurteilen Verwandte seine Familiensprache im Vergleich zu Gleichaltrigen?",
+          "sources": [3, 5]
+        },
+        {
+          "type": "list",
+          "ordered": false,
+          "items": [
+            {
+              "title": "Warnzeichen unabhängig von der Sprachenzahl:",
+              "text": "kein Silbenlallen bis 10 Monate, keine Wörter mit 18 Monaten, unter 50 Wörter und keine Wortkombinationen mit 24 Monaten – in keiner der Sprachen zusammengenommen."
+            },
+            {
+              "title": "Verstehen zuerst:",
+              "text": "Ein Kind, das in der Familiensprache Aufforderungen nicht versteht, braucht eine Abklärung – unabhängig davon, wie gut sein Deutsch ist."
+            },
+            {
+              "title": "Auch hier zuerst das Gehör:",
+              "text": "Vor jeder Sprachdiagnostik steht die Hörprüfung. Das gilt für mehrsprachige Kinder genauso."
+            },
+            {
+              "title": "Stille Phase mit Grenze:",
+              "text": "Wochen bis wenige Monate Schweigen nach dem Kita-Start sind normal. Über sechs Monate ohne jede Produktion sollte nicht unbeobachtet bleiben."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "section",
+      "heading": "Häufige Fragen",
+      "blocks": [
+        {
+          "type": "faq",
+          "items": [
+            {
+              "q": "Mein Kind spricht spät. Sollen wir sicherheitshalber auf eine Sprache reduzieren?",
+              "a": "Nein. Es gibt keinen Beleg dafür, dass das Weglassen einer Sprache die Sprachentwicklung beschleunigt – wohl aber dafür, dass Kinder mit Sprachstörungen von der Familiensprache profitieren, weil sie dort den reichsten Kontakt haben. Wenn dir jemand rät, die Familiensprache aufzugeben, frag nach der Studie dahinter."
+            },
+            {
+              "q": "Wir sprechen beide dieselbe Familiensprache, wohnen aber in Deutschland. Lernt unser Kind genug Deutsch?",
+              "a": "In aller Regel ja, sobald es regelmäßig deutschen Kontakt hat. Ein früher Kita-Platz und Kontakt zu deutschsprachigen Kindern sind dabei wirksamer als deutsche Gespräche mit Eltern, die selbst noch unsicher sind. Beim Schuleintritt aufholen ist möglich, aber anstrengender – deshalb ist der frühere Start die entspanntere Variante."
+            },
+            {
+              "q": "Zählen Filme und Apps in der Familiensprache?",
+              "a": "Kaum. Sprache wird im Austausch gelernt, nicht durch Berieselung. Ein Videotelefonat mit den Großeltern, in dem gefragt und geantwortet wird, bringt mehr als eine Stunde Zeichentrick. Bücher in der Familiensprache dagegen sind wertvoll – weil ihr dabei sprecht."
+            },
+            {
+              "q": "Ich beherrsche meine Erstsprache selbst nicht mehr perfekt. Soll ich sie trotzdem sprechen?",
+              "a": "Ja, wenn du dich darin wohler ausdrückst als in der anderen. Kinder lernen von echter, gefühlvoller Sprache. Grammatische Unsicherheiten der Eltern führen nicht dazu, dass ein Kind die Sprache falsch lernt – Sprachkontakt außerhalb der Familie gleicht das aus."
+            },
+            {
+              "q": "Bringt Mehrsprachigkeit meinem Kind kognitive Vorteile?",
+              "a": "Hier ist ehrliche Zurückhaltung angebracht. Über Jahre wurden Vorteile bei Aufmerksamkeit und Steuerungsfähigkeit berichtet; neuere, größere Untersuchungen finden diese Effekte oft nicht mehr oder deutlich kleiner. Sicher belegt sind die naheliegenden Vorteile: mehrere Sprachen zu können und Zugang zu mehr Menschen zu haben. Das reicht als Begründung."
+            },
+            {
+              "q": "Unser Kind hat eine Sprachtherapie. Muss die auf Deutsch stattfinden?",
+              "a": "Nicht zwingend – der Ausbau der stärkeren Sprache hilft auch der schwächeren. In der Praxis findet Logopädie in Deutschland meist auf Deutsch statt, weil Therapeutinnen für die Familiensprache fehlen. Dann ist wichtig, dass ihr zu Hause in eurer Sprache weiterarbeitet: Die Therapeutin kann euch dafür konkrete Anleitungen geben."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "callout",
+      "variant": "info",
+      "title": "Kurz gesagt",
+      "text": "Zwei Sprachen überfordern kein Kind. Was zählt, ist nicht die Systematik eures Modells, sondern wie viel echte, warme Sprache dein Kind in jeder Sprache hört. Mischen ist normal, eine schwächere Sprache ist normal, und eine Ablehnungsphase geht meist vorbei. Nur bei Auffälligkeiten in allen Sprachen ist die Mehrsprachigkeit nicht die Erklärung – dann gehört genauer hingeschaut."
+    }
+  ],
+  "sources": [
+    {
+      "title": "Faktencheck: Mehrsprachigkeit in Kita und Schule",
+      "publisher": "Mercator-Institut für Sprachförderung und Deutsch als Zweitsprache, Universität zu Köln",
+      "year": "2022",
+      "kind": "Übersichtsarbeit",
+      "url": "https://mercator-institut.uni-koeln.de/publikationen-material/faktenchecks"
+    },
+    {
+      "title": "Mehrsprachigkeit (Reihe Sprachheilarbeit, Heft 12)",
+      "publisher": "Deutsche Gesellschaft für Sprachheilpädagogik (dgs) / Deutscher Bundesverband der akademischen Sprachtherapeuten (dbs)",
+      "year": "2018",
+      "kind": "Institutionelle Information",
+      "url": "https://www.dbs-ev.de/fileadmin/dokumente/Publikationen/broschuere_12_Mehrsprachigkeit.pdf"
+    },
+    {
+      "title": "Mehrsprachiges Aufwachsen und Sprachentwicklungsstörungen. Eine Übersichtsarbeit",
+      "publisher": "Zeitschrift für Kinder- und Jugendpsychiatrie und Psychotherapie (Hogrefe)",
+      "year": "2018",
+      "kind": "Übersichtsarbeit",
+      "url": "https://econtent.hogrefe.com/doi/10.1024/1422-4917/a000599"
+    },
+    {
+      "title": "Sprachentwicklungsdiagnostik bei Mehrsprachigkeit",
+      "publisher": "Monatsschrift Kinderheilkunde (Springer)",
+      "year": "2012",
+      "kind": "Übersichtsarbeit",
+      "url": "https://link.springer.com/article/10.1007/s00112-012-2752-z"
+    },
+    {
+      "title": "Exploring Assumptions of the Bilingual Delay in Children With and Without Developmental Language Disorder",
+      "publisher": "Journal of Speech, Language, and Hearing Research (ASHA)",
+      "year": "2024",
+      "kind": "Studie",
+      "url": "https://pubs.asha.org/doi/10.1044/2023_JSLHR-23-00117"
+    },
+    {
+      "title": "S3-Leitlinie Therapie von Sprachentwicklungsstörungen (AWMF-Register 049-015)",
+      "publisher": "AWMF / Deutsche Gesellschaft für Phoniatrie und Pädaudiologie",
+      "year": "2022",
+      "kind": "Leitlinie",
+      "url": "https://register.awmf.org/de/leitlinien/detail/049-015"
+    }
+  ],
+  "related": ["sprachexplosion", "sprachentwicklung-erstes-jahr", "vorlesen", "kita-eingewoehnung"]
+}

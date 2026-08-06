@@ -1,0 +1,264 @@
+{
+  "slug": "kinderkrankheiten",
+  "title": "Klassische Kinderkrankheiten erkennen",
+  "subtitle": "Dreitagefieber, Hand-Fuß-Mund, Scharlach, Windpocken, Masern, Pseudokrupp und Magen-Darm: woran du sie erkennst, wie sie verlaufen – und wo Abwarten aufhört.",
+  "phases": ["kleinkind", "kindergarten"],
+  "topics": ["gesundheit"],
+  "updated": "2026-08-05",
+  "summary": "Die meisten sogenannten Kinderkrankheiten sind harmlose Virusinfekte, die von selbst ausheilen – Dreitagefieber und Hand-Fuß-Mund gehören dazu. Zwei Situationen sind anders: Ein Pseudokrupp-Anfall mit schwerer Atemnot und der Verdacht auf Masern oder eine Hirnhautentzündung sind keine Fälle für Abwarten. Dieser Artikel ordnet die typischen Erkrankungen nach Erkennungsmerkmalen, Ansteckungszeit und Rückkehr in die Kita – und sagt bei jeder, wo die Grenze zum sofortigen Handeln liegt.",
+  "keyFacts": [
+    "Die meisten Kinderkrankheiten sind viral und heilen ohne spezifische Behandlung aus.",
+    "Scharlach ist bakteriell; 24 Stunden nach Beginn einer Antibiotikatherapie besteht keine Ansteckungsgefahr mehr.",
+    "Ein Pseudokrupp-Anfall mit starker Atemnot oder blau-grauen Lippen ist ein Notruf-Fall.",
+    "Masern sind meldepflichtig – bei Verdacht vorher in der Praxis anrufen statt ins Wartezimmer zu gehen.",
+    "§ 34 Infektionsschutzgesetz regelt, wann Kinder wieder in Kita oder Schule dürfen."
+  ],
+  "blocks": [
+    {
+      "type": "p",
+      "lead": true,
+      "text": "Der Begriff Kinderkrankheit klingt nach etwas, das man einmal durchmacht und dann hinter sich hat. Für den größten Teil stimmt das auch: Fieber, Ausschlag, ein paar zähe Tage, danach Ruhe. Der Begriff verharmlost aber zwei Dinge – dass einzelne dieser Erkrankungen ernste Komplikationen haben können, und dass Erwachsene sie oft schwerer durchmachen als Kinder. Hier findest du die häufigsten im Überblick und die klaren Grenzen, an denen Abwarten falsch wäre."
+    },
+    {
+      "type": "callout",
+      "variant": "danger",
+      "title": "Hier wird nicht abgewartet",
+      "text": "**Atemnot bei Pseudokrupp:** Wenn dein Kind auch in aufrechter Haltung schwer Luft bekommt, bei jedem Atemzug hörbar pfeift, sich die Haut zwischen den Rippen einzieht, die Lippen oder das Gesicht blau-grau werden oder dein Kind teilnahmslos wird – **112**. **Verdacht auf eine Hirnhautentzündung:** hohes Fieber zusammen mit Nackensteife, schrillem Schreien, ausgeprägter Berührungs- oder Lichtempfindlichkeit, vorgewölbter Fontanelle beim Säugling, Bewusstseinstrübung oder Hautflecken, die sich mit einem Glas nicht wegdrücken lassen – **sofort 112, nicht bis zum Morgen warten**. **Verdacht auf Masern:** noch heute ärztlich abklären – aber **vorher anrufen**, damit ihr nicht im vollen Wartezimmer sitzt. Nummern und weitere Warnzeichen: Seite **Notfall & Anlaufstellen**."
+    },
+    {
+      "type": "section",
+      "heading": "Die häufigsten Erkrankungen im Überblick",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "Diese Tabelle ersetzt keine Diagnose – Ausschläge sehen bei jedem Kind etwas anders aus, und gerade in den ersten Stunden lässt sich vieles nicht auseinanderhalten. Sie hilft dir aber einzuordnen, was du gerade siehst, und die richtigen Fragen zu stellen."
+        },
+        {
+          "type": "table",
+          "title": "Erkennen, Verlauf, Rückkehr",
+          "head": ["Erkrankung", "Typische Zeichen", "Verlauf und Ansteckung", "Zurück in die Kita"],
+          "rows": [
+            ["Dreitagefieber", "Drei bis vier Tage plötzliches hohes Fieber ohne erkennbaren Grund, danach blassroter Ausschlag am Rumpf", "Virus (HHV-6), betrifft vor allem Kinder von 6 Monaten bis 3 Jahren, heilt von selbst", "Wenn das Kind fieberfrei und wieder fit ist"],
+            ["Hand-Fuß-Mund", "Kleine Bläschen an Handflächen, Fußsohlen und im Mund, Schmerzen beim Essen und Trinken", "Virus, meist milder Verlauf, Erreger wird noch Wochen über den Stuhl ausgeschieden", "Sobald das Kind fieberfrei ist und sich gesund fühlt; in der Regel ohne Attest"],
+            ["Scharlach", "Halsschmerzen, Fieber, feinfleckiger rauer Ausschlag ab dem Oberkörper, Mundpartie ausgespart, Himbeerzunge", "Bakteriell (Streptokokken), wird mit Antibiotikum behandelt, Inkubationszeit meist 1–3 Tage", "24 Stunden nach Beginn der Antibiotikatherapie und ohne Symptome"],
+            ["Windpocken", "Stark juckende Bläschen in Schüben, auch auf Kopfhaut und Schleimhäuten, nebeneinander frische und verkrustete Stellen", "Sehr ansteckend, auch über die Luft; durch Impfung vermeidbar", "Nach ärztlichem Urteil, üblicherweise wenn alle Bläschen verkrustet sind"],
+            ["Masern", "Hohes Fieber, Bindehautentzündung mit Lichtscheu, weißliche Flecken an der Wangenschleimhaut, dann großfleckiger Ausschlag ab dem Gesicht", "Extrem ansteckend, meldepflichtig, ansteckend ab 4 Tage vor bis 4 Tage nach Ausschlagsbeginn", "Frühestens 5 Tage nach Ausschlagsbeginn und nur nach ärztlichem Urteil"],
+            ["Pseudokrupp", "Bellender Husten, Heiserkeit, pfeifendes Geräusch beim Einatmen – typischerweise nachts und plötzlich", "Virusbedingte Schwellung unterhalb der Stimmbänder, meist bei Kindern von 6 Monaten bis 6 Jahren", "Wenn der Husten abgeklungen und das Kind fieberfrei ist"],
+            ["Magen-Darm-Infekt", "Erbrechen, wässriger Durchfall, Bauchschmerzen, oft explosionsartiger Beginn", "Meist Noro- oder Rotaviren, hoch ansteckend über Schmierinfektion, Rotaviren sind impfpräventabel", "In der Regel 48 Stunden nach der letzten Episode"]
+          ],
+          "caption": "Zusammengestellt nach RKI-Ratgebern, den Erregersteckbriefen von infektionsschutz.de und der Elterninformation der Bundeszentrale für gesundheitliche Aufklärung. Die Regeln zur Rückkehr können je nach Einrichtung und Gesundheitsamt abweichen – frag im Zweifel dort nach."
+        },
+        {
+          "type": "evidence",
+          "level": "moderat",
+          "claim": "Das Dreitagefieber ist so verbreitet, dass fast alle Kinder bis zum dritten Geburtstag Kontakt mit dem Erreger hatten. Charakteristisch ist, dass der Ausschlag erst auftritt, wenn das Fieber bereits gefallen ist.",
+          "note": "Praktisch heißt das: Die drei Tage hohes Fieber ohne erkennbare Ursache sind der schwierige Teil – der Ausschlag danach ist die Entwarnung, nicht die Verschlechterung. Dreitagefieber ist auch eine der häufigen Situationen, in denen Kinder ihren ersten Fieberkrampf bekommen. Das ist erschreckend, aber in aller Regel folgenlos.",
+          "sources": [4]
+        }
+      ]
+    },
+    {
+      "type": "section",
+      "heading": "Pseudokrupp: bellender Husten mitten in der Nacht",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "Pseudokrupp beginnt fast immer nachts und fast immer aus dem Nichts. Ein Kind, das abends nur leicht erkältet wirkte, wacht mit einem Husten auf, der klingt wie ein bellender Hund oder ein Seehund, dazu heiser und mit einem ziehenden Geräusch beim Einatmen. Die Angst des Kindes verstärkt die Enge, die Enge verstärkt die Angst – deshalb ist Ruhe kein Wohlfühltipp, sondern der wirksamste erste Schritt."
+        },
+        {
+          "type": "steps",
+          "title": "Im Anfall",
+          "items": [
+            { "title": "Aufrecht halten, ruhig sprechen", "text": "Nimm dein Kind auf den Arm oder setz dich mit ihm hin. Aufrechte Haltung erleichtert das Atmen, deine Ruhe überträgt sich." },
+            { "title": "Kühle, feuchte Luft", "text": "Ans offene Fenster, auf den Balkon oder ins Treppenhaus – warm angezogen. Viele Kinder empfinden kühle Luft als deutlich angenehmer." },
+            { "title": "Trinken anbieten", "text": "Kleine Schlucke, nichts erzwingen." },
+            { "title": "Verordnetes Notfallmedikament einsetzen", "text": "Wenn ihr für diesen Fall ein Kortisonpräparat verordnet bekommen habt, wende es genau nach ärztlicher Anweisung und Packungsbeilage an. Ohne Verordnung: keine Eigenexperimente." },
+            { "title": "Bei Atemnot: 112", "text": "Anhaltende Luftnot, hörbares Pfeifen auch in Ruhe, Einziehungen zwischen den Rippen, blau-graue Lippen oder ein zunehmend teilnahmsloses Kind – Notruf, ohne weiter abzuwarten." }
+          ]
+        },
+        {
+          "type": "callout",
+          "variant": "warn",
+          "title": "Nicht verwechseln",
+          "text": "Ein Kind, das plötzlich nicht sprechen kann, stark speichelt, den Kopf vorstreckt und schwer krank wirkt, hat möglicherweise keine Pseudokrupp-Attacke, sondern eine schwere Entzündung des Kehldeckels – ein Notfall, bei dem du nichts in den Mund schauen oder ausprobieren solltest, sondern sofort 112 rufst. Ebenso: Wenn ein bis dahin gesundes Kind aus voller Aktivität heraus zu husten beginnt und Luftnot bekommt, denk an einen verschluckten Fremdkörper."
+        }
+      ]
+    },
+    {
+      "type": "section",
+      "heading": "Masern: warum das keine gewöhnliche Kinderkrankheit ist",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "Masern verlaufen bei den meisten Kindern zwar unkompliziert, aber die Häufigkeit von Komplikationen ist um Größenordnungen höher als bei den anderen Erkrankungen in der Tabelle oben. Dazu kommt, dass das Virus die Immunabwehr für Monate schwächt und dass es sich über die Luft überträgt – ein infizierter Mensch reicht, um in einem Wartezimmer viele anzustecken."
+        },
+        {
+          "type": "timeline",
+          "title": "Masern im Verlauf",
+          "entries": [
+            { "age": "Tag 8–10 nach Ansteckung", "label": "Vorstadium", "text": "Fieber, Schnupfen, Husten, entzündete Bindehäute und Lichtscheu. Sieht zunächst aus wie ein schwerer grippaler Infekt." },
+            { "age": "etwa Tag 14", "label": "Der typische Ausschlag", "text": "Großfleckig und zusammenfließend, beginnt hinter den Ohren und im Gesicht, breitet sich über den Körper aus. Das Fieber steigt erneut." },
+            { "age": "4 Tage davor bis 4 Tage danach", "label": "Ansteckungszeit", "text": "Ansteckend ist ein Kind bereits, bevor der Ausschlag sichtbar wird – am stärksten unmittelbar davor. Deshalb sind Masern so schwer einzudämmen." },
+            { "age": "1 von 1.000 Erkrankten", "label": "Gehirnentzündung", "text": "Sie tritt etwa 4 bis 7 Tage nach Ausschlagsbeginn auf. Ein erheblicher Teil der Betroffenen behält bleibende Schäden zurück." },
+            { "age": "6–8 Jahre später", "label": "SSPE", "text": "Eine sehr seltene, immer tödlich verlaufende Spätfolge im Gehirn. Besonders gefährdet sind Kinder, die im ersten Lebensjahr an Masern erkranken." }
+          ],
+          "caption": "Nach dem RKI-Ratgeber Masern. Die Zahlen sind keine Panikmache, sondern der Grund, warum in Deutschland eine Nachweispflicht für den Masernschutz in Kita und Schule gilt.",
+          "sources": [0]
+        },
+        {
+          "type": "evidence",
+          "level": "stark",
+          "claim": "Die häufigsten Komplikationen einer Masernerkrankung sind bakterielle Mittelohrentzündungen (bis zu 14 Prozent), Durchfall (bis zu 12 Prozent) und Lungenentzündungen (bis zu 9 Prozent). Eine Gehirnentzündung tritt bei etwa einem von 1.000 Erkrankten auf.",
+          "note": "Diese Zahlen stammen aus dem RKI-Ratgeber und sind der sachliche Kern hinter der Impfempfehlung. Eine ursächliche Behandlung der Masern gibt es nicht – man kann nur die Beschwerden lindern und Komplikationen behandeln, wenn sie auftreten.",
+          "sources": [0]
+        },
+        {
+          "type": "list",
+          "items": [
+            { "title": "Bei Verdacht zuerst anrufen:", "text": "Praxis oder Bereitschaftsdienst telefonisch informieren, damit ihr getrennt von anderen Patientinnen und Patienten untersucht werden könnt." },
+            { "title": "Kontaktpersonen bedenken:", "text": "Ungeimpfte Säuglinge, Schwangere und Menschen mit geschwächtem Immunsystem im Umfeld sollten ärztlich beraten werden – unter Umständen ist eine schnelle Schutzmaßnahme möglich." },
+            { "title": "Meldepflicht ist normal:", "text": "Verdacht, Erkrankung und Tod sind meldepflichtig. Das Gesundheitsamt meldet sich dann – das ist kein Vorwurf an euch, sondern Routine im Infektionsschutz." }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "section",
+      "heading": "Scharlach und Magen-Darm: die zwei mit klaren Regeln",
+      "blocks": [
+        {
+          "type": "evidence",
+          "level": "stark",
+          "claim": "Scharlach wird von Streptokokken ausgelöst und ist 24 Stunden nach Beginn einer wirksamen Antibiotikatherapie nicht mehr ansteckend. Ohne Behandlung kann die Ansteckungsfähigkeit bis zu drei Wochen anhalten.",
+          "note": "Das ist der Grund, warum bei Scharlach anders als bei den meisten Kinderkrankheiten ein Antibiotikum sinnvoll ist – es verkürzt die Ansteckungszeit deutlich und beugt seltenen Folgeerkrankungen vor. Wichtig: Die verordnete Dauer wird zu Ende geführt, auch wenn dein Kind nach zwei Tagen wieder fit wirkt. Scharlach kann man mehrfach bekommen.",
+          "sources": [2]
+        },
+        {
+          "type": "p",
+          "text": "Bei Magen-Darm-Infekten ist die eigentliche Gefahr nicht der Erreger, sondern der Flüssigkeitsverlust – besonders bei Säuglingen und Kleinkindern, die schnell austrocknen. Praktisch heißt das: kleine Mengen, oft. Nach dem Erbrechen zehn Minuten warten, dann teelöffelweise beginnen. Gestillte Kinder werden einfach häufiger und kürzer angelegt."
+        },
+        {
+          "type": "callout",
+          "variant": "warn",
+          "title": "Zeichen für Austrocknung",
+          "items": [
+            "Deutlich weniger nasse Windeln oder seit vielen Stunden kein Wasserlassen",
+            "Trockene Lippen und Mundschleimhaut, keine Tränen beim Weinen",
+            "Eingesunkene Augen, beim Säugling eine eingesunkene Fontanelle",
+            "Auffällige Schläfrigkeit, Teilnahmslosigkeit oder anhaltende Unruhe",
+            "Anhaltendes Erbrechen, bei dem gar nichts drinbleibt, oder Blut im Stuhl"
+          ]
+        },
+        {
+          "type": "p",
+          "text": "Wenn eines dieser Zeichen auftritt, gehört dein Kind noch am selben Tag angeschaut. Fertige Elektrolytlösungen aus der Apotheke sind für diesen Zweck gemacht; selbst gemischte Salz-Zucker-Lösungen sind es nicht, weil das Mischungsverhältnis entscheidend ist. Halte dich an die Anweisungen auf der Packung."
+        }
+      ]
+    },
+    {
+      "type": "section",
+      "heading": "Wann darf mein Kind wieder in die Kita?",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "Für Gemeinschaftseinrichtungen regelt § 34 des Infektionsschutzgesetzes, bei welchen Erkrankungen Kinder vorübergehend nicht kommen dürfen – darunter Masern, Mumps, Keuchhusten, Scharlach und Windpocken. Eltern sind verpflichtet, die Einrichtung zu informieren. Das ist keine Bloßstellung, sondern der Mechanismus, mit dem Säuglinge und immungeschwächte Kinder geschützt werden."
+        },
+        {
+          "type": "list",
+          "items": [
+            { "title": "Grundregel:", "text": "Zurück, wenn nach ärztlichem Urteil keine Ansteckungsgefahr mehr besteht – und wenn das Kind den Kita-Alltag wieder mitmachen kann." },
+            { "title": "Fieberfrei heißt fieberfrei:", "text": "Üblich sind 24 Stunden ohne Fieber und ohne fiebersenkendes Mittel. Ein Kind, das nur mit Medikament fieberfrei ist, ist nicht gesund." },
+            { "title": "Nach Erbrechen und Durchfall:", "text": "In der Regel 48 Stunden nach der letzten Episode, weil die Erreger noch ausgeschieden werden." },
+            { "title": "Attest nur, wenn gefordert:", "text": "Bei vielen Erkrankungen ist kein schriftliches Attest nötig. Was eure Einrichtung verlangt, steht in ihrer Hausordnung." }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "section",
+      "heading": "Häufige Fragen",
+      "blocks": [
+        {
+          "type": "faq",
+          "items": [
+            {
+              "q": "Wie unterscheide ich einen harmlosen Ausschlag von einem gefährlichen?",
+              "a": "Der wichtigste Test ist der Glastest: Drück ein Trinkglas auf die Flecken. Verblassen sie darunter, ist das beruhigend. Bleiben sie sichtbar, kann das auf eine schwere Infektion hindeuten – dann sofort 112. Alles andere lässt sich am Telefon oder in der Sprechstunde klären, gern mit einem Foto bei Tageslicht."
+            },
+            {
+              "q": "Ist es sinnvoll, Kinder absichtlich anzustecken, damit sie es hinter sich haben?",
+              "a": "Nein. Windpockenpartys und Ähnliches setzen Kinder einem Risiko aus, das sich durch eine Impfung vermeiden lässt, und sie gefährden Menschen im Umfeld, die nicht geimpft werden können. Der Verlauf einer Infektion lässt sich nicht vorbestellen."
+            },
+            {
+              "q": "Mein Kind hat Hand-Fuß-Mund und isst nichts mehr. Was tun?",
+              "a": "Die Bläschen im Mund tun beim Essen weh. Kühles und Weiches wird meist besser angenommen: Joghurt, Milch, gekühltes Wasser, breiige Speisen. Saures und Salziges brennt. Wichtiger als Essen ist Trinken – wenn dein Kind gar nichts mehr zu sich nimmt, lass es anschauen."
+            },
+            {
+              "q": "Können Erwachsene sich anstecken?",
+              "a": "Ja, und oft verläuft es bei ihnen schwerer – das gilt besonders für Windpocken, Masern und Mumps. Wenn du selbst nicht sicher weißt, ob du geimpft oder immun bist, ist der Moment, in dem ein Kind erkrankt, ein guter Anlass, den eigenen Impfstatus prüfen zu lassen. Für Schwangere gilt das besonders."
+            },
+            {
+              "q": "Warum bekommt mein Kind bei Halsschmerzen nicht einfach ein Antibiotikum?",
+              "a": "Weil Halsschmerzen meistens viral sind. Bei Verdacht auf Streptokokken kann ein Schnelltest oder Abstrich Klarheit schaffen; nur dann ist ein Antibiotikum sinnvoll. Unnötige Gaben bringen Nebenwirkungen und fördern Resistenzen."
+            },
+            {
+              "q": "Pseudokrupp kommt bei uns immer wieder. Ist das gefährlich?",
+              "a": "Wiederkehrende Anfälle sind bei manchen Kindern typisch und wachsen sich mit den Jahren aus. Lass in der Praxis besprechen, ob ihr ein Notfallmedikament zu Hause haben solltet und wie ihr es anwendet. Kalte, feuchte Luft und ruhige Nähe bleiben die erste Maßnahme."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "callout",
+      "variant": "info",
+      "title": "Kurz gesagt",
+      "text": "Fast alles, was klassisch als Kinderkrankheit gilt, geht von selbst vorbei und braucht vor allem Trinken, Ruhe und Geduld. Merk dir die drei Ausnahmen: Atemnot bei Pseudokrupp, Zeichen einer Hirnhautentzündung und der Verdacht auf Masern. In diesen Fällen wird gehandelt, nicht gegoogelt."
+    }
+  ],
+  "sources": [
+    {
+      "title": "RKI-Ratgeber Masern",
+      "publisher": "Robert Koch-Institut",
+      "year": "2024",
+      "kind": "Institutionelle Information",
+      "url": "https://www.rki.de/DE/Aktuelles/Publikationen/RKI-Ratgeber/Ratgeber/Ratgeber_Masern.html"
+    },
+    {
+      "title": "RKI-Ratgeber Hand-Fuß-Mund-Krankheit (HFMK)",
+      "publisher": "Robert Koch-Institut",
+      "year": "2024",
+      "kind": "Institutionelle Information",
+      "url": "https://www.rki.de/DE/Aktuelles/Publikationen/RKI-Ratgeber/Ratgeber/Ratgeber_HFMK.html"
+    },
+    {
+      "title": "Erregersteckbrief Scharlach",
+      "publisher": "Bundeszentrale für gesundheitliche Aufklärung (BZgA), infektionsschutz.de",
+      "year": "2024",
+      "kind": "Institutionelle Information",
+      "url": "https://www.infektionsschutz.de/erregersteckbriefe/scharlach/"
+    },
+    {
+      "title": "Pseudokrupp bei Kindern",
+      "publisher": "Bundeszentrale für gesundheitliche Aufklärung (BZgA), kindergesundheit-info.de",
+      "year": "2024",
+      "kind": "Institutionelle Information",
+      "url": "https://www.kindergesundheit-info.de/themen/krankes-kind/erkrankungen/pseudokrupp-kruppsyndrom/"
+    },
+    {
+      "title": "Drei-Tage-Fieber",
+      "publisher": "Berufsverband der Kinder- und Jugendärzte, kinderaerzte-im-netz.de",
+      "year": "2024",
+      "kind": "Institutionelle Information",
+      "url": "https://www.kinderaerzte-im-netz.de/krankheiten/drei-tage-fieber/"
+    },
+    {
+      "title": "Infektionsschutzgesetz und Kita: Rechte und Pflichten",
+      "publisher": "Bundeszentrale für gesundheitliche Aufklärung (BZgA), kindergesundheit-info.de",
+      "year": "2024",
+      "kind": "Institutionelle Information",
+      "url": "https://www.kindergesundheit-info.de/fachkraefte/kindergesundheit-in-der-kita/kranke-kinder-in-der-kita/recht-ifsg-kita/"
+    }
+  ],
+  "related": ["fieber-und-infekte", "impfungen", "erste-hilfe-am-kind", "kita-eingewoehnung"]
+}

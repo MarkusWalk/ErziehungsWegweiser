@@ -1,0 +1,280 @@
+{
+  "slug": "erste-hilfe-am-kind",
+  "title": "Erste Hilfe am Kind",
+  "subtitle": "Die Grundlogik der wichtigsten Notfälle – Verschlucken, Verbrennung, Sturz, Fieberkrampf, Vergiftung, Wiederbelebung. Zum Nachlesen, nicht zum Lernen: Handgriffe muss man üben.",
+  "phases": ["saeugling", "kleinkind", "kindergarten"],
+  "topics": ["sicherheit", "gesundheit"],
+  "updated": "2026-08-05",
+  "summary": "Dieser Text ersetzt keinen Erste-Hilfe-Kurs am Kind – bitte buch einen, am besten noch in der Schwangerschaft und danach alle zwei bis drei Jahre. Was hier steht, ist die Grundlogik: Notruf 112 früh statt spät, bei Verschlucken erst Rückenschläge, bei fehlender Atmung fünf Beatmungen vor den Kompressionen, bei Verbrennung lauwarm kühlen statt eiskalt, bei Vergiftung niemals Erbrechen auslösen.",
+  "keyFacts": [
+    "Ein Erste-Hilfe-Kurs am Kind dauert einen Tag und ist die einzige Maßnahme, die im Ernstfall wirklich trägt.",
+    "112 ist immer richtig, wenn du unsicher bist – ein Rückruf kostet nichts, Zögern kann alles kosten.",
+    "Bei Kindern beginnt die Wiederbelebung mit fünf Beatmungen, nicht mit Kompressionen.",
+    "Bei Verdacht auf Vergiftung: kein Erbrechen auslösen, keine Milch geben, Giftnotruf anrufen.",
+    "Nach jedem größeren Notfall gehört auch das eigene Erschrecken nachbesprochen."
+  ],
+  "blocks": [
+    {
+      "type": "callout",
+      "variant": "danger",
+      "title": "Dieser Artikel ersetzt keinen Kurs",
+      "text": "Erste Hilfe am Kind ist Handwerk. Man kann nicht lesen, wie fest man den Brustkorb eines Säuglings drückt – man muss es an einer Puppe gespürt haben. **Buch einen Erste-Hilfe-Kurs am Kind** bei DRK, Johannitern, Maltesern, ASB oder DLRG; er dauert in der Regel einen Tag, ist für Eltern, Großeltern und Babysitter gedacht und braucht keine Vorkenntnisse. Empfohlen wird eine Auffrischung alle zwei bis drei Jahre. Dieser Text ist das Nachschlagewerk davor und danach, nicht der Ersatz. **Bei Lebensgefahr immer zuerst 112 wählen** – Bewusstlosigkeit, keine normale Atmung, Krampf über 5 Minuten, starke Atemnot, blaue Lippen, schwere Blutung."
+    },
+    {
+      "type": "p",
+      "lead": true,
+      "text": "Die meisten Notfälle im Kinderalltag sind keine Reanimationen. Es sind verschluckte Erdnüsse, umgekippte Teetassen, Stürze vom Sofa, ein erster Fieberkrampf, ein leergetrunkenes Fläschchen Duftöl. Für all das gilt dieselbe Reihenfolge: erst du selbst ruhig werden, dann das Kind sichern, dann Hilfe holen. In dieser Reihenfolge, weil Panik die Handlungsfähigkeit kostet, die ein Kind in diesem Moment von dir braucht."
+    },
+    {
+      "type": "section",
+      "heading": "Die ersten Minuten",
+      "blocks": [
+        {
+          "type": "timeline",
+          "title": "Ablauf in jedem ernsten Notfall",
+          "entries": [
+            { "age": "Sekunde 0", "label": "Gefahr beenden", "text": "Heiße Flüssigkeit, Strom, Wasser, Straße: erst die Ursache wegnehmen, dann helfen. Dich selbst nicht in Gefahr bringen." },
+            { "age": "Sekunde 10", "label": "Ansprechen und anfassen", "text": "Laut ansprechen, sanft an der Schulter rütteln (bei Säuglingen: Fußsohle reiben). Reagiert das Kind? Atmet es normal?" },
+            { "age": "Sekunde 30", "label": "112 wählen", "text": "Handy auf Lautsprecher legen, damit die Hände frei bleiben. Die Leitstelle sagt dir, was zu tun ist, und bleibt dran." },
+            { "age": "Minute 1", "label": "Maßnahmen beginnen", "text": "Was nötig ist: beatmen und drücken, Rückenschläge, kühlen, stabile Seitenlage. Die Leitstelle leitet dich an." },
+            { "age": "Minute 5+", "label": "Dranbleiben", "text": "Nicht aufhören, bis der Rettungsdienst übernimmt oder das Kind wieder normal atmet. Wärme halten, Kind ansprechen, nicht allein lassen." }
+          ],
+          "caption": "Reihenfolge nach den Leitlinien des European Resuscitation Council. Die Zeitangaben sind Orientierung, kein Countdown."
+        },
+        {
+          "type": "callout",
+          "variant": "tip",
+          "title": "Was der Notruf hören will",
+          "items": [
+            "Wo? Genaue Adresse, Stockwerk, wie die Tür zu finden ist",
+            "Was ist passiert und wie alt ist das Kind?",
+            "Atmet es? Ist es ansprechbar?",
+            "Nicht auflegen – die Leitstelle beendet das Gespräch"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "section",
+      "heading": "Verschlucken und Ersticken",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "Solange ein Kind kräftig hustet, ist der Husten die beste Hilfe: Ermutige es, beobachte es genau, greif nicht ein. Gefährlich wird es, wenn der Husten leise wird, das Kind nicht mehr einatmen oder sprechen kann, blass oder blau wird. Dann zählt jede Sekunde. Fingern nie blind im Mund herum – sichtbare Gegenstände darfst du vorsichtig herausnehmen, alles andere schiebst du tiefer."
+        },
+        {
+          "type": "steps",
+          "title": "Wenn der Husten nicht mehr wirkt",
+          "items": [
+            { "title": "112 rufen lassen", "text": "Wenn jemand da ist: er ruft an, du machst weiter. Bist du allein, wähl selbst und stell auf Lautsprecher." },
+            { "title": "5 Rückenschläge", "text": "Kind mit dem Oberkörper nach vorn geneigt, Kopf tiefer als der Brustkorb. Säuglinge legst du bäuchlings über deinen Unterarm, den Kopf mit der Hand stützend. Fünfmal kräftig mit dem Handballen zwischen die Schulterblätter schlagen, nach jedem Schlag prüfen, ob es gelöst ist." },
+            { "title": "Dann 5 Kompressionen", "text": "**Säugling unter 1 Jahr:** auf den Rücken drehen, Kopf tiefer, fünf Kompressionen auf die Mitte des Brustbeins, langsamer und kräftiger als bei einer Herzdruckmassage. **Kind ab 1 Jahr:** fünfmal Oberbauchkompressionen von hinten (Heimlich-Griff). Beim Säugling ist der Heimlich-Griff verboten – Verletzungsgefahr für die Leber." },
+            { "title": "Im Wechsel weiter", "text": "Fünf Rückenschläge, fünf Kompressionen, wieder von vorn, bis der Fremdkörper heraus ist oder das Kind bewusstlos wird." },
+            { "title": "Bewusstlos: Wiederbelebung", "text": "Wird das Kind bewusstlos, leg es auf einen harten Untergrund und beginn mit dem Ablauf im nächsten Abschnitt – fünf Beatmungen, dann Kompressionen." }
+          ]
+        },
+        {
+          "type": "callout",
+          "variant": "warn",
+          "title": "Danach immer ärztlich abklären",
+          "text": "Nach Oberbauchkompressionen gehört jedes Kind untersucht, auch wenn es wieder munter ist. Und wenn der Verdacht besteht, dass ein Stück im Atemweg oder in der Speiseröhre geblieben ist – anhaltender Husten, pfeifende Atmung, Schluckweigerung, Speicheln –, ebenfalls. Bei Knopfzellen und mehreren Magneten gilt ohne Ausnahme: sofort in die Klinik."
+        }
+      ]
+    },
+    {
+      "type": "section",
+      "heading": "Wiederbelebung beim Kind",
+      "blocks": [
+        {
+          "type": "evidence",
+          "level": "stark",
+          "claim": "Bei Kindern beginnt die Wiederbelebung mit fünf initialen Beatmungen, bevor mit Thoraxkompressionen begonnen wird. Anschließend arbeiten geschulte Helfer im Verhältnis 15:2, ungeschulte Laien im Verhältnis 30:2.",
+          "note": "Der Grund für die Beatmungen zuerst: Ein Kreislaufstillstand im Kindesalter entsteht fast immer aus Sauerstoffmangel, nicht aus einem Herzproblem wie bei Erwachsenen. Das 30:2-Schema für Laien ist bewusst identisch mit dem Erwachsenenschema – weniger Umschalten, weniger Fehler unter Stress. Wer beides nicht sicher kann: Drücken allein ist immer besser als gar nichts.",
+          "sources": [0, 1]
+        },
+        {
+          "type": "steps",
+          "title": "Laienschema, Kind oder Säugling ohne normale Atmung",
+          "items": [
+            { "title": "Prüfen, maximal 10 Sekunden", "text": "Kind reagiert nicht. Kopf vorsichtig zurückneigen und Kinn anheben – bei Säuglingen nur in Neutralposition, nicht überstrecken. Sehen, hören, fühlen: hebt sich der Brustkorb? Einzelne schnappende Atemzüge sind keine normale Atmung." },
+            { "title": "5 Beatmungen", "text": "Beim Säugling umschließt dein Mund Mund und Nase, beim größeren Kind hältst du die Nase zu und beatmest Mund zu Mund. Jede Beatmung etwa eine Sekunde lang, gerade so viel, dass sich der Brustkorb sichtbar hebt." },
+            { "title": "112, falls noch nicht geschehen", "text": "Lautsprecher an. Bist du allein und hast kein Telefon in Reichweite, gib erst etwa eine Minute lang Beatmungen und Kompressionen, dann hol Hilfe." },
+            { "title": "30 Kompressionen", "text": "Auf der unteren Hälfte des Brustbeins. Beim Säugling mit zwei Fingern oder beiden Daumen, beim Kind mit einem oder beiden Handballen. Etwa ein Drittel des Brustkorbdurchmessers tief, im Takt von 100 bis 120 pro Minute – ungefähr das Tempo eines schnellen Schrittes." },
+            { "title": "Dann 2 Beatmungen", "text": "Und weiter im Wechsel 30:2, ohne längere Pausen, bis das Kind normal atmet oder der Rettungsdienst übernimmt. Wechsel dich mit jemandem ab, wenn du kannst – nach zwei Minuten lässt die Druckqualität nach." }
+          ]
+        },
+        {
+          "type": "callout",
+          "variant": "info",
+          "title": "Angst, etwas kaputt zu machen",
+          "text": "Diese Sorge hält im Ernstfall mehr Menschen zurück als jede Wissenslücke. Ein Kind ohne normale Atmung ist in Lebensgefahr; eine gebrochene Rippe heilt, ein Sauerstoffmangel im Gehirn nicht. Zu zaghaft zu drücken ist der häufigere Fehler, nicht zu fest."
+        }
+      ]
+    },
+    {
+      "type": "section",
+      "heading": "Verbrennung, Sturz, Fieberkrampf",
+      "blocks": [
+        {
+          "type": "evidence",
+          "level": "stark",
+          "claim": "Verbrennungen und Verbrühungen werden mit lauwarmem, handwarmem Wasser gekühlt, nur kleinflächig und höchstens etwa zehn Minuten. Eis und eiskaltes Wasser sind schädlich, weil sie die Durchblutung drosseln und den Gewebeschaden vergrößern.",
+          "note": "Bei großflächigen Verbrühungen und bei Säuglingen wird gar nicht gekühlt – kleine Kinder kühlen zu schnell aus. Dann gilt: durchnässte Kleidung vorsichtig entfernen (nicht, was festklebt), locker keimfrei abdecken, warm halten, 112. Keine Hausmittel, kein Mehl, kein Öl, keine Salbe. Blasen bleiben zu.",
+          "sources": [2]
+        },
+        {
+          "type": "table",
+          "title": "Drei häufige Situationen, kurz sortiert",
+          "head": ["Situation", "Was du tust", "Wann 112 oder Klinik"],
+          "rows": [
+            [
+              "Verbrühung durch heißes Getränk",
+              "Nasse Kleidung weg, kleinflächig lauwarm kühlen (max. 10 Min.), locker abdecken, Kind wärmen",
+              "Größer als die Handfläche des Kindes, jede Verbrühung bei Säuglingen, Gesicht, Hände, Genital, Gelenke, jede Blase"
+            ],
+            [
+              "Sturz auf den Kopf",
+              "Beule kühlen, Kind hinlegen und 24 bis 48 Stunden beobachten, nachts einmal wecken und ansprechen",
+              "Bewusstlosigkeit (auch kurz), wiederholtes Erbrechen, zunehmende Schläfrigkeit, Krampf, ungleiche Pupillen, klare Flüssigkeit aus Nase oder Ohr, Sturz aus mehr als Körperlänge"
+            ],
+            [
+              "Fieberkrampf",
+              "Uhrzeit merken, Kind weich und seitlich lagern, nichts in den Mund, nicht festhalten, enge Kleidung öffnen, bei ihm bleiben",
+              "Beim ersten Krampf immer, außerdem ab etwa 5 Minuten Dauer, bei erneutem Krampf oder wenn das Kind danach nicht wieder zu sich kommt"
+            ]
+          ],
+          "caption": "Nach den Elterninformationen der BZgA und der Deutschen Gesellschaft für Kinder- und Jugendmedizin.",
+          "sources": [2, 5]
+        },
+        {
+          "type": "p",
+          "text": "Ein Fieberkrampf sieht furchterregend aus und ist für die allermeisten Kinder harmlos. Er dauert typischerweise unter drei Minuten, danach sind Kinder oft tief erschöpft und schlafen ein – das gehört dazu. Gib nichts zu trinken, solange das Kind nicht vollständig wach ist."
+        }
+      ]
+    },
+    {
+      "type": "section",
+      "heading": "Vergiftung und Verätzung",
+      "blocks": [
+        {
+          "type": "evidence",
+          "level": "stark",
+          "claim": "Bei Verdacht auf eine Vergiftung wird kein Erbrechen ausgelöst und keine Milch gegeben. Beides kann den Schaden vergrößern – Erbrochenes verätzt die Speiseröhre ein zweites Mal, Milch beschleunigt die Aufnahme mancher Stoffe.",
+          "note": "Richtig ist: ein paar Schlucke Wasser oder stillen Tee, wenn das Kind wach ist und schlucken kann. Dann sofort den Giftnotruf des Bundeslandes anrufen – dort sitzen rund um die Uhr Fachleute, die einordnen können, ob überhaupt etwas passieren kann. Sehr viele Anrufe enden mit Entwarnung.",
+          "sources": [3, 4]
+        },
+        {
+          "type": "checklist",
+          "id": "gift",
+          "title": "Was der Giftnotruf wissen muss",
+          "items": [
+            "Was genau? Packung, Pflanze oder Rest mitnehmen und ans Telefon holen",
+            "Wie viel maximal? Lieber die ungünstigste Schätzung nennen",
+            "Wann? Uhrzeit möglichst genau",
+            "Alter und Gewicht des Kindes",
+            "Wie geht es dem Kind jetzt? Wach, blass, erbricht es, atmet es auffällig?",
+            "Bei Augenkontakt: sofort 10 bis 15 Minuten mit lauwarmem Wasser spülen, dann anrufen",
+            "Bei Bewusstlosigkeit, Krampf oder Atemnot zuerst 112 – der Giftnotruf kommt danach"
+          ]
+        },
+        {
+          "type": "p",
+          "text": "Die Nummern der Giftinformationszentren sind nach Bundesland verschieden und stehen auf unserer [Notfallseite](/notfall) zusammen mit 112 und dem ärztlichen Bereitschaftsdienst 116 117. Häng sie an den Kühlschrank – im Ernstfall ist Suchen das, was am längsten dauert."
+        }
+      ]
+    },
+    {
+      "type": "section",
+      "heading": "Häufige Fragen",
+      "blocks": [
+        {
+          "type": "faq",
+          "items": [
+            {
+              "q": "Wann soll ich den Erste-Hilfe-Kurs machen?",
+              "a": "Am besten in der Schwangerschaft oder in den ersten Monaten, solange noch Zeit ist. Viele Kursanbieter erlauben es, das Baby mitzubringen. Danach etwa alle zwei bis drei Jahre auffrischen – die Handgriffe verblassen schneller, als man denkt, und die Empfehlungen ändern sich."
+            },
+            {
+              "q": "Ich habe Angst, im Ernstfall zu erstarren. Ist das normal?",
+              "a": "Ja, und genau dagegen hilft der Kurs. Was einmal körperlich geübt wurde, läuft unter Stress eher ab als etwas nur Gelesenes. Der zweite Anker ist die 112: Du musst nicht wissen, was zu tun ist – die Leitstelle sagt es dir Schritt für Schritt und bleibt bei dir."
+            },
+            {
+              "q": "Wann rufe ich 112 und wann 116 117?",
+              "a": "112 bei allem, was akut lebensbedrohlich sein könnte: keine normale Atmung, Bewusstlosigkeit, starke Atemnot, schwere Blutung, Krampf über 5 Minuten, Verdacht auf schwere Vergiftung. 116 117 ist der ärztliche Bereitschaftsdienst für alles, was nicht bis zur Sprechstunde warten kann, aber kein Notfall ist. Im Zweifel 112 – dort wird umgeleitet, wenn es nicht passt."
+            },
+            {
+              "q": "Was ist mit Medikamenten aus der Hausapotheke, etwa fiebersenkenden Zäpfchen?",
+              "a": "Dosierungen gehören in die Hände deiner Kinderarztpraxis oder Apotheke, nicht in einen Artikel. Wichtig ist nur eines: Gib im Notfall nichts auf Verdacht, und sag dem Rettungsdienst oder dem Giftnotruf immer, was du dem Kind schon gegeben hast."
+            },
+            {
+              "q": "Muss ich ein Kind nach einem Sturz nachts wecken?",
+              "a": "In den ersten Stunden nach einem Sturz auf den Kopf ist es sinnvoll, einmal zu prüfen, ob dein Kind sich normal wecken lässt und ansprechbar ist – nicht, es die ganze Nacht wach zu halten. Nicht weckbar, wiederholtes Erbrechen oder ungleiche Pupillen bedeuten sofort 112."
+            },
+            {
+              "q": "Unser Kind hat ein paar Schlucke Spülmittel getrunken – reicht es, abzuwarten?",
+              "a": "Ruf den Giftnotruf an, auch wenn es dem Kind gut geht. Schaumbildner sind vor allem gefährlich, wenn Schaum in die Lunge gelangt – deshalb keine Milch, kein Erbrechen, nur wenig trinken."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "callout",
+      "variant": "info",
+      "title": "Kurz gesagt",
+      "text": "Kurs buchen. Nummern an den Kühlschrank. Bei Verschlucken erst Rückenschläge, bei fehlender Atmung fünf Beatmungen vor den Kompressionen, bei Verbrennung lauwarm statt eiskalt, bei Vergiftung Giftnotruf statt Erbrechen. Und im Zweifel immer 112 – niemand wird dir vorwerfen, zu früh angerufen zu haben."
+    }
+  ],
+  "sources": [
+    {
+      "title": "Lebensrettende Maßnahmen bei Kindern (Paediatric Life Support) – Leitlinien des European Resuscitation Council 2021",
+      "publisher": "European Resuscitation Council / Notfall + Rettungsmedizin",
+      "year": "2021",
+      "kind": "Leitlinie",
+      "url": "https://link.springer.com/article/10.1007/s10049-021-00887-9"
+    },
+    {
+      "title": "Basic Life Support: European Resuscitation Council Guidelines 2021",
+      "publisher": "European Resuscitation Council / Resuscitation",
+      "year": "2021",
+      "kind": "Leitlinie",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8170637/"
+    },
+    {
+      "title": "Erste Hilfe bei Verbrennungen und Verbrühungen",
+      "publisher": "Bundeszentrale für gesundheitliche Aufklärung (BZgA), kindergesundheit-info.de",
+      "year": "2024",
+      "kind": "Institutionelle Information",
+      "url": "https://www.kindergesundheit-info.de/themen/sicher-aufwachsen/alltagstipps/sicher-im-alltag/thermische-verletzungen/"
+    },
+    {
+      "title": "Giftinformationszentralen und Giftnotruf",
+      "publisher": "Bundeszentrale für gesundheitliche Aufklärung (BZgA), kindergesundheit-info.de",
+      "year": "2024",
+      "kind": "Institutionelle Information",
+      "url": "https://www.kindergesundheit-info.de/themen/sicher-aufwachsen/notfall-infos/giftinformationszentralen-giftnotruf/"
+    },
+    {
+      "title": "Vergiftungen und Verätzungen",
+      "publisher": "Bundeszentrale für gesundheitliche Aufklärung (BZgA), kindergesundheit-info.de",
+      "year": "2024",
+      "kind": "Institutionelle Information",
+      "url": "https://www.kindergesundheit-info.de/themen/sicher-aufwachsen/sicherheit-im-alltag/achtung-giftig/"
+    },
+    {
+      "title": "Elterninformation Fieberkrampf",
+      "publisher": "Deutsche Gesellschaft für Kinder- und Jugendmedizin (DGKJ)",
+      "year": "2023",
+      "kind": "Empfehlung",
+      "url": "https://www.dgkj.de/eltern/dgkj-elterninformationen/elterninfo-fieberkrampf"
+    },
+    {
+      "title": "Erste Hilfe am Kind und Baby – Kursangebot für Privatpersonen",
+      "publisher": "Johanniter-Unfall-Hilfe e. V.",
+      "year": "2025",
+      "kind": "Institutionelle Information",
+      "url": "https://www.johanniter.de/dienste-leistungen/medizinische-hilfe/erste-hilfe/erste-hilfe-kurse-fuer-privatpersonen/erste-hilfe-am-kind/"
+    }
+  ],
+  "related": ["babyproofing", "unfallpraevention-kleinkind", "fieber-und-infekte", "autositz-und-unterwegs"]
+}

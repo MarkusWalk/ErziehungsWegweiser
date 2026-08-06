@@ -1,0 +1,300 @@
+{
+  "slug": "postpartale-depression",
+  "title": "Wenn es nach der Geburt dunkel wird",
+  "subtitle": "Babyblues, postpartale Depression und Angststörung unterscheiden, Anzeichen erkennen – auch bei Vätern und nicht gebärenden Elternteilen – und wissen, wo es in Deutschland konkret Hilfe gibt.",
+  "phases": ["neugeborenes", "saeugling"],
+  "topics": ["eltern", "besondere-situationen"],
+  "updated": "2026-08-05",
+  "summary": "Rund 15 Prozent der Mütter erkranken nach einer Geburt an einer Depression, etwa 12 Prozent an einer Angststörung, und auch bei rund 8 Prozent der Väter und nicht gebärenden Elternteile treten depressive Symptome auf. Das ist keine Randerscheinung, sondern die häufigste Komplikation rund um die Geburt. Der Unterschied zum Babyblues liegt in Dauer und Schwere: Was länger als zwei Wochen anhält, geht meist nicht von allein weg. Behandelt wird mit Psychotherapie, bei Bedarf mit Medikamenten – auch beim Stillen möglich – und in schweren Fällen stationär gemeinsam mit dem Kind. Die Erkrankung ist gut behandelbar, und sie sagt nichts darüber aus, ob du dein Kind liebst oder eine gute Mutter oder ein guter Vater bist.",
+  "keyFacts": [
+    "Etwa 15 von 100 Müttern entwickeln peripartal eine Depression, etwa 12 von 100 eine Angststörung.",
+    "Auch Väter und nicht gebärende Elternteile sind betroffen: rund 8 Prozent im Zeitraum von Schwangerschaft bis ein Jahr nach der Geburt.",
+    "Der Babyblues dauert Stunden bis wenige Tage. Alles, was nach zwei Wochen nicht besser ist, gehört abgeklärt.",
+    "Aufdringliche Gedanken, dem Kind könnte etwas zustoßen, sind nach der Geburt sehr häufig und bedeuten nicht, dass jemand sie umsetzt.",
+    "Ein flächendeckendes Screening gibt es in Deutschland nicht – meist musst du das Thema selbst ansprechen.",
+    "Psychotherapie, medikamentöse Behandlung und stationäre Mutter-Kind-Behandlung wirken. Je früher, desto kürzer der Weg."
+  ],
+  "blocks": [
+    {
+      "type": "p",
+      "lead": true,
+      "text": "Es gibt eine Erzählung darüber, wie die ersten Monate mit einem Baby sein sollen, und sie ist hell, weich und leicht verwackelt. Wenn deine Wirklichkeit anders aussieht – grau, eng, taub, panisch oder alles gleichzeitig –, ist der erste Gedanke fast immer derselbe: Mit mir stimmt etwas nicht. Tatsächlich ist die peripartale Depression die häufigste Komplikation rund um die Geburt. Sie ist keine Charakterfrage, kein Zeichen fehlender Liebe und keine Folge davon, dass du dich nicht genug angestrengt hättest. Sie ist eine Erkrankung, und sie ist behandelbar."
+    },
+    {
+      "type": "callout",
+      "variant": "danger",
+      "title": "Wenn du daran denkst, dir selbst oder deinem Kind etwas anzutun",
+      "items": [
+        "Telefonseelsorge, rund um die Uhr, kostenfrei und anonym: 0800 111 0 111 oder 0800 111 0 222",
+        "Ärztlicher Bereitschaftsdienst außerhalb der Praxiszeiten: 116 117",
+        "Bei akuter Gefahr für dich oder dein Kind: 112",
+        "Psychiatrische Ambulanz der nächstgelegenen Klinik – dort kannst du ohne Termin und rund um die Uhr hingehen"
+      ],
+      "text": "Zwei Dinge musst du dabei wissen. Erstens: Aufdringliche Gedanken, dem Kind könnte etwas zustoßen oder du könntest ihm selbst etwas antun, sind nach einer Geburt sehr häufig. Sie fühlen sich entsetzlich an, gerade weil sie allem widersprechen, was du willst – und genau deshalb setzt sie so gut wie niemand um. Zweitens: Sie sind kein Grund, dir dein Kind wegzunehmen. Wer solche Gedanken ausspricht, bekommt Hilfe, nicht das Jugendamt vor die Tür. Anders ist es, wenn du das Gefühl hast, die Kontrolle zu verlieren – dann ruf sofort an. Das ist der Moment, in dem Hilfe am schnellsten wirkt. Mehr Nummern findest du auf der Seite Notfall und Anlaufstellen."
+    },
+    {
+      "type": "section",
+      "heading": "Babyblues, Depression, Angst – die Unterschiede",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "Der Babyblues beginnt meist am dritten bis fünften Tag nach der Geburt, betrifft etwa die Hälfte aller Frauen und dauert Stunden bis wenige Tage. Typisch ist die Achterbahn: Weinen ohne Anlass, kurz darauf Rührung. Er ist keine Erkrankung und braucht keine Behandlung, sondern Schlaf, Essen und jemanden, der zuhört. Eine peripartale Depression ist etwas anderes. Sie kann direkt nach der Geburt beginnen, aber auch erst nach Monaten, sie hält an, und sie wird ohne Behandlung oft schlimmer statt besser."
+        },
+        {
+          "type": "table",
+          "title": "Woran du den Unterschied merkst",
+          "head": ["", "Babyblues", "Peripartale Depression"],
+          "rows": [
+            ["Beginn", "Tag 3 bis 5 nach der Geburt", "jederzeit im ersten Jahr, oft schleichend"],
+            ["Dauer", "Stunden bis wenige Tage", "Wochen bis Monate, ohne Hilfe länger"],
+            ["Stimmung", "schwankt stark, auch nach oben", "durchgehend gedrückt oder leer"],
+            ["Alltag", "läuft mit Mühe weiter", "immer mehr fällt aus"]
+          ],
+          "caption": "Faustregel: Was nach zwei Wochen nicht besser geworden ist, ist kein Babyblues mehr und gehört angesprochen."
+        },
+        {
+          "type": "evidence",
+          "level": "stark",
+          "claim": "Peripartale psychische Erkrankungen sind häufig: Die deutsche S3-Leitlinie nennt für postpartale Depressionen rund 15 Prozent, für Angststörungen etwa 12 Prozent, für posttraumatische Belastungsstörungen etwa 4 Prozent und für postpartale Psychosen 0,1 bis 0,2 Prozent.",
+          "note": "Die Zahlen bedeuten: In einem Krabbelgruppenkreis von zehn Familien sitzt statistisch mindestens eine betroffene Mutter, meistens mehr. Auffällig hoch ist der Anteil der Angststörungen – viele Betroffene beschreiben nicht Traurigkeit als Hauptsymptom, sondern Dauerangst, Herzrasen und Kontrollzwänge. Die postpartale Psychose ist selten, beginnt aber oft abrupt in den ersten zwei Wochen und ist ein psychiatrischer Notfall.",
+          "sources": [0]
+        },
+        {
+          "type": "figure",
+          "kind": "bar",
+          "title": "Wie häufig peripartale psychische Erkrankungen sind",
+          "alt": "Balkendiagramm mit den Häufigkeiten peripartaler psychischer Erkrankungen in Prozent",
+          "data": [
+            { "label": "Depression (Mütter)", "value": 15, "display": "15 %" },
+            { "label": "Angststörung", "value": 12, "display": "12 %" },
+            { "label": "Depressive Symptome (Väter)", "value": 8, "display": "8 %" },
+            { "label": "Posttraumatische Belastungsstörung", "value": 4, "display": "4 %" },
+            { "label": "Postpartale Psychose", "value": 0.2, "display": "0,1–0,2 %" }
+          ],
+          "caption": "Angaben der S3-Leitlinie Peripartale Psychische Störungen; der Wert für Väter stammt aus einer Metaanalyse von 74 Studien mit über 40.000 Teilnehmern. Die Zahlen stammen aus unterschiedlichen Erhebungen und lassen sich nicht exakt addieren – sie zeigen Größenordnungen.",
+          "sources": [0, 1]
+        }
+      ]
+    },
+    {
+      "type": "section",
+      "heading": "Woran du es bei dir selbst erkennst",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "Das Tückische ist, dass fast jedes einzelne Symptom sich mit dem normalen Zustand der ersten Monate erklären lässt. Erschöpft? Klar, alle sind erschöpft. Schlecht geschlafen? Das Kind wacht ja auch auf. Deshalb hilft weniger die Symptomliste als die Frage nach der Richtung: Wird es über Wochen eher besser oder eher enger?"
+        },
+        {
+          "type": "checklist",
+          "id": "ppd-anzeichen",
+          "title": "Anzeichen, die länger als zwei Wochen anhalten",
+          "items": [
+            "Gedrückte Stimmung oder innere Leere fast den ganzen Tag, fast jeden Tag",
+            "Nichts macht mehr Freude – auch das nicht, was früher zuverlässig geholfen hat",
+            "Du kannst nicht schlafen, obwohl das Kind schläft",
+            "Ständige Angst, Herzrasen, Grübelschleifen, Kontrollgänge zum Bett des Kindes",
+            "Massive Schuldgefühle, das Gefühl, eine schlechte Mutter oder ein schlechter Vater zu sein",
+            "Das Kind fühlt sich fremd an, oder du fühlst gar nichts, wenn du es ansiehst",
+            "Appetit weg oder Essen als einziger Trost, keine Kraft für Körperpflege",
+            "Der Gedanke, alle wären ohne dich besser dran"
+          ]
+        },
+        {
+          "type": "evidence",
+          "level": "moderat",
+          "claim": "Aufdringliche Gedanken an eine Schädigung des Kindes sind nach der Geburt weit verbreitet. In einer prospektiven Kohortenstudie berichteten fast alle Mütter Gedanken an unbeabsichtigte Schädigung, etwa die Hälfte auch Gedanken an eine absichtliche.",
+          "note": "Das ist eine der entlastendsten Zahlen der ganzen perinatalen Forschung, und kaum jemand kennt sie. Solche Gedanken sind unerwünscht, sie widersprechen dem, was die Betroffenen wollen, und sie gehen nach bisherigem Kenntnisstand nicht mit einem erhöhten Risiko für das Kind einher. Sie sind trotzdem ein Grund, mit jemandem zu sprechen – nicht weil du gefährlich bist, sondern weil sie quälen und weil sie bei Depression, Angst- und Zwangsstörungen häufiger auftreten.",
+          "sources": [2]
+        },
+        {
+          "type": "callout",
+          "variant": "tip",
+          "title": "Der Fragebogen, den du selbst ausfüllen kannst",
+          "text": "Die Edinburgh-Postnatal-Depressions-Skala (EPDS) besteht aus zehn Fragen zur vergangenen Woche und dauert fünf Minuten. Der Verein Schatten und Licht stellt sie als Selbsteinschätzungsbogen kostenfrei zur Verfügung. Je nach verwendeter Fassung gilt ein Wert ab etwa 10 bis 13 Punkten als Hinweis darauf, dass eine Abklärung sinnvoll ist. Der Bogen ersetzt keine Diagnose – ein niedriger Wert schließt nichts aus, ein hoher beweist nichts. Sein eigentlicher Nutzen ist ein anderer: Er gibt dir etwas Schriftliches in die Hand, mit dem du in der Praxis anfangen kannst, wenn dir die Worte fehlen."
+        }
+      ]
+    },
+    {
+      "type": "section",
+      "heading": "Väter und nicht gebärende Elternteile",
+      "blocks": [
+        {
+          "type": "evidence",
+          "level": "moderat",
+          "claim": "Eine Metaanalyse aus 74 Studien mit rund 41.000 Teilnehmern findet bei etwa 8 Prozent der Väter im Zeitraum von der Schwangerschaft bis ein Jahr nach der Geburt eine Depression.",
+          "note": "Die Spannweite zwischen den Einzelstudien ist groß, weil unterschiedliche Fragebögen und Zeitpunkte verwendet werden – deshalb keine höhere Evidenzstufe. Praktisch bedeutsam ist vor allem, dass es oft anders aussieht als erwartet: Gereiztheit, Zynismus, Flucht in Arbeit oder Sport, mehr Alkohol, Rückzug aus der Familie statt sichtbarer Traurigkeit. Väter werden zudem so gut wie nie gefragt, weil kein Vorsorgetermin für sie vorgesehen ist. Und: Ist ein Elternteil betroffen, steigt das Risiko für den anderen deutlich.",
+          "sources": [1]
+        },
+        {
+          "type": "p",
+          "text": "Das gilt genauso für nicht gebärende Elternteile in gleichgeschlechtlichen Partnerschaften und für Adoptiv- und Pflegeeltern. Hormone erklären einen Teil des Geschehens, aber eben nur einen Teil. Der Rest ist Schlafentzug, Verantwortungslast, ein Identitätsumbau innerhalb weniger Wochen, wegbrechende soziale Kontakte und finanzieller Druck – all das trifft auch Menschen, die nicht geboren haben. Wer nur die gebärende Person in den Blick nimmt, übersieht regelmäßig die Hälfte der betroffenen Familien."
+        }
+      ]
+    },
+    {
+      "type": "section",
+      "heading": "Was hilft: Behandlung in echt",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "Die wichtigste Nachricht zuerst: Peripartale Depressionen und Angststörungen gehören zu den gut behandelbaren psychischen Erkrankungen. Die Behandlung richtet sich nach dem Schweregrad und wird ärztlich oder psychotherapeutisch festgelegt – das Folgende ist eine Landkarte, keine Empfehlung für deinen Fall."
+        },
+        {
+          "type": "list",
+          "ordered": false,
+          "items": [
+            { "title": "Psychotherapie:", "text": "bei leichten und mittelgradigen Verläufen die erste Wahl. Kognitive Verhaltenstherapie und interpersonelle Therapie sind am besten untersucht. Der Haken in Deutschland sind die Wartezeiten – die Terminservicestelle unter 116 117 vermittelt Erstgespräche, und viele Praxen halten Akutsprechstunden vor." },
+            { "title": "Medikamentöse Behandlung:", "text": "bei schwereren Verläufen, oft in Kombination mit Psychotherapie. Stillen ist dabei in vielen Fällen weiterhin möglich; welches Mittel infrage kommt und wie es sich mit dem Stillen verträgt, gehört in die ärztliche Sprechstunde. Unabhängige Auskunft zur Verträglichkeit in Schwangerschaft und Stillzeit gibt das Pharmakovigilanzzentrum Embryotox der Charité – kostenfrei, auch telefonisch." },
+            { "title": "Stationäre Mutter-Kind-Behandlung:", "text": "bei schweren Verläufen kann eine Klinik aufnehmen, in der das Kind mitkommt. Solche Plätze gibt es in Deutschland leider nicht flächendeckend, und sie sind knapp. Es lohnt sich trotzdem, ausdrücklich danach zu fragen – eine Trennung von Mutter und Kind ist fast nie das Ziel." },
+            { "title": "Konkrete Entlastung:", "text": "keine Behandlung im engeren Sinn und trotzdem wirksam. Eine Haushaltshilfe über die Krankenkasse, eine Familienhebamme über die Frühen Hilfen, geschützte Schlafzeiten. Schlafmangel unterhält eine Depression zuverlässig." },
+            { "title": "Selbsthilfe:", "text": "Schatten und Licht e. V. vermittelt bundesweit Gruppen, Online-Austausch und telefonische Beratung durch Menschen, die dasselbe erlebt haben. Für viele ist das der erste Ort, an dem sie den Satz hören, dass es anderen genauso ging." }
+          ]
+        },
+        {
+          "type": "evidence",
+          "level": "moderat",
+          "claim": "Trotz engem Kontakt zu Hebammen, Gynäkologie und Kinderarztpraxen werden postpartale Depressionen in Deutschland zu selten erkannt und weitergeleitet. Ein systematisches Screening ist nicht etabliert.",
+          "note": "Praktisch heißt das: Warte nicht darauf, gefragt zu werden. Bring das Thema selbst zur Sprache – bei der Hebamme, in der gynäkologischen Praxis, in der Hausarztpraxis oder bei der U-Untersuchung deines Kindes. Ein Satz reicht: Mir geht es seit Wochen schlecht, und ich glaube, das ist mehr als Müdigkeit. Wenn du dabei abgewimmelt wirst, ist das kein Urteil über dich, sondern über diese Sprechstunde. Dann geh woandershin.",
+          "sources": [3]
+        },
+        {
+          "type": "callout",
+          "variant": "myth",
+          "title": "„Wenn ich das sage, nehmen sie mir mein Kind weg“",
+          "text": "Das ist die häufigste Angst und der häufigste Grund zu schweigen. Eine behandelte Depression ist kein Sorgerechtsthema. Der Regelfall in Deutschland ist das genaue Gegenteil: Wer sich meldet, bekommt Unterstützung – Frühe Hilfen, Familienhebammen, Haushaltshilfe, Therapie. Die Frühen Hilfen sind ausdrücklich ein Unterstützungs- und kein Kontrollangebot, kostenlos und für alle Familien mit Kindern bis drei Jahre. Über elternsein.info findest du die Stellen in deiner Nähe per Postleitzahl."
+        }
+      ]
+    },
+    {
+      "type": "section",
+      "heading": "Was Angehörige tun können",
+      "blocks": [
+        {
+          "type": "comparison",
+          "title": "Was ankommt – und was nicht",
+          "columns": [
+            {
+              "title": "Hilft",
+              "tone": "good",
+              "items": [
+                "Konkrete Übernahme ohne Rückfrage: einkaufen, kochen, Wäsche, Kind rausfahren",
+                "Eine geschützte Schlafphase organisieren, mehrere Stunden am Stück",
+                "Zum Termin mitgehen und beim Anrufen helfen",
+                "Zuhören, ohne das Gefühl wegzuerklären",
+                "Dranbleiben, auch wenn die Antwort dreimal abweisend ausfällt"
+              ]
+            },
+            {
+              "title": "Verschärft es",
+              "tone": "bad",
+              "items": [
+                "„Genieß die Zeit, sie geht so schnell vorbei“",
+                "„Anderen geht es viel schlechter“",
+                "„Das sind nur die Hormone, das gibt sich“",
+                "Fragen wie „Was soll ich denn tun?“ statt einfach zu tun",
+                "Ratschläge zu Stillen, Schlaf und Erziehung obendrauf"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "p",
+          "text": "Und ein Wort an die Partnerinnen und Partner: Eure eigene Belastung ist real, und ihr dürft ebenfalls Hilfe holen. Es hilft niemandem, wenn ihr euch monatelang durchbeißt und dann selbst zusammenklappt. Zwei erschöpfte Menschen, die beide nicht darüber reden, ist die häufigste Konstellation im ersten Jahr."
+        }
+      ]
+    },
+    {
+      "type": "section",
+      "heading": "Häufige Fragen",
+      "blocks": [
+        {
+          "type": "faq",
+          "items": [
+            {
+              "q": "Kann eine postpartale Depression auch später als in den ersten Wochen beginnen?",
+              "a": "Ja. Die Diagnosesysteme sehen zwar ein enges Zeitfenster nach der Geburt vor, in der Praxis beginnt die Erkrankung aber häufig erst nach Monaten – oft dann, wenn die erste Anspannung nachlässt, der Besuch ausbleibt, die Elternzeit endet oder abgestillt wird. Ein späterer Beginn macht es nicht weniger behandlungsbedürftig."
+            },
+            {
+              "q": "Ich bin nur ständig ängstlich, nicht traurig. Zählt das auch?",
+              "a": "Ja, und es wird oft übersehen. Peripartale Angst- und Zwangsstörungen sind fast so häufig wie Depressionen: Dauersorge um die Gesundheit des Kindes, Herzrasen, nächtliches Kontrollieren der Atmung, Rituale, ohne die du das Haus nicht verlassen kannst. Behandelt wird das ähnlich gut wie eine Depression, oft mit Verhaltenstherapie."
+            },
+            {
+              "q": "Muss ich abstillen, wenn ich Medikamente brauche?",
+              "a": "In vielen Fällen nicht. Es gibt Wirkstoffe, die in der Stillzeit gut untersucht sind und für die eine Fortführung des Stillens vertretbar ist – welcher davon in deiner Situation passt, entscheidet die behandelnde Ärztin oder der Arzt. Verlässliche, unabhängige Auskunft für dieses Gespräch gibt Embryotox. Was du nicht tun solltest: aus Sorge um das Stillen eine notwendige Behandlung aufschieben. Eine unbehandelte Depression belastet die Beziehung zum Kind stärker als die meisten Medikamente."
+            },
+            {
+              "q": "Schadet meine Depression meinem Kind?",
+              "a": "Eine länger unbehandelte, schwere Depression kann die Feinfühligkeit im Alltag beeinträchtigen, und das ist einer der Gründe, warum eine frühe Behandlung wichtig ist. Was Kinder nachweislich stützt, ist nicht eine dauerhaft gut gelaunte Mutter, sondern eine verlässliche Bezugsperson – die kann in dieser Zeit auch der andere Elternteil, die Großmutter oder eine Bezugserzieherin sein. Behandlung ist damit auch etwas, das du für dein Kind tust, nicht nur für dich."
+            },
+            {
+              "q": "Wie lange dauert das?",
+              "a": "Unbehandelt oft Monate bis über ein Jahr, mit Behandlung in der Regel deutlich kürzer. Verlässliche Prognosen für den Einzelfall gibt es nicht, und die Besserung kommt meist nicht als Umschalten, sondern als langsames Wiederauftauchen einzelner Stunden, in denen es geht. Diese Stunden zählen – sie sind das erste Zeichen dafür, dass die Behandlung wirkt."
+            },
+            {
+              "q": "Mein Umfeld sagt, ich soll mich einfach mehr um mich selbst kümmern. Reicht das?",
+              "a": "Nein, und dieser Rat schadet oft mehr, als er hilft, weil er die Verantwortung für eine Erkrankung wieder bei dir ablädt. Ein Schaumbad behandelt keine Depression. Was hilft, sind reale Entlastung, Schlaf, Behandlung und Menschen, die Aufgaben übernehmen. Selbstfürsorge ist ein Ergebnis von Entlastung, nicht ihr Ersatz."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "callout",
+      "variant": "info",
+      "title": "Kurz gesagt",
+      "text": "Wenn es länger als zwei Wochen dunkel bleibt, ist das kein Babyblues und kein Versagen, sondern die häufigste Komplikation nach einer Geburt – bei Müttern wie bei Vätern. Sprich es aktiv an, denn gefragt wirst du in Deutschland meistens nicht. Und wenn Gedanken kommen, dir oder deinem Kind etwas anzutun: sofort anrufen, 0800 111 0 111. Das ist der Moment, in dem Hilfe am schnellsten wirkt."
+    }
+  ],
+  "sources": [
+    {
+      "title": "S3-Leitlinie Peripartale Psychische Störungen (AWMF-Register-Nr. 051-032)",
+      "publisher": "AWMF / Deutsches Kollegium für Psychosomatische Medizin und beteiligte Fachgesellschaften",
+      "year": "2025",
+      "kind": "Leitlinie",
+      "url": "https://register.awmf.org/de/leitlinien/detail/051-032"
+    },
+    {
+      "title": "Prevalence of paternal depression in pregnancy and the postpartum: An updated meta-analysis",
+      "publisher": "Journal of Affective Disorders (Cameron EE, Sedov ID, Tomfohr-Madsen LM)",
+      "year": "2016",
+      "kind": "Metaanalyse",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/27475890/"
+    },
+    {
+      "title": "Prevalence and Course of Unwanted, Intrusive Thoughts of Infant-Related Harm",
+      "publisher": "Journal of Clinical Psychiatry",
+      "year": "2024",
+      "kind": "Studie",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/39145681/"
+    },
+    {
+      "title": "Postpartale Depression – wer kümmert sich? Versorgungszugänge über Hebammen, Gynäkologie, Pädiatrie und Allgemeinmedizin",
+      "publisher": "Bundesgesundheitsblatt – Gesundheitsforschung – Gesundheitsschutz",
+      "year": "2022",
+      "kind": "Übersichtsarbeit",
+      "url": "https://link.springer.com/article/10.1007/s00103-022-03545-8"
+    },
+    {
+      "title": "Embryotox – Arzneimittelsicherheit in Schwangerschaft und Stillzeit, Informationen zu depressiven Krankheitsbildern",
+      "publisher": "Pharmakovigilanz- und Beratungszentrum für Embryonaltoxikologie, Charité – Universitätsmedizin Berlin",
+      "year": "2025",
+      "kind": "Institutionelle Information",
+      "url": "https://www.embryotox.de/erkrankungen/details/ansicht/erkrankung/depressive-krankheitsbilder"
+    },
+    {
+      "title": "Initiative peripartale psychische Erkrankungen: Informationen, Selbsttest und Selbsthilfegruppen",
+      "publisher": "Schatten und Licht e. V.",
+      "year": "2025",
+      "kind": "Institutionelle Information",
+      "url": "https://www.schatten-und-licht.de/"
+    },
+    {
+      "title": "Hilfen für Familien mit Kindern bis 3 Jahre",
+      "publisher": "Nationales Zentrum Frühe Hilfen (NZFH), elternsein.info",
+      "year": "2025",
+      "kind": "Institutionelle Information",
+      "url": "https://www.elternsein.info/"
+    }
+  ],
+  "related": ["wochenbett", "elterliche-erschoepfung", "partnerschaft-nach-der-geburt", "schreibaby"]
+}

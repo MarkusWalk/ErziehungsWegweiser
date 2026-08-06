@@ -1,0 +1,296 @@
+{
+  "slug": "essverhalten-kleinkind",
+  "title": "Wenn das Kind fast nichts mehr isst",
+  "subtitle": "Warum aus einem Kind, das alles probiert hat, mit zwei Jahren ein Nudel-und-Brot-Esser wird, wie die Verantwortung am Tisch sinnvoll verteilt ist – und ab wann es wirklich ärztlich abgeklärt gehört.",
+  "phases": ["kleinkind", "kindergarten"],
+  "topics": ["ernaehrung", "emotionen"],
+  "updated": "2026-08-05",
+  "summary": "Zwischen dem zweiten und dem sechsten Geburtstag wird fast jedes Kind wählerischer – das ist ein Entwicklungsschritt, keine Fehlentwicklung und meistens vorübergehend. Was in dieser Phase über den Ausgang entscheidet, ist weniger, was auf dem Teller liegt, als wie am Tisch verhandelt wird. Bewährt hat sich eine klare Aufgabenteilung: Du bestimmst, was es gibt, wann und wo. Dein Kind bestimmt, ob und wie viel davon.",
+  "keyFacts": [
+    "Ablehnung neuer Lebensmittel ist ab etwa 20 bis 24 Monaten entwicklungstypisch und hat ihren Höhepunkt zwischen zwei und sechs Jahren.",
+    "In einer großen Kohortenstudie war der Anteil wählerischer Esser mit sechs Jahren nur noch halb so hoch wie mit drei.",
+    "Aufgabenteilung: Eltern bestimmen was, wann und wo – das Kind bestimmt ob und wie viel.",
+    "Druck und Belohnung fürs Essen verschlechtern die Sache längerfristig eher, als dass sie helfen.",
+    "Es kann viele Anläufe brauchen, bis ein neues Lebensmittel akzeptiert wird – ohne Kommentar angeboten."
+  ],
+  "blocks": [
+    {
+      "type": "p",
+      "lead": true,
+      "text": "Vor einem Jahr hat dein Kind Oliven gegessen, Fisch, Brokkoli, alles. Jetzt gibt es Nudeln mit Butter, Brot, manchmal Käse, und alles andere wird angesehen, als hättest du es vergiftet. Du kochst, es wird nicht angerührt, du räumst es weg, und irgendwo dazwischen sitzt das Gefühl, deinem Kind nicht das zu geben, was es braucht. Dieses Gefühl ist verbreitet, verständlich – und in den allermeisten Fällen ein schlechter Ratgeber."
+    },
+    {
+      "type": "section",
+      "heading": "Was mit zwei Jahren passiert",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "Säuglinge probieren fast alles. Erst gegen Ende des zweiten Lebensjahres kippt das: Neues wird misstrauisch beäugt, Bekanntes bevorzugt, Grünes grundsätzlich abgelehnt. Fachlich heißt das Neophobie, die Angst vor dem Neuen, und sie ist evolutionär gut nachvollziehbar. Genau in dem Alter, in dem Kinder anfangen, sich selbstständig fortzubewegen und alles in den Mund zu stecken, schaltet der Körper einen Schutzmechanismus zu: Iss lieber das, was du kennst und was dir bisher nicht geschadet hat."
+        },
+        {
+          "type": "evidence",
+          "level": "moderat",
+          "claim": "Die Ablehnung unbekannter Lebensmittel beginnt typischerweise mit etwa 20 bis 24 Monaten, erreicht zwischen zwei und sechs Jahren ihren Höhepunkt und geht danach deutlich zurück.",
+          "note": "Der Befund stammt aus Übersichtsarbeiten zu wählerischem Essverhalten und ist über viele Studien hinweg stabil. Wichtig für den Alltag: Was du gerade erlebst, ist der Regelfall in dieser Altersgruppe. Es bedeutet nicht, dass dein Kind die Beikost-Phase verpasst hat oder dass du zu wenig Auswahl anbietest.",
+          "sources": [2]
+        },
+        {
+          "type": "evidence",
+          "level": "moderat",
+          "claim": "In einer bevölkerungsbasierten Kohortenstudie mit rund 4.000 Kindern galten 26,5 Prozent mit anderthalb Jahren als wählerisch, 27,6 Prozent mit drei Jahren – aber nur noch 13,2 Prozent mit sechs. Nur etwa 4 Prozent waren zu allen drei Zeitpunkten wählerisch.",
+          "note": "Die Studie unterschied vier Verläufe: nie wählerisch, vorübergehend wählerisch, spät beginnend und dauerhaft. Der mit Abstand häufigste auffällige Verlauf war der vorübergehende. Praktisch heißt das: Die Wahrscheinlichkeit, dass sich das von allein wieder auswächst, ist hoch – und sie sinkt vor allem dann, wenn am Tisch dauerhaft Kampf herrscht.",
+          "sources": [1]
+        },
+        {
+          "type": "figure",
+          "kind": "bar",
+          "title": "Anteil wählerischer Esser nach Alter",
+          "alt": "Balkendiagramm: 26,5 Prozent mit 1,5 Jahren, 27,6 Prozent mit 3 Jahren, 13,2 Prozent mit 6 Jahren",
+          "data": [
+            { "label": "1,5 Jahre", "value": 26.5, "display": "26,5 %" },
+            { "label": "3 Jahre", "value": 27.6, "display": "27,6 %" },
+            { "label": "6 Jahre", "value": 13.2, "display": "13,2 %" }
+          ],
+          "caption": "Aus einer niederländischen Geburtskohorte mit rund 4.000 Kindern, wählerisches Essen jeweils von den Müttern berichtet. Die Kurve zeigt genau das, was Eltern in der Phase nicht glauben können: Der Anteil halbiert sich bis zum Schulalter.",
+          "sources": [1]
+        }
+      ]
+    },
+    {
+      "type": "section",
+      "heading": "Die Aufgabenteilung am Tisch",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "Der praktisch nützlichste Gedanke zu diesem Thema stammt von der amerikanischen Ernährungsfachkraft Ellyn Satter und ist inzwischen in vielen Fachempfehlungen gelandet. Er lautet: Es gibt zwei Zuständigkeiten, und sie gehören nicht derselben Person. Solange beide Seiten ihre Aufgabe machen und die der anderen in Ruhe lassen, funktioniert es meistens. Sobald eine Seite übergreift, entsteht der Machtkampf."
+        },
+        {
+          "type": "comparison",
+          "title": "Wer wofür zuständig ist",
+          "columns": [
+            {
+              "title": "Deine Aufgabe",
+              "tone": "good",
+              "items": [
+                "Was auf den Tisch kommt – du wählst aus, du kochst",
+                "Wann gegessen wird – feste Mahlzeiten und Zwischenmahlzeiten",
+                "Wo gegessen wird – am Tisch, gemeinsam, ohne Bildschirm",
+                "Dass etwas dabei ist, das dein Kind mag (Brot, Reis, Obst reicht)",
+                "Dass es zwischendurch keinen Selbstbedienungsladen gibt"
+              ]
+            },
+            {
+              "title": "Die Aufgabe deines Kindes",
+              "tone": "neutral",
+              "items": [
+                "Ob es überhaupt isst",
+                "Wie viel es isst",
+                "Was es von dem, was da steht, nimmt",
+                "In welcher Reihenfolge",
+                "Ob es an einem Tag doppelt so viel isst wie am nächsten"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "callout",
+          "variant": "tip",
+          "title": "Der eine Satz, der den Tisch entspannt",
+          "text": "„Das ist das Essen. Du musst nichts davon essen.“ Danach redest du über etwas anderes. Kein Blick auf den Teller, kein Kommentar zur Menge, kein Nachfragen, ob es wirklich nichts mehr will. Für viele Familien ist das die größte Umstellung – und die wirksamste."
+        },
+        {
+          "type": "p",
+          "text": "Zwei Zusätze machen das Ganze alltagstauglich. Erstens: Es liegt bei jeder Mahlzeit etwas dabei, von dem du weißt, dass dein Kind es normalerweise isst – Brot, Nudeln, Reis, ein Stück Obst. So kann es sich immer satt essen, ohne dass du dafür extra kochen musst. Zweitens: Nach der Mahlzeit ist Küche zu, bis zur nächsten. Kein Joghurt eine halbe Stunde später, kein Keks aus Mitleid. Sonst lernt dein Kind schnell, dass das eigentliche Essen nach dem Essen kommt."
+        }
+      ]
+    },
+    {
+      "type": "section",
+      "heading": "Warum Druck und Belohnung nach hinten losgehen",
+      "blocks": [
+        {
+          "type": "evidence",
+          "level": "moderat",
+          "claim": "Elterlicher Druck beim Essen und wählerisches Essverhalten hängen wechselseitig zusammen: Wählerische Kinder lösen bei Eltern mehr Drängeln aus, und mehr Drängeln geht mit anhaltend wählerischerem Essen einher.",
+          "note": "Aus einer Längsschnittuntersuchung, die beide Richtungen getrennt geprüft hat. Der Effekt ist nicht dramatisch groß, aber er zeigt sicher in eine Richtung: Drängeln senkt die Wählerischkeit jedenfalls nicht. Das ist eine Entlastung – du musst nicht besser drängeln lernen, du darfst aufhören.",
+          "sources": [4]
+        },
+        {
+          "type": "evidence",
+          "level": "moderat",
+          "claim": "Wiederholtes, unkommentiertes Anbieten eines neuen Lebensmittels erhöht seine Akzeptanz zuverlässiger als eine Belohnung dafür. In den zugrunde liegenden Untersuchungen waren dafür oft rund acht bis fünfzehn Gelegenheiten nötig.",
+          "note": "Aus experimentellen Studien mit Kindern im Vorschul- und Grundschulalter sowie einer systematischen Übersicht dazu. Der Haken für den Alltag: Die meisten Eltern geben nach zwei oder drei Versuchen auf, weil sie den Eindruck haben, das Kind mag es nicht. Ein Löffel Erbsen, der zehnmal unberührt danebenliegt, ist kein gescheiterter Versuch, sondern ein normaler Zwischenstand.",
+          "sources": [3, 5]
+        },
+        {
+          "type": "callout",
+          "variant": "myth",
+          "title": "„Drei Löffel noch, dann gibt es Nachtisch“",
+          "text": "Der Klassiker hat zwei Nebenwirkungen. Er wertet das Gemüse ab (offenbar so unangenehm, dass es Bezahlung braucht) und den Nachtisch auf (offenbar so wertvoll, dass man ihn sich verdienen muss). Und er unterläuft die einzige Kompetenz, die dein Kind beim Essen ohnehin schon hat: sein Sättigungsgefühl. Wer regelmäßig gegen das eigene Sattsein isst, verliert den Kontakt dazu."
+        },
+        {
+          "type": "p",
+          "text": "Genauso wenig hilft der Flugzeuglöffel, das Ablenken mit dem Handy oder das Nachfüttern nebenbei. Alle drei sorgen kurzfristig für mehr Kalorien im Kind und langfristig dafür, dass Essen kein eigenständiger Vorgang mehr ist, sondern etwas, das nebenbei passiert. Wenn dein Kind sehr wenig isst, ist es verlockend – trotzdem lohnt es sich, das Essen als eigene Sache am Tisch zu behalten."
+        }
+      ]
+    },
+    {
+      "type": "section",
+      "heading": "Was im Alltag tatsächlich hilft",
+      "blocks": [
+        {
+          "type": "steps",
+          "title": "Sechs Dinge, die etwas verändern",
+          "items": [
+            {
+              "title": "Struktur statt Dauerangebot",
+              "text": "Drei Mahlzeiten und zwei feste Zwischenmahlzeiten, dazwischen nur Wasser. Ein Kind, das den ganzen Tag Zugriff auf Kekse und Milch hat, kommt nie mit Hunger an den Tisch – und Hunger ist der beste Verbündete, den du hast."
+            },
+            {
+              "title": "Getrennt anrichten",
+              "text": "Nudeln, Soße, Gemüse, Käse in Schüsseln in die Mitte statt fertig gemischt auf den Teller. Viele Kleinkinder lehnen nicht die Zutat ab, sondern die Vermischung. Selbst nehmen dürfen erhöht die Bereitschaft zusätzlich."
+            },
+            {
+              "title": "Neues neben Bekanntem",
+              "text": "Ein neues Lebensmittel taucht in kleiner Menge neben etwas Vertrautem auf – ohne Ankündigung, ohne Erwartung, ohne dass jemand hinschaut, wenn es probiert wird."
+            },
+            {
+              "title": "Anfassen zählt schon",
+              "text": "Der Weg zum Essen führt über Anschauen, Anfassen, Beriechen, Ablecken, Wiederausspucken. Jeder dieser Schritte ist Fortschritt. Erlaube ausdrücklich, etwas wieder auszuspucken – das senkt die Hemmschwelle, überhaupt zu probieren."
+            },
+            {
+              "title": "Mitmachen lassen",
+              "text": "Einkaufen, waschen, rühren, den Tisch decken. Kinder essen eher, was sie mitverantwortet haben. Das ist keine Wundermethode, aber es kostet nichts."
+            },
+            {
+              "title": "Selbst mitessen",
+              "text": "Gemeinsame Mahlzeiten wirken stärker als jede Ansage. Dein Kind interessiert sich mehr dafür, was auf deinem Teller liegt, als für das, was du über Gemüse sagst."
+            }
+          ]
+        },
+        {
+          "type": "callout",
+          "variant": "info",
+          "title": "Warum ein Kleinkind plötzlich weniger isst als mit einem Jahr",
+          "text": "Im ersten Lebensjahr verdreifacht sich das Gewicht ungefähr, danach flacht die Wachstumskurve deutlich ab. Ein Zweijähriger braucht im Verhältnis zu seinem Körpergewicht schlicht weniger als ein Säugling. Was wie Appetitverlust aussieht, ist häufig nur ein Kind, das nicht mehr so schnell wächst – dazu kommen sehr schwankende Tagesmengen, die sich erst über eine Woche gesehen ausgleichen."
+        }
+      ]
+    },
+    {
+      "type": "section",
+      "heading": "Wann es ärztlich wird",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "Die große Mehrheit der wählerischen Kinder ist gesund, ausreichend versorgt und wächst normal. Es gibt aber eine Minderheit, bei der mehr dahintersteckt – von einer Fütterstörung über Schluckprobleme bis zu einer ausgeprägten vermeidenden Essstörung. Die folgenden Punkte sind der Grund, sich einen Termin zu holen, statt weiter abzuwarten."
+        },
+        {
+          "type": "callout",
+          "variant": "warn",
+          "title": "Anlass für eine Abklärung in der Kinderarztpraxis",
+          "items": [
+            "Dein Kind nimmt ab oder die Gewichtskurve knickt über mehrere Monate von ihrem bisherigen Verlauf ab",
+            "Das Nahrungsspektrum ist extrem eng – etwa weniger als zehn bis fünfzehn Lebensmittel – und wird eher kleiner statt größer",
+            "Ganze Konsistenzen oder Gruppen fallen dauerhaft weg (nichts Stückiges, nichts Weiches, gar kein Eiweiß)",
+            "Würgen, Verschlucken, Erbrechen oder Husten beim Essen, auch bei weicher Kost",
+            "Dein Kind hat sichtbar Angst vor dem Essen oder vor bestimmten Lebensmitteln",
+            "Mahlzeiten dauern regelmäßig länger als etwa 30 Minuten und enden im Streit oder in Tränen",
+            "Auffällige Blässe, Müdigkeit, Haarausfall oder häufige Infekte",
+            "Anhaltende Verstopfung oder Bauchschmerzen"
+          ]
+        },
+        {
+          "type": "p",
+          "text": "In der Praxis wird zuerst das Wichtigste geprüft: Wächst dein Kind entlang seiner eigenen Kurve? Danach kommen je nach Bild Blutwerte, ein Blick auf Schlucken und Mundmotorik oder eine Überweisung. Es lohnt sich, ein Ernährungs- und Mahlzeitenprotokoll über etwa eine Woche mitzubringen – inklusive der Frage, wie die Mahlzeiten ablaufen, nicht nur was gegessen wurde. Bei sehr früh beginnenden und hartnäckigen Problemen sind Spezialambulanzen für Fütter- und Regulationsstörungen der richtige Ort."
+        }
+      ]
+    },
+    {
+      "type": "section",
+      "heading": "Häufige Fragen",
+      "blocks": [
+        {
+          "type": "faq",
+          "items": [
+            {
+              "q": "Mein Kind isst tagelang fast nichts. Kann es verhungern?",
+              "a": "Ein gesundes Kleinkind, das Zugang zu Essen und Wasser hat, isst nicht so wenig, dass es sich schadet. Der Hunger setzt sich durch, nur eben nicht nach deinem Zeitplan. Was du beobachten solltest, ist nicht der einzelne Tag, sondern die Woche – und vor allem die Gewichtskurve über Monate. Solange die stimmt und dein Kind aktiv und fröhlich ist, isst es genug."
+            },
+            {
+              "q": "Soll ich extra kochen, damit überhaupt etwas ankommt?",
+              "a": "Zwei Menüs sind auf Dauer anstrengend und lehren dein Kind, dass Ablehnung ein Bestellsystem öffnet. Der Mittelweg: Es gibt ein Essen für alle, und darin ist immer eine sichere Komponente enthalten, die dein Kind mag. Das ist kein Extrakochen, sondern Planung – und es nimmt dir die Sorge, dass es hungrig ins Bett geht."
+            },
+            {
+              "q": "Muss mein Kind aufessen oder wenigstens probieren?",
+              "a": "Beides nicht. Aufessen trainiert gegen das Sättigungsgefühl, Probierzwang macht aus dem Teller einen Prüfungsort. Was du sagen kannst: „Es liegt da, du darfst es probieren, du musst nicht.“ Der Unterschied klingt klein und ist im Ergebnis groß."
+            },
+            {
+              "q": "In der Kita isst es angeblich alles. Woran liegt das?",
+              "a": "An der Gruppe, an anderen Erwartungen und daran, dass dein Kind zu Hause mehr Spielraum hat, sich zu zeigen. Das ist ärgerlich zu hören und eigentlich eine gute Nachricht: Es zeigt, dass dein Kind essen kann und will. Frag in der Kita nach, wie die Mahlzeiten dort ablaufen – manchmal lässt sich etwas übernehmen, etwa das Selbstauffüllen aus Schüsseln."
+            },
+            {
+              "q": "Braucht ein wählerisches Kind Vitaminpräparate?",
+              "a": "Nicht routinemäßig. Wenn du dir Sorgen machst, ist der richtige Weg ein Termin in der Kinderarztpraxis mit der Frage, ob etwas fehlt – und nicht der Griff ins Regal. Bei sehr engem Spektrum werden gelegentlich einzelne Werte wie Eisen kontrolliert. Was ohne Kontrolle sinnvoll bleibt, ist die Vitamin-D-Gabe im ersten Lebensjahr nach ärztlicher Empfehlung."
+            },
+            {
+              "q": "Ich werde beim Essen jedes Mal wütend. Was hilft mir?",
+              "a": "Dass Ablehnung von selbstgekochtem Essen kränkt, ist keine Charakterschwäche – Füttern ist eine der ältesten Formen von Fürsorge. Zwei Dinge helfen: die Verantwortung wirklich abzugeben (dein Teil endet, wenn das Essen auf dem Tisch steht) und die Mahlzeit nicht als Bewertung deiner Elternschaft zu lesen. Wenn du merkst, dass jede Mahlzeit zum Konflikt wird, ist eine Ernährungsberatung mit Kleinkindschwerpunkt oder eine Erziehungsberatungsstelle ein guter, unaufgeregter Ort dafür."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "title": "The Satter Division of Responsibility in Feeding",
+      "publisher": "Ellyn Satter Institute",
+      "year": "2024",
+      "kind": "Empfehlung",
+      "url": "https://www.ellynsatterinstitute.org/how-to-feed/division-of-responsibility/"
+    },
+    {
+      "title": "Trajectories of picky eating during childhood: A general population study",
+      "publisher": "International Journal of Eating Disorders (Cardona Cano et al.)",
+      "year": "2015",
+      "kind": "Studie",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/25644130/"
+    },
+    {
+      "title": "Picky eating in children: causes and consequences",
+      "publisher": "Proceedings of the Nutrition Society",
+      "year": "2019",
+      "kind": "Übersichtsarbeit",
+      "url": "https://www.cambridge.org/core/journals/proceedings-of-the-nutrition-society/article/picky-eating-in-children-causes-and-consequences/34921F967B9F37046962CA866DC199C3"
+    },
+    {
+      "title": "Modifying children's food preferences: the effects of exposure and reward on acceptance of an unfamiliar vegetable",
+      "publisher": "European Journal of Clinical Nutrition (Wardle et al.)",
+      "year": "2003",
+      "kind": "Studie",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/12571670/"
+    },
+    {
+      "title": "Bi-directional associations between child fussy eating and parents' pressure to eat: Who influences whom?",
+      "publisher": "Physiology & Behavior (Jansen et al.)",
+      "year": "2017",
+      "kind": "Studie",
+      "url": "https://www.sciencedirect.com/science/article/abs/pii/S0031938416311015"
+    },
+    {
+      "title": "Repeated Exposure to Foods and Early Food Acceptance: A Systematic Review",
+      "publisher": "USDA Nutrition Evidence Systematic Review (NESR)",
+      "year": "2020",
+      "kind": "Übersichtsarbeit",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK582166/"
+    },
+    {
+      "title": "Essprobleme bei Kindern und Fütterstörungen",
+      "publisher": "Bundeszentrale für gesundheitliche Aufklärung (BZgA), kindergesundheit-info.de",
+      "year": "2024",
+      "kind": "Institutionelle Information",
+      "url": "https://www.kindergesundheit-info.de/themen/ernaehrung/essprobleme/problemsituationen/"
+    }
+  ],
+  "related": ["familienkost", "beikost-einfuehren", "autonomiephase", "grenzen-setzen"]
+}

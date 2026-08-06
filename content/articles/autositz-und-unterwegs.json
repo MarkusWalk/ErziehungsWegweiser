@@ -1,0 +1,264 @@
+{
+  "slug": "autositz-und-unterwegs",
+  "title": "Autositz, Kinderwagen und Fahrrad",
+  "subtitle": "Wie Kinder unterwegs sicher sind: Normen ohne Fachchinesisch, rückwärtsgerichtet fahren, die immer gleichen Einbaufehler – und was beim Fahrrad wirklich zählt.",
+  "phases": ["neugeborenes", "saeugling", "kleinkind", "kindergarten"],
+  "topics": ["sicherheit"],
+  "updated": "2026-08-05",
+  "summary": "Der beste Kindersitz ist der, der ins Auto passt, zum Kind passt und richtig eingebaut ist – in dieser Reihenfolge. Rückwärtsgerichtet fahren schützt Kopf und Halswirbelsäule und sollte deutlich länger dauern als bis zum gesetzlichen Mindestalter. Fast jeder zweite Sitz ist im Alltag fehlerhaft benutzt, meistens wegen eines zu lockeren Gurts oder einer dicken Jacke darunter.",
+  "keyFacts": [
+    "Kindersitzpflicht in Deutschland: bis 12 Jahre oder 150 cm Körpergröße.",
+    "Rückwärtsgerichtet ist nach der Norm R129 bis mindestens 15 Monate Pflicht – empfohlen wird deutlich länger.",
+    "In einer Erhebung der Unfallforschung der Versicherer war fast die Hälfte der Kinder fehlerhaft gesichert.",
+    "Dicke Winterjacken gehören nicht unter den Gurt, auch nicht kurz.",
+    "Helm auf dem Fahrrad ab der ersten Mitfahrt – im Sitz wie im Anhänger."
+  ],
+  "blocks": [
+    {
+      "type": "p",
+      "lead": true,
+      "text": "Kindersitze sind ein Thema, bei dem Eltern viel Geld ausgeben und wenig Sicherheit gewinnen, wenn ein einziger Handgriff fehlt. Die guten Nachrichten zuerst: Die Grundregeln sind kurz, sie ändern sich selten, und sie lassen sich in fünf Minuten überprüfen. Die weniger gute: Fast alle Fehler, die gemacht werden, fühlen sich beim Einbau völlig richtig an."
+    },
+    {
+      "type": "callout",
+      "variant": "danger",
+      "title": "Beifahrersitz und Airbag",
+      "text": "Ein rückwärtsgerichteter Kindersitz darf **niemals** auf einem Beifahrersitz mit aktivem Frontairbag stehen. Löst der Airbag aus, trifft er den Kopf des Kindes mit voller Wucht. Wenn es nicht anders geht: Airbag nachweislich deaktivieren (Schlüsselschalter oder Werkstatt) und den Sitz ganz nach hinten schieben. Der sicherste Platz für einen Kindersitz ist ohnehin die Rückbank, bevorzugt hinter dem Beifahrersitz."
+    },
+    {
+      "type": "section",
+      "heading": "Normen in drei Sätzen",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "In Deutschland müssen Kinder bis zum 12. Geburtstag oder bis 150 Zentimeter Körpergröße in einem geeigneten Rückhaltesystem sitzen – was zuerst eintritt. Welcher Sitz geeignet ist, regeln zwei europäische Normen: die ältere UN ECE R44, die nach Körpergewicht einteilte, und die neuere R129, bekannt als i-Size, die nach Körpergröße geht. Seit September 2023 dürfen neue R44-Sitze nicht mehr hergestellt und nach der Übergangsfrist nicht mehr verkauft werden; bereits gekaufte R44-Sitze darfst du weiter benutzen und musst sie nicht ersetzen."
+        },
+        {
+          "type": "table",
+          "title": "Was der Unterschied praktisch bedeutet",
+          "head": ["", "R44 (älter)", "R129 / i-Size"],
+          "rows": [
+            ["Einteilung", "nach Gewicht in Gruppen 0 bis III", "nach Körpergröße in Zentimetern"],
+            ["Rückwärts", "vorwärts ab 9 kg erlaubt", "rückwärts bis mindestens 15 Monate Pflicht"],
+            ["Seitenaufprall", "nicht geprüft", "im Test enthalten"]
+          ],
+          "caption": "Nach der Übersicht des ADAC zu den Kindersitznormen. Die entscheidende Verbesserung von i-Size ist weniger die Zulassung als die Tatsache, dass sich Sitz und Auto schwerer falsch kombinieren lassen.",
+          "sources": [0, 1]
+        },
+        {
+          "type": "callout",
+          "variant": "tip",
+          "title": "Vor dem Kauf",
+          "items": [
+            "Sitz im eigenen Auto probeeinbauen – Testsieger nützen nichts, wenn sie auf deiner Rückbank wackeln",
+            "Kind mitnehmen und probesitzen lassen, besonders bei Kopfstütze und Gurtschlitzhöhe",
+            "Fachhandel oder Verkehrswacht zeigen den Einbau; viele Städte bieten kostenlose Kindersitz-Checks",
+            "Gebrauchte Sitze nur aus bekannter Hand: Ein Sitz nach einem Unfall gehört ausgetauscht, auch ohne sichtbaren Schaden"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "section",
+      "heading": "Rückwärts, so lange es geht",
+      "blocks": [
+        {
+          "type": "evidence",
+          "level": "stark",
+          "claim": "Rückwärtsgerichtetes Fahren verteilt die Kräfte eines Frontalaufpralls über Rücken, Nacken und Kopf statt sie auf die Halswirbelsäule zu konzentrieren. Deshalb schreibt die Norm R129 vor, dass Kinder bis mindestens 15 Monate rückwärts transportiert werden.",
+          "note": "Der Kopf eines Kleinkinds macht einen sehr viel größeren Anteil des Körpergewichts aus als beim Erwachsenen, die Nackenmuskulatur ist schwach. Fachleute – darunter der ADAC – empfehlen deshalb, deutlich über die Pflichtgrenze hinauszugehen und Kinder mindestens bis zum zweiten Geburtstag, gern länger, rückwärts fahren zu lassen. Angewinkelte Beine sind dabei kein Problem: Kinder sitzen im Schneidersitz bequemer, als Erwachsene vermuten.",
+          "sources": [0]
+        },
+        {
+          "type": "callout",
+          "variant": "myth",
+          "title": "„Er sieht doch nichts und wird quengelig“",
+          "text": "Das ist der häufigste Grund für einen zu frühen Wechsel nach vorn – und der schwächste. Ein Spiegel an der Rücksitzlehne, ein Fenster in Blickrichtung und Pausen helfen mehr als eine Drehung, die die Schutzwirkung im Frontalcrash verringert. Ein Wechsel nach vorn ist ein Rückschritt in der Sicherheit, kein Meilenstein, den man feiert."
+        },
+        {
+          "type": "figure",
+          "kind": "share",
+          "title": "Wie verunglückte Kinder unterwegs waren (2024)",
+          "alt": "Anteilsdiagramm: 35 Prozent der verunglückten Kinder saßen im Auto, 33 Prozent auf dem Fahrrad, 21 Prozent gingen zu Fuß",
+          "data": [
+            { "label": "Im Auto", "value": 35, "display": "35 %" },
+            { "label": "Auf dem Fahrrad", "value": 33, "display": "33 %" },
+            { "label": "Zu Fuß", "value": 21, "display": "21 %" }
+          ],
+          "caption": "27.260 Kinder unter 15 Jahren verunglückten 2024 im deutschen Straßenverkehr, 53 von ihnen tödlich. Bei Kindern unter sechs Jahren saßen 58 Prozent im Auto – schlicht, weil sie dort am meisten unterwegs sind. Zahlen des Statistischen Bundesamtes.",
+          "sources": [3]
+        }
+      ]
+    },
+    {
+      "type": "section",
+      "heading": "Die immer gleichen Einbaufehler",
+      "blocks": [
+        {
+          "type": "evidence",
+          "level": "stark",
+          "claim": "In einer Stichprobenerhebung der Unfallforschung der Versicherer war in knapp der Hälfte der untersuchten Fahrzeuge das Rückhaltesystem fehlerhaft benutzt. Häufigste Mängel: falsch geführte oder zu lockere Gurte.",
+          "note": "Untersucht wurden über tausend Fahrzeuge mit gesicherten Kindern. Der wichtigste Befund für den Alltag: Es sind nicht exotische Fehler, sondern immer dieselben drei oder vier – und sie lassen sich in zwei Minuten prüfen.",
+          "sources": [2]
+        },
+        {
+          "type": "checklist",
+          "id": "einbau",
+          "title": "Zwei-Minuten-Check vor der Fahrt",
+          "items": [
+            "Gurt straff: Zwischen Gurt und Schlüsselbein passt höchstens eine flache Handbreit, nicht mehr zwei Finger seitlich abstehendes Gurtband",
+            "Schultergurte auf der richtigen Höhe: rückwärtsgerichtet auf oder knapp unter Schulterhöhe, vorwärtsgerichtet auf oder knapp über Schulterhöhe",
+            "Gurtschloss auf Beckenhöhe, nicht auf dem Bauch",
+            "Sitz wackelt am Gurtpfad höchstens zwei Zentimeter zur Seite",
+            "Isofix-Anzeigen beide grün, Stützfuß fest auf dem Fahrzeugboden (nicht in einem Staufach), oberer Haltegurt gespannt",
+            "Fahrzeuggurt ohne Verdrehung durch alle vorgesehenen Führungen",
+            "Keine dicke Jacke, kein dickes Kissen zwischen Kind und Gurt",
+            "Nichts Loses im Innenraum: Ein Buch oder eine Thermoskanne wird beim Aufprall zum Geschoss"
+          ]
+        },
+        {
+          "type": "callout",
+          "variant": "warn",
+          "title": "Winterjacken und Babyschalen-Zeit",
+          "text": "**Dicke Jacken** komprimieren beim Aufprall auf wenige Millimeter – der Gurt hat dann plötzlich mehrere Zentimeter Spiel, und das Kind kann herausrutschen. Richtig ist: Jacke aus, anschnallen, Jacke oder Decke verkehrt herum über den angelegten Gurt legen. **Die Babyschale** ist ein Transportmittel, kein Aufenthaltsort. Die halb sitzende Position belastet Atmung und Wirbelsäule von Neugeborenen; halte die Zeit am Stück kurz, plan bei längeren Fahrten Pausen zum Herausnehmen ein, und lass ein Baby nicht in der Schale schlafen, wenn ein flacher Schlafplatz verfügbar ist."
+        }
+      ]
+    },
+    {
+      "type": "section",
+      "heading": "Kinderwagen, Fahrrad, Anhänger",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "Für den Kinderwagen ist die Liste kurz: Bremse an jeder Ampel und an jedem Gefälle, Fünfpunktgurt auch für kurze Wege, keine schwere Wickeltasche an den Griff (Kippgefahr), und im Sommer kein Tuch über die Haube – darunter staut sich die Hitze schnell auf gefährliche Werte. Ein Sonnenschirm oder ein luftdurchlässiges Netz ist die bessere Lösung."
+        },
+        {
+          "type": "comparison",
+          "title": "Fahrradsitz oder Anhänger?",
+          "columns": [
+            {
+              "title": "Anhänger",
+              "tone": "good",
+              "items": [
+                "Im Vergleich des ADAC insgesamt die sicherere Variante",
+                "Kippt seltener mit, wenn das Rad umfällt",
+                "Schutz vor Wetter, Platz für zwei Kinder",
+                "Braucht Wendekreis, Stellplatz und gute Sichtbarkeit im Verkehr"
+              ]
+            },
+            {
+              "title": "Fahrradsitz",
+              "tone": "neutral",
+              "items": [
+                "Praktisch für kurze Alltagswege, schnell auf- und abgesetzt",
+                "Bei einem Sturz stürzt das Kind aus voller Höhe mit",
+                "Rad mit Kind im Sitz nie unbeaufsichtigt abstellen – auch nicht angelehnt",
+                "Fußschutz und Speichenschutz prüfen"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "evidence",
+          "level": "moderat",
+          "claim": "Kinder sollten erst mitfahren, wenn sie sicher frei sitzen und den Kopf selbst halten können – in der Regel etwa ab dem neunten Lebensmonat. Ein Helm gehört ab der ersten Mitfahrt dazu, im Sitz wie im Anhänger.",
+          "note": "Ein gesetzliches Mindestalter gibt es nicht; die Empfehlung stützt sich auf die Entwicklung der Nackenmuskulatur. Der Helm muss waagerecht sitzen, die Stirn bedecken und darf sich beim Kopfschütteln nicht verschieben. Wichtig: Helm beim Klettern und auf dem Spielplatz abnehmen – dort besteht Strangulationsgefahr durch den Kinnriemen.",
+          "sources": [4, 5]
+        }
+      ]
+    },
+    {
+      "type": "section",
+      "heading": "Häufige Fragen",
+      "blocks": [
+        {
+          "type": "faq",
+          "items": [
+            {
+              "q": "Wann darf mein Kind auf eine Sitzerhöhung?",
+              "a": "Erst deutlich später, als die meisten denken. Sitzerhöhungen ohne Rückenlehne bieten keinen Seitenaufprallschutz und keine gute Gurtführung; empfohlen werden sie frühestens ab etwa 125 Zentimetern Körpergröße. Bis dahin ist ein Sitz mit Rückenlehne und Kopfstütze die bessere Wahl."
+            },
+            {
+              "q": "Wie lange kann ein Kindersitz benutzt werden?",
+              "a": "Kunststoff altert. Die Hersteller nennen meist sechs bis zehn Jahre; nach einem Unfall mit mehr als leichtem Aufprall wird der Sitz getauscht, auch wenn er unbeschädigt aussieht. Das übernimmt in der Regel die Haftpflicht des Unfallverursachers."
+            },
+            {
+              "q": "Unser Kind schreit im Auto und will nicht angeschnallt werden. Was tun?",
+              "a": "Anschnallen ist nicht verhandelbar, alles andere schon: Pausen einplanen, Musik oder Hörspiel, jemand hinten daneben, Fahrten in die Schlafzeit legen. Und ehrlich prüfen, ob der Sitz drückt – heiße Schnallen, Gurte auf der falschen Höhe oder eine zu enge Schale sind häufiger die Ursache, als man denkt."
+            },
+            {
+              "q": "Darf ich mein Baby im Auto stillen oder füttern?",
+              "a": "Nicht während der Fahrt und nicht im Sitz. Halt an, nimm das Kind heraus, füttere in Ruhe. Ein Fläschchen oder Sauger im Mund ist im Sitz zudem ein Erstickungsrisiko, wenn das Kind einschläft."
+            },
+            {
+              "q": "Brauchen Kinder im Anhänger wirklich einen Helm?",
+              "a": "ADAC und ADFC empfehlen ihn, sobald das Kind sicher sitzt. Der Anhänger schützt gut gegen den Sturz, aber nicht gegen jeden Anstoß im Innenraum. Achte darauf, dass der Kopf nicht dauerhaft nach vorn gedrückt wird – Helme mit flachem Hinterkopf sind dafür gemacht."
+            },
+            {
+              "q": "Was tun bei einem Unfall mit Kind im Auto?",
+              "a": "Unfallstelle sichern, 112 rufen, Kind möglichst im Sitz lassen, solange keine akute Gefahr besteht – der Sitz stabilisiert die Wirbelsäule. Ansprechbarkeit und Atmung prüfen, warm halten. Was du in den ersten Minuten tust, steht in unserem Artikel zur [Ersten Hilfe am Kind](/artikel/erste-hilfe-am-kind), Nummern findest du auf der [Notfallseite](/notfall)."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "callout",
+      "variant": "info",
+      "title": "Kurz gesagt",
+      "text": "Rückwärts so lange wie möglich, Gurt straff, Jacke aus, Schale nur zum Transport, Helm ab der ersten Fahrt. Fünf Regeln, die zusammen mehr bringen als jeder Testsieger im Regal."
+    }
+  ],
+  "sources": [
+    {
+      "title": "i-Size und UN ECE Reg. 44 – Kindersitznormen erklärt",
+      "publisher": "ADAC",
+      "year": "2025",
+      "kind": "Institutionelle Information",
+      "url": "https://www.adac.de/rund-ums-fahrzeug/ausstattung-technik-zubehoer/kindersitze/kindersitzberater/kindersitz-normen/"
+    },
+    {
+      "title": "Kindersitzpflicht: Bis wann braucht man einen Kindersitz?",
+      "publisher": "ADAC",
+      "year": "2025",
+      "kind": "Institutionelle Information",
+      "url": "https://www.adac.de/rund-ums-fahrzeug/ausstattung-technik-zubehoer/kindersitze/kindersitzberater/kindersitzpflicht/"
+    },
+    {
+      "title": "Studie zeigt schwere Mängel bei der Sicherung von Kindern im Auto",
+      "publisher": "Unfallforschung der Versicherer (UDV), Gesamtverband der Deutschen Versicherungswirtschaft",
+      "year": "2019",
+      "kind": "Studie",
+      "url": "https://www.udv.de/udv/presse/studie-zeigt-schwere-maengel-bei-der-sicherung-von-kindern-im-auto-79078"
+    },
+    {
+      "title": "27 260 Kinder im Jahr 2024 bei Verkehrsunfällen verunglückt",
+      "publisher": "Statistisches Bundesamt (Destatis)",
+      "year": "2025",
+      "kind": "Institutionelle Information",
+      "url": "https://www.destatis.de/DE/Presse/Pressemitteilungen/2025/08/PD25_N043_46241.html"
+    },
+    {
+      "title": "Fahrradfahren mit Kindern: Anhänger, Sitz oder Mitläufer",
+      "publisher": "ADAC",
+      "year": "2025",
+      "kind": "Institutionelle Information",
+      "url": "https://www.adac.de/rund-ums-fahrzeug/zweirad/fahrrad-ebike-pedelec/kauf-ausruestung/fahrradanhaenger-fahrradkindersitz/"
+    },
+    {
+      "title": "Fahrradsitz und Kinderhelm",
+      "publisher": "Bundeszentrale für gesundheitliche Aufklärung (BZgA), kindergesundheit-info.de",
+      "year": "2024",
+      "kind": "Institutionelle Information",
+      "url": "https://www.kindergesundheit-info.de/themen/sicher-aufwachsen/alltagstipps/sicher-im-alltag/fahrradsicherheit/"
+    },
+    {
+      "title": "Kindertransport mit dem Fahrrad: Was ist am sichersten?",
+      "publisher": "Stiftung Warentest",
+      "year": "2023",
+      "kind": "Übersichtsarbeit",
+      "url": "https://www.test.de/Kindertransport-mit-dem-Fahrrad-Was-ist-am-sichersten-5776176-0/"
+    }
+  ],
+  "related": ["babyproofing", "erste-hilfe-am-kind", "unfallpraevention-kleinkind", "erstausstattung"]
+}

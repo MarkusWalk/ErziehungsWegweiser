@@ -1,0 +1,249 @@
+{
+  "slug": "fieber-und-infekte",
+  "title": "Fieber und Infekte richtig einschätzen",
+  "subtitle": "Warum Fieber zur Abwehr gehört, wie du misst, worauf du wirklich achten musst – und warum acht bis zwölf Infekte im Jahr kein Zeichen für ein schwaches Immunsystem sind.",
+  "phases": ["saeugling", "kleinkind", "kindergarten"],
+  "topics": ["gesundheit"],
+  "updated": "2026-08-05",
+  "summary": "Fieber ist keine Krankheit, sondern eine Abwehrreaktion – die aktuelle Leitlinie der Kinder- und Jugendmedizin stellt deshalb nicht den Messwert in den Mittelpunkt, sondern wie es deinem Kind geht. Entscheidend sind Alter und Allgemeinzustand: Bei Säuglingen unter drei Monaten ist Fieber immer ein Grund, sofort ärztlichen Rat zu holen, bei einem munter spielenden Vierjährigen mit 39 °C dagegen meist nicht. Acht bis zwölf Atemwegsinfekte pro Jahr gelten bis zum Schulalter als normal.",
+  "keyFacts": [
+    "Bei Säuglingen unter 3 Monaten gilt ab 38 °C: sofort ärztlich abklären lassen.",
+    "Nicht die Zahl auf dem Thermometer entscheidet, sondern das Allgemeinbefinden deines Kindes.",
+    "Rektal messen ist bei Säuglingen und Kleinkindern die genaueste Methode.",
+    "Acht bis zwölf Atemwegsinfekte pro Jahr sind bis zum Schulalter normal, in der Kita eher mehr.",
+    "Fieberkrämpfe betreffen 2 bis 5 Prozent aller Kinder und hinterlassen in der Regel keine Folgen."
+  ],
+  "blocks": [
+    {
+      "type": "p",
+      "lead": true,
+      "text": "Fieber ist der häufigste Grund, aus dem Eltern nachts unruhig werden – und einer der am meisten missverstandenen. Die Temperatur steigt nicht, weil etwas kaputtgeht, sondern weil der Körper die Abwehr hochfährt: Viele Erreger vermehren sich in der Wärme schlechter, das Immunsystem arbeitet schneller. Die entscheidende Frage ist deshalb nicht, wie hoch das Fieber ist, sondern wie es deinem Kind damit geht und wie alt es ist."
+    },
+    {
+      "type": "callout",
+      "variant": "danger",
+      "title": "Sofort ärztliche Hilfe – nicht abwarten",
+      "text": "**Bei Säuglingen unter 3 Monaten: Fieber ab 38 °C (rektal gemessen) immer sofort ärztlich abklären lassen**, auch wenn das Kind sonst unauffällig wirkt. Ebenfalls ohne Verzögerung – in jedem Alter: **Atemnot** (Nasenflügeln, Einziehungen zwischen den Rippen, Stöhnen beim Ausatmen, blaue Lippen), **Trinkverweigerung** oder deutlich weniger nasse Windeln, **Nackensteife**, **Hautflecken, die sich mit einem Glas nicht wegdrücken lassen**, **Bewusstseinstrübung** (kaum weckbar, apathisch, verwirrt) und **jeder Krampfanfall, der länger als 5 Minuten dauert**. Außerhalb der Praxiszeiten: 116 117, bei Lebensgefahr 112. Alle Nummern und Warnzeichen stehen gebündelt auf der Seite **Notfall & Anlaufstellen**."
+    },
+    {
+      "type": "section",
+      "heading": "Was Fieber ist – und was es nicht ist",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "Als erhöhte Temperatur gilt üblicherweise ein Bereich zwischen 37,6 und 38,4 °C, ab 38,5 °C spricht man von Fieber, ab 39 °C von hohem Fieber. Diese Grenzen sind Verabredungen, keine Naturgesetze – und sie sagen für sich genommen wenig über den Ernst der Lage aus. Ein Kind mit 39,5 °C, das zwischendurch trinkt, auf Ansprache reagiert und nach dem Fiebersenken wieder spielt, ist meistens weniger besorgniserregend als ein Kind mit 38,2 °C, das teilnahmslos daliegt."
+        },
+        {
+          "type": "evidence",
+          "level": "stark",
+          "claim": "Die aktuelle S3-Leitlinie zum Fiebermanagement bei Kindern und Jugendlichen betrachtet Fieber als in der Regel hilfreiche Abwehrreaktion und rückt das Allgemeinbefinden in den Mittelpunkt – nicht die Höhe der Temperatur.",
+          "note": "Das ist ein echter Perspektivwechsel: Nicht jede erhöhte Zahl braucht eine Behandlung. Für den Alltag heißt das, dass du seltener zum Thermometer und öfter zu deinem Kind schauen darfst – Trinkverhalten, Wachheit, Atmung, Hautfarbe sind die aussagekräftigeren Zeichen. Zur Leitlinie gehört eine eigene, frei zugängliche Fassung für Eltern.",
+          "sources": [0, 1]
+        },
+        {
+          "type": "p",
+          "text": "Zwei verbreitete Sorgen kann man an dieser Stelle entlasten: Fieber, das im Rahmen eines gewöhnlichen Infekts entsteht, steigt nicht ins Unermessliche und richtet keinen Hirnschaden an. Und der Zusammenhang zwischen Fieberhöhe und Schwere der Erkrankung ist viel loser, als es sich anfühlt."
+        }
+      ]
+    },
+    {
+      "type": "section",
+      "heading": "Richtig messen",
+      "blocks": [
+        {
+          "type": "table",
+          "title": "Messmethoden im Vergleich",
+          "head": ["Methode", "Aussagekraft", "Wofür geeignet"],
+          "rows": [
+            ["Rektal (im Po)", "Genaueste Methode, gilt als Referenz", "Alle Altersgruppen, unverzichtbar bei Säuglingen unter 3 Monaten"],
+            ["Im Ohr (Infrarot)", "Schnell, aber fehleranfällig bei ungenauer Haltung und engem Gehörgang", "Ältere Kinder, zur Verlaufskontrolle"],
+            ["An der Stirn oder berührungslos", "Bequem, Werte schwanken stark, oft zu niedrig", "Grobe Orientierung, nicht als Entscheidungsgrundlage"],
+            ["In der Achselhöhle", "Misst systematisch zu niedrig", "Nur wenn nichts anderes möglich ist"]
+          ],
+          "caption": "Nach der Elterninformation der Bundeszentrale für gesundheitliche Aufklärung. Wichtig ist weniger die perfekte Methode als die gleiche Methode über den Verlauf – sonst vergleichst du Äpfel mit Birnen."
+        },
+        {
+          "type": "callout",
+          "variant": "tip",
+          "title": "Was beim Messen hilft",
+          "items": [
+            "Direkt nach dem Toben, Schreien oder heißem Baden ist die Temperatur kurzzeitig erhöht – kurz warten.",
+            "Zu warm eingepackt schlafende Kinder messen sich falsch hoch; erst ausziehen, dann messen.",
+            "Ein Verlauf sagt mehr als ein Einzelwert: Uhrzeit und Wert kurz notieren, das hilft in der Praxis enorm.",
+            "Nachts steigt Fieber typischerweise an und fällt morgens ab. Ein kleiner Anstieg am Abend ist kein neuer Notfall."
+          ]
+        }
+      ]
+    },
+    {
+      "type": "section",
+      "heading": "Wann Fiebersenken sinnvoll ist",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "Fiebersenkende Mittel behandeln nicht die Ursache, sondern das Unwohlsein. Sinnvoll sind sie deshalb dann, wenn dein Kind sichtbar leidet: wenn es vor Kopf- und Gliederschmerzen nicht zur Ruhe kommt, wenn es nicht mehr trinkt, wenn es überhaupt nicht schlafen kann. Nicht sinnvoll sind sie, um eine bestimmte Zahl auf dem Thermometer zu erreichen."
+        },
+        {
+          "type": "callout",
+          "variant": "warn",
+          "title": "Zu Medikamenten nur so viel",
+          "text": "Welches Mittel, in welcher Form und in welcher Menge für dein Kind infrage kommt, hängt von Alter, Gewicht und Vorerkrankungen ab. Diese Angaben gehören in die Hand der Kinderarztpraxis oder Apotheke – **halte dich an die ärztliche Anweisung und die Packungsbeilage** und gib niemals ein Mittel, das für ein anderes Kind verschrieben wurde. Notiere, was du wann gegeben hast; das ist wichtiger, als es sich anfühlt, wenn nachts zwei erschöpfte Erwachsene abwechselnd am Bett sitzen."
+        },
+        {
+          "type": "list",
+          "items": [
+            { "title": "Trinken hat Vorrang:", "text": "Fieber erhöht den Flüssigkeitsbedarf. Kleine Mengen, oft angeboten – gestillte Säuglinge einfach häufiger anlegen." },
+            { "title": "Leicht anziehen:", "text": "Beim Fieberanstieg friert dein Kind und braucht eine Decke, beim Abfall schwitzt es und braucht weniger. Beides ist normal." },
+            { "title": "Wadenwickel nur passend:", "text": "Sie sind nur sinnvoll, wenn die Beine warm sind und dein Kind sie als angenehm empfindet – und sie sollen körperwarm sein, nicht eiskalt. Bei kalten Füßen und Schüttelfrost sind sie falsch." },
+            { "title": "Ruhe statt Bettzwang:", "text": "Ein fieberndes Kind, das aufstehen und spielen will, darf das. Zurück in die Kita gehört es aber erst, wenn es einen Tag fieberfrei war." }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "section",
+      "heading": "Acht bis zwölf Infekte im Jahr sind normal",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "Der Satz, den viele Eltern im ersten Kita-Winter hören und nicht glauben: Dein Kind ist nicht auffällig krankheitsanfällig, es ist gerade in der Lehre. Jeder neue Erreger bedeutet einen Infekt, weil das Immunsystem erst passende Antikörper bauen muss – und es gibt sehr viele Erreger. Dass Kinder mit Geschwistern oder in Betreuung häufiger krank sind, ist keine Nebenwirkung schlechter Hygiene, sondern eine Frage der Kontakthäufigkeit."
+        },
+        {
+          "type": "figure",
+          "kind": "range",
+          "title": "Atemwegsinfekte pro Jahr",
+          "alt": "Balkendiagramm mit der üblichen Spanne von Atemwegsinfekten pro Jahr bei Kindern bis zum Schulalter und bei Kindern in Betreuung",
+          "min": 0,
+          "max": 14,
+          "ticks": [0, 2, 4, 6, 8, 10, 12, 14],
+          "data": [
+            { "label": "Kinder bis zum Schulalter", "from": 8, "to": 12, "display": "8–12 im Jahr" },
+            { "label": "Kinder in Kita oder Tagespflege", "from": 8, "to": 13, "display": "bis zu 13 im Jahr" }
+          ],
+          "caption": "Übliche Spannen nach der Elterninformation der Bundeszentrale für gesundheitliche Aufklärung. Ein Infekt dauert dabei oft ein bis zwei Wochen – im Winterhalbjahr entsteht dadurch der Eindruck, das Kind sei durchgehend krank.",
+          "sources": [4]
+        },
+        {
+          "type": "evidence",
+          "level": "moderat",
+          "claim": "Bis zum Schulalter gelten acht bis zwölf Atemwegsinfekte pro Jahr als normal; bei Kindern in Gemeinschaftsbetreuung können es noch etwas mehr sein.",
+          "note": "Diese Zahlen sind Erfahrungswerte aus der Versorgung, keine harten Studienergebnisse – die Bandbreite zwischen einzelnen Kindern ist groß. Hellhörig wird man weniger bei der Anzahl als bei der Art: ungewöhnlich schwere Verläufe, wiederholte Lungenentzündungen, Abszesse, ausbleibendes Gedeihen. Das ist der Punkt, an dem man an eine Abwehrschwäche denkt – nicht bei zwölf Schnupfen.",
+          "sources": [4]
+        },
+        {
+          "type": "callout",
+          "variant": "myth",
+          "title": "„Das Immunsystem muss man stärken“",
+          "text": "Für Präparate, die das Immunsystem von Kindern messbar und dauerhaft stärken, gibt es keine überzeugende Datenlage – das gilt für die meisten Vitaminpräparate ebenso wie für pflanzliche Mittel. Was belegt wirkt, ist unspektakulär: ausreichend Schlaf, Bewegung im Freien, rauchfreie Wohnung, altersgemäße Ernährung, die empfohlenen Impfungen und Händewaschen. Antibiotika helfen gegen die allermeisten Erkältungsinfekte nicht, weil diese von Viren ausgelöst werden."
+        }
+      ]
+    },
+    {
+      "type": "section",
+      "heading": "Fieberkrampf: der Moment, vor dem alle Angst haben",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "Ein Fieberkrampf sieht dramatisch aus: Das Kind verdreht die Augen, wird steif oder zuckt, reagiert nicht, die Lippen können sich blau verfärben. Für Eltern ist das einer der erschreckendsten Momente überhaupt. Die gute Nachricht vorweg – die allermeisten Fieberkrämpfe hören von selbst nach ein bis drei Minuten auf und haben keine Folgen."
+        },
+        {
+          "type": "steps",
+          "title": "Was du im Moment eines Fieberkrampfs tust",
+          "items": [
+            { "title": "Auf den Boden, auf die Seite", "text": "Lege dein Kind auf eine weiche, ebene Fläche, möglichst in Seitenlage, und räume harte Gegenstände weg." },
+            { "title": "Nichts in den Mund", "text": "Kein Löffel, kein Finger, kein Festhalten der Zuckungen. Beides schadet mehr, als es hilft." },
+            { "title": "Auf die Uhr schauen", "text": "Die Dauer ist die wichtigste Information für alle, die danach kommen. Wenn möglich: kurz mit dem Handy filmen." },
+            { "title": "Nach 5 Minuten: 112", "text": "Dauert der Krampf länger als fünf Minuten, ruf den Notruf. Ebenso beim ersten Krampf überhaupt, bei einem Kind unter einem Jahr und wenn dein Kind danach nicht wieder zu sich kommt." },
+            { "title": "Danach immer abklären lassen", "text": "Auch ein kurzer, folgenloser Fieberkrampf gehört noch am selben Tag ärztlich angeschaut – vor allem, um andere Ursachen auszuschließen." }
+          ]
+        },
+        {
+          "type": "evidence",
+          "level": "stark",
+          "claim": "Fieberkrämpfe treten bei 2 bis 5 Prozent aller Kinder auf, meist zwischen dem 6. Lebensmonat und dem 6. Lebensjahr mit einem Gipfel um das zweite Lebensjahr. Bei einfachen Fieberkrämpfen ist die Entwicklungsprognose gut.",
+          "note": "In einer Langzeitbeobachtung unterschieden sich Jugendliche mit und ohne früheren Fieberkrampf im Alter von 12 und 18 Jahren weder in Schulleistung noch in Sozialverhalten. Ein Fieberkrampf ist keine Epilepsie und macht auch keine. Dass er sich bei einem weiteren Infekt wiederholt, ist möglich – dann bekommt ihr in der Regel ein Notfallmedikament für zu Hause verordnet, dessen Anwendung die Praxis mit euch durchgeht.",
+          "sources": [3]
+        }
+      ]
+    },
+    {
+      "type": "section",
+      "heading": "Häufige Fragen",
+      "blocks": [
+        {
+          "type": "faq",
+          "items": [
+            {
+              "q": "Ab welcher Temperatur muss ich zum Arzt?",
+              "a": "Eine feste Zahl gibt es nur bei Säuglingen unter drei Monaten – dort gilt ab 38 °C: sofort. Danach entscheidet der Zustand: schlapp, trinkt nicht, atmet auffällig, Fieber länger als drei Tage oder Fieber, das nach einer fieberfreien Phase wiederkommt. Und dein Bauchgefühl, wenn dein Kind einfach anders ist als sonst."
+            },
+            {
+              "q": "Mein Kind hat seit drei Tagen Fieber, aber sonst nichts. Ist das normal?",
+              "a": "Bei vielen Virusinfekten läuft das genau so, und beim Dreitagefieber kommt der Ausschlag sogar erst, wenn das Fieber schon weg ist. Trotzdem gilt: Fieber ohne erkennbaren Grund über drei Tage gehört angeschaut, weil sich manchmal ein Harnwegsinfekt oder eine Mittelohrentzündung dahinter versteckt."
+            },
+            {
+              "q": "Darf mein Kind mit Fieber raus?",
+              "a": "Wenn es raus will und sich zutraut: ja, angemessen angezogen und ohne Anstrengung. Frische Luft schadet nicht. In die Kita oder Schule gehört es allerdings erst, wenn es 24 Stunden ohne fiebersenkendes Mittel fieberfrei war."
+            },
+            {
+              "q": "Muss ein fieberndes Kind nachts geweckt werden, um zu messen?",
+              "a": "Nein. Schlaf ist wichtiger als der Messwert. Wenn du unsicher bist, reicht der Blick: gleichmäßige Atmung, normale Hautfarbe, das Kind lässt sich kurz ansprechen. Alles andere kann bis morgens warten – außer es kommen die Warnzeichen von oben dazu."
+            },
+            {
+              "q": "Wieso wird bei uns nie ein Antibiotikum verschrieben?",
+              "a": "Weil die allermeisten Infekte im Kindesalter von Viren verursacht werden, gegen die Antibiotika nichts ausrichten. Sie zu geben, würde nur Nebenwirkungen und Resistenzen erzeugen. Bei bakteriellen Erkrankungen wie Scharlach sieht das anders aus – dann werden sie gezielt eingesetzt."
+            },
+            {
+              "q": "Wir kommen aus dem Infektkarussell nicht raus. Was tun?",
+              "a": "Erstens: Es hört auf, meist nach ein bis zwei Kita-Wintern. Zweitens: Organisiert die Erwachsenenlogistik neu, statt euch aufzureiben – Kinderkrankentage, Rückfallebenen, geteilte Betreuung. Und drittens: Wenn du das Gefühl hast, dein Kind erholt sich zwischen den Infekten gar nicht mehr, sprich das in der Praxis an."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "callout",
+      "variant": "info",
+      "title": "Kurz gesagt",
+      "text": "Schau auf dein Kind, nicht auf das Thermometer – mit einer Ausnahme: Bei Säuglingen unter drei Monaten ist Fieber ab 38 °C immer ein Grund, sofort ärztlichen Rat zu holen. Fiebersenken hilft gegen Unwohlsein, nicht gegen Zahlen. Und die vielen Infekte im ersten Kita-Jahr sind kein Fehler im System, sondern das System."
+    }
+  ],
+  "sources": [
+    {
+      "title": "S3-Leitlinie Fiebermanagement bei Kindern und Jugendlichen (AWMF-Register Nr. 027-074)",
+      "publisher": "AWMF / Deutsche Gesellschaft für Kinder- und Jugendmedizin",
+      "year": "2025",
+      "kind": "Leitlinie",
+      "url": "https://register.awmf.org/assets/guidelines/027-074l_S3_Fiebermanagement-Kinder-Jugendliche_2025-07.pdf"
+    },
+    {
+      "title": "Elternleitlinie zum Umgang mit Fieber bei Kindern und Jugendlichen",
+      "publisher": "AWMF / Deutsche Gesellschaft für Kinder- und Jugendmedizin",
+      "year": "2025",
+      "kind": "Leitlinie",
+      "url": "https://register.awmf.org/assets/guidelines/027-074p1_S3_Fiebermanagement-Kinder-Jugendliche_2025-07.pdf"
+    },
+    {
+      "title": "Fieber bei Babys und Kindern",
+      "publisher": "Bundeszentrale für gesundheitliche Aufklärung (BZgA), kindergesundheit-info.de",
+      "year": "2024",
+      "kind": "Institutionelle Information",
+      "url": "https://www.kindergesundheit-info.de/themen/krankes-kind/krankheitszeichen/fieber/"
+    },
+    {
+      "title": "S1-Leitlinie Fieberkrämpfe im Kindesalter (AWMF-Register Nr. 022-005)",
+      "publisher": "AWMF / Gesellschaft für Neuropädiatrie",
+      "year": "2021",
+      "kind": "Leitlinie",
+      "url": "https://register.awmf.org/assets/guidelines/022-005l_S1_Fieberkraempfe-im-Kindesalter_2021-09.pdf"
+    },
+    {
+      "title": "Atemwegsinfekte – häufige Erkrankungen bei Kindern",
+      "publisher": "Bundeszentrale für gesundheitliche Aufklärung (BZgA), kindergesundheit-info.de",
+      "year": "2024",
+      "kind": "Institutionelle Information",
+      "url": "https://www.kindergesundheit-info.de/themen/krankes-kind/erkrankungen/grippaler-infekt/"
+    }
+  ],
+  "related": ["kinderkrankheiten", "impfungen", "erste-hilfe-am-kind", "u-untersuchungen"]
+}

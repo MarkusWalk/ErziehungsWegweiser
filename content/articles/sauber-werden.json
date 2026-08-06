@@ -1,0 +1,347 @@
+{
+  "slug": "sauber-werden",
+  "title": "Sauber werden ohne Druck",
+  "subtitle": "Warum der Zeitpunkt nichts mit Erziehung zu tun hat, wie groß die normale Spannbreite wirklich ist – und weshalb Töpfchentraining nach Plan meistens mehr Aufwand als Wirkung bringt.",
+  "phases": ["kleinkind"],
+  "topics": ["entwicklung", "gesundheit"],
+  "updated": "2026-08-05",
+  "summary": "Sauberwerden ist ein Reifungsvorgang, kein Lernstoff. Ein Kind kann erst dann ohne Windel auskommen, wenn Blase, Nervensystem und Aufmerksamkeit so weit sind – und dieser Punkt liegt bei gesunden Kindern irgendwo zwischen dem zweiten und dem vierten Geburtstag. Rückfälle gehören dazu, nachts dauert es fast immer deutlich länger, und nächtliches Einnässen gilt vor dem fünften Geburtstag überhaupt nicht als Störung. Was verlässlich schadet, ist Druck.",
+  "keyFacts": [
+    "Sauberwerden lässt sich begleiten, aber nicht beibringen – der Reifungszeitpunkt ist nicht verhandelbar.",
+    "Im Mittel bleiben Mädchen mit rund 32 Monaten tagsüber trocken, Jungen mit rund 35 – bei sehr großer Streuung.",
+    "Tag und Nacht sind zwei verschiedene Vorgänge; nachts folgt oft erst Jahre später.",
+    "Rückfälle nach Umzug, Kita-Start oder Geschwisterkind sind häufig und gehen meist von allein vorbei.",
+    "Vor dem fünften Geburtstag ist nächtliches Einnässen definitionsgemäß keine Störung."
+  ],
+  "blocks": [
+    {
+      "type": "p",
+      "lead": true,
+      "text": "Es gibt kaum einen Entwicklungsbereich, in dem so viel verglichen wird und so wenig dafür spricht. Ob dein Kind mit zwei, mit drei oder erst mit dreieinhalb ohne Windel auskommt, sagt nichts über seine Intelligenz, nichts über eure Erziehung und nichts über seine spätere Entwicklung. Sauberwerden funktioniert wie Laufenlernen: Du kannst begleiten, ermutigen und die Gelegenheit schaffen – den Zeitpunkt bestimmt der Körper deines Kindes."
+    },
+    {
+      "type": "callout",
+      "variant": "info",
+      "title": "Falls du gerade unter Druck stehst",
+      "text": "Der Satz, den du vielleicht gehört hast – „Mit drei muss ein Kind trocken sein“ – ist keine medizinische Aussage, sondern eine organisatorische. Er stammt aus Kita-Anmeldeformularen, nicht aus Leitlinien. Es gibt keinen Stichtag, ab dem ein Kind ohne Windel sein müsste, und keinen Nachteil, der aus einem späteren Zeitpunkt entstünde."
+    },
+    {
+      "type": "section",
+      "heading": "Was Reife hier konkret heißt",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "Damit ein Kind bewusst auf die Toilette geht, muss vieles gleichzeitig zusammenkommen: eine Blase, die sich füllen kann, ohne sich reflexartig zu entleeren; ausgereifte Nerven, die den Füllstand melden; ein Kind, das diese Meldung früh genug bemerkt; ein Schließmuskel, der sich willentlich halten und öffnen lässt. Und der schwierigste Teil: die Bereitschaft, dafür das Spiel zu unterbrechen."
+        },
+        {
+          "type": "list",
+          "ordered": false,
+          "items": [
+            { "title": "Trockene Phasen:", "text": "Die Windel bleibt über zwei Stunden trocken, oder dein Kind ist nach dem Mittagsschlaf trocken." },
+            { "title": "Ankündigung:", "text": "Dein Kind zeigt, sagt oder verzieht sich, bevor oder während etwas passiert. Es merkt es überhaupt." },
+            { "title": "Unbehagen:", "text": "Die volle Windel stört. Vorher hat sie das jahrelang nicht getan." },
+            { "title": "Interesse:", "text": "Dein Kind will mit aufs Klo, schaut zu, will die Spülung drücken, ahmt nach." },
+            { "title": "Körperliche Basis:", "text": "Sicheres Laufen, Hinsetzen und Aufstehen, Hose selbst herunterziehen." },
+            { "title": "Kooperationsbereitschaft:", "text": "Dein Kind kann einfache Aufforderungen annehmen, ohne dass es automatisch zum Machtkampf wird." }
+          ]
+        },
+        {
+          "type": "evidence",
+          "level": "moderat",
+          "claim": "Die einzelnen Fertigkeiten des Sauberwerdens werden in einer ziemlich festen Reihenfolge erworben, aber zu sehr unterschiedlichen Zeitpunkten. In einer Untersuchung an Kindern zwischen 15 und 42 Monaten lag das mittlere Alter für tagsüber trocken bei etwa 32 Monaten für Mädchen und 35 Monaten für Jungen.",
+          "note": "Mittelwerte sind keine Zielvorgaben: Definitionsgemäß ist die Hälfte aller Kinder später dran. Praktisch heißt das, dass ein Kind, das mit drei noch Windeln braucht, sich vollständig im normalen Bereich bewegt. Auffällig wird es nicht durch den Zeitpunkt, sondern durch Begleitzeichen wie Schmerzen, ständiges Tröpfeln oder harten, schmerzhaften Stuhlgang.",
+          "sources": [3, 4]
+        }
+      ]
+    },
+    {
+      "type": "section",
+      "heading": "Wie der Weg üblicherweise verläuft",
+      "blocks": [
+        {
+          "type": "timeline",
+          "title": "Die vier Schritte – und wie weit sie auseinanderliegen",
+          "entries": [
+            {
+              "age": "meist 18–30 Monate",
+              "label": "Erste Wahrnehmung",
+              "text": "Dein Kind merkt, dass etwas passiert – zunächst währenddessen, dann kurz davor. Häufig kommt der Stuhlgang vor dem Urin, weil er sich deutlicher ankündigt. Jetzt ist die Zeit für ein Töpfchen im Bad, mehr nicht."
+            },
+            {
+              "age": "meist 24–40 Monate",
+              "label": "Tagsüber trocken",
+              "text": "Erst mit Erinnerung, dann von allein. Zwischendurch geht es tagelang gut und dann eine Woche gar nicht. Nasse Hosen gehören hier dazu, besonders beim Spielen, im Krankheitsfall und bei Aufregung."
+            },
+            {
+              "age": "meist 3–5 Jahre",
+              "label": "Mittagsschlaf und dann die Nacht",
+              "text": "Der Tagschlaf wird meist zuerst trocken. Die Nacht folgt eigenständig – dafür muss die Blase über viele Stunden dicht halten und das Kind muss vom Füllsignal aufwachen. Das lässt sich nicht üben."
+            },
+            {
+              "age": "ab 5 Jahren",
+              "label": "Der Rest",
+              "text": "Ein kleiner Teil der Kinder nässt nachts weiter ein. Ab hier spricht man fachlich von Enuresis – nicht als Vorwurf, sondern als Türöffner: Es gibt gute, unaufgeregte Hilfen."
+            }
+          ],
+          "caption": "Zusammengestellt nach den Elterninformationen der BZgA und einer Übersichtsarbeit zum Toilettentraining im American Family Physician. Die Zeitangaben sind Korridore für gesunde Kinder, keine Sollwerte."
+        },
+        {
+          "type": "callout",
+          "variant": "tip",
+          "title": "Zwei Dinge, die den Sommer nicht besser machen als den Winter",
+          "text": "Der beliebte Rat, im Sommer anzufangen, hat einen praktischen Kern (weniger Kleidung, weniger Wäsche) und keinen entwicklungsbiologischen. Genauso wenig hilft es, den Beginn an ein Ereignis zu koppeln – Kita-Start, Geschwisterkind, Umzug. Das sind gerade die Zeitpunkte, an denen Kinder eher zurückgehen als vorwärts."
+        }
+      ]
+    },
+    {
+      "type": "section",
+      "heading": "Warum Training nach Plan selten hält, was es verspricht",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "Es gibt Methoden, die versprechen, ein Kind in drei Tagen aus der Windel zu bekommen. Sie funktionieren manchmal – meistens bei Kindern, die ohnehin so weit gewesen wären. Bei allen anderen erzeugen sie vor allem Anspannung, und zwar auf beiden Seiten. Das Problem ist nicht der Plan an sich, sondern was er aus der Sache macht: aus einem körperlichen Vorgang wird eine Leistung, die dein Kind erbringen oder verweigern kann."
+        },
+        {
+          "type": "comparison",
+          "title": "Zwei Herangehensweisen",
+          "columns": [
+            {
+              "title": "Kindorientiert begleiten",
+              "tone": "good",
+              "items": [
+                "Angebot statt Aufforderung: Das Töpfchen steht da, das Klo ist zugänglich",
+                "Du reagierst auf Signale des Kindes, nicht auf die Uhr",
+                "Nasse Hosen werden kommentarlos gewechselt",
+                "Rückschritte sind eingeplant, nicht eingepreist als Scheitern",
+                "Das Tempo darf sich ändern, ohne dass jemand das Gesicht verliert"
+              ]
+            },
+            {
+              "title": "Training nach Plan",
+              "tone": "bad",
+              "items": [
+                "Feste Sitzzeiten, oft im 20- oder 30-Minuten-Takt",
+                "Der Kalender bestimmt den Start, nicht das Kind",
+                "Erfolg und Misserfolg werden sichtbar gemacht und bewertet",
+                "Ein Rückschritt wirkt wie ein Fehler und wird korrigiert",
+                "Abbrechen fühlt sich an wie Aufgeben – deshalb wird oft zu lange weitergemacht"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "callout",
+          "variant": "myth",
+          "title": "Sticker, Sternchenplan, Schokolinsen",
+          "text": "Belohnungssysteme sind bei diesem Thema besonders verlockend und besonders riskant. Sie funktionieren nur, solange das Kind es könnte und nur nicht will – also im seltensten Fall. Wenn die Reife noch fehlt, verwandelt der Sternchenplan ein körperliches Nichtkönnen in ein sichtbares Versagen. Und wenn er anfangs wirkt, endet er oft in Verhandlungen darüber, wie viele Sterne wofür. Als kurzer Anschub in einer festgefahrenen Situation kann so etwas sinnvoll sein, als Standardweg ist es keiner."
+        }
+      ]
+    },
+    {
+      "type": "section",
+      "heading": "Was tatsächlich hilft",
+      "blocks": [
+        {
+          "type": "steps",
+          "title": "Fünf Dinge, die den Weg leichter machen",
+          "items": [
+            {
+              "title": "Zugang schaffen, nicht auffordern",
+              "text": "Ein Töpfchen im Bad und ein stabiler Toilettenaufsatz mit Hocker – wichtig ist, dass die Füße Bodenkontakt haben, sonst lässt sich der Beckenboden schlecht entspannen. Dann darf es einfach dastehen."
+            },
+            {
+              "title": "Mitgucken lassen",
+              "text": "Kinder lernen das meiste durch Nachahmen. Wenn du damit kein Problem hast, lass dein Kind zusehen und erkläre beiläufig, was passiert. Das ist wirksamer als jede Erklärung ohne Anschauung."
+            },
+            {
+              "title": "Kleidung vereinfachen",
+              "text": "Hosen mit Gummizug statt Knöpfen, keine Bodys, keine Latzhosen. Viele Unfälle passieren nicht wegen der Blase, sondern wegen des Verschlusses."
+            },
+            {
+              "title": "Auf Unfälle nicht reagieren",
+              "text": "Nicht loben, nicht schimpfen, nicht seufzen. Umziehen, weitermachen. Kinder lesen Mikroreaktionen sehr genau, und jede Aufladung – positive wie negative – macht die Sache größer, als sie ist."
+            },
+            {
+              "title": "Abbrechen dürfen",
+              "text": "Wenn nach zwei bis drei Wochen nichts vorangeht oder dein Kind anfängt, sich zu verweigern oder einzuhalten: Windel wieder an, ohne Drama, in ein paar Wochen neu schauen. Eine Pause ist keine Niederlage, sondern die wirksamste Maßnahme, die es hier gibt."
+            }
+          ]
+        },
+        {
+          "type": "p",
+          "text": "Ein Sonderfall verdient Aufmerksamkeit: Manche Kinder halten den Stuhlgang bewusst zurück, weil er einmal wehgetan hat oder weil die Toilette ihnen unheimlich ist. Dadurch wird der Stuhl härter, es tut noch mehr weh, und ein Kreislauf entsteht. Wenn dein Kind seltener als alle zwei bis drei Tage Stuhlgang hat, sich dabei versteckt, auf Zehenspitzen steht oder weint, sprich das in der Kinderarztpraxis an. Das lässt sich gut behandeln und geht selten von allein weg."
+        }
+      ]
+    },
+    {
+      "type": "section",
+      "heading": "Rückfälle gehören dazu",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "Ein Kind, das seit drei Monaten trocken war, nässt plötzlich wieder ein – das ist einer der häufigsten Anlässe für Verunsicherung, und fast immer harmlos. Rückschritte sind bei kleinen Kindern der normale Umgang mit Belastung. Sie sind ein Signal, kein Rückschritt in der Entwicklung."
+        },
+        {
+          "type": "list",
+          "ordered": false,
+          "items": [
+            "Ein Geschwisterkind ist da oder kündigt sich an",
+            "Kita-Start, Gruppenwechsel oder ein neues Betreuungsgesicht",
+            "Umzug, Urlaub, Krankenhausaufenthalt, Trennung der Eltern",
+            "Infekt, Fieber, Verstopfung – auch rein körperliche Auslöser",
+            "Eine Phase intensiven Spielens, in der einfach alles andere wichtiger ist"
+          ]
+        },
+        {
+          "type": "callout",
+          "variant": "tip",
+          "title": "Die brauchbarste Reaktion",
+          "text": "Behandle es als das, was es ist: vorübergehend. Keine Rückkehr zum Sternchenplan, keine Erinnerungsfragen alle 20 Minuten, keine Diskussion. Was hilft, ist mehr Nähe an anderer Stelle – und Geduld für zwei bis vier Wochen. Wenn ein Kind nach einem halben Jahr Trockenheit plötzlich wieder dauerhaft einnässt, ist das dagegen ein Punkt, den man ärztlich anschauen lässt."
+        }
+      ]
+    },
+    {
+      "type": "section",
+      "heading": "Nachts ist eine völlig andere Baustelle",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "Tagsüber trocken zu sein ist eine Frage von Wahrnehmung und Aufmerksamkeit. Nachts trocken zu sein ist eine Frage von Hormonen, Blasenvolumen und Weckschwelle – nichts davon lässt sich willentlich beeinflussen, weder vom Kind noch von dir. Deshalb ist es sinnlos, an einem Kind zu arbeiten, das nachts einnässt, und deshalb steht in den Leitlinien eine klare Altersgrenze, ab der man überhaupt von einer Störung spricht."
+        },
+        {
+          "type": "evidence",
+          "level": "stark",
+          "claim": "Von Enuresis wird erst ab einem Alter von fünf Jahren gesprochen, und auch dann erst, wenn das Einnässen über mindestens drei Monate mindestens einmal monatlich auftritt. Im Alter von sieben Jahren nässen im Mittel noch rund 10 Prozent der Kinder nachts ein, Jungen etwa doppelt so häufig wie Mädchen.",
+          "note": "Aus der deutschen S2k-Leitlinie zu Enuresis und funktioneller Harninkontinenz. Die Leitlinie nennt außerdem eine Spontanremissionsrate von etwa 15 Prozent pro Jahr – das heißt, ein erheblicher Teil der betroffenen Kinder wird ohne jede Behandlung von allein trocken. Das ist der Grund, warum unter fünf Jahren nichts unternommen wird außer Beruhigung.",
+          "sources": [0]
+        },
+        {
+          "type": "figure",
+          "kind": "range",
+          "title": "Wie viele Kinder nachts noch einnässen",
+          "alt": "Balkendiagramm mit dem Anteil einnässender Kinder in drei Altersgruppen, von rund 10 bis 20 Prozent mit fünf Jahren auf 1 bis 3 Prozent im Jugendalter",
+          "min": 0,
+          "max": 20,
+          "ticks": [0, 5, 10, 15, 20],
+          "data": [
+            { "label": "5 Jahre", "from": 10, "to": 20, "display": "10–20 %" },
+            { "label": "7 Jahre", "from": 7, "to": 13, "display": "7–13 %" },
+            { "label": "Jugendalter", "from": 1, "to": 3, "display": "1–3 %" }
+          ],
+          "caption": "Spannen nach der deutschen S2k-Leitlinie zu Enuresis und einer internationalen Metaanalyse zur weltweiten Häufigkeit. Die Zahlen unterscheiden sich je nachdem, ab welcher Häufigkeit gezählt wird – die Richtung ist überall dieselbe: Es wird von Jahr zu Jahr weniger, ganz von allein.",
+          "sources": [0, 5]
+        },
+        {
+          "type": "callout",
+          "variant": "warn",
+          "title": "Wann du es ärztlich abklären lässt",
+          "items": [
+            "Dein Kind ist über fünf Jahre alt und nässt nachts regelmäßig ein",
+            "Es war schon länger als ein halbes Jahr trocken und nässt plötzlich wieder ein",
+            "Es nässt auch tagsüber ein, obwohl es längst trocken war",
+            "Schmerzen beim Wasserlassen, sehr häufiger Harndrang, auffälliger Geruch oder Fieber",
+            "Ständiges Tröpfeln, sehr schwacher Strahl oder ein Kind, das beim Wasserlassen pressen muss",
+            "Dein Kind leidet spürbar darunter, zieht sich zurück oder vermeidet Übernachtungen"
+          ]
+        },
+        {
+          "type": "p",
+          "text": "Der Weg führt in die Kinderarztpraxis, oft mit einem Trink- und Miktionsprotokoll über einige Tage. Untersucht wird zunächst auf körperliche Ursachen, danach gibt es wirksame Bausteine – von der Klingelhose über Blasentraining bis zu Medikamenten in bestimmten Situationen. Wichtig für dich vorab: Es geht dabei nie um Erziehung und nie um Willen."
+        }
+      ]
+    },
+    {
+      "type": "section",
+      "heading": "Häufige Fragen",
+      "blocks": [
+        {
+          "type": "faq",
+          "items": [
+            {
+              "q": "Die Kita nimmt nur trockene Kinder auf. Was mache ich?",
+              "a": "Sprich es offen an und frag konkret nach, was gemeint ist – oft steht hinter der Formulierung ein Personalproblem, kein pädagogisches Konzept. Viele Einrichtungen sind flexibler, als das Anmeldeformular klingt. Was du auf keinen Fall tun solltest: den Reifungsprozess deines Kindes an einen Verwaltungstermin koppeln. Das erzeugt genau die Anspannung, die alles verlängert."
+            },
+            {
+              "q": "Alle Kinder in der Krabbelgruppe sind schon trocken, meines nicht. Ist das ein schlechtes Zeichen?",
+              "a": "Nein. Die Spannbreite bei gesunden Kindern reicht gut zwei Jahre weit, und Jungen sind im Schnitt etwas später dran. Der Zeitpunkt sagt nichts über Intelligenz, Begabung oder Erziehung. Was du in der Gruppe hörst, ist außerdem eine gefilterte Auswahl – über Rückfälle und nasse Hosen erzählt niemand freiwillig."
+            },
+            {
+              "q": "Soll ich nachts wecken und aufs Klo setzen?",
+              "a": "Das sogenannte Trockenlegen bringt bei kleinen Kindern nichts für den eigentlichen Reifungsprozess: Das Kind lernt nicht, vom Füllsignal aufzuwachen, sondern wird von dir geweckt. Es kann für ein paar trockene Nächte sorgen und für viel weniger Schlaf. Solange dein Kind unter fünf ist, ist eine gute Windel die entspanntere Lösung."
+            },
+            {
+              "q": "Mein Kind hält es tagelang ein und geht nur in die Windel. Ist das Trotz?",
+              "a": "Fast nie. Häufiger steckt Angst dahinter – vor dem Hineinfallen, vor der Spülung, vor dem Gefühl, dass etwas den Körper verlässt. Manchmal ist es auch eine schmerzhafte Erfahrung beim harten Stuhlgang. Nimm den Druck raus, biete die Windel wieder an, und wenn dein Kind Stuhlgang zurückhält, sprich es in der Praxis an."
+            },
+            {
+              "q": "Ist es schlimm, dass ich schon geschimpft habe?",
+              "a": "Nein. Fast alle Eltern werden bei diesem Thema irgendwann ungeduldig – es ist anstrengend, es ist wiederholt, und es fühlt sich an, als würde es nie aufhören. Ein einzelner genervter Satz beschädigt nichts. Was einen Unterschied macht, ist die Grundlinie: Wenn dein Kind insgesamt spürt, dass es hier nichts falsch machen kann, trägt das über die schlechten Tage."
+            },
+            {
+              "q": "Windelfrei von Anfang an – bringt das etwas?",
+              "a": "Ein früher, entspannter Umgang mit Ausscheidung ist unproblematisch und für manche Familien angenehm. Was er nicht leistet: die körperliche Reifung beschleunigen. Bei sehr frühem Beginn wird eher der Erwachsene trainiert als das Kind – er lernt, die Signale zu treffen. Ohne Zwang spricht nichts dagegen; als Leistungsversprechen taugt es nicht."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "callout",
+      "variant": "info",
+      "title": "Kurz gesagt",
+      "text": "Zugang schaffen, Signale abwarten, Unfälle kommentarlos aufwischen, abbrechen dürfen. Nachts nichts erwarten, was der Körper noch nicht kann. Und ab fünf Jahren ohne schlechtes Gewissen Hilfe holen – dafür gibt es Fachleute, und sie sind bei diesem Thema erfreulich unaufgeregt."
+    }
+  ],
+  "sources": [
+    {
+      "title": "S2k-Leitlinie: Enuresis und nicht-organische (funktionelle) Harninkontinenz bei Kindern und Jugendlichen (Registernummer 028-026)",
+      "publisher": "AWMF / Deutsche Gesellschaft für Kinder- und Jugendpsychiatrie, Psychosomatik und Psychotherapie",
+      "year": "2021",
+      "kind": "Leitlinie",
+      "url": "https://register.awmf.org/de/leitlinien/detail/028-026"
+    },
+    {
+      "title": "Trocken- und Sauberwerden",
+      "publisher": "Bundeszentrale für gesundheitliche Aufklärung (BZgA), kindergesundheit-info.de",
+      "year": "2024",
+      "kind": "Institutionelle Information",
+      "url": "https://www.kindergesundheit-info.de/themen/entwicklung/entwicklungsschritte/trocken-und-sauberwerden/"
+    },
+    {
+      "title": "Probleme mit dem Trocken- und Sauberwerden",
+      "publisher": "Bundeszentrale für gesundheitliche Aufklärung (BZgA), kindergesundheit-info.de",
+      "year": "2024",
+      "kind": "Institutionelle Information",
+      "url": "https://www.kindergesundheit-info.de/themen/entwicklung/entwicklungsschritte/trocken-und-sauberwerden/trocken-sauberwerden-probleme/"
+    },
+    {
+      "title": "Sequential acquisition of toilet-training skills: a descriptive study of gender and age differences in normal children",
+      "publisher": "Pediatrics (Schum et al.)",
+      "year": "2002",
+      "kind": "Studie",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/11875176/"
+    },
+    {
+      "title": "Toilet Training: Common Questions and Answers",
+      "publisher": "American Family Physician",
+      "year": "2019",
+      "kind": "Übersichtsarbeit",
+      "url": "https://www.aafp.org/pubs/afp/issues/2019/1015/p468.html"
+    },
+    {
+      "title": "Global prevalence of nocturnal enuresis and associated factors among children and adolescents: a systematic review and meta-analysis",
+      "publisher": "Child and Adolescent Psychiatry and Mental Health",
+      "year": "2025",
+      "kind": "Metaanalyse",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11927296/"
+    },
+    {
+      "title": "A Child-Oriented Approach to Toilet Training",
+      "publisher": "Pediatrics (Brazelton)",
+      "year": "1962",
+      "kind": "Studie",
+      "url": "https://publications.aap.org/pediatrics/article/29/1/121/77640/A-CHILD-ORIENTED-APPROACH-TO-TOILET-TRAINING"
+    }
+  ],
+  "related": ["autonomiephase", "selbststaendigkeit-foerdern", "u-untersuchungen", "kita-eingewoehnung"]
+}
