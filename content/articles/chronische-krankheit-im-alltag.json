@@ -88,7 +88,7 @@
           "type": "evidence",
           "level": "stark",
           "claim": "Ein schriftlicher, individueller Aktionsplan – was im Alltag zu tun ist, woran eine Verschlechterung erkennbar ist und was dann geschieht – gehört bei Asthma zum Standard der Versorgung und ist Teil des Selbstmanagements.",
-          "note": "Die Nationale VersorgungsLeitlinie Asthma sieht schriftliche Selbstmanagementpläne ausdrücklich vor. Das Prinzip lässt sich auf andere chronische Erkrankungen übertragen: Ein Plan, den eine fremde Person in dreißig Sekunden lesen und befolgen kann, ist mehr wert als eine ausführliche mündliche Einweisung, die im Ernstfall niemand erinnert. Konkrete Präparate und Dosierungen trägt immer die behandelnde Praxis ein.",
+          "note": "Die Nationale VersorgungsLeitlinie Asthma sieht schriftliche Selbstmanagementpläne ausdrücklich vor. Das Prinzip überträgt sich: Ein Plan, den eine fremde Person in dreißig Sekunden lesen und befolgen kann, ist mehr wert als eine mündliche Einweisung, die im Ernstfall niemand erinnert. Präparate und Dosierungen trägt immer die behandelnde Praxis ein.",
           "sources": [0]
         },
         {
@@ -216,7 +216,7 @@
             },
             {
               "q": "Lohnt sich ein Pflegegrad wirklich, wenn das Kind äußerlich fit wirkt?",
-              "a": "Häufig ja. Begutachtet wird nicht, wie krank ein Kind aussieht, sondern welcher Mehraufwand gegenüber gleichaltrigen gesunden Kindern entsteht – nächtliche Kontrollen, Beaufsichtigung, Anleitung. Genau dieser Aufwand wird im Antrag oft zu bescheiden geschildert. Ein Protokoll und Unterstützung durch den Sozialdienst machen den Unterschied. Ein abgelehnter Bescheid lässt sich mit Widerspruch überprüfen."
+              "a": "Häufig ja. Begutachtet wird nicht, wie krank ein Kind aussieht, sondern welcher Mehraufwand gegenüber gleichaltrigen gesunden Kindern entsteht – nächtliche Kontrollen, Beaufsichtigung, Anleitung. Genau der wird im Antrag oft zu bescheiden geschildert. Ein Protokoll und der Sozialdienst machen den Unterschied, und ein abgelehnter Bescheid lässt sich mit Widerspruch überprüfen."
             }
           ]
         }
