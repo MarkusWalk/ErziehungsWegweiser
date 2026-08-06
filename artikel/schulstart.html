@@ -1,0 +1,524 @@
+<!DOCTYPE html>
+<html lang="de" data-theme="auto" data-root="../">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>Der Schulstart · Erziehungswegweiser</title>
+<meta name="description" content="Der Schulstart ist kein Wettbewerb, sondern eine Umstellung: neue Räume, neue Menschen, ein neuer Tagesrhythmus und zum ersten Mal ein Ort, an dem dein Kind ohne dich zurechtkommen muss. Die meisten Kinder schaffen das – aber sie sind dabei erschöpft, dünnhäutig und manchmal überraschend anhänglich. Was hilft, ist wenig: verlässliche Abläufe, ein geübter Schulweg, genug Leerlauf am Nachmittag und Eltern, die zuhören, ohne sofort zu bewerten.">
+<meta name="color-scheme" content="light dark">
+<meta property="og:type" content="article">
+<meta property="og:title" content="Der Schulstart">
+<meta property="og:description" content="Der Schulstart ist kein Wettbewerb, sondern eine Umstellung: neue Räume, neue Menschen, ein neuer Tagesrhythmus und zum ersten Mal ein Ort, an dem dein Kind ohne dich zurechtkommen muss. Die meisten Kinder schaffen das – aber sie sind dabei erschöpft, dünnhäutig und manchmal überraschend anhänglich. Was hilft, ist wenig: verlässliche Abläufe, ein geübter Schulweg, genug Leerlauf am Nachmittag und Eltern, die zuhören, ohne sofort zu bewerten.">
+<meta property="og:site_name" content="Erziehungswegweiser">
+<link rel="canonical" href="">
+<link rel="icon" href="../assets/img/favicon.svg" type="image/svg+xml">
+<link rel="preload" href="../assets/fonts/instrument-latin.woff2" as="font" type="font/woff2" crossorigin>
+<link rel="preload" href="../assets/fonts/bricolage-latin.woff2" as="font" type="font/woff2" crossorigin>
+<link rel="stylesheet" href="../assets/css/fonts.css">
+<link rel="stylesheet" href="../assets/css/ds-tokens.css">
+<link rel="stylesheet" href="../assets/css/tokens.css">
+<link rel="stylesheet" href="../assets/css/base.css">
+<link rel="stylesheet" href="../assets/css/components.css">
+<link rel="stylesheet" href="../assets/css/layout.css">
+<link rel="stylesheet" href="../assets/css/print.css" media="print">
+<script>
+  /* Theme, Lesemodus und Schriftgröße vor dem ersten Paint setzen,
+     damit kein Aufblitzen des falschen Modus entsteht. */
+  (function () {
+    try {
+      var s = JSON.parse(localStorage.getItem('ew:prefs') || '{}');
+      var r = document.documentElement;
+      var theme = s.theme || 'auto';
+      if (theme === 'auto') {
+        theme = matchMedia('(prefers-color-scheme: dark)').matches ? 'dark' : 'light';
+      }
+      r.setAttribute('data-theme', theme);
+      if (s.reading) r.setAttribute('data-reading', 'on');
+      if (s.textsize) r.setAttribute('data-textsize', s.textsize);
+    } catch (e) {}
+  })();
+</script>
+<script type="application/ld+json">{"@context":"https://schema.org","@type":"Article","headline":"Der Schulstart","description":"Der Schulstart ist kein Wettbewerb, sondern eine Umstellung: neue Räume, neue Menschen, ein neuer Tagesrhythmus und zum ersten Mal ein Ort, an dem dein Kind ohne dich zurechtkommen muss. Die meisten Kinder schaffen das – aber sie sind dabei erschöpft, dünnhäutig und manchmal überraschend anhänglich. Was hilft, ist wenig: verlässliche Abläufe, ein geübter Schulweg, genug Leerlauf am Nachmittag und Eltern, die zuhören, ohne sofort zu bewerten.","inLanguage":"de","dateModified":"2026-08-06","isAccessibleForFree":true,"publisher":{"@type":"Organization","name":"Erziehungswegweiser"}}</script>
+</head>
+<body class="page page--article" data-root="../">
+<a class="skip-link" href="#inhalt">Zum Inhalt springen</a>
+
+
+<header class="site-header" data-header>
+  <div class="site-header__inner">
+    <a class="brand" href="../index.html">
+      <span class="brand__mark" aria-hidden="true"></span>
+      <span class="brand__text">
+        <span class="brand__name">Erziehungswegweiser</span>
+        <span class="brand__tagline">Wissenschaftlich fundiert durch die ersten Jahre</span>
+      </span>
+    </a>
+
+    <nav class="site-nav" aria-label="Hauptnavigation">
+      <ul class="site-nav__list">
+        <li><a class="site-nav__link" href="../alter/">Nach Alter</a></li><li><a class="site-nav__link" href="../themen/">Nach Thema</a></li><li><a class="site-nav__link is-current" href="../artikel/" aria-current="page">Alle Artikel</a></li><li><a class="site-nav__link" href="../notfall.html">Notfall</a></li><li><a class="site-nav__link" href="../ueber.html">Über</a></li>
+      </ul>
+    </nav>
+
+    <div class="site-header__actions">
+      <button class="icon-btn" type="button" data-open-search aria-label="Suche öffnen" title="Suchen (S)">
+        <svg class="icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.75" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true" focusable="false"><circle cx="11" cy="11" r="6"></circle><path d="M20 20l-4.6-4.6"></path></svg>
+      </button>
+      <button class="icon-btn" type="button" data-open-settings aria-label="Darstellung und Einstellungen" title="Darstellung">
+        <svg class="icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.75" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true" focusable="false"><path d="M4 8h9"></path><path d="M17 8h3"></path><path d="M4 16h3"></path><path d="M11 16h9"></path><circle cx="15" cy="8" r="2.2"></circle><circle cx="9" cy="16" r="2.2"></circle></svg>
+      </button>
+      <button class="icon-btn icon-btn--menu" type="button" data-open-menu aria-label="Menü öffnen" aria-expanded="false">
+        <svg class="icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.75" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true" focusable="false"><path d="M4 7h16"></path><path d="M4 12h16"></path><path d="M4 17h16"></path></svg>
+      </button>
+    </div>
+  </div>
+  <div class="site-progress" data-progress aria-hidden="true"><span></span></div>
+</header>
+
+<main id="inhalt" class="main">
+
+<article class="article" data-article
+  data-phases="schulkind"
+  data-topics="entwicklung familie">
+
+  <header class="article__header">
+    <img class="specimen" src="../assets/botanical/bloom-05.webp" alt="" aria-hidden="true" loading="lazy" decoding="async" style="bottom:-9%;right:19%;width:11.2rem;transform:rotate(16.2deg)">
+  <img class="specimen" src="../assets/botanical/wing-11.webp" alt="" aria-hidden="true" loading="lazy" decoding="async" style="top:14%;right:24%;width:7.5rem;transform:rotate(-10.3deg)">
+  <img class="specimen" src="../assets/botanical/sprig-07.webp" alt="" aria-hidden="true" loading="lazy" decoding="async" style="top:44%;right:5%;width:9.2rem;transform:rotate(-11.4deg)">
+    <div class="wrap wrap--narrow">
+      <nav class="breadcrumb" aria-label="Pfad">
+        <a href="../index.html">Start</a>
+        <span aria-hidden="true">/</span><a href="../themen/entwicklung.html">Entwicklung &amp; Meilensteine</a>
+      </nav>
+
+      <h1 class="article__title">Der Schulstart</h1>
+      <p class="article__subtitle">Wie du den Übergang von der Kita in die Schule begleitest, ohne ihn größer zu machen, als er ist – und was in den ersten Wochen wirklich hilft.</p>
+
+      <div class="article__meta">
+        <span class="meta-item"><svg class="icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true" focusable="false"><circle cx="12" cy="12" r="8.5"></circle><path d="M12 7v5.3l3.4 2"></path></svg> 7 Min. Lesezeit</span>
+        <span class="meta-item">Stand: 6. August 2026</span>
+        <span class="meta-item">4 Quellen</span>
+      </div>
+
+      <div class="article__tags">
+        <a class="tag tag--phase-6" href="../alter/schulkind.html">Schulkind</a>
+        <a class="tag" href="../themen/entwicklung.html">Entwicklung &amp; Meilensteine</a><a class="tag" href="../themen/familie.html">Familie &amp; Alltag</a>
+      </div>
+    </div>
+  </header>
+
+  
+<div class="wrap wrap--narrow">
+  <div class="summary">
+    <p class="summary__label">Das Wichtigste in Kürze</p>
+    <p class="summary__text">Der Schulstart ist kein Wettbewerb, sondern eine Umstellung: neue Räume, neue Menschen, ein neuer Tagesrhythmus und zum ersten Mal ein Ort, an dem dein Kind ohne dich zurechtkommen muss. Die meisten Kinder schaffen das – aber sie sind dabei erschöpft, dünnhäutig und manchmal überraschend anhänglich. Was hilft, ist wenig: verlässliche Abläufe, ein geübter Schulweg, genug Leerlauf am Nachmittag und Eltern, die zuhören, ohne sofort zu bewerten.</p>
+    <ul class="summary__facts"><li>Die ersten sechs bis acht Wochen kosten Kraft – Müdigkeit, Reizbarkeit und Rückschritte sind normal.</li><li>Den Schulweg vorher mehrfach gemeinsam gehen, zu der Zeit, zu der er später wirklich gegangen wird.</li><li>Feste Abläufe entlasten mehr als feste Uhrzeiten.</li><li>Der Nachmittag braucht Leerlauf, nicht noch einen Kurs.</li><li>Bauchschmerzen am Morgen ernst nehmen – aber nicht mit Zuhausebleiben beantworten.</li></ul>
+  </div>
+</div>
+
+  <div class="article__layout wrap">
+    
+<aside class="toc" aria-label="Inhaltsverzeichnis">
+  <p class="toc__title">Inhalt</p>
+  <ol class="toc__list">
+    <li><a href="#was-der-uebergang-wirklich-von-deinem-kind-verlangt" data-toc-link>Was der Übergang wirklich von deinem Kind verlangt</a></li><li><a href="#die-ersten-wochen-was-normal-ist" data-toc-link>Die ersten Wochen: was normal ist</a></li><li><a href="#tagesstruktur-ablaeufe-statt-stundenplan" data-toc-link>Tagesstruktur: Abläufe statt Stundenplan</a></li><li><a href="#der-schulweg-allein" data-toc-link>Der Schulweg allein</a></li><li><a href="#wenn-morgens-der-bauch-wehtut" data-toc-link>Wenn morgens der Bauch wehtut</a></li><li><a href="#zusammenarbeit-mit-der-schule" data-toc-link>Zusammenarbeit mit der Schule</a></li><li><a href="#haeufige-fragen" data-toc-link>Häufige Fragen</a></li>
+  </ol>
+</aside>
+    <div class="article__body">
+      <p class="c-p c-p--lead">Zwischen dem letzten Kita-Tag und dem ersten Schultag liegen ein paar Wochen Ferien – und ein ziemlich großer Sprung. Dein Kind wechselt von einem Ort, an dem es das älteste und routinierteste war, an einen Ort, an dem es wieder ganz unten anfängt. Dazu kommen: stillsitzen, zuhören, warten, einer fremden Erwachsenen vertrauen, den eigenen Ranzen im Blick behalten. Dass das anstrengend ist, sieht man den meisten Kindern erst nachmittags an.</p>
+
+<section class="c-section" id="was-der-uebergang-wirklich-von-deinem-kind-verlangt">
+  <h2 class="c-section__title">
+    <a class="c-section__anchor" href="#was-der-uebergang-wirklich-von-deinem-kind-verlangt" aria-label="Direktlink zu diesem Abschnitt">#</a>
+    Was der Übergang wirklich von deinem Kind verlangt
+  </h2>
+  <p class="c-p">Schulfähigkeit ist weniger eine Frage von Buchstaben und Zahlen als von Alltagsfertigkeiten. Fast alles davon lässt sich vorher ganz nebenbei üben – ohne Übungshefte, ohne Vorschul-Programm.</p>
+<ul class="c-list c-list--bullet"><li><strong>Sich selbst versorgen:</strong> Jacke, Schuhe, Toilette, Brotdose öffnen, Trinkflasche zuschrauben.</li><li><strong>Sachen wiederfinden:</strong> Der Ranzen ist kein Rucksack, sondern ein System. Gemeinsam einräumen, nicht für das Kind einräumen.</li><li><strong>Um Hilfe bitten:</strong> Eine erwachsene Person ansprechen, die man kaum kennt – das ist für viele Kinder die höchste Hürde. Übe es beim Bäcker.</li><li><strong>Warten aushalten:</strong> Nicht sofort drankommen, nicht sofort verstanden werden. Frustration in kleinen Dosen ist hier Training.</li><li><strong>Den Weg kennen:</strong> Nicht nur die Strecke, sondern die Entscheidungen darauf – wo wird gequert, wo ist es eng.</li></ul>
+
+<aside class="c-callout c-callout--tip" role="note">
+  <p class="c-callout__title">Vor dem ersten Schultag</p>
+  <div class="c-callout__body"><ul class="c-list c-list--bullet"><li>Das Schulgebäude und den Hof außerhalb der Unterrichtszeit besuchen – Schaukel ausprobieren, Toiletten anschauen.</li><li>Herausfinden, welche Kinder aus der Kita in dieselbe Klasse kommen, und ein Treffen in den Ferien organisieren.</li><li>Etwa eine Woche vorher den Rhythmus anpassen: früher ins Bett, früher aufstehen, damit der erste Schultag kein Schlafdefizit trifft.</li><li>Den Ranzen einmal komplett packen und tragen lassen – nicht am ersten Morgen zum ersten Mal.</li></ul></div>
+</aside>
+</section>
+
+<section class="c-section" id="die-ersten-wochen-was-normal-ist">
+  <h2 class="c-section__title">
+    <a class="c-section__anchor" href="#die-ersten-wochen-was-normal-ist" aria-label="Direktlink zu diesem Abschnitt">#</a>
+    Die ersten Wochen: was normal ist
+  </h2>
+  
+<div class="c-timeline">
+  <h4 class="c-timeline__heading">Ein üblicher Verlauf der ersten Monate</h4>
+  <ol class="c-timeline__list">
+      <li class="c-timeline__item">
+        <span class="c-timeline__age">Woche 1–2</span>
+        <div class="c-timeline__body">
+          <h4 class="c-timeline__label">Aufregung und Hochstimmung</h4>
+          <p>Alles ist neu und meist spannend. Viele Kinder wirken euphorisch – und kippen abends unvermittelt in Tränen oder Wut. Das ist Entladung, kein Alarmzeichen.</p>
+        </div>
+      </li>
+      <li class="c-timeline__item">
+        <span class="c-timeline__age">Woche 3–6</span>
+        <div class="c-timeline__body">
+          <h4 class="c-timeline__label">Der Durchhänger</h4>
+          <p>Die Neuheit ist weg, die Anstrengung bleibt. Typisch: „Ich will nicht mehr hin“, Müdigkeit, Streit um Kleinigkeiten, wieder mehr Nähe suchen, manchmal nachts wieder einnässen.</p>
+        </div>
+      </li>
+      <li class="c-timeline__item">
+        <span class="c-timeline__age">Woche 6–10</span>
+        <div class="c-timeline__body">
+          <h4 class="c-timeline__label">Einpendeln</h4>
+          <p>Abläufe sitzen, erste Freundschaften stabilisieren sich, das Kind kann sagen, wie der Tag war. Der Kraftbedarf sinkt spürbar.</p>
+        </div>
+      </li>
+      <li class="c-timeline__item">
+        <span class="c-timeline__age">Ab Monat 3</span>
+        <div class="c-timeline__body">
+          <h4 class="c-timeline__label">Alltag</h4>
+          <p>Schule ist Normalität. Wenn dein Kind zu diesem Zeitpunkt noch täglich mit starkem Widerstand oder Körperbeschwerden reagiert, lohnt ein Gespräch mit der Klassenleitung und der Kinderarztpraxis.</p>
+        </div>
+      </li></ol>
+  <p class="c-caption">Grober Verlauf, kein Fahrplan. Manche Kinder brauchen zwei Wochen, andere ein halbes Jahr – beides liegt im Rahmen.</p>
+</div>
+
+<aside class="c-callout c-callout--info" role="note">
+  <p class="c-callout__title">Rückschritte sind Teil des Prozesses</p>
+  <div class="c-callout__body"><p>Daumenlutschen, Einnässen, Trennungsschwierigkeiten am Schultor, plötzlich wieder das alte Kuscheltier: Unter Belastung greifen Kinder auf frühere Bewältigungsmuster zurück. Das legt sich meist von selbst, wenn die Belastung sinkt. Kommentiere es möglichst wenig.</p></div>
+</aside>
+</section>
+
+<section class="c-section" id="tagesstruktur-ablaeufe-statt-stundenplan">
+  <h2 class="c-section__title">
+    <a class="c-section__anchor" href="#tagesstruktur-ablaeufe-statt-stundenplan" aria-label="Direktlink zu diesem Abschnitt">#</a>
+    Tagesstruktur: Abläufe statt Stundenplan
+  </h2>
+  <p class="c-p">Der häufigste Fehler ist, den Nachmittag zu verplanen. Ein Kind, das sechs Stunden lang fremdbestimmt war, braucht danach vor allem eines: Zeit ohne Auftrag. Was Halt gibt, ist nicht die Uhr, sondern die Reihenfolge – immer dieselbe Abfolge von Ankommen, Essen, Freizeit, Aufgaben, Abend.</p>
+
+<div class="c-steps">
+  <h4 class="c-steps__heading">Ein tragfähiger Nachmittag</h4>
+  <ol class="c-steps__list">
+      <li class="c-steps__item">
+        <span class="c-steps__num" aria-hidden="true">1</span>
+        <div class="c-steps__body">
+          <h4 class="c-steps__title">Ankommen, ohne Verhör</h4>
+          <p>Erst essen und ausruhen. Die Frage „Wie war es in der Schule?“ direkt am Schultor liefert fast immer „Gut“. Gespräche kommen später, meist beiläufig.</p>
+        </div>
+      </li>
+      <li class="c-steps__item">
+        <span class="c-steps__num" aria-hidden="true">2</span>
+        <div class="c-steps__body">
+          <h4 class="c-steps__title">Bewegung nach draußen verlagern</h4>
+          <p>Eine Stunde draußen wirkt bei den meisten Kindern besser gegen Nachmittagsquengeln als jede Ermahnung.</p>
+        </div>
+      </li>
+      <li class="c-steps__item">
+        <span class="c-steps__num" aria-hidden="true">3</span>
+        <div class="c-steps__body">
+          <h4 class="c-steps__title">Aufgaben in ein festes Fenster</h4>
+          <p>Immer dieselbe Zeit, immer derselbe Platz. Kurz, mit Pausen – nicht kurz vor dem Abendessen.</p>
+        </div>
+      </li>
+      <li class="c-steps__item">
+        <span class="c-steps__num" aria-hidden="true">4</span>
+        <div class="c-steps__body">
+          <h4 class="c-steps__title">Abends vorbereiten, morgens nicht suchen</h4>
+          <p>Ranzen, Kleidung, Sportbeutel am Vorabend richten. Das entschärft mehr Morgenstreit als jedes Aufsteh-Ritual.</p>
+        </div>
+      </li>
+      <li class="c-steps__item">
+        <span class="c-steps__num" aria-hidden="true">5</span>
+        <div class="c-steps__body">
+          <h4 class="c-steps__title">Früher ins Bett als in der Kita-Zeit</h4>
+          <p>Schulkinder brauchen in den ersten Monaten oft mehr Schlaf, nicht weniger. Müdigkeit sieht bei Kindern häufig wie Trotz aus.</p>
+        </div>
+      </li></ol>
+</div>
+</section>
+
+<section class="c-section" id="der-schulweg-allein">
+  <h2 class="c-section__title">
+    <a class="c-section__anchor" href="#der-schulweg-allein" aria-label="Direktlink zu diesem Abschnitt">#</a>
+    Der Schulweg allein
+  </h2>
+  
+<div class="c-evidence c-evidence--moderat">
+  <p class="c-evidence__badge">
+    <span class="c-evidence__dot" aria-hidden="true"></span>
+    <span class="c-evidence__label">Hinweise vorhanden</span>
+  </p>
+  <p class="c-evidence__claim">Kinder übertragen Verkehrserfahrungen kaum von einer Situation auf eine andere. Der konkrete Schulweg muss deshalb konkret geübt werden – mehrfach, zur echten Uhrzeit, bei echtem Verkehr.</p>
+  <p class="c-evidence__note">Die Deutsche Verkehrswacht und die Unfallkassen empfehlen, den Weg über Wochen gemeinsam zu gehen und die Rolle schrittweise zu tauschen: erst führst du, dann führt dein Kind und du gehst schweigend hinterher, dann geht es allein. Der kürzeste Weg ist dabei nicht automatisch der beste – der mit den wenigsten Querungen ist es meist.</p>
+  <p class="c-evidence__refs">Belege: <a class="c-ref" href="#quelle-1" title="Schulweg – Informationen und Materialien für Eltern">[1]</a> <a class="c-ref" href="#quelle-2" title="Fit für den Schulweg: Mehr Sicherheit für Schulkinder im Straßenverkehr">[2]</a></p>
+</div>
+<p class="c-p">Viele Schulen geben Schulwegpläne heraus, in denen gefährliche Stellen eingezeichnet sind. Lohnt sich, auch wenn du die Gegend kennst: Kinder sehen andere Dinge als Erwachsene, weil sie kleiner sind und über parkende Autos nicht hinwegschauen können.</p>
+
+<aside class="c-callout c-callout--warn" role="note">
+  <p class="c-callout__title">Das Elterntaxi ist Teil des Problems</p>
+  <div class="c-callout__body"><p>Der Bereich direkt vor der Schule ist zu den Bringzeiten die gefährlichste Stelle des ganzen Schulwegs – vor allem wegen der haltenden und wendenden Autos. Wenn Fahren unvermeidlich ist, halte einige Straßen entfernt und lass den Rest zu Fuß gehen. Das ist sicherer für alle Kinder und nebenbei ein Stück Selbstständigkeit für deines.</p></div>
+</aside>
+</section>
+
+<section class="c-section" id="wenn-morgens-der-bauch-wehtut">
+  <h2 class="c-section__title">
+    <a class="c-section__anchor" href="#wenn-morgens-der-bauch-wehtut" aria-label="Direktlink zu diesem Abschnitt">#</a>
+    Wenn morgens der Bauch wehtut
+  </h2>
+  
+<div class="c-evidence c-evidence--moderat">
+  <p class="c-evidence__badge">
+    <span class="c-evidence__dot" aria-hidden="true"></span>
+    <span class="c-evidence__label">Hinweise vorhanden</span>
+  </p>
+  <p class="c-evidence__claim">Bauchschmerzen, Übelkeit oder Kopfschmerzen, die morgens auftreten und nach der Entscheidung, zu Hause zu bleiben, rasch verschwinden, sind typische Anzeichen von Schulangst – die Beschwerden sind echt, die Ursache ist nicht körperlich.</p>
+  <p class="c-evidence__note">Entscheidend ist die Reaktion: Jedes Zuhausebleiben senkt die Anspannung kurzfristig und verstärkt die Angst langfristig. Deshalb gilt in der Kinder- und Jugendpsychiatrie die Faustregel, den Schulbesuch möglichst früh und möglichst vollständig aufrechtzuerhalten und parallel nach der Ursache zu suchen. Körperliche Ursachen sollten einmal ärztlich ausgeschlossen werden.</p>
+  <p class="c-evidence__refs">Belege: <a class="c-ref" href="#quelle-3" title="Schulvermeidung: Schulangst, Schulphobie und Schuleschwänzen">[3]</a></p>
+</div>
+<ul class="c-list c-list--bullet"><li><strong>Nachfragen, ohne zu verhören:</strong> „Was war heute das Blödeste?“ bringt oft mehr als „Was ist los?“.</li><li><strong>Konkret werden:</strong> Angst vor dem Vorlesen, vor der Toilette, vor einem bestimmten Kind, vor dem Umziehen im Sport – das sind lösbare Probleme, sobald sie einen Namen haben.</li><li><strong>Die Klassenleitung einbeziehen:</strong> Nicht als Beschwerde, sondern als Beobachtung. Lehrkräfte sehen Dinge, die zu Hause nie erzählt werden.</li><li><strong>Frühzeitig Hilfe holen:</strong> Wenn es über Wochen anhält: Kinderarztpraxis, Schulsozialarbeit oder Erziehungsberatungsstelle. Alle drei sind kostenlos erreichbar.</li></ul>
+</section>
+
+<section class="c-section" id="zusammenarbeit-mit-der-schule">
+  <h2 class="c-section__title">
+    <a class="c-section__anchor" href="#zusammenarbeit-mit-der-schule" aria-label="Direktlink zu diesem Abschnitt">#</a>
+    Zusammenarbeit mit der Schule
+  </h2>
+  <p class="c-p">Die Beziehung zur Klassenleitung ist eine Arbeitsbeziehung, keine Freundschaft und kein Gegnerverhältnis. Zwei Dinge helfen: früh Kontakt aufnehmen, solange es nichts zu klären gibt – und bei Problemen nicht zwischen Tür und Angel ansprechen, sondern einen Termin vereinbaren.</p>
+
+<aside class="c-callout c-callout--tip" role="note">
+  <p class="c-callout__title">Vor dem Elterngespräch</p>
+  <div class="c-callout__body"><ul class="c-list c-list--bullet"><li>Schreib dir zwei bis drei konkrete Beobachtungen auf, keine Bewertungen.</li><li>Frag nach dem, was du nicht sehen kannst: Wie ist dein Kind in der Gruppe? Mit wem spielt es in der Pause?</li><li>Vereinbare am Ende, wer was bis wann tut – und wann ihr wieder sprecht.</li><li>Sprich vor deinem Kind nicht abfällig über die Lehrkraft. Ein Kind, das seine Lehrerin nicht ernst nehmen darf, hat es in der Schule schwerer, nicht leichter.</li></ul></div>
+</aside>
+</section>
+
+<section class="c-section" id="haeufige-fragen">
+  <h2 class="c-section__title">
+    <a class="c-section__anchor" href="#haeufige-fragen" aria-label="Direktlink zu diesem Abschnitt">#</a>
+    Häufige Fragen
+  </h2>
+  
+<div class="c-faq">
+  
+  
+      <details class="c-faq__item">
+        <summary>Mein Kind erzählt gar nichts von der Schule. Soll ich mir Sorgen machen?</summary>
+        <div class="c-faq__answer"><p>Meistens nicht. Viele Kinder brauchen nach sechs Stunden Fremdbestimmung erst einmal Ruhe. Erzählt wird oft beim Spielen, im Auto oder abends im Dunkeln – also dann, wenn kein Blickkontakt nötig ist. Sorgen sind angebracht, wenn Schweigen mit Rückzug, Traurigkeit oder Körperbeschwerden zusammenfällt.</p></div>
+      </details>
+      <details class="c-faq__item">
+        <summary>Ab wann sollte mein Kind allein zur Schule gehen?</summary>
+        <div class="c-faq__answer"><p>Es gibt kein festes Alter. Sinnvoll ist der Zeitpunkt, an dem dein Kind den Weg mehrfach fehlerfrei geführt hat und du bei den Querungen nicht mehr eingreifen musstest. Bei vielen Familien liegt das einige Wochen nach der Einschulung. Gemeinsam mit einem anderen Kind zu gehen, ist meist die beste Zwischenstufe.</p></div>
+      </details>
+      <details class="c-faq__item">
+        <summary>Muss mein Kind vor der Einschulung lesen können?</summary>
+        <div class="c-faq__answer"><p>Nein. Der Anfangsunterricht setzt das nicht voraus. Kinder, die schon lesen, sind kein Problem, aber auch kein Vorsprung, der lange hält. Was tatsächlich hilft: viel gesprochene Sprache, Vorlesen und Fingerfertigkeit – Schneiden, Malen, Bauen.</p></div>
+      </details>
+      <details class="c-faq__item">
+        <summary>Was ist mit einem Nachmittagskurs direkt nach der Einschulung?</summary>
+        <div class="c-faq__answer"><p>Warte damit lieber bis nach den Herbstferien. In den ersten Wochen ist der Kraftvorrat gering. Wenn dein Kind unbedingt möchte, plant höchstens einen festen Termin pro Woche ein – und behaltet die Abende im Blick.</p></div>
+      </details>
+      <details class="c-faq__item">
+        <summary>Mein Kind hat noch keine Freundinnen in der Klasse. Wie kann ich helfen?</summary>
+        <div class="c-faq__answer"><p>Verabredungen zu zweit sind fast immer wirksamer als große Kindergeburtstage. Frag die Klassenleitung, mit wem dein Kind in der Pause zu tun hat, und lade dieses Kind einmal nach Hause ein. Freundschaften entstehen in der Grundschule sehr oft über gemeinsame Wege und gemeinsame Interessen, selten über Gespräche.</p></div>
+      </details>
+      <details class="c-faq__item">
+        <summary>Ist eine Rückstellung sinnvoll, wenn mein Kind sehr jung ist?</summary>
+        <div class="c-faq__answer"><p>Das ist eine Einzelfallentscheidung, die Schule, Kinderarztpraxis und ihr gemeinsam trefft. Die Forschung zu späterer Einschulung ist uneinheitlich: Kurzfristige Vorteile im Klassenvergleich verlieren sich über die Schuljahre häufig. Ausschlaggebend sollte weniger das Geburtsdatum sein als die Frage, ob dein Kind im Alltag der Klasse zurechtkommt.</p></div>
+      </details>
+</div>
+</section>
+
+<aside class="c-callout c-callout--info" role="note">
+  <p class="c-callout__title">Kurz gesagt</p>
+  <div class="c-callout__body"><p>Übe den Weg, halte den Nachmittag leer, schaff verlässliche Abläufe und rechne mit sechs bis acht anstrengenden Wochen. Der Schulstart gelingt nicht dadurch, dass dein Kind besonders gut vorbereitet ist, sondern dadurch, dass es einen ruhigen Ort hat, an den es danach zurückkommt.</p></div>
+</aside>
+      
+      
+<section class="sources" id="quellen">
+  <h2 class="sources__title">Quellen</h2>
+  <ol class="sources__list">
+    
+    <li class="sources__item" id="quelle-1">
+      <span class="sources__num">1</span>
+      <div>
+        <p class="sources__name"><a href="https://www.verkehrswacht.de/category/themen/schulweg/" target="_blank" rel="noopener noreferrer">Schulweg – Informationen und Materialien für Eltern</a></p>
+        <p class="sources__pub">Deutsche Verkehrswacht · 2025 · Institutionelle Information</p>
+        
+      </div>
+    </li>
+    <li class="sources__item" id="quelle-2">
+      <span class="sources__num">2</span>
+      <div>
+        <p class="sources__name"><a href="https://www.ukbw.de/pressemitteilungen/news-details/fit-fuer-den-schulweg-mehr-sicherheit-fuer-schulkinder-im-strassenverkehr" target="_blank" rel="noopener noreferrer">Fit für den Schulweg: Mehr Sicherheit für Schulkinder im Straßenverkehr</a></p>
+        <p class="sources__pub">Unfallkasse Baden-Württemberg · 2024 · Institutionelle Information</p>
+        
+      </div>
+    </li>
+    <li class="sources__item" id="quelle-3">
+      <span class="sources__num">3</span>
+      <div>
+        <p class="sources__name"><a href="https://www.neurologen-und-psychiater-im-netz.org/kinder-jugendpsychiatrie-psychosomatik-und-psychotherapie/stoerungen-erkrankungen/schulvermeidung-schulangst-schulphobie-schuleschwaenzen/schulangst/" target="_blank" rel="noopener noreferrer">Schulvermeidung: Schulangst, Schulphobie und Schuleschwänzen</a></p>
+        <p class="sources__pub">Berufsverbände für Kinder- und Jugendpsychiatrie, Psychosomatik und Psychotherapie (neurologen-und-psychiater-im-netz.org) · 2024 · Institutionelle Information</p>
+        
+      </div>
+    </li>
+    <li class="sources__item" id="quelle-4">
+      <span class="sources__num">4</span>
+      <div>
+        <p class="sources__name"><a href="https://www.kindergesundheit-info.de/" target="_blank" rel="noopener noreferrer">Kindergesundheit von A bis Z – Entwicklung und Alltag im Schulalter</a></p>
+        <p class="sources__pub">Bundeszentrale für gesundheitliche Aufklärung (BZgA), kindergesundheit-info.de · 2025 · Institutionelle Information</p>
+        
+      </div>
+    </li>
+  </ol>
+  <p class="sources__hint">Wie wir Quellen auswählen und Aussagen einordnen, steht in der <a href="../methodik.html">Methodik</a>.</p>
+</section>
+    </div>
+  </div>
+
+  
+<section class="band band--sunk related">
+  <div class="wrap">
+    <h2 class="band__title">Passt dazu</h2>
+    <div class="card-grid">
+<a class="card card--phase-5" href="../artikel/vorschule-und-schulfaehigkeit.html">
+  <span class="card__kicker">Kindergartenalter</span>
+  <h3 class="card__title">Schulfähigkeit: was wirklich zählt</h3>
+  <p class="card__text">Im letzten Kindergartenjahr wird der Ton oft nervös: Kann es schon seinen Namen schreiben, bis zwanzig zählen, still sitzen? Der Blick auf die …</p>
+  <span class="card__foot">7 Min.</span>
+</a>
+<a class="card card--phase-6" href="../artikel/hausaufgaben-und-lernen.html">
+  <span class="card__kicker">Schulkind</span>
+  <h3 class="card__title">Hausaufgaben und Lernen begleiten</h3>
+  <p class="card__text">Hausaufgaben sind Sache des Kindes, nicht der Eltern. Wer danebensitzt, mitrechnet und korrigiert, meint es gut – und schwächt langfristig oft genau …</p>
+  <span class="card__foot">6 Min.</span>
+</a>
+<a class="card card--phase-6" href="../artikel/leistungsdruck.html">
+  <span class="card__kicker">Schulkind</span>
+  <h3 class="card__title">Noten, Vergleich und Leistungsdruck</h3>
+  <p class="card__text">Noten messen einen Ausschnitt, an einem Tag, in einem Fach – nicht den Wert deines Kindes und nicht seine Zukunft. Trotzdem lösen sie zu Hause oft …</p>
+  <span class="card__foot">6 Min.</span>
+</a>
+<a class="card card--phase-4" href="../artikel/rituale-und-struktur.html">
+  <span class="card__kicker">Kleinkind</span>
+  <h3 class="card__title">Rituale und Tagesstruktur</h3>
+  <p class="card__text">Vorhersehbarkeit ist für Kinder keine Bequemlichkeit, sondern Entlastung: Wer weiß, was gleich passiert, muss weniger Energie in Wachsamkeit stecken. …</p>
+  <span class="card__foot">5 Min.</span>
+</a></div>
+  </div>
+</section>
+</article>
+</main>
+
+
+<footer class="site-footer">
+  <hr class="spectrum-rule" aria-hidden="true">
+  <div class="site-footer__inner">
+    <div class="site-footer__brand">
+      <p class="site-footer__name">Erziehungswegweiser</p>
+      <p class="site-footer__claim">Ein Kompendium zu Schwangerschaft, Neugeborenen, Babys, Kleinkindern und Erziehung – aufbereitet für Eltern, gestützt auf Leitlinien und Forschung.</p>
+    </div>
+
+    <nav class="site-footer__nav" aria-label="Fußzeile">
+      <div>
+        <p class="site-footer__head">Einstieg</p>
+        <ul>
+          <li><a href="../alter/">Nach Alter</a></li>
+          <li><a href="../themen/">Nach Thema</a></li>
+          <li><a href="../artikel/">Alle Artikel</a></li>
+        </ul>
+      </div>
+      <div>
+        <p class="site-footer__head">Hintergrund</p>
+        <ul>
+          <li><a href="../ueber.html">Über das Projekt</a></li>
+          <li><a href="../methodik.html">Methodik &amp; Evidenz</a></li>
+          <li><a href="../quellen.html">Quellenverzeichnis</a></li>
+        </ul>
+      </div>
+      <div>
+        <p class="site-footer__head">Hilfe</p>
+        <ul>
+          <li><a href="../notfall.html">Notfall &amp; Hotlines</a></li>
+          <li><a href="../glossar.html">Glossar</a></li>
+        </ul>
+      </div>
+    </nav>
+  </div>
+
+  <div class="site-footer__legal">
+    <p class="disclaimer">
+      <strong>Wichtig:</strong> Dieses Kompendium ersetzt keine ärztliche, therapeutische
+      oder psychologische Beratung. Bei Sorgen um die Gesundheit oder Entwicklung
+      eines Kindes wende dich an die Kinderarztpraxis. In akuten Notfällen gilt der
+      Notruf <strong>112</strong>.
+    </p>
+  </div>
+</footer>
+
+
+<div class="overlay" data-search-overlay hidden>
+  <div class="overlay__backdrop" data-close-search></div>
+  <div class="overlay__panel search" role="dialog" aria-modal="true" aria-label="Suche">
+    <div class="search__field">
+      <svg class="icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.75" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true" focusable="false"><circle cx="11" cy="11" r="6"></circle><path d="M20 20l-4.6-4.6"></path></svg>
+      <input type="search" class="search__input" data-search-input placeholder="Wonach suchst du? z. B. Schlaf, Trotzphase, Beikost" autocomplete="off" spellcheck="false">
+      <button class="icon-btn" type="button" data-close-search aria-label="Suche schließen"><svg class="icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.75" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true" focusable="false"><path d="M6 6l12 12"></path><path d="M18 6 6 18"></path></svg></button>
+    </div>
+    <div class="search__filters" data-search-filters></div>
+    <div class="search__results" data-search-results>
+      <p class="search__hint">Tippe los – die Suche läuft vollständig in deinem Browser.</p>
+    </div>
+  </div>
+</div>
+
+<div class="overlay" data-settings-overlay hidden>
+  <div class="overlay__backdrop" data-close-settings></div>
+  <div class="overlay__panel settings" role="dialog" aria-modal="true" aria-label="Darstellung">
+    <div class="settings__head">
+      <h2>Darstellung</h2>
+      <button class="icon-btn" type="button" data-close-settings aria-label="Schließen"><svg class="icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.75" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true" focusable="false"><path d="M6 6l12 12"></path><path d="M18 6 6 18"></path></svg></button>
+    </div>
+
+    <fieldset class="settings__group">
+      <legend>Farbmodus</legend>
+      <div class="segmented" data-pref="theme">
+        <button type="button" data-value="light">Hell</button>
+        <button type="button" data-value="auto">Automatisch</button>
+        <button type="button" data-value="dark">Dunkel</button>
+      </div>
+    </fieldset>
+
+    <fieldset class="settings__group">
+      <legend>Schriftgröße</legend>
+      <div class="segmented" data-pref="textsize">
+        <button type="button" data-value="m">Normal</button>
+        <button type="button" data-value="l">Groß</button>
+        <button type="button" data-value="xl">Sehr groß</button>
+      </div>
+    </fieldset>
+
+    <fieldset class="settings__group">
+      <legend>Lesemodus</legend>
+      <label class="switch">
+        <input type="checkbox" data-pref-toggle="reading">
+        <span class="switch__track" aria-hidden="true"></span>
+        <span class="switch__label">Immersiv lesen – Navigation und Beiwerk treten zurück</span>
+      </label>
+    </fieldset>
+
+    <fieldset class="settings__group">
+      <legend>Alter meines Kindes</legend>
+      <p class="settings__hint">Damit hebt die Seite passende Inhalte hervor. Die Angabe bleibt in deinem Browser.</p>
+      <label class="field">
+        <span>Geburtsdatum</span>
+        <input type="date" data-pref-birthdate>
+      </label>
+      <p class="settings__age" data-age-readout aria-live="polite"></p>
+      <button type="button" class="btn btn--quiet" data-clear-birthdate>Angabe löschen</button>
+    </fieldset>
+  </div>
+</div>
+
+<script src="../assets/js/app.js" defer></script>
+<script src="../assets/js/search.js" defer></script>
+
+</body>
+</html>
