@@ -1,2 +1,7 @@
 node_modules/
 .DS_Store
+
+# Quellmaterial des Designsystems: Rohdaten, aus denen die Tokens und
+# Assets abgeleitet wurden. Nicht im Repo, weil jeder Klon sie mitlädt.
+Design System/uploads/
+Design System/scraps/

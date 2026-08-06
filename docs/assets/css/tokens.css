@@ -54,11 +54,6 @@
   --c-accent-soft:     var(--coral-100);
   --c-accent-faint:    var(--coral-050);
   --c-accent-ink:      var(--ink-000);
-  --c-accent-on-soft:  #A83F26;
-
-  --c-secondary:       var(--violet-600);
-  --c-secondary-fill:  var(--violet-500);
-  --c-secondary-soft:  var(--violet-100);
 
   /* ---------- Farbe: Semantik ---------- */
   --c-info:            var(--sky-700);
@@ -141,7 +136,6 @@
   --sp-10: var(--space-10);
 
   --width-content:  var(--container-xl);
-  --width-article:  var(--container-md);
   --width-wide:     1560px;
 
   /* ---------- Form ----------
@@ -198,11 +192,6 @@
   --c-accent-soft:     #3B211A;
   --c-accent-faint:    #2A1813;
   --c-accent-ink:      #23120C;
-  --c-accent-on-soft:  var(--coral-300);
-
-  --c-secondary:       var(--violet-400);
-  --c-secondary-fill:  var(--violet-500);
-  --c-secondary-soft:  #241F3F;
 
   --c-info:            var(--sky-400);
   --c-info-soft:       #10263A;

@@ -95,7 +95,7 @@ function buildHome() {
   <div class="hero__scene" data-scene="hero" aria-hidden="true"></div>
   ${specimens('startseite', 5)}
   <div class="hero__inner">
-    <p class="hero__eyebrow">Kompendium für die ersten Jahre</p>
+    <p class="section-label">Kompendium für die ersten Jahre</p>
     <h1 class="hero__title">${esc(site.tagline)}</h1>
     <p class="hero__lead">${esc(site.description)}</p>
     <div class="hero__actions">
@@ -669,7 +669,7 @@ function pageHead(title, subtitle, crumbs, root, opts = {}) {
       <a href="${root}index.html">Start</a>
       ${crumbs.map((c) => `<span aria-hidden="true">/</span>${c.href ? `<a href="${esc(c.href)}">${esc(c.label)}</a>` : `<span>${esc(c.label)}</span>`}`).join('')}
     </nav>
-    ${opts.eyebrow ? `<p class="pagehead__eyebrow">${esc(opts.eyebrow)}</p>` : ''}
+    ${opts.eyebrow ? `<p class="section-label">${esc(opts.eyebrow)}</p>` : ''}
     <h1 class="pagehead__title">${esc(title)}</h1>
     ${subtitle ? `<p class="pagehead__sub">${inline(subtitle)}</p>` : ''}
   </div>

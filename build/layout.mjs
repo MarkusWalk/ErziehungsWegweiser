@@ -122,6 +122,7 @@ function header(page, site, root) {
 function footer(site, root) {
   return `
 <footer class="site-footer">
+  <hr class="spectrum-rule" aria-hidden="true">
   <div class="site-footer__inner">
     <div class="site-footer__brand">
       <p class="site-footer__name">${esc(site.title)}</p>

@@ -197,14 +197,6 @@
 
 .pagehead .wrap { position: relative; z-index: var(--layer-base); }
 
-.pagehead__eyebrow {
-  font-size: var(--fs-sm);
-  letter-spacing: var(--tracking-eyebrow);
-  text-transform: uppercase;
-  color: var(--c-ink-muted);
-  margin-bottom: var(--sp-2);
-}
-
 .pagehead__title {
   font-size: var(--fs-2xl);
   max-width: 20ch;
@@ -254,14 +246,6 @@
   z-index: var(--layer-base);
   width: min(100% - 2.5rem, var(--width-content));
   margin-inline: auto;
-}
-
-.hero__eyebrow {
-  font-size: var(--fs-sm);
-  letter-spacing: var(--tracking-eyebrow);
-  text-transform: uppercase;
-  color: var(--c-accent);
-  margin-bottom: var(--sp-4);
 }
 
 .hero__title {
@@ -421,7 +405,6 @@
 /* ---------- Fußzeile ---------- */
 .site-footer {
   margin-top: var(--sp-9);
-  border-top: var(--rule);
   background: var(--c-bg-sunk);
   padding-block: var(--sp-8) var(--sp-5);
 }
