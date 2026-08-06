@@ -27,6 +27,7 @@ export function layout(page, site) {
 <link rel="stylesheet" href="${css('base.css')}">
 <link rel="stylesheet" href="${css('components.css')}">
 <link rel="stylesheet" href="${css('layout.css')}">
+<link rel="stylesheet" href="${css('print.css')}" media="print">
 <script>
   /* Theme, Lesemodus und Schriftgröße vor dem ersten Paint setzen,
      damit kein Aufblitzen des falschen Modus entsteht. */

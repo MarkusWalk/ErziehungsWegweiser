@@ -1,0 +1,137 @@
+/* ============================================================
+   DRUCK — Artikel und Checklisten sollen auf Papier
+   brauchbar sein. Navigation, Overlays und Beiwerk entfallen.
+   ============================================================ */
+
+@media print {
+  :root {
+    --c-bg: #fff;
+    --c-bg-sunk: #fff;
+    --c-surface: #fff;
+    --c-surface-alt: #fff;
+    --c-ink: #000;
+    --c-ink-soft: #222;
+    --c-ink-muted: #444;
+    --c-line: #bbb;
+    --c-line-strong: #888;
+    --shadow-sm: none;
+    --shadow-md: none;
+    --shadow-lg: none;
+    --measure: 100%;
+  }
+
+  @page {
+    margin: 18mm 16mm;
+  }
+
+  body {
+    background: #fff;
+    font-size: 11pt;
+    line-height: 1.5;
+  }
+
+  .site-header,
+  .site-footer__nav,
+  .toc,
+  .related,
+  .overlay,
+  .skip-link,
+  .site-progress,
+  .c-scene,
+  .filterbar,
+  .hero__scene,
+  .hero__actions,
+  .breadcrumb,
+  .c-section__anchor {
+    display: none !important;
+  }
+
+  .article__layout {
+    display: block;
+    padding-block: 0;
+  }
+
+  .article__header {
+    padding-block: 0 var(--sp-4);
+    border-bottom: 1pt solid var(--c-line);
+  }
+
+  .article__title { font-size: 22pt; }
+  .article__subtitle { font-size: 12pt; }
+
+  .summary {
+    margin-top: var(--sp-4);
+    box-shadow: none;
+    border: 1pt solid var(--c-line);
+    border-left: 3pt solid #000;
+  }
+
+  .band { padding-block: var(--sp-4); }
+
+  /* Blöcke nicht über Seitenumbrüche zerreißen */
+  .c-callout,
+  .c-evidence,
+  .c-figure,
+  .c-checklist,
+  .c-steps__item,
+  .c-timeline__item,
+  .c-compare__col,
+  .sources__item,
+  figure,
+  table {
+    break-inside: avoid;
+    page-break-inside: avoid;
+  }
+
+  h1, h2, h3, h4 {
+    break-after: avoid;
+    page-break-after: avoid;
+  }
+
+  .c-callout,
+  .c-evidence,
+  .c-checklist,
+  .c-figure__canvas,
+  .c-tablewrap__scroll {
+    border: 1pt solid var(--c-line);
+  }
+
+  /* Ampelstufe muss auch in Graustufen erkennbar bleiben */
+  .c-evidence__badge::after {
+    content: "";
+    margin-left: 0.4em;
+  }
+  .c-evidence--stark .c-evidence__badge::after { content: " ●●●"; }
+  .c-evidence--moderat .c-evidence__badge::after { content: " ●●○"; }
+  .c-evidence--umstritten .c-evidence__badge::after { content: " ●○○"; }
+
+  /* Zielangaben bei externen Links ausschreiben */
+  .article__body a[href^="http"]::after,
+  .sources__name a::after {
+    content: " (" attr(href) ")";
+    font-size: 8pt;
+    color: #555;
+    word-break: break-all;
+  }
+
+  .c-faq__item { border: 1pt solid var(--c-line); }
+  .c-faq__item summary::after { content: ""; }
+  .c-faq__answer { display: block !important; }
+
+  .c-checklist__box {
+    appearance: none;
+    -webkit-appearance: none;
+    width: 10pt;
+    height: 10pt;
+    border: 1pt solid #000;
+  }
+
+  .site-footer {
+    margin-top: var(--sp-5);
+    padding-block: var(--sp-4) 0;
+    border-top: 1pt solid var(--c-line);
+  }
+
+  .site-footer__brand { display: none; }
+  .disclaimer { font-size: 8.5pt; }
+}

@@ -152,6 +152,12 @@
       "name": "Besondere Situationen",
       "icon": "path",
       "blurb": "Frühgeburt, chronische Erkrankung, Trennung, Trauer, Neurodivergenz."
+    },
+    {
+      "id": "forschung",
+      "name": "Forschung & Debatten",
+      "icon": "lens",
+      "blurb": "Was gerade diskutiert wird – und wie belastbar die Studienlage dahinter wirklich ist."
     }
   ],
   "evidenceLevels": [
