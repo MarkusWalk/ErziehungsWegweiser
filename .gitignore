@@ -5,3 +5,4 @@ node_modules/
 # Assets abgeleitet wurden. Nicht im Repo, weil jeder Klon sie mitlädt.
 Design System/uploads/
 Design System/scraps/
+Design System/assets/botanical/
