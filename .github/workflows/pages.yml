@@ -67,6 +67,12 @@ jobs:
 
       - name: Pages einrichten
         uses: actions/configure-pages@v5
+        with:
+          # Legt die Pages-Site an, falls sie noch nicht existiert. Bei einem
+          # privaten Repository scheitert das mit "Resource not accessible by
+          # integration", weil Pages dort einen bezahlten Plan voraussetzt.
+          # Oeffentliches Repository: der Schritt richtet Pages selbst ein.
+          enablement: true
 
       - name: docs/ hochladen
         uses: actions/upload-pages-artifact@v3
