@@ -46,6 +46,8 @@ betrifft nur die Vorlagen – nicht die Inhalte.
 node build/build.mjs        # Website nach docs/ erzeugen
 node build/lint.mjs         # Alle Artikel gegen die Autorenregeln prüfen
 node build/lint.mjs <slug>  # Einen Artikel prüfen
+node build/lint.mjs --strict  # Entwürfe mitwerten
+node build/check-links.mjs  # Quellen-URLs prüfen (braucht freies Netz)
 
 # Lokale Vorschau
 python3 -m http.server 8000 --directory docs
@@ -59,25 +61,39 @@ damit `docs/` aktuell ist.
 
 ## GitHub Pages aktivieren
 
-**Einmalig von Hand**, danach läuft die Auslieferung automatisch:
+**Einmalig von Hand:**
 
 1. Repository → **Settings** → **Pages**
-2. *Build and deployment* → *Source*: **GitHub Actions**
-3. Speichern.
+2. *Build and deployment* → *Source*: **Deploy from a branch**
+3. Branch **`main`**, Ordner **`/docs`** → Speichern
 
-Ab dann veröffentlicht `.github/workflows/pages.yml` bei jedem Push auf `main`.
-Der Workflow kann diesen Schritt nicht selbst erledigen: `configure-pages` mit
-`enablement: true` scheitert an *„Resource not accessible by integration"* — der
-`GITHUB_TOKEN` darf eine Pages-Site nicht anlegen, nur eine bestehende bespielen.
+Fertig. Ab dann liefert GitHub bei jedem Push den Inhalt von `docs/` aus. Es läuft
+dabei **kein Build und kein Runner** — `docs/` enthält fertiges HTML/CSS/JS, eine
+`.nojekyll`-Datei sorgt dafür, dass GitHub nichts daran verändert.
 
-**Bei einem privaten Repository** setzt Pages einen bezahlten Plan voraus (Pro,
-Team oder Enterprise). Auf einem kostenlosen Konto muss das Repository öffentlich
-sein, damit Pages zur Verfügung steht.
+Das Repository muss dafür öffentlich sein, sonst verlangt Pages einen bezahlten
+Plan (Pro, Team oder Enterprise).
 
-### Was der Workflow tut
+### Warum kein GitHub-Actions-Workflow
 
-Er baut auf GitHub **nichts** — `docs/` enthält fertiges HTML/CSS/JS und wird
-unverändert hochgeladen. Vorgeschaltet ist aber ein Prüfjob, der abbricht bei:
+Es gab einen (`.github/workflows/pages.yml`), er ist wieder entfernt. Zwei Gründe:
+
+1. `actions/configure-pages` kann Pages nicht selbst aktivieren — der
+   `GITHUB_TOKEN` darf eine Pages-Site nicht anlegen (*„Resource not accessible by
+   integration"*). Der Handgriff in den Einstellungen blieb also ohnehin nötig.
+2. Der Prüfjob bekam anschließend keinen Runner zugeteilt und wurde nach 15
+   Minuten abgebrochen. Für ein Projekt, das nichts zu bauen hat, ist das
+   unnötige Abhängigkeit von fremder Infrastruktur.
+
+Die Prüfung, die der Workflow leistete, läuft jetzt lokal vor jedem Push.
+
+### Prüfung vor dem Push
+
+```bash
+git config core.hooksPath build/hooks   # einmalig je Klon
+```
+
+`build/hooks/pre-push` bricht den Push ab bei:
 
 - Lint-Fehlern in den Artikeln
 - einem `docs/`, das nicht zum aktuellen `content/` und `site/` passt
@@ -86,14 +102,7 @@ Der zweite Punkt funktioniert nur, weil der Generator deterministisch ist: gleic
 Eingabe, byte-gleiche Ausgabe. Deshalb ist die Streuung der botanischen Spezimen
 aus dem Slug abgeleitet und nicht zufällig.
 
-Eine `.nojekyll`-Datei wird mitgeneriert, damit GitHub die Dateien unverändert
-ausliefert.
-
-### Alternative ohne Actions
-
-Falls kein Workflow gewünscht ist: *Source* auf **Deploy from a branch**,
-Branch `main`, Ordner **`/docs`**. Dann entfällt die Prüfung, und ein vergessener
-Build fällt erst auf der Live-Seite auf.
+Notfalls umgehbar mit `git push --no-verify`.
 
 ---
 

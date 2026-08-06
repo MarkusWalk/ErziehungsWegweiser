@@ -1,0 +1,45 @@
+#!/bin/sh
+# Prüft vor jedem Push, was zuvor der CI-Job geprüft hat:
+#   1. Alle Artikel gegen die Autorenregeln (build/lint.mjs)
+#   2. docs/ auf Aktualität – ein vergessener Build würde sonst erst
+#      auf der Live-Seite auffallen
+#
+# Aktivieren (einmalig je Klon):
+#   git config core.hooksPath build/hooks
+#
+# Umgehen, wenn es sein muss:
+#   git push --no-verify
+
+set -e
+
+repo=$(git rev-parse --show-toplevel)
+cd "$repo"
+
+if ! command -v node >/dev/null 2>&1; then
+  echo "pre-push: node nicht gefunden – Prüfung übersprungen." >&2
+  exit 0
+fi
+
+printf 'pre-push: Artikel prüfen … '
+if ! out=$(node build/lint.mjs 2>&1); then
+  echo "FEHLER"
+  echo "$out" >&2
+  echo "" >&2
+  echo "Push abgebrochen. Beheben oder mit --no-verify erzwingen." >&2
+  exit 1
+fi
+echo "ok"
+
+printf 'pre-push: docs/ neu bauen … '
+node build/build.mjs --quiet
+if ! git diff --quiet -- docs; then
+  echo "ABWEICHUNG"
+  echo "" >&2
+  echo "docs/ war nicht auf dem Stand von content/ und site/." >&2
+  echo "Der Neubau ist jetzt im Arbeitsverzeichnis:" >&2
+  git diff --stat -- docs >&2
+  echo "" >&2
+  echo "Bitte mitcommitten und erneut pushen." >&2
+  exit 1
+fi
+echo "ok"
