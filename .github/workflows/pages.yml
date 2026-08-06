@@ -1,0 +1,72 @@
+name: Seite bauen und veröffentlichen
+
+# Liefert docs/ an GitHub Pages aus. Der Schritt "configure-pages" legt die
+# Pages-Site beim ersten Lauf selbst an (enablement), sofern die Repo-Rechte
+# das zulassen — dann muss in den Einstellungen nichts von Hand gesetzt werden.
+#
+# Bewusst kein Build auf der Seite von GitHub: docs/ enthält fertiges
+# HTML/CSS/JS. Der Job prüft stattdessen, ob docs/ zum aktuellen Inhalt passt,
+# und bricht ab, wenn jemand content/ geändert, aber nicht neu gebaut hat.
+
+on:
+  push:
+    branches: [main]
+  workflow_dispatch:
+
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+concurrency:
+  group: pages
+  cancel-in-progress: false
+
+jobs:
+  pruefen:
+    name: Inhalte prüfen
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+
+      - name: Artikel gegen die Autorenregeln prüfen
+        run: node build/lint.mjs
+
+      - name: docs/ auf Aktualität prüfen
+        run: |
+          node build/build.mjs --quiet
+          if ! git diff --quiet -- docs; then
+            echo "::error::docs/ ist nicht auf dem Stand von content/ und site/."
+            echo "Bitte 'node build/build.mjs' ausführen und das Ergebnis mitcommitten."
+            git diff --stat -- docs
+            exit 1
+          fi
+          echo "docs/ entspricht dem aktuellen Stand."
+
+  veroeffentlichen:
+    name: Veröffentlichen
+    needs: pruefen
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Pages einrichten
+        uses: actions/configure-pages@v5
+        with:
+          enablement: true
+
+      - name: docs/ hochladen
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: docs
+
+      - name: Ausliefern
+        id: deployment
+        uses: actions/deploy-pages@v4

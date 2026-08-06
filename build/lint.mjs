@@ -25,12 +25,18 @@ const CALLOUTS = new Set(['info', 'tip', 'warn', 'danger', 'myth']);
 const LEVELS = new Set(['stark', 'moderat', 'umstritten']);
 const FIGURES = new Set(['bar', 'range', 'share', 'line']);
 
+/* Entwürfe erscheinen nicht auf der Seite und werden deshalb nicht als
+   Fehler gewertet – sonst blockiert ein bewusst zurückgehaltener Artikel
+   die Auslieferung aller anderen. Sie werden aber immer gemeldet, damit
+   sie nicht in Vergessenheit geraten. --strict wertet sie mit. */
+const STRICT = process.argv.includes('--strict');
 const only = process.argv.slice(2).filter((a) => !a.startsWith('-'));
 const files = fs.readdirSync(DIR).filter((f) => f.endsWith('.json'))
   .filter((f) => !only.length || only.includes(f.replace(/\.json$/, '')));
 
 let errorCount = 0;
 let warnCount = 0;
+let draftCount = 0;
 const rows = [];
 
 for (const file of files) {
@@ -222,25 +228,40 @@ for (const file of files) {
   });
   if ((article.related || []).length < 2) warnings.push('weniger als 2 related-Verweise');
 
-  rows.push({ slug, words, sources: sources.length, evidence: counts.evidence || 0, errors: errors.length, warnings: warnings.length });
-  report(slug, errors, warnings);
+  const isDraft = Boolean(article.draft);
+  rows.push({
+    slug, words, isDraft,
+    sources: sources.length,
+    evidence: counts.evidence || 0,
+    errors: errors.length,
+    warnings: warnings.length,
+  });
+  report(slug, errors, warnings, isDraft);
 }
 
-function report(slug, errors, warnings) {
-  errorCount += errors.length;
-  warnCount += warnings.length;
+function report(slug, errors, warnings, isDraft) {
+  if (isDraft && !STRICT) {
+    draftCount++;
+  } else {
+    errorCount += errors.length;
+    warnCount += warnings.length;
+  }
   if (!errors.length && !warnings.length) return;
-  console.log(`\n  ${slug}`);
-  errors.forEach((e) => console.log(`    FEHLER   ${e}`));
+  console.log(`\n  ${slug}${isDraft ? '  (Entwurf, nicht veroeffentlicht)' : ''}`);
+  const label = isDraft && !STRICT ? 'offen    ' : 'FEHLER   ';
+  errors.forEach((e) => console.log(`    ${label}${e}`));
   warnings.forEach((w) => console.log(`    Hinweis  ${w}`));
 }
 
 console.log(`\n  ${'Artikel'.padEnd(34)} ${'Wörter'.padStart(7)} ${'Quellen'.padStart(8)} ${'Evidenz'.padStart(8)}  Status`);
 console.log(`  ${'-'.repeat(76)}`);
 for (const r of rows.sort((a, b) => a.slug.localeCompare(b.slug))) {
-  const status = r.errors ? `${r.errors} Fehler` : r.warnings ? `${r.warnings} Hinweise` : 'ok';
+  const status = r.isDraft && !STRICT
+    ? 'Entwurf'
+    : r.errors ? `${r.errors} Fehler` : r.warnings ? `${r.warnings} Hinweise` : 'ok';
   console.log(`  ${r.slug.padEnd(34)} ${String(r.words).padStart(7)} ${String(r.sources).padStart(8)} ${String(r.evidence).padStart(8)}  ${status}`);
 }
 
-console.log(`\n  ${rows.length} Artikel · ${errorCount} Fehler · ${warnCount} Hinweise\n`);
+const draftNote = draftCount ? ` · ${draftCount} Entwurf/Entwuerfe (nicht gewertet, --strict wertet mit)` : '';
+console.log(`\n  ${rows.length} Artikel · ${errorCount} Fehler · ${warnCount} Hinweise${draftNote}\n`);
 process.exit(errorCount ? 1 : 0);
