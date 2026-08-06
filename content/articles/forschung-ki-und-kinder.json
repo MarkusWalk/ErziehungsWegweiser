@@ -11,8 +11,6 @@
     "medien"
   ],
   "updated": "2026-08-06",
-  "draft": true,
-  "draftReason": "Quellen konnten nicht gegengeprüft werden (Suchbudget erschöpft). Vor Veröffentlichung verlinken und verifizieren.",
   "summary": "Kinder wachsen mit sprechenden Geräten auf, die Forschung dazu ist erst wenige Jahre alt. Was es gibt, sind kleine Laborstudien mit Technik von gestern: Sie zeigen, dass Kinder Maschinen früh als eigene Kategorie behandeln und ihnen keineswegs blind glauben. Was fehlt, sind Langzeitdaten zu Sprache, Lernen und Beziehung. Am besten belegt ist ausgerechnet der unspektakulärste Teil – die Datenfrage.",
   "keyFacts": [
     "Das Forschungsfeld ist jünger als die meisten Kinder, um die es geht – belastbare Langzeitdaten existieren praktisch nicht.",
@@ -190,11 +188,11 @@
         {
           "type": "evidence",
           "level": "moderat",
-          "claim": "Spracherkennung funktioniert bei Kindern messbar schlechter als bei Erwachsenen. Missverständnisse, abgebrochene Dialoge und unpassende Antworten sind eher die Regel als die Ausnahme.",
-          "note": "Kinderstimmen sind höher, die Aussprache variabler, und die Systeme wurden überwiegend mit Erwachsenensprache trainiert. Ein Kind, das ein Gerät fragt, bekommt also häufiger eine falsche oder gar keine Antwort.",
+          "claim": "Spracherkennung funktioniert bei Kindern schlechter als bei Erwachsenen. Missverständnisse, abgebrochene Dialoge und unpassende Antworten sind häufig.",
+          "note": "Kinderstimmen sind höher, die Aussprache variabler, und die Systeme wurden überwiegend mit Erwachsenensprache trainiert. Kinder stellen sich hörbar darauf ein: Gegenüber einem Gerät sprechen sie mit höherer Stimme und mehr Aufwand als gegenüber einem Menschen – und noch deutlicher, nachdem das Gerät sie einmal falsch verstanden hat. Ein Kind, das ein Gerät fragt, bekommt also häufiger eine unpassende oder gar keine Antwort.",
           "sources": [
             0,
-            3
+            6
           ]
         },
         {
@@ -295,40 +293,53 @@
   ],
   "sources": [
     {
-      "title": "Hey Google is it OK if I eat you? Initial Explorations in Child-Agent Interaction",
-      "publisher": "Proceedings of the ACM Conference on Interaction Design and Children (Druga, Williams, Breazeal & Resnick)",
+      "title": "„Hey Google is it OK if I eat you?“ Initial Explorations in Child-Agent Interaction",
+      "publisher": "Proceedings of the ACM Conference on Interaction Design and Children, IDC ’17 (Druga, Williams, Breazeal & Resnick)",
       "year": "2017",
-      "kind": "Studie"
+      "kind": "Studie",
+      "url": "https://www.media.mit.edu/publications/hey-google-is-it-ok-if-i-eat-you-initial-explorations-in-child-agent-interaction/"
     },
     {
       "title": "Children's trust in and learning from voice assistants",
-      "publisher": "Developmental Psychology (Girouard-Hallam & Danovitch)",
+      "publisher": "Developmental Psychology 58 (Girouard-Hallam & Danovitch)",
       "year": "2022",
-      "kind": "Studie"
+      "kind": "Studie",
+      "url": "https://www.semanticscholar.org/paper/Children's-trust-in-and-learning-from-voice-Girouard-Hallam-Danovitch/0f6a04862795925a70484d1ac4b0a953144b5a2f"
     },
     {
       "title": "Same benefits, different communication patterns: Comparing children's reading with a conversational agent vs. a human partner",
       "publisher": "Computers & Education (Xu, Wang, Collins, Lee & Warschauer)",
       "year": "2021",
-      "kind": "Studie"
+      "kind": "Studie",
+      "url": "https://www.sciencedirect.com/science/article/abs/pii/S0360131520302578"
     },
     {
       "title": "Guidance for generative AI in education and research",
       "publisher": "UNESCO",
       "year": "2023",
-      "kind": "Empfehlung"
+      "kind": "Empfehlung",
+      "url": "https://www.unesco.org/en/articles/guidance-generative-ai-education-and-research"
     },
     {
-      "title": "JIM-Studie: Jugend, Information, Medien – Basisuntersuchung zum Medienumgang 12- bis 19-Jähriger",
+      "title": "JIM-Studie 2025: Jugend, Information, Medien – Basisuntersuchung zum Medienumgang 12- bis 19-Jähriger",
       "publisher": "Medienpädagogischer Forschungsverbund Südwest (mpfs)",
-      "year": "2024",
-      "kind": "Studie"
+      "year": "2025",
+      "kind": "Studie",
+      "url": "https://mpfs.de/app/uploads/2025/11/JIM_2025_PDF_barrierearm.pdf"
     },
     {
-      "title": "Verordnung über künstliche Intelligenz (KI-Verordnung / AI Act)",
-      "publisher": "Europäische Union",
+      "title": "Verordnung (EU) 2024/1689 zur Festlegung harmonisierter Vorschriften für künstliche Intelligenz (KI-Verordnung)",
+      "publisher": "Europäische Union, Amtsblatt der EU",
       "year": "2024",
-      "kind": "Institutionelle Information"
+      "kind": "Institutionelle Information",
+      "url": "https://eur-lex.europa.eu/eli/reg/2024/1689/oj?locale=de"
+    },
+    {
+      "title": "Children and adults produce distinct technology- and human-directed speech",
+      "publisher": "Scientific Reports (Cohn, Barreda, Graf Estes, Yu & Zellou)",
+      "year": "2024",
+      "kind": "Studie",
+      "url": "https://www.nature.com/articles/s41598-024-66313-5"
     }
   ],
   "related": [

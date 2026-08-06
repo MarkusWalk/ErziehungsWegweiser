@@ -12,9 +12,7 @@
     "ernaehrung"
   ],
   "updated": "2026-08-06",
-  "draft": true,
-  "draftReason": "Quellen konnten nicht gegengeprüft werden (Suchbudget erschöpft). Vor Veröffentlichung verlinken und verifizieren.",
-  "summary": "Ultraverarbeitete Lebensmittel gelten inzwischen als Erklärung für fast alles. Die Datenlage ist gemischt: Der Zusammenhang mit ungünstigen Gesundheitsverläufen taucht in vielen Beobachtungsstudien auf, die meisten davon sind aber methodisch schwach. Die einzige gut kontrollierte Studie zum Mechanismus lief mit zwanzig Erwachsenen. Gut belegt ist etwas Unaufgeregteres: zu viel freier Zucker und die Wirkung von Werbung auf Kinder. Genau daran lässt sich zu Hause auch etwas ändern.",
+  "summary": "Ultraverarbeitete Lebensmittel gelten inzwischen als Erklärung für fast alles. Die Datenlage ist gemischt: Der Zusammenhang mit ungünstigen Gesundheitsverläufen taucht in vielen Beobachtungsstudien auf, die meisten davon sind aber methodisch schwach. Die bekannteste kontrollierte Studie zum Mechanismus lief mit zwanzig Erwachsenen. Gut belegt ist etwas Unaufgeregteres: zu viel freier Zucker und die Wirkung von Werbung auf Kinder. Genau daran lässt sich zu Hause auch etwas ändern.",
   "keyFacts": [
     "Ultraverarbeitet ist eine Kategorie über Herstellungsverfahren, nicht über Nährwerte – Vollkornbrot aus der Fabrik und Limonade landen in derselben Gruppe.",
     "Die meisten Befunde stammen aus Beobachtungsdaten und sind stark durch Lebensumstände mitbestimmt.",
@@ -85,10 +83,11 @@
         {
           "type": "evidence",
           "level": "moderat",
-          "claim": "Eine kontrollierte Studie legt nahe, dass ultraverarbeitete Kost zu höherer Kalorienaufnahme führt, auch wenn Nährstoffe angeglichen sind. Sie umfasste 20 Erwachsene über je zwei Wochen.",
-          "note": "Die Teilnehmenden aßen unter ultraverarbeiteter Kost etwa 500 Kilokalorien täglich mehr und nahmen rund ein Kilogramm zu; unter unverarbeiteter Kost verloren sie ähnlich viel. Das ist der beste Hinweis auf einen echten Mechanismus – vermutlich Energiedichte und Essgeschwindigkeit. Es ist aber eine sehr kleine Studie, unter Klinikbedingungen, ohne Kinder und ohne Wiederholung durch unabhängige Gruppen.",
+          "claim": "Kontrollierte Studien legen nahe, dass ultraverarbeitete Kost zu höherer Kalorienaufnahme führt, auch wenn Nährstoffe angeglichen sind. Die bekannteste umfasste 20 Erwachsene über je zwei Wochen.",
+          "note": "Die Teilnehmenden aßen unter ultraverarbeiteter Kost etwa 500 Kilokalorien täglich mehr und nahmen rund ein Kilogramm zu; unter unverarbeiteter Kost verloren sie ähnlich viel. Das ist der beste Hinweis auf einen echten Mechanismus – vermutlich Energiedichte und Essgeschwindigkeit. Es ist aber eine sehr kleine Studie unter Klinikbedingungen und ohne Kinder. Eine unabhängige Wiederholung mit 55 Erwachsenen in England, die 2025 erschien und beide Kostformen über je acht Wochen im Alltag prüfte, fand denselben Unterschied in dieselbe Richtung – deutlich kleiner allerdings, und über seine Auslegung wird in der Fachdebatte gestritten.",
           "sources": [
-            1
+            1,
+            7
           ]
         },
         {
@@ -230,45 +229,59 @@
   "sources": [
     {
       "title": "Ultra-processed foods: what they are and how to identify them",
-      "publisher": "Public Health Nutrition (Monteiro, Cannon, Levy et al.)",
+      "publisher": "Public Health Nutrition 22(5) (Monteiro, Cannon, Levy u. a.)",
       "year": "2019",
-      "kind": "Übersichtsarbeit"
+      "kind": "Übersichtsarbeit",
+      "url": "https://www.cambridge.org/core/journals/public-health-nutrition/article/ultraprocessed-foods-what-they-are-and-how-to-identify-them/E6D744D714B1FF09D5BCA3E74D53A185"
     },
     {
       "title": "Ultra-Processed Diets Cause Excess Calorie Intake and Weight Gain: An Inpatient Randomized Controlled Trial of Ad Libitum Food Intake",
-      "publisher": "Cell Metabolism (Hall et al.)",
+      "publisher": "Cell Metabolism 30(1) (Hall u. a.)",
       "year": "2019",
-      "kind": "Studie"
+      "kind": "Studie",
+      "url": "https://www.cell.com/cell-metabolism/fulltext/S1550-4131(19)30248-7"
     },
     {
       "title": "Ultra-processed food exposure and adverse health outcomes: umbrella review of epidemiological meta-analyses",
-      "publisher": "The BMJ (Lane et al.)",
+      "publisher": "The BMJ 384:e077310 (Lane u. a.)",
       "year": "2024",
-      "kind": "Übersichtsarbeit"
+      "kind": "Übersichtsarbeit",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/38418082/"
     },
     {
       "title": "Association Between Childhood Consumption of Ultraprocessed Food and Adiposity Trajectories in the Avon Longitudinal Study of Parents and Children Birth Cohort",
-      "publisher": "JAMA Pediatrics (Chang et al.)",
+      "publisher": "JAMA Pediatrics 175(9) (Chang u. a.)",
       "year": "2021",
-      "kind": "Studie"
+      "kind": "Studie",
+      "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8424476/"
     },
     {
       "title": "Guideline: Sugars intake for adults and children",
       "publisher": "World Health Organization",
       "year": "2015",
-      "kind": "Leitlinie"
+      "kind": "Leitlinie",
+      "url": "https://www.who.int/publications/i/item/9789241549028"
     },
     {
       "title": "Association of Food and Nonalcoholic Beverage Marketing With Children and Adolescents' Eating Behaviors and Health: A Systematic Review and Meta-analysis",
-      "publisher": "JAMA Pediatrics (Boyland et al.)",
+      "publisher": "JAMA Pediatrics 176(7) (Boyland u. a.)",
       "year": "2022",
-      "kind": "Metaanalyse"
+      "kind": "Metaanalyse",
+      "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9062773/"
     },
     {
-      "title": "Nutrient profile model for the WHO European Region: supporting the marketing of food and non-alcoholic beverages to children",
+      "title": "WHO Regional Office for Europe nutrient profile model: second edition",
       "publisher": "WHO Regional Office for Europe",
       "year": "2023",
-      "kind": "Empfehlung"
+      "kind": "Empfehlung",
+      "url": "https://www.who.int/europe/publications/i/item/WHO-EURO-2023-6894-46660-68492"
+    },
+    {
+      "title": "Ultraprocessed or minimally processed diets following healthy dietary guidelines on weight and cardiometabolic health: a randomized, crossover trial (UPDATE)",
+      "publisher": "Nature Medicine (Dicken u. a.)",
+      "year": "2025",
+      "kind": "Studie",
+      "url": "https://www.nature.com/articles/s41591-025-03842-0"
     }
   ],
   "related": [

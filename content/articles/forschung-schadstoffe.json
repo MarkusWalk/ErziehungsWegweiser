@@ -13,9 +13,7 @@
     "sicherheit"
   ],
   "updated": "2026-08-06",
-  "draft": true,
-  "draftReason": "Quellen konnten nicht gegengeprüft werden (Suchbudget erschöpft). Vor Veröffentlichung verlinken und verifizieren.",
-  "summary": "In Kindern lassen sich Weichmacher, Bisphenole und PFAS nachweisen – das ist unbestritten und heißt zunächst nur, dass die Messtechnik gut ist. Bei den regulierten Stoffen sind die Werte seit den 1990er-Jahren deutlich gesunken. Umstritten ist, ab welcher Menge etwas schadet: Bei Bisphenol A liegen europäische Behörden um den Faktor 20.000 auseinander. Für den Alltag folgt daraus eine kurze Liste wirksamer Maßnahmen – und eine lange Liste von Dingen, die vor allem Nerven kosten.",
+  "summary": "In Kindern lassen sich Weichmacher, Bisphenole und PFAS nachweisen – das ist unbestritten und heißt zunächst nur, dass die Messtechnik gut ist. Bei den regulierten Stoffen sind die Werte seit den 1990er-Jahren deutlich gesunken. Umstritten ist, ab welcher Menge etwas schadet: Bei Bisphenol A senkte die EFSA die tolerierbare Tagesdosis um den Faktor 20.000, während das BfR einen tausendfach höheren Wert für angemessen hält. Für den Alltag folgt daraus eine kurze Liste wirksamer Maßnahmen – und eine lange Liste von Dingen, die vor allem Nerven kosten.",
   "keyFacts": [
     "Nachweisbar ist nicht gleich schädlich – moderne Labore finden Nanogramm.",
     "Die Belastung mit regulierten Weichmachern ist in Deutschland seit den 1990er-Jahren deutlich gesunken.",
@@ -125,7 +123,7 @@
           "type": "evidence",
           "level": "umstritten",
           "claim": "Wie viel Bisphenol A tolerierbar ist, ist unter europäischen Behörden offen umstritten. Die EFSA senkte den Wert 2023 von 4 Mikrogramm auf 0,2 Nanogramm pro Kilogramm Körpergewicht und Tag – um den Faktor 20.000.",
-          "note": "Ausschlaggebend war die Bewertung von Effekten auf das Immunsystem in Tierversuchen. Das BfR hält diese Ableitung für nicht ausreichend begründet und sieht die zugrunde liegenden Befunde als nicht belastbar an; andere nationale Behörden argumentieren ähnlich. Praktisch heißt das: Nach der einen Bewertung überschreitet die Bevölkerung den Wert regelmäßig, nach der anderen nicht. Unabhängig vom Streit wird der Stoff in Lebensmittelkontakt schrittweise verboten.",
+          "note": "Ausschlaggebend war die Bewertung von Effekten auf das Immunsystem in Tierversuchen. Das BfR hält diese Ableitung für nicht ausreichend begründet und schlägt stattdessen einen Richtwert von 200 Nanogramm pro Kilogramm Körpergewicht und Tag vor – tausendfach höher als der EFSA-Wert und zwanzigfach niedriger als der alte. Andere nationale Behörden argumentieren ähnlich. Praktisch heißt das: Nach der einen Bewertung überschreitet die Bevölkerung den Wert regelmäßig, nach der anderen nicht. Unabhängig vom Streit wird der Stoff in Lebensmittelkontakt schrittweise verboten.",
           "sources": [
             0,
             1
@@ -147,10 +145,10 @@
           "type": "evidence",
           "level": "stark",
           "claim": "Die Belastung mit den regulierten Weichmachern ist in Deutschland seit den 1990er-Jahren deutlich zurückgegangen. Regulierung wirkt messbar.",
-          "note": "Belegt durch langjähriges Human-Biomonitoring an denselben Stellen und in denselben Altersgruppen. Das ist die wichtigste gute Nachricht dieses Themenfelds – und ein Argument dafür, Regulierung ernster zu nehmen als individuelle Vermeidungsstrategien.",
+          "note": "Belegt durch langjähriges Human-Biomonitoring an denselben Stellen und in denselben Altersgruppen: Die Umweltprobenbank des Bundes untersucht seit 1988 jährlich Urinproben junger Erwachsener, und die Werte des am längsten regulierten Weichmachers DEHP sinken dort seit Ende der 1990er-Jahre kontinuierlich. Das ist die wichtigste gute Nachricht dieses Themenfelds – und ein Argument dafür, Regulierung ernster zu nehmen als individuelle Vermeidungsstrategien. Der Haken: Bei einigen Ersatzweichmachern fällt der Rückgang deutlich schwächer aus.",
           "sources": [
             3,
-            5
+            7
           ]
         },
         {
@@ -279,45 +277,57 @@
   "sources": [
     {
       "title": "Re-evaluation of the risks to public health related to the presence of bisphenol A (BPA) in foodstuffs",
-      "publisher": "European Food Safety Authority (EFSA), EFSA Journal",
+      "publisher": "European Food Safety Authority (EFSA), EFSA Journal 21(4):6857",
       "year": "2023",
-      "kind": "Übersichtsarbeit"
+      "kind": "Übersichtsarbeit",
+      "url": "https://efsa.onlinelibrary.wiley.com/doi/10.2903/j.efsa.2023.6857"
     },
     {
-      "title": "Stellungnahme zur Neubewertung von Bisphenol A durch die EFSA",
+      "title": "Bisphenol A: BfR schlägt gesundheitsbasierten Richtwert vor (Stellungnahme Nr. 018/2023)",
       "publisher": "Bundesinstitut für Risikobewertung (BfR)",
       "year": "2023",
-      "kind": "Institutionelle Information"
+      "kind": "Institutionelle Information",
+      "url": "https://www.bfr.bund.de/cm/343/bisphenol-a-bfr-schlaegt-gesundheitsbasierten-richtwert-vor-fuer-eine-vollstaendige-risikobewertung-werden-aktuelle-expositionsdaten-benoetigt.pdf"
     },
     {
       "title": "Risk to human health related to the presence of perfluoroalkyl substances in food",
-      "publisher": "European Food Safety Authority (EFSA), EFSA Journal",
+      "publisher": "European Food Safety Authority (EFSA), EFSA Journal 18(9):6223",
       "year": "2020",
-      "kind": "Übersichtsarbeit"
+      "kind": "Übersichtsarbeit",
+      "url": "https://efsa.onlinelibrary.wiley.com/doi/10.2903/j.efsa.2020.6223"
     },
     {
-      "title": "Deutsche Umweltstudie zur Gesundheit (GerES V) – Human-Biomonitoring bei Kindern und Jugendlichen",
-      "publisher": "Umweltbundesamt / Robert Koch-Institut",
-      "year": "2019",
-      "kind": "Institutionelle Information"
+      "title": "Deutsche Umweltstudie zur Gesundheit von Kindern und Jugendlichen 2014–2017 (GerES V) – Teil 1: Human-Biomonitoring",
+      "publisher": "Umweltbundesamt, Reihe Umwelt & Gesundheit",
+      "year": "2023",
+      "kind": "Institutionelle Information",
+      "url": "https://www.umweltbundesamt.de/publikationen/deutsche-umweltstudie-zur-gesundheit-von-kindern-0"
     },
     {
       "title": "Microplastic release from the degradation of polypropylene feeding bottles during infant formula preparation",
-      "publisher": "Nature Food (Li, Shi, Yang et al.)",
+      "publisher": "Nature Food (Li, Shi, Yang u. a.)",
       "year": "2020",
-      "kind": "Studie"
+      "kind": "Studie",
+      "url": "https://www.nature.com/articles/s43016-020-00171-y"
     },
     {
-      "title": "Human-Biomonitoring-Werte (HBM-I und HBM-II) der Kommission Human-Biomonitoring",
+      "title": "HBM-Werte – Beurteilungswerte der Kommission Human-Biomonitoring (HBM-I und HBM-II)",
       "publisher": "Umweltbundesamt",
-      "year": "2024",
-      "kind": "Empfehlung"
+      "kind": "Empfehlung",
+      "url": "https://www.umweltbundesamt.de/themen/gesundheit/kommissionen-arbeitsgruppen/kommission-human-biomonitoring/hbm-werte-beurteilungswerte-der-hbm-kommission"
     },
     {
-      "title": "REACH-Verordnung, Anhang XVII: Beschränkungen für Phthalate in Spielzeug und Babyartikeln",
-      "publisher": "Europäische Union",
-      "year": "2023",
-      "kind": "Institutionelle Information"
+      "title": "Anhang XVII der REACH-Verordnung: Beschränkungen, u. a. für Phthalate in Spielzeug und Babyartikeln (Einträge 51 und 52)",
+      "publisher": "Europäische Union / REACH-CLP-Biozid-Helpdesk der BAuA",
+      "year": "Stand 2025",
+      "kind": "Institutionelle Information",
+      "url": "https://www.reach-clp-biozid-helpdesk.de/DE/REACH/Verfahren/Beschraenkungsverfahren/Anhang-XVII-Beschraenkungen"
+    },
+    {
+      "title": "Phthalate in Humanproben – Zeitreihen der Weichmacherbelastung seit 1988",
+      "publisher": "Umweltprobenbank des Bundes / Umweltbundesamt",
+      "kind": "Institutionelle Information",
+      "url": "https://www.umweltprobenbank.de/de/documents/selected_results/16425"
     }
   ],
   "related": [
