@@ -1,0 +1,38 @@
+<!-- @dsCard group="Components" viewport="760x420" name="Botanical" subtitle="SpecimenGlyph, SpecimenScatter, Paper — period cutouts strung along a letterform, on aged paper grounds" -->
+<link rel="stylesheet" href="../styles.css">
+<script src="https://unpkg.com/react@18.3.1/umd/react.development.js" integrity="sha384-hD6/rw4ppMLGNu3tX5cjIb+uRZ7UkRJ6BPkLpg4hAu/6onKUg4lLsHAs9EBPT82L" crossorigin="anonymous"></script>
+<script src="https://unpkg.com/react-dom@18.3.1/umd/react-dom.development.js" integrity="sha384-u6aeetuaXnQ38mYT8rp6sbXaQe3NL9t+IBXmnYxwkUI2Hw4bsp2Wvmx4yRQF1uAm" crossorigin="anonymous"></script>
+<script src="https://unpkg.com/@babel/standalone@7.29.0/babel.min.js" integrity="sha384-m08KidiNqLdpJqLq95G/LEi8Qvjl/xUYll3QILypMoQ65QorJ9Lvtp2RXYGBFj1y" crossorigin="anonymous"></script>
+<script>window.ITM_BOTANICAL_BASE = '../assets/botanical/';</script>
+<script src="../_ds_bundle.js"></script>
+<style>body{margin:0;padding:22px;box-sizing:border-box;background:var(--surface-card);font-family:var(--font-sans)}
+#root{display:grid;grid-template-columns:1fr 1fr;gap:18px}
+.lbl{font-family:var(--font-mono);font-size:9px;letter-spacing:.1em;text-transform:uppercase;color:var(--paper-ink-muted)}
+</style>
+<div id="root"></div>
+<script type="text/babel">
+const { SpecimenGlyph, SpecimenScatter, Paper } = window.ITM2627DesignSystem_930e09;
+function Demo(){return(<>
+  <Paper tone="sage" radius={14} style={{display:'grid',placeItems:'center',padding:16,height:340,boxSizing:'border-box',position:'relative'}}>
+    <SpecimenGlyph glyph="5" size={250} count={13} />
+    <span className="lbl" style={{position:'absolute',left:14,bottom:12}}>SpecimenGlyph · paper sage</span>
+  </Paper>
+  <div style={{display:'grid',gridTemplateRows:'1fr 1fr',gap:18}}>
+    <Paper tone="cream" radius={14} style={{padding:18,boxSizing:'border-box'}}>
+      <SpecimenScatter count={5} size={130} opacity={0.22} />
+      <div style={{position:'relative'}}>
+        <div className="lbl" style={{marginBottom:8}}>SpecimenScatter · paper cream</div>
+        <div style={{fontFamily:'var(--font-display)',fontSize:26,lineHeight:1.1,letterSpacing:'-0.02em'}}>Trust in automation</div>
+        <p style={{margin:'8px 0 0',fontSize:12,color:'var(--paper-ink-muted)',maxWidth:'22ch'}}>Specimens drift behind the column, never inside it.</p>
+      </div>
+    </Paper>
+    <Paper tone="tan" radius={14} style={{padding:18,boxSizing:'border-box',display:'flex',gap:14,alignItems:'center'}}>
+      <SpecimenGlyph glyph="I" size={92} count={6} families={['leaf']} />
+      <SpecimenGlyph glyph="T" size={92} count={6} families={['sprig']} />
+      <SpecimenGlyph glyph="M" size={92} count={8} families={['wing']} />
+      <span className="lbl">I · T · M<br />paper tan</span>
+    </Paper>
+  </div>
+</>);}
+ReactDOM.createRoot(document.getElementById('root')).render(<Demo />);
+</script>

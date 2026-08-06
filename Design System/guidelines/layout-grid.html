@@ -1,0 +1,12 @@
+<!-- @dsCard group="Layout" viewport="760x260" name="Grid & Measure" subtitle="12 columns · 24px gutters · 68ch reading measure" -->
+<link rel="stylesheet" href="../styles.css">
+<style>body{margin:0;padding:24px;box-sizing:border-box;background:var(--surface-card);font-family:var(--font-sans);color:var(--text-primary)}
+.lbl{font-size:10px;font-weight:600;letter-spacing:.12em;text-transform:uppercase;color:var(--text-faint)}
+.mono{font-family:var(--font-mono);font-size:11px;color:var(--text-faint)}</style>
+<div style="display:grid;grid-template-columns:repeat(12,1fr);gap:8px;height:70px">
+<div style="background:var(--coral-100);border-radius:5px"></div><div style="background:var(--coral-100);border-radius:5px"></div><div style="background:var(--coral-100);border-radius:5px"></div><div style="background:var(--coral-100);border-radius:5px"></div><div style="background:var(--coral-100);border-radius:5px"></div><div style="background:var(--coral-100);border-radius:5px"></div><div style="background:var(--coral-100);border-radius:5px"></div><div style="background:var(--coral-100);border-radius:5px"></div><div style="background:var(--coral-100);border-radius:5px"></div><div style="background:var(--coral-100);border-radius:5px"></div><div style="background:var(--coral-100);border-radius:5px"></div><div style="background:var(--coral-100);border-radius:5px"></div>
+</div>
+<div style="margin-top:20px;display:grid;grid-template-columns:repeat(4,1fr);gap:18px;font-size:12px">
+<div><div class="mono">--container-sm</div><div style="font-weight:600;margin:3px 0">640px</div><div style="color:var(--text-muted)">forms, dialogs</div></div><div><div class="mono">--container-md</div><div style="font-weight:600;margin:3px 0">880px</div><div style="color:var(--text-muted)">articles, docs</div></div><div><div class="mono">--container-lg</div><div style="font-weight:600;margin:3px 0">1120px</div><div style="color:var(--text-muted)">app shells</div></div><div><div class="mono">--container-xl</div><div style="font-weight:600;margin:3px 0">1360px</div><div style="color:var(--text-muted)">dashboards</div></div>
+</div>
+<div style="margin-top:18px;padding:14px 16px;background:var(--surface-warm);border-radius:12px;font-size:13px;line-height:1.55;color:var(--text-secondary);max-width:68ch">Long-form text never runs wider than <span class="mono">--measure</span> (68 characters), whatever the container does. Breakpoints: 640 / 900 / 1200 / 1536.</div>

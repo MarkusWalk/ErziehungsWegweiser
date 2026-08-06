@@ -1,0 +1,37 @@
+:root {
+  /* Spacing — 4px base grid, derived from the deck's EMU rhythm */
+  --space-0: 0px;
+  --space-1: 4px;
+  --space-2: 8px;
+  --space-3: 12px;
+  --space-4: 16px;
+  --space-5: 24px;
+  --space-6: 32px;
+  --space-7: 48px;
+  --space-8: 64px;
+  --space-9: 96px;
+  --space-10: 128px;
+  --space-11: 160px;
+
+  /* Corner radii — two languages: badges/orbs are circular, containers
+     are gently rounded. Never mix the two on one element family. */
+  --radius-xs: 4px;
+  --radius-sm: 8px;
+  --radius-md: 12px;
+  --radius-lg: 16px;
+  --radius-xl: 24px;
+  --radius-2xl: 32px;
+  --radius-pill: 999px;
+  --radius-circle: 50%;
+
+  /* Control heights — keeps buttons, inputs and selects aligned */
+  --control-sm: 32px;
+  --control-md: 40px;
+  --control-lg: 48px;
+
+  /* Stroke weights */
+  --stroke-hairline: 1px;
+  --stroke-regular: 1.5px;
+  --stroke-icon: 1.75px;
+  --stroke-heavy: 3px;
+}

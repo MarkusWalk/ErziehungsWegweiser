@@ -1,0 +1,62 @@
+:root {
+  /* ============================================================
+     ITM 2627 — Typography
+     Bricolage Grotesque (display) sets the warm, slightly organic
+     voice; Instrument Sans (text) keeps UI copy neutral and legible.
+     Arial remains the presentation-software fallback so decks
+     exported to PowerPoint degrade predictably.
+     ============================================================ */
+  --font-display: "Bricolage Grotesque", "Instrument Sans", Arial, sans-serif;
+  --font-sans: "Instrument Sans", "Helvetica Neue", Arial, sans-serif;
+  --font-mono: "JetBrains Mono", ui-monospace, "SF Mono", Menlo, monospace;
+
+  /* ---- Interface scale (1.25 major-third, 16px base) ---- */
+  --text-2xs: 11px;
+  --text-xs: 12px;
+  --text-sm: 14px;
+  --text-base: 16px;
+  --text-md: 18px;
+  --text-lg: 20px;
+  --text-xl: 24px;
+  --text-2xl: 30px;
+  --text-3xl: 38px;
+  --text-4xl: 48px;
+
+  /* ---- Slide scale (1920x1080 canvas) ---- */
+  --slide-display: 120px;   /* hero numerals, "10 Trends" */
+  --slide-h1: 72px;
+  --slide-h2: 56px;
+  --slide-h3: 44px;
+  --slide-h4: 32px;
+  --slide-lead: 30px;
+  --slide-body: 22px;
+  --slide-caption: 18px;
+  --slide-eyebrow: 22px;
+
+  /* ---- Legacy aliases (kept so existing decks/components don't break) ---- */
+  --text-display: var(--slide-display);
+  --text-h1: var(--slide-h1);
+  --text-h2: var(--slide-h3);
+  --text-h3: var(--slide-h4);
+  --text-body-lg: var(--text-xl);
+  --text-body: var(--text-lg);
+  --text-small: var(--text-base);
+  --text-micro: var(--text-sm);
+
+  --leading-tight: 1.06;
+  --leading-snug: 1.22;
+  --leading-normal: 1.5;
+  --leading-loose: 1.7;
+
+  --weight-regular: 400;
+  --weight-medium: 500;
+  --weight-semibold: 600;
+  --weight-bold: 700;
+  --weight-black: 800;
+
+  --tracking-tighter: -0.028em;  /* display sizes 56px+ */
+  --tracking-tight: -0.015em;    /* headings 24-48px */
+  --tracking-normal: 0;
+  --tracking-wide: 0.06em;
+  --tracking-eyebrow: 0.12em;    /* uppercase section labels */
+}

@@ -1,0 +1,21 @@
+@import url('https://fonts.googleapis.com/css2?family=Bricolage+Grotesque:wght@400..800&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Instrument+Sans:wght@400..700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@400..600&display=swap');
+@import "tokens/colors.css";
+@import "tokens/typography.css";
+@import "tokens/spacing.css";
+@import "tokens/elevation.css";
+@import "tokens/motion.css";
+@import "tokens/layout.css";
+@import "tokens/effects.css";
+@import "tokens/paper.css";
+
+/* ---- Base ---- */
+html{-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing:grayscale}
+body{font-family:var(--font-sans);color:var(--text-primary);background:var(--surface-page);font-size:var(--text-base);line-height:var(--leading-normal)}
+h1,h2,h3,h4{font-family:var(--font-display);font-weight:var(--weight-semibold);line-height:var(--leading-tight);letter-spacing:var(--tracking-tight);margin:0}
+a{color:var(--link-color);text-decoration:underline;text-underline-offset:2px;text-decoration-thickness:1px;transition:color var(--duration-fast) var(--ease-standard)}
+a:hover{color:var(--link-color-hover)}
+code,kbd,pre{font-family:var(--font-mono);font-size:0.925em}
+::selection{background:var(--coral-100);color:var(--ink-900)}
+:focus-visible{outline:var(--focus-ring-width) solid var(--focus-ring-color);outline-offset:var(--focus-ring-offset)}
