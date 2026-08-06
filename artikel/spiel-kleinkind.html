@@ -1,0 +1,515 @@
+<!DOCTYPE html>
+<html lang="de" data-theme="auto" data-root="../">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>Freies Spiel im Kleinkindalter · Erziehungswegweiser</title>
+<meta name="description" content="Freies Spiel ist im Kleinkindalter der Normalfall und nicht die Restzeit zwischen Förderangeboten. Es entwickelt sich in einer erkennbaren Reihenfolge – vom Ausprobieren über das So-tun-als-ob bis zum Bauen und später zum Regelspiel – und ebenso wächst die soziale Beteiligung schrittweise vom Zuschauen über das Nebeneinander bis zum echten Miteinander. Eltern brauchen dafür vor allem drei Dinge: Zeit ohne Programm, weniger Spielsachen gleichzeitig und die Bereitschaft, sich nicht dauernd einzumischen.">
+<meta name="color-scheme" content="light dark">
+<meta property="og:type" content="article">
+<meta property="og:title" content="Freies Spiel im Kleinkindalter">
+<meta property="og:description" content="Freies Spiel ist im Kleinkindalter der Normalfall und nicht die Restzeit zwischen Förderangeboten. Es entwickelt sich in einer erkennbaren Reihenfolge – vom Ausprobieren über das So-tun-als-ob bis zum Bauen und später zum Regelspiel – und ebenso wächst die soziale Beteiligung schrittweise vom Zuschauen über das Nebeneinander bis zum echten Miteinander. Eltern brauchen dafür vor allem drei Dinge: Zeit ohne Programm, weniger Spielsachen gleichzeitig und die Bereitschaft, sich nicht dauernd einzumischen.">
+<meta property="og:site_name" content="Erziehungswegweiser">
+<link rel="canonical" href="">
+<link rel="icon" href="../assets/img/favicon.svg" type="image/svg+xml">
+<link rel="stylesheet" href="../assets/css/tokens.css">
+<link rel="stylesheet" href="../assets/css/base.css">
+<link rel="stylesheet" href="../assets/css/components.css">
+<link rel="stylesheet" href="../assets/css/layout.css">
+<script>
+  /* Theme, Lesemodus und Schriftgröße vor dem ersten Paint setzen,
+     damit kein Aufblitzen des falschen Modus entsteht. */
+  (function () {
+    try {
+      var s = JSON.parse(localStorage.getItem('ew:prefs') || '{}');
+      var r = document.documentElement;
+      var theme = s.theme || 'auto';
+      if (theme === 'auto') {
+        theme = matchMedia('(prefers-color-scheme: dark)').matches ? 'dark' : 'light';
+      }
+      r.setAttribute('data-theme', theme);
+      if (s.reading) r.setAttribute('data-reading', 'on');
+      if (s.textsize) r.setAttribute('data-textsize', s.textsize);
+    } catch (e) {}
+  })();
+</script>
+<script type="application/ld+json">{"@context":"https://schema.org","@type":"Article","headline":"Freies Spiel im Kleinkindalter","description":"Freies Spiel ist im Kleinkindalter der Normalfall und nicht die Restzeit zwischen Förderangeboten. Es entwickelt sich in einer erkennbaren Reihenfolge – vom Ausprobieren über das So-tun-als-ob bis zum Bauen und später zum Regelspiel – und ebenso wächst die soziale Beteiligung schrittweise vom Zuschauen über das Nebeneinander bis zum echten Miteinander. Eltern brauchen dafür vor allem drei Dinge: Zeit ohne Programm, weniger Spielsachen gleichzeitig und die Bereitschaft, sich nicht dauernd einzumischen.","inLanguage":"de","dateModified":"2026-08-05","isAccessibleForFree":true,"publisher":{"@type":"Organization","name":"Erziehungswegweiser"}}</script>
+</head>
+<body class="page page--article" data-root="../">
+<a class="skip-link" href="#inhalt">Zum Inhalt springen</a>
+
+
+<header class="site-header" data-header>
+  <div class="site-header__inner">
+    <a class="brand" href="../index.html">
+      <span class="brand__mark" aria-hidden="true"></span>
+      <span class="brand__text">
+        <span class="brand__name">Erziehungswegweiser</span>
+        <span class="brand__tagline">Wissenschaftlich fundiert durch die ersten Jahre</span>
+      </span>
+    </a>
+
+    <nav class="site-nav" aria-label="Hauptnavigation">
+      <ul class="site-nav__list">
+        <li><a class="site-nav__link" href="../alter/">Nach Alter</a></li><li><a class="site-nav__link" href="../themen/">Nach Thema</a></li><li><a class="site-nav__link is-current" href="../artikel/" aria-current="page">Alle Artikel</a></li><li><a class="site-nav__link" href="../notfall.html">Notfall</a></li><li><a class="site-nav__link" href="../ueber.html">Über</a></li>
+      </ul>
+    </nav>
+
+    <div class="site-header__actions">
+      <button class="icon-btn" type="button" data-open-search aria-label="Suche öffnen" title="Suchen (S)">
+        <svg class="icon " viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><circle cx="11" cy="11" r="7"/><path d="m20 20-3.5-3.5"/></svg>
+      </button>
+      <button class="icon-btn" type="button" data-open-settings aria-label="Darstellung und Einstellungen" title="Darstellung">
+        <svg class="icon " viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M4 8h10M18 8h2M4 16h4M12 16h8"/><circle cx="16" cy="8" r="2"/><circle cx="10" cy="16" r="2"/></svg>
+      </button>
+      <button class="icon-btn icon-btn--menu" type="button" data-open-menu aria-label="Menü öffnen" aria-expanded="false">
+        <svg class="icon " viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M4 7h16M4 12h16M4 17h16"/></svg>
+      </button>
+    </div>
+  </div>
+  <div class="site-progress" data-progress aria-hidden="true"><span></span></div>
+</header>
+
+<main id="inhalt" class="main">
+
+<article class="article" data-article
+  data-phases="kleinkind"
+  data-topics="spiel entwicklung">
+
+  <header class="article__header">
+    <div class="wrap wrap--narrow">
+      <nav class="breadcrumb" aria-label="Pfad">
+        <a href="../index.html">Start</a>
+        <span aria-hidden="true">/</span><a href="../themen/spiel.html">Spiel &amp; Lernen</a>
+      </nav>
+
+      <h1 class="article__title">Freies Spiel im Kleinkindalter</h1>
+      <p class="article__subtitle">Welche Spielformen sich in welcher Reihenfolge entwickeln, warum Kinder nebeneinander spielen bevor sie miteinander spielen – und warum das Beste, was Erwachsene beitragen können, oft Zurückhaltung ist.</p>
+
+      <div class="article__meta">
+        <span class="meta-item"><svg class="icon " viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><circle cx="12" cy="12" r="9"/><path d="M12 7v5l3 2"/></svg> 5 Min. Lesezeit</span>
+        <span class="meta-item">Stand: 5. August 2026</span>
+        <span class="meta-item">7 Quellen</span>
+      </div>
+
+      <div class="article__tags">
+        <a class="tag tag--phase-4" href="../alter/kleinkind.html">Kleinkind</a>
+        <a class="tag" href="../themen/spiel.html">Spiel &amp; Lernen</a><a class="tag" href="../themen/entwicklung.html">Entwicklung &amp; Meilensteine</a>
+      </div>
+    </div>
+  </header>
+
+  
+<div class="wrap wrap--narrow">
+  <div class="summary">
+    <p class="summary__label">Das Wichtigste in Kürze</p>
+    <p class="summary__text">Freies Spiel ist im Kleinkindalter der Normalfall und nicht die Restzeit zwischen Förderangeboten. Es entwickelt sich in einer erkennbaren Reihenfolge – vom Ausprobieren über das So-tun-als-ob bis zum Bauen und später zum Regelspiel – und ebenso wächst die soziale Beteiligung schrittweise vom Zuschauen über das Nebeneinander bis zum echten Miteinander. Eltern brauchen dafür vor allem drei Dinge: Zeit ohne Programm, weniger Spielsachen gleichzeitig und die Bereitschaft, sich nicht dauernd einzumischen.</p>
+    <ul class="summary__facts"><li>Parallelspiel – nebeneinander, nicht miteinander – ist mit zwei bis drei Jahren völlig normal.</li><li>Spielformen lösen einander nicht ab, sie kommen dazu und mischen sich.</li><li>Vier statt sechzehn Spielsachen führten in einer Studie zu etwa doppelt so langem Spiel pro Gegenstand.</li><li>Erwachsene, die das Spiel übernehmen, beenden es oft ungewollt.</li><li>Freies Spiel muss nicht besonders sein: Küchenschrank, Kartons und Draußen reichen.</li></ul>
+  </div>
+</div>
+
+  <div class="article__layout wrap">
+    
+<aside class="toc" aria-label="Inhaltsverzeichnis">
+  <p class="toc__title">Inhalt</p>
+  <ol class="toc__list">
+    <li><a href="#warum-freies-spiel-der-standard-ist" data-toc-link>Warum freies Spiel der Standard ist</a></li><li><a href="#die-spielformen-und-ihre-reihenfolge" data-toc-link>Die Spielformen und ihre Reihenfolge</a></li><li><a href="#nebeneinander-ist-schon-miteinander" data-toc-link>Nebeneinander ist schon Miteinander</a></li><li><a href="#weniger-spielzeug-tieferes-spiel" data-toc-link>Weniger Spielzeug, tieferes Spiel</a></li><li><a href="#langeweile-aushalten" data-toc-link>Langeweile aushalten</a></li><li><a href="#wie-viel-anleitung-wirklich-noetig-ist" data-toc-link>Wie viel Anleitung wirklich nötig ist</a></li><li><a href="#haeufige-fragen" data-toc-link>Häufige Fragen</a></li>
+  </ol>
+</aside>
+    <div class="article__body">
+      <p class="c-p c-p--lead">Zwischen ein und drei Jahren ist Spiel keine Freizeit, sondern die Hauptbeschäftigung. Dein Kind sortiert darin, was es erlebt hat, übt Bewegungen, probiert Rollen und testet, wie die Welt reagiert. Das Erstaunliche daran: Es funktioniert am besten, wenn niemand es plant.</p>
+
+<section class="c-section" id="warum-freies-spiel-der-standard-ist">
+  <h2 class="c-section__title">
+    <a class="c-section__anchor" href="#warum-freies-spiel-der-standard-ist" aria-label="Direktlink zu diesem Abschnitt">#</a>
+    Warum freies Spiel der Standard ist
+  </h2>
+  <p class="c-p">Freies Spiel heißt: Dein Kind entscheidet, was gespielt wird, wie lange und mit wem. Es gibt kein Ergebnis, das erreicht werden muss, und keine Anleitung, der gefolgt wird. Das ist der Unterschied zu einem Kurs, einem Bastelangebot oder einem Lernspiel – nichts davon ist schlecht, aber nichts davon ersetzt das freie Spiel.</p>
+
+<div class="c-evidence c-evidence--stark">
+  <p class="c-evidence__badge">
+    <span class="c-evidence__dot" aria-hidden="true"></span>
+    <span class="c-evidence__label">Gut belegt</span>
+  </p>
+  <p class="c-evidence__claim">Selbstbestimmtes Spiel fördert Sprache, Problemlösen, soziale Fertigkeiten und die Fähigkeit, Impulse zu steuern. Es gilt fachlich als eigenständiger Entwicklungs- und Gesundheitsfaktor, nicht als Zeitvertreib.</p>
+  <p class="c-evidence__note">Die Kinderärztegesellschaften stellen sich damit ausdrücklich gegen den Trend, frühe Kindheit zu verschulen. Für den Alltag zu Hause heißt das: Ein Nachmittag ohne Plan ist kein verpasster Nachmittag. Wichtiger als das Angebot ist, dass genug ungestörte Zeit übrig bleibt.</p>
+  <p class="c-evidence__refs">Belege: <a class="c-ref" href="#quelle-1" title="The Power of Play: A Pediatric Role in Enhancing Development in Young Children">[1]</a> <a class="c-ref" href="#quelle-4" title="Spielen ist gesund!">[4]</a></p>
+</div>
+
+<aside class="c-callout c-callout--tip" role="note">
+  <p class="c-callout__title">Drei Sätze, die das Spiel offen halten</p>
+  <div class="c-callout__body"><ul class="c-list c-list--bullet"><li>„Erzähl mal, was passiert hier gerade.“ statt „Was baust du da?“</li><li>„Hm, das ist umgefallen.“ statt sofort wieder aufbauen.</li><li>„Ich setz mich dazu.“ statt einzusteigen und die Regie zu übernehmen.</li></ul></div>
+</aside>
+</section>
+
+<section class="c-section" id="die-spielformen-und-ihre-reihenfolge">
+  <h2 class="c-section__title">
+    <a class="c-section__anchor" href="#die-spielformen-und-ihre-reihenfolge" aria-label="Direktlink zu diesem Abschnitt">#</a>
+    Die Spielformen und ihre Reihenfolge
+  </h2>
+  <p class="c-p">Spiel entwickelt sich in einer relativ verlässlichen Abfolge, die auf Beobachtungen von Jean Piaget zurückgeht. Wichtig ist: Eine Form löst die vorherige nicht ab. Sie kommt dazu. Ein Vierjähriger, der ein Bauwerk errichtet, wirft es zwischendurch trotzdem mit Genuss wieder um.</p>
+
+<div class="c-timeline">
+  <h4 class="c-timeline__heading">Wie sich das Spiel aufbaut</h4>
+  <ol class="c-timeline__list">
+      <li class="c-timeline__item">
+        <span class="c-timeline__age">ab Geburt</span>
+        <div class="c-timeline__body">
+          <h4 class="c-timeline__label">Funktionsspiel</h4>
+          <p>Auch Übungsspiel genannt: schütteln, klopfen, stapeln, umwerfen, ein- und ausräumen. Die Handlung selbst ist der Zweck. Bleibt das ganze Kleinkindalter hindurch wichtig.</p>
+        </div>
+      </li>
+      <li class="c-timeline__item">
+        <span class="c-timeline__age">ab etwa 18 Monaten</span>
+        <div class="c-timeline__body">
+          <h4 class="c-timeline__label">Symbolspiel</h4>
+          <p>Ein Bauklotz wird zum Telefon, der Löffel zum Mikrofon, die Puppe bekommt Fieber. Als-ob-Spiel hängt eng mit der Sprachentwicklung zusammen – beides braucht die Fähigkeit, etwas für etwas anderes stehen zu lassen.</p>
+        </div>
+      </li>
+      <li class="c-timeline__item">
+        <span class="c-timeline__age">ab etwa 3 Jahren</span>
+        <div class="c-timeline__body">
+          <h4 class="c-timeline__label">Konstruktionsspiel</h4>
+          <p>Jetzt soll etwas entstehen: ein Turm, eine Garage, ein Bild. Das Ergebnis rückt in den Blick, und damit auch die Frustration, wenn es nicht gelingt.</p>
+        </div>
+      </li>
+      <li class="c-timeline__item">
+        <span class="c-timeline__age">ab etwa 4–5 Jahren</span>
+        <div class="c-timeline__body">
+          <h4 class="c-timeline__label">Erste Regelspiele</h4>
+          <p>Abwarten, Reihenfolge einhalten, verlieren aushalten. Am Anfang werden Regeln großzügig ausgelegt und laufend zum eigenen Vorteil geändert – das ist Teil des Lernprozesses, kein Schummeln.</p>
+        </div>
+      </li></ol>
+  <p class="c-caption">Reihenfolge nach der Spieltheorie Piagets, die Altersangaben sind grobe Orientierungswerte mit großer Spannbreite.</p>
+</div>
+</section>
+
+<section class="c-section" id="nebeneinander-ist-schon-miteinander">
+  <h2 class="c-section__title">
+    <a class="c-section__anchor" href="#nebeneinander-ist-schon-miteinander" aria-label="Direktlink zu diesem Abschnitt">#</a>
+    Nebeneinander ist schon Miteinander
+  </h2>
+  <p class="c-p">Viele Eltern sorgen sich, wenn ihr Zweijähriger auf dem Spielplatz nicht mit anderen spielt, sondern nur daneben. Das ist keine Auffälligkeit, sondern eine erwartbare Zwischenstufe. Die Entwicklungspsychologin Mildred Parten beschrieb schon 1932 mehrere Stufen der sozialen Beteiligung, die bis heute als Orientierung dienen.</p>
+
+<figure class="c-tablewrap">
+  <figcaption class="c-tablewrap__title">Stufen sozialer Beteiligung im Spiel</figcaption>
+  <div class="c-tablewrap__scroll">
+    <table class="c-table">
+      <thead><tr><th scope="col">Stufe</th><th scope="col">Etwa ab</th><th scope="col">Woran du es erkennst</th></tr></thead>
+      <tbody><tr><th scope="row">Alleinspiel</th><td>erstes Lebensjahr</td><td>Das Kind spielt für sich, andere Kinder sind nicht interessant.</td></tr><tr><th scope="row">Zuschauerspiel</th><td>1–2 Jahre</td><td>Es beobachtet andere ausdauernd, kommentiert vielleicht, macht aber nicht mit.</td></tr><tr><th scope="row">Parallelspiel</th><td>2–3 Jahre</td><td>Es spielt dicht neben anderen, mit ähnlichem Material, aber ohne gemeinsames Ziel.</td></tr><tr><th scope="row">Assoziatives Spiel</th><td>3–4 Jahre</td><td>Material wird getauscht und geteilt, gesprochen wird viel, ein gemeinsamer Plan fehlt noch.</td></tr><tr><th scope="row">Kooperatives Spiel</th><td>ab etwa 4 Jahren</td><td>Rollen werden verteilt, es gibt eine gemeinsame Geschichte oder Aufgabe.</td></tr></tbody>
+    </table>
+  </div>
+  <p class="c-caption">Nach Parten (1932). Neuere Arbeiten zeigen, dass die Stufen keine Leiter sind: Auch ältere Kinder spielen regelmäßig allein oder parallel, und das ist kein Rückschritt.</p>
+</figure>
+
+<div class="c-evidence c-evidence--moderat">
+  <p class="c-evidence__badge">
+    <span class="c-evidence__dot" aria-hidden="true"></span>
+    <span class="c-evidence__label">Hinweise vorhanden</span>
+  </p>
+  <p class="c-evidence__claim">Die soziale Beteiligung im Spiel nimmt über das Vorschulalter zu, verläuft aber nicht als feste Stufenfolge, die man abarbeitet.</p>
+  <p class="c-evidence__note">Partens Beobachtungen sind fast hundert Jahre alt und stammen aus einer einzelnen Einrichtung. Neuere Untersuchungen bestätigen die grobe Richtung, widersprechen aber der Vorstellung, dass frühere Formen überwunden werden. Praktisch heißt das: Ein Kind, das gern für sich spielt, ist nicht sozial zurück – es hat eine Vorliebe.</p>
+  <p class="c-evidence__refs">Belege: <a class="c-ref" href="#quelle-3" title="Social Participation Among Pre-School Children">[3]</a> <a class="c-ref" href="#quelle-7" title="Children’s social play sequence: Parten’s classic theory revisited">[7]</a></p>
+</div>
+</section>
+
+<section class="c-section" id="weniger-spielzeug-tieferes-spiel">
+  <h2 class="c-section__title">
+    <a class="c-section__anchor" href="#weniger-spielzeug-tieferes-spiel" aria-label="Direktlink zu diesem Abschnitt">#</a>
+    Weniger Spielzeug, tieferes Spiel
+  </h2>
+  
+<div class="c-evidence c-evidence--moderat">
+  <p class="c-evidence__badge">
+    <span class="c-evidence__dot" aria-hidden="true"></span>
+    <span class="c-evidence__label">Hinweise vorhanden</span>
+  </p>
+  <p class="c-evidence__claim">Stehen weniger Spielsachen gleichzeitig zur Verfügung, spielen Kleinkinder mit dem einzelnen Gegenstand länger und erfinden mehr Verwendungen dafür.</p>
+  <p class="c-evidence__note">In einer Laborstudie mit 36 Kleinkindern verdoppelte sich die Spieldauer pro Gegenstand ungefähr, wenn vier statt sechzehn Spielsachen im Raum lagen. Es handelt sich um eine einzelne kleine Studie, die Ergebnisse decken sich aber mit der Alltagserfahrung vieler Familien und mit dem, was Kitas beim Ausmisten beobachten.</p>
+  <p class="c-evidence__refs">Belege: <a class="c-ref" href="#quelle-2" title="The influence of the number of toys in the environment on toddlers’ play">[2]</a></p>
+</div>
+<ul class="c-list c-list--bullet"><li><strong>Rotieren statt aussortieren:</strong> Das meiste in Kisten außer Sicht, alle paar Wochen tauschen. Nichts muss weggegeben werden.</li><li><strong>Offenes vor geschlossenem Material:</strong> Dinge, die vieles werden können – Tücher, Klötze, Kartons, Bretter – tragen länger als Spielzeug mit nur einer Funktion.</li><li><strong>Der Boden ist der Maßstab:</strong> Wenn beim Aufräumen nichts mehr sichtbar wird, ist zu viel im Raum.</li><li><strong>Draußen zählt doppelt:</strong> Stöcke, Steine, Wasser und Matsch sind offenes Material in Reinform und kosten nichts.</li></ul>
+</section>
+
+<section class="c-section" id="langeweile-aushalten">
+  <h2 class="c-section__title">
+    <a class="c-section__anchor" href="#langeweile-aushalten" aria-label="Direktlink zu diesem Abschnitt">#</a>
+    Langeweile aushalten
+  </h2>
+  <p class="c-p">„Mir ist langweilig“ ist unangenehm, aber es ist selten ein Notruf. Meistens ist es der Moment kurz bevor dein Kind etwas Eigenes findet – und genau dieser Moment fällt weg, wenn sofort ein Angebot kommt. Das gilt besonders für Bildschirme, die die Leerstelle zuverlässig und sofort füllen.</p>
+
+<div class="c-evidence c-evidence--umstritten">
+  <p class="c-evidence__badge">
+    <span class="c-evidence__dot" aria-hidden="true"></span>
+    <span class="c-evidence__label">Umstritten</span>
+  </p>
+  <p class="c-evidence__claim">Dass Langeweile die Kreativität von Kindern fördert, wird häufig behauptet, ist aber schwach belegt.</p>
+  <p class="c-evidence__note">Es gibt einzelne Experimente mit Erwachsenen, die in diese Richtung deuten, und viel Plausibilität – belastbare Studien mit Kleinkindern fehlen weitgehend. Gut begründet ist der umgekehrte Punkt: Zeit ohne vorgegebene Beschäftigung ist die Voraussetzung dafür, dass freies Spiel überhaupt entstehen kann. Du musst Langeweile nicht künstlich herstellen, aber auch nicht sofort beenden.</p>
+  <p class="c-evidence__refs">Belege: <a class="c-ref" href="#quelle-1" title="The Power of Play: A Pediatric Role in Enhancing Development in Young Children">[1]</a></p>
+</div>
+
+<aside class="c-callout c-callout--tip" role="note">
+  <p class="c-callout__title">Wenn dein Kind an dir klebt</p>
+  <div class="c-callout__body"><p>Oft ist Langeweile in Wirklichkeit ein Bedürfnis nach Verbindung. Zehn Minuten volle, ungeteilte Aufmerksamkeit – Handy weg, nichts nebenbei – bringen häufig mehr als eine Stunde halber Anwesenheit. Danach spielen viele Kinder erstaunlich lange allein weiter.</p></div>
+</aside>
+</section>
+
+<section class="c-section" id="wie-viel-anleitung-wirklich-noetig-ist">
+  <h2 class="c-section__title">
+    <a class="c-section__anchor" href="#wie-viel-anleitung-wirklich-noetig-ist" aria-label="Direktlink zu diesem Abschnitt">#</a>
+    Wie viel Anleitung wirklich nötig ist
+  </h2>
+  
+<div class="c-compare">
+  <h4 class="c-compare__heading">Mitspielen, ohne das Spiel zu übernehmen</h4>
+  <div class="c-compare__grid">
+      <div class="c-compare__col c-compare__col--good">
+        <h4 class="c-compare__title">Trägt das Spiel</h4>
+        <ul><li>Zuschauen und benennen, was passiert</li><li>Anreichen, was gesucht wird</li><li>Die Rolle übernehmen, die dein Kind dir zuteilt</li><li>Aushalten, dass etwas „falsch“ gebaut wird</li><li>Bei Streit vermitteln statt entscheiden</li></ul>
+      </div>
+      <div class="c-compare__col c-compare__col--bad">
+        <h4 class="c-compare__title">Beendet das Spiel oft</h4>
+        <ul><li>Vormachen, wie es richtig geht</li><li>Abfragen: Welche Farbe? Wie viele?</li><li>Ständig loben, was gerade entsteht</li><li>Das Ergebnis verbessern, wenn das Kind weg ist</li><li>Aus dem Spiel eine Übungseinheit machen</li></ul>
+      </div></div>
+</div>
+<p class="c-p">Das heißt nicht, dass du dich raushalten musst. Gemeinsames Spiel ist wertvoll, besonders wenn es dem Kind folgt. Die Faustregel lautet: Dein Kind bestimmt das Was, du darfst beim Wie helfen – nicht umgekehrt.</p>
+</section>
+
+<section class="c-section" id="haeufige-fragen">
+  <h2 class="c-section__title">
+    <a class="c-section__anchor" href="#haeufige-fragen" aria-label="Direktlink zu diesem Abschnitt">#</a>
+    Häufige Fragen
+  </h2>
+  
+<div class="c-faq">
+  
+  
+      <details class="c-faq__item">
+        <summary>Mein Kind spielt immer dasselbe. Muss ich Abwechslung schaffen?</summary>
+        <div class="c-faq__answer"><p>Nein. Wiederholung ist bei Kleinkindern kein Stillstand, sondern die Art, wie sie etwas sicher machen. Erst wenn eine Handlung mühelos sitzt, wird sie variiert. Das kann Wochen dauern und ist ein gutes Zeichen.</p></div>
+      </details>
+      <details class="c-faq__item">
+        <summary>Braucht mein Kind Frühförderkurse, damit es nicht zurückfällt?</summary>
+        <div class="c-faq__answer"><p>Für gesunde Kinder gibt es keinen Beleg, dass Kurse dem freien Spiel überlegen wären. Kurse können Spaß machen und Kontakte bringen – als Förderung sind sie nicht nötig. Wenn der Terminkalender die freie Zeit auffrisst, ist das eher ein Nachteil.</p></div>
+      </details>
+      <details class="c-faq__item">
+        <summary>Mein Zweijähriger spielt auf dem Spielplatz nie mit anderen. Ist das ein Problem?</summary>
+        <div class="c-faq__answer"><p>In diesem Alter ist Nebeneinanderspielen der Normalfall. Echtes gemeinsames Spiel mit verteilten Rollen entsteht meist erst um die vier. Aufmerksam werden solltest du, wenn dein Kind auch am Blickkontakt, an gemeinsamer Aufmerksamkeit und an Sprache deutlich weniger Interesse zeigt – dann lohnt ein Gespräch bei der U-Untersuchung.</p></div>
+      </details>
+      <details class="c-faq__item">
+        <summary>Wie viel Aufräumen kann ich erwarten?</summary>
+        <div class="c-faq__answer"><p>Wenig, und das ist normal. Kleinkinder räumen mit, wenn jemand mitmacht und die Aufgabe klein ist: nicht „räum auf“, sondern „bringst du die Autos in die Kiste?“. Weniger Spielzeug macht diesen Punkt nebenbei deutlich einfacher.</p></div>
+      </details>
+      <details class="c-faq__item">
+        <summary>Ist es schlimm, wenn ich beim Spielen gelangweilt bin?</summary>
+        <div class="c-faq__answer"><p>Nein, und du bist damit nicht allein. Das immer gleiche Rollenspiel ist für Erwachsene wirklich anstrengend. Ehrlich begrenzte Zeit ist besser als lange halbherzige Anwesenheit: zehn Minuten wirklich dabei sein und dann sagen, dass du jetzt etwas anderes machst.</p></div>
+      </details>
+      <details class="c-faq__item">
+        <summary>Mein Kind will nur draußen sein und drinnen nichts anfangen. Muss ich gegensteuern?</summary>
+        <div class="c-faq__answer"><p>Nein, im Gegenteil. Draußen deckt Bewegung, Sinneserfahrung und freies Spiel gleichzeitig ab. Die WHO empfiehlt für Kinder von ein bis vier Jahren mindestens drei Stunden Bewegung über den Tag verteilt – draußen erreicht man das mühelos.</p></div>
+      </details>
+</div>
+</section>
+
+<aside class="c-callout c-callout--info" role="note">
+  <p class="c-callout__title">Kurz gesagt</p>
+  <div class="c-callout__body"><p>Freies Spiel braucht Zeit, Platz und wenig Material – und einen Erwachsenen, der zuschaut statt anleitet. Wenn du nur eine Sache verändern willst: Räum zwei Drittel der Spielsachen in eine Kiste in den Keller und beobachte zwei Wochen, was passiert.</p></div>
+</aside>
+      
+      
+<section class="sources" id="quellen">
+  <h2 class="sources__title">Quellen</h2>
+  <ol class="sources__list">
+    
+    <li class="sources__item" id="quelle-1">
+      <span class="sources__num">1</span>
+      <div>
+        <p class="sources__name"><a href="https://publications.aap.org/pediatrics/article/142/3/e20182058/38649/The-Power-of-Play-A-Pediatric-Role-in-Enhancing" target="_blank" rel="noopener noreferrer">The Power of Play: A Pediatric Role in Enhancing Development in Young Children</a></p>
+        <p class="sources__pub">Pediatrics / American Academy of Pediatrics (Yogman et al.) · 2018 · Übersichtsarbeit</p>
+        
+      </div>
+    </li>
+    <li class="sources__item" id="quelle-2">
+      <span class="sources__num">2</span>
+      <div>
+        <p class="sources__name"><a href="https://pubmed.ncbi.nlm.nih.gov/29190457/" target="_blank" rel="noopener noreferrer">The influence of the number of toys in the environment on toddlers’ play</a></p>
+        <p class="sources__pub">Infant Behavior and Development (Dauch et al.) · 2018 · Studie</p>
+        
+      </div>
+    </li>
+    <li class="sources__item" id="quelle-3">
+      <span class="sources__num">3</span>
+      <div>
+        <p class="sources__name">Social Participation Among Pre-School Children</p>
+        <p class="sources__pub">Journal of Abnormal and Social Psychology (Mildred B. Parten) · 1932 · Studie</p>
+        
+      </div>
+    </li>
+    <li class="sources__item" id="quelle-4">
+      <span class="sources__num">4</span>
+      <div>
+        <p class="sources__name"><a href="https://www.kindergesundheit-info.de/themen/spielen/hauptsache-spielen/spielen-ist-gesund/" target="_blank" rel="noopener noreferrer">Spielen ist gesund!</a></p>
+        <p class="sources__pub">Bundeszentrale für gesundheitliche Aufklärung (BZgA), kindergesundheit-info.de · 2024 · Institutionelle Information</p>
+        
+      </div>
+    </li>
+    <li class="sources__item" id="quelle-5">
+      <span class="sources__num">5</span>
+      <div>
+        <p class="sources__name">Nachahmung, Spiel und Traum. Die Entwicklung der Symbolfunktion beim Kinde</p>
+        <p class="sources__pub">Jean Piaget, Klett-Cotta (Original 1945) · 1945 · Fachbuch</p>
+        
+      </div>
+    </li>
+    <li class="sources__item" id="quelle-6">
+      <span class="sources__num">6</span>
+      <div>
+        <p class="sources__name"><a href="https://www.who.int/publications/i/item/9789241550536" target="_blank" rel="noopener noreferrer">Guidelines on physical activity, sedentary behaviour and sleep for children under 5 years of age</a></p>
+        <p class="sources__pub">World Health Organization · 2019 · Leitlinie</p>
+        
+      </div>
+    </li>
+    <li class="sources__item" id="quelle-7">
+      <span class="sources__num">7</span>
+      <div>
+        <p class="sources__name">Children’s social play sequence: Parten’s classic theory revisited</p>
+        <p class="sources__pub">Early Child Development and Care · 2011 · Studie</p>
+        
+      </div>
+    </li>
+  </ol>
+  <p class="sources__hint">Wie wir Quellen auswählen und Aussagen einordnen, steht in der <a href="../methodik.html">Methodik</a>.</p>
+</section>
+    </div>
+  </div>
+
+  
+<section class="band band--sunk related">
+  <div class="wrap">
+    <h2 class="band__title">Passt dazu</h2>
+    <div class="card-grid">
+<a class="card card--phase-3" href="../artikel/babys-spielen.html">
+  <span class="card__kicker">Säugling</span>
+  <h3 class="card__title">Wie Babys spielen und lernen</h3>
+  <p class="card__text">Ein Baby spielt nicht, um etwas zu lernen – es lernt, weil es spielt. Im ersten Jahr besteht Spiel aus Schauen, Greifen, Mundern, Fallenlassen und …</p>
+  <span class="card__foot">5 Min.</span>
+</a></div>
+  </div>
+</section>
+</article>
+</main>
+
+
+<footer class="site-footer">
+  <div class="site-footer__inner">
+    <div class="site-footer__brand">
+      <p class="site-footer__name">Erziehungswegweiser</p>
+      <p class="site-footer__claim">Ein Kompendium zu Schwangerschaft, Neugeborenen, Babys, Kleinkindern und Erziehung – aufbereitet für Eltern, gestützt auf Leitlinien und Forschung.</p>
+    </div>
+
+    <nav class="site-footer__nav" aria-label="Fußzeile">
+      <div>
+        <p class="site-footer__head">Einstieg</p>
+        <ul>
+          <li><a href="../alter/">Nach Alter</a></li>
+          <li><a href="../themen/">Nach Thema</a></li>
+          <li><a href="../artikel/">Alle Artikel</a></li>
+        </ul>
+      </div>
+      <div>
+        <p class="site-footer__head">Hintergrund</p>
+        <ul>
+          <li><a href="../ueber.html">Über das Projekt</a></li>
+          <li><a href="../methodik.html">Methodik &amp; Evidenz</a></li>
+          <li><a href="../quellen.html">Quellenverzeichnis</a></li>
+        </ul>
+      </div>
+      <div>
+        <p class="site-footer__head">Hilfe</p>
+        <ul>
+          <li><a href="../notfall.html">Notfall &amp; Hotlines</a></li>
+          <li><a href="../glossar.html">Glossar</a></li>
+        </ul>
+      </div>
+    </nav>
+  </div>
+
+  <div class="site-footer__legal">
+    <p class="disclaimer">
+      <strong>Wichtig:</strong> Dieses Kompendium ersetzt keine ärztliche, therapeutische
+      oder psychologische Beratung. Bei Sorgen um die Gesundheit oder Entwicklung
+      eines Kindes wende dich an die Kinderarztpraxis. In akuten Notfällen gilt der
+      Notruf <strong>112</strong>.
+    </p>
+  </div>
+</footer>
+
+
+<div class="overlay" data-search-overlay hidden>
+  <div class="overlay__backdrop" data-close-search></div>
+  <div class="overlay__panel search" role="dialog" aria-modal="true" aria-label="Suche">
+    <div class="search__field">
+      <svg class="icon " viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><circle cx="11" cy="11" r="7"/><path d="m20 20-3.5-3.5"/></svg>
+      <input type="search" class="search__input" data-search-input placeholder="Wonach suchst du? z. B. Schlaf, Trotzphase, Beikost" autocomplete="off" spellcheck="false">
+      <button class="icon-btn" type="button" data-close-search aria-label="Suche schließen"><svg class="icon " viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M6 6l12 12M18 6L6 18"/></svg></button>
+    </div>
+    <div class="search__filters" data-search-filters></div>
+    <div class="search__results" data-search-results>
+      <p class="search__hint">Tippe los – die Suche läuft vollständig in deinem Browser.</p>
+    </div>
+  </div>
+</div>
+
+<div class="overlay" data-settings-overlay hidden>
+  <div class="overlay__backdrop" data-close-settings></div>
+  <div class="overlay__panel settings" role="dialog" aria-modal="true" aria-label="Darstellung">
+    <div class="settings__head">
+      <h2>Darstellung</h2>
+      <button class="icon-btn" type="button" data-close-settings aria-label="Schließen"><svg class="icon " viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M6 6l12 12M18 6L6 18"/></svg></button>
+    </div>
+
+    <fieldset class="settings__group">
+      <legend>Farbmodus</legend>
+      <div class="segmented" data-pref="theme">
+        <button type="button" data-value="light">Hell</button>
+        <button type="button" data-value="auto">Automatisch</button>
+        <button type="button" data-value="dark">Dunkel</button>
+      </div>
+    </fieldset>
+
+    <fieldset class="settings__group">
+      <legend>Schriftgröße</legend>
+      <div class="segmented" data-pref="textsize">
+        <button type="button" data-value="m">Normal</button>
+        <button type="button" data-value="l">Groß</button>
+        <button type="button" data-value="xl">Sehr groß</button>
+      </div>
+    </fieldset>
+
+    <fieldset class="settings__group">
+      <legend>Lesemodus</legend>
+      <label class="switch">
+        <input type="checkbox" data-pref-toggle="reading">
+        <span class="switch__track" aria-hidden="true"></span>
+        <span class="switch__label">Immersiv lesen – Navigation und Beiwerk treten zurück</span>
+      </label>
+    </fieldset>
+
+    <fieldset class="settings__group">
+      <legend>Alter meines Kindes</legend>
+      <p class="settings__hint">Damit hebt die Seite passende Inhalte hervor. Die Angabe bleibt in deinem Browser.</p>
+      <label class="field">
+        <span>Geburtsdatum</span>
+        <input type="date" data-pref-birthdate>
+      </label>
+      <p class="settings__age" data-age-readout aria-live="polite"></p>
+      <button type="button" class="btn btn--quiet" data-clear-birthdate>Angabe löschen</button>
+    </fieldset>
+  </div>
+</div>
+
+<script src="../assets/js/app.js" defer></script>
+<script src="../assets/js/search.js" defer></script>
+
+</body>
+</html>
