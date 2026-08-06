@@ -1,0 +1,268 @@
+{
+  "slug": "chronische-krankheit-im-alltag",
+  "title": "Leben mit chronischer Erkrankung",
+  "subtitle": "Asthma, Diabetes Typ 1, Epilepsie oder eine schwere Allergie verändern nicht nur die Medizin, sondern den Familienalltag. Wie ihr das Kind altersgerecht einbezieht, Kita und Schule handlungsfähig macht und die Hilfen bekommt, die euch zustehen.",
+  "phases": ["kleinkind", "kindergarten", "schulkind"],
+  "topics": ["besondere-situationen", "gesundheit"],
+  "updated": "2026-08-06",
+  "summary": "Was Familien mit chronisch kranken Kindern am meisten belastet, ist selten die Krankheit selbst – es ist die Behandlungslast: Kontrollen, Dokumentation, Anträge, Diskussionen mit Einrichtungen, Wachsamkeit rund um die Uhr. Dieser Artikel zeigt, wie ihr Verantwortung altersgerecht an euer Kind abgebt, wie ein Notfallplan für Kita und Schule aussieht, was Geschwisterkinder brauchen und welche Hilfen es in Deutschland gibt – vom Pflegegrad bis zur Schulung.",
+  "keyFacts": [
+    "Strukturierte Patienten- und Elternschulungen sind bei chronischen Kindererkrankungen fester Bestandteil der Behandlung, nicht ein Extra.",
+    "Ein schriftlicher Notfall- und Aktionsplan gehört in jede Kita und jede Schule – knapp, laminiert, mit Foto und Telefonnummern.",
+    "Kinder können früher Verantwortung übernehmen, als Eltern denken – und später allein tragen, als sie selbst behaupten.",
+    "Auch Kinder mit chronischer Erkrankung haben Anspruch auf Regelbetreuung; Teilhabe darf nicht an der Diagnose scheitern.",
+    "Ein Pflegegrad ist bei erheblichem Betreuungsaufwand auch bei Kindern möglich – begutachtet wird der Mehraufwand gegenüber gleichaltrigen gesunden Kindern."
+  ],
+  "blocks": [
+    {
+      "type": "p",
+      "lead": true,
+      "text": "Wenn ein Kind eine chronische Erkrankung hat, verschiebt sich der Alltag um ein paar Grad. Nicht dramatisch, aber dauerhaft: Vor jedem Kindergeburtstag steht eine Frage, vor jeder Klassenfahrt ein Telefonat, vor jedem Infekt eine Abwägung. Und die eigentliche Erschöpfung entsteht nicht in den akuten Momenten, sondern in der Summe der kleinen: das ständige Mitdenken, das nie ganz abschaltet."
+    },
+    {
+      "type": "callout",
+      "variant": "danger",
+      "title": "Notfallwissen zuerst",
+      "text": "Jede Betreuungsperson, die dein Kind allein betreut, muss zwei Dinge kennen: die Warnzeichen einer Verschlechterung und den ersten Handgriff. Beides gehört auf ein Blatt, nicht in ein Gespräch. Bei Atemnot, die sich nicht bessert, bei einem Krampfanfall über fünf Minuten, bei Bewusstseinsstörung, bei Kreislaufreaktion nach Allergenkontakt gilt immer: **112 rufen**, nicht erst in der Familie herumtelefonieren."
+    },
+    {
+      "type": "section",
+      "heading": "Die Behandlungslast ist der eigentliche Alltag",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "Fachleute sprechen von Behandlungslast: der Zeit und Energie, die Therapie, Kontrolle, Organisation und Papierkram kosten. Sie ist bei Kindern besonders hoch, weil sie fast vollständig bei den Eltern liegt – und sie ist der beste Ansatzpunkt für Entlastung. Nicht die Krankheit lässt sich verkleinern, aber die Reibung drumherum."
+        },
+        {
+          "type": "list",
+          "ordered": false,
+          "items": [
+            { "title": "Ein System statt vieler Zettel:", "text": "Ein Ordner oder eine App, in der Befunde, Medikationsplan, Notfallplan und Kontakte liegen. Alles doppelt: einmal zu Hause, einmal digital." },
+            { "title": "Routinen an Anker hängen:", "text": "Messen, Inhalieren oder Eintragen an feste Alltagspunkte koppeln – nach dem Zähneputzen, vor dem Abendessen. Erinnerungen scheitern, Gewohnheiten halten." },
+            { "title": "Termine bündeln:", "text": "Kontrolle, Blutabnahme und Schulung an einen Tag legen. Frag aktiv danach, es wird selten von selbst angeboten." },
+            { "title": "Zuständigkeiten festlegen:", "text": "Wer telefoniert, wer fährt, wer bestellt Rezepte? Ungeregelt macht es immer dieselbe Person." },
+            { "title": "Puffer einbauen:", "text": "Medikamente und Material nachbestellen, bevor die letzte Packung angebrochen ist." }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "section",
+      "heading": "Das Kind einbeziehen – altersgerecht, nicht zu früh und nicht zu spät",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "Kinder, die ihre Erkrankung verstehen, kooperieren besser und haben ein stabileres Selbstbild. Verstehen heißt aber nicht, Verantwortung tragen. Die Kunst besteht darin, Wissen früh zu geben und Verantwortung langsam – und die Aufsicht nicht abzugeben, nur weil ein Kind etwas technisch kann."
+        },
+        {
+          "type": "timeline",
+          "title": "Was Kinder wann übernehmen können",
+          "entries": [
+            { "age": "2–3 Jahre", "label": "Mitmachen", "text": "Das Kind kennt die Gegenstände, hält den Inhalator selbst, klebt das Pflaster auf. Erklärungen in einem Satz: Das hilft dir beim Luftholen." },
+            { "age": "4–5 Jahre", "label": "Benennen und melden", "text": "Es lernt, eigene Symptome zu benennen – mein Bauch fühlt sich komisch an, ich krieg schlecht Luft – und weiß, bei welchem Erwachsenen es sich meldet." },
+            { "age": "6–8 Jahre", "label": "Handgriffe unter Aufsicht", "text": "Messen, inhalieren, dokumentieren mit Erwachsenem daneben. Erste Schulungen für Kinder in dieser Altersgruppe. Das Kind kann anderen erklären, was es hat." },
+            { "age": "9–11 Jahre", "label": "Routine allein, Entscheidungen gemeinsam", "text": "Übliche Abläufe laufen selbstständig. Anpassungen, Dosierungsfragen und Notfallentscheidungen bleiben bei den Erwachsenen." },
+            { "age": "ab 12 Jahren", "label": "Übergabe mit Netz", "text": "Mehr Eigenverantwortung, auch bei Übernachtungen und Klassenfahrten. Gleichzeitig die Zeit, in der die Therapietreue typischerweise einbricht – Kontrolle langsam lockern, Kontakt eng halten." }
+          ],
+          "caption": "Orientierung, keine Norm. Das passende Tempo hängt von Erkrankung, Reife und Tagesform ab – Rückschritte sind normal und kein Vertrauensbruch."
+        },
+        {
+          "type": "callout",
+          "variant": "tip",
+          "title": "Sätze, die es leichter machen",
+          "items": [
+            "Statt „Du musst“: „Machst du den ersten Teil oder soll ich?“ – Wahl statt Kampf",
+            "Symptome ernst nehmen, auch wenn die Messwerte in Ordnung sind",
+            "Nicht mit Angst erziehen: Warnzeichen sachlich benennen, nicht als Drohung",
+            "Fehler nicht bestrafen – ein vergessenes Medikament, das zugegeben wird, ist mehr wert als eines, das verschwiegen wird",
+            "Über die Krankheit reden, wenn sie gerade kein Problem macht, nicht nur in der Krise"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "section",
+      "heading": "Notfallplan für Kita und Schule",
+      "blocks": [
+        {
+          "type": "evidence",
+          "level": "stark",
+          "claim": "Ein schriftlicher, individueller Aktionsplan – was im Alltag zu tun ist, woran eine Verschlechterung erkennbar ist und was dann geschieht – gehört bei Asthma zum Standard der Versorgung und ist Teil des Selbstmanagements.",
+          "note": "Die Nationale VersorgungsLeitlinie Asthma sieht schriftliche Selbstmanagementpläne ausdrücklich vor. Das Prinzip lässt sich auf andere chronische Erkrankungen übertragen: Ein Plan, den eine fremde Person in dreißig Sekunden lesen und befolgen kann, ist mehr wert als eine ausführliche mündliche Einweisung, die im Ernstfall niemand erinnert. Konkrete Präparate und Dosierungen trägt immer die behandelnde Praxis ein.",
+          "sources": [0]
+        },
+        {
+          "type": "checklist",
+          "id": "notfallplan",
+          "title": "Was auf das eine Blatt gehört",
+          "items": [
+            "Foto des Kindes, Name, Geburtsdatum, Diagnose in einem Satz",
+            "Was im Alltag getan wird (Zeitpunkte, Handgriffe)",
+            "Warnzeichen einer Verschlechterung – konkret beobachtbar formuliert",
+            "Was dann sofort zu tun ist, Schritt für Schritt, nummeriert",
+            "Ab wann der Notruf 112 gewählt wird – ohne Rückfrage bei den Eltern",
+            "Wo das Notfallmedikament liegt und wer den Schlüssel hat",
+            "Telefonnummern: Eltern, zweite Kontaktperson, behandelnde Praxis",
+            "Datum und Unterschrift der behandelnden Ärztin oder des Arztes"
+          ]
+        },
+        {
+          "type": "evidence",
+          "level": "moderat",
+          "claim": "Kinder mit chronischen Erkrankungen sollen Regeleinrichtungen besuchen können. Die Behandlung im Alltag – etwa das Messen und Verabreichen bei Diabetes Typ 1 – darf der Teilhabe nicht entgegenstehen; nötigenfalls wird sie durch eine zusätzliche Kraft unterstützt.",
+          "note": "Die pädiatrische Diabetesleitlinie formuliert die Teilhabe in Kita und Schule als klares Ziel. Rechtlich stützt sich das auf die Eingliederungshilfe: Eine Schulbegleitung oder Integrationskraft kann beantragt werden, wenn ohne sie kein Besuch möglich wäre. Eine Einrichtung darf ein Kind nicht allein wegen der Diagnose ablehnen – in der Praxis braucht es dafür allerdings oft Beharrlichkeit und schriftliche Anträge.",
+          "sources": [1, 3]
+        },
+        {
+          "type": "callout",
+          "variant": "info",
+          "title": "Wie ihr das Gespräch mit der Einrichtung führt",
+          "text": "Vereinbart einen eigenen Termin vor dem ersten Tag, bringt den Plan mit und lasst euch eine Ansprechperson benennen. Fragt konkret: Wer ist eingewiesen, wer vertritt diese Person bei Krankheit, wo liegt das Medikament, wie läuft es bei Ausflügen? Bietet an, dass die behandelnde Praxis oder eine Diabetes- beziehungsweise Asthmaberatung eine kurze Einweisung übernimmt. Das nimmt Angst – und Angst ist der häufigste Grund für Ablehnung."
+        }
+      ]
+    },
+    {
+      "type": "section",
+      "heading": "Vier Erkrankungen, ein Prinzip",
+      "blocks": [
+        {
+          "type": "table",
+          "title": "Was im Alltag jeweils den Unterschied macht",
+          "head": ["Erkrankung", "Alltagsschwerpunkt", "Typische Stolperstelle"],
+          "rows": [
+            ["Asthma", "Dauertherapie zuverlässig nehmen, Auslöser kennen, Sport ermöglichen statt vermeiden", "Die Basistherapie wird abgesetzt, sobald es besser geht"],
+            ["Diabetes Typ 1", "Messen, Kohlenhydrate einschätzen, Unterzuckerung erkennen und behandeln", "Sport, Aufregung und Infekte verschieben alles – auch bei perfekter Routine"],
+            ["Epilepsie", "Anfallsform kennen, Auslöser wie Schlafmangel meiden, Notfallmedikation griffbereit", "Überbehütung: unnötige Verbote, die das Kind sozial isolieren"],
+            ["Schwere Allergie", "Allergen konsequent meiden, Etiketten lesen, Notfallset immer dabei", "Das Notfallset liegt zu Hause oder ist abgelaufen"]
+          ],
+          "caption": "Bei allen vier gilt dasselbe Prinzip: Struktur im Alltag, ein schriftlicher Plan für den Ernstfall, Schulung für alle Beteiligten. Konkrete Medikamente und Mengen legt ausschließlich die behandelnde Praxis fest."
+        },
+        {
+          "type": "evidence",
+          "level": "stark",
+          "claim": "Strukturierte Schulungen für Kinder und ihre Eltern sind bei chronischen Erkrankungen ein regulärer Behandlungsbestandteil und werden von den Leitlinien empfohlen.",
+          "note": "Sowohl die Asthma- als auch die pädiatrische Diabetesleitlinie sehen strukturierte Schulungsprogramme vor. Sie werden in der Regel von den Krankenkassen getragen und finden ambulant oder im Rahmen einer Rehabilitation statt. Frag in der behandelnden Praxis danach – Schulungen werden häufig nicht angeboten, sondern müssen erfragt werden.",
+          "sources": [0, 1]
+        }
+      ]
+    },
+    {
+      "type": "section",
+      "heading": "Geschwisterkinder",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "Geschwister chronisch kranker Kinder sind oft auffällig unauffällig. Sie stellen zurück, funktionieren, machen keine Umstände – und genau das ist das Problem. Aufmerksamkeit verteilt sich nach Dringlichkeit, und Dringlichkeit hat immer das kranke Kind. Was hilft, ist weniger Gerechtigkeit als Verlässlichkeit."
+        },
+        {
+          "type": "list",
+          "ordered": false,
+          "items": [
+            { "title": "Eine feste, kleine Zeit:", "text": "Zwanzig Minuten allein, jede Woche zur selben Zeit, schlagen einen großen Ausflug, der ausfällt." },
+            { "title": "Ehrlich informieren:", "text": "Kinder erfinden Erklärungen, wenn sie keine bekommen – meistens mit sich selbst als Ursache." },
+            { "title": "Nicht zur Hilfskraft machen:", "text": "Mitwissen ja, Mitverantwortung nur in klar begrenztem Rahmen und nie im Notfall." },
+            { "title": "Eigenen Ärger zulassen:", "text": "Neid und Wut auf ein krankes Geschwister sind normal. Wer sie nicht sagen darf, trägt sie länger." },
+            { "title": "Externe Angebote nutzen:", "text": "Es gibt Geschwistergruppen und Freizeiten speziell für diese Situation – frag im Sozialdienst der Klinik oder im SPZ danach." }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "section",
+      "heading": "Pflegegrad, Anträge und andere Hilfen",
+      "blocks": [
+        {
+          "type": "steps",
+          "title": "Was sich zu prüfen lohnt",
+          "items": [
+            { "title": "Pflegegrad", "text": "Bei erheblichem Betreuungs- und Beaufsichtigungsaufwand auch bei Kindern möglich. Begutachtet wird der Mehraufwand im Vergleich zu gleichaltrigen gesunden Kindern. Führt vor der Begutachtung zwei Wochen ein Protokoll – der reale Aufwand wird sonst regelmäßig unterschätzt." },
+            { "title": "Schwerbehindertenausweis", "text": "Antrag beim Versorgungsamt. Je nach Grad der Behinderung und Merkzeichen ergeben sich Nachteilsausgleiche und steuerliche Entlastungen." },
+            { "title": "Eingliederungshilfe", "text": "Für Schulbegleitung oder Integrationskraft in Kita und Schule. Zuständig sind je nach Fall Sozial- oder Jugendhilfeträger." },
+            { "title": "Sozialmedizinische Nachsorge und SPZ", "text": "Nach längeren Klinikaufenthalten und bei komplexen Verläufen. Ein Sozialpädiatrisches Zentrum nach § 119 SGB V bündelt Medizin, Psychologie und Therapien." },
+            { "title": "Rehabilitation", "text": "Kinderrehabilitation, teils familienorientiert mit Geschwistern. Der Sozialdienst der Klinik hilft beim Antrag." },
+            { "title": "Beratung", "text": "Sozialdienst, Krankenkasse und Selbsthilfeverbände – letztere wissen oft am genauesten, welcher Antrag wo hängen bleibt." }
+          ]
+        },
+        {
+          "type": "callout",
+          "variant": "warn",
+          "title": "Wenn ihr selbst nicht mehr könnt",
+          "text": "Dauerhafte Wachsamkeit macht müde, und die Erschöpfung kommt oft erst, wenn die Krankheit stabil ist. Anhaltende Schlafstörungen, Reizbarkeit, das Gefühl, nur noch zu funktionieren, oder Gedanken, die dir Angst machen, gehören besprochen – in der Hausarztpraxis, im Sozialdienst der Klinik oder in einer psychotherapeutischen Sprechstunde. Das ist kein Versagen gegenüber dem Kind, sondern Teil seiner Versorgung."
+        }
+      ]
+    },
+    {
+      "type": "section",
+      "heading": "Häufige Fragen",
+      "blocks": [
+        {
+          "type": "faq",
+          "items": [
+            {
+              "q": "Die Kita sagt, sie darf keine Medikamente geben. Stimmt das?",
+              "a": "Es gibt keine bundesweite Regel, die das verbietet. Üblich ist eine schriftliche Vereinbarung zwischen Eltern, Einrichtung und behandelnder Praxis, in der Medikament, Anlass, Vorgehen und Haftungsfragen geregelt sind. Viele Ablehnungen beruhen auf Unsicherheit, nicht auf Recht. Ein gemeinsames Gespräch mit einer fachlichen Einweisung löst das meistens – wenn nicht, hilft der Träger oder die Eingliederungshilfe weiter."
+            },
+            {
+              "q": "Wie viel darf mein Kind machen – Sport, Übernachtung, Klassenfahrt?",
+              "a": "Im Zweifel mehr, als die Sorge zulässt. Bei fast allen chronischen Erkrankungen im Kindesalter ist Teilhabe das erklärte Behandlungsziel, und Ausschluss schadet mehr als das kalkulierte Risiko. Lass die konkreten Grenzen von der behandelnden Praxis benennen und schreib sie auf – dann diskutiert ihr nicht bei jeder Einladung neu."
+            },
+            {
+              "q": "Unser Kind will nicht anders sein und lässt die Therapie schleifen. Was jetzt?",
+              "a": "Das ist mit zunehmendem Alter fast der Regelfall und kein Erziehungsfehler. Hilfreich ist, den Sinn im Hier und Jetzt zu verankern statt in der fernen Zukunft, unnötige Sichtbarkeit zu reduzieren und Kontrolle stufenweise abzugeben, statt sie zu verschärfen. Sprich es in der Sprechstunde an – Therapietreue ist ein anerkanntes Behandlungsthema und kein Tabu."
+            },
+            {
+              "q": "Sollen wir es der Klasse erzählen?",
+              "a": "Meistens ja, und zwar bevor es über Gerüchte passiert. Entscheidend ist, dass dein Kind mitbestimmt, wer was erfährt. Ein kurzer, sachlicher Beitrag – was es ist, was man sehen kann, was zu tun ist – nimmt der Sache das Geheimnisvolle und beugt Hänseleien besser vor als Verschweigen."
+            },
+            {
+              "q": "Lohnt sich ein Pflegegrad wirklich, wenn das Kind äußerlich fit wirkt?",
+              "a": "Häufig ja. Begutachtet wird nicht, wie krank ein Kind aussieht, sondern welcher Mehraufwand gegenüber gleichaltrigen gesunden Kindern entsteht – nächtliche Kontrollen, Beaufsichtigung, Anleitung. Genau dieser Aufwand wird im Antrag oft zu bescheiden geschildert. Ein Protokoll und Unterstützung durch den Sozialdienst machen den Unterschied. Ein abgelehnter Bescheid lässt sich mit Widerspruch überprüfen."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "callout",
+      "variant": "info",
+      "title": "Kurz gesagt",
+      "text": "Ein Blatt für den Notfall, feste Routinen im Alltag, Verantwortung in Stufen an das Kind, Schulung für alle Beteiligten und die Hilfen, die es gibt, tatsächlich beantragen. Ziel ist nicht ein Leben ohne Krankheit, sondern ein Leben, in dem die Krankheit nicht alles bestimmt – für das Kind, für die Geschwister und für euch."
+    }
+  ],
+  "sources": [
+    {
+      "title": "Nationale VersorgungsLeitlinie Asthma",
+      "publisher": "Bundesärztekammer, Kassenärztliche Bundesvereinigung, AWMF",
+      "kind": "Leitlinie"
+    },
+    {
+      "title": "S3-Leitlinie Diagnostik, Therapie und Verlaufskontrolle des Diabetes mellitus im Kindes- und Jugendalter",
+      "publisher": "AWMF / Deutsche Diabetes Gesellschaft (DDG) und Arbeitsgemeinschaft für Pädiatrische Diabetologie (AGPD)",
+      "kind": "Leitlinie"
+    },
+    {
+      "title": "Kranke Kinder in der Kita: rechtliche Grundlagen und Infektionsschutzgesetz",
+      "publisher": "Bundeszentrale für gesundheitliche Aufklärung (BZgA), kindergesundheit-info.de",
+      "kind": "Institutionelle Information",
+      "url": "https://www.kindergesundheit-info.de/fachkraefte/kindergesundheit-in-der-kita/kranke-kinder-in-der-kita/recht-ifsg-kita/"
+    },
+    {
+      "title": "§ 119 SGB V – Sozialpädiatrische Zentren",
+      "publisher": "Sozialgesetzbuch Fünftes Buch – Gesetzliche Krankenversicherung",
+      "kind": "Institutionelle Information",
+      "url": "https://www.sozialgesetzbuch-sgb.de/sgbv/119.html"
+    },
+    {
+      "title": "Sozialgesetzbuch Elftes Buch (SGB XI): Begriff der Pflegebedürftigkeit und Ermittlung des Pflegegrades (§§ 14 und 15)",
+      "publisher": "Bundesministerium der Justiz",
+      "kind": "Institutionelle Information"
+    },
+    {
+      "title": "§ 46 SGB IX – Früherkennung und Frühförderung",
+      "publisher": "Sozialgesetzbuch Neuntes Buch – Rehabilitation und Teilhabe von Menschen mit Behinderungen",
+      "kind": "Institutionelle Information",
+      "url": "https://www.sozialgesetzbuch-sgb.de/sgbix/46.html"
+    }
+  ],
+  "related": ["kind-krank-betreuung", "elterliche-erschoepfung", "geschwisterstreit", "erste-hilfe-am-kind"]
+}
