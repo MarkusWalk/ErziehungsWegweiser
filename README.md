@@ -65,11 +65,31 @@ damit `docs/` aktuell ist.
 
 1. Repository → **Settings** → **Pages**
 2. *Build and deployment* → *Source*: **Deploy from a branch**
-3. Branch **`main`**, Ordner **`/docs`** → Speichern
+3. Branch **`gh-pages`**, Ordner **`/ (root)`** → Speichern
 
-Fertig. Ab dann liefert GitHub bei jedem Push den Inhalt von `docs/` aus. Es läuft
-dabei **kein Build und kein Runner** — `docs/` enthält fertiges HTML/CSS/JS, eine
-`.nojekyll`-Datei sorgt dafür, dass GitHub nichts daran verändert.
+Die Seite steht dann unter `https://markuswalk.github.io/ErziehungsWegweiser/`
+(Groß- und Kleinschreibung im Pfad beachten).
+
+Es läuft dabei **kein Build und kein Runner** — der Branch enthält fertiges
+HTML/CSS/JS, eine `.nojekyll`-Datei sorgt dafür, dass GitHub nichts daran ändert.
+
+### Warum ein eigener Branch statt `main` + `/docs`
+
+Beides funktioniert. Bei `main` muss in den Einstellungen zusätzlich der
+Unterordner `/docs` gewählt werden — steht dort versehentlich `/ (root)`, liefert
+Pages **404 auf jede Seite**, weil im Wurzelverzeichnis von `main` keine
+`index.html` liegt. Bei `gh-pages` entfällt diese Auswahl: dort *ist* die Wurzel
+die Seite. Eine Fehlerquelle weniger.
+
+### Nach inhaltlichen Änderungen veröffentlichen
+
+```bash
+sh build/publish.sh
+```
+
+Das baut neu, prüft ob `docs/` committet ist, und überträgt es per
+`git subtree push` in die Wurzel von `gh-pages`. `docs/` auf `main` bleibt die
+einzige Quelle — `gh-pages` ist nur die Auslieferungsform.
 
 Das Repository muss dafür öffentlich sein, sonst verlangt Pages einen bezahlten
 Plan (Pro, Team oder Enterprise).
