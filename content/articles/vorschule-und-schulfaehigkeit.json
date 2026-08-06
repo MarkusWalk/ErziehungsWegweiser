@@ -1,0 +1,279 @@
+{
+  "slug": "vorschule-und-schulfaehigkeit",
+  "title": "Schulfähigkeit: was wirklich zählt",
+  "subtitle": "Warum Selbstregulation und Sprache mehr über den Schulstart sagen als Buchstaben- und Zahlenkenntnis – und was die Einschulungsuntersuchung tatsächlich prüft.",
+  "phases": ["kindergarten"],
+  "topics": ["entwicklung", "spiel"],
+  "updated": "2026-08-06",
+  "summary": "Im letzten Kindergartenjahr wird der Ton oft nervös: Kann es schon seinen Namen schreiben, bis zwanzig zählen, still sitzen? Der Blick auf die Forschung entspannt die Lage erheblich. Was den Schulstart am zuverlässigsten trägt, sind Selbstregulation, Sprache und die Erfahrung, mit anderen Kindern klarzukommen – nicht vorweggenommener Unterrichtsstoff. Die Einschulungsuntersuchung ist keine Prüfung, die man bestehen oder durchfallen kann, sondern eine Bestandsaufnahme. Und eine Rückstellung bringt seltener Vorteile, als viele vermuten.",
+  "keyFacts": [
+    "Schulfähigkeit ist kein Zustand des Kindes allein, sondern eine Passung zwischen Kind und Schule.",
+    "Selbstregulation sagt spätere Schulleistung besser voraus als frühe Buchstabenkenntnis.",
+    "Die Einschulungsuntersuchung prüft Gesundheit und Entwicklungsstand, nicht Wissen.",
+    "Phonologische Bewusstheit lässt sich fördern – am besten spielerisch, mit Reimen und Silben.",
+    "Rückstellungen führen in Studien nicht verlässlich zu besseren Leistungen."
+  ],
+  "blocks": [
+    {
+      "type": "p",
+      "lead": true,
+      "text": "Der Begriff Schulreife stammt aus einer Zeit, in der man glaubte, ein Kind müsse in einen fertigen Zustand hineinwachsen, bevor es zur Schule darf. Heute spricht man von Schulfähigkeit – und meint damit ausdrücklich auch die Fähigkeit der Schule, mit unterschiedlichen Kindern umzugehen. Das ist mehr als eine Wortkosmetik: Es verschiebt die Frage von „Ist mein Kind gut genug?“ zu „Was braucht dieses Kind, um gut anzukommen?“"
+    },
+    {
+      "type": "section",
+      "heading": "Was tatsächlich vorhersagt, wie der Start läuft",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "Wenn Grundschullehrkräfte gefragt werden, was ihnen den Unterrichtsbeginn erleichtert, nennen sie fast nie Buchstaben. Sie nennen: zuhören können, eine Aufgabe zu Ende bringen, warten können, Bedürfnisse äußern, sich in einer Gruppe zurechtfinden, Material auspacken und wieder einpacken. Das deckt sich gut mit dem, was die Forschung zeigt."
+        },
+        {
+          "type": "evidence",
+          "level": "stark",
+          "claim": "Selbstregulation im Vorschulalter – abwarten, Aufmerksamkeit steuern, dranbleiben – sagt spätere schulische Leistung, soziale Kompetenz und Wohlbefinden voraus.",
+          "note": "Eine Metaanalyse über zahlreiche Längsschnittstudien findet diese Zusammenhänge konsistent. Praktisch heißt das: Ein Kind, das ein Brettspiel zu Ende spielt, obwohl es verliert, übt etwas Nützlicheres für die Schule als eines, das Arbeitsblätter ausfüllt.",
+          "sources": [1]
+        },
+        {
+          "type": "p",
+          "text": "Der zweite große Faktor ist Sprache. Nicht die Aussprache einzelner Laute, sondern Wortschatz, Satzbau und das Verstehen von Aufträgen mit mehreren Schritten. Der gesamte Unterricht in Klasse eins läuft über Sprache – wer Anweisungen nicht sicher versteht, hat Nachteile in allen Fächern gleichzeitig, auch in Mathematik."
+        },
+        {
+          "type": "comparison",
+          "title": "Was für den Schulstart trägt – und was überschätzt wird",
+          "columns": [
+            {
+              "title": "Trägt",
+              "tone": "good",
+              "items": [
+                "Eine Aufgabe zu Ende bringen, auch wenn sie langweilig wird",
+                "Auftrag mit zwei bis drei Schritten verstehen und umsetzen",
+                "Um Hilfe bitten können, wenn etwas nicht klappt",
+                "Streit mit anderen Kindern ohne Erwachsene beilegen",
+                "Sich ein paar Stunden ohne Eltern wohlfühlen",
+                "Neugier: Fragen stellen, ausprobieren, dranbleiben"
+              ]
+            },
+            {
+              "title": "Wird überschätzt",
+              "tone": "myth",
+              "items": [
+                "Buchstaben schreiben können",
+                "Bis 100 zählen",
+                "Lesen vor der Einschulung",
+                "Fehlerfreies Malen in Linien",
+                "Vorschulhefte durchgearbeitet zu haben"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "section",
+      "heading": "Vorläuferfertigkeiten: der ehrliche Zwischenstand",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "Zwei Bereiche sind gut untersucht und lassen sich tatsächlich vorbereiten – nur anders, als viele denken. Der erste ist die phonologische Bewusstheit: das Gespür dafür, dass Wörter aus Klangteilen bestehen. Ein Kind, das merkt, dass „Hase“ und „Nase“ sich reimen und dass „Sonne“ aus zwei Teilen besteht, hat den Schlüssel für das spätere Lesenlernen schon in der Hand. Der zweite ist die Mengen- und Zahlenkompetenz: verstehen, dass die Vier immer vier Dinge meint, dass Zahlen eine Reihenfolge haben und dass Mengen mehr oder weniger werden können."
+        },
+        {
+          "type": "evidence",
+          "level": "moderat",
+          "claim": "Spielerische Förderung der phonologischen Bewusstheit im Kindergarten verbessert das spätere Lesen und Rechtschreiben – in kleinen bis mittleren Effekten, am deutlichsten bei Kindern mit schwachen Ausgangswerten.",
+          "note": "Die Würzburger Trainingsstudien und eine deutschsprachige Metaanalyse zeigen übereinstimmend Effekte, aber keine Wunder. Wichtig für die Einordnung: Es geht um Hören und Sprechen – Reime, Silben klatschen, Anlaute suchen –, nicht um Buchstabenschreiben. Und der Nutzen ist am größten für Kinder, die sonst mit Rückstand starten würden.",
+          "sources": [2, 3, 4]
+        },
+        {
+          "type": "callout",
+          "variant": "myth",
+          "title": "„Vorschulhefte bereiten auf die Schule vor“",
+          "text": "Arbeitsblätter mit Schwungübungen und Buchstabenreihen üben vor allem eines: Arbeitsblätter ausfüllen. Der Vorsprung, den Kinder daraus mitbringen, ist real – und er schmilzt im Lauf der ersten beiden Schuljahre meist wieder, weil die anderen dasselbe im Unterricht lernen. Was bleibt, ist im ungünstigen Fall die Erfahrung, dass Lernen etwas ist, das man hinter sich bringt. Wer wirklich vorbereiten will, kommt mit Vorlesen, Gesellschaftsspielen, Abzählreimen, Kochen mit Mengen und Gesprächen weiter."
+        },
+        {
+          "type": "timeline",
+          "title": "Das Jahr vor der Einschulung – ohne Programm",
+          "entries": [
+            {
+              "age": "Herbst",
+              "label": "Anmeldung und erste Termine",
+              "text": "Die Schulanmeldung läuft je nach Bundesland zwischen Herbst und Frühjahr. Termine kommen per Post – hier musst du nichts vorbereiten."
+            },
+            {
+              "age": "Winter",
+              "label": "Einschulungsuntersuchung",
+              "text": "Meist beim Gesundheitsamt, Dauer 30 bis 45 Minuten. Kein Lernstoff, kein Training nötig. Impfpass und gelbes U-Heft mitnehmen."
+            },
+            {
+              "age": "Frühjahr",
+              "label": "Gespräche und Entscheidungen",
+              "text": "Rückmeldungen aus Kita und Untersuchung werden besprochen. Falls Förderbedarf gesehen wird, ist jetzt Zeit für Logopädie, Ergotherapie oder Frühförderung."
+            },
+            {
+              "age": "Sommer",
+              "label": "Ankommen vorbereiten",
+              "text": "Schulweg üben, Gebäude anschauen, künftige Mitschulkinder treffen. Das wirkt mehr gegen Aufregung als jedes Übungsheft."
+            }
+          ],
+          "caption": "Grober Ablauf; Fristen und Zuständigkeiten regelt jedes Bundesland selbst. Die genauen Termine stehen im Schreiben der zuständigen Schule."
+        }
+      ]
+    },
+    {
+      "type": "section",
+      "heading": "Was die Einschulungsuntersuchung wirklich macht",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "Die Einschulungsuntersuchung ist in allen Bundesländern verpflichtend, aber unterschiedlich ausgestaltet – Schule ist Ländersache. Der Kern ist überall ähnlich: Es geht um Gesundheit und Entwicklungsstand, nicht um Wissen. Niemand fragt dein Kind ab, und es kann nicht durchfallen."
+        },
+        {
+          "type": "list",
+          "ordered": false,
+          "items": [
+            { "title": "Körperliches:", "text": "Größe, Gewicht, Sehtest, Hörtest, kurze körperliche Untersuchung, Blick in Impfpass und U-Heft." },
+            { "title": "Sprache:", "text": "Aussprache, Wortschatz, Satzbau, Verständnis – oft über Bildkarten oder Nachsprechen von Kunstwörtern." },
+            { "title": "Motorik:", "text": "Auf einem Bein stehen, hüpfen, Stift halten, eine Figur nachzeichnen, kleine Dinge greifen." },
+            { "title": "Wahrnehmung und Vorläuferfertigkeiten:", "text": "Formen unterscheiden, Mengen vergleichen, Reime erkennen, sich etwas kurz merken." },
+            { "title": "Verhalten in der Situation:", "text": "Konzentration, Ausdauer, Kontaktaufnahme, Umgang mit einer fremden Erwachsenen." }
+          ]
+        },
+        {
+          "type": "callout",
+          "variant": "tip",
+          "title": "Wie du dein Kind darauf vorbereitest",
+          "text": "Gar nicht üben. Erzähl ihm ehrlich, was passiert: Eine Ärztin schaut, wie groß du geworden bist, ob du gut siehst und hörst, und spielt ein paar Sachen mit dir. Es gibt kein Richtig und kein Falsch. Wenn dein Kind an dem Tag müde oder schüchtern ist, sag das der untersuchenden Person – das wird berücksichtigt."
+        },
+        {
+          "type": "p",
+          "text": "Ein häufiges Missverständnis: Die Untersuchung entscheidet nicht über die Einschulung. Sie liefert eine Empfehlung. Die Entscheidung über Einschulung oder Rückstellung trifft die Schulleitung, in den meisten Ländern unter Einbeziehung der Eltern. Und ein auffälliger Befund ist zunächst vor allem eines: ein Hinweis, dass etwas Unterstützung gebrauchen könnte – häufig Hören, Sehen oder Sprache, und dafür gibt es Behandlungen."
+        }
+      ]
+    },
+    {
+      "type": "section",
+      "heading": "Rückstellung: nüchtern betrachtet",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "Die Idee klingt einleuchtend: Noch ein Jahr wachsen lassen, dann klappt es besser. Die Daten sind zurückhaltender. Untersuchungen zum Einschulungsalter finden zwar Startvorteile für die älteren Kinder eines Jahrgangs, diese schwächen sich aber in den ersten Schuljahren ab. Für zurückgestellte Kinder speziell zeigen deutsche Auswertungen keine verlässlich besseren Leistungen – teilweise schnitten die altersgemäß eingeschulten Kinder im Vergleich sogar besser ab."
+        },
+        {
+          "type": "evidence",
+          "level": "umstritten",
+          "claim": "Eine Rückstellung von der Einschulung führt nicht zuverlässig zu besseren späteren Schulleistungen.",
+          "note": "Die Studienlage ist gemischt und methodisch schwierig, weil zurückgestellte Kinder sich systematisch von anderen unterscheiden – man vergleicht selten Gleiches mit Gleichem. Was sich sagen lässt: Rückstellung ist kein Selbstläufer und kein Nachteilsausgleich an sich. Sie kann sinnvoll sein, wenn das zusätzliche Jahr konkret genutzt wird, etwa für Therapie oder eine gezielte Förderung. Ein Jahr Warten allein ist keine Maßnahme.",
+          "sources": [5]
+        },
+        {
+          "type": "callout",
+          "variant": "info",
+          "title": "Fragen, die bei der Entscheidung weiterhelfen",
+          "items": [
+            "Was genau soll im zusätzlichen Jahr passieren, das jetzt nicht passiert?",
+            "Gibt es eine konkrete Behandlung oder Förderung, die anläuft?",
+            "Wie geht es dem Kind in der Kita – langweilt es sich schon?",
+            "Wie flexibel ist die aufnehmende Schule, etwa mit einer Eingangsstufe über zwei bis drei Jahre?",
+            "Was sagt dein Kind selbst dazu?"
+          ]
+        },
+        {
+          "type": "p",
+          "text": "Viele Bundesländer haben inzwischen eine flexible Schuleingangsphase, in der die ersten beiden Jahrgangsstufen je nach Tempo in einem bis drei Jahren durchlaufen werden. Wo es sie gibt, ist sie in der Regel die bessere Antwort auf Unsicherheit als eine Rückstellung – das Kind startet mit seinem Jahrgang und bekommt trotzdem Zeit."
+        }
+      ]
+    },
+    {
+      "type": "section",
+      "heading": "Häufige Fragen",
+      "blocks": [
+        {
+          "type": "faq",
+          "items": [
+            {
+              "q": "Mein Kind kennt kaum Buchstaben, andere lesen schon. Ist das ein schlechtes Zeichen?",
+              "a": "Nein. Der Zeitpunkt, zu dem Kinder anfangen, sich für Buchstaben zu interessieren, streut enorm und sagt wenig über die spätere Lesekompetenz aus. In Klasse eins wird das Lesen von Anfang an unterrichtet – dafür ist die Schule da. Wichtiger ist, ob dein Kind gern zuhört, wenn du vorliest."
+            },
+            {
+              "q": "Muss mein Kind zur Einschulung still sitzen können?",
+              "a": "Es sollte sich für einige Minuten auf etwas einlassen können. Eine ganze Unterrichtsstunde stillzusitzen erwartet keine gute Grundschule von einem Sechsjährigen – und Bewegungspausen gehören in vielen Schulen zum Konzept. Wenn dein Kind sich in keiner Situation länger als zwei, drei Minuten konzentrieren kann, ist das ein Grund für ein Gespräch, nicht für Übungsstunden."
+            },
+            {
+              "q": "Lohnt sich ein Vorschulkurs oder ein Schulfähigkeitstraining?",
+              "a": "Für die meisten Kinder nicht. Gezielte Förderung ergibt Sinn, wenn ein konkreter Bedarf festgestellt wurde – etwa bei Sprachauffälligkeiten oder schwacher phonologischer Bewusstheit. Für alle anderen bringen Spielen, Vorlesen und Alltag im gleichen Zeitrahmen mehr, weil sie Motivation und Selbstregulation mittrainieren."
+            },
+            {
+              "q": "Mein Kind ist ein Sommerkind und wäre eines der jüngsten. Soll ich es zurückstellen lassen?",
+              "a": "Nicht allein wegen des Geburtsdatums. Jüngere Kinder eines Jahrgangs haben statistisch einen Startnachteil, der sich in den ersten Jahren verringert. Entscheidend ist der Gesamteindruck: Wie kommt dein Kind in einer Gruppe zurecht, wie geht es ihm mit Anforderungen, was sagen die Erzieherinnen? Und ob die Schule mit Unterschieden gut umgehen kann."
+            },
+            {
+              "q": "In der Kita heißt es, mein Kind sei noch nicht so weit. Was mache ich damit?",
+              "a": "Frag konkret nach: In welchen Situationen zeigt sich das? Was klappt gut? Was würde helfen? Pauschale Einschätzungen sind schwer zu nutzen, Beobachtungen dagegen schon. Und hol dir eine zweite Perspektive – von der Kinderärztin bei der U9, von der aufnehmenden Schule, gegebenenfalls von einer Beratungsstelle."
+            },
+            {
+              "q": "Was kann ich im letzten Kindergartenjahr konkret tun?",
+              "a": "Vorlesen und danach über die Geschichte reden. Gesellschaftsspiele mit Würfeln und Warten. Beim Kochen abzählen und abmessen. Reimspiele und Quatschwörter. Den Schulweg zu Fuß gehen. Und das Kind Dinge selbst erledigen lassen, auch wenn es länger dauert."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "callout",
+      "variant": "info",
+      "title": "Kurz gesagt",
+      "text": "Schulfähigkeit ist keine Wissensprüfung. Was trägt, sind Selbstregulation, Sprache und soziale Erfahrung – und die entstehen im Spiel, nicht im Übungsheft. Die Einschulungsuntersuchung ist eine Bestandsaufnahme, kein Test zum Bestehen. Und wenn Zweifel bleiben: Frag nach konkreten Beobachtungen und einer konkreten Maßnahme, nicht nach einem weiteren Jahr an sich."
+    }
+  ],
+  "sources": [
+    {
+      "title": "Schuleingangsuntersuchungen – Ablauf und Inhalte",
+      "publisher": "Landeshauptstadt Düsseldorf, Gesundheitsamt",
+      "year": "2025",
+      "kind": "Institutionelle Information",
+      "url": "https://www.duesseldorf.de/gesundheitsamt/kinder-und-jugendliche/schuleingangsuntersuchungen"
+    },
+    {
+      "title": "Self-Regulation in Childhood as a Predictor of Future Outcomes: A Meta-Analytic Review",
+      "publisher": "Psychological Bulletin (Robson, Allen & Howard)",
+      "year": "2020",
+      "kind": "Metaanalyse",
+      "url": "https://research.leedstrinity.ac.uk/en/publications/self-regulation-in-childhood-as-a-predictor-of-future-outcomes-a-/"
+    },
+    {
+      "title": "Frühe Prävention von Lese-Rechtschreibproblemen: Das Würzburger Trainingsprogramm zur Förderung sprachlicher Bewusstheit bei Kindergartenkindern",
+      "publisher": "Kindheit und Entwicklung, Hogrefe (Küspert & Schneider)",
+      "year": "1999",
+      "kind": "Studie",
+      "url": "https://econtent.hogrefe.com/doi/10.1026//0942-5403.8.3.147"
+    },
+    {
+      "title": "Langzeiteffekte einer Förderung der phonologischen Bewusstheit und der Buchstabenkenntnis auf den Schriftspracherwerb",
+      "publisher": "Zeitschrift für Pädagogische Psychologie, Hogrefe",
+      "year": "2002",
+      "kind": "Studie",
+      "url": "https://econtent.hogrefe.com/doi/10.1024//1010-0652.16.2.99"
+    },
+    {
+      "title": "Metaanalyse zur Wirksamkeit einer Förderung der phonologischen Bewusstheit in der deutschen Sprache",
+      "publisher": "Fischer & Pfost, Zeitschrift für Entwicklungspsychologie und Pädagogische Psychologie",
+      "year": "2015",
+      "kind": "Metaanalyse"
+    },
+    {
+      "title": "Rückstellung von der Einschulung kann Leistungen verschlechtern – Bericht zur Studienlage",
+      "publisher": "Psychologie Aktuell / Berufsverband Deutscher Psychologinnen und Psychologen",
+      "year": "2015",
+      "kind": "Übersichtsarbeit",
+      "url": "https://www.psychologie-aktuell.com/news/aktuelle-news-psychologie/news-lesen/rueckstellung-von-der-einschulung-kann-leistungen-verschlechtern.html"
+    },
+    {
+      "title": "Die kindliche Entwicklung unterstützen – Alltagstipps",
+      "publisher": "Bundeszentrale für gesundheitliche Aufklärung (BZgA), kindergesundheit-info.de",
+      "year": "2024",
+      "kind": "Institutionelle Information",
+      "url": "https://www.kindergesundheit-info.de/themen/entwicklung/alltagstipps/entwicklungsschritte/entwicklungsfoerderung/"
+    }
+  ],
+  "related": ["schulstart", "selbststaendigkeit-foerdern", "frustrationstoleranz", "fruehfoerderung-und-kurse"]
+}

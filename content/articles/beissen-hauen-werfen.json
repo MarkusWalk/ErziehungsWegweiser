@@ -1,0 +1,299 @@
+{
+  "slug": "beissen-hauen-werfen",
+  "title": "Beißen, hauen, werfen",
+  "subtitle": "Körperliche Aggression gehört zum Kleinkindalter und verschwindet mit der Sprache. Was in der Situation hilft, was den Rückgang beschleunigt – und wann genaueres Hinsehen angebracht ist.",
+  "phases": ["kleinkind"],
+  "topics": ["emotionen", "erziehung"],
+  "updated": "2026-08-06",
+  "summary": "Fast alle Kleinkinder schlagen, beißen oder werfen irgendwann. Körperliche Aggression ist keine erlernte Fehlentwicklung, sondern die erste verfügbare Handlungsoption eines Menschen, der stark fühlt, aber weder sprechen noch bremsen kann. Sie erreicht ihren Höhepunkt zwischen zwei und drei Jahren und geht danach bei den allermeisten Kindern von selbst zurück – in dem Maß, in dem Sprache und Impulskontrolle wachsen. Deine Aufgabe ist deshalb nicht, das Verhalten abzugewöhnen, sondern es zu begrenzen und die Fähigkeiten zu füttern, die es überflüssig machen.",
+  "keyFacts": [
+    "Körperliche Aggression beginnt im zweiten Lebensjahr und erreicht ihren Höhepunkt typischerweise zwischen zwei und drei Jahren.",
+    "Der Rückgang danach ist der Normalfall und hängt eng mit Wortschatz und Impulskontrolle zusammen.",
+    "Kinder hauen nicht, weil sie es gesehen haben – sie hören damit auf, weil sie Alternativen lernen.",
+    "In der Situation zählen Sekunden und wenige Worte, nicht Erklärungen.",
+    "Zurückbeißen, Beschämen und lange Vorträge verlängern die Phase eher, als sie zu beenden.",
+    "Auffällig ist nicht das Auftreten, sondern anhaltend hohe Häufigkeit über das vierte Lebensjahr hinaus."
+  ],
+  "blocks": [
+    {
+      "type": "p",
+      "lead": true,
+      "text": "Es passiert im Sandkasten, an der Garderobe, bei der Oma auf dem Sofa: Dein Kind haut zu, und der Boden tut sich auf. Kaum ein Verhalten wird von Eltern so sehr als persönliches Versagen gelesen wie dieses. Der Forschungsstand sagt etwas anderes – nämlich, dass praktisch jedes Kind diese Phase durchläuft."
+    },
+    {
+      "type": "section",
+      "heading": "Der Befund, der entlastet",
+      "blocks": [
+        {
+          "type": "evidence",
+          "level": "stark",
+          "claim": "Kinder beginnen im Lauf des zweiten Lebensjahres, körperlich aggressiv zu handeln. Die Häufigkeit erreicht typischerweise zwischen zwei und drei Jahren ihren Höhepunkt und geht danach bei der großen Mehrheit deutlich zurück.",
+          "note": "Dieses Anstiegs- und Abfallmuster ist in mehreren großen Längsschnittstudien übereinstimmend gefunden worden – es ist einer der stabilsten Befunde der Entwicklungspsychologie überhaupt. Die zentrale Umkehrung, die daraus folgt: Die eigentliche Entwicklungsleistung ist nicht das Aggressivwerden, sondern das Aufhören. Kinder lernen nicht zu hauen, sie lernen, es zu lassen.",
+          "sources": [0, 2]
+        },
+        {
+          "type": "evidence",
+          "level": "moderat",
+          "claim": "Wie schnell körperliche Aggression zurückgeht, hängt eng mit dem Wortschatz und der wachsenden Fähigkeit zusammen, einen begonnenen Impuls zu unterdrücken.",
+          "note": "Untersuchungen zu Aggressionsverläufen vom Säuglings- ins Kleinkindalter fanden genau diesen Zusammenhang: Kinder mit besserer Hemmungskontrolle, längerer Aufmerksamkeitsspanne und größerem Wortschatz zeigten flachere Aggressionsverläufe. Praktisch heißt das, dass Sprachförderung im Alltag mehr gegen Hauen ausrichtet als jede Konsequenz – und dass ein Late Talker mit besonders vielen Konflikten oft kein Erziehungsproblem hat, sondern ein Sprachthema.",
+          "sources": [1, 3]
+        },
+        {
+          "type": "timeline",
+          "title": "Der typische Verlauf",
+          "entries": [
+            {
+              "age": "10–15 Monate",
+              "label": "Erste körperliche Aktionen",
+              "text": "Greifen, Schubsen, Kratzen, Haareziehen – meist noch ohne Absicht, jemandem wehzutun. Beißen taucht oft im Zusammenhang mit dem Zahnen und dem Erkunden des Mundes auf."
+            },
+            {
+              "age": "18–24 Monate",
+              "label": "Anstieg",
+              "text": "Der Wille ist da, die Sprache nicht. Aggression wird gezielter und häufiger, gerade in Gruppensituationen mit Besitzkonflikten."
+            },
+            {
+              "age": "2–3 Jahre",
+              "label": "Höhepunkt",
+              "text": "Die Phase mit den meisten Vorfällen. Sie fällt mit der Autonomieentwicklung zusammen: großer Wille, wenig Steuerung."
+            },
+            {
+              "age": "3–4 Jahre",
+              "label": "Deutlicher Rückgang",
+              "text": "Mit dem Wortschatzsprung und der wachsenden Impulskontrolle nimmt körperliche Aggression bei den meisten Kindern spürbar ab. An ihre Stelle treten Worte – auch unschöne."
+            },
+            {
+              "age": "Ab 4–5 Jahren",
+              "label": "Ausnahme statt Regel",
+              "text": "Körperliche Angriffe werden selten. Bleibt die Häufigkeit hoch, lohnt eine fachliche Einschätzung – nicht als Alarm, sondern weil frühe Unterstützung hier gut wirkt."
+            }
+          ],
+          "caption": "Verlaufsmuster nach Längsschnittstudien zu Aggressionsverläufen in der frühen Kindheit. Der Zeitpunkt des Höhepunkts variiert zwischen Kindern um Monate; entscheidend ist die Richtung, nicht das Datum."
+        }
+      ]
+    },
+    {
+      "type": "section",
+      "heading": "Warum gerade jetzt",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "Ein Zweijähriges hat starke Gefühle, klare Absichten und ein Gehirn, dessen Bremssystem noch im Bau ist. Es kann den Impuls wahrnehmen, aber nicht anhalten. Dazu kommt: Hauen funktioniert. Es beendet die Situation sofort, das andere Kind lässt den Bagger los, ein Erwachsener kommt. Für ein Gehirn, das nach Wirksamkeit sucht, ist das eine ausgezeichnete Bilanz."
+        },
+        {
+          "type": "list",
+          "ordered": false,
+          "items": [
+            {
+              "title": "Beißen ist meist keine Wut:",
+              "text": "Es tritt besonders häufig bei Überforderung, Enge, Müdigkeit oder auch bei Freude und Aufregung auf. Deshalb erwischt es oft ausgerechnet Lieblingsmenschen."
+            },
+            {
+              "title": "Werfen ist Physik:",
+              "text": "Zwischen 18 Monaten und drei Jahren wird geworfen, weil es fliegt und knallt. Der Ärger danach ist ein zusätzlicher, interessanter Effekt – nicht das Ziel."
+            },
+            {
+              "title": "Hauen ist Kommunikation:",
+              "text": "Weg da, das ist meins, ich bin fertig. Alles Aussagen, für die die Worte noch fehlen."
+            },
+            {
+              "title": "Nachahmung erklärt wenig:",
+              "text": "Aggression tritt auch bei Kindern auf, die nie Gewalt gesehen haben. Was Vorbilder beeinflussen, ist eher, wie lange sie bleibt, nicht ob sie auftritt."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "section",
+      "heading": "In der Situation: die ersten zehn Sekunden",
+      "blocks": [
+        {
+          "type": "steps",
+          "title": "Was in der Situation tatsächlich hilft",
+          "items": [
+            {
+              "title": "Zuerst stoppen, dann sprechen",
+              "text": "Geh dazwischen, halte die Hand fest, nimm dein Kind aus der Reichweite. Körperlich begrenzen ist keine Gewalt, sondern die Aufgabe. Ein Verbot aus drei Metern Entfernung erreicht ein Zweijähriges nicht."
+            },
+            {
+              "title": "Ein Satz, kurz und ruhig",
+              "text": "Stopp. Beißen tut weh. Mehr nicht. Je aufgeregter deine Reaktion, desto interessanter die Handlung – und desto weniger versteht dein Kind davon."
+            },
+            {
+              "title": "Zuerst zum getroffenen Kind",
+              "text": "Trösten, nachsehen, versorgen. Das ist keine Bestrafung durch Entzug, sondern zeigt, worauf es ankommt: Es gibt hier jemanden, dem es schlecht geht."
+            },
+            {
+              "title": "Dann zu deinem Kind",
+              "text": "Es ist meist selbst erschrocken. Benenne das Gefühl, nicht die Person: Du warst wütend, weil er den Bagger hatte. Wut ist erlaubt, hauen nicht."
+            },
+            {
+              "title": "Die Alternative anbieten",
+              "text": "Sag stopp. Hol mich. Stampf mit dem Fuß. Ein Kind kann ein Verhalten nur aufgeben, wenn es ein anderes hat, das die gleiche Funktion erfüllt."
+            },
+            {
+              "title": "Keine erzwungene Entschuldigung",
+              "text": "Ein Sorry auf Kommando stellt nichts wieder her und wird schnell zur Eintrittskarte für die nächste Runde. Wiedergutmachung wirkt besser: ein Kühlpad holen, das Spielzeug zurückbringen."
+            }
+          ]
+        },
+        {
+          "type": "callout",
+          "variant": "myth",
+          "title": "Zurückbeißen, damit es merkt, wie das ist",
+          "text": "Der Rat hält sich hartnäckig und ist aus zwei Gründen falsch. Erstens versteht ein Zweijähriges den Zusammenhang nicht als Lektion, sondern als Angriff durch die Person, die es schützen soll. Zweitens bestätigt er genau die Regel, die du gerade aufstellst – dass man Konflikte körperlich löst. Dasselbe gilt für Beschämen vor anderen und für den Satz, dass keiner mehr mit dir spielen will."
+        },
+        {
+          "type": "callout",
+          "variant": "tip",
+          "title": "Muster erkennen statt Einzelfälle bekämpfen",
+          "items": [
+            "Notiere eine Woche lang nur drei Dinge: Uhrzeit, Ort, was direkt davor passiert ist.",
+            "Achte auf die üblichen Verdächtigen: Hunger, Müdigkeit, Enge, Lärm, Übergänge, zu lange Wartezeiten.",
+            "Die meisten Vorfälle häufen sich in einem Zeitfenster. Dieses Fenster zu entlasten, wirkt schneller als jede Reaktion danach.",
+            "Bei Gruppensituationen hilft Vorbereitung: früher hingehen, Rückzugsort zeigen, nach 45 Minuten gehen statt nach 90."
+          ]
+        }
+      ]
+    },
+    {
+      "type": "section",
+      "heading": "Wenn die Kita anruft",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "Ein Anruf, der mit den Worten beginnt, dass es heute wieder einen Vorfall gab, trifft Eltern hart. Er wird oft als Vorwurf gelesen, auch wenn er keiner ist. Hilfreich ist, ihn als das zu nehmen, was er sachlich ist: eine Information über eine Situation, die in der Einrichtung entstanden ist und dort auch bearbeitet werden muss."
+        },
+        {
+          "type": "list",
+          "ordered": false,
+          "items": [
+            {
+              "title": "Zu Hause nicht nachbestrafen:",
+              "text": "Ein Kind kann Stunden später keinen Bezug mehr herstellen. Was du nachträglich sanktionierst, lernt es nicht – es lernt nur, dass die Kita schlechte Nachrichten produziert."
+            },
+            {
+              "title": "Nach Mustern fragen, nicht nach Schuld:",
+              "text": "Zu welcher Tageszeit? In welcher Situation? Wie viele Kinder waren im Raum? Wie viele Fachkräfte? Beißphasen häufen sich in Gruppen, die zu voll oder zu dünn besetzt sind."
+            },
+            {
+              "title": "Auf ein gemeinsames Vorgehen dringen:",
+              "text": "Dieselben Worte, dieselbe Reaktion in Kita und zu Hause. Uneinheitlichkeit verlängert die Phase deutlich."
+            },
+            {
+              "title": "Wenn dein Kind das gebissene ist:",
+              "text": "Der Ärger ist berechtigt, das Ziel bleibt aber die Situation, nicht das andere Kind. Beißen wird in Kitas datenschutzbedingt oft nicht mit Namen berichtet – das ist kein Vertuschen."
+            },
+            {
+              "title": "Ein Rauswurf ist selten die Lösung:",
+              "text": "Kinder, denen wegen Beißens gekündigt wird, tragen das Verhalten in die nächste Einrichtung. Fachlich angezeigt ist eine engere Begleitung, nicht ein Ortswechsel."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "section",
+      "heading": "Wann es auffällig wird",
+      "blocks": [
+        {
+          "type": "callout",
+          "variant": "warn",
+          "title": "Anlass für eine fachliche Einschätzung",
+          "items": [
+            "Die Häufigkeit nimmt nach dem dritten Geburtstag nicht ab oder steigt weiter.",
+            "Aggression ist geplant, gezielt und richtet sich wiederholt gegen dasselbe Kind.",
+            "Dein Kind lässt sich danach kaum beruhigen oder wirkt völlig unbeteiligt.",
+            "Es kommt zu Verletzungen, die über blaue Flecken hinausgehen.",
+            "Das Verhalten tritt gleichzeitig zu Hause, in der Kita und bei Dritten auf.",
+            "Es kam plötzlich und ohne erkennbaren Anlass in ein bislang unauffälliges Kind."
+          ]
+        },
+        {
+          "type": "p",
+          "text": "Erste Anlaufstellen sind die Kinderärztin bei der nächsten U-Untersuchung, die Erziehungsberatungsstelle vor Ort und – wenn Sprache eine Rolle spielt – eine logopädische Abklärung. Häufige, hartnäckige Aggression im Kleinkindalter ist gut behandelbar, und je früher etwas passiert, desto weniger aufwendig ist es. Der Verweis ist ausdrücklich kein Verdacht auf eine Störung, sondern eine Abkürzung."
+        }
+      ]
+    },
+    {
+      "type": "section",
+      "heading": "Häufige Fragen",
+      "blocks": [
+        {
+          "type": "faq",
+          "items": [
+            {
+              "q": "Mein Kind beißt nur mich, nie andere. Was heißt das?",
+              "a": "Meist, dass es sich bei dir sicher genug fühlt, um seine ganze Überforderung zu zeigen. Das ist paradox, aber ein gutes Zeichen. Praktisch hilft dieselbe Reaktion wie sonst: ruhig stoppen, kurzer Satz, Alternative anbieten. Wenn es beim Kuscheln passiert, ist es oft ein Zuviel an Nähe – dann hilft, die Situation früher zu beenden."
+            },
+            {
+              "q": "Wirkt eine Auszeit oder der stille Stuhl?",
+              "a": "Bei Kleinkindern in der Regel nicht in der beabsichtigten Weise. Ein Zweijähriges verbindet die Isolation nicht mit der Tat, sondern erlebt Alleinsein in einem Moment höchster Erregung – also genau dann, wenn es Hilfe zur Beruhigung bräuchte. Wirksamer ist eine gemeinsame Pause: raus aus der Situation, mit dir, ohne Vortrag."
+            },
+            {
+              "q": "Andere Eltern reagieren wütend auf dem Spielplatz. Wie gehe ich damit um?",
+              "a": "Erst handeln, dann erklären: zum getroffenen Kind gehen, sich beim anderen Elternteil aufrichtig entschuldigen, den eigenen Umgang kurz benennen. Ein Satz wie: Wir arbeiten gerade daran, es tut mir leid, reicht. Du schuldest niemandem eine entwicklungspsychologische Verteidigungsrede, und du musst dein Kind auch nicht vor Fremden bloßstellen, um Haltung zu zeigen."
+            },
+            {
+              "q": "Sollte ich Kindern beibringen zurückzuhauen?",
+              "a": "Nein. Kleinkinder können die Situation nicht einschätzen, in der das angemessen wäre, und würden die Regel unweigerlich auf andere Situationen übertragen. Was tatsächlich schützt, ist etwas anderes: laut Stopp sagen, sich groß machen, weggehen und Hilfe holen. Das lässt sich mit Dreijährigen gut üben."
+            },
+            {
+              "q": "Wir haben nie geschlagen. Woher hat es das?",
+              "a": "Von nirgendwo. Körperliche Aggression muss nicht gelernt werden, sie ist die Standardausstattung eines Menschen ohne Sprache und Impulskontrolle. Vorbilder beeinflussen eher, wie lange sie bleibt. Dass ihr nicht schlagt, ist einer der Gründe, warum sie bei eurem Kind voraussichtlich schnell wieder verschwindet."
+            },
+            {
+              "q": "Wie lange dauert eine Beißphase?",
+              "a": "Meist einige Wochen bis wenige Monate. Sie flackert bei Belastungen wieder auf – Kita-Wechsel, Geschwisterkind, Umzug, Krankheit. Ein Rückfall ist deshalb kein Beweis dafür, dass eure Strategie nicht funktioniert."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "callout",
+      "variant": "info",
+      "title": "Kurz gesagt",
+      "text": "Fast alle Kleinkinder hauen, beißen oder werfen, und fast alle hören von selbst wieder damit auf. Stoppe körperlich, sprich kurz, kümmere dich zuerst um das getroffene Kind und biete eine Alternative an. Investiere in Sprache und in entlastete Tagesabschnitte statt in Konsequenzen. Und werde erst dann unruhig, wenn die Häufigkeit nach dem dritten Geburtstag nicht nachlässt."
+    }
+  ],
+  "sources": [
+    {
+      "title": "Modeling trajectories of physical aggression from infancy to pre-school age, their early predictors, and school-age outcomes",
+      "publisher": "PLOS ONE",
+      "year": "2023",
+      "kind": "Studie",
+      "url": "https://journals.plos.org/plosone/article?id=10.1371%2Fjournal.pone.0291704"
+    },
+    {
+      "title": "The Role of Inhibitory Control, Attention and Vocabulary in Physical Aggression Trajectories From Infancy to Toddlerhood",
+      "publisher": "Frontiers in Psychology",
+      "year": "2020",
+      "kind": "Studie",
+      "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7264375/"
+    },
+    {
+      "title": "Aggression as an Outcome of Early Childhood Development: Comments on Tremblay, Keenan, and Ishikawa and Raine",
+      "publisher": "Encyclopedia on Early Childhood Development",
+      "year": "abgerufen 2026",
+      "kind": "Übersichtsarbeit",
+      "url": "https://www.child-encyclopedia.com/aggression/according-experts/aggression-outcome-early-childhood-development-comments-tremblay-keenan"
+    },
+    {
+      "title": "Developmental trajectories of physical aggression: prediction of overt and covert antisocial behaviors from self- and mothers' reports",
+      "publisher": "European Child & Adolescent Psychiatry",
+      "year": "2011",
+      "kind": "Studie",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/20878197/"
+    },
+    {
+      "title": "Kindliche Trotzphase – Elterninformation",
+      "publisher": "Bundeszentrale für gesundheitliche Aufklärung (BZgA), kindergesundheit-info.de",
+      "year": "abgerufen 2026",
+      "kind": "Institutionelle Information",
+      "url": "https://www.kindergesundheit-info.de/themen/entwicklung/alltagstipps/entwicklungsschritte/trotzverhalten/"
+    }
+  ],
+  "related": ["wutanfaelle-begleiten", "autonomiephase", "sprachexplosion", "co-regulation"]
+}

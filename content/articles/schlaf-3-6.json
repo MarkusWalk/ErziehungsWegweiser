@@ -1,0 +1,299 @@
+{
+  "slug": "schlaf-3-6",
+  "title": "Schlaf im Kindergartenalter",
+  "subtitle": "Wie viel Schlaf Drei- bis Sechsjährige brauchen, warum das Zubettgehen jetzt eine Verhandlung wird – und warum Schlafwandeln, Nachtschreck und Zähneknirschen fast immer harmlos sind.",
+  "phases": ["kindergarten"],
+  "topics": ["schlaf"],
+  "updated": "2026-08-06",
+  "summary": "Zwischen drei und sechs Jahren verschiebt sich fast alles beim Schlaf: Der Mittagsschlaf fällt weg, die Nächte werden stabiler, und gleichzeitig kommen die Abendängste. Der Schlafbedarf liegt in dieser Zeit bei etwa 10 bis 13 Stunden. Die häufigsten Themen sind jetzt nicht mehr nächtliches Aufwachen, sondern Hinauszögern am Abend, Angst vor dem Alleinsein und ein Schlafzimmer, das der Bildschirmzeit zu nahe gerückt ist. Auffällige nächtliche Phänomene wie Schlafwandeln oder Zähneknirschen wirken beunruhigend und sind in diesem Alter meist harmlos.",
+  "keyFacts": [
+    "Schlafbedarf 3–5 Jahre: 10–13 Stunden, 6 Jahre: 9–12 Stunden, jeweils inklusive Tagschlaf.",
+    "Der Mittagsschlaf endet meist zwischen drei und fünf Jahren – oft holprig.",
+    "Abendliches Hinauszögern ist Entwicklungsaufgabe, nicht Ungehorsam.",
+    "Bildschirme in der letzten Stunde und im Schlafzimmer verzögern das Einschlafen messbar.",
+    "Schlafwandeln, Nachtschreck und Zähneknirschen sind in diesem Alter fast immer harmlos."
+  ],
+  "blocks": [
+    {
+      "type": "p",
+      "lead": true,
+      "text": "Im Kindergartenalter wird der Schlaf zum ersten Mal berechenbarer – und der Weg dorthin gleichzeitig komplizierter. Ein Vierjähriger schläft meist durch, kann aber inzwischen argumentieren, verhandeln, Angst haben und aufstehen. Die meisten Schlafthemen dieser Jahre spielen sich deshalb nicht nachts ab, sondern in der Stunde davor."
+    },
+    {
+      "type": "callout",
+      "variant": "info",
+      "title": "Was hier nicht steht",
+      "text": "Der Aufbau eines Abendrituals, die Bettkarte gegen ständiges Aufstehen, der Unterschied zwischen Nachtschreck und Albtraum und der Umzug ins große Bett sind ausführlich im Artikel zum Schlaf im Kleinkindalter behandelt. Hier geht es um das, was ab drei Jahren neu dazukommt."
+    },
+    {
+      "type": "section",
+      "heading": "Wie viel Schlaf ist in diesem Alter normal?",
+      "blocks": [
+        {
+          "type": "figure",
+          "kind": "range",
+          "title": "Empfohlener Gesamtschlaf pro 24 Stunden",
+          "alt": "Balkendiagramm mit Schlafspannen: 1 bis 2 Jahre 11 bis 14 Stunden, 3 bis 5 Jahre 10 bis 13 Stunden, 6 bis 13 Jahre 9 bis 11 Stunden",
+          "min": 8,
+          "max": 15,
+          "ticks": [8, 10, 12, 14],
+          "data": [
+            { "label": "1–2 Jahre", "from": 11, "to": 14, "display": "11–14 h" },
+            { "label": "3–5 Jahre", "from": 10, "to": 13, "display": "10–13 h" },
+            { "label": "6–13 Jahre", "from": 9, "to": 11, "display": "9–11 h" }
+          ],
+          "caption": "Empfehlungen der National Sleep Foundation, inklusive Tagschlaf. Die Spanne ist Absicht: Kinder am unteren und oberen Rand sind nicht auffällig, solange sie tagsüber ausgeglichen wirken.",
+          "sources": [0, 1]
+        },
+        {
+          "type": "p",
+          "text": "Die Bandbreite von drei Stunden ist wichtiger als der Mittelwert. Es gibt Fünfjährige, die mit zehn Stunden bestens auskommen, und andere, die dreizehn brauchen. Die verlässlichste Auskunft gibt nicht die Uhr, sondern der Tag: Ein ausgeschlafenes Kind ist morgens von selbst wach, kommt ohne dramatische Zusammenbrüche durch den Nachmittag und ist am Wochenende nicht wesentlich länger im Bett als unter der Woche."
+        },
+        {
+          "type": "callout",
+          "variant": "tip",
+          "title": "Der Wochenendtest",
+          "text": "Wenn dein Kind am Wochenende zwei Stunden länger schläft als an Kitatagen, fehlt ihm unter der Woche Schlaf. Die Lösung ist dann nicht später aufwachen, sondern früher ins Bett – meist reicht es, die Bettzeit über zwei Wochen in Schritten von zehn Minuten vorzuziehen."
+        }
+      ]
+    },
+    {
+      "type": "section",
+      "heading": "Das Ende des Mittagsschlafs",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "Die meisten Kinder geben den Mittagsschlaf zwischen drei und fünf Jahren auf. Der Übergang ist selten sauber: Es gibt Wochen, in denen dein Kind mittags schläft und abends bis neun wach liegt, und Wochen, in denen es mittags nicht schläft und um halb sechs am Esstisch einschläft. Beides ist normal."
+        },
+        {
+          "type": "list",
+          "ordered": false,
+          "items": [
+            { "title": "Das Signal zum Aufhören:", "text": "Wenn dein Kind nach dem Mittagsschlaf abends regelmäßig eine Stunde oder länger wach liegt, kostet der Mittagsschlaf mehr, als er bringt." },
+            { "title": "Die Zwischenstufe:", "text": "Ruhezeit statt Schlafzeit. Dreißig bis vierzig Minuten mit Hörspiel oder Büchern im Bett, ohne Einschlafpflicht. Das trägt oft über den Übergang." },
+            { "title": "Nicht zu spät und nicht zu lang:", "text": "Ein Mittagsschlaf nach 15 Uhr oder länger als anderthalb Stunden verschiebt den Abend spürbar." },
+            { "title": "Die Kita entscheidet mit:", "text": "In vielen Einrichtungen gibt es eine feste Ruhezeit. Sprich das an, wenn dein Kind dort noch schläft und abends nicht mehr müde wird – Alternativen sind meist möglich." },
+            { "title": "Die Übergangsphase abfedern:", "text": "In der Zeit ohne Mittagsschlaf und noch ohne angepassten Abend hilft ein früheres Abendessen und eine Bettzeit, die ruhig eine halbe Stunde vorne liegen darf." }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "section",
+      "heading": "Abendängste und Bettgehkonflikte",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "Zwischen vier und sechs Jahren kommen die Ängste vor Monstern, Dunkelheit und Einbrechern – nicht als Störung, sondern als Folge der wachsenden Vorstellungskraft. Sie treffen ausgerechnet den Moment, in dem das Kind allein in einem dunklen Zimmer bleiben soll, während nebenan Licht brennt. Dass daraus Widerstand wird, ist naheliegend."
+        },
+        {
+          "type": "p",
+          "text": "Das zweite Thema ist das Hinauszögern: noch ein Buch, noch Wasser, noch mal aufs Klo, noch eine Frage. Das ist keine Provokation, sondern eine ziemlich vernünftige Reaktion auf eine Trennung, die das Kind nicht will. Wirksam ist deshalb nicht Strenge, sondern Vorhersehbarkeit."
+        },
+        {
+          "type": "steps",
+          "title": "Was den Abend entschärft",
+          "items": [
+            {
+              "title": "Die Reihenfolge festlegen, nicht die Uhrzeit",
+              "text": "Ein Ablauf, der jeden Abend gleich ist, wirkt stärker als eine exakte Uhrzeit. Dein Kind weiß dann, was noch kommt – und was nicht mehr."
+            },
+            {
+              "title": "Alle Anliegen vorher abarbeiten",
+              "text": "Wasser steht am Bett, das Klo war dran, das Kuscheltier ist da. Damit fallen die klassischen Verzögerungsgründe weg, bevor sie entstehen."
+            },
+            {
+              "title": "Ein festes Kontingent statt endloser Diskussion",
+              "text": "Zwei Bücher, ein Lied, ein Extrawunsch – vorher angesagt. Kinder halten ein Kontingent besser aus als ein offenes Ende."
+            },
+            {
+              "title": "Nähe zeitlich befristen, nicht verweigern",
+              "text": "„Ich bleibe fünf Minuten bei dir und komme dann nochmal kurz gucken“ ist tragfähiger als ganz gehen oder ganz bleiben. Das Wiederkommen musst du wirklich einhalten."
+            },
+            {
+              "title": "Bei Angst: Licht ist erlaubt",
+              "text": "Ein gedimmtes Nachtlicht ist keine Kapitulation. Was du nicht dauerhaft tun solltest, ist die gefürchtete Situation ganz aufzulösen – also etwa jede Nacht ins Elternbett zu holen, ohne einen Weg zurück zu planen."
+            }
+          ]
+        },
+        {
+          "type": "callout",
+          "variant": "info",
+          "title": "Wenn die Angst größer wird statt kleiner",
+          "text": "Abendängste, die über Monate zunehmen, den ganzen Abend beherrschen oder tagsüber weitergehen, gehören besprochen – zuerst in der Kinderarztpraxis. Mehr dazu im Artikel über Ängste bei Kindern."
+        }
+      ]
+    },
+    {
+      "type": "section",
+      "heading": "Bildschirme am Abend",
+      "blocks": [
+        {
+          "type": "evidence",
+          "level": "moderat",
+          "claim": "Bildschirmnutzung am Abend und im Schlafzimmer hängt mit späterem Einschlafen und kürzerer Schlafdauer zusammen. Pro zusätzlicher Stunde Bildschirmzeit verschiebt sich die Einschlafzeit im Mittel um gut zehn Minuten nach hinten.",
+          "note": "Systematische Übersichtsarbeiten finden diesen Zusammenhang konsistent, die Effekte pro Stunde sind aber klein und die Studien überwiegend beobachtend. Für jüngere Kinder ist die Datenlage dünner als für Schulkinder. Besonders ungünstig sind interaktive Inhalte kurz vor dem Schlafen und Geräte im Schlafzimmer – dort ist der Zusammenhang am deutlichsten.",
+          "sources": [3, 4]
+        },
+        {
+          "type": "p",
+          "text": "Praktisch heißt das nicht, dass ein Film am Sonntagnachmittag den Schlaf ruiniert. Es heißt: Die letzte Stunde vor dem Bett gehört dem Ruhigen, und Geräte übernachten nicht im Kinderzimmer. Das ist im Vorschulalter leicht einzuführen – später wird es zur Verhandlungssache."
+        },
+        {
+          "type": "callout",
+          "variant": "tip",
+          "title": "Die Pufferstunde",
+          "items": [
+            "Bildschirm aus, spätestens 60 Minuten vor der Bettzeit",
+            "Danach nur noch Dinge, die leiser werden: Bad, Vorlesen, Aufräumen, Reden",
+            "Keine aufregenden Inhalte am Abend, auch keine harmlos wirkenden Kinderfilme",
+            "Geräte laden außerhalb des Kinderzimmers – auch das Hörspielgerät braucht eine Endzeit",
+            "Ein Hörspiel im Dunkeln ist meist unproblematisch, solange es abschaltet und nicht neu gestartet wird"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "section",
+      "heading": "Wenn nachts merkwürdige Dinge passieren",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "Im Kindergartenalter häufen sich Phänomene, die Eltern erschrecken und fast immer harmlos sind. Sie treten überwiegend im ersten Nachtdrittel aus dem Tiefschlaf heraus auf, das Kind ist dabei nicht wach und erinnert sich am nächsten Morgen an nichts."
+        },
+        {
+          "type": "comparison",
+          "title": "Meist harmlos – und was dennoch abklärungsbedürftig ist",
+          "columns": [
+            {
+              "title": "Kein Grund zur Sorge",
+              "tone": "good",
+              "items": [
+                "Schlafwandeln: aufstehen, umhergehen, wirres Reden im ersten Nachtdrittel",
+                "Nachtschreck: Schreien mit offenen Augen, ohne ansprechbar zu sein",
+                "Zähneknirschen im Schlaf, ohne Schmerzen oder sichtbaren Zahnschaden",
+                "Sprechen im Schlaf, Zucken beim Einschlafen",
+                "Gelegentliche Albträume, an die sich das Kind erinnert"
+              ]
+            },
+            {
+              "title": "Bitte ärztlich abklären",
+              "tone": "bad",
+              "items": [
+                "Regelmäßiges Schnarchen, Atempausen oder Mundatmung im Schlaf",
+                "Morgens dauerhaft nicht erholt, ausgeprägte Tagesmüdigkeit",
+                "Kopfschmerzen oder Kieferschmerzen am Morgen beim Zähneknirschen",
+                "Sehr häufige nächtliche Ereignisse mit Verletzungsgefahr",
+                "Neu auftretendes Einnässen, nachdem es lange trocken war"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "evidence",
+          "level": "moderat",
+          "claim": "Zähneknirschen im Schlaf ist bei Kindern häufig – die Angaben reichen je nach Erhebungsmethode von wenigen bis zu über vierzig Prozent – und verläuft in der Regel selbstbegrenzend ohne Behandlungsbedarf.",
+          "note": "Übersichtsarbeiten zur Kinderzahnheilkunde stimmen darin überein, dass im Kindesalter meist keine spezifische Behandlung nötig ist. Die große Spannweite der Häufigkeitsangaben zeigt, wie unscharf die Diagnose ist – sie beruht überwiegend darauf, ob Eltern etwas hören. Beim zahnärztlichen Kontrolltermin ansprechen reicht in aller Regel; Aufbissschienen sind bei Milchzähnen die Ausnahme.",
+          "sources": [5]
+        },
+        {
+          "type": "p",
+          "text": "Der wichtigste Umgang mit Schlafwandeln und Nachtschreck ist auch der schwerste: nichts tun. Nicht wecken, nicht ansprechen, nicht festhalten. Nur die Umgebung sichern – Treppengitter, verschlossene Haustür, keine Gegenstände im Weg – und daneben bleiben, bis es vorbei ist. Beides tritt gehäuft bei Schlafmangel auf, ein etwas früherer Abend ist deshalb die wirksamste Vorbeugung."
+        }
+      ]
+    },
+    {
+      "type": "section",
+      "heading": "Häufige Fragen",
+      "blocks": [
+        {
+          "type": "faq",
+          "items": [
+            {
+              "q": "Mein Kind ist fünf und schläft noch immer nur ein, wenn ich dabei bin. Ist das noch normal?",
+              "a": "Es ist häufig und keine Störung. Ob ihr etwas ändert, ist eine Frage eurer Belastung, nicht der Norm. Wenn ihr etwas ändern wollt, geht es in kleinen Schritten: dieselbe Position, aber ein Stück weiter weg, alle paar Tage ein Stück mehr, bis du an der Tür sitzt. Das dauert Wochen und funktioniert deutlich besser als ein abrupter Wechsel."
+            },
+            {
+              "q": "Wie spät darf ein Vierjähriger ins Bett?",
+              "a": "Es gibt keine feste Uhrzeit, es gibt eine Rechnung: Aufstehzeit minus benötigte Schlafdauer minus etwa zwanzig Minuten zum Einschlafen. Wenn dein Kind um halb sieben geweckt werden muss und elf Stunden braucht, liegt die Bettzeit rechnerisch bei etwa 19:10 Uhr. Ein früherer Abend ist fast immer die wirksamere Stellschraube als alles andere."
+            },
+            {
+              "q": "Mein Kind kommt jede Nacht zu uns. Was sollen wir tun?",
+              "a": "Zuerst entscheiden, ob es euch stört – wenn nicht, ist es kein Problem, das gelöst werden muss. Wenn doch, hilft ein schrittweiser Weg zurück: erst eine Matratze neben eurem Bett, dann eine im eigenen Zimmer, dann das eigene Bett. Und ein Angebot statt eines Verbots: „Wenn du aufwachst, kommst du nicht ins Bett, sondern rufst mich – ich komme.“"
+            },
+            {
+              "q": "Hilft ein Nachtlicht oder verstärkt es die Angst?",
+              "a": "Ein gedimmtes Nachtlicht schadet dem Schlaf nach heutigem Kenntnisstand nicht und nimmt vielen Kindern die Anspannung. Vermeide helles, kaltweißes Licht und Geräte mit Display. Was die Angst tatsächlich verstärken kann, ist die vollständige Vermeidung – also etwa dauerhaft im Zimmer zu bleiben, ohne dass sich daran je etwas ändert."
+            },
+            {
+              "q": "Mein Kind wacht morgens um halb sechs auf. Kann ich das verschieben?",
+              "a": "Nur begrenzt. Später ins Bett zu bringen führt bei kleinen Kindern häufig zu noch früherem Aufwachen, weil Übermüdung den Schlaf unruhiger macht. Wirksamer ist: abends etwas früher, morgens das Zimmer wirklich dunkel halten und eine klare Regel, was vor einer bestimmten Uhrzeit gilt – etwa eine Uhr mit Farbwechsel oder eine Kiste mit Dingen, die es allein leise tun darf."
+            },
+            {
+              "q": "Wir haben ein zweites Kind bekommen und der Schlaf ist zusammengebrochen. Ist das normal?",
+              "a": "Ja. Umbrüche – Geschwisterkind, Kitawechsel, Umzug, Krankheit, Urlaub – zeigen sich bei Kindern zuerst im Schlaf. Solche Rückschritte dauern typischerweise ein paar Wochen. Halte in dieser Zeit am gewohnten Ablauf fest, gib mehr Nähe als sonst und geh davon aus, dass sich das von selbst wieder einpendelt."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "callout",
+      "variant": "info",
+      "title": "Kurz gesagt",
+      "text": "Zehn bis dreizehn Stunden, ein Ablauf, der jeden Abend gleich ist, und eine Pufferstunde ohne Bildschirm. Abendängste und Hinauszögern gehören zu diesem Alter und brauchen Vorhersehbarkeit statt Strenge. Und wenn nachts jemand schreiend im Flur steht, ohne ansprechbar zu sein: nicht wecken, nur sichern – morgen weiß dein Kind nichts mehr davon."
+    }
+  ],
+  "sources": [
+    {
+      "title": "National Sleep Foundation’s updated sleep duration recommendations: final report",
+      "publisher": "Sleep Health (Hirshkowitz et al.)",
+      "year": "2015",
+      "kind": "Empfehlung",
+      "url": "https://www.sleephealthjournal.org/article/S2352-7218(15)00160-6/abstract"
+    },
+    {
+      "title": "Guidelines on physical activity, sedentary behaviour and sleep for children under 5 years of age",
+      "publisher": "World Health Organization",
+      "year": "2019",
+      "kind": "Leitlinie",
+      "url": "https://www.who.int/publications/i/item/9789241550536"
+    },
+    {
+      "title": "Schlafen – Elterninformationen und Albträume, Nachtschreck und Schlafwandeln",
+      "publisher": "Bundeszentrale für gesundheitliche Aufklärung (BZgA), kindergesundheit-info.de",
+      "year": "2024",
+      "kind": "Institutionelle Information",
+      "url": "https://www.kindergesundheit-info.de/themen/schlafen/schlafprobleme/albtraeume-schlafwandeln/"
+    },
+    {
+      "title": "Screen Use at Bedtime and Sleep Duration and Quality Among Youths",
+      "publisher": "JAMA Pediatrics",
+      "year": "2024",
+      "kind": "Studie",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/39226046/"
+    },
+    {
+      "title": "Electronic media use and sleep in children and adolescents in western countries: a systematic review",
+      "publisher": "BMC Public Health",
+      "year": "2021",
+      "kind": "Übersichtsarbeit",
+      "url": "https://link.springer.com/article/10.1186/s12889-021-11640-9"
+    },
+    {
+      "title": "Sleep Bruxism in Children: Etiology, Diagnosis, and Treatment – A Literature Review",
+      "publisher": "International Journal of Environmental Research and Public Health",
+      "year": "2021",
+      "kind": "Übersichtsarbeit",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/34574467/"
+    },
+    {
+      "title": "S1-Leitlinie Nichtorganische Schlafstörungen (F51), Registernummer 028-012",
+      "publisher": "AWMF / Deutsche Gesellschaft für Kinder- und Jugendpsychiatrie, Psychosomatik und Psychotherapie",
+      "year": "2022",
+      "kind": "Leitlinie",
+      "url": "https://register.awmf.org/de/leitlinien/detail/028-012"
+    }
+  ],
+  "related": ["schlaf-kleinkind", "angst-und-mut", "mittagsschlaf", "medienerziehung-3-6"]
+}

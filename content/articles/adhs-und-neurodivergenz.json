@@ -1,0 +1,270 @@
+{
+  "slug": "adhs-und-neurodivergenz",
+  "title": "ADHS, Autismus und Neurodivergenz",
+  "subtitle": "Woran sich Auffälligkeiten von altersgemäßem Verhalten unterscheiden, wie der Diagnostikweg in Deutschland läuft, was Behandlung umfasst – und wie eine Haltung aussieht, die Vielfalt anerkennt, ohne den Leidensdruck kleinzureden.",
+  "phases": ["kindergarten", "schulkind"],
+  "topics": ["besondere-situationen", "entwicklung"],
+  "updated": "2026-08-06",
+  "summary": "Zappeln, Träumen, Regeln vergessen, Rückzug, ungewöhnliche Interessen – vieles davon gehört zur normalen Bandbreite kindlichen Verhaltens. Zur Diagnose wird es erst, wenn Auffälligkeiten früh beginnen, in mehreren Lebensbereichen auftreten und das Kind tatsächlich beeinträchtigen. Dieser Artikel erklärt die Abgrenzung, den Weg zur Diagnostik in Deutschland, die Bausteine einer multimodalen Behandlung, den Nachteilsausgleich in Kita und Schule – und warum das Wort Neurodivergenz hilfreich ist, solange es den Leidensdruck nicht wegdefiniert.",
+  "keyFacts": [
+    "Entscheidend ist nicht das einzelne Verhalten, sondern ob es früh begann, mehrere Lebensbereiche betrifft und beeinträchtigt.",
+    "Rund 4,4 Prozent der 3- bis 17-Jährigen in Deutschland haben laut KiGGS jemals eine ADHS-Diagnose erhalten – Jungen etwa viermal so häufig wie Mädchen.",
+    "Die Diagnostik gehört in eine kinder- und jugendpsychiatrische oder sozialpädiatrische Hand, nicht in einen Onlinetest.",
+    "Behandlung ist immer mehr als ein Baustein: Aufklärung, Elterntraining, Unterstützung in Kita und Schule, je nach Fall Therapie und Medikation.",
+    "Nachteilsausgleich ist kein Vorteil, sondern die Herstellung gleicher Bedingungen – und er braucht keine Diagnose als Türsteher."
+  ],
+  "blocks": [
+    {
+      "type": "p",
+      "lead": true,
+      "text": "Der Satz fällt meist beim Elternabend oder am Telefon mit der Kita: Ob man das nicht mal abklären lassen sollte. Abends tippt man dann Symptome in eine Suchmaske und findet ein Raster, in das die Hälfte aller Kinder passt – die eigenen inklusive. Das ist kein Zufall: Fast alles, was in den Kriterienlisten steht, kommt bei gesunden Kindern vor. Der Unterschied liegt nicht im Verhalten selbst, sondern in Beginn, Dauer, Ausmaß und Folgen."
+    },
+    {
+      "type": "section",
+      "heading": "Was Neurodivergenz meint – und was das Wort nicht leistet",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "Neurodivergenz ist kein medizinischer Begriff, sondern ein Perspektivbegriff: Gehirne unterscheiden sich in Aufmerksamkeit, Reizverarbeitung und sozialer Wahrnehmung natürlicherweise, so wie Körpergrößen sich unterscheiden. Diese Perspektive hat viel Gutes bewirkt – weniger Schuldzuweisung an Eltern, mehr Blick auf Stärken, mehr Anpassung der Umgebung statt des Kindes."
+        },
+        {
+          "type": "p",
+          "text": "Sie hat aber eine Grenze. Ein Kind, das jeden Morgen weint, weil es Schule nicht aushält, ein Kind ohne Freunde, ein Kind, dessen Selbstbild nach dem dritten Schuljahr aus lauter Ermahnungen besteht – das leidet, unabhängig davon, wie man seine Neurologie nennt. Die Haltung, die trägt, ist beides gleichzeitig: Dein Kind ist nicht kaputt. Und es braucht Hilfe. Der Unterschied zwischen einer Eigenart und einer Störung ist keine Frage des Etiketts, sondern der Beeinträchtigung – genau deshalb steht sie in jeder diagnostischen Definition."
+        }
+      ]
+    },
+    {
+      "type": "section",
+      "heading": "Abgrenzung: wann Verhalten altersgemäß ist",
+      "blocks": [
+        {
+          "type": "evidence",
+          "level": "stark",
+          "claim": "Für eine ADHS-Diagnose müssen die Auffälligkeiten früh begonnen haben, über Monate bestehen, in mehr als einem Lebensbereich auftreten – etwa zu Hause und in der Schule – und zu einer bedeutsamen Beeinträchtigung führen.",
+          "note": "So legen es die Diagnosekriterien fest, und so verlangt es die S3-Leitlinie. Praktisch heißt das: Ein Kind, das nur in der Schule auffällt und zu Hause völlig unauffällig ist, hat eher ein Problem mit der Schule. Und Verhalten, das erst mit neun Jahren nach einem einschneidenden Ereignis auftaucht, spricht eher für eine Reaktion als für eine Entwicklungsstörung.",
+          "sources": [0]
+        },
+        {
+          "type": "table",
+          "title": "Was in welchem Alter noch im Rahmen liegt",
+          "head": ["Alter", "Üblich und unauffällig", "Was auffällig wäre"],
+          "rows": [
+            ["3–4 Jahre", "Kurze Ausdauer, ständige Bewegung, Regeln vergessen, heftige Wut", "Gar keine Steuerbarkeit auch in ruhiger Umgebung, Sprache und Spiel bleiben deutlich zurück"],
+            ["5–6 Jahre", "In der Gruppe schwer sitzen bleiben, dazwischenreden, ungeduldig sein", "Ausschluss durch andere Kinder, tägliche Eskalationen, kein Spielaufbau mit Gleichaltrigen"],
+            ["7–9 Jahre", "Träumen, Sachen verlieren, Hausaufgaben zäh, Zappeln beim Sitzen", "Leistung weit unter dem erkennbaren Können, Kind hält sich selbst für dumm oder böse"],
+            ["Jedes Alter", "Ein bestimmtes Thema sehr intensiv verfolgen", "Gemeinsame Aufmerksamkeit, Blickkontakt und Mimik sind durchgehend anders – nicht nur in Stresssituationen"]
+          ],
+          "caption": "Orientierung, kein Prüfraster. Die rechte Spalte begründet ein Gespräch in der Kinderarztpraxis, keine Diagnose."
+        },
+        {
+          "type": "callout",
+          "variant": "info",
+          "title": "Ein oft übersehener Effekt: das Alter in der Klasse",
+          "text": "Ein Kind, das im Sommer geboren wurde und knapp sechsjährig eingeschult wird, sitzt neben Kindern, die fast ein Jahr älter sind. Elf Monate sind in diesem Alter enorm – bei Konzentration, Impulskontrolle und Ausdauer. Gute Diagnostik vergleicht deshalb mit Gleichaltrigen, nicht mit Klassenkameraden. Wenn es heißt, dein Kind sei im Vergleich zur Klasse unruhig, ist die Rückfrage berechtigt, ob das auch für sein Alter gilt."
+        }
+      ]
+    },
+    {
+      "type": "section",
+      "heading": "Autismus: worauf früh geachtet wird",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "Bei Autismus-Spektrum-Störungen liegt der Kern in der sozialen Kommunikation und in eingeschränkten, repetitiven Verhaltensmustern – durchgehend, nicht nur unter Belastung. Beobachtet werden unter anderem gemeinsame Aufmerksamkeit, Zeigen aus Mitteilungsfreude, Reaktion auf den eigenen Namen, Mimik im Dialog, Fantasiespiel sowie der Umgang mit Veränderungen und Sinnesreizen."
+        },
+        {
+          "type": "evidence",
+          "level": "moderat",
+          "claim": "Autismus-Spektrum-Störungen betreffen international schätzungsweise etwa ein Prozent der Kinder. Die Diagnostik ist mehrstufig und stützt sich auf standardisierte Beobachtung, Elterninterview und Informationen aus mehreren Lebensbereichen.",
+          "note": "Häufigkeitsschätzungen schwanken je nach Land und Diagnosepraxis erheblich; der Anstieg der Diagnosezahlen geht wesentlich auf veränderte Kriterien und bessere Erkennung zurück. Ein einzelner Fragebogen ist nie eine Diagnose.",
+          "sources": [1]
+        },
+        {
+          "type": "callout",
+          "variant": "myth",
+          "title": "„Mein Kind schaut mich doch an, also kein Autismus“",
+          "text": "Autismus ist ein Spektrum, und viele Kinder – besonders Mädchen – lernen früh, soziale Erwartungen zu bedienen. Blickkontakt und Freundschaften können bestehen, und trotzdem kann die soziale Verarbeitung anstrengend anders funktionieren. Umgekehrt ist wenig Blickkontakt für sich genommen kein Beweis."
+        }
+      ]
+    },
+    {
+      "type": "section",
+      "heading": "Der Diagnostikweg in Deutschland",
+      "blocks": [
+        {
+          "type": "steps",
+          "title": "So läuft es in der Regel ab",
+          "items": [
+            { "title": "Kinderarztpraxis zuerst", "text": "Sie ordnet ein, schließt anderes aus – Hören, Sehen, Schlaf, Belastungen in der Familie – und überweist gezielt weiter. Vereinbare einen eigenen Termin, nicht nebenbei bei der U." },
+            { "title": "Fachliche Diagnostik", "text": "Zuständig sind kinder- und jugendpsychiatrische Praxen und Ambulanzen, Sozialpädiatrische Zentren oder entsprechend qualifizierte psychotherapeutische Praxen." },
+            { "title": "Informationen aus mehreren Quellen", "text": "Elterngespräch, Fragebögen für euch und für Kita oder Schule, Verhaltensbeobachtung, Leistungsdiagnostik, körperliche Untersuchung. Ohne Rückmeldung aus der Einrichtung geht es nicht." },
+            { "title": "Differenzialdiagnostik", "text": "Angst, Depression, Traumafolgen, Schlafstörungen, Sprach- und Teilleistungsstörungen und schlicht Unterforderung erzeugen ähnliche Bilder – häufig kommt mehreres zusammen." },
+            { "title": "Rückmeldung und Plan", "text": "Am Ende steht kein Etikett, sondern ein Bild: Was fällt schwer, was gelingt, was hilft. Bestehe auf einem verständlichen Befundgespräch." }
+          ]
+        },
+        {
+          "type": "timeline",
+          "title": "Wann welche Fragen typischerweise auftauchen",
+          "entries": [
+            { "age": "2–3 Jahre", "label": "Kommunikation und Spiel", "text": "Zeigen, gemeinsame Aufmerksamkeit, Sprache, Fantasiespiel. Auffälligkeiten hier führen früh zur Abklärung – ADHS wird in diesem Alter fast nie diagnostiziert." },
+            { "age": "3–5 Jahre", "label": "Die Kita meldet sich", "text": "Erstmals gibt es eine Gruppe mit Regeln und eine Fachkraft, die viele gleichaltrige Kinder kennt. Wertvoll – und trotzdem nur eine Perspektive." },
+            { "age": "5–6 Jahre", "label": "Einschulungsuntersuchung", "text": "Häufiger Anlass für einen zweiten Blick. Eine Rückstellung ist kein Scheitern, sondern manchmal die beste verfügbare Maßnahme." },
+            { "age": "7–10 Jahre", "label": "Wenn die Anforderungen steigen", "text": "Die meisten ADHS-Diagnosen fallen in diese Zeit. Auch Mädchen mit vorwiegend unaufmerksamem Bild werden jetzt oft erst sichtbar." },
+            { "age": "10–14 Jahre", "label": "Spätdiagnosen", "text": "Wer lange kompensiert hat, gerät beim Schulwechsel an die Grenze. Eine späte Diagnose heißt nicht, dass vorher nichts da war." }
+          ],
+          "caption": "Typische Zeitpunkte, keine Regel. Entscheidend ist immer die Beeinträchtigung, nicht das Alter."
+        },
+        {
+          "type": "evidence",
+          "level": "moderat",
+          "claim": "In der KiGGS-Studie des Robert Koch-Instituts hatten 4,4 Prozent der 3- bis 17-Jährigen jemals eine ADHS-Diagnose erhalten. Jungen waren etwa viermal so häufig betroffen wie Mädchen, und Kinder aus Familien mit niedrigem Sozialstatus dreimal so häufig wie aus Familien mit hohem.",
+          "note": "Die Zahlen beruhen auf Elternangaben zu ärztlich gestellten Diagnosen – sie bilden also Diagnosepraxis mit ab. Sozialgradient und Geschlechterunterschied deuten darauf hin, dass Zugang, Erwartungen und Sichtbarkeit eine Rolle spielen. Bei Mädchen wird das unaufmerksame Bild ohne Störverhalten häufig übersehen.",
+          "sources": [2]
+        }
+      ]
+    },
+    {
+      "type": "section",
+      "heading": "Behandlung: nie ein einzelner Baustein",
+      "blocks": [
+        {
+          "type": "evidence",
+          "level": "stark",
+          "claim": "Behandelt wird multimodal: umfassende Aufklärung der Familie, Elterntraining beziehungsweise Elterncoaching, Interventionen in Kita und Schule und – je nach Ausprägung – psychotherapeutische und medikamentöse Bausteine, kombiniert nach Schweregrad und Präferenzen der Familie.",
+          "note": "Die S3-Leitlinie stellt Psychoedukation und Elterntraining als Basis jeder Behandlung heraus. Welche weiteren Bausteine sinnvoll sind, hängt von Alter, Schweregrad, Begleitproblemen und eurer gemeinsamen Entscheidung mit der behandelnden Praxis ab. Dieser Artikel nennt bewusst keine Präparate und keine Dosierungen – das gehört ausschließlich in die ärztliche Beratung.",
+          "sources": [0]
+        },
+        {
+          "type": "evidence",
+          "level": "umstritten",
+          "claim": "Wie früh und ab welchem Schweregrad medikamentös behandelt werden sollte, ist auch unter Fachleuten strittig. Bei der Aktualisierung der deutschen S3-Leitlinie wurde genau darüber öffentlich kontrovers diskutiert.",
+          "note": "Umstritten war unter anderem, ob bereits Vorschulkinder und Kinder mit mittlerem Schweregrad medikamentös behandelt werden sollten. Für dich heißt das: keine automatische Antwort, sondern eine Abwägung. Frag nach Alternativen, erwarteter Wirkung, unerwünschten Wirkungen und einem festen Zeitpunkt für die Überprüfung – und hol dir bei Zweifeln eine Zweitmeinung.",
+          "sources": [0, 3]
+        },
+        {
+          "type": "callout",
+          "variant": "tip",
+          "title": "Was im Alltag fast immer hilft",
+          "items": [
+            "Struktur sichtbar machen statt sie zu erklären: Bildpläne, feste Abläufe, immer derselbe Platz für Schulsachen",
+            "Aufträge einzeln und kurz – nicht drei Dinge in einem Satz",
+            "Bewegung vor Konzentration, nicht danach",
+            "Rückmeldung sofort und konkret, positiv häufiger als korrigierend",
+            "Reizarme Ecke für Hausaufgaben, Kopfhörer erlauben",
+            "Und für euch: Entlastung einzuplanen ist Teil der Behandlung, nicht Luxus"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "section",
+      "heading": "Nachteilsausgleich in Kita und Schule",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "Nachteilsausgleich heißt: Die Bedingungen werden angepasst, nicht die Anforderungen – mehr Zeit, ruhigerer Raum, Pausen, mündlich statt schriftlich, Vorlesen der Aufgabenstellung. Die Leistung wird weiterhin erwartet, nur die Hürde davor fällt. Die Regelungen sind Ländersache; zuständig ist meist die Schulleitung, oft mit der Schulpsychologie."
+        },
+        {
+          "type": "list",
+          "ordered": false,
+          "items": [
+            { "title": "Früh und schriftlich fragen:", "text": "Ein kurzer, sachlicher Antrag mit konkreten Maßnahmen wirkt besser als ein Gespräch zwischen Tür und Angel." },
+            { "title": "Konkret statt allgemein:", "text": "Nicht mehr Rücksicht, sondern 25 Prozent mehr Zeit bei Klassenarbeiten und ein Sitzplatz vorne links." },
+            { "title": "Diagnose hilft, ist aber nicht immer Voraussetzung:", "text": "Vieles läuft über festgestellten Förderbedarf oder pädagogische Absprachen." },
+            { "title": "An die Kita denken:", "text": "Auch dort gibt es Integrationskräfte und Eingliederungshilfe – niedrigschwelliger, als viele denken." },
+            { "title": "Dem Kind erklären:", "text": "Als Sonderbehandlung erlebt, wird ein Nachteilsausgleich oft abgelehnt. Als Brille für die Aufmerksamkeit erklärt, meist akzeptiert." }
+          ]
+        },
+        {
+          "type": "callout",
+          "variant": "warn",
+          "title": "Zu Selbsttests und Diagnosen aus sozialen Medien",
+          "text": "Kurzvideos über ADHS und Autismus haben viel Gutes bewirkt – vor allem für Mädchen und Erwachsene, die jahrzehntelang übersehen wurden. Gleichzeitig sind die dort gezeigten Merkmale meist so weit gefasst, dass sie fast jeden treffen, und es fehlt der entscheidende Teil: Beginn, Dauer, Ausmaß, Beeinträchtigung. Nimm den Verdacht ernst und nimm ihn mit in die Praxis – aber lass ihn dort prüfen. Eine Selbstzuschreibung kann genauso in die Irre führen wie ein vorschnelles Abtun."
+        }
+      ]
+    },
+    {
+      "type": "section",
+      "heading": "Häufige Fragen",
+      "blocks": [
+        {
+          "type": "faq",
+          "items": [
+            {
+              "q": "Die Kita drängt auf eine Abklärung, wir sehen zu Hause kaum etwas. Wer hat recht?",
+              "a": "Möglicherweise beide. Eine Gruppe mit zwanzig Kindern, Lärm und festen Abläufen stellt völlig andere Anforderungen als das Wohnzimmer. Genau deshalb sammelt gute Diagnostik Informationen aus mehreren Bereichen – und genau deshalb ist ein Kind, das nur in einem Bereich auffällt, diagnostisch eher unwahrscheinlich. Nimm die Rückmeldung als Beobachtung ernst, nicht als Urteil."
+            },
+            {
+              "q": "Wir haben Angst, dass eine Diagnose unser Kind stempelt. Ist die Sorge berechtigt?",
+              "a": "Sie ist verständlich und in Teilen berechtigt. Dem gegenüber steht: Ohne Erklärung erklären Kinder sich selbst – meistens mit faul, dumm oder böse. Eine Diagnose ersetzt diese Erzählung durch eine sachliche und öffnet zugleich Türen zu Unterstützung. Entscheidend ist, wie in der Familie darüber gesprochen wird."
+            },
+            {
+              "q": "Ist ADHS nicht einfach eine Folge von zu viel Bildschirmzeit?",
+              "a": "Nein. Zusammenhänge finden sich in Studien, die Richtung ist aber unklar: Kinder mit Aufmerksamkeitsproblemen nutzen Bildschirme häufig intensiver, weil diese Medien sofort belohnen. Das heißt nicht, dass Mediennutzung egal ist – nur, dass sie keine Ursache ist."
+            },
+            {
+              "q": "Wie lange dauert es, bis wir einen Diagnostiktermin bekommen?",
+              "a": "In vielen Regionen mehrere Monate. Nutzt die Wartezeit: Elterntraining, schulische Absprachen oder Ergotherapie brauchen die Diagnose oft nicht als Voraussetzung. Meldet euch parallel an mehreren Stellen an."
+            },
+            {
+              "q": "Unser Kind hat eine Diagnose und will nichts davon wissen. Was tun?",
+              "a": "Das ist häufig, besonders am Übergang ins Jugendalter. Zwing kein Gespräch. Sprich über konkrete Dinge, die leichter werden sollen – morgens rauskommen, Hausaufgaben vor dem Abendessen fertig haben –, statt über die Diagnose. Das Etikett muss dein Kind nicht annehmen, die Unterstützung schon."
+            },
+            {
+              "q": "Kann ein Kind beides haben, ADHS und Autismus?",
+              "a": "Ja. Beide Diagnosen dürfen seit der Umstellung der Diagnosesysteme gemeinsam gestellt werden, und das ist gar nicht selten. Auch Angst, Depression, Lese-Rechtschreib- oder Rechenstörungen kommen häufig dazu. Wenn eine Behandlung nicht anschlägt, lohnt der Blick, ob etwas übersehen wurde."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "callout",
+      "variant": "info",
+      "title": "Kurz gesagt",
+      "text": "Nicht das Verhalten entscheidet, sondern Beginn, Ausmaß, Bereiche und Beeinträchtigung. Der Weg führt über die Kinderarztpraxis in eine fachliche Diagnostik, die mehrere Quellen zusammenträgt. Behandlung ist immer mehrteilig, und Anpassungen in Kita und Schule wirken oft schneller als alles andere. Und dein Kind bleibt dasselbe Kind – mit einer Erklärung mehr."
+    }
+  ],
+  "sources": [
+    {
+      "title": "S3-Leitlinie Aufmerksamkeitsdefizit-/Hyperaktivitätsstörung (ADHS) im Kindes-, Jugend- und Erwachsenenalter (028-045)",
+      "publisher": "AWMF / DGKJP, DGPPN und beteiligte Fachgesellschaften",
+      "year": "2025",
+      "kind": "Leitlinie",
+      "url": "https://register.awmf.org/de/leitlinien/detail/028-045"
+    },
+    {
+      "title": "S3-Leitlinie Autismus-Spektrum-Störungen im Kindes-, Jugend- und Erwachsenenalter, Teil 1: Diagnostik (028-018)",
+      "publisher": "AWMF / DGKJP und DGPPN",
+      "year": "2016",
+      "kind": "Leitlinie",
+      "url": "https://www.awmf.org/leitlinien/detail/ll/028-018.html"
+    },
+    {
+      "title": "ADHS bei Kindern und Jugendlichen in Deutschland – Querschnittergebnisse aus KiGGS Welle 2 und Trends",
+      "publisher": "Robert Koch-Institut, Journal of Health Monitoring",
+      "year": "2018",
+      "kind": "Studie",
+      "url": "https://edoc.rki.de/handle/176904/5768"
+    },
+    {
+      "title": "Aufmerksamkeitsdefizit-/Hyperaktivitätsstörung: Eingeschränkter Konsens",
+      "publisher": "Deutsches Ärzteblatt",
+      "kind": "Institutionelle Information",
+      "url": "https://www.aerzteblatt.de/archiv/aufmerksamkeitsdefizit-hyperaktivitaetsstoerung-eingeschraenkter-konsens-aaea5bd8-2350-48b7-bf57-03785c40a6bd"
+    },
+    {
+      "title": "Aktuelle Leitlinien der Kinder- und Jugendpsychiatrie",
+      "publisher": "Deutsche Gesellschaft für Kinder- und Jugendpsychiatrie, Psychosomatik und Psychotherapie (DGKJP)",
+      "kind": "Institutionelle Information",
+      "url": "https://www.dgkjp.de/wissen/aktuelle-leitlinien/"
+    },
+    {
+      "title": "§ 119 SGB V – Sozialpädiatrische Zentren",
+      "publisher": "Sozialgesetzbuch Fünftes Buch – Gesetzliche Krankenversicherung",
+      "kind": "Institutionelle Information",
+      "url": "https://www.sozialgesetzbuch-sgb.de/sgbv/119.html"
+    }
+  ],
+  "related": ["entwicklungsverzoegerung-erkennen", "hochsensibilitaet-und-temperament", "frustrationstoleranz", "schulstart"]
+}

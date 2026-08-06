@@ -1,0 +1,244 @@
+{
+  "slug": "zahnen",
+  "title": "Zahnen und erste Zahnpflege",
+  "subtitle": "Wann welche Milchzähne kommen, welche Beschwerden tatsächlich vom Zahnen stammen – und warum hohes Fieber und Durchfall nie damit erklärt werden sollten.",
+  "phases": ["saeugling", "kleinkind"],
+  "topics": ["gesundheit"],
+  "updated": "2026-08-06",
+  "summary": "Zahnen tut weh, macht quengelig, sabbern und schlecht schlafen – aber es macht kein hohes Fieber, keinen Durchfall und kein krankes Kind. Diese Unterscheidung ist die wichtigste Botschaft zum Thema, weil echte Infekte sonst als Zahnen abgetan werden. Der Rest ist gut beherrschbar: kühle Beißhilfen, Geduld und ein früher Start der Zahnpflege, sobald der erste Zahn da ist. Für Fluorid gibt es seit 2021 in Deutschland eine gemeinsame Empfehlung von Kinder- und Zahnmedizin, die zwei gleichwertige Wege beschreibt.",
+  "keyFacts": [
+    "Die ersten Zähne kommen meist zwischen dem 6. und 10. Lebensmonat, mit etwa zweieinhalb Jahren sind alle 20 Milchzähne da.",
+    "Belegt sind vor allem lokale Beschwerden: gereiztes Zahnfleisch, vermehrter Speichelfluss, Kaubedürfnis, Unruhe und unruhiger Schlaf.",
+    "Hohes Fieber, Durchfall und Erbrechen gehören nicht zum Zahnen und brauchen eine eigene Erklärung.",
+    "Bernsteinketten sind wirkungslos und gelten als Strangulations- und Verschluckungsrisiko.",
+    "Geputzt wird, sobald der erste Zahn da ist – zweimal täglich, abends besonders gründlich."
+  ],
+  "blocks": [
+    {
+      "type": "p",
+      "lead": true,
+      "text": "Zahnen ist eine der am häufigsten bemühten Erklärungen der ersten beiden Lebensjahre. Das ist verständlich: Zwischen dem sechsten Monat und dem dritten Geburtstag brechen zwanzig Zähne durch, und in dieser Zeit passiert ohnehin fast alles gleichzeitig – Beikost, Infekte in der Eingewöhnung, Entwicklungssprünge, unruhige Nächte. Weil immer irgendein Zahn unterwegs ist, landet vieles auf seinem Konto, was gar nichts mit ihm zu tun hat."
+    },
+    {
+      "type": "callout",
+      "variant": "danger",
+      "title": "Das ist kein Zahnen",
+      "text": "**Hohes Fieber, Durchfall, Erbrechen, Trinkverweigerung, ein ausgeprägter Ausschlag oder ein auffällig schlappes Kind sind keine Zahnungssymptome.** Sie brauchen eine eigene Erklärung. Bei **Säuglingen unter drei Monaten** gilt Fieber ab 38 °C immer als sofortiger Anlass für ärztlichen Rat – unabhängig davon, ob gerade ein Zahn kommt. Auch länger als drei Tage bestehendes Fieber, deutlich weniger nasse Windeln oder Atemauffälligkeiten gehören abgeklärt und nicht abgewartet. Die Einordnung von Fieber im Detail steht im Artikel **Fieber und Infekte richtig einschätzen**."
+    },
+    {
+      "type": "section",
+      "heading": "Der Zeitplan – und wie viel er wert ist",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "Die Reihenfolge ist erstaunlich verlässlich, der Zeitpunkt überhaupt nicht. Manche Kinder kommen mit einem Zahn zur Welt, andere haben mit einem Jahr noch keinen – beides ist in aller Regel unauffällig. Was zählt, ist nicht das Datum des ersten Zahns, sondern dass die Zähne insgesamt kommen und gesund bleiben."
+        },
+        {
+          "type": "timeline",
+          "title": "Wann welche Milchzähne durchbrechen",
+          "entries": [
+            { "age": "6.–10. Monat", "label": "Untere mittlere Schneidezähne", "text": "Meist der Anfang. Häufig kommen sie zu zweit und innerhalb weniger Tage. Ab jetzt wird geputzt." },
+            { "age": "8.–12. Monat", "label": "Obere Schneidezähne", "text": "Erst die mittleren, dann die seitlichen. Für viele Familien die sichtbarste Phase, weil das Lächeln sich verändert." },
+            { "age": "13.–19. Monat", "label": "Erste Backenzähne", "text": "Die ersten Zähne mit breiter Kaufläche. Sie brauchen länger zum Durchbrechen und gelten als die unangenehmeren." },
+            { "age": "16.–23. Monat", "label": "Eckzähne", "text": "Oft die Phase mit den meisten Beschwerden. Die Eckzähne haben eine spitze Form und schieben sich langsam durch." },
+            { "age": "20.–30. Monat", "label": "Zweite Backenzähne", "text": "Die letzten im Milchgebiss. Danach ist erst einmal Ruhe, bis mit etwa sechs Jahren der Zahnwechsel beginnt." },
+            { "age": "Um 2,5 Jahre", "label": "20 Milchzähne komplett", "text": "Das Milchgebiss ist vollständig. Es bleibt bis in die Grundschulzeit im Einsatz – und ist deshalb kein Wegwerfgebiss." }
+          ],
+          "caption": "Durchbruchszeiten nach der Elterninformation der Bundeszentrale für gesundheitliche Aufklärung. Die Spannen überlappen sich stark; Abweichungen nach oben und unten sind häufig und für sich genommen kein Grund zur Sorge."
+        }
+      ]
+    },
+    {
+      "type": "section",
+      "heading": "Welche Beschwerden wirklich vom Zahnen kommen",
+      "blocks": [
+        {
+          "type": "evidence",
+          "level": "moderat",
+          "claim": "Belegt sind vor allem örtliche Beschwerden: gerötetes, empfindliches Zahnfleisch, vermehrter Speichelfluss, Kau- und Beißbedürfnis, Gereiztheit und unruhigerer Schlaf. Für hohes Fieber, Durchfall, Erbrechen und Erkältungssymptome findet sich in Untersuchungen kein Zusammenhang mit dem Zahndurchbruch.",
+          "note": "In Studien, die Kinder über Wochen täglich beobachtet haben, unterschied sich die Körpertemperatur an Zahntagen nicht von der an anderen Tagen. Was sich zeigte, waren Unruhe und schlechterer Schlaf – also genau das, was Eltern beschreiben, nur ohne die dramatischen Begleiterscheinungen. Praktisch heißt das: Quengeln und Sabbern darfst du dem Zahn zuschreiben, alles Systemische nicht.",
+          "sources": [1]
+        },
+        {
+          "type": "comparison",
+          "title": "Zahnen oder doch etwas anderes?",
+          "columns": [
+            {
+              "title": "Passt zum Zahnen",
+              "tone": "good",
+              "items": [
+                "Geschwollene, gerötete Stelle am Kiefer, oft mit durchschimmerndem Zahn",
+                "Viel Speichel, dadurch wunde Stellen an Kinn und Hals",
+                "Alles wandert in den Mund, Beißen auf harten Dingen tut gut",
+                "Unruhe und häufigeres Aufwachen für ein paar Tage",
+                "Leicht erhöhte Temperatur an einzelnen Tagen, ohne krankes Gesamtbild"
+              ]
+            },
+            {
+              "title": "Spricht für einen Infekt",
+              "tone": "bad",
+              "items": [
+                "Fieber über 38,5 °C oder Fieber über mehrere Tage",
+                "Durchfall, Erbrechen, deutlich weniger Trinken",
+                "Husten, Schnupfen, verklebte Augen, Ohrenschmerzen",
+                "Ausschlag am Körper, nicht nur um den Mund",
+                "Ein Kind, das nicht mehr spielt und sich kaum trösten lässt"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "p",
+          "text": "Die dünne Trennlinie ist Absicht: Ein zahnendes Kind kann natürlich gleichzeitig einen Infekt haben. Der Punkt ist nicht, das Zahnen zu leugnen, sondern es nicht als Erklärung zu benutzen, die weiteres Hinschauen überflüssig macht."
+        }
+      ]
+    },
+    {
+      "type": "section",
+      "heading": "Was tatsächlich lindert",
+      "blocks": [
+        {
+          "type": "callout",
+          "variant": "tip",
+          "title": "Was du ausprobieren kannst",
+          "items": [
+            "Kühle – aber nicht eiskalte – Beißringe, ein feuchter Waschlappen aus dem Kühlschrank, ein gekühlter Löffel.",
+            "Gegendruck: mit sauberem Finger sanft auf die Stelle drücken, viele Kinder mögen das sehr.",
+            "Etwas Hartes zum Kauen, wenn dein Kind schon Beikost isst – unter Aufsicht, wegen der Verschluckungsgefahr.",
+            "Kinn und Hals trocken halten und dünn mit einer Wund- oder Fettcreme schützen, gegen den Speichelausschlag.",
+            "Mehr Nähe und weniger Programm an schlechten Tagen. Das klingt banal, ist aber oft das Wirksamste."
+          ]
+        },
+        {
+          "type": "callout",
+          "variant": "danger",
+          "title": "Bernsteinketten: nachgewiesenes Risiko, kein nachgewiesener Nutzen",
+          "text": "Der Berufsverband der Kinder- und Jugendärzte rät ausdrücklich davon ab, Bernstein- oder andere Ketten um den Hals eines Kindes zu legen. **Bleibt eine Kette hängen und reißt nicht, kann sie die Atemwege einschnüren; löst sich eine Perle, kann sie verschluckt oder eingeatmet werden.** Dazu kommt, dass Bernstein sich nicht sterilisieren lässt und Speichel- und Milchreste an der Kette einen guten Nährboden für Bakterien bilden. Einen Wirknachweis für die Linderung von Zahnungsbeschwerden gibt es nicht. Wenn Bernstein euch etwas bedeutet: als Armband außer Reichweite des Mundes oder am Kinderwagen, nicht am Hals."
+        },
+        {
+          "type": "evidence",
+          "level": "stark",
+          "claim": "Zahnungsgele mit örtlichen Betäubungsmitteln wie Benzocain oder Lidocain sollten bei Säuglingen und Kleinkindern nicht angewendet werden. Die US-Arzneimittelbehörde FDA hat wegen Fällen von Methämoglobinämie beziehungsweise schweren Nebenwirkungen ausdrücklich davor gewarnt.",
+          "note": "Methämoglobinämie bedeutet, dass der rote Blutfarbstoff keinen Sauerstoff mehr transportieren kann – bei einem kleinen Kind eine ernste Situation. Für Benzocain gilt die Anwendung bei Kindern unter zwei Jahren als kontraindiziert. Auch bei alkohol- oder salicylathaltigen Gelen ist Zurückhaltung angebracht. Wenn dein Kind sehr leidet, sprich in der Kinderarztpraxis über ein geeignetes Schmerzmittel – Auswahl und Menge gehören dorthin und nicht in Eigenregie.",
+          "sources": [4]
+        }
+      ]
+    },
+    {
+      "type": "section",
+      "heading": "Zahnpflege ab dem ersten Zahn",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "Karies an Milchzähnen ist kein kosmetisches Problem. Milchzähne halten den Platz für die bleibenden Zähne, sie werden zum Kauen und zum Sprechenlernen gebraucht, und eine Entzündung an der Wurzel kann den nachfolgenden Zahn schädigen. Deshalb beginnt die Zahnpflege nicht mit dem Kindergarten, sondern mit dem ersten Zahn."
+        },
+        {
+          "type": "evidence",
+          "level": "stark",
+          "claim": "Seit 2021 gibt es in Deutschland eine gemeinsame Empfehlung von Kinder- und Jugendmedizin und Zahnmedizin zur Kariesprävention. Ab dem Zahndurchbruch wird zweimal täglich geputzt; für Fluorid stehen zwei gleichwertige Wege zur Wahl – entweder eine fluoridhaltige Kinderzahnpasta oder die Fluoridtablette in Kombination mit Vitamin D. Beides gleichzeitig ist ausdrücklich nicht vorgesehen.",
+          "note": "Diese Einigung hat eine jahrelange Uneinigkeit zwischen den Fachgebieten beendet, unter der vor allem Eltern gelitten haben, weil sie aus Praxis und Zahnarztpraxis Gegenteiliges hörten. Welche Menge Zahnpasta in welchem Alter, welche Fluoridkonzentration und welcher der beiden Wege für dein Kind passt, besprichst du bei der U-Untersuchung und beim zahnärztlichen Früherkennungstermin – das hängt unter anderem vom Fluoridgehalt eures Trinkwassers und von der Verwendung von fluoridiertem Speisesalz ab.",
+          "sources": [2, 5]
+        },
+        {
+          "type": "list",
+          "items": [
+            { "title": "Zweimal täglich:", "text": "Morgens und abends, wobei das abendliche Putzen das wichtigere ist – nachts fließt weniger Speichel, der die Zähne sonst schützt." },
+            { "title": "Erwachsene putzen:", "text": "Kleine Kinder üben mit, aber die tatsächliche Reinigung machst du. Das bleibt noch jahrelang so." },
+            { "title": "Nuckelflasche nicht zum Dauergebrauch:", "text": "Ständiges Nuckeln an gesüßten oder auch nur säurehaltigen Getränken ist der klassische Weg zu frühkindlicher Karies. Zum Durst löschen: Wasser, aus dem Becher, ab dem ersten Geburtstag." },
+            { "title": "Nicht ablecken:", "text": "Schnuller oder Löffel im eigenen Mund reinigen überträgt Kariesbakterien. Ganz vermeiden lässt sich das im Familienalltag nicht – reduzieren schon." }
+          ]
+        },
+        {
+          "type": "p",
+          "text": "Für Kinder gibt es zahnärztliche Früherkennungsuntersuchungen, die von der gesetzlichen Krankenversicherung getragen werden – beginnend im ersten Lebensjahr und über die gesamte Kindergartenzeit hinweg. Dabei geht es weniger um Bohren als um Beratung zu Putztechnik, Ernährung und Fluorid sowie um das Auftragen von Fluoridlack. Der erste Termin lohnt sich, sobald die ersten Zähne da sind."
+        }
+      ]
+    },
+    {
+      "type": "section",
+      "heading": "Häufige Fragen",
+      "blocks": [
+        {
+          "type": "faq",
+          "items": [
+            {
+              "q": "Mein Kind ist ein Jahr alt und hat noch keinen Zahn. Stimmt etwas nicht?",
+              "a": "Meistens nicht. Späte erste Zähne sind häufig und familiär gehäuft. Sprich es beim nächsten U-Termin an, damit einmal draufgeschaut wird – aber es ist selten ein Zeichen für eine Erkrankung, und ein Nachteil für das spätere Gebiss entsteht daraus in der Regel nicht."
+            },
+            {
+              "q": "Kann Zahnen wirklich gar kein Fieber machen?",
+              "a": "Eine leicht erhöhte Temperatur an einzelnen Tagen wird beobachtet. Richtiges Fieber – und erst recht Fieber über mehrere Tage – lässt sich damit nicht erklären. Die Faustregel: Erhöhte Temperatur bei einem sonst munteren Kind darfst du beobachten. Fieber bei einem kranken Kind ist ein Infekt, bis das Gegenteil geklärt ist."
+            },
+            {
+              "q": "Hilft ein Zahnungsgel aus der Apotheke?",
+              "a": "Gele mit örtlicher Betäubung sollten bei kleinen Kindern nicht verwendet werden. Bei rein pflanzlichen Gelen ist die Datenlage dünn – schaden tun die meisten wahrscheinlich nicht, aber der Effekt dürfte vor allem aus dem Massieren beim Auftragen kommen. Das bekommst du mit dem sauberen Finger auch."
+            },
+            {
+              "q": "Was ist mit Veilchenwurzel oder Bernsteinkette?",
+              "a": "Von Ketten am Hals raten Kinderärztinnen und Kinderärzte wegen der Strangulations- und Verschluckungsgefahr ab. Bei harten Naturmaterialien zum Draufbeißen ist das Hauptproblem, dass Stücke abbrechen können – wenn, dann nur unter direkter Aufsicht. Ein Beißring aus dafür geprüftem Material ist die einfachere Lösung."
+            },
+            {
+              "q": "Braucht mein gestilltes Kind auch Zahnpflege?",
+              "a": "Ja, ab dem ersten Zahn. Muttermilch ist nicht kariesauslösend im engeren Sinn, aber häufiges nächtliches Trinken bei bereits vorhandenen Zähnen und ohne Zahnpflege erhöht das Risiko. Nächtliches Stillen musst du deshalb nicht beenden – abends gründlich putzen sollte trotzdem sein."
+            },
+            {
+              "q": "Wann sollten wir das erste Mal zum Zahnarzt?",
+              "a": "Sobald die ersten Zähne da sind, spätestens im Lauf des ersten Lebensjahres. Der frühe Termin dient dem Kennenlernen und der Beratung – und er ist deutlich entspannter, wenn er nicht erst stattfindet, wenn schon etwas weh tut."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "callout",
+      "variant": "info",
+      "title": "Kurz gesagt",
+      "text": "Zahnen macht Quengeln, Sabbern und schlechte Nächte – aber kein krankes Kind. Was lindert, ist Kühle, Gegendruck und Nähe; was nicht hilft, hängt oft am Hals oder steht in der Apothekenwerbung. Und mit dem ersten Zahn beginnt die Zahnpflege, für die es seit 2021 endlich eine einheitliche Empfehlung gibt, die dir Kinder- und Zahnarztpraxis gemeinsam erklären können."
+    }
+  ],
+  "sources": [
+    {
+      "title": "Zahnentwicklung – wann welche Zähne kommen",
+      "publisher": "Bundeszentrale für gesundheitliche Aufklärung (BZgA), kindergesundheit-info.de",
+      "year": "2024",
+      "kind": "Institutionelle Information",
+      "url": "https://www.kindergesundheit-info.de/themen/risiken-vorbeugen/zahngesundheit/zahnentwicklung/"
+    },
+    {
+      "title": "Teething in infants: a structured review of symptomatology, parental misconceptions, and evidence-based management",
+      "publisher": "Journal of Clinical Pediatric Dentistry",
+      "year": "2025",
+      "kind": "Übersichtsarbeit",
+      "url": "https://www.jocpd.com/articles/10.22514/jocpd.2025.122"
+    },
+    {
+      "title": "Handlungsempfehlungen zur Kariesprävention im Säuglings- und frühen Kindesalter",
+      "publisher": "Netzwerk Gesund ins Leben / Bundeszentrum für Ernährung, gemeinsam mit den zahn- und kinderärztlichen Fachgesellschaften",
+      "year": "2021",
+      "kind": "Empfehlung",
+      "url": "https://www.gesund-ins-leben.de/fuer-fachkreise/handlungsempfehlungen/kariespraevention/empfehlungen/"
+    },
+    {
+      "title": "Bernstein- und andere Ketten beim Zahnen: Strangulationsgefahr und Verunreinigung durch Bakterien",
+      "publisher": "Berufsverband der Kinder- und Jugendärzte, kinderaerzte-im-netz.de",
+      "year": "2019",
+      "kind": "Institutionelle Information",
+      "url": "https://www.kinderaerzte-im-netz.de/news-archiv/meldung/bernstein-und-andere-ketten-beim-zahnen-strangulationsgefahr-und-verunreinigung-durch-bakterien/"
+    },
+    {
+      "title": "FDA: Lidocain in Zahnungshilfen birgt tödliche Risiken",
+      "publisher": "Deutsches Ärzteblatt",
+      "year": "2014",
+      "kind": "Institutionelle Information",
+      "url": "https://www.aerzteblatt.de/nachrichten/59196/FDA-Lidocain-in-Zahnungshilfen-bergen-toedliche-Risiken"
+    },
+    {
+      "title": "Gesunde Kinderzähne – Früherkennung und Prophylaxe in der gesetzlichen Krankenversicherung",
+      "publisher": "Kassenzahnärztliche Bundesvereinigung (KZBV)",
+      "year": "2025",
+      "kind": "Institutionelle Information",
+      "url": "https://www.kzbv.de/patienten/patient-und-krankenkasse/gesunde-kinderzaehne/"
+    }
+  ],
+  "related": ["zaehneputzen-durchsetzen", "fieber-und-infekte", "u-untersuchungen", "beikost-einfuehren"]
+}

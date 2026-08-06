@@ -1,0 +1,272 @@
+{
+  "slug": "mediennutzung-schulkind",
+  "title": "Handy, Spiele und Internet im Grundschulalter",
+  "subtitle": "Wann ein eigenes Gerät sinnvoll ist, wie Regeln aussehen, die auch nach vier Wochen noch gelten – und welche Risiken tatsächlich zählen.",
+  "phases": ["schulkind"],
+  "topics": ["medien", "sicherheit"],
+  "updated": "2026-08-06",
+  "summary": "Im Grundschulalter ist ein eigenes Gerät längst keine Ausnahme mehr – knapp die Hälfte der Sechs- bis Dreizehnjährigen besitzt ein Smartphone. Entscheidend ist weniger das Alter beim ersten Gerät als das, was drumherum passiert: gemeinsam festgelegte Regeln, ein gerätefreies Schlafzimmer, Wissen über Alterskennzeichen und ein Kind, das weiß, dass es bei unangenehmen Erlebnissen zu dir kommen darf, ohne dass das Gerät weggenommen wird.",
+  "keyFacts": [
+    "Nicht das Startalter entscheidet, sondern die Begleitung in den ersten Monaten.",
+    "Regeln schriftlich festhalten – und Regeln für Eltern gleich mit.",
+    "Alterskennzeichen sind Jugendschutz, keine pädagogische Empfehlung.",
+    "Geräte gehören nachts nicht ins Kinderzimmer.",
+    "Die drei relevanten Risiken heißen Kontakt, Kosten und Inhalte."
+  ],
+  "blocks": [
+    {
+      "type": "p",
+      "lead": true,
+      "text": "Irgendwann zwischen der ersten und der vierten Klasse kommt die Frage – meist mit dem Zusatz, dass alle anderen schon eins hätten. Das stimmt selten, ist aber nicht ganz aus der Luft gegriffen. Die ruhige Antwort darauf ist keine Jahreszahl, sondern ein Plan: Wozu soll das Gerät da sein, was passiert damit, und wer schaut mit hin?"
+    },
+    {
+      "type": "section",
+      "heading": "Das erste eigene Gerät",
+      "blocks": [
+        {
+          "type": "evidence",
+          "level": "moderat",
+          "claim": "Ein eigenes Smartphone ist im Grundschulalter Normalität geworden: Rund 46 Prozent der Sechs- bis Dreizehnjährigen in Deutschland besitzen eines, im Durchschnitt kommt das erste Gerät mit etwa achteinhalb Jahren.",
+          "note": "Zahlen aus der KIM-Studie 2024 des Medienpädagogischen Forschungsverbunds Südwest, einer regelmäßigen Befragung von rund 1.200 Kindern und ihren Erziehungspersonen. Die Werte sind eine Beschreibung, keine Empfehlung – sie helfen aber gegen zwei Irrtümer: dass dein Kind das einzige ohne Gerät ist, und dass es das einzige mit Gerät wäre.",
+          "sources": [0, 1]
+        },
+        {
+          "type": "figure",
+          "kind": "bar",
+          "title": "Mediennutzung von 6- bis 13-Jährigen in Deutschland",
+          "alt": "Balkendiagramm mit drei Anteilen: eigenes Smartphone 46 Prozent, Internetnutzung bei 6- bis 7-Jährigen 37 Prozent, tägliche Internetnutzung 54 Prozent",
+          "data": [
+            { "label": "Eigenes Smartphone (6–13 J.)", "value": 46, "display": "46 %" },
+            { "label": "Nutzt das Internet (6–7 J.)", "value": 37, "display": "37 %" },
+            { "label": "Täglich online (Internetnutzende)", "value": 54, "display": "54 %" }
+          ],
+          "caption": "Nach der KIM-Studie 2024 des Medienpädagogischen Forschungsverbunds Südwest. Achtung, die Bezugsgruppen unterscheiden sich: Die letzte Angabe bezieht sich nur auf Kinder, die das Internet überhaupt nutzen.",
+          "sources": [0]
+        },
+        {
+          "type": "p",
+          "text": "Sinnvolle Fragen vor der Anschaffung sind selten die technischen. Wichtiger ist: Braucht dein Kind Erreichbarkeit auf dem Schulweg – dann reicht oft ein Gerät ohne Internet. Kann es mit eigenem Besitz umgehen, verliert es Dinge selten? Und hast du selbst gerade die Kapazität, die erste Zeit eng zu begleiten? Ein Gerät zu Weihnachten zu verschenken und im Januar keine Zeit dafür zu haben, ist der häufigste Fehler."
+        },
+        {
+          "type": "steps",
+          "title": "Die ersten Wochen mit dem eigenen Gerät",
+          "items": [
+            { "title": "Gemeinsam einrichten", "text": "Nicht heimlich vorbereiten, sondern zusammen: Jugendschutzeinstellungen des Betriebssystems aktivieren, Käufe sperren, Standortfreigabe abschalten." },
+            { "title": "Klein anfangen", "text": "Erst Telefonieren und Nachrichten an bekannte Kontakte, später mehr. Funktionen dazuzugeben ist leichter, als sie wieder wegzunehmen." },
+            { "title": "Nebeneinander nutzen", "text": "In den ersten Wochen wird im Wohnzimmer gespielt und geschrieben, nicht im Kinderzimmer. Nicht als Kontrolle, sondern damit Fragen entstehen können." },
+            { "title": "Den Ausstieg üben", "text": "Aufhören ist das Schwerste. Vorher ansagen, wann Schluss ist, und einen Übergang planen – etwas, das danach kommt und Spaß macht." },
+            { "title": "Nach vier Wochen nachjustieren", "text": "Einen Termin festlegen, an dem ihr die Regeln gemeinsam überprüft. Regeln, die verhandelbar sind, werden seltener heimlich umgangen." }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "section",
+      "heading": "Der Mediennutzungsvertrag",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "Ein Mediennutzungsvertrag ist eine schriftliche Absprache zwischen Kind und Eltern: Welche Geräte, welche Inhalte, wie lange, wann nicht. Klingt bürokratisch, wirkt aber vor allem entlastend – weil nicht mehr jeden Nachmittag neu verhandelt wird. Zwei öffentliche Anbieter, klicksafe und das Internet-ABC, stellen dafür kostenlose Vorlagen bereit, die man online zusammenklicken und ausdrucken kann."
+        },
+        {
+          "type": "callout",
+          "variant": "tip",
+          "title": "Was in einen guten Vertrag gehört",
+          "items": [
+            "Zeiten und Orte statt reiner Minutenzahl: gerätefrei am Esstisch, gerätefrei im Bett, gerätefrei vor der Schule.",
+            "Was passiert, wenn eine Regel gebrochen wird – vorher vereinbart, nicht im Ärger erfunden.",
+            "Eine Klausel, dass dein Kind bei unangenehmen Erlebnissen zu dir kommen darf, ohne das Gerät zu verlieren.",
+            "Regeln für Eltern: kein Handy beim Abendessen, nicht am Spielplatz nur auf den Bildschirm schauen, keine Fotos des Kindes ohne dessen Einverständnis posten.",
+            "Ein Datum, an dem der Vertrag überprüft wird – Kinder wachsen schneller als Regeln."
+          ]
+        },
+        {
+          "type": "evidence",
+          "level": "moderat",
+          "claim": "Gemeinsam vereinbarte, schriftlich festgehaltene Medienregeln gelten in der Medienpädagogik als wirksamer als spontane Verbote, weil sie Konflikte vorwegnehmen und die Position der Eltern berechenbar machen.",
+          "note": "Das ist Fachkonsens der öffentlichen Medienkompetenz-Initiativen, keine Aussage aus randomisierten Studien. Belegt ist gut, dass Kinder Regeln eher einhalten, an deren Entstehung sie beteiligt waren – deshalb lohnt es sich, den Vertrag wirklich gemeinsam auszufüllen statt vorzulegen.",
+          "sources": [2, 3]
+        }
+      ]
+    },
+    {
+      "type": "section",
+      "heading": "Alterskennzeichen richtig lesen",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "Spiele und Apps tragen in Deutschland Kennzeichen der Unterhaltungssoftware Selbstkontrolle (USK), Filme solche der Freiwilligen Selbstkontrolle der Filmwirtschaft (FSK). Beide sagen etwas darüber, ab wann ein Inhalt aus Sicht des Jugendschutzes unbedenklich ist – und nichts darüber, ob er zu deinem Kind passt oder pädagogisch sinnvoll ist."
+        },
+        {
+          "type": "table",
+          "title": "Was ein Alterskennzeichen aussagt",
+          "head": ["Frage", "Antwort", "Was du zusätzlich brauchst"],
+          "rows": [
+            ["Ist der Inhalt jugendschutzrechtlich unbedenklich?", "Ja, ab der genannten Altersstufe", "Nichts – das ist die Kernaussage"],
+            ["Ist der Inhalt für mein Kind geeignet?", "Sagt das Kennzeichen nicht", "Eigener Blick, Empfehlungen pädagogischer Portale"],
+            ["Kann mein Kind darin mit Fremden chatten?", "Seit 2023 als Zusatzhinweis vermerkt", "Chatfunktionen und Kontaktoptionen prüfen"],
+            ["Kostet das Spiel im Verlauf Geld?", "Hinweis auf In-Game-Käufe möglich", "Käufe auf dem Gerät sperren"]
+          ],
+          "caption": "Nach den Erläuterungen der USK zu ihren Alterskennzeichen. Seit 2023 enthalten die Kennzeichen zusätzliche Hinweise auf Online-Funktionen wie Chats, Käufe oder Standortweitergabe."
+        },
+        {
+          "type": "callout",
+          "variant": "myth",
+          "title": "„Ab 12 heißt, es ist für Zwölfjährige gemacht“",
+          "text": "Nein. Das Kennzeichen ist eine Untergrenze aus Jugendschutzsicht, keine Zielgruppenangabe und erst recht keine Empfehlung. Umgekehrt gilt: Ein Spiel ohne Altersbeschränkung kann für ein sensibles Kind trotzdem zu viel sein. Das sogenannte Erziehungsprivileg erlaubt dir zwar, deinem Kind auch höher eingestufte Inhalte zugänglich zu machen – die Einschätzung, ob das passt, bleibt dann aber vollständig bei dir."
+        }
+      ]
+    },
+    {
+      "type": "section",
+      "heading": "Die drei Risiken, die zählen",
+      "blocks": [
+        {
+          "type": "list",
+          "items": [
+            { "title": "Kontakt:", "text": "Fremde schreiben Kinder an, oft in Chats von Spielen. Bring deinem Kind einen einzigen Satz bei: „Ich rede nicht mit Leuten, die ich nicht kenne, und ich sage nicht, wo ich wohne oder zur Schule gehe.“ Und: Persönliche Treffen mit Online-Bekanntschaften nur mit dir." },
+            { "title": "Kosten:", "text": "In-Game-Käufe, Abofallen, Beträge, die sich in Spielwährung verstecken. Käufe auf Geräteebene sperren, kein hinterlegtes Zahlungsmittel, keine gespeicherten Passwörter." },
+            { "title": "Inhalte:", "text": "Gewaltdarstellungen, Pornografie, extremistische oder selbstverletzungsbezogene Inhalte – im Grundschulalter meist ungewollt und beiläufig. Jugendschutzfilter helfen, sind aber nie vollständig." },
+            { "title": "Und Verhalten:", "text": "Beleidigungen in Klassenchats, Ausgrenzung, Weiterleiten von Bildern. Das ist der häufigste Kummer in dieser Altersgruppe – mehr dazu im Artikel über Mobbing." }
+          ]
+        },
+        {
+          "type": "callout",
+          "variant": "warn",
+          "title": "Der wichtigste Satz für dein Kind",
+          "text": "„Wenn dir online etwas begegnet, das dich erschreckt oder unangenehm ist, kannst du immer zu mir kommen – und ich nehme dir dafür nichts weg.“ Kinder verschweigen unangenehme Erlebnisse fast immer aus Angst vor dem Geräteentzug. Wer diese Angst wegnimmt, erfährt früher davon."
+        }
+      ]
+    },
+    {
+      "type": "section",
+      "heading": "Bildschirme und Schlaf",
+      "blocks": [
+        {
+          "type": "evidence",
+          "level": "stark",
+          "claim": "Schon der Zugang zu einem Bildschirmgerät im Schlafzimmer ist mit schlechterem Schlaf verbunden – auch ohne aktive Nutzung. Kinder mit Gerätezugang vor dem Einschlafen schlafen häufiger zu wenig, schlechter und sind tagsüber müder.",
+          "note": "Metaanalyse von Carter und Kolleginnen mit Daten von über 125.000 Kindern und Jugendlichen. Die Zusammenhänge sind deutlich: etwa doppelt so häufig unzureichender Schlaf und ausgeprägte Tagesmüdigkeit bei Nutzung vor dem Einschlafen. Es handelt sich um Beobachtungsdaten, die Wirkrichtung ist also nicht endgültig bewiesen – die praktische Konsequenz ist trotzdem einfach und kostenlos: Geräte laden nachts außerhalb des Kinderzimmers.",
+          "sources": [5]
+        },
+        {
+          "type": "p",
+          "text": "Die naheliegende Regel ist, für die ganze Familie eine Ladestation im Flur oder in der Küche einzurichten. Das erspart abendliche Diskussionen, weil es keine Ausnahme für Erwachsene gibt – und genau das ist der Punkt, an dem Kinder am genauesten hinschauen."
+        }
+      ]
+    },
+    {
+      "type": "section",
+      "heading": "Was Eltern vorleben",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "Kinder in diesem Alter beobachten sehr genau, wann Erwachsene zum Gerät greifen: beim Warten, beim Essen, wenn ein Gespräch unangenehm wird. Sie lernen daraus weniger Regeln als Funktionen – wofür man ein Handy benutzt. Wer sein eigenes Nutzungsverhalten nicht anschauen will, wird die Regeln für das Kind schwer halten können."
+        },
+        {
+          "type": "list",
+          "items": [
+            "Feste gerätefreie Zeiten für alle, nicht nur für die Kinder.",
+            "Beim Abholen zuerst das Kind ansehen, dann das Display.",
+            "Laut sagen, was du gerade am Gerät tust – so wird es nicht zur Blackbox.",
+            "Fotos deines Kindes nicht ohne dessen Einverständnis teilen; ab dem Grundschulalter kann man das fragen.",
+            "Eigene Grenzen zugeben: „Ich schaue auch zu oft drauf“ macht dich glaubwürdiger, nicht schwächer."
+          ]
+        }
+      ]
+    },
+    {
+      "type": "section",
+      "heading": "Häufige Fragen",
+      "blocks": [
+        {
+          "type": "faq",
+          "items": [
+            {
+              "q": "Wie viel Bildschirmzeit ist im Grundschulalter in Ordnung?",
+              "a": "Es gibt keine Minutenzahl, die für alle stimmt. Sinnvoller als eine Obergrenze ist eine Reihenfolge: Schlaf, Bewegung, Schule, Freunde und gemeinsames Familienleben zuerst – was danach übrig bleibt, ist der Rahmen. Wenn diese Bereiche leiden, ist es zu viel, unabhängig von der Uhr."
+            },
+            {
+              "q": "Ab welchem Alter ein eigenes Smartphone?",
+              "a": "Eine belastbare Altersgrenze gibt es nicht. Viele Familien starten mit dem Schulwechsel oder wenn das Kind längere Wege allein zurücklegt. Wenn es nur um Erreichbarkeit geht, ist ein Gerät ohne Internetzugang die deutlich einfachere Lösung – und lässt sich später erweitern."
+            },
+            {
+              "q": "Mein Kind ist in einem Klassenchat. Muss ich mitlesen?",
+              "a": "Heimlich mitlesen zerstört Vertrauen und wird meist entdeckt. Besser ist eine offene Abmachung für den Anfang: Ihr schaut in den ersten Wochen gemeinsam hinein, und dein Kind weiß das. Gleichzeitig lohnt es sich, mit anderen Eltern der Klasse Grundregeln abzusprechen – ein Klassenchat ohne erwachsene Absprachen entgleist schnell."
+            },
+            {
+              "q": "Ist Spielen schädlich?",
+              "a": "Digitale Spiele sind für Kinder das, was Spielen immer war: Erfahrungsraum, Wettbewerb, Gemeinschaft. Problematisch wird es, wenn Spielen andere Bereiche verdrängt, wenn Aufhören regelmäßig eskaliert oder wenn dein Kind nur noch darüber spricht. Interesse zeigen hilft mehr als Misstrauen – lass dir ein Spiel erklären und schau einmal eine halbe Stunde zu."
+            },
+            {
+              "q": "Sollen wir eine Kinderschutz-Software installieren?",
+              "a": "Technische Filter sind eine Hilfe für die Anfangszeit, kein Ersatz für Begleitung. Sie greifen bei zufälligen Treffern auf ungeeignete Inhalte, versagen aber bei allem, was über Chats und Nachrichten läuft. Sag deinem Kind, dass und warum ein Filter aktiv ist – heimliche Überwachung wird als Vertrauensbruch erlebt."
+            },
+            {
+              "q": "Mein Kind soll gar kein Gerät bekommen. Ist das eine Option?",
+              "a": "Ja, das ist eine legitime Entscheidung, gerade in der Grundschule. Wichtig ist dann, dass dein Kind trotzdem lernt, sich in dieser Welt zu bewegen: gemeinsam Dinge nachschauen, Medien besprechen, an schulischen Angeboten teilnehmen. Was nicht funktioniert, ist Fernhalten ohne Erklärung – das verschiebt den ersten unbegleiteten Kontakt nur nach hinten."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "callout",
+      "variant": "info",
+      "title": "Kurz gesagt",
+      "text": "Beginne mit einem Zweck, nicht mit einem Gerät. Schreibt eure Regeln auf, inklusive der Regeln für dich. Halte das Schlafzimmer gerätefrei, sperre Käufe, lies Alterskennzeichen als Jugendschutz und nicht als Empfehlung – und sorge dafür, dass dein Kind mit unangenehmen Erlebnissen zu dir kommen kann, ohne etwas zu verlieren."
+    }
+  ],
+  "sources": [
+    {
+      "title": "KIM-Studie 2024 – Kindheit, Internet, Medien: Basisuntersuchung zum Medienumgang 6- bis 13-Jähriger",
+      "publisher": "Medienpädagogischer Forschungsverbund Südwest (mpfs)",
+      "year": "2025",
+      "kind": "Studie",
+      "url": "https://mpfs.de/app/uploads/2025/05/KIM-Studie-2024.pdf"
+    },
+    {
+      "title": "KIM-Studienreihe – Überblick und Archiv",
+      "publisher": "Medienpädagogischer Forschungsverbund Südwest (mpfs)",
+      "year": "2025",
+      "kind": "Institutionelle Information",
+      "url": "https://mpfs.de/studien/kim/"
+    },
+    {
+      "title": "Warum ein Mediennutzungsvertrag? – Elternflyer",
+      "publisher": "klicksafe (EU-Initiative für mehr Sicherheit im Netz) und Internet-ABC",
+      "year": "2024",
+      "kind": "Institutionelle Information",
+      "url": "https://www.klicksafe.de/fileadmin/cms/download/Material/Flyer/Eltern_Allgemein_klicksafe_i-abc_mediennutzungsvertrag_web.pdf"
+    },
+    {
+      "title": "Mediennutzungsvertrag – Vorlagen für Familien",
+      "publisher": "Internet-ABC e. V.",
+      "year": "2025",
+      "kind": "Institutionelle Information",
+      "url": "https://www.internet-abc.de/eltern/familie-medien/mediennutzungsvertrag/"
+    },
+    {
+      "title": "Die USK-Alterskennzeichen",
+      "publisher": "Unterhaltungssoftware Selbstkontrolle (USK)",
+      "year": "2025",
+      "kind": "Institutionelle Information",
+      "url": "https://usk.de/die-usk-alterskennzeichen/"
+    },
+    {
+      "title": "Association Between Portable Screen-Based Media Device Access or Use and Sleep Outcomes: A Systematic Review and Meta-analysis",
+      "publisher": "JAMA Pediatrics (Carter, Rees, Hale, Bhattacharjee & Paradkar)",
+      "year": "2016",
+      "kind": "Metaanalyse",
+      "url": "https://jamanetwork.com/journals/jamapediatrics/fullarticle/2571467"
+    },
+    {
+      "title": "KIM-Studie 2024: Kindheit wird immer digitaler",
+      "publisher": "SCHAU HIN! Was Dein Kind mit Medien macht (Initiative des BMBFSFJ und der Landesmedienanstalten)",
+      "year": "2025",
+      "kind": "Institutionelle Information",
+      "url": "https://www.schau-hin.info/studien/kim-studie-2024-kindheit-wird-immer-digitaler"
+    }
+  ],
+  "related": ["mobbing", "bildschirmzeit-kleinkind", "medienerziehung-3-6", "schlaf-3-6"]
+}

@@ -1,0 +1,277 @@
+{
+  "slug": "wiedereinstieg-beruf",
+  "title": "Zurück in den Beruf",
+  "subtitle": "Wann der Wiedereinstieg sinnvoll ist, wie viele Stunden realistisch sind, was Teilzeitanspruch und Brückenteilzeit hergeben – und warum die Forschung zu berufstätigen Müttern entlastet statt zu beunruhigen.",
+  "phases": ["saeugling", "kleinkind", "kindergarten"],
+  "topics": ["eltern", "familie"],
+  "updated": "2026-08-06",
+  "summary": "Der Wiedereinstieg ist weniger eine Frage des richtigen Zeitpunkts als eine Frage der Bedingungen: verlässliche Betreuung, eine Stundenzahl, die zum Alltag passt, und eine Aufgabenteilung zu Hause, die sich mitverändert. Rechtlich gibt es mehr Spielraum, als viele wissen – Teilzeit nach dem Teilzeit- und Befristungsgesetz, die auf ein bis fünf Jahre befristete Brückenteilzeit und das Rückkehrrecht nach der Elternzeit. Und die Sorge, dem Kind mit der eigenen Erwerbstätigkeit zu schaden, lässt sich weitgehend ablegen: Metaanalysen finden für frühe mütterliche Erwerbstätigkeit keine systematischen Nachteile für Schulleistungen oder Verhalten.",
+  "keyFacts": [
+    "66 Prozent der erwerbstätigen Mütter arbeiten in Teilzeit, aber nur 7 Prozent der erwerbstätigen Väter.",
+    "Anspruch auf unbefristete Teilzeit besteht in Betrieben mit mehr als 15 Beschäftigten nach sechs Monaten Betriebszugehörigkeit.",
+    "Brückenteilzeit nach § 9a TzBfG: ein bis fünf Jahre befristet reduzieren, in Betrieben mit mehr als 45 Beschäftigten, Antrag drei Monate vorher.",
+    "Nach der Elternzeit besteht ein Recht auf Rückkehr zur ursprünglichen Arbeitszeit – auch nach Teilzeit in Elternzeit.",
+    "Der Gender Pension Gap lag 2023 bei 27,1 Prozent; lange Teilzeit ist einer der Hauptgründe.",
+    "Frühe mütterliche Erwerbstätigkeit ist in Metaanalysen nicht mit schlechteren Ergebnissen bei Kindern verbunden."
+  ],
+  "blocks": [
+    {
+      "type": "p",
+      "lead": true,
+      "text": "Beim Wiedereinstieg mischen sich drei sehr verschiedene Fragen zu einer einzigen, die dann unlösbar wirkt: Was ist arbeitsrechtlich möglich? Was ist organisatorisch machbar? Und was bedeutet es für mein Kind? Die dritte Frage ist die, die nachts wachhält – und ausgerechnet sie ist die am besten beantwortete. Fangen wir mit den beiden anderen an, weil sich dort etwas verändern lässt."
+    },
+    {
+      "type": "section",
+      "heading": "Zeitpunkt und Stundenzahl",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "Es gibt keinen entwicklungspsychologisch richtigen Zeitpunkt. Was es gibt, sind Bedingungen, die den Einstieg leichter oder schwerer machen: eine abgeschlossene Eingewöhnung, ein Kind, das sich von der Bezugsperson in der Betreuung trösten lässt, ein realistischer Plan für Krankheitstage und eine zweite erwachsene Person, die mit einsteigt statt nur zuzusehen. Wo diese Dinge stimmen, funktioniert ein Einstieg nach zwölf Monaten so gut wie nach zwei Jahren."
+        },
+        {
+          "type": "list",
+          "ordered": false,
+          "items": [
+            { "title": "Puffer einplanen:", "text": "Legt den Arbeitsbeginn nicht auf den Tag nach dem Ende der Eingewöhnung. Zwei bis vier Wochen Abstand fangen Rückschritte, Infektwellen und die eigene Umstellung ab." },
+            { "title": "Nicht mit voller Stundenzahl starten:", "text": "Viele beginnen mit weniger Stunden und stocken nach einigen Monaten auf. Wichtig ist, das Aufstocken gleich mitzuvereinbaren – sonst wird aus dem Übergang ein Dauerzustand." },
+            { "title": "Realistisch rechnen:", "text": "Zur Arbeitszeit kommen Wege, Bring- und Abholzeiten. Eine 30-Stunden-Stelle mit zweimal 40 Minuten Fahrt ist im Alltag keine Teilzeit." },
+            { "title": "Krankheitstage einkalkulieren:", "text": "Im ersten Kita-Jahr sind acht bis zwölf Infekte normal. Wer davon überrascht wird, gerät im dritten Monat in die Krise. Wie ihr das absichert, steht im Artikel zu Kind krank." },
+            { "title": "Randzeiten klären:", "text": "Wer bringt, wer holt, wer springt ein – schriftlich und vorher. Diese Frage ist der häufigste Konfliktpunkt in den ersten Monaten." }
+          ]
+        },
+        {
+          "type": "evidence",
+          "level": "stark",
+          "claim": "66 Prozent der erwerbstätigen Mütter in Deutschland arbeiten in Teilzeit, gegenüber 7 Prozent der erwerbstätigen Väter. In Familien mit jüngstem Kind im Kindergarten- oder Grundschulalter liegt die Teilzeitquote der Mütter noch höher.",
+          "note": "Diese Zahlen sind der Hintergrund für fast alles, was beim Wiedereinstieg schwierig wird. Sie beschreiben keinen Naturzustand, sondern das Ergebnis von Betreuungszeiten, Einkommensunterschieden und Erwartungen. Für die eigene Planung sind sie vor allem deshalb nützlich, weil sie die Frage aufwerfen, die selten gestellt wird: Warum reduziert eigentlich immer dieselbe Person?",
+          "sources": [0, 1]
+        },
+        {
+          "type": "figure",
+          "kind": "bar",
+          "title": "Teilzeitquote erwerbstätiger Eltern",
+          "alt": "Balkendiagramm: 66 Prozent der erwerbstätigen Mütter, 7 Prozent der erwerbstätigen Väter arbeiten Teilzeit",
+          "data": [
+            { "label": "Erwerbstätige Mütter", "value": 66, "display": "66 %" },
+            { "label": "Erwerbstätige Väter", "value": 7, "display": "7 %" }
+          ],
+          "caption": "Anteil der Teilzeitbeschäftigten unter erwerbstätigen Müttern und Vätern mit minderjährigen Kindern, Statistisches Bundesamt (Mikrozensus, Pressemitteilung von 2022).",
+          "sources": [0]
+        }
+      ]
+    },
+    {
+      "type": "section",
+      "heading": "Was rechtlich geht",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "Drei Wege führen zu weniger Stunden, und sie unterscheiden sich in einem entscheidenden Punkt: ob man wieder zurückkann. Wer das vorher weiß, trifft eine andere Entscheidung."
+        },
+        {
+          "type": "table",
+          "title": "Drei Wege in die Teilzeit",
+          "head": ["Weg", "Voraussetzungen", "Rückkehr zur alten Stundenzahl"],
+          "rows": [
+            ["Teilzeit in der Elternzeit (§ 15 BEEG)", "Betrieb mit mehr als 15 Beschäftigten, Arbeitsverhältnis länger als sechs Monate, 15 bis 32 Wochenstunden für mindestens zwei Monate", "Ja – mit dem Ende der Elternzeit lebt die frühere Arbeitszeit automatisch wieder auf"],
+            ["Unbefristete Teilzeit (§ 8 TzBfG)", "Betrieb mit mehr als 15 Beschäftigten, Arbeitsverhältnis länger als sechs Monate, Antrag drei Monate vor Beginn", "Nein – nur ein Anspruch auf bevorzugte Berücksichtigung bei passenden freien Stellen"],
+            ["Brückenteilzeit (§ 9a TzBfG)", "Betrieb mit in der Regel mehr als 45 Beschäftigten, Arbeitsverhältnis länger als sechs Monate, Antrag in Textform drei Monate vorher, Dauer ein bis fünf Jahre", "Ja – nach Ablauf der vereinbarten Zeit gilt automatisch wieder die alte Arbeitszeit"]
+          ],
+          "caption": "Nach dem Teilzeit- und Befristungsgesetz und den Erläuterungen des Bundesministeriums für Arbeit und Soziales. Bei Betrieben mit 46 bis 200 Beschäftigten gilt für die Brückenteilzeit zusätzlich eine Zumutbarkeitsgrenze.",
+          "sources": [2, 3]
+        },
+        {
+          "type": "evidence",
+          "level": "stark",
+          "claim": "Die Brückenteilzeit nach § 9a TzBfG erlaubt, die Arbeitszeit für ein bis fünf Jahre zu verringern und danach ohne weitere Bedingungen zur ursprünglichen Arbeitszeit zurückzukehren. Ein Grund muss dem Arbeitgeber nicht genannt werden.",
+          "note": "Das ist für Eltern der praktisch wichtigste Unterschied zur klassischen Teilzeit: Wer nach § 8 TzBfG reduziert, hat keinen Anspruch darauf, später wieder aufzustocken – der Arbeitgeber muss lediglich bei gleicher Eignung bevorzugt berücksichtigen. Die Brückenteilzeit kehrt dagegen von selbst zurück. Zwei Einschränkungen: Während der Brückenteilzeit kann man weder weiter verringern noch verlängern, und der Anspruch besteht erst ab mehr als 45 Beschäftigten im Betrieb.",
+          "sources": [2, 3]
+        },
+        {
+          "type": "callout",
+          "variant": "tip",
+          "title": "Vor dem Gespräch mit dem Arbeitgeber",
+          "items": [
+            "Antrag schriftlich oder in Textform stellen, mit Datum – die Drei-Monats-Frist läuft ab Zugang.",
+            "Gewünschte Stundenzahl und Verteilung auf die Woche konkret benennen; über die Verteilung soll der Arbeitgeber mit dir sprechen.",
+            "Prüfen, ob eine Betriebsvereinbarung oder ein Tarifvertrag günstigere Regeln enthält – das ist häufiger, als man denkt.",
+            "Bei Ablehnung: Der Arbeitgeber muss spätestens einen Monat vor dem gewünschten Beginn schriftlich ablehnen. Tut er das nicht, gilt die Verringerung in vielen Fällen als festgelegt.",
+            "Betriebsrat oder Gewerkschaft früh einbeziehen, nicht erst nach der Absage."
+          ]
+        },
+        {
+          "type": "p",
+          "text": "Zur Elternzeit selbst: Sie ist unbezahlte Freistellung mit Rückkehrrecht. Nach ihrem Ende hast du Anspruch darauf, mit der Arbeitszeit weiterzuarbeiten, die vor der Elternzeit galt – auch wenn du währenddessen in Teilzeit gearbeitet hast. Ein Anspruch auf exakt denselben Schreibtisch besteht nicht; der Arbeitgeber darf im Rahmen des Arbeitsvertrags eine gleichwertige Tätigkeit zuweisen. Fristen und Aufteilung stehen im Artikel zu Elterngeld und Elternzeit."
+        }
+      ]
+    },
+    {
+      "type": "section",
+      "heading": "Die Teilzeitfalle – und was sie kostet",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "Teilzeit ist als Übergang gedacht und wird häufig zum Dauerzustand. Der Mechanismus ist bekannt: Wer weniger Stunden arbeitet, übernimmt mehr Organisation zu Hause, bekommt seltener Projekte mit Sichtbarkeit, steigt langsamer auf und verdient weniger – womit es beim nächsten Familienthema wieder ökonomisch vernünftig wirkt, dass dieselbe Person zurücksteckt. Nach einigen Jahren ist die Entscheidung, die als vorübergehend gedacht war, kaum noch umkehrbar."
+        },
+        {
+          "type": "evidence",
+          "level": "stark",
+          "claim": "Der Gender Pension Gap lag 2023 bei 27,1 Prozent: Frauen ab 65 Jahren erhielten im Durchschnitt 18.663 Euro Alterseinkünfte im Jahr, Männer 25.599 Euro.",
+          "note": "Die Rentenlücke ist die verzögerte Rechnung für Erwerbsunterbrechungen und lange Teilzeitphasen. Sie ist kein Argument gegen Teilzeit – für viele Familien ist sie die einzige realistische Lösung –, aber ein Argument dafür, sie bewusst zu befristen, sie zwischen beiden Elternteilen aufzuteilen und die Folgen zu kennen, statt sie erst mit sechzig zu entdecken.",
+          "sources": [5]
+        },
+        {
+          "type": "callout",
+          "variant": "warn",
+          "title": "Drei Dinge, die sich rechnen lassen sollten",
+          "items": [
+            "Was kostet ein Jahr Teilzeit in der späteren Rente? Die Deutsche Rentenversicherung berät dazu kostenlos, auch telefonisch.",
+            "Wie wirkt sich die Steuerklassenkombination aus? Bei ungleichen Einkommen wirkt Steuerklasse V so, als lohne sich Arbeiten kaum – das ist ein Effekt der Vorauszahlung, nicht der tatsächlichen Steuerlast.",
+            "Was passiert bei Trennung oder Erwerbsminderung? Wer lange reduziert, sollte einen Ausgleich innerhalb der Partnerschaft besprechen, statt darauf zu vertrauen, dass sich das schon regelt."
+          ]
+        },
+        {
+          "type": "p",
+          "text": "Der wirksamste Hebel gegen die Teilzeitfalle ist unspektakulär: Nicht nur eine Person reduziert. Zwei mal 32 Stunden verteilen die Betreuungslast, halten beide Erwerbsbiografien in Bewegung und lösen nebenbei die Randzeitenfrage. Dass das für viele Familien am Einkommen oder am Arbeitgeber scheitert, ist wahr – es lohnt trotzdem, die Variante überhaupt einmal durchgerechnet zu haben, bevor die Standardlösung gewählt wird."
+        }
+      ]
+    },
+    {
+      "type": "section",
+      "heading": "Zu Hause muss sich etwas mitverändern",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "Der häufigste Fehler beim Wiedereinstieg ist, die Erwerbsarbeit hinzuzufügen, ohne etwas wegzunehmen. Dann arbeitet eine Person 25 Stunden im Job und dieselbe Person weiterhin die gesamte Organisation der Familie. Was sich dabei anfühlt wie persönliches Scheitern in den ersten Monaten, ist meistens schlicht eine unmögliche Rechnung."
+        },
+        {
+          "type": "steps",
+          "title": "Was vor dem ersten Arbeitstag geklärt sein sollte",
+          "items": [
+            { "title": "Bereiche neu verteilen", "text": "Nicht Aufgaben, sondern Zuständigkeiten inklusive Planung: Gesundheitstermine, Kita-Kommunikation, Kleidung, Essen, Geburtstage. Details dazu im Artikel zum Mental Load." },
+            { "title": "Betreuungsnotfälle regeln", "text": "Wer bleibt beim ersten Infekt zu Hause, wer beim zweiten? Legt eine Reihenfolge fest, bevor der Anruf aus der Kita kommt – im Moment des Anrufs entscheidet sonst, wer den unwichtigeren Termin hat." },
+            { "title": "Randzeiten und Wege festlegen", "text": "Bringen und Holen fest verteilen, nicht wöchentlich neu verhandeln. Feste Muster entlasten mehr als flexible Absprachen." },
+            { "title": "Haushalt reduzieren oder einkaufen", "text": "Was wegfallen kann, fällt weg; was Geld kosten darf, kostet Geld. Eine Haushaltshilfe ist keine Kapitulation, sondern oft die günstigste Variante, Konflikte zu vermeiden." },
+            { "title": "Nach acht Wochen nachjustieren", "text": "Setzt jetzt schon einen Termin, an dem ihr ehrlich prüft, was nicht funktioniert. Ohne festen Termin wird stillschweigend zurückgerutscht." }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "section",
+      "heading": "Schuldgefühle – und was die Forschung dazu sagt",
+      "blocks": [
+        {
+          "type": "evidence",
+          "level": "stark",
+          "claim": "Eine Metaanalyse von 69 Studien mit fast 1.500 Effektstärken fand keinen systematischen Zusammenhang zwischen früher mütterlicher Erwerbstätigkeit und späteren Schulleistungen oder Verhaltensproblemen der Kinder. In einzelnen Auswertungen war Erwerbstätigkeit sogar mit besseren Einschätzungen durch Lehrkräfte verbunden.",
+          "note": "Die Arbeit von Lucas-Thompson, Goldberg und Prause fasst Untersuchungen aus fünf Jahrzehnten zusammen. Besonders deutlich fielen die Ergebnisse für Kinder aus Alleinerziehenden-Haushalten und Familien mit geringem Einkommen aus: Sie schnitten bei Erwerbstätigkeit der Mutter besser ab. Das ist keine Aufforderung, arbeiten zu gehen – es ist die Entwarnung, dass die Entscheidung nach euren Bedürfnissen getroffen werden darf und nicht das Kind gegen den Job abwägt.",
+          "sources": [4]
+        },
+        {
+          "type": "p",
+          "text": "Wichtig ist, was die Studien nicht sagen. Sie sagen nicht, dass Betreuungsqualität egal ist – sie ist es nicht. Sie sagen nicht, dass Übergänge mühelos verlaufen. Und sie sagen nichts über die Belastung der Eltern, die bei Doppelbelastung real steigt. Was sie sagen, ist: Die Sorge, dem Kind durch Erwerbstätigkeit an sich zu schaden, wird von den Daten nicht getragen. Was zählt, sind verlässliche Beziehungen, gute Betreuung und Eltern, die nicht dauerhaft über ihrer Grenze leben."
+        },
+        {
+          "type": "callout",
+          "variant": "myth",
+          "title": "„Die ersten drei Jahre gehören zur Mutter“",
+          "text": "Dieser Satz stammt aus einer Zeit, in der man annahm, ein Kind könne nur eine einzige enge Bindung eingehen. Das gilt seit Jahrzehnten als überholt: Kinder bauen mehrere Bindungsbeziehungen gleichzeitig auf – zu beiden Eltern, zu Großeltern, zu Bezugserzieherinnen. Entscheidend ist nicht, wie viele Stunden eine bestimmte Person anwesend ist, sondern ob es verlässliche Menschen gibt, die feinfühlig reagieren."
+        }
+      ]
+    },
+    {
+      "type": "section",
+      "heading": "Häufige Fragen",
+      "blocks": [
+        {
+          "type": "faq",
+          "items": [
+            {
+              "q": "Mein Arbeitgeber sagt, Teilzeit sei auf meiner Stelle nicht möglich. Muss ich das akzeptieren?",
+              "a": "Nicht ungeprüft. Der Arbeitgeber darf nur aus betrieblichen Gründen ablehnen und muss das begründen und fristgerecht schriftlich mitteilen – bei der Teilzeit nach § 8 TzBfG spätestens einen Monat vor dem gewünschten Beginn. Pauschale Aussagen wie „Führung geht nicht in Teilzeit“ genügen dafür nicht. Betriebsrat, Gewerkschaft oder eine arbeitsrechtliche Beratung helfen bei der Einschätzung, bevor du nachgibst."
+            },
+            {
+              "q": "Ich bin während der Elternzeit in Teilzeit. Muss ich danach wieder voll arbeiten?",
+              "a": "Mit dem Ende der Elternzeit lebt automatisch die Arbeitszeit wieder auf, die vorher vereinbart war. Wenn du dauerhaft weniger arbeiten willst, brauchst du eine neue Vereinbarung oder einen Antrag nach § 8 beziehungsweise § 9a TzBfG. Diesen Antrag stellst du am besten rechtzeitig vor dem Ende der Elternzeit – die Drei-Monats-Frist gilt auch hier."
+            },
+            {
+              "q": "Mein Kind weint jeden Morgen beim Abgeben. Ist das ein Zeichen, dass es zu früh ist?",
+              "a": "Meistens nicht. Aussagekräftig ist nicht der Trennungsmoment, sondern was danach passiert: Lässt sich dein Kind von der Bezugserzieherin trösten und findet es innerhalb einiger Minuten in den Tag? Dann ist der Abschiedsschmerz normal. Wenn es sich über Wochen nicht beruhigen lässt, dauerhaft apathisch wirkt oder stark zurückfällt, ist das ein Grund, die Eingewöhnung mit der Einrichtung noch einmal anzuschauen."
+            },
+            {
+              "q": "Lohnt sich Arbeiten überhaupt, wenn Betreuung und Steuern so viel wegnehmen?",
+              "a": "Kurzfristig sieht die Rechnung oft schlecht aus, langfristig fast immer anders. In die Rechnung gehören Rentenpunkte, Gehaltsentwicklung, Wiedereinstiegschancen und die Absicherung bei Trennung oder Krankheit – nicht nur der Monatsbetrag, der übrig bleibt. Auch die Steuerklassenkombination verzerrt das Bild: Was in Klasse V zu viel abgezogen wird, kommt über die Steuererklärung zurück."
+            },
+            {
+              "q": "Wie gehe ich mit Kommentaren von Kolleginnen oder in der Familie um?",
+              "a": "Kurz und ohne Rechtfertigung. „Das passt für uns so“ ist ein vollständiger Satz. Wer erklärt, lädt zur Diskussion ein. Nützlich ist außerdem, sich klarzumachen, dass an dieselbe Entscheidung bei Müttern und Vätern unterschiedliche Erwartungen gestellt werden – die Kritik trifft selten die Entscheidung, sondern die Rolle."
+            },
+            {
+              "q": "Ich will beruflich etwas anderes machen als vorher. Ist der Wiedereinstieg der falsche Moment?",
+              "a": "Er ist häufig der ehrlichste. Viele merken in der Elternzeit, dass der alte Job nicht mehr passt. Sinnvoll ist trotzdem, zuerst zurückzukehren und den Wechsel aus einem bestehenden Arbeitsverhältnis heraus vorzubereiten – das erhält Kündigungsschutz, Einkommen und Verhandlungsposition. Die Agenturen für Arbeit und die Beratungsstellen für berufliche Neuorientierung beraten auch Beschäftigte kostenlos."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "callout",
+      "variant": "info",
+      "title": "Kurz gesagt",
+      "text": "Klär zuerst die Bedingungen, dann den Termin: Betreuung, Stundenzahl, Krankheitsplan, Zuständigkeiten zu Hause. Nutze die Brückenteilzeit, wenn du zurückwillst – sie ist der einzige Weg, der von selbst zurückführt. Und leg die Sorge ab, dass Erwerbstätigkeit an sich deinem Kind schadet: Dafür gibt es keine belastbaren Belege. Belastbar ist etwas anderes – dass erschöpfte Eltern und ungeklärte Zuständigkeiten den Alltag kaputt machen."
+    }
+  ],
+  "sources": [
+    {
+      "title": "66 % der erwerbstätigen Mütter arbeiten Teilzeit, aber nur 7 % der Väter (Pressemitteilung Nr. N012)",
+      "publisher": "Statistisches Bundesamt (Destatis)",
+      "year": "2022",
+      "kind": "Institutionelle Information",
+      "url": "https://www.destatis.de/DE/Presse/Pressemitteilungen/2022/03/PD22_N012_12.html"
+    },
+    {
+      "title": "Teilzeitquoten nach Elternschaft und Alter des jüngsten Kindes",
+      "publisher": "WSI GenderDatenPortal, Hans-Böckler-Stiftung",
+      "year": "2024",
+      "kind": "Institutionelle Information",
+      "url": "https://www.wsi.de/de/zeit-14621-teilzeitquoten-nach-elternschaft-und-alter-des-juengsten-kindes-14741.htm"
+    },
+    {
+      "title": "Fragen und Antworten zur Brückenteilzeit",
+      "publisher": "Bundesministerium für Arbeit und Soziales (BMAS)",
+      "year": "2025",
+      "kind": "Institutionelle Information",
+      "url": "https://www.bmas.de/DE/Arbeit/Arbeitsrecht/Teilzeit-flexible-Arbeitszeit/Teilzeit/Fragen-und-Antworten-Brueckenteilzeit/faq-brueckenteilzeit.html"
+    },
+    {
+      "title": "§ 9a Teilzeit- und Befristungsgesetz: Zeitlich begrenzte Verringerung der Arbeitszeit",
+      "publisher": "Bundesministerium der Justiz, gesetze-im-internet.de",
+      "year": "2026",
+      "kind": "Institutionelle Information",
+      "url": "https://www.gesetze-im-internet.de/tzbfg/__9a.html"
+    },
+    {
+      "title": "Maternal work early in the lives of children and its distal associations with achievement and behavior problems: a meta-analysis",
+      "publisher": "Psychological Bulletin (Lucas-Thompson RG, Goldberg WA, Prause J)",
+      "year": "2010",
+      "kind": "Metaanalyse",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/20919797/"
+    },
+    {
+      "title": "Gender Pension Gap 2023: Alterseinkünfte von Frauen 27,1 % niedriger als die von Männern (Pressemitteilung Nr. N016)",
+      "publisher": "Statistisches Bundesamt (Destatis)",
+      "year": "2024",
+      "kind": "Institutionelle Information",
+      "url": "https://www.destatis.de/DE/Presse/Pressemitteilungen/2024/04/PD24_N016_12_63.html"
+    },
+    {
+      "title": "Elternzeit – Was Sie zur Elternzeit wissen müssen (FAQ)",
+      "publisher": "Familienportal des Bundes, Bundesministerium für Familie, Senioren, Frauen und Jugend",
+      "year": "2026",
+      "kind": "Institutionelle Information",
+      "url": "https://familienportal.de/familienportal/familienleistungen/elternzeit/faq"
+    }
+  ],
+  "related": ["elterngeld-elternzeit", "kita-eingewoehnung", "mentale-last", "kind-krank-betreuung"]
+}

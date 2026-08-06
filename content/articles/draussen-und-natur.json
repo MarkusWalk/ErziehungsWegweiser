@@ -1,0 +1,225 @@
+{
+  "slug": "draussen-und-natur",
+  "title": "Draußen sein",
+  "subtitle": "Der am besten belegte Einzeleffekt des Draußenseins ist unerwartet: Tageslicht schützt die Augen vor Kurzsichtigkeit. Was sonst noch belegt ist, was plausibel ist – und was schöne Vermutung bleibt.",
+  "phases": ["kleinkind", "kindergarten", "schulkind"],
+  "topics": ["spiel", "gesundheit"],
+  "updated": "2026-08-06",
+  "summary": "Draußen sein gilt als pauschal gesund, und vieles davon ist tatsächlich gut belegt – anderes weniger. Am solidesten ist die Datenlage bei den Augen: Zeit im Freien senkt in randomisierten Schulstudien das Risiko, kurzsichtig zu werden. Für Stimmung, Aufmerksamkeit und Bewegungsumfang gibt es gute, aber überwiegend beobachtende Belege. Und die verbreitete Idee, dass Matsch und Dreck das Immunsystem trainieren, hat einen echten Kern – ist aber deutlich komplizierter, als sie meist erzählt wird.",
+  "keyFacts": [
+    "Tageslicht schützt vor Kurzsichtigkeit – das ist der am besten belegte Einzeleffekt.",
+    "Etwa zwei Stunden draußen pro Tag ist die Größenordnung, mit der die Studien arbeiten.",
+    "Draußen bewegen sich Kinder von selbst mehr und länger als drinnen.",
+    "Zusammenhänge mit Stimmung und Aufmerksamkeit sind gut, aber meist nicht ursächlich belegt.",
+    "Die Hygienehypothese erklärt Beobachtungen, ist aber keine Anleitung zum Dreckigsein."
+  ],
+  "blocks": [
+    {
+      "type": "p",
+      "lead": true,
+      "text": "„Geh raus, das ist gesund“ ist einer der wenigen Elternsätze, die sich mit Zahlen belegen lassen. Nur nicht unbedingt so, wie man denkt. Der stärkste Beleg betrifft nicht Erkältungen, nicht Vitamin D und nicht die Stimmung – sondern die Augen."
+    },
+    {
+      "type": "section",
+      "heading": "Der stärkste Befund: Tageslicht und Kurzsichtigkeit",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "Kurzsichtigkeit nimmt weltweit stark zu. Sie entsteht, wenn der Augapfel im Wachstum zu lang wird; das Bild landet dann vor der Netzhaut statt darauf. Weil dieses Wachstum in der Kindheit stattfindet, ist die Kindheit auch das Zeitfenster, in dem sich etwas beeinflussen lässt. Das Erstaunliche: Der wirksamste bekannte Hebel ist nicht weniger Lesen oder weniger Bildschirm, sondern mehr Zeit im Freien."
+        },
+        {
+          "type": "evidence",
+          "level": "stark",
+          "claim": "Mehr Zeit im Freien senkt das Risiko, im Schulalter kurzsichtig zu werden. Der Effekt zeigt sich in randomisierten Schulstudien und hängt von Dauer und Lichtstärke ab.",
+          "note": "Das ist einer der wenigen Präventionseffekte im Kindesalter, für die es kontrollierte Studien mit Zufallszuteilung ganzer Schulen gibt – nicht nur Beobachtungen. Wichtige Einschränkung: Der Schutz betrifft vor allem Kinder, die noch nicht kurzsichtig sind. Bei bereits kurzsichtigen Kindern bremst mehr Draußenzeit das Fortschreiten kaum. Und die Studien stammen überwiegend aus Ostasien, wo Kurzsichtigkeit besonders häufig ist.",
+          "sources": [0, 1, 2]
+        },
+        {
+          "type": "figure",
+          "kind": "bar",
+          "title": "Was zusätzliche Draußenzeit in Schulstudien bewirkt hat",
+          "alt": "Balkendiagramm: 80 zusätzliche Minuten draußen pro Tag senkten die Neuerkrankungen um rund 50 Prozent in einem Jahr, 40 zusätzliche Minuten um rund 23 Prozent über drei Jahre",
+          "data": [
+            { "label": "+80 min/Tag, über 1 Jahr", "value": 50, "display": "rund 50 % weniger" },
+            { "label": "+40 min/Tag, über 3 Jahre", "value": 23, "display": "rund 23 % weniger" }
+          ],
+          "caption": "Relative Verringerung neu auftretender Kurzsichtigkeit in schulbasierten Interventionsstudien, zusammengefasst in einer randomisierten Untersuchung an 24 Grundschulen mit objektiver Messung von Draußenzeit und Lichtstärke. Die Zahlen stammen aus unterschiedlichen Studien und sind nicht direkt vergleichbar.",
+          "sources": [1]
+        },
+        {
+          "type": "callout",
+          "variant": "tip",
+          "title": "Was das praktisch heißt",
+          "text": "Es geht um Helligkeit, nicht um Aktivität. Im Freien liegt die Beleuchtungsstärke selbst an einem bedeckten Tag um ein Vielfaches über der in einem gut beleuchteten Innenraum. Auf einer Bank sitzen und ein Buch lesen zählt also mit. Praktisch heißt das: Pausen und Nachmittage nach draußen verlegen, auch bei Wolken. Wenn beide Eltern kurzsichtig sind, hat dein Kind ein deutlich erhöhtes Risiko – dann lohnt sich die Draußenzeit besonders, und regelmäßige augenärztliche Kontrollen ebenso."
+        }
+      ]
+    },
+    {
+      "type": "section",
+      "heading": "Bewegung, Stimmung, Aufmerksamkeit",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "Der zweite Effekt ist so naheliegend, dass er leicht übersehen wird: Draußen bewegen sich Kinder mehr. Nicht, weil sie sich vornehmen zu trainieren, sondern weil der Raum es hergibt. Rennen, Klettern, Balancieren, Radfahren – das passiert im Freien von selbst und in der Wohnung fast nie. Wer die Bewegungsempfehlungen der WHO erreichen will, kommt an Draußenzeit kaum vorbei."
+        },
+        {
+          "type": "evidence",
+          "level": "moderat",
+          "claim": "Kinder, die mehr Zugang zu Grünflächen haben, zeigen im Durchschnitt weniger emotionale und Verhaltensauffälligkeiten – besonders deutlich bei Hyperaktivität und Unaufmerksamkeit.",
+          "note": "Aus einer systematischen Übersichtsarbeit über 21 Studien. Der Haken: Fast alle Studien sind Beobachtungsstudien und liefern damit keinen Beweis für Ursache und Wirkung. Familien mit mehr Grün in der Nähe unterscheiden sich in vielem – Einkommen, Wohnlage, Lärmbelastung. Der Zusammenhang ist konsistent, die Kausalität nicht gesichert.",
+          "sources": [4]
+        },
+        {
+          "type": "evidence",
+          "level": "moderat",
+          "claim": "Spielumgebungen, die riskantere Bewegung zulassen, hängen mit mehr körperlicher Aktivität, besserem Sozialverhalten und weniger Aggression zusammen.",
+          "note": "Systematische Übersichtsarbeit von Brussoni und Kolleginnen. Die Autorinnen bewerten die Qualität der eingeschlossenen Studien selbst als begrenzt. Für die Praxis: Ein Waldstück, ein Bachlauf oder ein Hügel bieten mehr davon als ein genormter Spielplatz – und werden auch länger bespielt.",
+          "sources": [3]
+        },
+        {
+          "type": "p",
+          "text": "Und der Schlaf: Tageslicht am Morgen und Vormittag ist der stärkste Taktgeber für die innere Uhr. Kinder, die vormittags viel draußen sind, werden abends verlässlicher müde. Das ist im Alltag oft der spürbarste Effekt überhaupt – auch wenn er sich schlechter in Zahlen fassen lässt als der Augeneffekt."
+        }
+      ]
+    },
+    {
+      "type": "section",
+      "heading": "Matsch und Immunsystem: was dran ist",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "Die Erzählung geht so: Weil Kinder heute zu sauber aufwachsen, hat das Immunsystem nichts zu tun und wendet sich gegen Harmloses – daher Allergien und Asthma. Diese Hygienehypothese ist nicht falsch, aber sie ist deutlich unschärfer, als sie klingt."
+        },
+        {
+          "type": "evidence",
+          "level": "umstritten",
+          "claim": "Frühe Kontakte mit einer vielfältigen mikrobiellen Umwelt – am deutlichsten in traditioneller Landwirtschaft mit Nutztieren – gehen mit deutlich weniger Asthma und Allergien einher.",
+          "note": "Der eindrücklichste Befund stammt aus dem Vergleich zweier religiöser Gemeinschaften in den USA mit ähnlicher Herkunft, aber unterschiedlicher Landwirtschaft: Asthma und Allergien waren bei den Kindern aus traditioneller Viehhaltung um ein Mehrfaches seltener, der Staub in ihren Häusern enthielt deutlich mehr bakterielle Bestandteile. Aber: Das ist ein Stalleffekt, kein Matscheffekt. Es gibt keinen Beleg dafür, dass ein Kind, das im Park im Dreck spielt, dadurch weniger Allergien bekommt. Und nichts davon rechtfertigt, Händewaschen oder Impfungen wegzulassen.",
+          "sources": [5, 6]
+        },
+        {
+          "type": "callout",
+          "variant": "myth",
+          "title": "„Dreck macht gesund“",
+          "text": "In dieser Kurzform stimmt es nicht. Was in den Studien schützt, ist ein bestimmtes mikrobielles Milieu im ersten Lebensjahr – Kuhstall, Rohmilch, viele Geschwister, Hund im Haushalt –, nicht Schmutz an sich. Vieles davon lässt sich nicht nachbauen. Was du daraus mitnehmen kannst: Kein Grund, ein Kind vom Spielen im Sand, im Gras oder in Pfützen abzuhalten. Aber auch kein Grund, bei Erkältungswellen auf Händewaschen zu verzichten – das schützt nachweislich vor Infekten."
+        },
+        {
+          "type": "p",
+          "text": "Der oft gehörte Satz, Kinder würden sich draußen weniger anstecken, hat übrigens einen realen Kern: Infektionskrankheiten verbreiten sich in Innenräumen deutlich leichter als im Freien. Nicht die kalte Luft macht krank, sondern die geteilte Raumluft. Dass Erkältungen im Winter häufiger sind, liegt unter anderem daran, dass alle drinnen sitzen."
+        }
+      ]
+    },
+    {
+      "type": "section",
+      "heading": "Wetter, Ausrüstung, Waldkindergarten",
+      "blocks": [
+        {
+          "type": "list",
+          "ordered": false,
+          "items": [
+            { "title": "Kälte macht nicht krank.", "text": "Erkältungen werden durch Viren verursacht, nicht durch Temperatur. Ein gut angezogenes Kind kann bei Minusgraden draußen spielen. Grenzen setzen Wind, Nässe und die Frage, ob Finger und Ohren warm bleiben." },
+            { "title": "Regen ist eine Materialfrage.", "text": "Mit Matschhose und dichten Stiefeln verliert Regenwetter den größten Teil seines Schreckens – für das Kind ohnehin, meist nur für die Erwachsenen nicht." },
+            { "title": "Hitze und Sonne sind die echte Einschränkung.", "text": "Zwischen 11 und 15 Uhr im Hochsommer gilt das Umgekehrte: Schatten, Kopfbedeckung, Trinken. Sonnenbrände in der Kindheit erhöhen das spätere Hautkrebsrisiko." },
+            { "title": "Ein Waldkindergarten ist eine gute Option, keine bessere Kita.", "text": "Kinder dort bewegen sich mehr und sind viel im Tageslicht. Belastbare Belege für langfristige Vorteile bei Sprache, Schulerfolg oder Gesundheit gibt es nicht. Wenn das Konzept zu deinem Kind und eurem Alltag passt: gute Wahl. Wenn nicht, verpasst ihr nichts Belegtes." },
+            { "title": "Zecken und Sonne mitdenken, nicht dramatisieren.", "text": "Nach dem Draußensein absuchen, in FSME-Risikogebieten die Impfempfehlung der STIKO beachten. Das ist Routine, kein Grund, den Wald zu meiden." }
+          ]
+        },
+        {
+          "type": "callout",
+          "variant": "tip",
+          "title": "Die niedrigste Hürde zuerst",
+          "text": "Wenn zwei Stunden täglich unerreichbar klingen, fang mit dem Weg an. Kita und Schule zu Fuß, den Rückweg über den Spielplatz, das Abendessen einmal die Woche im Park. Draußensein muss kein Ausflug sein – die meisten Minuten entstehen nebenbei."
+        }
+      ]
+    },
+    {
+      "type": "section",
+      "heading": "Häufige Fragen",
+      "blocks": [
+        {
+          "type": "faq",
+          "items": [
+            {
+              "q": "Wie viel draußen ist genug?",
+              "a": "Eine offizielle Zahl gibt es nicht. Die Studien zur Kurzsichtigkeit arbeiten mit ein bis zwei Stunden täglich, und in dieser Größenordnung liegt auch das, was Fachleute empfehlen. Betrachte es nicht als Tagespflicht, sondern als Wochendurchschnitt – ein verregneter Dienstag lässt sich am Wochenende ausgleichen."
+            },
+            {
+              "q": "Ersetzt Draußensein Vitamin-D-Tropfen im ersten Lebensjahr?",
+              "a": "Nein. Die Empfehlung zur Vitamin-D-Gabe im ersten Lebensjahr besteht unabhängig davon, wie viel ein Säugling draußen ist – schon deshalb, weil Babys nicht in die direkte Sonne sollen. Ab dem Kleinkindalter deckt die Eigenproduktion in der Haut bei ausreichendem Aufenthalt im Freien im Sommerhalbjahr den Bedarf in der Regel."
+            },
+            {
+              "q": "Hilft Draußensein gegen Kurzsichtigkeit, wenn mein Kind schon eine Brille hat?",
+              "a": "Kaum. Der Schutzeffekt betrifft vor allem das Neuauftreten. Ist die Kurzsichtigkeit da, geht es um das Bremsen des Fortschreitens – dafür gibt es andere Verfahren, über die eine Augenärztin oder ein Augenarzt beraten sollte. Draußenzeit schadet natürlich trotzdem nicht."
+            },
+            {
+              "q": "Mein Kind will einfach nicht raus. Was tun?",
+              "a": "Meist hilft ein Zweck statt einer Aufforderung: etwas holen, jemanden treffen, ein Ziel haben. Und Gesellschaft – draußen mit anderen Kindern ist attraktiver als draußen allein. Wenn Widerstand plötzlich neu auftritt, lohnt ein Blick, ob etwas dahintersteckt: unpassende Kleidung, ein unangenehmes Erlebnis, ein Konflikt auf dem Spielplatz."
+            },
+            {
+              "q": "Ist der Effekt aufs Immunsystem ein Grund, weniger auf Hygiene zu achten?",
+              "a": "Nein. Die Studien zur Hygienehypothese betreffen das mikrobielle Umfeld im ersten Lebensjahr, nicht das Händewaschen vor dem Essen. Gute Handhygiene senkt nachweislich Infektionen; ein Verzicht darauf hat keinen belegten Nutzen für das Immunsystem."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "callout",
+      "variant": "info",
+      "title": "Kurz gesagt",
+      "text": "Draußensein wirkt – am sichersten auf die Augen, am spürbarsten auf Bewegung und Abendmüdigkeit. Ziel ist die Größenordnung ein bis zwei Stunden, Tageslicht zählt auch bei Wolken und im Sitzen. Die Immunsystem-Erzählung ist interessanter als belegt. Und der einfachste Weg zu mehr Draußenzeit ist nicht der Ausflug, sondern der Weg."
+    }
+  ],
+  "sources": [
+    {
+      "title": "Time spent in outdoor activities in relation to myopia prevention and control: a meta-analysis and systematic review",
+      "publisher": "Acta Ophthalmologica (Xiong et al.)",
+      "year": "2017",
+      "kind": "Metaanalyse",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/28251836/"
+    },
+    {
+      "title": "Time Outdoors in Reducing Myopia: A School-Based Cluster Randomized Trial with Objective Monitoring of Outdoor Time and Light Intensity",
+      "publisher": "Ophthalmology",
+      "year": "2022",
+      "kind": "Studie",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/35779695/"
+    },
+    {
+      "title": "Efficacy of outdoor interventions for myopia in children and adolescents: a systematic review and meta-analysis of randomized controlled trials",
+      "publisher": "Frontiers in Public Health",
+      "year": "2024",
+      "kind": "Metaanalyse",
+      "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC11347293/"
+    },
+    {
+      "title": "What is the Relationship between Risky Outdoor Play and Health in Children? A Systematic Review",
+      "publisher": "International Journal of Environmental Research and Public Health (Brussoni et al.)",
+      "year": "2015",
+      "kind": "Übersichtsarbeit",
+      "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4483710/"
+    },
+    {
+      "title": "Impact of Green Space Exposure on Children’s and Adolescents’ Mental Health: A Systematic Review",
+      "publisher": "International Journal of Environmental Research and Public Health (Vanaken & Danckaerts)",
+      "year": "2018",
+      "kind": "Übersichtsarbeit",
+      "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6313536/"
+    },
+    {
+      "title": "Innate Immunity and Asthma Risk in Amish and Hutterite Farm Children",
+      "publisher": "New England Journal of Medicine (Stein et al.)",
+      "year": "2016",
+      "kind": "Studie",
+      "url": "https://www.nejm.org/doi/full/10.1056/NEJMoa1508749"
+    },
+    {
+      "title": "The „Hygiene Hypothesis“ and the Lessons Learnt From Farm Studies",
+      "publisher": "Frontiers in Immunology",
+      "year": "2021",
+      "kind": "Übersichtsarbeit",
+      "url": "https://www.frontiersin.org/articles/635522"
+    }
+  ],
+  "related": ["bewegung-und-sport", "sonnenschutz-und-hitze", "spiel-kleinkind", "allergien-vorbeugen"]
+}

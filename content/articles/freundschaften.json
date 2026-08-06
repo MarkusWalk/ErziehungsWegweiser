@@ -1,0 +1,274 @@
+{
+  "slug": "freundschaften",
+  "title": "Freundschaften und Konflikte unter Kindern",
+  "subtitle": "Wie sich das Verständnis von Freundschaft über die Jahre verändert, warum schüchterne Kinder kein Problem haben müssen, was bei Ausgrenzung hilft – und wann Eltern besser nicht eingreifen.",
+  "phases": ["kindergarten", "schulkind"],
+  "topics": ["familie", "emotionen"],
+  "updated": "2026-08-06",
+  "summary": "Freundschaft bedeutet für ein Vierjähriges etwas völlig anderes als für ein Neunjähriges: erst der, der gerade da ist und dasselbe spielen will, später der, dem man Geheimnisse anvertraut. Wer das weiß, bewertet Streit und Freundschaftswechsel gelassener. Für die seelische Entwicklung zählt weniger, wie viele Freundinnen und Freunde ein Kind hat, als ob es mindestens eine verlässliche Beziehung unter Gleichaltrigen gibt. Schüchternheit ist dabei ein Temperamentsmerkmal, keine Störung – riskant wird sie erst, wenn ein Kind ganz ohne Anschluss bleibt.",
+  "keyFacts": [
+    "Das Freundschaftsverständnis entwickelt sich in Stufen – von der Spielgelegenheit zur vertrauten Beziehung.",
+    "Eine einzige verlässliche Freundschaft schützt mehr als viele lose Kontakte.",
+    "Streit unter Kindern ist Übungsfeld, nicht Ausnahmezustand.",
+    "Zurückhaltung ist Temperament; erst dauerhafte Isolation oder Ablehnung ist ein Warnsignal.",
+    "Ausgrenzung, die sich wiederholt und einseitig ist, ist etwas anderes als ein Streit – und braucht Erwachsene."
+  ],
+  "blocks": [
+    {
+      "type": "p",
+      "lead": true,
+      "text": "„Der ist nicht mehr mein Freund“ – und zwanzig Minuten später bauen die beiden wieder gemeinsam. Was Eltern als Wankelmütigkeit erleben, ist im Kindergartenalter völlig folgerichtig: Freundschaft ist in diesem Alter kein Zustand, sondern eine Tätigkeit. Sie besteht, solange gemeinsam gespielt wird. Erst über Jahre wächst daraus etwas, das eine Trennung übersteht."
+    },
+    {
+      "type": "section",
+      "heading": "Was dein Kind unter Freundschaft versteht",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "Der Psychologe Robert Selman hat Kinder verschiedenen Alters befragt, was eine Freundin oder ein Freund sei, und daraus eine Stufenfolge beschrieben. Sie ist kein Zeitplan, den ein Kind einhalten muss, aber sie erklärt erstaunlich viel Alltag – etwa warum Vierjährige es als Verrat empfinden, wenn jemand anderes mitspielen will, und warum Achtjährige plötzlich Verträge über Bestfreundschaften schließen."
+        },
+        {
+          "type": "timeline",
+          "title": "Stufen des Freundschaftsverständnisses",
+          "entries": [
+            {
+              "age": "etwa 3–6 Jahre",
+              "label": "Der Spielkamerad von jetzt",
+              "text": "Freund ist, wer da ist und dasselbe tun will. Nähe und Gelegenheit entscheiden. Dass jemand anders denken könnte, ist noch schwer vorstellbar – deshalb kränkt Widerspruch so sehr."
+            },
+            {
+              "age": "etwa 5–9 Jahre",
+              "label": "Einseitige Hilfe",
+              "text": "Freund ist, wer tut, was ich will. Nettigkeiten werden verrechnet, Geschenke und Einladungen bekommen Gewicht. Ausschluss wird zum ersten Mal als Machtmittel entdeckt."
+            },
+            {
+              "age": "etwa 7–12 Jahre",
+              "label": "Schönwetter-Kooperation",
+              "text": "Es geht um Gerechtigkeit und Gegenseitigkeit, aber Konflikte beenden die Freundschaft. Bündnisse wechseln schnell, Regeln werden ausgehandelt und heftig verteidigt."
+            },
+            {
+              "age": "etwa 8–15 Jahre",
+              "label": "Vertrauen und Teilen",
+              "text": "Geheimnisse, Loyalität, gemeinsame Innenwelt. Freundschaften überstehen jetzt Streit – und Eifersucht auf dritte Personen wird zum großen Thema."
+            },
+            {
+              "age": "ab etwa 12 Jahren",
+              "label": "Eigenständige Nähe",
+              "text": "Unterschiede werden ausgehalten, andere Beziehungen der Freundin werden nicht mehr als Bedrohung erlebt. Nähe und Selbstständigkeit schließen sich nicht mehr aus."
+            }
+          ],
+          "caption": "Nach Selmans Stufenmodell der Freundschaftsvorstellung. Die Altersspannen überlappen stark; dasselbe Kind kann je nach Situation auf verschiedenen Stufen argumentieren."
+        },
+        {
+          "type": "evidence",
+          "level": "moderat",
+          "claim": "Das Verständnis von Freundschaft verändert sich mit der Fähigkeit zur Perspektivübernahme – von der gemeinsamen Tätigkeit hin zu einer Beziehung mit eigenem Wert.",
+          "note": "Selmans Stufen stammen aus systematischen Interviews, nicht aus Experimenten; sie beschreiben, wie Kinder über Freundschaft sprechen, nicht zwingend, wie sie sich verhalten. Für Eltern ist die Reihenfolge trotzdem nützlich: Sie erklärt, warum Appelle an Fairness bei Fünfjährigen wenig ausrichten und warum Bestfreundschafts-Dramen mit acht keine Charakterfrage sind.",
+          "sources": [0, 1]
+        }
+      ]
+    },
+    {
+      "type": "section",
+      "heading": "Warum eine gute Freundschaft mehr zählt als zehn Kontakte",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "Viele Eltern zählen: Wie oft wird mein Kind eingeladen, wie viele Kinder nennt es beim Namen? Die Peer-Forschung unterscheidet dagegen drei Ebenen, die unterschiedlich wirken – Umgang mit anderen Kindern überhaupt, einzelne Freundschaften, und die Stellung in der Gruppe. Für das Wohlbefinden ist die mittlere Ebene die wichtigste."
+        },
+        {
+          "type": "evidence",
+          "level": "moderat",
+          "claim": "Mindestens eine gegenseitige, stabile Freundschaft mildert die Folgen von Zurückhaltung und Ablehnung; ohne eine solche Beziehung steigt das Risiko für Einsamkeit und depressive Symptome.",
+          "note": "Längsschnittarbeiten zu ängstlich zurückgezogenen Kindern zeigen: Nicht die Zurückhaltung selbst sagt spätere Belastung voraus, sondern die Kombination aus Zurückhaltung und Freundlosigkeit. Umgekehrt heißt das nichts über Beliebtheit – populär sein und Freunde haben sind zwei verschiedene Dinge, und nur das zweite ist verlässlich mit gutem Befinden verbunden.",
+          "sources": [2, 3]
+        },
+        {
+          "type": "callout",
+          "variant": "tip",
+          "title": "Was Freundschaften praktisch begünstigt",
+          "items": [
+            "Wiederholung statt Vielfalt: dasselbe Kind mehrmals einladen, statt jede Woche ein anderes",
+            "Zu zweit statt in der Gruppe – zu dritt entsteht fast zwangsläufig ein Außenseiter",
+            "Kurz und mit klarem Ende, damit der Besuch in guter Erinnerung bleibt",
+            "Eine gemeinsame Tätigkeit anbieten, an der beide andocken können, statt zu moderieren",
+            "In der Nähe bleiben, aber nicht mitspielen: Kinder lösen mehr Konflikte selbst, wenn Erwachsene nicht zuständig wirken"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "section",
+      "heading": "Schüchtern ist keine Diagnose",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "Ein Teil der Kinder reagiert von klein auf stärker auf Neues: Sie beobachten lange vom Rand, brauchen Anlauf und wirken in fremden Gruppen wie ausgeschaltet. Dieses Temperamentsmerkmal ist gut beschrieben und über Jahre einigermaßen stabil. Es ist aber kein Defizit – und es ist nicht dasselbe wie Einsamkeit."
+        },
+        {
+          "type": "evidence",
+          "level": "moderat",
+          "claim": "Zurückhaltung gegenüber Neuem ist ein früh erkennbares und relativ stabiles Temperamentsmerkmal. Die Mehrheit dieser Kinder entwickelt sich unauffällig.",
+          "note": "Bereits im Säuglingsalter lassen sich Profile stärkerer und schwächerer Reaktion auf Unbekanntes unterscheiden, die eine gewisse Vorhersagekraft für spätere Zurückhaltung haben. Der Zusammenhang ist deutlich, aber weit von einem Schicksal entfernt: Viele zurückhaltende Kinder werden umgängliche Jugendliche. Wichtiger als das Temperament ist, ob das Kind Anschluss findet und ob sein Tempo respektiert wird.",
+          "sources": [4]
+        },
+        {
+          "type": "comparison",
+          "title": "Zurückhaltung unterscheiden",
+          "columns": [
+            {
+              "title": "Meist unbedenklich",
+              "tone": "good",
+              "items": [
+                "Beobachtet erst lange, spielt dann mit",
+                "Hat ein oder zwei Kinder, mit denen es gern zusammen ist",
+                "In vertrauter Umgebung offen und gesprächig",
+                "Wählt Alleinsein bewusst und wirkt dabei zufrieden",
+                "Braucht nach Gruppenzeiten Rückzug, um aufzutanken"
+              ]
+            },
+            {
+              "title": "Genauer hinsehen",
+              "tone": "bad",
+              "items": [
+                "Möchte mitspielen, traut sich aber nie – und leidet sichtbar darunter",
+                "Wird von den anderen aktiv ferngehalten",
+                "Keine einzige Beziehung über Monate hinweg",
+                "Bauchweh oder Kopfweh vor Kita und Schule",
+                "Spricht außerhalb der Familie über Wochen gar nicht"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "callout",
+          "variant": "warn",
+          "title": "Der Unterschied zwischen Streit und Ausgrenzung",
+          "text": "Streit ist wechselseitig, wechselt die Rollen und endet meist von selbst. Ausgrenzung ist einseitig, wiederholt sich und nutzt ein Ungleichgewicht an Kraft oder Ansehen aus. Das Erste braucht Zuschauen, das Zweite braucht Erwachsene – und zwar die vor Ort. Wenn dein Kind über Wochen berichtet, dass es nicht mitspielen darf, ausgelacht oder ausgeschlossen wird, ist ein sachliches Gespräch mit der Kita oder der Schule kein Elternversagen, sondern die richtige Reaktion."
+        }
+      ]
+    },
+    {
+      "type": "section",
+      "heading": "Wann du eingreifst – und wann besser nicht",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "Die schwierigste Frage im Alltag ist nicht, ob Kinder Hilfe brauchen, sondern wann. Zu frühes Eingreifen nimmt Kindern die Erfahrung, dass sie Konflikte selbst überstehen; zu spätes lässt sie mit etwas allein, das sie nicht lösen können. Eine brauchbare Faustregel: Solange die Kräfte einigermaßen gleich verteilt sind und beide Seiten noch reden, gehört der Konflikt den Kindern."
+        },
+        {
+          "type": "table",
+          "title": "Eingreifen oder aushalten",
+          "head": ["Situation", "Dein Anteil"],
+          "rows": [
+            ["Lautstarker Streit ums Spielzeug, beide beteiligt", "In der Nähe bleiben, nicht schlichten. Erst eingreifen, wenn es körperlich wird."],
+            ["Dein Kind kommt weinend, weil es nicht mitspielen durfte", "Zuhören, Gefühl benennen, nicht sofort Lösungen liefern. Oft ist das Erzählen schon die Lösung."],
+            ["Wiederholte Ausgrenzung durch dieselbe Gruppe", "Aktiv werden: Gespräch mit der Einrichtung, konkrete Beobachtungen schildern, Vereinbarung treffen."],
+            ["Konflikt zwischen zwei Familien", "Nicht über die Kinder verhandeln. Direkt mit den anderen Eltern sprechen, ohne Schuldzuweisung."],
+            ["Dein Kind grenzt selbst aus", "Nicht beschämen, aber klar benennen. Ausschließen ist eine Grenze, kein Geschmacksurteil."]
+          ],
+          "caption": "Die Einteilung ersetzt kein Gefühl für die konkrete Lage. Im Zweifel gilt: erst beobachten, dann handeln."
+        },
+        {
+          "type": "callout",
+          "variant": "tip",
+          "title": "Üben, ohne zu dressieren",
+          "text": "Soziale Fertigkeiten lernen Kinder im Tun, nicht im Vortrag. Was hilft: gemeinsam überlegen, wie man in eine laufende Spielgruppe hineinkommt (nicht fragen, sondern mitspielen und beitragen), Rollenspiele zu Hause, in denen dein Kind auch mal die schwierige Rolle übernimmt, und ehrliches Vorleben – Kinder hören genau zu, wie du über andere Erwachsene sprichst. Was nicht hilft: das Kind vor der Gruppe zu etwas auffordern, wozu es sich nicht traut."
+        }
+      ]
+    },
+    {
+      "type": "section",
+      "heading": "Häufige Fragen",
+      "blocks": [
+        {
+          "type": "faq",
+          "items": [
+            {
+              "q": "Mein Kind hat in der Kita keinen festen Freund. Muss ich mir Sorgen machen?",
+              "a": "Im Kindergartenalter meist nicht. Freundschaften sind dort oft situativ und wechseln mit der Spielecke. Wichtiger als ein fester Freund ist, ob dein Kind grundsätzlich Anschluss findet, gern hingeht und dort auch mal mit jemandem lacht. Ab dem Schulalter wird eine verlässliche Beziehung wichtiger."
+            },
+            {
+              "q": "Soll ich Spielverabredungen organisieren, wenn mein Kind das nicht von selbst tut?",
+              "a": "Ja, das ist keine Bevormundung, sondern Gelegenheit schaffen. Besonders zurückhaltende Kinder profitieren davon, weil das Aufeinanderzugehen in der großen Gruppe für sie am schwersten ist. Zu zweit, im vertrauten Umfeld, kurz – das ist der leichteste Einstieg."
+            },
+            {
+              "q": "Mein Kind wird von einem anderen immer wieder geärgert. Soll es sich wehren?",
+              "a": "Sich wehren zu dürfen ist wichtig, aber es ist keine Lösung, die du delegieren solltest. Kinder, die einem Ungleichgewicht ausgesetzt sind, können es selten allein auflösen – deshalb ist es dann die Aufgabe der Erwachsenen vor Ort. Übe mit deinem Kind einen klaren Satz und einen Rückzugsweg, und sprich parallel mit der Einrichtung."
+            },
+            {
+              "q": "Die beste Freundin meines Kindes ist umgezogen. Wie viel Trauer ist normal?",
+              "a": "Viel. Kinder trauern um Freundschaften ernsthaft, oft in Wellen über Wochen. Nimm es ernst, halte Kontakt möglich, wenn es geht, und dränge nicht sofort auf Ersatz. Der Satz, dass sie ja neue Freunde finden werde, tröstet selten – das Anerkennen des Verlusts schon."
+            },
+            {
+              "q": "Ich mag den besten Freund meines Kindes nicht. Darf ich einschreiten?",
+              "a": "Bei Sicherheitsfragen ja, sonst sehr zurückhaltend. Verbotene Freundschaften werden für Kinder meist interessanter. Wirksamer ist, die Kontakte in eurem Umfeld stattfinden zu lassen, damit du im Bild bleibst – und mit deinem Kind über konkretes Verhalten zu sprechen statt über den anderen Menschen."
+            },
+            {
+              "q": "Was mache ich, wenn mein Kind sagt, es sei an allem selbst schuld?",
+              "a": "Widersprich nicht mit Argumenten, sondern frag nach konkreten Situationen. Kinder, die sich pauschal schuldig fühlen, brauchen erst die Erfahrung, dass jemand sie zu Ende hört. Wenn dieses Erklärungsmuster über Wochen bleibt und mit Rückzug oder Traurigkeit einhergeht, ist eine Erziehungsberatungsstelle die richtige Adresse – kostenfrei und ohne Überweisung."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "callout",
+      "variant": "info",
+      "title": "Kurz gesagt",
+      "text": "Miss Freundschaft nicht an der Zahl der Einladungen. Eine verlässliche Beziehung genügt und schützt. Nimm Streit als Übungsfeld und halte dich heraus, solange die Kräfte gleich verteilt sind. Bei wiederholter, einseitiger Ausgrenzung dagegen bist du dran – gemeinsam mit den Erwachsenen vor Ort. Und Zurückhaltung ist ein Tempo, kein Mangel."
+    }
+  ],
+  "sources": [
+    {
+      "title": "Selman's Stages of Friendship Development (Encyclopedia of Child Behavior and Development)",
+      "publisher": "Springer",
+      "year": "2011",
+      "kind": "Fachbuch",
+      "url": "https://link.springer.com/rwe/10.1007/978-0-387-79061-9_2567"
+    },
+    {
+      "title": "Peer Interactions, Relationships, and Groups (Handbook of Child Psychology)",
+      "publisher": "Wiley (Rubin, Bukowski & Parker)",
+      "year": "2006",
+      "kind": "Übersichtsarbeit",
+      "url": "https://onlinelibrary.wiley.com/doi/abs/10.1002/9780470147658.chpsy0310"
+    },
+    {
+      "title": "Handbook of Peer Interactions, Relationships, and Groups, Second Edition",
+      "publisher": "Guilford Press (Bukowski, Laursen & Rubin)",
+      "year": "2018",
+      "kind": "Fachbuch",
+      "url": "https://www.guilford.com/books/Handbook-of-Peer-Interactions-Relationships-and-Groups/Bukowski-Laursen-Rubin/9781462541218"
+    },
+    {
+      "title": "Friends Also Matter: Examining Friendship Adjustment Indices as Moderators of Anxious-Withdrawal and Trajectories of Change in Psychological Maladjustment",
+      "publisher": "Developmental Psychology / PubMed Central",
+      "year": "2017",
+      "kind": "Studie",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5519431/"
+    },
+    {
+      "title": "Infant Predictors of Inhibited and Uninhibited Profiles",
+      "publisher": "Psychological Science (Kagan & Snidman)",
+      "year": "1991",
+      "kind": "Studie",
+      "url": "https://journals.sagepub.com/doi/abs/10.1111/j.1467-9280.1991.tb00094.x"
+    },
+    {
+      "title": "Spielgefährten: wichtig wie nie zuvor",
+      "publisher": "Bundeszentrale für gesundheitliche Aufklärung (BZgA), kindergesundheit-info.de",
+      "year": "2024",
+      "kind": "Institutionelle Information",
+      "url": "https://www.kindergesundheit-info.de/themen/spielen/3-6-jahre/spielgefaehrten/"
+    },
+    {
+      "title": "Schritte in der sozialen Entwicklung",
+      "publisher": "Bundeszentrale für gesundheitliche Aufklärung (BZgA), kindergesundheit-info.de",
+      "year": "2024",
+      "kind": "Institutionelle Information",
+      "url": "https://www.kindergesundheit-info.de/themen/entwicklung/entwicklungsschritte/soziale-entwicklung/"
+    }
+  ],
+  "related": ["rollenspiel", "mobbing", "teilen-lernen", "hochsensibilitaet-und-temperament"]
+}

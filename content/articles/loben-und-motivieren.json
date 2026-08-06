@@ -1,0 +1,278 @@
+{
+  "slug": "loben-und-motivieren",
+  "title": "Loben, ohne abhängig zu machen",
+  "subtitle": "Warum es einen Unterschied macht, ob du den Weg oder die Person lobst, was vom Growth Mindset nach der Replikationsdebatte übrig bleibt – und weshalb Sternchenpläne oft genau das untergraben, was sie fördern sollen.",
+  "phases": ["kindergarten", "schulkind"],
+  "topics": ["erziehung", "entwicklung"],
+  "updated": "2026-08-06",
+  "summary": "Lob wirkt nicht über die Menge, sondern über den Inhalt. Wer den Weg beschreibt – Anstrengung, Strategie, Ausdauer –, stärkt die Bereitschaft, Schwierigkeiten anzugehen. Wer die Person bewertet, macht Erfolg zur Eigenschaft und Misserfolg zur Widerlegung. Der daraus abgeleitete Growth-Mindset-Ansatz ist allerdings deutlich kleiner, als er populär dargestellt wird: Metaanalysen finden nur schwache Effekte, große Feldstudien vor allem bei Kindern, die ohnehin Schwierigkeiten haben. Und Belohnungen können die Freude an etwas verringern, das ein Kind vorher gern getan hat.",
+  "keyFacts": [
+    "Prozesslob beschreibt, was das Kind getan hat. Personenlob bewertet, was es ist.",
+    "Der Zusammenhang ist gut belegt – die daraus gebauten Mindset-Programme wirken aber nur schwach.",
+    "Materielle, erwartete Belohnungen senken die Freude an Tätigkeiten, die vorher aus sich heraus interessant waren.",
+    "Bei ungeliebten Pflichten sind Belohnungen unproblematischer als bei Lieblingsbeschäftigungen.",
+    "Was Motivation dauerhaft trägt: Mitbestimmung, erlebte Fähigkeit und Zugehörigkeit."
+  ],
+  "blocks": [
+    {
+      "type": "p",
+      "lead": true,
+      "text": "„Du bist so ein kluges Kind“ klingt nach dem Freundlichsten, was man sagen kann. Der Haken zeigt sich erst beim nächsten Misserfolg: Wenn Klugheit erklärt, warum etwas gelungen ist, dann erklärt fehlende Klugheit, warum etwas misslingt. Kinder ziehen diesen Schluss zuverlässig – und ziehen sich dann von genau den Aufgaben zurück, an denen sie etwas lernen könnten."
+    },
+    {
+      "type": "section",
+      "heading": "Den Weg loben, nicht die Person",
+      "blocks": [
+        {
+          "type": "evidence",
+          "level": "moderat",
+          "claim": "Kinder, die für ihre Intelligenz gelobt werden, meiden nach einem Misserfolg schwierige Aufgaben eher, geben schneller auf und schneiden schlechter ab als Kinder, die für ihre Anstrengung gelobt wurden.",
+          "note": "Sechs Experimente mit Fünftklässlerinnen und Fünftklässlern zeigten dieses Muster übereinstimmend: Nach Personenlob wurde Leistung wichtiger als Lernen, Freude an der Aufgabe geringer, und Fähigkeit wurde als feste Eigenschaft beschrieben. Die Studien sind klassisch und einflussreich, aber im Labor entstanden und mit einer eng umgrenzten Stichprobe – die Richtung gilt als solide, die Größe des Alltagseffekts ist offen.",
+          "sources": [0]
+        },
+        {
+          "type": "evidence",
+          "level": "moderat",
+          "claim": "Auch außerhalb des Labors zeigt sich ein Zusammenhang: Der Anteil an Prozesslob, den Eltern schon bei Kleinkindern verwenden, hängt mit der späteren Haltung des Kindes zu Anstrengung zusammen.",
+          "note": "Eine Längsschnittstudie filmte Familien im Alltag, als die Kinder zwischen 14 und 38 Monaten alt waren, und untersuchte sie mit sieben bis acht Jahren erneut. Mehr Prozesslob im Kleinkindalter sagte eine eher veränderbarkeitsorientierte Haltung voraus. Die Stichprobe war mit 53 Familien klein und die Studie beobachtend – sie kann keine Ursache belegen, ergänzt die Laborbefunde aber um den Alltag.",
+          "sources": [1]
+        },
+        {
+          "type": "table",
+          "title": "Dasselbe Bild, zwei Kommentare",
+          "head": ["Situation", "Personenlob", "Prozesslob"],
+          "rows": [
+            ["Bild gemalt", "Du bist ein toller Künstler.", "Du hast lange an den Federn gearbeitet."],
+            ["Turm gebaut", "Du bist so geschickt.", "Du hast die schweren Steine nach unten gelegt."],
+            ["Aufgabe gelöst", "Du bist ein Mathegenie.", "Du hast es dreimal anders probiert, bis es passte."],
+            ["Etwas misslungen", "Das ist eben nicht dein Ding.", "Diese Art hat nicht funktioniert. Was probierst du als Nächstes?"]
+          ],
+          "caption": "Prozesslob ist keine besondere Sprache, sondern schlicht eine Beschreibung dessen, was du gesehen hast. Es muss weder überschwänglich noch vollständig sein."
+        },
+        {
+          "type": "callout",
+          "variant": "tip",
+          "title": "Wenn dir nichts einfällt, beschreib einfach",
+          "text": "„Du hast das ganz allein zu Ende gemacht.“ „Da sind viele blaue Streifen drin.“ Beschreiben ist die einfachste Form von Aufmerksamkeit – es braucht kein Urteil und funktioniert auch dann, wenn dir das Ergebnis nicht gefällt. Und du darfst dich weiter freuen und das zeigen: Es geht nicht darum, sparsamer zu loben, sondern genauer."
+        }
+      ]
+    },
+    {
+      "type": "section",
+      "heading": "Growth Mindset: was davon übrig bleibt",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "Aus dieser Forschung ist ein weltweiter Trend geworden: Wer glaubt, Fähigkeiten seien veränderbar, sei erfolgreicher. Schulen führten Programme ein, Ratgeber machten daraus eine Erziehungshaltung. Die Überprüfung fiel deutlich nüchterner aus, als die Popularität vermuten lässt – und das gehört zu einer ehrlichen Darstellung dazu."
+        },
+        {
+          "type": "evidence",
+          "level": "umstritten",
+          "claim": "Der Zusammenhang zwischen Mindset und Schulleistung ist sehr schwach, und Mindset-Programme verbessern Leistungen im Durchschnitt nur minimal.",
+          "note": "Zwei Metaanalysen über 273 Studien mit rund 366.000 Personen fanden, dass das Mindset etwa ein Prozent der Unterschiede in der Schulleistung erklärt. Für die Wirkung von Programmen ergab sich über 43 Studien mit rund 57.000 Teilnehmenden ein sehr kleiner Effekt. Vertreterinnen des Ansatzes halten dagegen, dass viele der eingeschlossenen Programme schlecht umgesetzt waren – die Debatte ist nicht abgeschlossen.",
+          "sources": [2]
+        },
+        {
+          "type": "evidence",
+          "level": "moderat",
+          "claim": "Eine große, sorgfältig durchgeführte Feldstudie fand einen kleinen, aber echten Effekt – und zwar dort, wo es am meisten gebraucht wird.",
+          "note": "In einem landesweiten Experiment mit rund 12.500 Neuntklässlerinnen und Neuntklässlern in den USA verbesserte eine zweimal 25-minütige Online-Einheit die Noten der leistungsschwächeren Hälfte um 0,10 Notenpunkte und erhöhte die Bereitschaft, anspruchsvollere Kurse zu wählen. Bei den übrigen Schülerinnen und Schülern zeigte sich nichts. Der Effekt trat außerdem nur dort auf, wo das schulische Umfeld die Botschaft mittrug.",
+          "sources": [3]
+        },
+        {
+          "type": "callout",
+          "variant": "myth",
+          "title": "„Mit der richtigen Haltung schafft mein Kind alles“",
+          "text": "Das ist der Punkt, an dem aus einem brauchbaren Befund eine Überforderung geworden ist. Ein Mindset ersetzt weder Unterricht noch Übung noch günstige Umstände – und Kindern zu vermitteln, sie müssten sich nur genug anstrengen, verschiebt strukturelle Probleme in ihre Verantwortung. Was bleibt: Wie du über Fehler und Anstrengung sprichst, ist eine kleine, kostenlose Stellschraube. Mehr, aber eben auch nicht mehr."
+        }
+      ]
+    },
+    {
+      "type": "section",
+      "heading": "Belohnungen und ihr Rückschlag",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "Sternchenpläne, Punktetabellen und der versprochene Euro fürs Lesen funktionieren oft erstaunlich gut – und manchmal genau so lange, wie es sie gibt. Der Effekt dahinter ist einer der am besten untersuchten der Motivationsforschung."
+        },
+        {
+          "type": "evidence",
+          "level": "stark",
+          "claim": "Erwartete, greifbare Belohnungen senken die Bereitschaft, eine Tätigkeit später aus eigenem Antrieb fortzusetzen – vor allem dann, wenn sie vorher aus sich heraus interessant war.",
+          "note": "Eine Metaanalyse über 128 Experimente zeigt diesen Korrumpierungseffekt konsistent. Am stärksten ist er, wenn die Belohnung schon für das Mitmachen versprochen wird; unerwartetes Lob oder eine nachträgliche Anerkennung wirken nicht in dieser Weise. Für den Alltag heißt das nicht, dass Belohnungen verboten sind, sondern dass sie sich für Lieblingsbeschäftigungen schlecht eignen.",
+          "sources": [4]
+        },
+        {
+          "type": "figure",
+          "kind": "bar",
+          "title": "Wie stark verschiedene Belohnungsformen die eigene Motivation dämpfen",
+          "alt": "Balkendiagramm mit drei Effektstärken: Belohnung fürs Mitmachen 0,40, fürs Fertigwerden 0,36, für die Leistung 0,28",
+          "data": [
+            { "label": "Belohnung fürs Mitmachen", "value": 0.4, "display": "d = 0,40" },
+            { "label": "Belohnung fürs Fertigwerden", "value": 0.36, "display": "d = 0,36" },
+            { "label": "Belohnung für die Leistung", "value": 0.28, "display": "d = 0,28" }
+          ],
+          "caption": "Effektstärken aus der Metaanalyse von Deci, Koestner und Ryan über 128 Experimente. Die Werte beschreiben den Rückgang der frei gewählten Beschäftigung mit einer Aufgabe, nachdem die Belohnung weggefallen war. Es sind kleine bis mittlere Effekte – sichtbar, aber keine Katastrophe.",
+          "sources": [4]
+        },
+        {
+          "type": "comparison",
+          "title": "Wann Belohnungen vertretbar sind",
+          "columns": [
+            {
+              "title": "Eher unproblematisch",
+              "tone": "good",
+              "items": [
+                "Für Pflichten, die niemand gern tut: Zähneputzen, Aufräumen, Üben",
+                "Zeitlich begrenzt, mit klarem Ende und Ausstieg",
+                "Für eine konkrete Handlung, nicht für ein Ergebnis",
+                "Unerwartetes Lob oder eine spontane Anerkennung hinterher",
+                "Gemeinsam vereinbart statt einseitig verordnet"
+              ]
+            },
+            {
+              "title": "Riskant",
+              "tone": "bad",
+              "items": [
+                "Für Dinge, die dein Kind ohnehin gern tut – Malen, Lesen, Bauen",
+                "Dauerhafte Systeme ohne Ausstiegsplan",
+                "Belohnung für Noten statt für Lernverhalten",
+                "Steigende Einsätze, weil das Alte nicht mehr zieht",
+                "Belohnung, die bei Nichterreichen zur Bestrafung wird"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "section",
+      "heading": "Was Motivation dauerhaft trägt",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "Die Selbstbestimmungstheorie von Edward Deci und Richard Ryan beschreibt drei Grundbedürfnisse, deren Erfüllung mit anhaltender, selbst getragener Motivation einhergeht. Sie sind im Alltag mit Kindern erstaunlich konkret."
+        },
+        {
+          "type": "list",
+          "ordered": false,
+          "items": [
+            { "title": "Autonomie – etwas mitbestimmen dürfen:", "text": "Nicht ob geübt wird, aber wann und in welcher Reihenfolge. Zwei echte Wahlmöglichkeiten wirken mehr als zehn Erklärungen, warum etwas sein muss." },
+            { "title": "Kompetenz – sich als wirksam erleben:", "text": "Aufgaben, die knapp über dem liegen, was schon geht. Zu leicht langweilt, zu schwer entmutigt. Sichtbare Fortschritte helfen mehr als Vergleiche mit anderen Kindern." },
+            { "title": "Zugehörigkeit – gesehen werden:", "text": "Interesse an dem, woran dein Kind gerade arbeitet, unabhängig vom Ergebnis. Das ist der Teil, den Belohnungssysteme nie ersetzen können." }
+          ]
+        },
+        {
+          "type": "evidence",
+          "level": "moderat",
+          "claim": "Umgebungen, die Mitbestimmung, erlebte Fähigkeit und Zugehörigkeit unterstützen, gehen mit stabilerer Motivation und besserem Befinden einher.",
+          "note": "Die Selbstbestimmungstheorie ist über Jahrzehnte in vielen Kontexten geprüft worden – Schule, Sport, Arbeit – und die Befunde sind konsistent. Der größte Teil stammt allerdings aus Zusammenhangsstudien; wie stark einzelne Maßnahmen im Familienalltag wirken, ist damit nicht bemessen.",
+          "sources": [5]
+        },
+        {
+          "type": "callout",
+          "variant": "tip",
+          "title": "Drei Sätze für den Alltag",
+          "items": [
+            "Statt Bewertung: „Erzähl mir, wie du das gemacht hast.“",
+            "Nach einem Misserfolg: „Diese Art hat nicht geklappt. Was probieren wir als Nächstes?“",
+            "Statt Vergleich: „Vor einem Monat ging das noch nicht.“"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "section",
+      "heading": "Häufige Fragen",
+      "blocks": [
+        {
+          "type": "faq",
+          "items": [
+            {
+              "q": "Darf ich mein Kind gar nicht mehr einfach so loben?",
+              "a": "Doch. Freude zu zeigen ist keine Technik und muss nicht kontrolliert werden. Die Befunde beziehen sich auf Lob, das Fähigkeiten bewertet, vor allem in Leistungssituationen. Ein spontanes „Wie schön“ am Frühstückstisch richtet keinen Schaden an."
+            },
+            {
+              "q": "Was ist, wenn mein Kind sich gar nicht angestrengt hat?",
+              "a": "Dann lob nicht die Anstrengung – das merken Kinder und werten es als unehrlich. Beschreib stattdessen, was du siehst, oder frag nach. Prozesslob heißt nicht, Anstrengung zu erfinden, wo keine war."
+            },
+            {
+              "q": "Unsere Kita arbeitet mit Stickern. Soll ich das ansprechen?",
+              "a": "In der Regel nicht nötig. Einzelne Belohnungssysteme in einem sonst guten Umfeld richten wenig aus, und Kinder unterscheiden Orte gut. Ein Gespräch lohnt sich eher, wenn Sticker öffentlich verglichen werden oder als Druckmittel dienen."
+            },
+            {
+              "q": "Wie steige ich aus einem Belohnungssystem wieder aus?",
+              "a": "Angekündigt und schrittweise. Erst die Abstände vergrößern, dann die Belohnung durch gemeinsame Zeit ersetzen, schließlich das System beenden und benennen, was jetzt von allein läuft. Ein abrupter Abbruch wird als Strafe erlebt."
+            },
+            {
+              "q": "Mein Kind gibt bei jeder Schwierigkeit sofort auf.",
+              "a": "Das hat selten mit fehlendem Willen zu tun, sondern meist mit Selbstschutz: Wer nicht anfängt, kann nicht scheitern. Setz beim Anfangen an statt beim Durchhalten – kleinerer erster Schritt, Begleitung dabei, und dein sichtbarer Umgang mit eigenen Fehlern. Der Artikel zur Frustrationstoleranz geht darauf genauer ein."
+            },
+            {
+              "q": "Bringt es etwas, Noten zu belohnen?",
+              "a": "Kurzfristig manchmal, langfristig selten. Eine Note hängt von vielen Dingen ab, die dein Kind nicht steuert – die Belohnung trifft also nicht das Verhalten, das du fördern willst. Wenn überhaupt, belohne Lernverhalten: regelmäßig geübt, rechtzeitig angefangen, um Hilfe gebeten."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "callout",
+      "variant": "info",
+      "title": "Kurz gesagt",
+      "text": "Beschreibe, was dein Kind getan hat, statt zu bewerten, was es ist. Erwarte vom Growth Mindset eine kleine Stellschraube, keine Verwandlung. Setz Belohnungen für ungeliebte Pflichten ein und nicht für das, was dein Kind ohnehin liebt. Und wenn du nur eine Sache mitnimmst: Aufrichtiges Interesse an dem, woran dein Kind gerade arbeitet, ist wirksamer als jedes Lob."
+    }
+  ],
+  "sources": [
+    {
+      "title": "Praise for intelligence can undermine children's motivation and performance",
+      "publisher": "Journal of Personality and Social Psychology (Mueller & Dweck), 75, 33–52",
+      "year": "1998",
+      "kind": "Studie",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/9686450/"
+    },
+    {
+      "title": "Parent Praise to 1- to 3-Year-Olds Predicts Children's Motivational Frameworks 5 Years Later",
+      "publisher": "Child Development (Gunderson, Gripshover, Romero, Dweck, Goldin-Meadow & Levine), 84, 1526–1541",
+      "year": "2013",
+      "kind": "Studie",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/23397904/"
+    },
+    {
+      "title": "To What Extent and Under Which Circumstances Are Growth Mind-Sets Important to Academic Achievement? Two Meta-Analyses",
+      "publisher": "Psychological Science (Sisk, Burgoyne, Sun, Butler & Macnamara)",
+      "year": "2018",
+      "kind": "Metaanalyse",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/29505339/"
+    },
+    {
+      "title": "A national experiment reveals where a growth mindset improves achievement",
+      "publisher": "Nature (Yeager et al.)",
+      "year": "2019",
+      "kind": "Studie",
+      "url": "https://www.nature.com/articles/s41586-019-1466-y"
+    },
+    {
+      "title": "A meta-analytic review of experiments examining the effects of extrinsic rewards on intrinsic motivation",
+      "publisher": "Psychological Bulletin (Deci, Koestner & Ryan), 125, 627–668",
+      "year": "1999",
+      "kind": "Metaanalyse",
+      "url": "https://www.semanticscholar.org/paper/A-meta-analytic-review-of-experiments-examining-the-Deci-Koestner/8ad9801baea65b40fbbe6fc56e34b2b7be47d0ba"
+    },
+    {
+      "title": "Self-Determination Theory (Encyclopedia of Quality of Life and Well-Being Research)",
+      "publisher": "Springer / Center for Self-Determination Theory (Ryan & Deci)",
+      "year": "2022",
+      "kind": "Übersichtsarbeit",
+      "url": "https://selfdeterminationtheory.org/wp-content/uploads/2023/01/2022_RyanDeci_SDT_Encyclopedia.pdf"
+    },
+    {
+      "title": "Stichwort Erziehung",
+      "publisher": "Bundeszentrale für gesundheitliche Aufklärung (BZgA), kindergesundheit-info.de",
+      "year": "2024",
+      "kind": "Institutionelle Information",
+      "url": "https://www.kindergesundheit-info.de/themen/entwicklung/psychische-gesundheit/erziehung/"
+    }
+  ],
+  "related": ["regeln-und-konsequenzen", "erziehungsstile", "frustrationstoleranz", "selbststaendigkeit-foerdern"]
+}

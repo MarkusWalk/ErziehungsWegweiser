@@ -1,0 +1,280 @@
+{
+  "slug": "leistungsdruck",
+  "title": "Noten, Vergleich und Leistungsdruck",
+  "subtitle": "Was eine schlechte Note wirklich bedeutet, warum Druck die Motivation eher senkt als hebt – und wie du die Übertrittsentscheidung triffst, ohne sie zur Lebensfrage zu machen.",
+  "phases": ["schulkind"],
+  "topics": ["emotionen", "familie"],
+  "updated": "2026-08-06",
+  "summary": "Noten messen einen Ausschnitt, an einem Tag, in einem Fach – nicht den Wert deines Kindes und nicht seine Zukunft. Trotzdem lösen sie zu Hause oft mehr aus als in der Schule. Was Kindern hilft, ist eine Familie, in der Fehler besprechbar sind, in der Anstrengung gesehen wird und in der die Zuneigung der Eltern nicht an Ergebnissen hängt. Und es hilft zu wissen, wie wenig endgültig Schulentscheidungen in Deutschland tatsächlich sind.",
+  "keyFacts": [
+    "Kontrolle und Druck senken die Lernmotivation langfristig, statt sie zu heben.",
+    "Die erste Reaktion auf eine schlechte Note prägt, ob dein Kind dir die nächste noch zeigt.",
+    "Grundschulempfehlungen hängen nachweislich nicht nur von der Leistung ab.",
+    "Kein Schulabschluss in Deutschland ist eine Sackgasse – Wege lassen sich später korrigieren.",
+    "Anhaltende Bauch- oder Kopfschmerzen, Schlafstörungen und Rückzug sind Warnsignale, keine Charakterfrage."
+  ],
+  "blocks": [
+    {
+      "type": "p",
+      "lead": true,
+      "text": "Es gibt einen Moment, den fast alle Eltern kennen: Das Kind legt eine Arbeit auf den Tisch, schaut nicht hoch und wartet. In diesem Moment entscheidet sich weniger über Mathematik als über die Beziehung – nämlich, ob dein Kind dir beim nächsten Mal wieder zuerst davon erzählt oder ob es die Arbeit im Ranzen lässt."
+    },
+    {
+      "type": "section",
+      "heading": "Warum Druck die Motivation eher frisst",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "Der Gedanke liegt nahe: Ein bisschen mehr Ehrgeiz von außen, und die Leistung steigt. Kurzfristig funktioniert das manchmal. Langfristig passiert etwas anderes – das Lernen wird zur Sache der Eltern, und das Kind lernt, um Ärger zu vermeiden, nicht um etwas zu können. Motivation, die von außen erzwungen wird, verschwindet, sobald der Druck nachlässt."
+        },
+        {
+          "type": "evidence",
+          "level": "moderat",
+          "claim": "Kontrollierende, einmischende Unterstützung beim Lernen hängt mit schlechterer Leistungsentwicklung zusammen, unterstützende Begleitung mit besserer. Nicht die Menge der elterlichen Beteiligung entscheidet, sondern ihre Qualität.",
+          "note": "Gezeigt an einer deutschen Längsschnittstudie mit rund 1.700 Schülerinnen und Schülern. Praktisch bedeutet das: Interesse zeigen, zuhören, Rahmen geben – ja. Abfragen als Dauerzustand, Belohnungssysteme für Noten und Vergleiche mit Geschwistern oder Mitschülern – nein.",
+          "sources": [2]
+        },
+        {
+          "type": "evidence",
+          "level": "moderat",
+          "claim": "Leistungsangst ist unter Jugendlichen in Deutschland verbreitet und hat zuletzt zugenommen: In PISA 2022 stieg die berichtete Mathematikangst gegenüber früheren Erhebungen deutlich an, während die Leistungen zurückgingen.",
+          "note": "Der Zusammenhang läuft in beide Richtungen – wer Angst hat, zeigt weniger, und wer weniger kann, hat mehr Angst. Für den Alltag heißt das vor allem eines: Wenn dein Kind vor Arbeiten Bauchschmerzen hat, ist das ein verbreitetes Phänomen und kein Zeichen von Schwäche. Angst lässt sich behandeln, Nichtkönnen lässt sich lernen – Druck hilft bei keinem von beidem.",
+          "sources": [0, 1]
+        }
+      ]
+    },
+    {
+      "type": "section",
+      "heading": "Die schlechte Note: die ersten 24 Stunden",
+      "blocks": [
+        {
+          "type": "timeline",
+          "title": "Was in welcher Reihenfolge dran ist",
+          "entries": [
+            { "age": "Erste Minute", "label": "Gesicht kontrollieren", "text": "Dein Gesichtsausdruck kommt vor jedem Satz an. Ein tiefer Atemzug, dann: „Danke, dass du sie mir zeigst.“ Das ist keine Beschönigung, sondern eine Feststellung." },
+            { "age": "Erste zehn Minuten", "label": "Zuhören, nicht analysieren", "text": "„Wie ging es dir, als du sie bekommen hast?“ Erst das Gefühl, dann der Inhalt. Viele Kinder haben sich schon selbst genug geschimpft." },
+            { "age": "Noch am selben Tag", "label": "Nichts entscheiden", "text": "Keine Nachhilfe, keine Konsequenzen, kein Handyentzug am Tag der Note. Entscheidungen unter Ärger werden meist zurückgenommen – und dann waren sie umsonst." },
+            { "age": "Nach ein bis zwei Tagen", "label": "Gemeinsam durchgehen", "text": "Nicht die Note, sondern die Fehler. Drei Sorten unterscheiden: nicht gewusst, nicht verstanden, nicht aufgepasst. Für jede gibt es eine andere Lösung." },
+            { "age": "Innerhalb der Woche", "label": "Eine Sache verabreden", "text": "Genau eine konkrete Änderung, die dein Kind selbst vorschlägt. Zehn Vorsätze halten null Tage, einer hält manchmal." }
+          ],
+          "caption": "Ein Ablauf, der die Beziehung schützt: erst Sicherheit, dann Analyse, zuletzt Konsequenz – nie umgekehrt."
+        },
+        {
+          "type": "callout",
+          "variant": "tip",
+          "title": "Drei Sätze, die entlasten",
+          "items": [
+            "„Eine Arbeit sagt, was du an diesem Tag konntest – nicht, wer du bist.“",
+            "„Ich bin nicht enttäuscht von dir. Ich bin gespannt, was wir daraus machen.“",
+            "„Ich habe in der Schule auch Fächer gehabt, die mir nicht lagen.“ – und dann ein echtes Beispiel."
+          ]
+        }
+      ]
+    },
+    {
+      "type": "section",
+      "heading": "Fehlerkultur zu Hause",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "Kinder übernehmen den Umgang mit Fehlern, den sie zu Hause sehen – nicht den, der ihnen erklärt wird. Wer selbst zugibt, dass er etwas falsch eingeschätzt hat, wer sich entschuldigt und wer beim Kochen den verbrannten Auflauf mit einem Schulterzucken quittiert, unterrichtet in Fehlerkultur, ohne ein Wort darüber zu verlieren."
+        },
+        {
+          "type": "evidence",
+          "level": "umstritten",
+          "claim": "Ob gezielte Programme zur Förderung eines dynamischen Selbstbilds („Fähigkeiten kann man entwickeln“) die Schulleistung verbessern, ist wissenschaftlich strittig. Große Metaanalysen kommen zu gegensätzlichen Ergebnissen.",
+          "note": "Eine Metaanalyse von über hundert Studien fand kaum belastbare Effekte und deutliche Hinweise auf Publikationsverzerrung; andere Auswertungen derselben Literatur finden Effekte, vor allem bei Kindern in schwierigen Ausgangslagen. Für Eltern heißt das: Von einem Satz wie „Du kannst alles schaffen, wenn du dich anstrengst“ ist wenig zu erwarten – von einem Alltag, in dem Anstrengung und Fortschritt tatsächlich bemerkt werden, mehr.",
+          "sources": [5]
+        },
+        {
+          "type": "comparison",
+          "title": "Rückmeldung, die etwas verändert",
+          "columns": [
+            {
+              "title": "Hilfreich",
+              "tone": "good",
+              "items": [
+                "„Du hast das Aufschreiben diesmal durchgehalten.“",
+                "„Der zweite Teil war deutlich sauberer als der erste.“",
+                "„Was hat dir geholfen, dass es diesmal leichter ging?“",
+                "Anerkennung für den Weg, auch wenn das Ergebnis mager ist"
+              ]
+            },
+            {
+              "title": "Weniger hilfreich",
+              "tone": "bad",
+              "items": [
+                "„Du bist so ein Mathegenie.“ – bei der nächsten Vier bricht das zusammen",
+                "„Endlich mal“ – wertet den Erfolg im selben Satz ab",
+                "Vergleiche mit Geschwistern oder der Klasse",
+                "Geld oder Geschenke für Noten – verschiebt das Ziel von Können auf Ertrag"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "section",
+      "heading": "Die eigenen Erwartungen anschauen",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "Ein Teil des Drucks, der auf Kindern lastet, stammt aus der Biografie ihrer Eltern: aus dem Abschluss, den man selbst nicht gemacht hat, aus dem Fach, in dem man selbst gescheitert ist, aus der Angst, das Kind könnte es schwerer haben. Diese Motive sind verständlich – sie sollten nur nicht unbemerkt am Küchentisch mitverhandelt werden."
+        },
+        {
+          "type": "list",
+          "ordered": false,
+          "items": [
+            { "title": "Prüffrage 1:", "text": "Bin ich gerade um mein Kind besorgt oder um mein eigenes Bild als Elternteil?" },
+            { "title": "Prüffrage 2:", "text": "Was fürchte ich konkret? Und wie wahrscheinlich ist das wirklich?" },
+            { "title": "Prüffrage 3:", "text": "Reagiere ich auf die Note oder auf die Bemerkung der Nachbarin über deren Kind?" },
+            { "title": "Prüffrage 4:", "text": "Wüsste mein Kind, dass ich es auch mit einer Drei in Mathe genauso mag – oder müsste es raten?" }
+          ]
+        },
+        {
+          "type": "callout",
+          "variant": "info",
+          "title": "Das Klassenzimmer ist nicht die Welt",
+          "text": "Fähigkeiten, die im Leben tragen – Ausdauer, Verlässlichkeit, mit Menschen umgehen, Probleme aushalten – werden auf Zeugnissen nicht abgebildet. Das entwertet Schule nicht. Es relativiert nur ihre Zuständigkeit."
+        }
+      ]
+    },
+    {
+      "type": "section",
+      "heading": "Der Übertritt nach der Grundschule",
+      "blocks": [
+        {
+          "type": "evidence",
+          "level": "moderat",
+          "claim": "Übergangsempfehlungen am Ende der Grundschule hängen nicht allein von der Leistung ab. Bei vergleichbarer Lesekompetenz erhielten Kinder aus den obersten Sozialschichten in den IGLU-Erhebungen deutlich häufiger eine Gymnasialempfehlung als Kinder aus den unteren Schichten.",
+          "note": "Berichtet wurden Chancenverhältnisse von etwa 2,7 beziehungsweise 1,8 zugunsten der oberen Herkunftsgruppen. Das ist kein Vorwurf an einzelne Lehrkräfte – Urteile unter Zeitdruck sind für solche Verzerrungen anfällig. Für dich heißt es zweierlei: Eine Empfehlung ist eine Einschätzung, keine Messung. Und wenn du das Gefühl hast, dein Kind werde unterschätzt, ist Nachfragen legitim.",
+          "sources": [3, 4]
+        },
+        {
+          "type": "p",
+          "text": "Wie verbindlich die Empfehlung ist, regeln die Bundesländer unterschiedlich – von rein beratend bis verbindlich mit Aufnahmeprüfung. Erkundige dich früh, was in deinem Land gilt, damit die Entscheidung nicht in den letzten zwei Wochen fällt."
+        },
+        {
+          "type": "steps",
+          "title": "Wie ihr zu einer tragfähigen Entscheidung kommt",
+          "items": [
+            { "title": "Informationen trennen", "text": "Was sagt die Schule, was sagen die Noten, was beobachtest du zu Hause, was sagt dein Kind selbst? Vier Quellen, nicht eine." },
+            { "title": "Arbeitshaltung mitdenken", "text": "Nicht nur, was dein Kind kann, sondern wie es arbeitet: Hält es durch? Fragt es nach? Erholt es sich von Rückschlägen?" },
+            { "title": "Schulen anschauen", "text": "Zwei Schulen mit demselben Namensschild können sich stark unterscheiden. Tag der offenen Tür, Weg dorthin, Ganztagsangebot, Klassengröße." },
+            { "title": "Das Kind einbeziehen, aber nicht allein entscheiden lassen", "text": "Zehnjährige treffen solche Entscheidungen oft danach, wo die beste Freundin hingeht. Das darf ein Argument sein, aber nicht das einzige." },
+            { "title": "Die Entscheidung als vorläufig behandeln", "text": "Wechsel nach oben und unten sind in allen Bundesländern möglich, ebenso Abschlüsse über berufliche Wege und den zweiten Bildungsweg. Sag das deinem Kind ausdrücklich – es nimmt enorm Druck." }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "section",
+      "heading": "Wenn der Druck krank macht",
+      "blocks": [
+        {
+          "type": "callout",
+          "variant": "warn",
+          "title": "Warnsignale, bei denen du dir Unterstützung holen solltest",
+          "items": [
+            "Anhaltende Bauch- oder Kopfschmerzen, Übelkeit oder Schlafstörungen vor Schultagen",
+            "Rückzug von Freundinnen und Freunden, Aufgabe von Hobbys",
+            "Selbstabwertende Sätze wie „Ich bin zu dumm“ über Wochen",
+            "Weinen vor jeder Arbeit, Panik vor dem Aufrufen im Unterricht",
+            "Äußerungen über Lebensmüdigkeit – hier sofort Hilfe holen, nicht abwarten"
+          ]
+        },
+        {
+          "type": "p",
+          "text": "Erste Anlaufstellen sind die Kinderarztpraxis, die Schulsozialarbeit und die Erziehungs- und Familienberatungsstellen der Kommunen – alle kostenfrei, die Beratungsstellen auf Wunsch auch anonym. Kinder und Jugendliche können sich selbst an die Nummer gegen Kummer unter 116 111 wenden, Eltern an das Elterntelefon 0800 111 0 550. Weitere Nummern findest du auf der [Notfallseite](../notfall.html)."
+        }
+      ]
+    },
+    {
+      "type": "section",
+      "heading": "Häufige Fragen",
+      "blocks": [
+        {
+          "type": "faq",
+          "items": [
+            {
+              "q": "Soll ich Geld für gute Noten geben?",
+              "a": "Besser nicht. Belohnungen verschieben den Grund fürs Lernen von der Sache auf den Ertrag – und wenn die Belohnung ausbleibt oder zu klein wird, sinkt die Bereitschaft unter das Ausgangsniveau. Wenn ihr etwas feiern wollt, feiert Anstrengung und Durchhalten, und zwar mit gemeinsamer Zeit statt mit Geld."
+            },
+            {
+              "q": "Mein Kind versteckt Arbeiten. Wie reagiere ich?",
+              "a": "Das ist eine Rückmeldung über die Sicherheit zu Hause, nicht über den Charakter deines Kindes. Sprich es ruhig an, benenne, was du verstehst („Du hattest Angst vor meiner Reaktion“), und ändere zuerst deine Reaktion – nicht die Kontrolle. Mehr Kontrolle erzeugt besseres Verstecken."
+            },
+            {
+              "q": "Ist eine Klassenwiederholung sinnvoll?",
+              "a": "Die Forschungslage ist überwiegend ernüchternd: Im Durchschnitt bringt Sitzenbleiben keine dauerhaften Leistungsgewinne und belastet die soziale Situation. Es kann im Einzelfall trotzdem richtig sein, etwa nach langer Krankheit oder bei einem sehr jungen Kind. Entscheidend ist, ob sich außer dem Jahrgang noch etwas ändert."
+            },
+            {
+              "q": "Wie gehe ich mit Vergleichen im Elternchat um?",
+              "a": "Am besten gar nicht. Chats bilden die Kinder ab, deren Eltern gern erzählen – nicht den Durchschnitt. Stumm schalten ist eine legitime Erziehungsmaßnahme, allerdings für dich."
+            },
+            {
+              "q": "Mein Kind ist ehrgeizig und setzt sich selbst unter Druck. Muss ich das bremsen?",
+              "a": "Nicht bremsen, aber begrenzen. Hilfreich ist, Grenzen im Außen zu setzen statt am Anspruch zu rütteln: feste Schlusszeiten fürs Lernen, ein freier Nachmittag, kein Lernen nach dem Abendessen. Und laut aussprechen, dass eine Vier nichts an deiner Haltung ändert – Kinder mit hohem Anspruch glauben das oft nicht von allein."
+            },
+            {
+              "q": "Was sage ich, wenn mein Kind fragt, ob es dumm ist?",
+              "a": "Erst zurückfragen, woher der Gedanke kommt – meist steht ein konkretes Erlebnis dahinter. Dann etwas Wahres sagen statt etwas Nettes: dass es in einem Fach gerade schwer ist, dass Menschen unterschiedlich schnell verstehen und dass du gemeinsam mit ihm herausfinden willst, was fehlt. Ein pauschales „Natürlich nicht“ beruhigt selten."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "callout",
+      "variant": "info",
+      "title": "Kurz gesagt",
+      "text": "Halte die Beziehung aus dem Notenspiel heraus. Reagiere auf Arbeiten langsam, auf Anstrengung schnell und auf Schulentscheidungen als das, was sie sind: korrigierbar. Was dein Kind am meisten trägt, ist die Gewissheit, dass deine Zuneigung nicht von seinen Ergebnissen abhängt."
+    }
+  ],
+  "sources": [
+    {
+      "title": "PISA 2022 – Nationaler Bericht: Analyse der Bildungsergebnisse in Deutschland",
+      "publisher": "PISA-Konsortium Deutschland, Technische Universität München",
+      "year": "2023",
+      "kind": "Studie",
+      "url": "https://www.pisa.tum.de/fileadmin/w00bgi/www/Berichtsbaende_und_Zusammenfassungungen/pisa-2022-nationaler-bericht-berichtsband.pdf"
+    },
+    {
+      "title": "PISA 2022 – Zusammenfassung der zentralen Befunde",
+      "publisher": "PISA-Konsortium Deutschland, Technische Universität München",
+      "year": "2023",
+      "kind": "Institutionelle Information",
+      "url": "https://www.pisa.tum.de/fileadmin/w00bgi/www/Berichtsbaende_und_Zusammenfassungungen/PISA-2022-zusammenfassung.pdf"
+    },
+    {
+      "title": "The Need to Distinguish Between Quantity and Quality in Research on Parental Involvement: The Example of Parental Help With Homework",
+      "publisher": "The Journal of Educational Research (Moroni, Dumont, Trautwein, Niggli & Baeriswyl)",
+      "year": "2015",
+      "kind": "Studie",
+      "url": "https://eric.ed.gov/?id=EJ1071754"
+    },
+    {
+      "title": "Die Bedeutung der sozialen Herkunft und des Migrationshintergrundes für Lehrerurteile am Beispiel der Grundschulempfehlung",
+      "publisher": "Zeitschrift für Erziehungswissenschaft",
+      "year": "2011",
+      "kind": "Studie",
+      "url": "https://link.springer.com/article/10.1007/s11618-011-0221-4"
+    },
+    {
+      "title": "Soziale Ungleichheiten beim Übergang von der Grundschule in die Sekundarstufe I: Theorie, Forschungsstand, Interventions- und Fördermöglichkeiten",
+      "publisher": "Zeitschrift für Erziehungswissenschaft",
+      "year": "2013",
+      "kind": "Übersichtsarbeit",
+      "url": "https://link.springer.com/article/10.1007/s11618-013-0466-1"
+    },
+    {
+      "title": "Do growth mindset interventions impact students' academic achievement? A systematic review and meta-analysis with recommendations for best practices",
+      "publisher": "Psychological Bulletin (Macnamara & Burgoyne)",
+      "year": "2023",
+      "kind": "Metaanalyse",
+      "url": "https://www.semanticscholar.org/paper/873e51943c93c47b23e00e8b0b5e9e9a16492056"
+    }
+  ],
+  "related": ["hausaufgaben-und-lernen", "schulstart", "loben-und-motivieren", "frustrationstoleranz"]
+}

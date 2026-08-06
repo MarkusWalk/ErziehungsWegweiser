@@ -1,0 +1,258 @@
+{
+  "slug": "schwimmen-und-wasser",
+  "title": "Wasser: Sicherheit, Schwimmenlernen, Babyschwimmen",
+  "subtitle": "Warum Ertrinken nicht so aussieht wie im Film, was Aufsicht in Griffnähe konkret bedeutet, wie Schwimmhilfen ehrlich einzuordnen sind und ab wann Schwimmkurse tatsächlich etwas bringen.",
+  "phases": ["saeugling", "kleinkind", "kindergarten", "schulkind"],
+  "topics": ["sicherheit", "spiel"],
+  "updated": "2026-08-06",
+  "summary": "Ertrinken ist bei kleinen Kindern kein lautes Ereignis. Es passiert stumm, ohne Plätschern und ohne Rufen, oft in weniger als zehn Zentimetern Wasser und innerhalb von Sekunden – deshalb hilft Hören nicht, sondern nur Hinsehen und Griffnähe. Die gefährlichsten Wasserstellen für Kleinkinder liegen nicht am Meer, sondern im eigenen Garten: Regentonne, Gartenteich, Planschbecken, Eimer. Schwimmhilfen ersetzen keine Aufsicht, Babyschwimmen macht nicht schwimmfähig, und das Seepferdchen ist ein Anfang, kein Ziel.",
+  "keyFacts": [
+    "Ertrinken verläuft bei Kleinkindern lautlos und binnen Sekunden – man hört es nicht, man sieht es nur.",
+    "Kinder bis etwa 15 Monate können bereits in zehn Zentimetern Wasser ertrinken.",
+    "Nichtschwimmer brauchen Aufsicht in Griffnähe – auch mit Schwimmflügeln.",
+    "Babyschwimmen ist schön, macht aber nicht schwimmfähig und schützt nicht vor dem Ertrinken.",
+    "Die DLRG empfiehlt den ersten Schwimmkurs ab etwa fünf Jahren; sicherer Schwimmer ist man erst mit dem Bronzeabzeichen."
+  ],
+  "blocks": [
+    {
+      "type": "callout",
+      "variant": "danger",
+      "title": "Ertrinken ist lautlos – und es geht in Sekunden",
+      "text": "Kinder, die ertrinken, schreien nicht, winken nicht und schlagen nicht um sich. Fällt ein kleines Kind mit dem Gesicht voran ins Wasser, schließt sich reflexartig die Stimmritze: Rufen ist nicht mehr möglich. Der schwere Kopf und die noch schwache Nackenmuskulatur verhindern, dass es sich selbst wieder aufrichtet. Es reichen wenige Zentimeter Wasser und wenige Sekunden. Deshalb gilt bei Nichtschwimmern eine einzige, harte Regel: **eine erwachsene Person in Griffnähe, mit den Augen am Kind** – nicht am Handy, nicht im Gespräch, nicht auf dem Nachbarhandtuch."
+    },
+    {
+      "type": "p",
+      "lead": true,
+      "text": "Wasser ist für Kinder eines der besten Dinge überhaupt: Es kühlt, es fordert heraus, es macht mutig. Nichts davon muss man ihnen wegnehmen. Aber Wasser verzeiht keine Unaufmerksamkeit, und es kündigt sich nicht an. Dieser Artikel dreht sich deshalb um zwei Dinge: die Sekunden, in denen es gefährlich wird, und den langen Weg zum sicheren Schwimmen."
+    },
+    {
+      "type": "section",
+      "heading": "Wie Ertrinken tatsächlich abläuft",
+      "blocks": [
+        {
+          "type": "evidence",
+          "level": "stark",
+          "claim": "Ertrinken gehört zu den häufigsten tödlichen Unfallursachen im Kindesalter. Kleine Kinder bis etwa 15 Monate können bereits in Wassertiefen von rund zehn Zentimetern ertrinken – der Körperschwerpunkt liegt wegen des schweren Kopfes hoch, und die Nackenmuskulatur reicht nicht aus, um den Kopf selbst wieder herauszuheben.",
+          "note": "Für 2025 zählte die DLRG in Deutschland mindestens 393 Ertrunkene insgesamt, darunter 13 Kinder bis zehn Jahre – deutlich unter dem Durchschnitt der letzten 25 Jahre von 29. Die Zahlen bei Kindern sinken also. Das gelingt aber nur, solange die Regeln eingehalten werden, denn fast jeder dieser Fälle geschieht in einer kurzen Aufsichtslücke.",
+          "sources": [0, 1]
+        },
+        {
+          "type": "p",
+          "text": "Die zweite unangenehme Wahrheit: Kleinkinder ertrinken selten am Badesee. Sie ertrinken im eigenen oder im Nachbargarten – in Regentonnen, Gartenteichen, Planschbecken, Wassergräben, Eimern und Wannen. Diese Wasserstellen wirken harmlos, sind ganzjährig zugänglich und liegen genau dort, wo Erwachsene sich sicher fühlen."
+        },
+        {
+          "type": "checklist",
+          "id": "wasser-garten",
+          "title": "Checkliste Wasser rund ums Haus",
+          "items": [
+            "Regentonnen fest verschließen oder umdrehen, nicht nur abdecken",
+            "Gartenteich und Pool mit einem Zaun sichern, der mindestens 1,20 Meter hoch ist und ein selbstschließendes Tor hat",
+            "Planschbecken nach jedem Gebrauch sofort ausleeren und hochkant stellen",
+            "Eimer, Gießkannen, Wannen und Wischeimer nie mit Wasser stehen lassen",
+            "Badezimmertür geschlossen halten, Toilettendeckel schließen, Wanne sofort ablassen",
+            "Beim Baden nie kurz die Tür verlassen – auch nicht fürs Handtuch",
+            "Auch bei Besuch und im Urlaub: Wo ist hier Wasser? Diese Frage zuerst stellen",
+            "Rettungsring oder Stange am Pool, Handy in Reichweite für den Notruf"
+          ]
+        },
+        {
+          "type": "callout",
+          "variant": "tip",
+          "title": "Wer schaut gerade?",
+          "text": "Die meisten Aufsichtslücken entstehen, weil alle denken, jemand anderes passe auf. Legt bei Feiern und Ausflügen ausdrücklich fest, wer die nächsten dreißig Minuten die Wasseraufsicht hat – und übergebt die Rolle laut und namentlich. Bademeisterinnen und Rettungsschwimmer sind keine Aufsichtspersonen für dein Kind, sondern für das gesamte Bad."
+        }
+      ]
+    },
+    {
+      "type": "section",
+      "heading": "Schwimmhilfen: was sie können und was nicht",
+      "blocks": [
+        {
+          "type": "evidence",
+          "level": "moderat",
+          "claim": "Schwimmflügel, Gürtel, Westen und Ringe bieten keinen vollständigen Schutz vor dem Ertrinken. Sie ersetzen die Aufsicht nicht, und beim Schwimmenlernen sind sie eher hinderlich, weil sie Körperhaltung und Bewegungsablauf im Wasser verändern.",
+          "note": "Die DLRG rät ausdrücklich von Schwimmsitzen und Schwimmringen für Babys und kleine Kinder ab: Sie können kippen, das Kind rutscht durch, und der Kopf gerät unter Wasser. Auch mit Schwimmflügeln bleibt Griffnähe Pflicht. Als reine Auftriebshilfe im Nichtschwimmerbecken sind gut sitzende Flügel vertretbar – als Sicherheitsausrüstung sind sie es nicht.",
+          "sources": [2, 3]
+        },
+        {
+          "type": "comparison",
+          "title": "Schwimmhilfen ehrlich sortiert",
+          "columns": [
+            {
+              "title": "Vertretbar, unter Aufsicht",
+              "tone": "neutral",
+              "items": [
+                "Gut sitzende Schwimmflügel mit Prüfzeichen im Nichtschwimmerbereich",
+                "Schwimmweste mit Kopfstütze auf dem Boot oder am offenen Wasser",
+                "Schwimmnudel und Bretter als Spiel- und Übungsmaterial im Kurs"
+              ]
+            },
+            {
+              "title": "Ungeeignet",
+              "tone": "bad",
+              "items": [
+                "Schwimmsitze und Schwimmringe für Babys – Kippgefahr",
+                "Aufblasbare Tiere, Matratzen und Reifen, besonders am offenen Wasser mit ablandigem Wind",
+                "Jede Schwimmhilfe als Ersatz für Aufsicht",
+                "Nackenringe für Säuglinge"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "section",
+      "heading": "Babyschwimmen: schön, aber kein Sicherheitsgewinn",
+      "blocks": [
+        {
+          "type": "callout",
+          "variant": "myth",
+          "title": "„Nach dem Babyschwimmen kann mein Kind sich über Wasser halten“",
+          "text": "Nein. Babyschwimmen ist ein Bewegungs- und Kontaktangebot: warmes Wasser, Körperkontakt, gemeinsame Zeit, viele Sinneseindrücke. Das ist ein guter Grund hinzugehen. Es macht dein Kind aber weder schwimmfähig noch wassersicher, und es senkt das Ertrinkungsrisiko nicht. Der einzige Effekt, vor dem Fachleute warnen, ist ein indirekter: dass Eltern sich sicherer fühlen, als die Lage hergibt."
+        },
+        {
+          "type": "evidence",
+          "level": "moderat",
+          "claim": "Formale Schwimmkurse waren in einer US-amerikanischen Fall-Kontroll-Studie bei Kindern zwischen einem und vier Jahren mit einem um 88 Prozent geringeren Ertrinkungsrisiko verbunden. Die Schätzung ist allerdings sehr unpräzise: Das Konfidenzintervall reicht von 3 bis 99 Prozent.",
+          "note": "Praktisch heißt das: Schwimmkurse schaden nicht und helfen wahrscheinlich – aber wie stark, weiß niemand genau. Sie sind eine Schutzschicht unter mehreren, neben Zaun, Aufsicht und Wiederbelebungskenntnissen der Eltern. Kein Kurs macht ein Vierjähriges zu einem Kind, das man aus den Augen lassen kann.",
+          "sources": [4]
+        },
+        {
+          "type": "timeline",
+          "title": "Was in welchem Alter dran ist",
+          "entries": [
+            { "age": "0–12 Monate", "label": "Wassergewöhnung", "text": "Babyschwimmen oder Badewanne. Ziel ist Vertrautheit, nicht Können. Hände immer am Kind, Wassertemperatur warm, Einheiten kurz." },
+            { "age": "1–3 Jahre", "label": "Griffnähe, immer", "text": "Planschen, Wasserspiel, erste Wassergewöhnungskurse. Kein Ansatz von Selbstständigkeit im Wasser – dein Kind kann die Gefahr weder sehen noch einschätzen." },
+            { "age": "4–5 Jahre", "label": "Erster Schwimmkurs", "text": "Die DLRG empfiehlt den Beginn der Schwimmausbildung ab etwa fünf Jahren, weil dann die Bewegungskoordination für Brust- oder Rückenschwimmen ausreicht." },
+            { "age": "5–7 Jahre", "label": "Seepferdchen", "text": "25 Meter schwimmen, Sprung vom Beckenrand, Gegenstand aus schultertiefem Wasser holen, Baderegeln kennen. Ein wichtiger Schritt – aber noch kein sicherer Schwimmer." },
+            { "age": "ab 7–8 Jahren", "label": "Sicherer Schwimmer", "text": "Erst mit dem Deutschen Schwimmabzeichen Bronze gilt ein Kind als sicherer Schwimmer. Die DLRG rechnet für ein achtjähriges Kind mit mindestens 30 Unterrichtseinheiten à 45 Minuten bis dorthin." }
+          ],
+          "caption": "Altersangaben nach den Ausbildungsempfehlungen der DLRG. Die Spannen sind weit: Manche Kinder sind mit vier so weit, andere mit sieben – beides ist normal."
+        },
+        {
+          "type": "figure",
+          "kind": "bar",
+          "title": "Nichtschwimmer im Grundschulalter",
+          "alt": "Balkendiagramm: Anteil der Grundschulkinder, die nicht schwimmen können, 2017 zehn Prozent, 2022 zwanzig Prozent",
+          "data": [
+            { "label": "2017", "value": 10, "display": "10 %" },
+            { "label": "2022", "value": 20, "display": "20 %" }
+          ],
+          "caption": "Der Anteil der Kinder im Grundschulalter, die gar nicht schwimmen können, hat sich zwischen 2017 und 2022 verdoppelt – Ergebnis repräsentativer forsa-Befragungen im Auftrag der DLRG. Besonders betroffen sind Familien mit niedrigem Einkommen; dort kann rund die Hälfte der Kinder nicht schwimmen.",
+          "sources": [5]
+        }
+      ]
+    },
+    {
+      "type": "section",
+      "heading": "Baderegeln, die tatsächlich tragen",
+      "blocks": [
+        {
+          "type": "list",
+          "ordered": false,
+          "items": [
+            { "title": "Nur an bewachten Stellen:", "text": "Am See oder Meer dorthin, wo Rettungsschwimmer sind. Flaggen und Beschilderung lest ihr gemeinsam – das ist Lernstoff, nicht Bürokratie." },
+            { "title": "Nie mit vollem Bauch, nie erhitzt hineinspringen:", "text": "Erst abkühlen, dann langsam ins Wasser. Der Kaltwasserschock ist auch bei Kindern real." },
+            { "title": "Nicht ins Unbekannte springen:", "text": "Sprünge nur, wo die Wassertiefe geprüft ist. Die meisten schweren Halswirbelverletzungen entstehen so." },
+            { "title": "Luftmatratzen gehören nicht aufs offene Wasser:", "text": "Ablandiger Wind trägt sie schneller hinaus, als ein Erwachsener schwimmen kann." },
+            { "title": "Kalte Gewässer respektieren:", "text": "Baggerseen und Flüsse sind unter der Oberfläche oft deutlich kälter, haben Strömungen und keine Sicht auf den Grund." }
+          ]
+        },
+        {
+          "type": "p",
+          "text": "Und die Regel, die für dich gilt: Ein Erste-Hilfe-Kurs am Kind ist bei Familien mit Pool oder Teich keine Kür. Bei einem Beinahe-Ertrinken entscheiden die ersten Minuten, und die verbringst du allein mit deinem Kind, nicht mit dem Rettungsdienst."
+        }
+      ]
+    },
+    {
+      "type": "section",
+      "heading": "Häufige Fragen",
+      "blocks": [
+        {
+          "type": "faq",
+          "items": [
+            {
+              "q": "Mein Kind hat Wasserangst. Soll ich es zum Schwimmkurs zwingen?",
+              "a": "Zwang funktioniert im Wasser besonders schlecht, weil Angst und Atmung eng zusammenhängen. Besser: viel Zeit im flachen, warmen Wasser ohne Leistungserwartung, Gießkanne und Becher statt Untertauchen, und ein Kurs erst, wenn dein Kind freiwillig ins Wasser geht. Manche Kinder brauchen dafür ein Jahr länger – das ist kein Rückstand."
+            },
+            {
+              "q": "Reicht das Seepferdchen für die Klassenfahrt ans Meer?",
+              "a": "Nein. Die DLRG sagt das selbst sehr deutlich: Das Seepferdchen ist der erste Schritt, kein Nachweis sicheren Schwimmens. Erst das Deutsche Schwimmabzeichen Bronze steht für ausdauerndes Schwimmen, Tauchen und Sprung aus Höhe. Bis dahin gilt dein Kind an offenen Gewässern als Nichtschwimmer."
+            },
+            {
+              "q": "Unsere Nachbarn haben einen Pool ohne Zaun. Was kann ich tun?",
+              "a": "Ansprechen, freundlich und konkret – viele Poolbesitzer ohne Kinder haben schlicht nicht daran gedacht. Bis sich etwas ändert, gilt für dein Kind: Der Nachbargarten ist nur mit dir zusammen zugänglich. Poolabdeckungen sind übrigens keine Sicherung, sondern eine zusätzliche Gefahr, weil Kinder darauf laufen und darunter geraten können."
+            },
+            {
+              "q": "Wie erkenne ich, dass jemand gerade ertrinkt?",
+              "a": "Meist gar nicht am Geräusch. Achte auf ein Kind, das senkrecht im Wasser steht, den Kopf im Nacken oder tief, den Mund an der Wasserlinie, mit ruckartigen Armbewegungen nach unten und ohne Fortbewegung. Es sieht aus wie stilles Treten auf der Stelle. Wenn du unsicher bist: hingehen und laut den Namen rufen. Wer antwortet, ist in Ordnung."
+            },
+            {
+              "q": "Muss mein Kind nach einem Beinahe-Ertrinken ins Krankenhaus, auch wenn es fit wirkt?",
+              "a": "Wenn dein Kind Wasser eingeatmet, gehustet, geröchelt oder kurz das Bewusstsein verloren hat, lass es ärztlich abklären – auch wenn es danach normal wirkt. Nach jedem Ereignis mit Wasser in den Atemwegen gehören Husten, schnelle Atmung, Blässe oder auffällige Müdigkeit in den folgenden Stunden sofort ärztlich beurteilt."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "callout",
+      "variant": "info",
+      "title": "Kurz gesagt",
+      "text": "Griffnähe bei Nichtschwimmern, Zaun um jedes stehende Wasser, Planschbecken sofort leeren. Schwimmflügel sind Spielzeug, keine Sicherung. Schwimmkurs ab etwa fünf, sicherer Schwimmer erst mit Bronze. Und wenn du beim Wasser nichts hörst, heißt das nichts – ertrinkende Kinder sind still."
+    }
+  ],
+  "sources": [
+    {
+      "title": "Sommerbilanz 2025 – Statistik Ertrinken",
+      "publisher": "Deutsche Lebens-Rettungs-Gesellschaft (DLRG)",
+      "year": "2025",
+      "kind": "Institutionelle Information",
+      "url": "https://www.dlrg.de/informieren/die-dlrg/presse/statistik-ertrinken/sommerbilanz-2025/"
+    },
+    {
+      "title": "Wasser – birgt besondere Gefahren",
+      "publisher": "Bundeszentrale für gesundheitliche Aufklärung (BZgA), kindergesundheit-info.de",
+      "year": "2024",
+      "kind": "Institutionelle Information",
+      "url": "https://www.kindergesundheit-info.de/themen/sicher-aufwachsen/sicherheit-im-alltag/wasser/"
+    },
+    {
+      "title": "Allgemeine Sicherheitstipps",
+      "publisher": "Deutsche Lebens-Rettungs-Gesellschaft (DLRG)",
+      "year": "2024",
+      "kind": "Empfehlung",
+      "url": "https://www.dlrg.de/informieren/freizeit-im-wasser/sicherheitstipps/"
+    },
+    {
+      "title": "Schwimmen lernen",
+      "publisher": "Deutsche Lebens-Rettungs-Gesellschaft (DLRG)",
+      "year": "2024",
+      "kind": "Empfehlung",
+      "url": "https://www.dlrg.de/informieren/ausbildung/schwimmen-lernen/"
+    },
+    {
+      "title": "Association between swimming lessons and drowning in childhood: a case-control study",
+      "publisher": "Archives of Pediatrics & Adolescent Medicine (Brenner et al.)",
+      "year": "2009",
+      "kind": "Studie",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/19255386/"
+    },
+    {
+      "title": "Zahl der Nichtschwimmer im Grundschulalter hat sich verdoppelt (forsa-Umfrage)",
+      "publisher": "Deutsche Lebens-Rettungs-Gesellschaft (DLRG)",
+      "year": "2022",
+      "kind": "Institutionelle Information",
+      "url": "https://www.dlrg.de/informieren/die-dlrg/presse/schwimmfaehigkeit/"
+    },
+    {
+      "title": "Gartenteich und Regentonne als Gefahr für Kinder",
+      "publisher": "Bundesarbeitsgemeinschaft Mehr Sicherheit für Kinder e. V.",
+      "year": "2024",
+      "kind": "Institutionelle Information",
+      "url": "https://www.kindersicherheit.de/kindersicherheit/sicherheitstipps/rund-um-teich-und-tonne-wasser-im-kindersicheren-garten"
+    }
+  ],
+  "related": ["unfallpraevention-kleinkind", "erste-hilfe-am-kind", "sonnenschutz-und-hitze", "babyproofing"]
+}

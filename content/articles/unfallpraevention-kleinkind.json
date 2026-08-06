@@ -1,0 +1,303 @@
+{
+  "slug": "unfallpraevention-kleinkind",
+  "title": "Unfälle vermeiden im Kleinkindalter",
+  "subtitle": "Welche Unfälle bei ein- bis sechsjährigen Kindern tatsächlich passieren, welche davon schwer ausgehen – und wie du das Gefährliche absicherst, ohne dein Kind in Watte zu packen.",
+  "phases": ["kleinkind", "kindergarten"],
+  "topics": ["sicherheit"],
+  "updated": "2026-08-06",
+  "summary": "Ab dem ersten Geburtstag sind Unfälle die häufigste Todesursache im Kindesalter – und trotzdem ist die Zahl tödlicher Kinderunfälle seit Jahrzehnten stark rückläufig. Entscheidend ist, zwischen häufig und schwer zu unterscheiden: Stürze passieren ständig und gehen fast immer glimpflich aus. Wasser, heiße Flüssigkeiten, Gifte und der Straßenverkehr sind seltener, aber sie sind es, die Kinder töten oder dauerhaft schädigen. Genau dort lohnt sich deine Energie.",
+  "keyFacts": [
+    "Ab dem vollendeten ersten Lebensjahr sind Unfälle die häufigste Todesursache bei Kindern in Deutschland.",
+    "Die tödlichen Unfälle verteilen sich vor allem auf Straßenverkehr, Ersticken, Ertrinken und Feuer.",
+    "Verbrühungen sind der typische Unfall des zweiten Lebensjahres – über 70 Prozent der stationär behandelten Kinder sind unter drei.",
+    "Vergiftungen sind nach Stürzen die zweithäufigste Unfallart; rund die Hälfte aller Giftnotruf-Anfragen betrifft Kinder.",
+    "Geschwindigkeiten zuverlässig einschätzen können Kinder frühestens ab etwa acht Jahren."
+  ],
+  "blocks": [
+    {
+      "type": "p",
+      "lead": true,
+      "text": "Zwischen dem ersten und dem sechsten Geburtstag verändert sich das Unfallrisiko grundlegend. Dein Kind kann laufen, klettern, Türen öffnen, Stühle verschieben und Dinge herunterziehen – und es kann sich all das noch nicht ausrechnen. Die gute Nachricht vorweg: Die Zahl der tödlichen Unfälle bei Kindern unter 15 Jahren ist in Deutschland seit 2010 um rund 40 Prozent gesunken. Prävention wirkt tatsächlich. Die Frage ist nur, wo du sie ansetzt."
+    },
+    {
+      "type": "callout",
+      "variant": "danger",
+      "title": "Die vier Gefahren mit dem größten Schadenspotenzial",
+      "items": [
+        "**Wasser** – auch flaches. Kleinkinder ertrinken lautlos und in wenigen Zentimetern Wasser. Regentonne, Gartenteich, Planschbecken, Eimer, Badewanne.",
+        "**Heiße Flüssigkeiten** – eine Tasse Tee reicht für großflächige Verbrühungen.",
+        "**Gifte und Knopfzellen** – Reiniger, Medikamente, Nikotinprodukte, Lampenöl.",
+        "**Straße** – vor allem in den Sekunden zwischen Auto, Bordstein und Haustür."
+      ]
+    },
+    {
+      "type": "section",
+      "heading": "Was tatsächlich passiert – und was tatsächlich tötet",
+      "blocks": [
+        {
+          "type": "evidence",
+          "level": "stark",
+          "claim": "Unfallverletzungen sind ab dem vollendeten ersten Lebensjahr die häufigste Todesursache im Kindesalter. Die Hauptursachen sind – in dieser Reihenfolge – Unfälle im Straßenverkehr, Ersticken, Ertrinken und Feuer.",
+          "note": "Absolut betrachtet sind das kleine Zahlen: 2021 starben in Deutschland 141 Kinder zwischen einem und 15 Jahren durch einen Unfall. Das ist der Grund, warum du nicht in Dauerangst leben musst – und zugleich der Grund, warum sich Prävention genau an diesen vier Ursachen orientieren sollte statt an dem, was am lautesten wirkt.",
+          "sources": [0, 4]
+        },
+        {
+          "type": "figure",
+          "kind": "bar",
+          "title": "Tödliche Unfälle bei Kindern von 1 bis 15 Jahren (2021)",
+          "alt": "Balkendiagramm: 47 Todesfälle durch Transportmittel, 33 durch Ertrinken, 14 durch Sturz, von insgesamt 141 tödlichen Unfällen",
+          "data": [
+            { "label": "Transportmittel / Verkehr", "value": 47, "display": "47" },
+            { "label": "Ertrinken", "value": 33, "display": "33" },
+            { "label": "Sturz", "value": 14, "display": "14" }
+          ],
+          "caption": "Von 141 tödlichen Unfällen bei Kindern zwischen einem und 15 Jahren im Jahr 2021 entfielen 47 auf Transportmittel, 33 auf Ertrinken und 14 auf Stürze; der Rest verteilt sich auf Ersticken, Feuer und Sonstiges. Zahlen der Bundesarbeitsgemeinschaft Mehr Sicherheit für Kinder nach amtlicher Todesursachenstatistik.",
+          "sources": [0]
+        },
+        {
+          "type": "p",
+          "text": "Stürze sind die mit Abstand häufigste Unfallart – und die mit dem besten Ausgang. Ein Sturz vom Klettergerüst endet fast immer mit einer Beule. Ertrinken dagegen ist selten, aber wenn es passiert, ist es meist tödlich oder hinterlässt schwere Schäden. Häufigkeit und Schwere sind zwei verschiedene Dinge, und die meisten Elternängste hängen an der falschen Größe."
+        },
+        {
+          "type": "comparison",
+          "title": "Absichern oder zulassen?",
+          "columns": [
+            {
+              "title": "Konsequent absichern",
+              "tone": "good",
+              "items": [
+                "Alles, was Wasser enthält – auch flach und auch bei Nachbarn",
+                "Heißes: Herd, Wasserkocher, Backofentür, Tassen am Tischrand",
+                "Chemie, Medikamente, Nikotin, Knopfzellen, Lampenöl",
+                "Fenster, Balkone, Treppen, kippgefährdete Möbel",
+                "Straße: Hand halten, Rückhaltesysteme im Auto"
+              ]
+            },
+            {
+              "title": "Bewusst zulassen",
+              "tone": "neutral",
+              "items": [
+                "Klettern in erreichbarer Höhe, auch wenn es unelegant aussieht",
+                "Barfuß laufen, balancieren, in Pfützen springen",
+                "Ein Messer beim Kochen unter Anleitung",
+                "Werkzeug, Schere, Nadel – begleitet statt verboten",
+                "Blaue Flecken, Schürfwunden, ein verstauchtes Handgelenk"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "section",
+      "heading": "Verbrühungen: der typische Unfall des zweiten Lebensjahres",
+      "blocks": [
+        {
+          "type": "evidence",
+          "level": "stark",
+          "claim": "Jährlich werden in Deutschland mehr als 30.000 Kinder und Jugendliche wegen Verbrennungen und Verbrühungen ärztlich behandelt, knapp 6.000 davon stationär. Über 70 Prozent der stationär aufgenommenen Kinder sind jünger als drei Jahre, und der überwiegende Teil der Verletzungen entsteht durch heiße Flüssigkeiten.",
+          "note": "Der Häufigkeitsgipfel liegt im zweiten Lebensjahr – genau dann, wenn ein Kind laufen und Dinge zu sich herunterziehen kann, aber Hitze noch nicht antizipiert. Praktisch heißt das: In dieser Zeit gehört auf den Tisch nichts Heißes in Griffweite und keine Tischdecke, an der man ziehen kann.",
+          "sources": [2, 5]
+        },
+        {
+          "type": "checklist",
+          "id": "hitze",
+          "title": "Checkliste heiße Gefahren",
+          "items": [
+            "Keine Tischdecken und Tischläufer, solange dein Kind daran ziehen kann",
+            "Heißgetränke nie in Reichweite abstellen, nie mit Kind auf dem Arm trinken",
+            "Wasserkocher weit hinten, Kabel nicht herabhängend",
+            "Auf dem Herd hintere Platten benutzen, Topfgriffe nach innen drehen",
+            "Herdschutzgitter und Backofen mit kühler Tür oder Schutzgitter",
+            "Badewassertemperatur vor dem Hineinsetzen prüfen, Warmwasser am Boiler begrenzen",
+            "Wärmflaschen, Kirschkernkissen und Heizlüfter nicht unbeaufsichtigt",
+            "Grill und Feuerschale mit Abstandszone, Asche bleibt stundenlang heiß"
+          ]
+        },
+        {
+          "type": "callout",
+          "variant": "tip",
+          "title": "Wenn es passiert ist",
+          "text": "Kleidung sofort entfernen, außer sie klebt fest. Danach mit lauwarmem Wasser kühlen – nicht eiskalt, nicht mit Eis, und bei größeren Flächen gar nicht, weil kleine Kinder schnell auskühlen. Ausführlich steht das im Artikel zur Ersten Hilfe am Kind."
+        }
+      ]
+    },
+    {
+      "type": "section",
+      "heading": "Vergiftungen: leiser, als man denkt",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "An den Giftinformationszentren in Deutschland gehen jährlich rund 200.000 Anrufe ein, etwa die Hälfte davon betrifft Kinder. Der weitaus größte Teil sind Kleinkinder, die Haushaltsreiniger oder Kosmetikprodukte in den Mund genommen haben. Nach Stürzen ist die Vergiftung damit die zweithäufigste Unfallart im Kleinkindalter – und die, die am häufigsten unentdeckt beginnt, weil kein Geräusch und kein Schrei sie ankündigt."
+        },
+        {
+          "type": "list",
+          "ordered": false,
+          "items": [
+            { "title": "Nach oben, nicht nur weg:", "text": "Ein Kleinkind erreicht alles unter etwa einem Meter. Reiniger gehören in einen abschließbaren Schrank, nicht unter die Spüle." },
+            { "title": "Nie umfüllen:", "text": "Lampenöl oder Reiniger in Getränkeflaschen sind eine der gefährlichsten Konstellationen überhaupt. Lampenöl kann beim Verschlucken in die Lunge gelangen." },
+            { "title": "Handtaschen sind Giftschränke:", "text": "Medikamente, Nikotinbeutel, E-Zigaretten-Liquids und Blisterpackungen liegen bei Besuch oft ungesichert herum." },
+            { "title": "Pflanzen einordnen:", "text": "Wichtiger als das Ausreißen ist zu wissen, was da wächst – notfalls fotografieren." }
+          ]
+        },
+        {
+          "type": "callout",
+          "variant": "warn",
+          "title": "Bevor etwas passiert: Nummer speichern",
+          "text": "Speichere die Nummer deines regional zuständigen Giftinformationszentrums im Handy und häng sie an den Kühlschrank. Kein Erbrechen auslösen, keine Milch geben, nichts zu trinken erzwingen – erst anrufen. Was die Zentrale wissen will und wie das Gespräch abläuft, steht im Artikel zur Ersten Hilfe am Kind."
+        }
+      ]
+    },
+    {
+      "type": "section",
+      "heading": "Straßenverkehr: dein Kind sieht die Welt anders",
+      "blocks": [
+        {
+          "type": "evidence",
+          "level": "moderat",
+          "claim": "Kinder können Geschwindigkeiten frühestens ab etwa acht Jahren zuverlässig einschätzen. Ein dem Erwachsenen vergleichbares peripheres Sichtfeld entwickelt sich erst zwischen acht und neun Jahren, und Geräusche sicher zu orten gelingt ebenfalls kaum vor dem achten Geburtstag.",
+          "note": "Das ist keine Frage von Erziehung oder Aufmerksamkeit, sondern von Entwicklung. Ein Vierjähriger, der brav am Bordstein stehen bleibt, hat trotzdem nicht die Wahrnehmung, um ein herannahendes Auto richtig zu bewerten. Bis zum Grundschulalter heißt das: Hand halten und selbst vorleben, nicht auf Einsicht setzen.",
+          "sources": [6]
+        },
+        {
+          "type": "p",
+          "text": "2024 verunglückten in Deutschland 27.260 Kinder unter 15 Jahren im Straßenverkehr, 53 von ihnen tödlich – ein Anstieg gegenüber 44 im Vorjahr. Für Kleinkinder ist dabei nicht der Schulweg das Hauptrisiko, sondern der Nahbereich: die Straße vor der Haustür, der Parkplatz, das Rückwärtsfahren in der Einfahrt, das Aussteigen zur Fahrbahnseite hin."
+        },
+        {
+          "type": "list",
+          "ordered": false,
+          "items": [
+            "Aussteigen grundsätzlich zur Gehwegseite, mit Kindersicherung an den hinteren Türen",
+            "Beim Rangieren zu Hause: Kind zuerst ins Haus oder an eine feste, sichtbare Position",
+            "Immer denselben, etwas längeren Weg mit sicheren Querungen gehen statt den kürzesten",
+            "Laut mitdenken – „hier ist es unübersichtlich, deshalb gehen wir bis zur Ampel“",
+            "Helm auf Laufrad und Roller – beim Klettern dagegen abnehmen (Strangulationsgefahr)"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "section",
+      "heading": "Risikokompetenz statt Dauerangst",
+      "blocks": [
+        {
+          "type": "evidence",
+          "level": "moderat",
+          "claim": "Bewegungserfahrung und geschützte Gelegenheiten, Risiken selbst einzuschätzen, gelten in der Unfallprävention als eigenständiger Schutzfaktor – nicht als Gegensatz zur Sicherheit.",
+          "note": "Die Datenlage ist hier weicher als bei technischen Sicherungen, der Fachkonsens aber breit. Ein Kind, das nie geklettert ist, stürzt nicht seltener, sondern ungünstiger. Praktisch: Sichere ab, was schwer ausgeht, und lass zu, was höchstens weh tut.",
+          "sources": [4, 1]
+        },
+        {
+          "type": "p",
+          "text": "Zwischen zwei und sechs verschiebt sich der Schwerpunkt von Technik zu Begleitung. Türsicherungen und Steckdosenstopfen verlieren an Bedeutung, weil dein Kind sie überlistet. Was bleibt, sind die harten Sicherungen an den vier gefährlichen Stellen – und Situationen, in denen dein Kind unter deinen Augen etwas ausprobieren darf, das es noch nicht ganz kann."
+        },
+        {
+          "type": "callout",
+          "variant": "myth",
+          "title": "„Ich passe doch auf“",
+          "text": "Aufsicht ist unverzichtbar und trotzdem endlich. Niemand schaut acht Stunden am Stück lückenlos hin, und fast jeder schwere Unfall passiert in genau der Minute, in der es an der Tür klingelt. Deshalb sind bauliche Lösungen – Zaun um den Teich, abschließbarer Schrank, gesichertes Fenster – der Aufsicht überlegen: Sie wirken auch dann, wenn du kurz nicht hinsiehst."
+        }
+      ]
+    },
+    {
+      "type": "section",
+      "heading": "Häufige Fragen",
+      "blocks": [
+        {
+          "type": "faq",
+          "items": [
+            {
+              "q": "Muss ich nach jedem Sturz auf den Kopf zum Arzt?",
+              "a": "Nein. Bei einem Sturz aus geringer Höhe, wenn dein Kind sofort schreit, sich trösten lässt und danach normal spielt, reicht Beobachten. Ärztlich abklären lassen solltest du bei Bewusstlosigkeit – auch kurzer –, Erbrechen, auffälliger Schläfrigkeit, ungleichen Pupillen, Krampfanfall, klarer Flüssigkeit aus Nase oder Ohr oder wenn der Sturz aus großer Höhe erfolgte. Im Zweifel lieber einmal zu viel anrufen."
+            },
+            {
+              "q": "Lohnen sich Sicherungen überhaupt noch, wenn mein Kind sie öffnen kann?",
+              "a": "Ja, aber ihre Rolle ändert sich. Bei Zweijährigen verhindern sie den Zugriff, bei Vierjährigen verzögern sie ihn und erzeugen ein Geräusch. Für die wirklich gefährlichen Dinge – Chemie, Medikamente, Wasser – brauchst du deshalb Lösungen, die auch ein cleveres Kind nicht knackt: Schloss statt Clip, Zaun statt Abdeckung."
+            },
+            {
+              "q": "Wie sichere ich Fenster, wenn wir im vierten Stock wohnen?",
+              "a": "Abschließbare Fenstergriffe und Kippsicherungen sind Standard, Schlüssel gehören nicht ins Schloss. Wichtig ist außerdem, alles wegzustellen, worauf man klettern kann: Truhe, Sessel, Regal, Wäschekorb unter dem Fenster. Insektengitter halten kein Kind. Balkongeländer dürfen keine waagerechten Streben haben und keine Lücken über zehn Zentimeter."
+            },
+            {
+              "q": "Ab wann kann mein Kind allein auf dem Spielplatz vor dem Haus sein?",
+              "a": "Das hängt weniger vom Alter als von der Umgebung ab: Muss eine Straße gequert werden, ist die Antwort für Kindergartenkinder nein. Ohne Straße und in Sichtweite fangen viele Familien im Vorschulalter mit kurzen Intervallen an. Kläre vorher zwei Dinge: wohin dein Kind kommt, wenn etwas ist, und dass es sich niemals mit jemandem entfernt."
+            },
+            {
+              "q": "Sind Trampoline im Garten vertretbar?",
+              "a": "Das Risiko steigt steil, sobald mehrere Kinder unterschiedlicher Größe gleichzeitig springen. Wenn ihr eins habt: immer nur ein Kind, Netz und gepolsterte Randabdeckung, keine Saltos, Einstieg über eine Leiter."
+            },
+            {
+              "q": "Wir haben keinen Erste-Hilfe-Kurs gemacht – wie schlimm ist das?",
+              "a": "Kein Grund für schlechtes Gewissen, aber ein guter Anlass. Ein Kurs für Notfälle im Kindesalter dauert einen Tag und verändert vor allem eines: Du zögerst im Ernstfall weniger. Buch ihn gemeinsam mit den Menschen, die dein Kind regelmäßig betreuen."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "callout",
+      "variant": "info",
+      "title": "Kurz gesagt",
+      "text": "Sichere hart ab, was tödlich enden kann – Wasser, Hitze, Gift, Straße. Lass laufen, was blaue Flecken kostet. Das ist keine Bequemlichkeit, sondern die Verteilung deiner Aufmerksamkeit dorthin, wo sie tatsächlich etwas verändert."
+    }
+  ],
+  "sources": [
+    {
+      "title": "Statistiken zu Unfällen bei Kindern",
+      "publisher": "Bundesarbeitsgemeinschaft Mehr Sicherheit für Kinder e. V.",
+      "year": "2024",
+      "kind": "Institutionelle Information",
+      "url": "https://www.kindersicherheit.de/fachinformation/unfallstatistiken"
+    },
+    {
+      "title": "Unfallschwerpunkte im Kindesalter",
+      "publisher": "Bundeszentrale für gesundheitliche Aufklärung (BZgA), kindergesundheit-info.de",
+      "year": "2024",
+      "kind": "Institutionelle Information",
+      "url": "https://www.kindergesundheit-info.de/themen/sicher-aufwachsen/entwicklungsaspekte/unfallschwerpunkte/"
+    },
+    {
+      "title": "Verbrühungen und Verbrennungen",
+      "publisher": "Bundeszentrale für gesundheitliche Aufklärung (BZgA), kindergesundheit-info.de",
+      "year": "2024",
+      "kind": "Institutionelle Information",
+      "url": "https://www.kindergesundheit-info.de/themen/sicher-aufwachsen/sicherheit-im-alltag/vorsicht-heiss/"
+    },
+    {
+      "title": "27 260 Kinder im Jahr 2024 bei Verkehrsunfällen verunglückt",
+      "publisher": "Statistisches Bundesamt (Destatis)",
+      "year": "2025",
+      "kind": "Institutionelle Information",
+      "url": "https://www.destatis.de/DE/Presse/Pressemitteilungen/2025/08/PD25_N043_46241.html"
+    },
+    {
+      "title": "Prävention von Kinderunfällen",
+      "publisher": "Bundesministerium für Gesundheit",
+      "year": "2024",
+      "kind": "Institutionelle Information",
+      "url": "https://www.bundesgesundheitsministerium.de/themen/praevention/kindergesundheit/praevention-von-kinderunfaellen"
+    },
+    {
+      "title": "Pressemeldung: Heiße Flüssigkeit verbrüht",
+      "publisher": "Paulinchen – Initiative für brandverletzte Kinder e. V.",
+      "year": "2024",
+      "kind": "Institutionelle Information",
+      "url": "https://www.paulinchen.de/ueber-uns/aktuelles/news-detail/news/pressemeldung-heisse-fluessigkeit-verbrueht/"
+    },
+    {
+      "title": "Kinder im Straßenverkehr – Wann können Kinder was?",
+      "publisher": "Verkehrswacht Medien & Service GmbH (VMS)",
+      "year": "2024",
+      "kind": "Institutionelle Information",
+      "url": "https://www.verkehrswacht-medien-service.de/kindergarten/kinder-im-strassenverkehr/"
+    },
+    {
+      "title": "Risiko Vergiftungsunfälle bei Kindern – Verbraucherinformation",
+      "publisher": "Bundesinstitut für Risikobewertung (BfR)",
+      "year": "2017",
+      "kind": "Institutionelle Information",
+      "url": "https://www.bfr.bund.de/cm/350/risiko-vergiftungsunfaelle-bei-kindern.pdf"
+    }
+  ],
+  "related": ["babyproofing", "erste-hilfe-am-kind", "schwimmen-und-wasser", "autositz-und-unterwegs"]
+}

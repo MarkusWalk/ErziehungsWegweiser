@@ -1,0 +1,263 @@
+{
+  "slug": "fruehgeborene",
+  "title": "Frühgeborene: Start unter anderen Bedingungen",
+  "subtitle": "Warum das korrigierte Alter die wichtigste Zahl der ersten zwei Jahre ist, was Känguruhen nachweislich bewirkt – und warum die Eltern nach einer Intensivstation genauso Nachsorge brauchen wie das Kind.",
+  "phases": ["neugeborenes", "saeugling"],
+  "topics": ["besondere-situationen", "gesundheit"],
+  "updated": "2026-08-06",
+  "summary": "Ein Kind, das zu früh geboren wurde, entwickelt sich nicht langsamer – es hat schlicht weniger Zeit im Bauch gehabt. Deshalb wird bis etwa zum zweiten Geburtstag mit dem korrigierten Alter gerechnet, also ab dem errechneten Termin. Dieser Artikel erklärt, wie das geht, was Haut-zu-Haut-Kontakt belegt bewirkt, wie die Nachsorge in Deutschland organisiert ist und warum die psychische Belastung der Eltern nach Wochen auf der Intensivstation kein Randthema ist.",
+  "keyFacts": [
+    "In Deutschland kommen jedes Jahr rund 60.000 Kinder vor der vollendeten 37. Schwangerschaftswoche zur Welt.",
+    "Bis etwa zum zweiten Geburtstag wird die Entwicklung nach dem korrigierten Alter beurteilt, gerechnet ab dem errechneten Termin.",
+    "Haut-zu-Haut-Kontakt senkt bei kleinen Frühgeborenen nachweislich Sterblichkeit und schwere Infektionen.",
+    "Nachsorgeuntersuchungen, Frühförderung und Sozialpädiatrische Zentren sind eingespielte Wege – niemand muss sie sich selbst zusammensuchen.",
+    "Eltern Frühgeborener zeigen im Schnitt länger anhaltende Angst-, Depressions- und Traumasymptome als Eltern termingeborener Kinder."
+  ],
+  "blocks": [
+    {
+      "type": "p",
+      "lead": true,
+      "text": "Etwa jedes zwölfte Kind in Deutschland kommt vor der vollendeten 37. Schwangerschaftswoche zur Welt – rund 60.000 Kinder im Jahr. Für die Familien bedeutet das fast immer dasselbe: ein Start, der anders geplant war, oft Wochen zwischen Monitoren, Sonden und Inkubator, und danach ein Alltag, in dem eine einzige Zahl alles verschiebt. Diese Zahl heißt korrigiertes Alter, und wer sie konsequent benutzt, erspart sich einen großen Teil der Sorgen, die sonst aus dem Nichts entstehen."
+    },
+    {
+      "type": "callout",
+      "variant": "info",
+      "title": "Zwei Uhren laufen gleichzeitig",
+      "text": "Dein Kind hat ein Lebensalter – gerechnet ab dem Geburtstag – und ein korrigiertes Alter, gerechnet ab dem errechneten Termin. Für Geburtstagskuchen, Impfungen und Medikamente gilt das Lebensalter. Für alles, was mit Entwicklung zu tun hat, gilt das korrigierte Alter. Diese Trennung ist nicht Schönfärberei, sondern die fachlich übliche Beurteilungsgrundlage."
+    },
+    {
+      "type": "section",
+      "heading": "Das korrigierte Alter: die zweite Uhr",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "Ein Kind, das acht Wochen zu früh geboren wurde, hat acht Wochen Reifung im Mutterleib nicht gehabt. Es holt sie nach – aber eben draußen, unter schwierigeren Bedingungen. Wenn du das Lebensalter zugrunde legst, misst du dein Kind an einem Maßstab, der ihm zwei Monate voraushat. Rechne stattdessen einfach die Wochen ab, die es zu früh kam."
+        },
+        {
+          "type": "table",
+          "title": "Beispiel: Kind, geboren in der 32. Schwangerschaftswoche (acht Wochen zu früh)",
+          "head": ["Lebensalter", "Korrigiertes Alter", "Was das im Alltag heißt"],
+          "rows": [
+            ["3 Monate", "1 Monat", "Ein wacher, sozialer Blick ist noch nicht zu erwarten – ein Neugeborenes hat ihn auch nicht"],
+            ["6 Monate", "4 Monate", "Greifen und Drehen stehen an, freies Sitzen noch lange nicht"],
+            ["12 Monate", "10 Monate", "Robben oder Krabbeln ist üblich, Laufen wäre früh"],
+            ["24 Monate", "22 Monate", "Ab hier wird in der Regel nicht mehr korrigiert"]
+          ],
+          "caption": "Die Korrektur ist simple Subtraktion: Lebensalter minus die Zahl der Wochen, die dein Kind zu früh geboren wurde."
+        },
+        {
+          "type": "evidence",
+          "level": "moderat",
+          "claim": "In der Nachsorge und bei der Beurteilung der Entwicklung wird das korrigierte Alter bis etwa zum zweiten Geburtstag verwendet. Danach gleichen sich die beiden Uhren bei den meisten Kindern so weit an, dass die Korrektur entfällt.",
+          "note": "Das ist Fachkonsens der Nachsorge- und Sozialpädiatrie, keine Metaanalyse. Bei sehr kleinen Frühgeborenen wird in einzelnen Bereichen auch länger korrigiert betrachtet. Wichtig für dich: Wenn in einer Praxis, einer Kita oder einer App ohne Korrektur gerechnet wird, sag es dazu. Das passiert häufiger, als man denkt.",
+          "sources": [0, 3]
+        },
+        {
+          "type": "figure",
+          "kind": "range",
+          "title": "Wie früh ist zu früh? Die üblichen Gruppen",
+          "alt": "Balkendiagramm mit den Schwangerschaftswochen für extrem frühe, sehr frühe, mäßig bis spät frühe und termingerechte Geburten",
+          "min": 22,
+          "max": 40,
+          "ticks": [22, 26, 30, 34, 38],
+          "data": [
+            { "label": "Extrem früh", "from": 22, "to": 28, "display": "vor der 28. SSW" },
+            { "label": "Sehr früh", "from": 28, "to": 32, "display": "28. bis 31. SSW" },
+            { "label": "Mäßig bis spät früh", "from": 32, "to": 37, "display": "32. bis 36. SSW" },
+            { "label": "Termingeboren", "from": 37, "to": 40, "display": "ab der 37. SSW" }
+          ],
+          "caption": "Einteilung nach der Weltgesundheitsorganisation. Der weitaus größte Teil der Frühgeborenen kommt in der obersten Gruppe zur Welt, also nur wenige Wochen zu früh – die Bilder von winzigen Kindern im Inkubator prägen das öffentliche Bild stärker, als sie den Regelfall abbilden.",
+          "sources": [1]
+        }
+      ]
+    },
+    {
+      "type": "section",
+      "heading": "Känguruhen: die am besten belegte Maßnahme",
+      "blocks": [
+        {
+          "type": "evidence",
+          "level": "stark",
+          "claim": "Anhaltender Haut-zu-Haut-Kontakt zwischen Kind und Eltern – die Känguru-Methode – senkt bei Frühgeborenen und Kindern mit niedrigem Geburtsgewicht die Sterblichkeit und die Rate schwerer Infektionen deutlich.",
+          "note": "Eine Cochrane-Übersichtsarbeit von 2016 fasste 21 Studien mit gut 3.000 Kindern zusammen und fand geringere Sterblichkeit und weniger schwere Infektionen. 2022 hat die WHO ihre Empfehlung noch einmal verschärft: Der Hautkontakt soll unmittelbar nach der Geburt beginnen, nicht erst nach einer Stabilisierungsphase im Inkubator. Ausgenommen sind kritisch instabile Kinder.",
+          "sources": [1, 2]
+        },
+        {
+          "type": "p",
+          "text": "Für euch als Eltern ist das die Nachricht hinter der Nachricht: Ihr seid auf der Intensivstation nicht Besuch. Ihr seid Teil der Behandlung. Känguruhen funktioniert auch mit Sonde, mit Zugängen und in vielen Kliniken auch bei Atemunterstützung – wie es konkret geht, zeigt euch das Team. Und es funktioniert genauso mit dem zweiten Elternteil, der nicht geboren hat."
+        },
+        {
+          "type": "callout",
+          "variant": "tip",
+          "title": "Was Känguruhen praktisch leichter macht",
+          "items": [
+            "Vorher aufs Klo, Getränk bereitstellen – ihr sitzt oft länger als geplant",
+            "Kleidung mit Knöpfen vorne statt Pullover, ein großes Tuch als Decke über dem Kind",
+            "Feste Zeiten mit dem Team verabreden, damit Pflege und Untersuchungen nicht hineinfallen",
+            "Ein Kissen unter den Arm, damit die Schulter nach dreißig Minuten nicht brennt",
+            "Fragt, ob euer Känguru-Wunsch in der Pflegeplanung vermerkt werden kann – dann müsst ihr ihn nicht in jeder Schicht neu erklären"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "section",
+      "heading": "Nachsorge: wer euch nach der Entlassung begleitet",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "Die Entlassung fühlt sich oft an wie ein Sprung ohne Netz: Eben noch piepte alles, jetzt seid ihr zu Hause allein verantwortlich. Tatsächlich gibt es in Deutschland ein ziemlich dichtes Nachsorgenetz – man muss nur wissen, dass es existiert, und es teilweise selbst anstoßen."
+        },
+        {
+          "type": "steps",
+          "title": "Die üblichen Bausteine",
+          "items": [
+            { "title": "Sozialmedizinische Nachsorge", "text": "Ein Team begleitet den Übergang von der Klinik nach Hause, koordiniert Termine und Hilfen und kommt teilweise ins Haus. Sie wird von der Klinik verordnet und von der Krankenkasse getragen – fragt aktiv danach, solange ihr noch auf Station seid." },
+            { "title": "Nachuntersuchungen der Klinik", "text": "Sehr kleine Frühgeborene werden über Jahre in einer Nachsorgeambulanz vorgestellt, oft zu festen korrigierten Alterspunkten. Diese Termine sind kein Misstrauensvotum, sondern der Regelfall." },
+            { "title": "U-Untersuchungen wie bei allen Kindern", "text": "Die Vorsorgetermine laufen weiter – die Entwicklungsbeurteilung darin erfolgt aber nach korrigiertem Alter. Sprich das aktiv an, wenn es nicht von selbst passiert." },
+            { "title": "Frühförderung", "text": "Bei Entwicklungsrisiken vermittelt die Klinik oder die Kinderarztpraxis den Kontakt zur interdisziplinären Frühförderstelle. Für euch ist das kostenfrei." },
+            { "title": "Sozialpädiatrisches Zentrum (SPZ)", "text": "Für komplexere Fragen – mehrere Bereiche betroffen, unklare Befunde, Bedarf an Diagnostik über die Praxis hinaus. Der Zugang läuft über eine Überweisung aus der Kinderarztpraxis." }
+          ]
+        },
+        {
+          "type": "callout",
+          "variant": "tip",
+          "title": "Der Ordner, den ihr euch selbst schenkt",
+          "text": "Legt eine Mappe an: Entlassungsbrief, Befunde, Kontaktdaten aller beteiligten Stellen und eine Seite mit den Eckdaten – errechneter Termin, Geburtsdatum, Schwangerschaftswoche, Geburtsgewicht. Ihr werdet diese Angaben in den nächsten Jahren gefühlt hundertmal brauchen."
+        }
+      ]
+    },
+    {
+      "type": "section",
+      "heading": "Entwicklung einordnen, ohne dauernd zu vergleichen",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "Frühgeborene Kinder holen in den meisten Bereichen auf, viele bis zum Schulalter vollständig. Gleichzeitig ist das Risiko für Entwicklungsauffälligkeiten höher als bei termingeborenen Kindern, und es steigt, je früher ein Kind geboren wurde. Beides gleichzeitig auszuhalten, ist die eigentliche Aufgabe: nicht in Alarmbereitschaft leben und trotzdem hinschauen."
+        },
+        {
+          "type": "callout",
+          "variant": "warn",
+          "title": "Die häufigste vermeidbare Sorge",
+          "text": "Der Vergleich mit gleichaltrigen termingeborenen Kindern aus der Krabbelgruppe – ohne Korrektur. Ein Kind, das zehn Wochen zu früh kam, ist mit einem Jahr entwicklungsmäßig gut neun Monate alt. Es sitzt neben Kindern, die ihm ein Vierteljahr voraus sind. Das ist kein Rückstand, das ist Arithmetik."
+        },
+        {
+          "type": "p",
+          "text": "Welche Schritte in welchem Alter üblich sind und wo die Grenzsteine liegen, steht ausführlich in der Übersicht zu den Meilensteinen von 0 bis 6. Lies sie mit dem korrigierten Alter im Kopf – dann stimmt sie auch für dein Kind."
+        }
+      ]
+    },
+    {
+      "type": "section",
+      "heading": "Und ihr? Was eine Intensivstation mit Eltern macht",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "Über Wochen ein Kind zu haben, das man nicht mitnehmen darf, dessen Zustand von Werten auf einem Monitor abhängt und über das andere Menschen entscheiden – das ist eine massive Belastung. Viele Eltern funktionieren in dieser Zeit erstaunlich gut und fallen erst zu Hause in ein Loch, wenn eigentlich alles gut ist. Das ist ein bekanntes Muster und kein Zeichen von Schwäche."
+        },
+        {
+          "type": "evidence",
+          "level": "moderat",
+          "claim": "Eltern von Frühgeborenen berichten im Mittel deutlich häufiger über Angst, depressive Symptome und posttraumatische Belastungsreaktionen als Eltern termingeborener Kinder – und diese Werte gehen langsamer zurück.",
+          "note": "In Längsschnittuntersuchungen zeigten Mütter Frühgeborener auch mehr als ein Jahr nach der Geburt noch erhöhte Werte, während sie in Vergleichsgruppen deutlich abgefallen waren. Die Studienlage besteht überwiegend aus kleineren Untersuchungen, die Richtung ist aber konsistent. Praktisch heißt das: Wenn es dir Monate später noch schlecht geht, ist das erwartbar – und behandelbar.",
+          "sources": [5]
+        },
+        {
+          "type": "callout",
+          "variant": "info",
+          "title": "Wo ihr Unterstützung findet",
+          "items": [
+            "Der psychosoziale Dienst oder die Sozialberatung eurer Klinik – auch noch nach der Entlassung erreichbar",
+            "Der Bundesverband „Das frühgeborene Kind“ mit Elterninformationen, regionalen Elterngruppen und Beratung",
+            "Die Frühen Hilfen in eurer Kommune, wenn es um Entlastung im Alltag geht",
+            "Die Kinderarztpraxis oder die eigene Hausarztpraxis, wenn Schlaf, Stimmung oder Grübeln nicht besser werden",
+            "Bei anhaltenden Symptomen: eine psychotherapeutische Sprechstunde. Der Weg dorthin ist kürzer geworden, als viele denken"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "section",
+      "heading": "Häufige Fragen",
+      "blocks": [
+        {
+          "type": "faq",
+          "items": [
+            {
+              "q": "Bis wann muss ich das Alter korrigieren?",
+              "a": "Für die Entwicklungsbeurteilung üblicherweise bis etwa zum zweiten Geburtstag. Danach ist der Unterschied bei den meisten Kindern so klein geworden, dass er nicht mehr ins Gewicht fällt. Bei sehr kleinen Frühgeborenen schauen manche Fachleute in einzelnen Bereichen länger korrigiert. Für Impfungen gilt übrigens durchgehend das Lebensalter, nicht das korrigierte."
+            },
+            {
+              "q": "Mein Kind kam nur drei Wochen zu früh. Zählt das überhaupt?",
+              "a": "Ja, für die ersten Monate durchaus. Spät Frühgeborene wirken äußerlich unauffällig, sind aber häufiger trinkschwach, schneller erschöpft und regulieren Temperatur und Schlaf noch etwas unreifer. Drei Wochen sind im ersten halben Jahr eine spürbare Differenz. Später verliert sich das meist ohne besondere Maßnahmen."
+            },
+            {
+              "q": "Können wir Känguruhen zu Hause fortsetzen?",
+              "a": "Ja, und es spricht nichts dagegen. Zu Hause ist es kein medizinisches Verfahren mehr, sondern Körperkontakt – gut für Regulation, Stillbeziehung und für euch. Wichtig ist nur, dass ihr dabei wach bleibt: Auf einem Sofa oder Sessel mit dem Kind einzuschlafen, gilt als besonders riskant."
+            },
+            {
+              "q": "Braucht jedes Frühgeborene Frühförderung?",
+              "a": "Nein. Frühförderung wird bei Entwicklungsauffälligkeiten oder einem erhöhten Risiko eingesetzt, nicht automatisch bei jeder Frühgeburt. Viele spät Frühgeborene brauchen sie nie. Wenn sie empfohlen wird, ist das kein Urteil über dein Kind, sondern ein Angebot, das früh am wirksamsten ist."
+            },
+            {
+              "q": "Wie erkläre ich das dem Umfeld, ohne mich ständig zu rechtfertigen?",
+              "a": "Ein Satz reicht meistens: Unser Kind wurde acht Wochen zu früh geboren, deshalb rechnen wir bei der Entwicklung ab dem errechneten Termin. Wer dann noch vergleicht, meint es oft gut und weiß es nicht besser. Du musst darüber nicht diskutieren – und du musst auch nicht jedes Mal die ganze Klinikgeschichte erzählen."
+            },
+            {
+              "q": "Wann sollten wir trotz korrigiertem Alter nachfragen?",
+              "a": "Wenn dein Kind eine Fähigkeit verliert, die es schon hatte. Wenn eine Körperhälfte deutlich weniger benutzt wird. Wenn es auf Geräusche oder Ansprache nicht reagiert. Und wenn du ein anhaltendes ungutes Gefühl hast, das sich nicht wegrechnen lässt – das ist ein legitimer Vorstellungsgrund."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "callout",
+      "variant": "info",
+      "title": "Kurz gesagt",
+      "text": "Rechne konsequent mit dem korrigierten Alter, nimm das Känguruhen ernst, nutzt die Nachsorge, die euch zusteht – und behandelt eure eigene Erschöpfung nicht als Nebensache. Der Start war anders. Der Weg ist es meistens weniger, als er sich in den ersten Wochen anfühlt."
+    }
+  ],
+  "sources": [
+    {
+      "title": "S2k-Leitlinie: Sozialpädiatrische Nachsorge extrem unreifer Frühgeborener",
+      "publisher": "AWMF / Deutsche Gesellschaft für Sozialpädiatrie und Jugendmedizin (DGSPJ)",
+      "year": "2019",
+      "kind": "Leitlinie",
+      "url": "https://www.awmf.org/leitlinien/detail/ll/071-013.html"
+    },
+    {
+      "title": "WHO advises immediate skin-to-skin care for survival of small and preterm babies",
+      "publisher": "World Health Organization",
+      "year": "2022",
+      "kind": "Empfehlung",
+      "url": "https://www.who.int/news/item/15-11-2022-who-advises-immediate-skin-to-skin-care-for-survival-of-small-and-preterm-babies"
+    },
+    {
+      "title": "Kangaroo mother care to reduce morbidity and mortality in low-birth-weight infants (e-Library of Evidence for Nutrition Actions)",
+      "publisher": "World Health Organization",
+      "kind": "Übersichtsarbeit",
+      "url": "https://www.who.int/tools/elena/interventions/kangaroo-care-infants"
+    },
+    {
+      "title": "Sehr kleine Frühgeborene – Informationen für Eltern",
+      "publisher": "Bundesverband „Das frühgeborene Kind“ e. V.",
+      "kind": "Institutionelle Information",
+      "url": "https://www.fruehgeborene.de/familie/sehr-kleine-fg/index.htm"
+    },
+    {
+      "title": "Zahlen und Fakten zur Frühgeburtlichkeit in Deutschland",
+      "publisher": "Netzwerk Neonatologie",
+      "kind": "Institutionelle Information",
+      "url": "https://netzwerk-neonatologie.de/zahlen-fakten/"
+    },
+    {
+      "title": "Frühgeburt: Risiko für die psychische Gesundheit?",
+      "publisher": "Die Psychotherapie, Springer",
+      "year": "2021",
+      "kind": "Übersichtsarbeit",
+      "url": "https://link.springer.com/article/10.1007/s00278-021-00552-z"
+    }
+  ],
+  "related": ["tragen-und-koerperkontakt", "die-ersten-tage", "meilensteine-uebersicht", "entwicklungsverzoegerung-erkennen"]
+}

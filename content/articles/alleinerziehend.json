@@ -1,0 +1,246 @@
+{
+  "slug": "alleinerziehend",
+  "title": "Alleinerziehend: Alltag organisieren",
+  "subtitle": "Was Einelternfamilien wirklich belastet – und welche Leistungen, Beratungsstellen und Entlastungen es in Deutschland gibt, bevor die Kraft ausgeht.",
+  "phases": ["kleinkind", "kindergarten", "schulkind"],
+  "topics": ["familie", "eltern"],
+  "updated": "2026-08-06",
+  "summary": "Rund jede fünfte Familie in Deutschland ist eine Einelternfamilie. Was Kindern in dieser Familienform zusetzt, ist nicht die Zahl der Erwachsenen im Haushalt, sondern das, was strukturell dranhängt: das höchste Armutsrisiko aller Familienformen, Zeitknappheit und fehlende Vertretung im Krankheitsfall. Dieser Artikel sortiert die finanziellen Ansprüche – Unterhaltsvorschuss, Kinderzuschlag, Wohngeld –, zeigt, wie ein tragfähiges Netz entsteht, und sagt, wo du Hilfe bekommst, wenn du selbst am Ende bist.",
+  "keyFacts": [
+    "Nicht die Familienform belastet Kinder, sondern Geldmangel, Zeitnot und anhaltender Elternkonflikt.",
+    "Unterhaltsvorschuss gibt es unabhängig vom eigenen Einkommen, wenn der andere Elternteil nicht oder zu wenig zahlt.",
+    "Kinderzuschlag und Wohngeld lassen sich kombinieren und werden oft nicht beantragt, obwohl Anspruch besteht.",
+    "Beratungsstellen des VAMV helfen kostenlos beim Sortieren, Rechnen und Antragstellen.",
+    "Eine Mutter-Kind- oder Vater-Kind-Kur ist eine Pflichtleistung der Krankenkasse, keine Gnade."
+  ],
+  "blocks": [
+    {
+      "type": "p",
+      "lead": true,
+      "text": "Alleinerziehend zu sein heißt nicht, alles allein zu machen – aber es heißt, dass am Ende alles an einer Person hängenbleibt: der Kita-Anruf um halb elf, die Steuererklärung, das Fieber am Sonntag, die Frage, ob das Geld bis zum 28. reicht. Dieser Artikel behandelt genau das. Er behandelt ausdrücklich nicht die Frage, ob Kinder bei einem Elternteil „genug“ bekommen. Sie bekommen genug."
+    },
+    {
+      "type": "section",
+      "heading": "Was Kindern zusetzt – und was nicht",
+      "blocks": [
+        {
+          "type": "evidence",
+          "level": "moderat",
+          "claim": "Unterschiede in der Entwicklung von Kindern aus Einelternfamilien erklären sich überwiegend über die begleitenden Umstände – finanzielle Lage, Konfliktniveau der Eltern, Verlässlichkeit des Alltags – und nicht über die Familienform selbst.",
+          "note": "Die Forschung zu Trennung und Familienform findet im Durchschnitt kleine Unterschiede, die sich weitgehend auflösen, sobald Armut und elterlicher Dauerkonflikt herausgerechnet werden. Praktisch heißt das: Was du an Geld, Ruhe und Verlässlichkeit organisieren kannst, wirkt – die Zahl der Erwachsenen im Haushalt ist nicht das, woran du arbeiten musst.",
+          "sources": [5]
+        },
+        {
+          "type": "evidence",
+          "level": "stark",
+          "claim": "Einelternfamilien tragen in Deutschland das höchste Armutsrisiko aller Familienformen – auch dann, wenn der alleinerziehende Elternteil erwerbstätig ist.",
+          "note": "Das Statistische Bundesamt weist Alleinerziehende und ihre Kinder durchgängig als besonders häufig armutsgefährdet aus; 2024 galten 15,2 Prozent aller Kinder und Jugendlichen in Deutschland als armutsgefährdet. Das ist keine persönliche Bilanz, sondern eine strukturelle: Ein Einkommen, ein Zeitbudget, volle Betreuungsverantwortung. Wer das weiß, muss sich für Anträge nicht schämen.",
+          "sources": [0, 1]
+        },
+        {
+          "type": "p",
+          "text": "Diese beiden Befunde zusammen ergeben eine ziemlich klare Marschrichtung: Geld holen, wo es dir zusteht. Zeitfresser abschaffen, wo es geht. Und den Konflikt mit dem anderen Elternteil so klein wie möglich halten – nicht für den Frieden, sondern weil er die Größe ist, die bei Kindern am deutlichsten durchschlägt."
+        }
+      ]
+    },
+    {
+      "type": "section",
+      "heading": "Das Geld: was dir zusteht",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "Viele Leistungen werden schlicht nicht beantragt, weil niemand sie erklärt hat oder weil ein früher Ablehnungsbescheid abgeschreckt hat. Die Regeln ändern sich regelmäßig – rechne nicht im Kopf nach, sondern lass rechnen."
+        },
+        {
+          "type": "table",
+          "title": "Die wichtigsten Leistungen im Überblick",
+          "head": ["Leistung", "Wofür", "Wo beantragen"],
+          "rows": [
+            ["Unterhaltsvorschuss", "Springt ein, wenn der andere Elternteil keinen, zu wenig oder unregelmäßig Unterhalt zahlt. Dein eigenes Einkommen wird nicht angerechnet.", "Jugendamt bzw. Unterhaltsvorschusskasse der Kommune"],
+            ["Kinderzuschlag", "Zusätzlich zum Kindergeld für Familien mit kleinem Einkommen. Für Alleinerziehende gilt eine niedrigere Mindesteinkommensgrenze.", "Familienkasse der Bundesagentur für Arbeit"],
+            ["Wohngeld", "Zuschuss zur Miete, gestaffelt nach Einkommen, Haushaltsgröße und Wohnort.", "Wohngeldstelle der Stadt oder Gemeinde"],
+            ["Entlastungsbetrag für Alleinerziehende", "Steuerfreibetrag zusätzlich zum Grundfreibetrag; wirkt bereits über die Steuerklasse II.", "Finanzamt bzw. Steuererklärung"],
+            ["Bildung und Teilhabe", "Kita- und Schulessen, Ausflüge, Vereinsbeitrag, Lernförderung.", "Kommune, oft über das Jobcenter"]
+          ],
+          "caption": "Zusammenstellung nach den Erläuterungen des Familienportals des Bundes. Beträge und Grenzen ändern sich jährlich – die aktuelle Höhe steht dort und beim VAMV."
+        },
+        {
+          "type": "callout",
+          "variant": "warn",
+          "title": "Leistungen hängen zusammen",
+          "text": "Unterhaltsvorschuss zählt als Einkommen des Kindes und wirkt sich auf Kinderzuschlag und Wohngeld aus – in jeder Leistung nach eigenen Regeln. Deshalb ist die Reihenfolge der Anträge nicht egal, und deshalb lohnt sich eine kostenlose Beratung mehr als jeder Online-Rechner. Der Verband alleinerziehender Mütter und Väter (VAMV) berät genau dazu, bundesweit und unabhängig davon, ob du Mitglied bist."
+        }
+      ]
+    },
+    {
+      "type": "section",
+      "heading": "Die ersten Monate sortieren",
+      "blocks": [
+        {
+          "type": "timeline",
+          "title": "Reihenfolge, wenn alles gleichzeitig dringend ist",
+          "entries": [
+            { "age": "Erste Wochen", "label": "Existenz sichern", "text": "Kindergeld auf dich ummelden, Unterhaltsvorschuss beantragen, Steuerklasse II beim Finanzamt anstoßen. Miete und Nebenkosten prüfen: Wohngeld geht auch bei Erwerbstätigkeit." },
+            { "age": "Monat 1–2", "label": "Beratung holen", "text": "Ein Termin bei einer VAMV-Beratungsstelle oder beim Jugendamt sortiert Ansprüche, Unterhaltsfragen und Betreuungsmodell in einem Aufwasch – das spart Monate." },
+            { "age": "Monat 2–4", "label": "Betreuung absichern", "text": "Kita- oder Hortumfang anpassen, Notfallkette klären: Wer holt das Kind ab, wenn du im Stau stehst? Zwei Namen, die es schriftlich in der Einrichtung gibt." },
+            { "age": "Monat 3–6", "label": "Netz bauen", "text": "Nicht ein großer Retter, sondern fünf kleine Zuständigkeiten. Nachbarschaft, andere Alleinerziehende, Großeltern, Familienzentrum, Patenprojekte." },
+            { "age": "Ab Monat 6", "label": "An dich denken", "text": "Kur, Sport, Therapieplatz, ein freier Abend im Monat. Was jetzt nicht eingeplant wird, findet später nicht statt." }
+          ],
+          "caption": "Grobe Reihenfolge, keine Norm. Wenn du erst nach zwei Jahren zum Punkt „an dich denken“ kommst, ist das kein Versäumnis."
+        },
+        {
+          "type": "list",
+          "items": [
+            { "title": "Zeit ist die knappste Währung:", "text": "Jede Wiederholung, die du automatisierst – Dauerauftrag, Wocheneinkauf, feste Kleiderregale, immer gleicher Ablauf morgens – gibt dir Kapazität für das, was nicht planbar ist." },
+            { "title": "Krankheitstage vorher denken:", "text": "Als Alleinerziehende:r stehen dir mehr Kinderkrankentage zu als Elternpaaren pro Person. Kläre vor dem ersten Infekt, wie du sie meldest." },
+            { "title": "Das Netz braucht Gegenleistung – aber nicht sofort:", "text": "Viele Menschen helfen gern und warten auf eine konkrete Bitte. „Kannst du Mittwoch um 16 Uhr abholen?“ funktioniert besser als „Sag Bescheid, wenn ich mal was brauche“." },
+            { "title": "Andere Alleinerziehende sind der wirksamste Kontakt:", "text": "Gruppen beim VAMV, in Familienzentren oder Mehrgenerationenhäusern lösen Betreuungsprobleme oft gegenseitig – und ersparen das Erklären." }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "section",
+      "heading": "Der Kontakt zum anderen Elternteil",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "Für Kinder ist entscheidend, dass Absprachen halten – nicht, dass sie großzügig sind. Ein verlässlicher Nachmittag alle zwei Wochen trägt mehr als ein üppiges Modell, das ständig platzt. Regel dich deshalb lieber auf das ein, was sicher funktioniert."
+        },
+        {
+          "type": "list",
+          "items": [
+            "Absprachen schriftlich, auch per Nachricht – das entlastet das Gedächtnis und die Stimmung.",
+            "Übergaben kurz und sachlich halten; Streitthemen gehören nicht an die Wohnungstür.",
+            "Kinder sind keine Boten und keine Zeugen. Informationen laufen zwischen den Erwachsenen.",
+            "Wenn direkte Kommunikation nicht geht: Beratung nach § 17 und § 18 SGB VIII beim Jugendamt ist kostenlos und freiwillig."
+          ]
+        },
+        {
+          "type": "callout",
+          "variant": "info",
+          "title": "Wenn es keinen zweiten Elternteil gibt",
+          "text": "Nach Tod, Kontaktabbruch oder bei bewusst allein begonnener Elternschaft entfällt diese Baustelle – dafür fehlt die Entlastung ganz. Umso wichtiger sind feste dritte Bezugspersonen: Großeltern, Pat:innen, Patenschaftsprojekte für Kinder. Kinder brauchen nicht zwei Elternteile, aber mehr als eine verlässliche erwachsene Beziehung."
+        }
+      ]
+    },
+    {
+      "type": "section",
+      "heading": "Wenn deine Kraft aufgebraucht ist",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "Erschöpfung bei Alleinerziehenden ist kein Charakterproblem, sondern eine erwartbare Folge von Dauerverantwortung ohne Ablösung. Die Frage ist nur, ob du es merkst, bevor der Körper es dir sagt. Warnzeichen: keine echte Pause seit Monaten, Schlafprobleme trotz Müdigkeit, Gereiztheit gegen das Kind, das Gefühl, nur noch zu funktionieren."
+        },
+        {
+          "type": "callout",
+          "variant": "tip",
+          "title": "Mutter-Kind- oder Vater-Kind-Kur",
+          "items": [
+            "Pflichtleistung der gesetzlichen Krankenkassen bei gesundheitlicher Belastung durch Familienarbeit – in der Regel alle vier Jahre möglich.",
+            "Dauer meist drei Wochen, Kinder können mitgenommen werden.",
+            "Der Antrag läuft über die Arztpraxis und die Krankenkasse; Kurberatungsstellen helfen kostenlos beim Ausfüllen.",
+            "Ein abgelehnter Antrag ist kein Endergebnis – Widerspruch lohnt sich häufig, die Beratungsstellen unterstützen dabei."
+          ]
+        },
+        {
+          "type": "p",
+          "text": "Wenn du an einem Punkt bist, an dem du nicht mehr weiterweißt oder Angst vor dir selbst bekommst: Nummern und Anlaufstellen stehen gebündelt auf der [Notfallseite](../notfall.html) – Elterntelefon, Telefonseelsorge, Frühe Hilfen. Der Anruf ist anonym und kostenlos."
+        }
+      ]
+    },
+    {
+      "type": "section",
+      "heading": "Häufige Fragen",
+      "blocks": [
+        {
+          "type": "faq",
+          "items": [
+            {
+              "q": "Schadet es meinem Kind, dass es nur einen Elternteil im Alltag hat?",
+              "a": "Nach der vorliegenden Forschung nicht per se. Was messbar wirkt, sind finanzielle Enge, chronischer Elternstreit und unzuverlässige Abläufe. Eine ruhige Einelternfamilie ist für Kinder günstiger als ein zerstrittener Zweielternhaushalt."
+            },
+            {
+              "q": "Ich bekomme Unterhaltsvorschuss – muss ich trotzdem Unterhalt einfordern?",
+              "a": "Der Staat holt sich das Geld beim unterhaltspflichtigen Elternteil zurück, das übernimmt die Unterhaltsvorschusskasse. Du musst mitwirken, etwa Angaben zur Person machen, aber nicht selbst klagen. Bei Sorge vor Konflikten sprich das in der Beratung offen an."
+            },
+            {
+              "q": "Lohnt sich Wohngeld überhaupt, wenn ich arbeite?",
+              "a": "Oft ja. Wohngeld ist ausdrücklich für Haushalte mit eigenem Einkommen gedacht, und die Grenzen sind höher, als viele denken. Der Antrag kostet nichts außer Zeit; eine Ablehnung hat keine Nachteile."
+            },
+            {
+              "q": "Wie erkläre ich meinem Kind, dass wir weniger Geld haben als andere?",
+              "a": "Sachlich und ohne Schuld: „Bei uns ist gerade weniger Geld da, deshalb machen wir das anders.“ Kinder tragen Verzicht besser, wenn er benannt wird, als wenn sie ihn spüren und niemand darüber spricht. Vermeide, den anderen Elternteil zum Grund zu erklären – das erzeugt Loyalitätskonflikte."
+            },
+            {
+              "q": "Ich schaffe die Anträge nicht. Wer macht das mit mir?",
+              "a": "VAMV-Beratungsstellen, Familienzentren, Erziehungsberatungsstellen, Caritas und Diakonie, bei Kindern unter drei Jahren die Frühen Hilfen. Alle kostenlos, viele begleiten auch zu Terminen bei Behörden."
+            },
+            {
+              "q": "Ich habe keine Zeit für Beratung. Bringt das überhaupt etwas?",
+              "a": "Ein Termin ersetzt oft mehrere Monate Suchen und ein paar hundert Euro im Jahr. Viele Stellen beraten telefonisch oder am Abend – frag ausdrücklich danach."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "callout",
+      "variant": "info",
+      "title": "Kurz gesagt",
+      "text": "Deine Familienform ist nicht das Problem, das gelöst werden muss. Geld, Zeit und Verlässlichkeit sind die drei Stellschrauben – und für alle drei gibt es in Deutschland Ansprüche und Anlaufstellen, die dir zustehen und nichts kosten."
+    }
+  ],
+  "sources": [
+    {
+      "title": "Gut jedes siebte Kind in Deutschland armutsgefährdet",
+      "publisher": "Statistisches Bundesamt (Destatis), Pressemitteilung",
+      "year": "2025",
+      "kind": "Institutionelle Information",
+      "url": "https://www.destatis.de/DE/Presse/Pressemitteilungen/2025/11/PD25_N065_63.html"
+    },
+    {
+      "title": "Factsheet Alleinerziehende in Deutschland",
+      "publisher": "Bertelsmann Stiftung (Menne und Funcke)",
+      "year": "2024",
+      "kind": "Institutionelle Information",
+      "url": "https://www.bertelsmann-stiftung.de/fileadmin/files/user_upload/Factsheet_Alleinerziehende_2024.pdf"
+    },
+    {
+      "title": "Beratung für Alleinerziehende",
+      "publisher": "Verband alleinerziehender Mütter und Väter (VAMV) Bundesverband",
+      "year": "2025",
+      "kind": "Institutionelle Information",
+      "url": "https://vamv.de/de/allein-erziehen/beratung/"
+    },
+    {
+      "title": "Unterhaltsvorschuss",
+      "publisher": "Familienportal des Bundes (BMBFSFJ)",
+      "year": "2026",
+      "kind": "Institutionelle Information",
+      "url": "https://familienportal.de/familienportal/familienleistungen/unterhaltsvorschuss"
+    },
+    {
+      "title": "Kinderzuschlag",
+      "publisher": "Familienportal des Bundes (BMBFSFJ)",
+      "year": "2026",
+      "kind": "Institutionelle Information",
+      "url": "https://familienportal.de/familienportal/familienleistungen/kinderzuschlag"
+    },
+    {
+      "title": "Parental Divorce and Children's Adjustment",
+      "publisher": "Perspectives on Psychological Science (Lansford)",
+      "year": "2009",
+      "kind": "Übersichtsarbeit",
+      "url": "https://local.psy.miami.edu/faculty/dmessinger/c_c/rsrcs/rdgs/emot/landsford.PerspectivesonPsychologicalScience-2009-Lansford-140-52.pdf"
+    },
+    {
+      "title": "Was sind Mutter-Kind-Kuren oder Vater-Kind-Kuren?",
+      "publisher": "Familienportal des Bundes (BMBFSFJ)",
+      "year": "2026",
+      "kind": "Institutionelle Information",
+      "url": "https://familienportal.de/familienportal/lebenslagen/kinder-jugendliche/gesundheit-erholung/was-sind-mutter-kind-kuren-oder-vater-kind-kuren--125558"
+    }
+  ],
+  "related": ["trennung-der-eltern", "elterliche-erschoepfung", "mentale-last", "rituale-und-struktur"]
+}

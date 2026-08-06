@@ -1,0 +1,237 @@
+{
+  "slug": "alternative-heilverfahren",
+  "title": "Homöopathie, Osteopathie und Co. bei Kindern",
+  "subtitle": "Was die Studienlage zu den verbreitetsten komplementären Verfahren hergibt, warum sie sich trotzdem oft hilfreich anfühlen – und wo die Grenze verläuft, an der es riskant wird.",
+  "phases": ["neugeborenes", "saeugling", "kleinkind", "kindergarten"],
+  "topics": ["gesundheit", "forschung"],
+  "updated": "2026-08-06",
+  "summary": "Homöopathie, Osteopathie, Bachblüten und Schüßler-Salze sind in Familien mit kleinen Kindern weit verbreitet – und die Erfahrungen, die Eltern damit machen, sind echt. Die Studienlage ist gleichzeitig eindeutiger, als die Debatte vermuten lässt: Für einen über den Placeboeffekt hinausgehenden Nutzen fehlen belastbare Belege. Dieser Artikel ordnet die Evidenz Verfahren für Verfahren, nimmt Placebo- und Zuwendungseffekt ernst und benennt die drei Risiken, auf die es tatsächlich ankommt: verzögerte Diagnostik, Kosten und Manipulationen an der Halswirbelsäule von Säuglingen.",
+  "keyFacts": [
+    "Für Homöopathie gibt es keinen belastbaren Wirksamkeitsnachweis über den Placeboeffekt hinaus.",
+    "Bei Säuglingskoliken zeigten manipulative Verfahren nur dann eine Wirkung, wenn die Eltern wussten, dass behandelt wurde.",
+    "Für Bachblüten und Schüßler-Salze fehlen wirksame Belege ebenso wie belastbare Studien überhaupt.",
+    "Placebo- und Zuwendungseffekte sind real und messbar – sie erklären einen großen Teil der positiven Erfahrungen.",
+    "Die wichtigsten Risiken sind verzögerte Diagnostik, unnötige Kosten und Manipulationen an der kindlichen Halswirbelsäule."
+  ],
+  "blocks": [
+    {
+      "type": "p",
+      "lead": true,
+      "text": "Wenn ein Baby wochenlang schreit, wenn ein Kleinkind einen Infekt nach dem anderen mitbringt oder wenn ein Kind schlecht schläft, kommen Eltern an einen Punkt, an dem das übliche Angebot erschöpft ist. Genau hier setzen komplementäre Verfahren an – meist mit mehr Zeit, mehr Zuwendung und einer Erklärung, die Sinn ergibt. Dass viele Familien damit gute Erfahrungen machen, ist keine Einbildung. Es lohnt sich trotzdem, genau zu trennen: zwischen dem, was ein Verfahren bewirkt, und dem, was die Situation drumherum bewirkt."
+    },
+    {
+      "type": "section",
+      "heading": "Warum sich fast alles hilfreich anfühlt",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "Drei Mechanismen sorgen dafür, dass nahezu jede Behandlung im Nachhinein erfolgreich wirkt. Erstens: Die meisten Beschwerden im Kindesalter heilen von selbst aus. Ein Infekt dauert seine Zeit, Koliken hören um den dritten Lebensmonat auf, Zahnungsphasen gehen vorbei. Was zufällig kurz vorher begonnen wurde, bekommt die Gutschrift. Zweitens: Familien suchen Hilfe typischerweise dann, wenn es am schlimmsten ist – und danach wird es fast zwangsläufig besser. Drittens wirkt die Zuwendung selbst: eine ruhige Stunde, jemand, der ausführlich zuhört und das Kind ernst nimmt, ein Konzept, das Kontrolle zurückgibt. Das senkt Stress bei den Eltern, und weniger gestresste Eltern haben ruhigere Kinder."
+        },
+        {
+          "type": "callout",
+          "variant": "info",
+          "title": "Placebo ist nicht nichts",
+          "text": "Der Placeboeffekt ist ein gut untersuchtes, körperlich messbares Phänomen – besonders stark bei Beschwerden, die über Wahrnehmung und Verhalten vermittelt sind: Schmerz, Unruhe, Schlafqualität. Bei Säuglingen wirkt er zusätzlich über die Eltern: Wer entlastet ist, hält ein schreiendes Kind anders. Die Frage ist deshalb nicht, ob eine Erfahrung echt war. Die Frage ist, ob ein Mittel mehr kann als die Umstände seiner Verabreichung – und genau das prüfen kontrollierte Studien."
+        }
+      ]
+    },
+    {
+      "type": "section",
+      "heading": "Homöopathie",
+      "blocks": [
+        {
+          "type": "evidence",
+          "level": "stark",
+          "claim": "Für homöopathische Mittel gibt es keinen belastbaren Nachweis einer Wirksamkeit über den Placeboeffekt hinaus – für keine der untersuchten Erkrankungen.",
+          "note": "Die australische Gesundheitsforschungsbehörde NHMRC wertete für ihr Informationspapier 176 Studien aus; nur fünf erfüllten die Qualitätskriterien für belastbare Ergebnisse, und keine davon zeigte eine Wirkung. Der Wissenschaftsbeirat der europäischen Akademien EASAC kam 2017 unabhängig davon zum selben Schluss. Fairerweise gehört dazu: Fehlender Wirksamkeitsnachweis ist nicht dasselbe wie bewiesene Unwirksamkeit, und die NHMRC hat das später ausdrücklich klargestellt. Für die Entscheidung im Familienalltag ändert das wenig – belegt ist ein Nutzen nicht.",
+          "sources": [0, 1]
+        },
+        {
+          "type": "figure",
+          "kind": "share",
+          "title": "Die Studienbasis der NHMRC-Auswertung zur Homöopathie",
+          "alt": "Kreisdiagramm: von 176 ausgewerteten Studien erfüllten 5 die Kriterien für belastbare Aussagen",
+          "data": [
+            { "label": "Als belastbar eingestuft", "value": 5, "display": "5 Studien" },
+            { "label": "Zu klein oder methodisch zu schwach", "value": 171, "display": "171 Studien" }
+          ],
+          "caption": "Aus dem Informationspapier der australischen NHMRC von 2015. Keine der fünf als belastbar eingestuften Studien zeigte einen Effekt über Placebo hinaus. Das Bild ist typisch für das Feld: Es gibt viele Studien, aber wenige, die aussagekräftig genug sind.",
+          "sources": [0]
+        },
+        {
+          "type": "p",
+          "text": "Ein praktischer Punkt kommt dazu: Homöopathische Einzelmittel in hoher Potenz enthalten in der Regel keine Moleküle des Ausgangsstoffs mehr. Das macht sie in dieser Form unbedenklich – anders als bei niedrigen Potenzen und Komplexmitteln, die durchaus wirksame Mengen enthalten können. Wer homöopathisch behandeln lässt, sollte deshalb wissen, was genau gegeben wird, und es bei jedem Praxisbesuch mit angeben."
+        }
+      ]
+    },
+    {
+      "type": "section",
+      "heading": "Osteopathie und manuelle Verfahren beim Säugling",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "Osteopathie ist unter jungen Familien vermutlich das verbreitetste komplementäre Verfahren, oft mit den Anlässen Schreikind, Schiefhals, Trinkschwierigkeiten oder einer bevorzugten Kopfhaltung. Anders als bei der Homöopathie gibt es hier eine plausible mechanische Grundidee und eine echte Berührung – beides macht das Verfahren für Eltern nachvollziehbarer."
+        },
+        {
+          "type": "evidence",
+          "level": "umstritten",
+          "claim": "Bei Säuglingskoliken zeigten manipulative Verfahren in fünf von sechs Studien weniger Schreien. Sobald nur Studien betrachtet wurden, in denen die Eltern nicht wussten, ob ihr Kind behandelt worden war, verschwand der Effekt.",
+          "note": "Das ist der aufschlussreichste Befund der Cochrane-Übersicht dazu: Der gemessene Nutzen hing daran, ob die Eltern die Behandlung kannten – ein Lehrbuchbeispiel für einen Erwartungseffekt bei einem Symptom, das von Eltern beurteilt wird. Die Studien waren zudem klein und methodisch schwach. Unerwünschte Wirkungen wurden nur in einer der sechs Studien überhaupt erfasst.",
+          "sources": [2]
+        },
+        {
+          "type": "evidence",
+          "level": "moderat",
+          "claim": "Sanfte Mobilisationen gelten bei Säuglingen und Kindern als vergleichsweise sicher. Für schnelle, ruckartige Manipulationen an der Wirbelsäule ist die Sicherheitslage anders: In Übersichtsarbeiten sind einzelne schwere Schadensfälle bei Säuglingen und Kindern dokumentiert, darunter Blutungen und Wirbelverletzungen.",
+          "note": "Solche Ereignisse sind selten, und aus Fallberichten lässt sich keine Häufigkeit ableiten – hochwertige Sicherheitsdaten für die Behandlung von Kindern fehlen schlicht. Das ist der eigentliche Punkt: Der belegte Nutzen ist gering, das Risiko unklar. Daraus folgt eine einfache Regel für die Praxis: Am Hals eines Säuglings wird nicht geruckt. Frag vor der Behandlung ausdrücklich, welche Techniken angewendet werden, und sag, dass du keine hochbeschleunigten Manipulationen an der Halswirbelsäule möchtest.",
+          "sources": [3, 4]
+        },
+        {
+          "type": "callout",
+          "variant": "warn",
+          "title": "Diagnosen, die man kritisch prüfen darf",
+          "text": "Begriffe wie das sogenannte KISS-Syndrom werden in der evidenzbasierten Medizin nicht als eigenständige Diagnose anerkannt; kontrollierte Studien, die das Krankheitsbild und den Nutzen seiner Behandlung belegen, fehlen. Das heißt nicht, dass die Beobachtungen der Eltern falsch sind – eine bevorzugte Kopfhaltung, ein Schiefhals oder Asymmetrien sind real und gehören abgeklärt. Sie können auch andere Ursachen haben, von einer muskulären Verkürzung über eine Sehstörung bis zu neurologischen Gründen. Deshalb: erst kinderärztliche Abklärung, dann entscheiden, was behandelt wird."
+        }
+      ]
+    },
+    {
+      "type": "section",
+      "heading": "Bachblüten und Schüßler-Salze",
+      "blocks": [
+        {
+          "type": "evidence",
+          "level": "stark",
+          "claim": "Bachblüten wirken in kontrollierten Studien nicht besser als Placebo. Für Schüßler-Salze fehlen aussagekräftige Studien weitgehend, und das zugrunde liegende Wirkkonzept gilt als biochemisch nicht plausibel.",
+          "note": "Zu den Bachblüten liegen mehrere systematische Übersichtsarbeiten vor; sämtliche placebokontrollierten Studien blieben ohne Wirksamkeitsnachweis, unter anderem bei Prüfungsangst. Bei Schüßler-Salzen ist die Lage anders gelagert: Hier fehlen nicht die positiven Ergebnisse, sondern die Untersuchungen überhaupt. Beide Mittel sind in den üblichen Verdünnungen nebenwirkungsarm – Vorsicht ist eher geboten bei alkoholhaltigen Tropfen für kleine Kinder.",
+          "sources": [5, 6]
+        }
+      ]
+    },
+    {
+      "type": "section",
+      "heading": "Die drei Risiken, auf die es ankommt",
+      "blocks": [
+        {
+          "type": "list",
+          "items": [
+            { "title": "Verzögerte Diagnostik:", "text": "Das mit Abstand wichtigste Risiko. Wenn ein Kind wochenlang komplementär behandelt wird, ohne dass die Ursache abgeklärt wurde, kann Zeit verloren gehen – bei einem Infekt, einer Hüftreifungsstörung, einer Hör- oder Sehstörung oder, selten, bei etwas Ernsterem. Komplementäre Verfahren ersetzen keine Diagnose." },
+            { "title": "Kosten:", "text": "Die meisten dieser Leistungen werden privat bezahlt; manche Krankenkassen erstatten Teile davon als Satzungsleistung. Über viele Sitzungen kommen relevante Beträge zusammen. Das ist eure Entscheidung – sie sollte nur bewusst getroffen werden und nicht im Zustand völliger Erschöpfung." },
+            { "title": "Eingriffe am kindlichen Körper:", "text": "Sanftes Halten und Mobilisieren ist etwas anderes als eine schnelle Manipulation an der Halswirbelsäule eines Säuglings. Bei Letzterem stehen einem geringen belegten Nutzen dokumentierte, wenn auch seltene Schäden gegenüber." }
+          ]
+        },
+        {
+          "type": "callout",
+          "variant": "danger",
+          "title": "Wo komplementäre Behandlung nicht hingehört",
+          "text": "**Bei akuten und potenziell bedrohlichen Situationen wird nicht ausprobiert.** Dazu gehören Atemnot, Fieber bei einem Säugling unter drei Monaten, Trinkverweigerung, Nackensteife, Bewusstseinstrübung, Krampfanfälle und Hautflecken, die sich nicht wegdrücken lassen. Ebenso wenig gehören komplementäre Mittel an die Stelle von Impfungen oder einer verordneten Dauertherapie, etwa bei Asthma, Diabetes oder Epilepsie. Wenn dir jemand rät, eine ärztlich verordnete Behandlung abzusetzen oder von Impfungen abzuraten, ist das ein Grund, die Praxis zu wechseln – unabhängig davon, wie sympathisch die Person ist."
+        },
+        {
+          "type": "checklist",
+          "id": "gute-fragen",
+          "title": "Gute Fragen an jede Behandlerin und jeden Behandler",
+          "items": [
+            "Was genau ist Ihre Arbeitsdiagnose, und worauf stützt sie sich?",
+            "Welche Techniken wenden Sie bei meinem Kind an – und was machen Sie ausdrücklich nicht?",
+            "Woran würden wir merken, dass die Behandlung nicht anschlägt?",
+            "Nach wie vielen Terminen bewerten wir gemeinsam, ob wir weitermachen?",
+            "Was kostet eine Sitzung, und wie viele planen Sie ein?",
+            "Wann würden Sie mich in eine kinderärztliche Praxis schicken?",
+            "Wie stehen Sie zu den empfohlenen Impfungen und den U-Untersuchungen?"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "section",
+      "heading": "Häufige Fragen",
+      "blocks": [
+        {
+          "type": "faq",
+          "items": [
+            {
+              "q": "Uns hat Osteopathie beim Schreibaby geholfen. War das alles Einbildung?",
+              "a": "Nein. Eure Erfahrung ist real – die Frage ist nur, was sie verursacht hat. Schreiphasen erreichen typischerweise um die sechste Lebenswoche ihren Höhepunkt und klingen bis etwa zum dritten Monat ab; genau in dieser Zeit suchen die meisten Familien Hilfe. Dazu kommt der Entlastungseffekt einer Stunde, in der jemand euch und eurem Kind zuhört. Das ist wertvoll. Es sagt nur nichts über die Handgriffe."
+            },
+            {
+              "q": "Schadet es denn, wenn wir Globuli zusätzlich geben?",
+              "a": "Hochpotenzierte Mittel sind stofflich unbedenklich. Problematisch wird es an zwei Stellen: wenn sie an die Stelle einer nötigen Abklärung oder Behandlung treten, und wenn sie Kindern beibringen, dass es für jedes Unwohlsein etwas einzunehmen gibt. Wenn ihr sie gebt, erwähne es trotzdem bei jedem Praxisbesuch – vollständige Information gehört dazu."
+            },
+            {
+              "q": "Unsere Hebamme empfiehlt Globuli. Soll ich widersprechen?",
+              "a": "Du musst dich nicht in einen Konflikt begeben. Hebammen begleiten euch in einer wichtigen Phase, und ihre Erfahrung ist in vielen Bereichen sehr wertvoll. Du darfst freundlich sagen, dass du bei Mitteln zurückhaltend bist, und nach dem fragen, was dahintersteht: Wärme, Positionierung, Stillberatung, Tragen. Meistens steckt dort der eigentliche Rat."
+            },
+            {
+              "q": "Woran erkenne ich seriöse Anbieter?",
+              "a": "An der Bereitschaft, Grenzen zu benennen. Seriös ist, wer sagt, was das Verfahren nicht kann, wer nach ärztlicher Abklärung fragt, wer eine begrenzte Zahl an Terminen vorschlägt und wer Impfungen und U-Untersuchungen unterstützt. Unseriös ist, wer für jedes Symptom eine Erklärung hat, unbegrenzte Behandlungsserien verkauft oder Angst vor der regulären Medizin schürt."
+            },
+            {
+              "q": "Was ist mit Akupunktur, Kinesiologie oder Aromatherapie bei Kindern?",
+              "a": "Für die meisten dieser Verfahren gilt im Kindesalter dasselbe Muster: wenige, kleine, methodisch schwache Studien und keine belastbaren Aussagen. Bei Aromatherapie kommt ein konkretes Risiko hinzu – ätherische Öle mit Menthol, Kampfer oder Eukalyptus gehören nicht an Säuglinge und Kleinkinder, das steht im Artikel zur Erkältungsbehandlung."
+            },
+            {
+              "q": "Ich fühle mich in der Kinderarztpraxis nicht ernst genommen. Ist das der eigentliche Grund?",
+              "a": "Häufig ja, und das ist ein legitimer Punkt. Kurze Termine und wenig Raum für Sorgen treiben Familien in Angebote, die mehr Zeit bieten. Du darfst das ansprechen, dir einen längeren Termin geben lassen, deine Beobachtungen vorher aufschreiben – oder die Praxis wechseln. Das Bedürfnis nach Zuwendung ist berechtigt; es ist nur kein Beleg für ein Verfahren."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "callout",
+      "variant": "info",
+      "title": "Kurz gesagt",
+      "text": "Die Erfahrungen, die Familien mit komplementären Verfahren machen, sind echt – der Nachweis, dass die Mittel selbst dafür verantwortlich sind, fehlt. Wenn du sie nutzt, nutze sie ergänzend, zeitlich begrenzt und mit offenen Karten gegenüber deiner Kinderarztpraxis. Und halte die eine Grenze: Bei akuten Beschwerden, bei Verdacht auf etwas Ernstes und bei verordneten Dauertherapien wird nicht experimentiert."
+    }
+  ],
+  "sources": [
+    {
+      "title": "NHMRC Information Paper: Evidence on the effectiveness of homeopathy for treating health conditions",
+      "publisher": "National Health and Medical Research Council, Australien",
+      "year": "2015",
+      "kind": "Übersichtsarbeit"
+    },
+    {
+      "title": "Homeopathic products and practices: assessing the evidence and ensuring consistency in regulating medical claims in the EU",
+      "publisher": "European Academies Science Advisory Council (EASAC)",
+      "year": "2017",
+      "kind": "Empfehlung",
+      "url": "https://easac.eu/fileadmin/PDF_s/reports_statements/EASAC_Homepathy_statement_web_final.pdf"
+    },
+    {
+      "title": "Manipulative therapies for infantile colic",
+      "publisher": "Cochrane Database of Systematic Reviews (Dobson D et al.)",
+      "year": "2012",
+      "kind": "Metaanalyse",
+      "url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD004796.pub2/abstract"
+    },
+    {
+      "title": "Spinal manual therapy in infants, children and adolescents: A systematic review and meta-analysis on treatment indication, technique and outcomes",
+      "publisher": "PLOS ONE",
+      "year": "2019",
+      "kind": "Übersichtsarbeit",
+      "url": "https://journals.plos.org/plosone/article?id=10.1371%2Fjournal.pone.0218940"
+    },
+    {
+      "title": "Adverse events associated with pediatric spinal manipulation: a systematic review",
+      "publisher": "Pediatrics (Vohra S et al.)",
+      "year": "2007",
+      "kind": "Übersichtsarbeit",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/17178922/"
+    },
+    {
+      "title": "Bach flower remedies: a systematic review of randomised clinical trials",
+      "publisher": "Swiss Medical Weekly (Ernst E)",
+      "year": "2010",
+      "kind": "Übersichtsarbeit",
+      "url": "https://smw.ch/index.php/smw/article/view/1167"
+    },
+    {
+      "title": "Schüßler-Salze: Studien fehlen",
+      "publisher": "Medizin transparent, Cochrane Österreich / Universität für Weiterbildung Krems",
+      "year": "2023",
+      "kind": "Institutionelle Information",
+      "url": "https://medizin-transparent.at/keine-spur-von-schusler-salzen/"
+    }
+  ],
+  "related": ["erkaeltung-selbstmedikation", "fieber-und-infekte", "schreibaby", "impfungen"]
+}

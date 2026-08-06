@@ -1,0 +1,250 @@
+{
+  "slug": "bewegung-und-sport",
+  "title": "Bewegung: wie viel Kinder brauchen",
+  "subtitle": "Was die WHO nach Alter empfiehlt, warum freies Bewegen mehr bringt als früher Vereinssport – und warum ein bisschen Risiko beim Klettern kein Versäumnis der Aufsicht ist, sondern der Zweck der Sache.",
+  "phases": ["kleinkind", "kindergarten", "schulkind"],
+  "topics": ["gesundheit", "spiel"],
+  "updated": "2026-08-06",
+  "summary": "Kleinkinder sollen sich laut WHO mindestens drei Stunden am Tag bewegen, Schulkinder mindestens eine Stunde davon so anstrengend, dass sie außer Atem kommen. In Deutschland erreicht das nur etwa ein Viertel der Kinder und Jugendlichen. Die gute Nachricht: Es zählt alles – Toben, Treppen, Radweg, Fangen im Hof. Ein Verein ist nett, aber nicht die Voraussetzung. Und Klettern, Balancieren und Rennen mit dem Risiko, sich das Knie aufzuschlagen, ist kein Nebeneffekt, sondern der Lernvorgang selbst.",
+  "keyFacts": [
+    "1–4 Jahre: mindestens 180 Minuten Bewegung über den Tag verteilt, bei 3–4-Jährigen davon 60 Minuten anstrengender.",
+    "5–17 Jahre: im Wochendurchschnitt mindestens 60 Minuten täglich mit erhöhter Herzfrequenz.",
+    "Muskeln und Knochen mögen es kräftig: mindestens dreimal pro Woche etwas Intensives.",
+    "Langes ununterbrochenes Sitzen oder Angeschnalltsein ist der eigentliche Risikofaktor – öfter unterbrechen.",
+    "Risikoreiches Spiel im Freien hängt mit mehr Bewegung, besserem Sozialverhalten und nicht mit mehr schweren Verletzungen zusammen."
+  ],
+  "blocks": [
+    {
+      "type": "p",
+      "lead": true,
+      "text": "Bewegung ist eines der wenigen Themen, bei denen die Empfehlungen fast trivial klingen und die Umsetzung trotzdem schwerfällt. Nicht, weil Kinder sich nicht bewegen wollen – sondern weil der Alltag sie zunehmend daran hindert: Autositz, Kitastuhl, Buggy, Wohnung, Wartezimmer. Der Standardzustand moderner Kindheit ist Sitzen, und alles andere muss aktiv hergestellt werden."
+    },
+    {
+      "type": "section",
+      "heading": "Was die WHO empfiehlt",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "Die Weltgesundheitsorganisation hat zwei Leitlinien: eine für Kinder unter fünf Jahren, eine für die Altersgruppe fünf bis siebzehn. Beide betrachten den ganzen Tag – Bewegung, Sitzen und Schlaf zusammen –, weil die drei sich gegenseitig verdrängen."
+        },
+        {
+          "type": "figure",
+          "kind": "bar",
+          "title": "Empfohlene tägliche Bewegungszeit",
+          "alt": "Balkendiagramm: unter 1 Jahr 30 Minuten Bauchlage, 1 bis 4 Jahre 180 Minuten Bewegung, ab 5 Jahren 60 Minuten anstrengende Bewegung",
+          "data": [
+            { "label": "Unter 1 Jahr", "value": 30, "display": "30 min Bauchlage" },
+            { "label": "1–2 Jahre", "value": 180, "display": "180 min gesamt" },
+            { "label": "3–4 Jahre", "value": 180, "display": "180 min, davon 60 anstrengend" },
+            { "label": "5–17 Jahre", "value": 60, "display": "60 min anstrengend" }
+          ],
+          "caption": "Nach den WHO-Leitlinien für Kinder unter fünf Jahren (2019) und für 5- bis 17-Jährige (2020). Achtung beim Vergleich: Bei den Kleinen zählt jede Aktivität, ab fünf Jahren zählen nur die Minuten mit erhöhter Herzfrequenz.",
+          "sources": [0, 1]
+        },
+        {
+          "type": "evidence",
+          "level": "stark",
+          "claim": "Kinder und Jugendliche von 5 bis 17 Jahren sollen im Wochendurchschnitt mindestens 60 Minuten pro Tag mäßig bis intensiv aktiv sein, überwiegend ausdauernd. An mindestens drei Tagen pro Woche kommen kräftigende Aktivitäten für Muskeln und Knochen dazu.",
+          "note": "Die WHO-Leitlinie von 2020 betont ausdrücklich: Mehr als 60 Minuten bringen zusätzlichen Nutzen, und etwas Bewegung ist immer besser als keine. Wer die Empfehlung nicht erreicht, soll klein anfangen. Das ist keine Alles-oder-nichts-Vorgabe.",
+          "sources": [1, 2]
+        },
+        {
+          "type": "evidence",
+          "level": "moderat",
+          "claim": "In Deutschland erreicht nur etwa ein Viertel der Kinder und Jugendlichen die WHO-Bewegungsempfehlung – Jungen etwas häufiger als Mädchen.",
+          "note": "Daten des Robert Koch-Instituts aus der KiGGS-Studie. Die Zahl ist kein Grund für schlechtes Gewissen, sondern für Realismus: Wenn drei Viertel aller Familien die Marke nicht schaffen, liegt das nicht an einzelnen Eltern, sondern an Schulwegen, Stundenplänen, Wohnumfeld und Verkehr.",
+          "sources": [3]
+        }
+      ]
+    },
+    {
+      "type": "section",
+      "heading": "Sitzen ist das eigentliche Problem",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "Die WHO-Leitlinien enthalten neben der Bewegung eine zweite Botschaft, die weniger bekannt ist: Kinder sollen nicht lange am Stück fixiert oder sitzend sein. Für Kleinkinder heißt das konkret nicht mehr als eine Stunde ununterbrochen in Buggy, Hochstuhl, Autositz oder Trage – abgesehen vom Schlaf. Und Bildschirmzeit im Sitzen soll bei unter Zweijährigen gar nicht stattfinden, bei Zwei- bis Vierjährigen nicht mehr als eine Stunde pro Tag, besser weniger."
+        },
+        {
+          "type": "callout",
+          "variant": "tip",
+          "title": "Bewegung im Alltag unterbringen, ohne Programm",
+          "items": [
+            "Die letzten fünf Minuten des Weges zu Fuß, egal wie ihr sonst unterwegs seid",
+            "Treppe statt Aufzug, so lange es das Kind mitmacht",
+            "Wartezeiten als Bewegungszeiten: hüpfen, balancieren auf Kantsteinen, Fangen",
+            "Nach dem Kindergarten eine halbe Stunde Spielplatz vor dem Nachhauseweg",
+            "Zu Hause eine Ecke, in der Toben ausdrücklich erlaubt ist – Matratze, Kissen, Sofa",
+            "Aufgaben mit Bewegung koppeln: Wäschekorb tragen, Tisch decken, Müll runterbringen"
+          ]
+        },
+        {
+          "type": "evidence",
+          "level": "moderat",
+          "claim": "Bewegungsprogramme im Kindesalter verbessern kognitive Leistungen und schulische Ergebnisse leicht – am deutlichsten bei Aufmerksamkeit und Verhalten während der Aufgabe.",
+          "note": "Eine Metaanalyse über 92 Studien findet kleine Effekte auf Arbeitsgedächtnis und Schulleistung und einen deutlicheren Effekt darauf, wie gut Kinder direkt danach bei der Sache bleiben. Für den Alltag heißt das: Bewegung vor Hausaufgaben oder Konzentrationsaufgaben ist keine verlorene Zeit. Wer sich von Sport aber einen Sprung in den Schulnoten verspricht, überschätzt den Effekt.",
+          "sources": [5]
+        }
+      ]
+    },
+    {
+      "type": "section",
+      "heading": "Freies Bewegen vor Vereinssport",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "Ein Kind, das zweimal pro Woche 45 Minuten Turnen hat, kommt damit auf 90 Minuten in der Woche. Die Empfehlung lautet 60 Minuten am Tag. Vereinssport ist also rechnerisch niemals die Lösung – er ist eine Ergänzung, und im Vorschulalter vor allem ein soziales Angebot. Der weitaus größere Teil muss aus dem gewöhnlichen Tag kommen: Rennen, Klettern, Radfahren, Draußensein."
+        },
+        {
+          "type": "comparison",
+          "title": "Freies Spiel und organisierter Sport",
+          "columns": [
+            {
+              "title": "Freies Bewegen",
+              "tone": "good",
+              "items": [
+                "Kind wählt Intensität und Pausen selbst",
+                "Enthält automatisch Klettern, Springen, Balancieren, Rangeln",
+                "Trainiert Risikoeinschätzung und Selbstregulation nebenbei",
+                "Kostet nichts und braucht keinen Termin",
+                "Kommt am ehesten auf die nötige Gesamtdauer"
+              ]
+            },
+            {
+              "title": "Vereinssport",
+              "tone": "neutral",
+              "items": [
+                "Technik, Regeln, Zugehörigkeit zu einer Gruppe",
+                "Verlässliche Struktur in der Woche",
+                "Zugang zu Sportarten, die zu Hause nicht gehen – Schwimmen vor allem",
+                "Zeitlich begrenzt, oft mit viel Wartezeit im Ablauf",
+                "Bei zu frühem Leistungsdruck ein Grund zum Aufhören"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "callout",
+          "variant": "info",
+          "title": "Eine Ausnahme mit Priorität",
+          "text": "Schwimmenlernen ist kein Freizeitthema, sondern Sicherheit. Ertrinken gehört zu den häufigsten Unfalltodesursachen im Kindesalter, und Wassergewöhnung braucht Zeit. Wenn du dich für genau ein organisiertes Angebot entscheidest, ist Schwimmen die begründetste Wahl."
+        }
+      ]
+    },
+    {
+      "type": "section",
+      "heading": "Risikospiel: warum die Schramme dazugehört",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "Kinder suchen Situationen, in denen etwas schiefgehen könnte: hoch klettern, schnell rennen, mit Werkzeug hantieren, sich außer Sichtweite entfernen, raufen. Diese Formen des Spiels haben einen eigenen Forschungsbegriff – risky play – und ein überraschend gutes Zeugnis."
+        },
+        {
+          "type": "evidence",
+          "level": "moderat",
+          "claim": "Spielumgebungen, die risikoreiches Spiel zulassen, hängen mit mehr körperlicher Aktivität, besserem Sozialverhalten und weniger Aggression zusammen – ohne dass die Zahl schwerer Verletzungen steigt.",
+          "note": "Aus einer systematischen Übersichtsarbeit von Brussoni und Kolleginnen mit 21 Studien. Die Autorinnen bewerten die Qualität der Einzelstudien selbst als begrenzt und fordern bessere Untersuchungen. Die Richtung ist aber konsistent, und die Umkehrung stimmt ebenfalls: Sehr sichere, reizarme Spielplätze werden weniger und kürzer genutzt.",
+          "sources": [4]
+        },
+        {
+          "type": "list",
+          "ordered": false,
+          "items": [
+            { "title": "Gefahr ist nicht gleich Risiko.", "text": "Eine Gefahr ist etwas, das ein Kind nicht sehen und nicht einschätzen kann – morsches Holz, offener Schacht, tiefes Wasser. Die räumst du weg. Ein Risiko ist etwas, das dein Kind selbst abschätzen kann – die Höhe des Klettergerüsts. Das lässt du stehen." },
+            { "title": "Klettern lassen, nicht hinaufheben.", "text": "Ein Kind, das selbst hochkommt, kommt in der Regel auch wieder herunter. Wer hinaufgehoben wird, steht oben ohne Plan." },
+            { "title": "Weniger kommentieren.", "text": "Ständige Warnrufe unterbrechen genau die Konzentration, die für sichere Bewegung nötig ist. Wenn du eingreifen musst, geh hin, statt zu rufen." },
+            { "title": "Der Preis sind Schrammen.", "text": "Aufgeschürfte Knie und blaue Flecken sind der normale Verschleiß beim Lernen. Was du verhindern willst, sind Kopfverletzungen, Stürze aus großer Höhe und Wasserunfälle – nicht jede Träne." }
+          ]
+        },
+        {
+          "type": "callout",
+          "variant": "warn",
+          "title": "Wo Vorsicht kein Übermaß ist",
+          "text": "Bei Wasser, Straßenverkehr, Höhen über Kopfhöhe ohne Fallschutz und beim Radfahren ohne Helm hört das produktive Risiko auf. Diese vier Bereiche haben gemeinsam, dass der schlimmste mögliche Ausgang nicht mehr korrigierbar ist – dort gilt Aufsicht statt Zutrauen."
+        }
+      ]
+    },
+    {
+      "type": "section",
+      "heading": "Häufige Fragen",
+      "blocks": [
+        {
+          "type": "faq",
+          "items": [
+            {
+              "q": "Mein Kind sitzt lieber und mag Bewegung nicht. Ist das ein Problem?",
+              "a": "Temperamentunterschiede sind groß und normal. Statt Sport zu erzwingen, such nach der Form, die zu deinem Kind passt: Manche bewegen sich lieber allein als in der Gruppe, manche brauchen ein Ziel (zum Bäcker radeln) statt Bewegung als Selbstzweck. Und ein starker Prädiktor dafür, wie viel Kinder sich bewegen, ist, wie viel ihre Eltern sich bewegen – gemeinsames Rausgehen wirkt besser als Aufforderungen."
+            },
+            {
+              "q": "Zählt Toben in der Wohnung auch?",
+              "a": "Ja, uneingeschränkt. Die WHO unterscheidet nicht nach Ort. Für Kleinkinder zählt jede Aktivität, auch Krabbeln, Tanzen und Herumtragen von Dingen. Wichtig ist die Gesamtsumme über den Tag, nicht der Block am Stück."
+            },
+            {
+              "q": "Ab wann ist Vereinssport sinnvoll?",
+              "a": "Es gibt kein belegtes Mindestalter. Ab etwa vier Jahren können viele Kinder mit einer Gruppe und einfachen Regeln umgehen. Entscheidend ist die Ausrichtung: Im Vorschul- und frühen Grundschulalter sollte es um Vielseitigkeit und Spaß gehen, nicht um frühe Spezialisierung auf eine Sportart. Frühe Spezialisierung gilt eher als Risiko für Überlastung und Ausstieg."
+            },
+            {
+              "q": "Wie viel Bewegung braucht ein Baby?",
+              "a": "Die WHO empfiehlt für Säuglinge mehrmals täglich Bewegung, vor allem am Boden, und für noch nicht mobile Babys mindestens 30 Minuten Bauchlage über den Tag verteilt – in kleinen Portionen, im Wachzustand und unter Aufsicht. Vieles davon ergibt sich beim Wickeln und Spielen von selbst."
+            },
+            {
+              "q": "Wir schaffen die 60 Minuten nicht. Wie schlimm ist das?",
+              "a": "Die Leitlinie selbst sagt: Jede Steigerung nutzt, auch wenn die Zielmarke nicht erreicht wird. Wenn du eine Sache ändern willst, ändere die mit dem größten Hebel – meist ist das der Schul- oder Kitaweg. Zehn Minuten zu Fuß, zweimal am Tag, an fünf Tagen, ergeben rund anderthalb Stunden Bewegung pro Woche, ohne einen einzigen Termin."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "callout",
+      "variant": "info",
+      "title": "Kurz gesagt",
+      "text": "Drei Stunden Bewegung für Kleinkinder, eine anstrengende Stunde ab fünf – und vor allem: langes Sitzen unterbrechen. Der größte Teil davon kommt nicht aus dem Verein, sondern aus dem Weg zur Kita, dem Spielplatz und dem Toben zu Hause. Lass dein Kind klettern und schätz die Höhe selbst ab. Die Schramme ist der Beleg dafür, dass es gelernt hat."
+    }
+  ],
+  "sources": [
+    {
+      "title": "Guidelines on physical activity, sedentary behaviour and sleep for children under 5 years of age",
+      "publisher": "World Health Organization",
+      "year": "2019",
+      "kind": "Leitlinie",
+      "url": "https://www.who.int/publications/i/item/9789241550536"
+    },
+    {
+      "title": "WHO Guidelines on Physical Activity and Sedentary Behaviour – Recommendations",
+      "publisher": "World Health Organization",
+      "year": "2020",
+      "kind": "Leitlinie",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK566046/"
+    },
+    {
+      "title": "2020 WHO guidelines on physical activity and sedentary behaviour for children and adolescents aged 5–17 years: summary of the evidence",
+      "publisher": "International Journal of Behavioral Nutrition and Physical Activity",
+      "year": "2020",
+      "kind": "Übersichtsarbeit",
+      "url": "https://link.springer.com/article/10.1186/s12966-020-01037-z"
+    },
+    {
+      "title": "Bewegungsverhalten von Kindern und Jugendlichen in Deutschland (KiGGS)",
+      "publisher": "Robert Koch-Institut, Journal of Health Monitoring",
+      "year": "2024",
+      "kind": "Institutionelle Information",
+      "url": "https://edoc.rki.de/bitstream/handle/176904/11546/JHealthMonit_2024_01_Bewegung.pdf?sequence=1"
+    },
+    {
+      "title": "What is the Relationship between Risky Outdoor Play and Health in Children? A Systematic Review",
+      "publisher": "International Journal of Environmental Research and Public Health (Brussoni et al.)",
+      "year": "2015",
+      "kind": "Übersichtsarbeit",
+      "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4483710/"
+    },
+    {
+      "title": "Multi-Level Meta-Analysis of Physical Activity Interventions During Childhood: Effects of Physical Activity on Cognition and Academic Achievement",
+      "publisher": "Educational Psychology Review",
+      "year": "2023",
+      "kind": "Metaanalyse",
+      "url": "https://link.springer.com/article/10.1007/s10648-023-09760-2"
+    }
+  ],
+  "related": ["draussen-und-natur", "schwimmen-und-wasser", "spiel-kleinkind", "schlaf-3-6"]
+}

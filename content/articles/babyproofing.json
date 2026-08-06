@@ -240,7 +240,7 @@
             },
             {
               "q": "Was gehört in die Hausapotheke für Kinder?",
-              "a": "Wund- und Verbandmaterial, sterile Kompressen, eine Pinzette, ein digitales Fieberthermometer, eine Rettungsdecke und eine Zeckenkarte. Wichtiger als der Inhalt sind die Nummern an der Kühlschranktür: 112, 116 117 und der Giftnotruf deines Bundeslandes. Eine Übersicht dazu findest du auf unserer [Notfallseite](/notfall)."
+              "a": "Wund- und Verbandmaterial, sterile Kompressen, eine Pinzette, ein digitales Fieberthermometer, eine Rettungsdecke und eine Zeckenkarte. Wichtiger als der Inhalt sind die Nummern an der Kühlschranktür: 112, 116 117 und der Giftnotruf deines Bundeslandes. Eine Übersicht dazu findest du auf unserer [Notfallseite](../notfall.html)."
             }
           ]
         }

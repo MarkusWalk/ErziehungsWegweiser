@@ -1,0 +1,305 @@
+{
+  "slug": "angst-und-mut",
+  "title": "Ängste bei Kindern",
+  "subtitle": "Warum Angst zur Entwicklung gehört, wie Vermeidung sie heimlich groß macht – und woran du merkst, dass aus einer normalen Angst etwas geworden ist, das Behandlung braucht.",
+  "phases": ["kindergarten", "schulkind"],
+  "topics": ["emotionen"],
+  "updated": "2026-08-06",
+  "summary": "Fast jedes Kind hat in bestimmten Altersabschnitten Angst – vor Dunkelheit, vor Monstern, vor Hunden, vor dem Alleinsein. Das ist keine Fehlfunktion, sondern ein Entwicklungsschritt: Die Fantasie wächst schneller als die Fähigkeit, sie einzuordnen. Entscheidend ist nicht, ob dein Kind Angst hat, sondern was danach passiert. Wenn du die gefürchtete Situation dauerhaft aus dem Weg räumst, wird die Angst kurzfristig kleiner und langfristig größer. Wenn dein Kind sie in kleinen, begleiteten Schritten erlebt, schrumpft sie. Etwa jedes zehnte Kind entwickelt eine behandlungsbedürftige Angststörung – dafür gibt es wirksame Psychotherapie.",
+  "keyFacts": [
+    "Ängste folgen einem Altersmuster: Fremde und Trennung zuerst, dann Tiere und Dunkelheit, dann Fantasiegestalten, dann soziale Bewertung.",
+    "Vermeidung beruhigt sofort und verstärkt die Angst dauerhaft – das ist der wichtigste Mechanismus.",
+    "Annäherung in kleinen Schritten, immer freiwillig und mit dir daneben, ist der Weg heraus.",
+    "Angststörungen sind die häufigsten psychischen Störungen im Kindesalter, rund 10 Prozent sind betroffen.",
+    "Kognitive Verhaltenstherapie mit Expositionsanteil ist die am besten belegte Behandlung."
+  ],
+  "blocks": [
+    {
+      "type": "p",
+      "lead": true,
+      "text": "Zwischen drei und sechs Jahren passiert etwas Merkwürdiges: Kinder, die vorher problemlos im dunklen Zimmer eingeschlafen sind, wollen plötzlich Licht. Der Grund ist kein Rückschritt, sondern Fortschritt. Das Kind kann jetzt Dinge vorstellen, die nicht da sind – und die Vorstellungskraft ist zuerst schneller als die Fähigkeit, zwischen ausgedacht und echt zu unterscheiden. Angst ist in dieser Phase ein Nebenprodukt von Denkentwicklung."
+    },
+    {
+      "type": "callout",
+      "variant": "info",
+      "title": "Was dieser Artikel nicht behandelt",
+      "text": "Das Fremdeln und die Trennungsangst im ersten und zweiten Lebensjahr sind ein eigenes Thema mit eigener Logik – dazu findest du einen separaten Artikel. Hier geht es um die Ängste ab etwa drei Jahren."
+    },
+    {
+      "type": "section",
+      "heading": "Welche Angst wann kommt",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "Kindliche Ängste sind erstaunlich vorhersagbar. Sie folgen dem, was ein Kind gerade neu versteht: Sobald es begreift, dass Eltern weggehen können, kommt die Trennungsangst. Sobald es Geschichten versteht, kommen die Monster. Sobald es merkt, dass andere über es urteilen, kommt die soziale Angst."
+        },
+        {
+          "type": "timeline",
+          "title": "Typische Ängste nach Alter",
+          "entries": [
+            {
+              "age": "8–18 Monate",
+              "label": "Fremde und Trennung",
+              "text": "Fremdeln und Protest beim Weggehen. Das Kind hat verstanden, dass du auch dann existierst, wenn es dich nicht sieht – und dass du gehen kannst."
+            },
+            {
+              "age": "2–4 Jahre",
+              "label": "Tiere, Geräusche, Dunkelheit",
+              "text": "Hunde, Staubsauger, Gewitter, das dunkle Zimmer. Ängste vor konkreten, sinnlich erfahrbaren Dingen. Der Wasserabfluss in der Badewanne gehört auch dazu."
+            },
+            {
+              "age": "4–6 Jahre",
+              "label": "Fantasiegestalten",
+              "text": "Monster, Gespenster, Einbrecher, das Böse im Schrank. Die Fantasie ist voll da, die Unterscheidung zwischen Vorstellung und Wirklichkeit noch nicht."
+            },
+            {
+              "age": "6–9 Jahre",
+              "label": "Reale Gefahren",
+              "text": "Krankheit, Tod, Unfälle, Krieg, Einbruch. Das Kind versteht jetzt, dass schlimme Dinge tatsächlich passieren – und dass sie auch euch passieren könnten."
+            },
+            {
+              "age": "ab 8 Jahren",
+              "label": "Bewertung durch andere",
+              "text": "Vor der Klasse sprechen, ausgelacht werden, nicht dazugehören, Prüfungen. Soziale Ängste rücken nach vorn und bleiben oft bis ins Jugendalter."
+            }
+          ],
+          "caption": "Altersmuster nach der Elterninformation der Bundeszentrale für gesundheitliche Aufklärung. Die Übergänge sind fließend, die Reihenfolge ist stabiler als der Zeitpunkt."
+        },
+        {
+          "type": "p",
+          "text": "Fast alle diese Ängste verschwinden von selbst, wenn die Entwicklung weitergeht. Das ist die entlastendste Nachricht dieses Artikels: Du musst eine altersübliche Angst nicht wegtherapieren. Du musst nur verhindern, dass sie sich einnistet."
+        }
+      ]
+    },
+    {
+      "type": "section",
+      "heading": "Der Mechanismus: warum Vermeidung die Angst füttert",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "Angst hat eine eingebaute Kurve. Sie steigt an, erreicht einen Gipfel und fällt wieder – auch dann, wenn nichts Schlimmes passiert und niemand eingreift. Das Problem ist: Fast niemand hält bis zum Abfallen durch. Das Kind weint, du nimmst es aus der Situation, die Angst sinkt sofort. Für das Nervensystem sieht das aus wie: Rausgehen hat gerettet. Beim nächsten Mal ist die Angst deshalb nicht kleiner, sondern eine Spur größer – und der Kreis, den das Kind meidet, wird weiter."
+        },
+        {
+          "type": "evidence",
+          "level": "stark",
+          "claim": "Vermeidung ist der zentrale aufrechterhaltende Faktor von Angst. Behandlungen, die wirken, enthalten deshalb fast immer eine schrittweise Konfrontation mit dem Gefürchteten.",
+          "note": "Das ist der theoretische Kern der kognitiven Verhaltenstherapie und wird von der deutschen Leitlinie zu Angststörungen im Kindes- und Jugendalter getragen. Für den Alltag heißt es: Nicht die Angst ist das Problem, sondern der Bogen, den man dauerhaft darum macht.",
+          "sources": [0, 1]
+        },
+        {
+          "type": "comparison",
+          "title": "Zwei Reaktionen auf dieselbe Situation",
+          "columns": [
+            {
+              "title": "Nährt die Angst",
+              "tone": "bad",
+              "items": [
+                "Den Kindergeburtstag absagen, weil dort ein Hund wohnt",
+                "Unbefristet im Zimmer bleiben, bis das Kind schläft",
+                "Für das Kind antworten, wenn es angesprochen wird",
+                "Wiederholt versichern, dass nichts passieren wird"
+              ]
+            },
+            {
+              "title": "Baut Mut auf",
+              "tone": "good",
+              "items": [
+                "Hingehen und absprechen, dass der Hund im Nebenraum bleibt",
+                "Nah bleiben, aber jede Woche einen halben Meter weiter Richtung Tür",
+                "Kurz warten, dann bei Bedarf einen Satz vorsagen",
+                "Einmal ruhig einordnen, dann bei der Sache bleiben"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "callout",
+          "variant": "tip",
+          "title": "Die Rückversicherungs-Falle",
+          "text": "Wenn dein Kind zum fünften Mal fragt, ob wirklich kein Einbrecher kommt, ist die sechste Antwort nicht beruhigender als die erste. Wiederholtes Rückversichern wirkt wie Vermeidung: Es senkt die Anspannung kurz und trainiert das Kind darauf, Beruhigung von außen zu holen. Antworte einmal ruhig und ehrlich, danach lieber: **Das haben wir schon beantwortet. Ich bleibe hier.** Kein Abweisen, sondern ein anderes Angebot – Anwesenheit statt Argumente."
+        }
+      ]
+    },
+    {
+      "type": "section",
+      "heading": "Annäherung in kleinen Schritten",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "Was in der Therapie Exposition heißt, funktioniert zu Hause im Kleinen genauso. Das Prinzip: Dein Kind geht freiwillig einen Schritt näher an das heran, was ihm Angst macht, bleibt dort, bis die Anspannung nachlässt, und erlebt dabei, dass es das aushalten kann. Nicht, dass die Gefahr weg ist – sondern dass es selbst stärker ist als gedacht. Wichtig sind drei Dinge: klein genug, freiwillig, und oft genug wiederholt."
+        },
+        {
+          "type": "steps",
+          "title": "So baust du eine Mutleiter",
+          "items": [
+            {
+              "title": "Angst benennen und ernst nehmen",
+              "text": "Nicht wegreden. Sätze wie „Das ist doch nicht schlimm“ helfen nie. Besser: „Du hast Angst vor dem Hund. Das ist ein blödes Gefühl. Ich bin da.“"
+            },
+            {
+              "title": "Stufen sammeln – gemeinsam",
+              "text": "Was wäre ganz leicht, was mittel, was fast unmöglich? Bei Hundeangst etwa: Foto anschauen, Hund hinter dem Zaun sehen, an der Leine in zehn Metern Abstand, in zwei Metern, streicheln. Dein Kind entscheidet mit, das ist zentral."
+            },
+            {
+              "title": "Auf der untersten Stufe anfangen und dableiben",
+              "text": "Lieber zu leicht als zu schwer. Wenn die Anspannung kommt, nicht sofort weggehen – ein paar Minuten aushalten, mit dir daneben. Das Nachlassen ist die eigentliche Lernerfahrung."
+            },
+            {
+              "title": "Den Mut würdigen, nicht das Ergebnis",
+              "text": "„Du bist hingegangen, obwohl du Angst hattest“ ist der Satz, der zählt. Nicht: „Siehst du, war doch nichts.“ Und: wiederholen, bevor ihr aufsteigt. Angst schrumpft durch Wiederholung, nicht durch Tempo."
+            }
+          ]
+        },
+        {
+          "type": "callout",
+          "variant": "warn",
+          "title": "Nie mit Zwang",
+          "text": "Ein Kind in die gefürchtete Situation zu schieben oder zu tragen, ist keine Exposition, sondern eine Überwältigung. Es lernt daraus nicht, dass es die Angst schafft, sondern dass es dir ausgeliefert ist. Der Unterschied zwischen wirksam und schädlich liegt genau hier: Dein Kind muss den Schritt selbst tun wollen. Deine Aufgabe ist es, den Schritt so klein zu machen, dass es das kann."
+        }
+      ]
+    },
+    {
+      "type": "section",
+      "heading": "Dunkelheit, Monster und der Abend",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "Abendängste sind ein Sonderfall, weil zwei Dinge zusammenkommen: Die Fantasie läuft, und die Trennung steht bevor. Das Kind soll allein in einem dunklen Raum bleiben, während im Rest der Wohnung Licht brennt und geredet wird. Dass es da nicht bleiben will, ist mehr Beziehungsfrage als Angstfrage."
+        },
+        {
+          "type": "list",
+          "ordered": false,
+          "items": [
+            { "title": "Nachtlicht ist erlaubt.", "text": "Ein gedimmtes Licht ist keine Kapitulation vor der Angst, sondern eine Anpassung der Umgebung. Vermeidung wäre, wenn du bei jedem Muhen das Kind ins Elternbett holst." },
+            { "title": "Monsterspray und Zauberkraft: mit Vorsicht.", "text": "Solche Rituale wirken kurzfristig, bestätigen aber, dass es etwas zu vertreiben gibt. Wenn das Ritual immer aufwendiger wird: aussteigen." },
+            { "title": "Der Abendcheck: einmal, kurz, gemeinsam.", "text": "Ein Rundgang durchs Zimmer, sachlich und ohne Dramatik. Nicht dreimal, nicht ausführlich." },
+            { "title": "Kontakt statt Anwesenheit.", "text": "Statt bis zum Einschlafen zu bleiben: alle paar Minuten kurz von der Tür aus melden. Die Abstände werden über Wochen länger." },
+            { "title": "Keine gruseligen Inhalte am Abend.", "text": "Auch harmlos wirkende Kinderfilme liefern Bildmaterial für die Nacht." }
+          ]
+        },
+        {
+          "type": "callout",
+          "variant": "tip",
+          "title": "Der Satz, der oft mehr hilft als jede Erklärung",
+          "text": "„Ich weiß, dass da nichts ist. Und ich weiß, dass sich das für dich trotzdem echt anfühlt. Ich bleibe hier, bis du ruhiger bist.“ Damit nimmst du die Angst ernst, ohne ihr recht zu geben – und das ist genau die Mischung, die Kinder brauchen."
+        }
+      ]
+    },
+    {
+      "type": "section",
+      "heading": "Wann es mehr als eine normale Angst ist",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "Die Grenze zwischen entwicklungstypischer Angst und einer Angststörung verläuft nicht bei der Stärke des Gefühls, sondern beim Ausmaß der Einschränkung. Entscheidend sind vier Fragen: Wie lange geht das schon? Wie viel Lebensraum kostet es? Leidet dein Kind darunter? Und hört es auf, wenn die Situation vorbei ist?"
+        },
+        {
+          "type": "callout",
+          "variant": "warn",
+          "title": "Anhaltspunkte, die für fachliche Abklärung sprechen",
+          "items": [
+            "Die Angst besteht seit mehr als vier bis sechs Wochen unverändert oder nimmt zu",
+            "Dein Kind meidet Alltägliches: Kita, Schule, Geburtstage, Sportverein, Schlafen im eigenen Bett",
+            "Es klagt regelmäßig über Bauch- oder Kopfschmerzen, besonders morgens vor der Schule",
+            "Der Alltag der ganzen Familie richtet sich nach der Angst",
+            "Dein Kind wirkt auch dann angespannt, wenn nichts Konkretes ansteht",
+            "Es zieht sich von Freundschaften zurück oder verliert Interesse an Dingen, die es mochte"
+          ]
+        },
+        {
+          "type": "evidence",
+          "level": "stark",
+          "claim": "Kognitive Verhaltenstherapie bringt bei Angststörungen im Kindes- und Jugendalter deutlich mehr Kinder in Remission als keine Behandlung: rund 49 Prozent gegenüber rund 18 Prozent nach der Therapie.",
+          "note": "Zahlen aus dem Cochrane-Review von 2020 mit 87 Studien und knapp 6.000 Kindern. Praktisch heißt das: Die Behandlung wirkt gut, aber nicht bei allen – und der Vorsprung gegenüber anderen aktiven Behandlungen ist kleiner als gegenüber Nichtstun. Eine Therapie ist keine Garantie, aber die beste verfügbare Option.",
+          "sources": [1]
+        },
+        {
+          "type": "evidence",
+          "level": "moderat",
+          "claim": "Angststörungen sind mit einer Häufigkeit um zehn Prozent die häufigsten psychischen Störungen im Kindes- und Jugendalter – und werden gleichzeitig oft spät erkannt.",
+          "note": "Weil ängstliche Kinder selten stören, fallen sie im Kindergarten und in der Schule weniger auf als Kinder mit aggressivem Verhalten. Ein großer Teil der betroffenen Kinder erhält keine Behandlung. Wenn du unsicher bist, ist das ein Grund für ein Gespräch, kein Grund zu warten.",
+          "sources": [0, 4]
+        },
+        {
+          "type": "p",
+          "text": "Der Weg beginnt in Deutschland meist bei der Kinderärztin oder dem Kinderarzt – auch, um körperliche Ursachen für Bauchschmerzen auszuschließen. Von dort geht es zur Kinder- und Jugendlichenpsychotherapie. Erste Anlaufstellen sind die Terminservicestelle der Kassenärztlichen Vereinigung unter der Nummer 116117, Erziehungsberatungsstellen vor Ort (kostenlos und ohne Überweisung) und die schulpsychologischen Dienste. Wartezeiten sind leider real – melde dich an mehreren Stellen gleichzeitig an."
+        }
+      ]
+    },
+    {
+      "type": "section",
+      "heading": "Häufige Fragen",
+      "blocks": [
+        {
+          "type": "faq",
+          "items": [
+            {
+              "q": "Mein Kind will nachts immer zu uns ins Bett. Wenn ich es zurückbringe, weint es. Ist das jetzt Vermeidung?",
+              "a": "Nur, wenn es dauerhaft und ohne Bewegung bleibt. Ein Kind, das gelegentlich kommt, hat kein Problem. Wenn es jede Nacht kommt und das für euch nicht passt, geh es in Stufen an: erst eine Matratze neben eurem Bett, dann eine im eigenen Zimmer, dann das eigene Bett mit dir daneben, dann mit dir an der Tür. Über Wochen, nicht über Tage."
+            },
+            {
+              "q": "Ist es schlimm, wenn ich selbst ängstlich bin?",
+              "a": "Ängstlichkeit läuft in Familien gehäuft – teils genetisch, teils gelernt. Das ist kein Schuldspruch, aber ein nützliches Wissen: Kinder lesen ab, wie du auf Hunde, Höhe oder Spritzen reagierst. Du musst nicht angstfrei werden. Es reicht oft, deine eigene Reaktion nicht zu kommentieren und deinem Kind nicht vorzugeben, wie gefährlich etwas ist."
+            },
+            {
+              "q": "Mein Kind hat Angst vor der Schule und klagt morgens über Bauchweh. Soll ich es zu Hause lassen?",
+              "a": "So wenig wie möglich. Jeder Fehltag macht den nächsten Schultag schwerer – das ist der Vermeidungsmechanismus in Reinform. Lass körperliche Ursachen abklären, und sprich parallel mit der Schule über einen Weg zurück, notfalls stundenweise. Bei anhaltender Schulvermeidung ist fachliche Hilfe angezeigt, das schafft man selten allein."
+            },
+            {
+              "q": "Wächst sich das raus?",
+              "a": "Die altersüblichen Ängste in aller Regel ja. Ausgeprägte Angststörungen dagegen verschwinden häufig nicht von selbst und gehören zu den psychischen Problemen mit der höchsten Wahrscheinlichkeit, ins Jugend- und Erwachsenenalter mitgenommen zu werden. Genau deshalb lohnt es sich, bei den Warnzeichen früh hinzuschauen."
+            },
+            {
+              "q": "Darf ich mein Kind für Mut belohnen?",
+              "a": "Ja, kleine Belohnungen für konkrete Schritte funktionieren gut, gerade bei jüngeren Kindern. Belohne die Handlung, nicht die Gefühlslage: nicht „keine Angst haben“, sondern „zum Nachbarshund gegangen“. Und lass die Belohnung wieder auslaufen, wenn der Schritt selbstverständlich geworden ist."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "callout",
+      "variant": "info",
+      "title": "Kurz gesagt",
+      "text": "Angst gehört zur Entwicklung und folgt einem Altersmuster. Nimm sie ernst, aber räum die gefürchteten Situationen nicht dauerhaft aus dem Weg – Vermeidung ist der Treibstoff. Kleine, freiwillige Schritte mit dir daneben sind der Weg. Und wenn die Angst länger als ein paar Wochen bleibt und Alltag kostet: Es gibt wirksame Hilfe, und sie kommt lieber früh als spät."
+    }
+  ],
+  "sources": [
+    {
+      "title": "S3-Leitlinie: Prävention, Diagnostik und Therapie von Angststörungen des Kindes- und Jugendalters (AWMF-Reg.-Nr. 028-022)",
+      "publisher": "AWMF / Deutsche Gesellschaft für Kinder- und Jugendpsychiatrie, Psychosomatik und Psychotherapie",
+      "year": "2021",
+      "kind": "Leitlinie",
+      "url": "https://www.awmf.org/service/awmf-aktuell/praevention-diagnostik-und-therapie-von-angststoerungen-des-kindes-und-jugendalters"
+    },
+    {
+      "title": "Cognitive behavioural therapy for anxiety disorders in children and adolescents",
+      "publisher": "Cochrane Database of Systematic Reviews (James et al.)",
+      "year": "2020",
+      "kind": "Übersichtsarbeit",
+      "url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD013162.pub2/abstract"
+    },
+    {
+      "title": "Kindliche Ängste – Elterninformation",
+      "publisher": "Bundeszentrale für gesundheitliche Aufklärung (BZgA), kindergesundheit-info.de",
+      "year": "2024",
+      "kind": "Institutionelle Information",
+      "url": "https://www.kindergesundheit-info.de/themen/entwicklung/entwicklungsschritte/emotionale-entwicklung/kindliche-aengste/"
+    },
+    {
+      "title": "Im Gleichgewicht – die psychische Entwicklung des Kindes stärken",
+      "publisher": "Bundeszentrale für gesundheitliche Aufklärung (BZgA), kindergesundheit-info.de",
+      "year": "2024",
+      "kind": "Institutionelle Information",
+      "url": "https://www.kindergesundheit-info.de/themen/entwicklung/psychische-gesundheit/psychische-entwicklung/"
+    },
+    {
+      "title": "Aktuelle Leitlinien der Kinder- und Jugendpsychiatrie",
+      "publisher": "Deutsche Gesellschaft für Kinder- und Jugendpsychiatrie, Psychosomatik und Psychotherapie (DGKJP)",
+      "year": "2025",
+      "kind": "Institutionelle Information",
+      "url": "https://www.dgkjp.de/wissen/aktuelle-leitlinien/"
+    }
+  ],
+  "related": ["fremdeln-und-trennungsangst", "emotionen-benennen", "schlaf-3-6", "frustrationstoleranz"]
+}

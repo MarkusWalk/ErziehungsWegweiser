@@ -1,0 +1,242 @@
+{
+  "slug": "sonnenschutz-und-hitze",
+  "title": "Sonnenschutz und Hitze",
+  "subtitle": "Warum Schatten und Kleidung vor der Sonnencreme kommen, was Kinderhaut von Erwachsenenhaut unterscheidet und wie du Sonnenstich, Hitzeerschöpfung und Hitzschlag auseinanderhältst.",
+  "phases": ["neugeborenes", "saeugling", "kleinkind", "kindergarten"],
+  "topics": ["sicherheit", "gesundheit"],
+  "updated": "2026-08-06",
+  "summary": "Die Reihenfolge im Sonnenschutz ist klar und wird trotzdem meistens umgedreht: Zuerst Schatten, dann Kleidung, dann erst Sonnencreme auf den Rest. Säuglinge im ersten Lebensjahr gehören überhaupt nicht in die direkte Sonne, und auf Sonnencreme soll in diesem Alter möglichst verzichtet werden. Sonnenbrände in der Kindheit sind kein vorübergehendes Ärgernis, sondern erhöhen das Hautkrebsrisiko lebenslang. Und die gefährlichste Hitzesituation für ein Kind ist immer noch das geparkte Auto.",
+  "keyFacts": [
+    "Säuglinge im ersten Lebensjahr gehören nicht in die direkte Sonne; Sonnencreme ist in diesem Alter zu vermeiden.",
+    "Reihenfolge: Schatten – Kleidung, Hut, Sonnenbrille – erst dann Creme auf die unbedeckten Reste.",
+    "Ab UV-Index 3 ist Schutz erforderlich, ab 8 dringend; im Sommer die Mittagszeit von 11 bis 15 Uhr meiden.",
+    "Sonnenbrände in Kindheit und Jugend erhöhen das Hautkrebsrisiko um das Zwei- bis Dreifache.",
+    "Ein Kind gehört nie allein ins geparkte Auto – auch nicht für zwei Minuten, auch nicht bei gekipptem Fenster."
+  ],
+  "blocks": [
+    {
+      "type": "p",
+      "lead": true,
+      "text": "Kinderhaut ist keine kleinere Version von Erwachsenenhaut. Die Hornschicht ist dünner, der Eigenschutz noch kaum ausgebildet, und die Rötung als Warnsignal kommt verzögert – wenn sie sichtbar wird, ist der Schaden längst passiert. Dazu kommt: Kinder regulieren ihre Körpertemperatur schlechter als Erwachsene, schwitzen weniger und brauchen im Verhältnis mehr Flüssigkeit. Beides zusammen macht Sonne und Hitze zu einem Thema, bei dem Erwachsenenmaßstäbe nicht helfen."
+    },
+    {
+      "type": "callout",
+      "variant": "danger",
+      "title": "Nie allein im geparkten Auto – auch nicht kurz",
+      "text": "Bei 28 Grad Außentemperatur erreicht ein Auto nach zehn Minuten rund 40 Grad, nach 30 Minuten über 45 Grad. In einer ADAC-Versuchsreihe stieg die Innentemperatur bei unter 30 Grad Außentemperatur nach 30 Minuten auf über 50 Grad, nach anderthalb Stunden auf 59,1 Grad. Ein gekipptes Fenster verhindert den Hitzestau nicht. Für ein kleines Kind kann das innerhalb von Minuten lebensbedrohlich werden. Wenn du ein allein gelassenes Kind in einem Auto siehst: 112 rufen und nicht auf den Fahrer warten."
+    },
+    {
+      "type": "section",
+      "heading": "Die Reihenfolge: Schatten, Kleidung, dann Creme",
+      "blocks": [
+        {
+          "type": "evidence",
+          "level": "stark",
+          "claim": "Säuglinge im ersten Lebensjahr gehören nicht in die direkte Sonne. Auf Sonnencreme soll in diesem Alter möglichst verzichtet werden – Schatten und Kleidung sind der Schutz der Wahl.",
+          "note": "Das Bundesamt für Strahlenschutz begründet das doppelt: Die Haut ist noch besonders empfindlich, und die Datenlage zu Inhaltsstoffen bei sehr jungen Säuglingen ist dünn. Praktisch heißt das nicht, dass dein Baby im Sommer drinnen bleiben muss – aber der Kinderwagen steht im Schatten, und der Sonnenschirm wandert mit dem Sonnenstand mit.",
+          "sources": [0, 1]
+        },
+        {
+          "type": "steps",
+          "title": "In dieser Reihenfolge, nicht in einer anderen",
+          "items": [
+            { "title": "Schatten zuerst", "text": "Im Sommer die Zeit zwischen 11 und 15 Uhr draußen möglichst meiden. Schatten ist der einzige Schutz, der nicht nachgetragen werden muss und nicht abgewaschen wird." },
+            { "title": "Dann Kleidung", "text": "Leichte, dicht gewebte Sachen, die Schultern und Nacken bedecken. Ein Hut mit Krempe und Nackenschutz, dazu eine Sonnenbrille mit UV-400-Kennzeichnung. Beim Baden: UV-Shirt, weil nasse Baumwolle deutlich weniger schützt." },
+            { "title": "Zum Schluss die Creme", "text": "Nur auf das, was frei bleibt: Gesicht, Hände, Füße, Ohren. Mindestens Lichtschutzfaktor 30, für Kinder und an Wasser, Schnee oder in den Bergen besser 50+. Etwa 20 Minuten vor dem Rausgehen auftragen und nach dem Baden erneuern." }
+          ]
+        },
+        {
+          "type": "callout",
+          "variant": "myth",
+          "title": "„Mit LSF 50 kann ich länger in der Sonne bleiben“",
+          "text": "Nachcremen verlängert die Schutzzeit nicht, es erhält sie nur. Und ein hoher Lichtschutzfaktor verführt dazu, länger draußen zu bleiben, als der Haut guttut. Sonnencreme ist das letzte Glied der Kette, nicht die Eintrittskarte für den Mittag am Pool. Auch im Schatten kommt übrigens noch etwa die Hälfte der UV-Strahlung an – Streustrahlung von Sand, Wasser und hellen Wänden."
+        },
+        {
+          "type": "table",
+          "title": "UV-Index: was welcher Wert bedeutet",
+          "head": ["UV-Index", "Stufe", "Was zu tun ist"],
+          "rows": [
+            ["1 bis 2", "niedrig", "Kein besonderer Schutz nötig"],
+            ["3 bis 5", "mittel", "Schutz erforderlich: Schatten, Kleidung, Hut, Creme"],
+            ["6 bis 7", "hoch", "Schutz erforderlich, Mittagszeit meiden"],
+            ["8 bis 10", "sehr hoch", "Zusätzlicher Schutz nötig, mittags nach drinnen"],
+            ["ab 11", "extrem", "Draußen möglichst vermeiden"]
+          ],
+          "caption": "Skala nach dem Bundesamt für Strahlenschutz; die Tagesprognose veröffentlichen BfS und Deutscher Wetterdienst. In Deutschland liegt der Sommerwert oft bei 6 bis 8, im Gebirge und am Meer höher."
+        }
+      ]
+    },
+    {
+      "type": "section",
+      "heading": "Warum ein Sonnenbrand in der Kindheit lange nachwirkt",
+      "blocks": [
+        {
+          "type": "evidence",
+          "level": "stark",
+          "claim": "Sonnenbrände in Kindheit und Jugend erhöhen das spätere Hautkrebsrisiko um etwa das Zwei- bis Dreifache. Besonders eng ist der Zusammenhang zwischen intensiven, seltenen Sonnenbelastungen mit Sonnenbrand und dem malignen Melanom.",
+          "note": "Das ist einer der wenigen Bereiche, in denen etwas, das man mit vier Jahren erlebt, mit vierzig zählt. Es geht dabei nicht um Perfektion – ein einzelner roter Nachmittag entscheidet nichts. Es geht darum, dass wiederholte Sonnenbrände in der Kindheit vermeidbar sind, wenn Schatten und Kleidung selbstverständlich werden.",
+          "sources": [2, 3]
+        },
+        {
+          "type": "timeline",
+          "title": "Sonnenschutz nach Alter",
+          "entries": [
+            { "age": "0–12 Monate", "label": "Keine direkte Sonne", "text": "Schatten, langärmelige leichte Kleidung, Hut. Sonnencreme möglichst vermeiden; wenn unumgänglich, nur kleinflächig auf Gesicht und Handrücken." },
+            { "age": "1–3 Jahre", "label": "Schatten bleibt die Regel", "text": "Mittagszeit drinnen oder unter Bäumen. UV-Kleidung beim Planschen. Creme mit LSF 50+ auf die freien Stellen." },
+            { "age": "3–6 Jahre", "label": "Gewohnheiten anlegen", "text": "Hut aufsetzen wird Teil der Rausgeh-Routine, so wie Schuhe anziehen. Kinder verstehen in diesem Alter, dass die Sonne „stark“ sein kann." },
+            { "age": "ab 6 Jahren", "label": "Selbst mitdenken", "text": "Dein Kind lernt, den UV-Index zu lesen und selbst nachzucremen – kontrolliert wird trotzdem noch, besonders Ohren, Nacken und Fußrücken." }
+          ],
+          "caption": "Altersstaffelung nach den Empfehlungen des Bundesamts für Strahlenschutz und der BZgA."
+        }
+      ]
+    },
+    {
+      "type": "section",
+      "heading": "Sonnenstich, Hitzeerschöpfung, Hitzschlag",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "Diese drei werden oft in einen Topf geworfen, sind aber unterschiedlich gefährlich. Der Unterschied lässt sich mit zwei Fragen klären: Ist nur der Kopf heiß oder der ganze Körper? Und ist dein Kind ansprechbar?"
+        },
+        {
+          "type": "table",
+          "title": "Drei Zustände unterscheiden",
+          "head": ["Was", "Woran du es erkennst", "Was zu tun ist"],
+          "rows": [
+            ["Sonnenstich", "Kopf und Nacken hochrot und heiß, übriger Körper normal temperiert; Kopfschmerzen, Schwindel, Übelkeit, Unruhe – oft erst Stunden später", "Sofort in den Schatten, mit leicht erhöhtem Oberkörper hinlegen, Kopf und Nacken kühlen, trinken lassen. Bei Erbrechen, Krampf oder Benommenheit ärztlich abklären."],
+            ["Hitzeerschöpfung", "Blasse, feuchte Haut, Schwäche, Kopfschmerzen, schneller Puls, Durst – der Körper hat zu viel Flüssigkeit und Salz verloren", "Kühler Ort, flach hinlegen, Beine hoch, langsam trinken lassen. Bessert sich das nicht innerhalb einer halben Stunde: ärztlich abklären."],
+            ["Hitzschlag", "Ganzer Körper heiß, Haut oft trocken und rot, Körpertemperatur über 40 °C, Verwirrtheit, Bewusstseinstrübung, kein Schwitzen mehr", "Notfall. 112 rufen. Bis dahin: aus der Hitze, Kleidung öffnen, mit lauwarmen feuchten Tüchern kühlen, nichts einflößen, wenn dein Kind nicht klar wach ist."]
+          ],
+          "caption": "Einordnung nach der BZgA-Elterninformation kindergesundheit-info.de. Der Hitzschlag ist der einzige der drei, bei dem Minuten zählen."
+        },
+        {
+          "type": "callout",
+          "variant": "warn",
+          "title": "Bei Säuglingen früher reagieren",
+          "text": "Babys können Überhitzung nicht signalisieren, außer durch Unruhe oder auffällige Schlappheit. Warnzeichen sind eine eingefallene Fontanelle, deutlich weniger nasse Windeln als sonst, trockene Lippen und ein Kind, das sich schwer wecken lässt. In diesen Fällen nicht abwarten, sondern noch am selben Tag ärztlich abklären lassen."
+        }
+      ]
+    },
+    {
+      "type": "section",
+      "heading": "Hitzetage im Alltag",
+      "blocks": [
+        {
+          "type": "evidence",
+          "level": "moderat",
+          "claim": "Kleine Kinder überhitzen schneller als Erwachsene: Sie haben im Verhältnis zum Gewicht eine größere Körperoberfläche, schwitzen weniger effektiv und benötigen relativ mehr Flüssigkeit.",
+          "note": "Die Mechanismen sind gut verstanden, harte Zahlen zur Trinkmenge bei Hitze gibt es kaum. Praktisch: Getränk immer sichtbar in Reichweite, aktiv anbieten statt auf Durst warten. Wasser oder stark verdünnter Saft reichen; gestillte Säuglinge brauchen bei Hitze meist einfach häufiger die Brust, nicht zusätzlich Wasser.",
+          "sources": [1, 4]
+        },
+        {
+          "type": "checklist",
+          "id": "hitzetag",
+          "title": "Checkliste heißer Tag",
+          "items": [
+            "Aktivitäten in den frühen Morgen und den späten Nachmittag legen",
+            "Wohnung nachts und früh morgens querlüften, tagsüber Fenster und Rollläden zu",
+            "Leichte, weite Kleidung; Säuglinge eher weniger anziehen, Nacken prüfen statt Hände",
+            "Trinken aktiv und regelmäßig anbieten, auch wenn dein Kind nicht danach fragt",
+            "Kinderwagen nicht mit Tüchern zudecken – darunter staut sich die Hitze",
+            "Wasserspiel statt Rennspiel, kühle Wickel, laues Fußbad",
+            "Autositz vor der Fahrt prüfen: Metallschnallen und Gurte werden sehr heiß",
+            "Vor dem Losfahren immer beide Rückbänke ansehen – die Blickkontrolle ist Routine, kein Misstrauen"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "section",
+      "heading": "Häufige Fragen",
+      "blocks": [
+        {
+          "type": "faq",
+          "items": [
+            {
+              "q": "Mein Baby ist vier Monate alt und wir wollen an den See. Geht das?",
+              "a": "Ja, wenn ihr einen dauerhaft schattigen Platz habt und nicht in der Mittagszeit da seid. Ein Schirm allein reicht nicht, weil Sand und Wasser Strahlung zurückwerfen – such lieber einen Baum oder ein Strandzelt mit UV-Schutz. Langärmeliges, leichtes Zeug plus Hut, und geh, wenn es zu heiß wird."
+            },
+            {
+              "q": "Mineralisch oder chemisch – welche Sonnencreme ist besser für Kinder?",
+              "a": "Beide schützen wirksam, wenn sie ausreichend dick aufgetragen werden. Mineralische Filter wirken sofort und werden bei sehr empfindlicher Haut oft besser vertragen, weißeln aber. Die häufigste Fehlerquelle ist nicht die Art des Filters, sondern die Menge: Die meisten Menschen tragen deutlich zu wenig auf."
+            },
+            {
+              "q": "Braucht mein Kind eine Sonnenbrille?",
+              "a": "Ja, sobald es draußen unterwegs ist und die Brille akzeptiert. Kinderaugen lassen mehr UV-Licht bis zur Netzhaut durch als Erwachsenenaugen. Wichtig ist die Kennzeichnung UV 400 oder „100 % UV-Schutz“ – dunkle Gläser ohne Filter sind schlechter als gar keine Brille, weil sich die Pupille weitet."
+            },
+            {
+              "q": "Bekommt mein Kind genug Vitamin D, wenn wir Sonne konsequent meiden?",
+              "a": "Für Säuglinge ist die Frage ohnehin geklärt: Sie bekommen im ersten Lebensjahr eine Vitamin-D-Prophylaxe unabhängig von der Sonne. Bei älteren Kindern reichen kurze Aufenthalte im Freien mit unbedeckten Händen und Gesicht außerhalb der Mittagszeit. Ein Sonnenbrand ist nie der Preis, den man für Vitamin D zahlen muss."
+            },
+            {
+              "q": "Was mache ich bei einem Sonnenbrand?",
+              "a": "Raus aus der Sonne für die nächsten Tage, kühlen mit feuchten Umschlägen, viel trinken, feuchtigkeitsspendende Lotion ohne Duftstoffe. Ärztlich abklären lassen solltest du Blasenbildung, große betroffene Flächen, Fieber, Erbrechen oder Sonnenbrand bei einem Säugling – in diesen Fällen bitte gleich."
+            },
+            {
+              "q": "Die Kita geht mittags raus. Kann ich etwas tun?",
+              "a": "Sprich den Sonnenschutz konkret an: Wer cremt, wann, und gibt es Schattenflächen auf dem Gelände? Viele Einrichtungen haben inzwischen ein Sonnenschutzkonzept, und du darfst danach fragen. Kleidung ist der Hebel, den du selbst in der Hand hast: langärmeliges UV-Shirt und Hut mit Nackenschutz in der Wechselkiste."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "callout",
+      "variant": "info",
+      "title": "Kurz gesagt",
+      "text": "Schatten schlägt Kleidung, Kleidung schlägt Creme. Im ersten Lebensjahr gar keine direkte Sonne. Mittags rein, ab UV-Index 3 schützen, an heißen Tagen aktiv zu trinken anbieten – und niemals ein Kind allein im Auto lassen."
+    }
+  ],
+  "sources": [
+    {
+      "title": "Tipps zum UV-Schutz",
+      "publisher": "Bundesamt für Strahlenschutz (BfS)",
+      "year": "2024",
+      "kind": "Institutionelle Information",
+      "url": "https://www.bfs.de/DE/themen/opt/uv/schutz/tipps/tipps_node.html"
+    },
+    {
+      "title": "Kinder vor Sonne schützen",
+      "publisher": "Bundeszentrale für gesundheitliche Aufklärung (BZgA), kindergesundheit-info.de",
+      "year": "2024",
+      "kind": "Institutionelle Information",
+      "url": "https://www.kindergesundheit-info.de/themen/risiken-vorbeugen/sonnenschutz/"
+    },
+    {
+      "title": "Sonnenschutz für Kinder – Infos und Tipps",
+      "publisher": "Deutsche Krebshilfe",
+      "year": "2024",
+      "kind": "Institutionelle Information",
+      "url": "https://www.krebshilfe.de/blog/sonnenschutz-fuer-kinder-infos-tipps/"
+    },
+    {
+      "title": "Weißer und schwarzer Hautkrebs: Was erhöht das Krebsrisiko?",
+      "publisher": "Deutsches Krebsforschungszentrum (DKFZ), Krebsinformationsdienst",
+      "year": "2024",
+      "kind": "Institutionelle Information",
+      "url": "https://www.krebsinformationsdienst.de/hautkrebs/vorbeugung"
+    },
+    {
+      "title": "Kinder vor UV-Strahlung schützen – Tipps für Eltern",
+      "publisher": "Bundesinstitut für Öffentliche Gesundheit (BIÖG), Klima – Mensch – Gesundheit",
+      "year": "2025",
+      "kind": "Institutionelle Information",
+      "url": "https://www.klima-mensch-gesundheit.de/uv-strahlung-und-uv-schutz/eltern-und-kinder/"
+    },
+    {
+      "title": "Hitze im Auto: Lebensgefahr für Kinder und Haustiere",
+      "publisher": "ADAC",
+      "year": "2024",
+      "kind": "Institutionelle Information",
+      "url": "https://presse.adac.de/regionalclubs/suedbayern/hitze-im-auto.html"
+    },
+    {
+      "title": "Sonnenschutz für Kinder in Kindergarten und Grundschule – Elterninformation",
+      "publisher": "Bundesamt für Strahlenschutz (BfS)",
+      "year": "2023",
+      "kind": "Institutionelle Information",
+      "url": "https://www.bfs.de/SharedDocs/Downloads/BfS/DE/broschueren/unterricht-uv/brosch-eltern-gs-online.pdf"
+    }
+  ],
+  "related": ["schwimmen-und-wasser", "unfallpraevention-kleinkind", "reisen-mit-kind", "vitamin-d-und-nahrungsergaenzung"]
+}

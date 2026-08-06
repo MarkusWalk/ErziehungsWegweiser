@@ -1,0 +1,249 @@
+{
+  "slug": "kind-krank-betreuung",
+  "title": "Kind krank: Betreuung, Rechte, Organisation",
+  "subtitle": "Wie viele Kinderkrankentage euch zustehen, wann die Krankenkasse zahlt und wann der Arbeitgeber, was im Arbeitsvertrag oft heimlich gestrichen wurde – und wie ihr ein Notfallnetz aufbaut, bevor ihr es braucht.",
+  "phases": ["saeugling", "kleinkind", "kindergarten", "schulkind"],
+  "topics": ["familie", "betreuung"],
+  "updated": "2026-08-06",
+  "summary": "Im Jahr 2026 stehen gesetzlich versicherten Eltern je Kind 15 Arbeitstage Kinderkrankengeld zu, Alleinerziehenden 30 – höchstens 35 beziehungsweise 70 Arbeitstage im Jahr. Ab 2027 gelten wieder die niedrigeren Werte von 10 und 20 Tagen. Daneben gibt es die bezahlte Freistellung nach § 616 BGB, die in vielen Arbeitsverträgen allerdings ausgeschlossen ist – ein Blick in den eigenen Vertrag lohnt sich, bevor das erste Kind krank wird. Und weil acht bis zwölf Infekte im Jahr im Kita-Alter normal sind, reichen die gesetzlichen Tage oft nicht: Ein Notfallnetz aus zwei bis drei Menschen, die einspringen können, ist genauso wichtig wie die Rechtslage.",
+  "keyFacts": [
+    "2026: 15 Arbeitstage Kinderkrankengeld je Kind, 30 für Alleinerziehende – höchstens 35 bzw. 70 Tage im Jahr.",
+    "Ab 2027 gelten wieder 10 Tage je Kind (20 für Alleinerziehende), höchstens 25 bzw. 50 im Jahr.",
+    "Anspruch bis zum 12. Geburtstag des Kindes; bei Kindern mit Behinderung ohne Altersgrenze.",
+    "Kinderkrankengeld gibt es nur bei gesetzlicher Versicherung von Elternteil und Kind – privat Versicherte sind auf § 616 BGB oder Urlaub angewiesen.",
+    "§ 616 BGB wird in vielen Arbeits- und Tarifverträgen ausgeschlossen. Nachlesen, bevor es akut wird.",
+    "Für die Kasse braucht ihr eine ärztliche Bescheinigung – am besten am ersten Krankheitstag holen."
+  ],
+  "blocks": [
+    {
+      "type": "p",
+      "lead": true,
+      "text": "Der Anruf kommt meistens um kurz nach zehn: Das Kind hat Fieber, es muss abgeholt werden. Was dann passiert, entscheidet sich selten an dem Tag selbst, sondern an dem, was vorher geregelt wurde – wie viele Tage euch zustehen, wer diesmal dran ist und wen ihr anrufen könnt, wenn beide nicht können. Dieser Artikel sortiert die Rechtslage und den praktischen Teil. Um die medizinische Seite geht es in den Artikeln zu Fieber und zu Kinderkrankheiten."
+    },
+    {
+      "type": "section",
+      "heading": "Kinderkrankengeld: die Zahlen für 2026",
+      "blocks": [
+        {
+          "type": "evidence",
+          "level": "stark",
+          "claim": "Für das Jahr 2026 besteht der Anspruch auf Kinderkrankengeld je gesetzlich versichertem Kind für längstens 15 Arbeitstage, für Alleinerziehende für längstens 30 Arbeitstage. Bei mehreren Kindern liegt die Obergrenze je Elternteil bei 35 Arbeitstagen, bei Alleinerziehenden bei 70 Arbeitstagen.",
+          "note": "Diese Werte beruhen auf einer befristeten Erhöhung. Für 2027 ist vorgesehen, dass wieder die Regelwerte des § 45 SGB V gelten: 10 Arbeitstage je Kind, 20 für Alleinerziehende, höchstens 25 beziehungsweise 50 Tage im Jahr. Die Zahl der Tage wurde in den vergangenen Jahren mehrfach geändert – schau vor der Jahresplanung noch einmal beim Bundesgesundheitsministerium oder bei deiner Krankenkasse nach, was für das laufende Jahr gilt.",
+          "sources": [0, 2]
+        },
+        {
+          "type": "figure",
+          "kind": "bar",
+          "title": "Kinderkrankentage im Jahr 2026",
+          "alt": "Balkendiagramm mit vier Werten: 15 Tage je Kind, 30 Tage je Kind für Alleinerziehende, 35 Tage Jahresobergrenze, 70 Tage Jahresobergrenze für Alleinerziehende",
+          "data": [
+            { "label": "Je Kind", "value": 15, "display": "15 Tage" },
+            { "label": "Je Kind, alleinerziehend", "value": 30, "display": "30 Tage" },
+            { "label": "Obergrenze im Jahr", "value": 35, "display": "35 Tage" },
+            { "label": "Obergrenze, alleinerziehend", "value": 70, "display": "70 Tage" }
+          ],
+          "caption": "Anspruchsdauer für das Kalenderjahr 2026 nach den Angaben des Bundesgesundheitsministeriums. Die Tage gelten je Elternteil; ab 2027 sind wieder 10 bzw. 20 Tage je Kind und 25 bzw. 50 Tage im Jahr vorgesehen.",
+          "sources": [0]
+        },
+        {
+          "type": "p",
+          "text": "Damit die Kasse zahlt, müssen mehrere Dinge zusammenkommen: Das Kind ist gesetzlich versichert und noch keine zwölf Jahre alt, du bist selbst gesetzlich versichert mit Anspruch auf Krankengeld, eine Ärztin bescheinigt, dass Beaufsichtigung, Betreuung oder Pflege nötig ist – und es lebt keine andere Person im Haushalt, die das übernehmen könnte. Bei Kindern mit Behinderung, die auf Hilfe angewiesen sind, entfällt die Altersgrenze."
+        },
+        {
+          "type": "list",
+          "ordered": false,
+          "items": [
+            { "title": "Höhe:", "text": "Kinderkrankengeld ersetzt in der Regel 90 Prozent des ausgefallenen Nettoarbeitsentgelts, nach oben durch eine gesetzliche Höchstgrenze gedeckelt. Es ist steuerfrei, erhöht aber über den Progressionsvorbehalt den Steuersatz auf das übrige Einkommen." },
+            { "title": "Tage übertragen:", "text": "Ein Elternteil kann eigene Tage an den anderen abgeben, wenn beide Arbeitgeber zustimmen. Das hilft, wenn eine Person beruflich schlechter aussteigen kann als die andere." },
+            { "title": "Klinikaufenthalt:", "text": "Bei stationärer Behandlung des Kindes gilt seit 2024 eine Sonderregelung – der Anspruch auf Kinderkrankengeld für die Mitaufnahme ist dann nicht auf die Höchstzahl der Tage begrenzt." },
+            { "title": "Schwerstkranke Kinder:", "text": "Für Kinder mit einer lebensverkürzenden Erkrankung im Endstadium gibt es einen unbefristeten Anspruch, ebenfalls ohne die genannten Höchstgrenzen." },
+            { "title": "Privat versichert:", "text": "Wer selbst oder dessen Kind privat versichert ist, hat keinen Anspruch auf Kinderkrankengeld. Dann bleiben § 616 BGB, Urlaub, Überstundenabbau oder unbezahlte Freistellung." }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "section",
+      "heading": "§ 616 BGB – der Anspruch, den viele verloren haben, ohne es zu wissen",
+      "blocks": [
+        {
+          "type": "evidence",
+          "level": "moderat",
+          "claim": "Nach § 616 BGB behalten Beschäftigte ihren Vergütungsanspruch, wenn sie für eine verhältnismäßig nicht erhebliche Zeit unverschuldet an der Arbeit gehindert sind – etwa weil ein Kind erkrankt ist und betreut werden muss. Die Vorschrift kann jedoch im Arbeits- oder Tarifvertrag wirksam ausgeschlossen werden, und das ist in der Praxis häufig der Fall.",
+          "note": "Was „verhältnismäßig nicht erheblich“ heißt, hat der Gesetzgeber offengelassen; in der arbeitsrechtlichen Praxis wird meist von wenigen Tagen ausgegangen, im Einzelfall bis zu etwa zehn. Deshalb keine höhere Evidenzstufe: Es kommt auf die Rechtsprechung und den konkreten Vertrag an. Praktisch relevant ist vor allem der Ausschluss – such in deinem Arbeitsvertrag nach einer Formulierung wie „§ 616 BGB wird abbedungen“ oder „findet keine Anwendung“. Ist er ausgeschlossen, greift stattdessen das Kinderkrankengeld der Krankenkasse.",
+          "sources": [4, 3]
+        },
+        {
+          "type": "table",
+          "title": "Zwei verschiedene Ansprüche, oft verwechselt",
+          "head": ["", "§ 616 BGB", "Kinderkrankengeld (§ 45 SGB V)"],
+          "rows": [
+            ["Wer zahlt", "Der Arbeitgeber – das Gehalt läuft weiter", "Die gesetzliche Krankenkasse, in der Regel 90 Prozent des Nettoentgelts"],
+            ["Voraussetzung", "Kein Ausschluss im Arbeits- oder Tarifvertrag, kurze Dauer", "Gesetzliche Versicherung von Elternteil und Kind, ärztliche Bescheinigung, Kind unter 12"],
+            ["Freistellung von der Arbeit", "Ja, aus derselben Vorschrift", "Ja – der Freistellungsanspruch besteht unabhängig davon, ob § 616 BGB gilt"]
+          ],
+          "caption": "Wichtig: Auch wenn § 616 BGB im Vertrag ausgeschlossen ist, darfst du zu Hause bleiben. Ausgeschlossen ist dann nur die Lohnfortzahlung, nicht das Recht auf Freistellung.",
+          "sources": [3, 4]
+        },
+        {
+          "type": "callout",
+          "variant": "tip",
+          "title": "Was ihr am ersten Krankheitstag tut",
+          "items": [
+            "Arbeitgeber sofort informieren – möglichst vor Arbeitsbeginn, formlos, mit voraussichtlicher Dauer.",
+            "In der Kinderarztpraxis anrufen und die Bescheinigung für die Krankenkasse anfordern; viele Praxen stellen sie unkompliziert aus.",
+            "Bescheinigung zügig an die eigene Krankenkasse geben, nicht sammeln – manche Kassen haben Fristen und Onlinewege.",
+            "Der Kita oder Schule Bescheid sagen und dabei die Krankheit nennen, wenn es eine meldepflichtige ist.",
+            "Notieren, wie viele Tage ihr schon verbraucht habt. Nach dem dritten Infekt weiß das niemand mehr auswendig."
+          ]
+        }
+      ]
+    },
+    {
+      "type": "section",
+      "heading": "Wann darf das Kind wieder in die Kita?",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "Hier prallen zwei Regelwerke aufeinander: das Infektionsschutzgesetz und die Hausordnung der Einrichtung. Das Gesetz regelt nur einen Teil, den Rest legt die Kita selbst fest – und deshalb ist die häufigste Antwort auf die Frage nach der Rückkehr nicht juristisch, sondern eine Vereinbarung."
+        },
+        {
+          "type": "evidence",
+          "level": "stark",
+          "claim": "§ 34 Infektionsschutzgesetz verbietet bei bestimmten Erkrankungen – etwa Masern, Keuchhusten, Scharlach, Windpocken oder ansteckender Durchfallerkrankung – den Besuch von Gemeinschaftseinrichtungen. Die Wiederzulassung richtet sich nach ärztlichem Urteil; das Gesetz verlangt dafür keine schriftliche Bescheinigung.",
+          "note": "Das Robert Koch-Institut veröffentlicht dazu eine Tabelle mit den einzelnen Krankheiten und den jeweiligen Fristen. Praktisch heißt das zweierlei: Erstens seid ihr verpflichtet, der Einrichtung eine solche Erkrankung zu melden. Zweitens dürfen Kitas ein schriftliches Attest zwar verlangen, aus dem Infektionsschutzgesetz folgt das aber nicht – wer deswegen eine zweite Praxisfahrt mit krankem Kind machen soll, darf freundlich nachfragen, worauf sich die Forderung stützt.",
+          "sources": [5, 6]
+        },
+        {
+          "type": "callout",
+          "variant": "info",
+          "title": "24 Stunden fieberfrei ist eine Hausregel",
+          "text": "Die verbreiteten Regeln – 24 oder 48 Stunden ohne Fieber, ein Tag ohne Erbrechen, keine Rückkehr am selben Tag – stehen in keinem Gesetz. Sie sind Vereinbarungen der Einrichtung und meistens sinnvoll: Ein Kind, das gerade erst entfiebert ist, hält einen Kita-Tag selten durch. Wenn eine Regel euch unverhältnismäßig erscheint, ist die Elternvertretung der richtige Weg, nicht die Diskussion an der Garderobe."
+        },
+        {
+          "type": "p",
+          "text": "Ein Sonderfall, der überraschend viele Tage kostet: Läuse, Bindehautentzündungen und Magen-Darm-Wellen führen zu wiederholten Ausschlüssen, die medizinisch harmlos, organisatorisch aber teuer sind. Plant sie ein, wenn ihr euer Jahr aufteilt – Krankheitstage verteilen sich nicht gleichmäßig, sondern kommen in Wellen von Oktober bis März."
+        }
+      ]
+    },
+    {
+      "type": "section",
+      "heading": "Das Notfallnetz",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "Rechnerisch ist die Sache eng: Acht bis zwölf Atemwegsinfekte pro Jahr gelten im Kita-Alter als normal, und nicht jeder davon dauert einen Tag. Selbst wenn beide Eltern ihre Tage voll ausschöpfen, bleibt in vielen Familien eine Lücke. Sie lässt sich nicht wegorganisieren, aber verkleinern."
+        },
+        {
+          "type": "steps",
+          "title": "Ein Netz, das trägt – vor dem ersten Infekt gebaut",
+          "items": [
+            { "title": "Zwei bis drei Namen sammeln", "text": "Großeltern, eine Nachbarin, befreundete Eltern, eine Tagesmutter mit freien Kapazitäten. Fragt konkret und im Voraus: Könntest du im Notfall vormittags einspringen? Ein Ja auf Vorrat ist leichter zu geben als eines um acht Uhr morgens." },
+            { "title": "Reihenfolge festlegen", "text": "Wer bleibt beim ersten Krankheitstag zu Hause, wer beim zweiten? Ohne Regel entscheidet im Moment des Anrufs, wer den scheinbar wichtigeren Termin hat – und das ist über Jahre gesehen selten ausgewogen." },
+            { "title": "Mit dem Arbeitgeber vorher sprechen", "text": "Klärt, was möglich ist: mobiles Arbeiten an Krankheitstagen, Gleitzeit, Stundentausch. Diese Gespräche laufen besser, wenn sie nicht als Notfallbitte geführt werden." },
+            { "title": "Kinderarzttermine bündeln", "text": "Fragt in der Praxis nach Randzeiten oder Telefonsprechstunden. Viele Praxen halten Akutzeiten am frühen Morgen frei – das rettet oft einen halben Arbeitstag." },
+            { "title": "Notfallmappe anlegen", "text": "Versichertenkarte, Impfpass, Allergien, Notfallnummern und eine kurze Vollmacht für die Betreuungsperson an einem Ort. Wer einspringt, kann dann auch zum Arzt." }
+          ]
+        },
+        {
+          "type": "callout",
+          "variant": "warn",
+          "title": "Wenn die Tage aufgebraucht sind",
+          "text": "Dann bleiben Urlaub, Überstunden, unbezahlte Freistellung – und ein Gespräch, das viele scheuen. Sprich früh mit deinem Arbeitgeber, statt kurzfristig auszufallen; für Betriebe ist Planbarkeit oft wichtiger als Anwesenheit. Bei chronisch kranken Kindern oder Kindern mit Behinderung gibt es zusätzliche Wege: Pflegeleistungen, Familienunterstützende Dienste, in schweren Fällen Kurzzeitpflege. Die Beratungsstellen der Krankenkassen und die Frühen Hilfen helfen beim Sortieren."
+        }
+      ]
+    },
+    {
+      "type": "section",
+      "heading": "Häufige Fragen",
+      "blocks": [
+        {
+          "type": "faq",
+          "items": [
+            {
+              "q": "Mein Arbeitgeber sagt, ich hätte kein Recht, wegen eines kranken Kindes zu fehlen. Stimmt das?",
+              "a": "Nein. Der Anspruch auf unbezahlte Freistellung zur Betreuung eines kranken Kindes ist gesetzlich abgesichert und besteht auch dann, wenn § 616 BGB im Vertrag ausgeschlossen ist. Was der Vertrag ändern kann, ist die Bezahlung durch den Arbeitgeber – nicht dein Recht, zu Hause zu bleiben. Die ärztliche Bescheinigung solltest du in diesem Fall besonders sorgfältig vorlegen."
+            },
+            {
+              "q": "Wir sind zwei Eltern, aber nur einer ist gesetzlich versichert. Wie machen wir das?",
+              "a": "Kinderkrankengeld kann nur der gesetzlich versicherte Elternteil beziehen, und auch nur dann, wenn das Kind gesetzlich versichert ist. Der privat versicherte Elternteil ist auf § 616 BGB, Urlaub oder unbezahlte Freistellung angewiesen. In der Praxis heißt das, die Tage bewusst aufzuteilen: Der gesetzlich versicherte Teil nutzt das Kinderkrankengeld, der andere die betrieblichen Möglichkeiten."
+            },
+            {
+              "q": "Zählt ein Tag als ganzer Tag, auch wenn ich nur vormittags weg war?",
+              "a": "Kinderkrankengeld wird für Arbeitstage gezahlt, an denen du wegen der Betreuung nicht gearbeitet hast. Ein angefangener Tag wird in der Regel als Tag gezählt – halbe Tage lassen sich nicht ansparen. Wenn du an einem Tag noch teilweise arbeitest, kläre mit der Krankenkasse, wie sie das behandelt, bevor du die Bescheinigung einreichst."
+            },
+            {
+              "q": "Ich bin alleinerziehend und die 30 Tage sind im März weg. Was jetzt?",
+              "a": "Zuerst prüfen, ob der andere Elternteil trotz Trennung eigene Tage hat – der Anspruch hängt an der Versicherung und am Sorgerecht, nicht am gemeinsamen Haushalt. Danach: Urlaub, mobiles Arbeiten, Notfallnetz. Und beim Jugendamt oder beim örtlichen Familienbüro nach einer Notfallbetreuung fragen; viele Kommunen haben Angebote für genau diese Situation, die kaum bekannt sind."
+            },
+            {
+              "q": "Braucht die Kita ein Attest, dass mein Kind wieder gesund ist?",
+              "a": "Bei den in § 34 Infektionsschutzgesetz genannten Krankheiten entscheidet ärztliches Urteil über die Wiederzulassung, eine schriftliche Bescheinigung verlangt das Gesetz aber nicht. Viele Einrichtungen fordern trotzdem eine – das dürfen sie über ihre Hausordnung regeln. Bei einem einfachen Schnupfen ohne meldepflichtige Erkrankung ist ein Attest weder nötig noch sinnvoll."
+            },
+            {
+              "q": "Ist es schlimm, ein Kind mit Restschnupfen wieder in die Kita zu bringen?",
+              "a": "Nein. Kinder in Gemeinschaftseinrichtungen haben über Monate hinweg fast durchgehend eine laufende Nase; darauf zu warten, dass sie ganz symptomfrei sind, ist unrealistisch. Die sinnvollen Kriterien sind andere: fieberfrei, isst und trinkt, wirkt belastbar genug für einen Kita-Tag, kein Erbrechen oder Durchfall in den letzten 24 bis 48 Stunden."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "callout",
+      "variant": "info",
+      "title": "Kurz gesagt",
+      "text": "2026 gelten 15 Tage je Kind und 30 für Alleinerziehende, ab 2027 wieder weniger – prüf die Zahl jedes Jahr neu. Schau in deinen Arbeitsvertrag, ob § 616 BGB ausgeschlossen ist, hol die ärztliche Bescheinigung am ersten Tag, und bau ein Netz aus zwei bis drei Menschen auf, bevor du es brauchst. Das Recht deckt einen Teil ab. Den Rest deckt Organisation – und die Bereitschaft, rechtzeitig zu fragen."
+    }
+  ],
+  "sources": [
+    {
+      "title": "Kinderkrankentage und Kinderkrankengeld – Fragen und Antworten",
+      "publisher": "Bundesministerium für Gesundheit (BMG)",
+      "year": "2026",
+      "kind": "Institutionelle Information",
+      "url": "https://www.bundesgesundheitsministerium.de/themen/praevention/kindergesundheit/faq-kinderkrankengeld"
+    },
+    {
+      "title": "Kinderkrankentage und Kinderkrankengeld",
+      "publisher": "Familienportal des Bundes, Bundesministerium für Familie, Senioren, Frauen und Jugend",
+      "year": "2026",
+      "kind": "Institutionelle Information",
+      "url": "https://familienportal.de/familienportal/familienleistungen/weitere-leistungen/kinderkrankentage-und-kinderkrankengeld"
+    },
+    {
+      "title": "§ 45 SGB V – Krankengeld bei Erkrankung des Kindes",
+      "publisher": "Sozialgesetzbuch Fünftes Buch, dejure.org",
+      "year": "2026",
+      "kind": "Institutionelle Information",
+      "url": "https://dejure.org/gesetze/SGB_V/45.html"
+    },
+    {
+      "title": "Kinderkrankengeld und Arbeitsfreistellung",
+      "publisher": "Bundeszentrale für gesundheitliche Aufklärung (BZgA), kindergesundheit-info.de",
+      "year": "2025",
+      "kind": "Institutionelle Information",
+      "url": "https://www.kindergesundheit-info.de/themen/krankes-kind/recht/berufstaetigkeit/"
+    },
+    {
+      "title": "§ 616 Bürgerliches Gesetzbuch – Vorübergehende Verhinderung",
+      "publisher": "Bürgerliches Gesetzbuch (BGB)",
+      "year": "2026",
+      "kind": "Institutionelle Information"
+    },
+    {
+      "title": "Empfehlungen für die Wiederzulassung zu Gemeinschaftseinrichtungen gemäß § 34 IfSG",
+      "publisher": "Robert Koch-Institut (RKI)",
+      "year": "2025",
+      "kind": "Empfehlung",
+      "url": "https://www.rki.de/DE/Aktuelles/Publikationen/RKI-Ratgeber/Wiederzulassung/Wiederzulassung_Tabelle.html"
+    },
+    {
+      "title": "Infektionsschutzgesetz und Kita: Rechte und Pflichten",
+      "publisher": "Bundeszentrale für gesundheitliche Aufklärung (BZgA), kindergesundheit-info.de",
+      "year": "2025",
+      "kind": "Institutionelle Information",
+      "url": "https://www.kindergesundheit-info.de/fachkraefte/kindergesundheit-in-der-kita/kranke-kinder-in-der-kita/recht-ifsg-kita/"
+    }
+  ],
+  "related": ["fieber-und-infekte", "kinderkrankheiten", "wiedereinstieg-beruf", "kita-eingewoehnung"]
+}

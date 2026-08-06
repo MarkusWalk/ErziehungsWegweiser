@@ -1,0 +1,304 @@
+{
+  "slug": "mobbing",
+  "title": "Mobbing erkennen und handeln",
+  "subtitle": "Woran du Mobbing von einem normalen Streit unterscheidest, welche Schritte wirklich helfen – und warum der direkte Kontakt zu den mobbenden Kindern fast immer schadet.",
+  "phases": ["schulkind"],
+  "topics": ["sicherheit", "emotionen"],
+  "updated": "2026-08-06",
+  "summary": "Mobbing ist kein heftiger Streit, sondern etwas strukturell anderes: Es wiederholt sich, es gibt ein Machtungleichgewicht, und es geschieht absichtlich. Kinder erzählen davon oft spät und wenig, weil sie sich schämen. Was hilft, ist ein ruhiger, dokumentierter Weg über die Schule – von der Klassenleitung über die Schulleitung bis zur Schulaufsicht – und ein Zuhause, das nicht auch noch Lösungsdruck erzeugt. Was nicht hilft: das Gespräch mit den mobbenden Kindern oder deren Eltern auf eigene Faust.",
+  "keyFacts": [
+    "Drei Merkmale unterscheiden Mobbing vom Konflikt: Wiederholung, Machtungleichgewicht, Absicht.",
+    "Rund 14 Prozent der Schülerinnen und Schüler in Deutschland berichten von Mobbingerfahrungen, etwa 7 Prozent von Cybermobbing.",
+    "Kein Kind ist selbst schuld – Mobbing entsteht in Gruppen, nicht in Personen.",
+    "Der Weg führt über die Schule, schriftlich und mit Fristen, nicht über die anderen Eltern.",
+    "Schulische Programme wirken: Sie senken Mobbing im Durchschnitt um etwa ein Sechstel bis ein Fünftel."
+  ],
+  "blocks": [
+    {
+      "type": "p",
+      "lead": true,
+      "text": "Wenn dein Kind erzählt, dass es geärgert wird, ist der erste Impuls oft, es zu beruhigen: Das gibt sich, geh ihnen aus dem Weg, wehr dich einfach. Bei einem Streit ist das oft richtig. Bei Mobbing ist es die falsche Antwort – weil ein gemobbtes Kind aus eigener Kraft nicht herauskommt. Genau das unterscheidet die beiden."
+    },
+    {
+      "type": "section",
+      "heading": "Konflikt oder Mobbing?",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "Die in der Forschung gebräuchliche Definition geht auf den norwegischen Psychologen Dan Olweus zurück und nennt drei Merkmale. Erst wenn alle drei zutreffen, spricht man von Mobbing."
+        },
+        {
+          "type": "list",
+          "ordered": true,
+          "items": [
+            { "title": "Wiederholung:", "text": "Es passiert nicht einmal, sondern über Wochen oder Monate immer wieder – oft in kleinen, für Außenstehende harmlos wirkenden Handlungen." },
+            { "title": "Machtungleichgewicht:", "text": "Das betroffene Kind kann sich nicht wirksam wehren, weil die anderen in der Überzahl sind, älter, stärker oder sozial einflussreicher." },
+            { "title": "Absicht:", "text": "Es geht darum, zu verletzen, auszuschließen oder die eigene Position in der Gruppe zu sichern – nicht um einen Interessengegensatz." }
+          ]
+        },
+        {
+          "type": "comparison",
+          "title": "Der Unterschied im Alltag",
+          "columns": [
+            {
+              "title": "Konflikt",
+              "tone": "neutral",
+              "items": [
+                "Beide Seiten sind wütend und beteiligt",
+                "Kräfteverhältnis ist ungefähr ausgeglichen",
+                "Anlass ist erkennbar: ein Ball, ein Platz, eine Beleidigung",
+                "Danach ist es meist wieder gut",
+                "Kinder können es oft selbst regeln – manchmal mit Hilfe"
+              ]
+            },
+            {
+              "title": "Mobbing",
+              "tone": "bad",
+              "items": [
+                "Eine Seite handelt, die andere erleidet",
+                "Ein Kind steht allein gegen mehrere",
+                "Es braucht keinen Anlass – der Anlass wird gesucht",
+                "Es hört nicht von selbst auf, es steigert sich",
+                "Erwachsene müssen eingreifen, sonst ändert sich nichts"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "evidence",
+          "level": "moderat",
+          "claim": "Mobbing ist an deutschen Schulen verbreitet: In der HBSC-Studie 2022 berichteten rund 14 Prozent der befragten Elf-, Dreizehn- und Fünfzehnjährigen von direkten Mobbingerfahrungen, rund 7 Prozent von Cybermobbing.",
+          "note": "Erhoben an 6.475 Schülerinnen und Schülern in Deutschland. Im Zeitverlauf hat schulisches Mobbing seit 2009/10 abgenommen und ist seit 2017/18 stabil geblieben, während Cybermobbing 2022 zugenommen hat. Besonders betroffen sind Heranwachsende, die sich als gender-divers beschreiben. Für dich heißt das vor allem: Dein Kind ist damit nicht allein, und es gibt an Schulen eingespielte Wege dafür.",
+          "sources": [0, 1]
+        },
+        {
+          "type": "figure",
+          "kind": "bar",
+          "title": "Mobbingerfahrungen von Schülerinnen und Schülern in Deutschland",
+          "alt": "Balkendiagramm: 14 Prozent schulisches Mobbing, 7 Prozent Cybermobbing",
+          "data": [
+            { "label": "Schulisches Mobbing", "value": 14, "display": "14 %" },
+            { "label": "Cybermobbing", "value": 7, "display": "7 %" }
+          ],
+          "caption": "Nach der HBSC-Studie 2022, ausgewertet im Journal of Health Monitoring des Robert Koch-Instituts. Befragt wurden 11-, 13- und 15-jährige Schülerinnen und Schüler; die Cybermobbing-Angabe umfasst Betroffene und Mobbende."
+        }
+      ]
+    },
+    {
+      "type": "section",
+      "heading": "Anzeichen, die du ernst nehmen solltest",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "Die meisten Kinder erzählen nicht von sich aus. Sie schämen sich, sie fürchten, dass es schlimmer wird, oder sie glauben, selbst schuld zu sein. Deshalb kommt der Hinweis meist über das Verhalten."
+        },
+        {
+          "type": "list",
+          "items": [
+            { "title": "Der Weg zur Schule verändert sich:", "text": "Umwege, Verspätungen, plötzlich soll gefahren werden, morgendliche Bauch- oder Kopfschmerzen." },
+            { "title": "Dinge gehen kaputt oder verloren:", "text": "Hefte, Kleidung, Brotdosen – mit vagen Erklärungen." },
+            { "title": "Soziale Landkarte schrumpft:", "text": "Keine Verabredungen mehr, keine Einladungen, das Kind wird nie erwähnt, wenn es um die Klasse geht." },
+            { "title": "Stimmung und Schlaf kippen:", "text": "Gereiztheit, Rückzug, Einschlafprobleme, Albträume, Leistungsabfall." },
+            { "title": "Auffällige Sätze:", "text": "„Ich bin selbst schuld“, „Die haben recht“, „Ich will die Schule wechseln“ – oder betont beiläufige Fragen über andere Kinder, denen etwas passiert." },
+            { "title": "Beim Handy:", "text": "Erschrecken bei Nachrichten, plötzliches Weglegen, Löschen von Verläufen, Wunsch, aus einem Chat auszutreten." }
+          ]
+        },
+        {
+          "type": "callout",
+          "variant": "danger",
+          "title": "Anzeichen seelischer Not – hier nicht abwarten",
+          "text": "Wenn dein Kind Andeutungen über Lebensmüdigkeit macht, sich selbst verletzt, über längere Zeit kaum noch isst oder schläft, sich vollständig zurückzieht oder die Schule gar nicht mehr betreten kann, brauchst du zeitnah fachliche Hilfe – Kinder- und Jugendpsychiatrie, Kinderarztpraxis oder eine Erziehungsberatungsstelle. Dein Kind kann sich anonym und kostenfrei an die **Nummer gegen Kummer, 116 111**, wenden – montags bis samstags nachmittags und abends, ergänzend gibt es eine E-Mail-Beratung. Für dich und für akute Krisen ist die **Telefonseelsorge unter 0800 111 0 111 und 0800 111 0 222** rund um die Uhr erreichbar, das Elterntelefon unter 0800 111 0 550. Bei akuter Selbstgefährdung: 112. Weitere Nummern findest du auf der [Notfallseite](../notfall.html)."
+        }
+      ]
+    },
+    {
+      "type": "section",
+      "heading": "Was Eltern tun – und was nicht",
+      "blocks": [
+        {
+          "type": "steps",
+          "title": "Die ersten Schritte",
+          "items": [
+            { "title": "Glauben und entlasten", "text": "Der wichtigste Satz zuerst: „Ich glaube dir. Das ist nicht deine Schuld, und wir kriegen das nicht allein hin – wir holen Hilfe.“ Keine Nachfragen, was dein Kind getan hat, damit es anfing." },
+            { "title": "Ruhe bewahren, sichtbar", "text": "Deine Panik wird zur zusätzlichen Last. Viele Kinder verschweigen weiteres, um Eltern zu schonen." },
+            { "title": "Mitschreiben", "text": "Ein einfaches Protokoll: Datum, Uhrzeit, Ort, was passiert ist, wer dabei war. Das ist die Grundlage für jedes Gespräch mit der Schule und der Unterschied zwischen einem Eindruck und einem Sachverhalt." },
+            { "title": "Beweise sichern", "text": "Bei digitalen Vorfällen Bildschirmfotos machen, bevor gelöscht wird. Nicht antworten, nicht zurückschreiben." },
+            { "title": "Nichts ohne dein Kind entscheiden", "text": "Sag vorher, was du tun wirst. Ein Kind, das die Kontrolle völlig verliert, erzählt beim nächsten Mal nichts mehr." }
+          ]
+        },
+        {
+          "type": "callout",
+          "variant": "warn",
+          "title": "Was du nicht tun solltest",
+          "items": [
+            "Die mobbenden Kinder direkt ansprechen, abpassen oder anschreiben – das erhöht fast immer den Druck auf dein Kind und beschädigt deine Position gegenüber der Schule.",
+            "Die Eltern der anderen Kinder auf eigene Faust kontaktieren. Solche Gespräche enden meist in gegenseitigen Vorwürfen; sie gehören unter Moderation der Schule.",
+            "Deinem Kind raten, sich körperlich zu wehren. Bei einem Machtungleichgewicht verliert es – und steht am Ende noch als Täter da.",
+            "Auf Ratschläge wie „nicht so empfindlich sein“ oder „einfach ignorieren“ ausweichen. Ignorieren beendet Mobbing nicht.",
+            "Sofort die Schule wechseln, bevor der schulische Weg gegangen wurde. Ein Wechsel kann am Ende richtig sein, löst das Problem aber nicht automatisch – und kann als Niederlage erlebt werden."
+          ]
+        }
+      ]
+    },
+    {
+      "type": "section",
+      "heading": "Der Weg über die Schule",
+      "blocks": [
+        {
+          "type": "evidence",
+          "level": "stark",
+          "claim": "Schulische Antimobbing-Programme wirken. Eine internationale Metaanalyse fand eine Verringerung des Mobbens um etwa 19 bis 20 Prozent und der Betroffenheit um etwa 15 bis 16 Prozent.",
+          "note": "Ausgewertet wurden Programme weltweit; das Olweus-Programm erzielte die größten Effekte auf Täterverhalten. Gemeinsam ist den wirksamen Ansätzen, dass sie die ganze Schule einbeziehen – Regeln, Pausenaufsicht, Klassengespräche, Elternarbeit – statt nur die beteiligten Kinder zu ermahnen. Für dich heißt das: Die Zuständigkeit liegt bei der Schule als Institution, und du darfst diese Zuständigkeit einfordern.",
+          "sources": [2]
+        },
+        {
+          "type": "steps",
+          "title": "Eskalationsstufen – eine nach der anderen",
+          "items": [
+            { "title": "1. Klassenleitung", "text": "Termin vereinbaren, Protokoll mitbringen, sachlich schildern. Am Ende verabreden: Was wird konkret getan, bis wann, wann sprecht ihr wieder? Notiere dir das Ergebnis." },
+            { "title": "2. Ergebnis schriftlich festhalten", "text": "Eine kurze, freundliche E-Mail nach dem Gespräch („So habe ich unsere Verabredung verstanden“). Das ist keine Drohung, sondern schafft eine gemeinsame Grundlage." },
+            { "title": "3. Schulsozialarbeit und Beratungslehrkraft", "text": "Viele Schulen haben Fachkräfte für genau diese Fälle, oft auch ausgebildete Streitschlichterinnen oder ein Konzept wie den No-Blame-Ansatz." },
+            { "title": "4. Schulleitung", "text": "Wenn sich nach der vereinbarten Frist nichts ändert. Die Schulleitung ist verantwortlich für den Schutz aller Schülerinnen und Schüler und kann Ordnungsmaßnahmen ergreifen." },
+            { "title": "5. Schulaufsicht", "text": "Staatliches Schulamt oder die zuständige Behörde des Bundeslandes – der nächste Schritt, wenn die Schule untätig bleibt. Auch Elternvertretung und Schulelternbeirat können eingeschaltet werden." },
+            { "title": "6. Rechtliche Schritte prüfen", "text": "Bei Körperverletzung, Bedrohung oder der Verbreitung von Bildern kann eine Strafanzeige sinnvoll sein. Kinder unter 14 sind nicht strafmündig; schulrechtliche Wege bleiben trotzdem offen. Vorher beraten lassen." }
+          ]
+        },
+        {
+          "type": "callout",
+          "variant": "tip",
+          "title": "Haltung im Elterngespräch",
+          "text": "Auftreten als Verbündete der Schule, nicht als Anklägerin – aber mit klarer Erwartung. Ein Satz, der oft funktioniert: „Ich gehe davon aus, dass wir dasselbe Ziel haben. Was können wir gemeinsam bis zu den Herbstferien konkret verändern?“ Verzichte auf Forderungen nach Bestrafung einzelner Kinder; wirksam sind Maßnahmen auf Klassenebene."
+        }
+      ]
+    },
+    {
+      "type": "section",
+      "heading": "Cybermobbing",
+      "blocks": [
+        {
+          "type": "evidence",
+          "level": "moderat",
+          "claim": "Cybermobbing hat in Deutschland zuletzt zugenommen, während schulisches Mobbing stabil blieb. Europaweit berichtet etwa jedes sechste schulpflichtige Kind von Cybermobbing-Erfahrungen.",
+          "note": "Zahlen aus der HBSC-Studie 2022 und dem darauf beruhenden WHO-Bericht für die Europäische Region. Cybermobbing ist meist keine eigene Welt, sondern die Fortsetzung dessen, was in der Schule passiert – deshalb löst ein Handyverbot es nicht. Der entscheidende Unterschied zum analogen Mobbing: Es endet nicht am Schultor, es hat Publikum, und es hinterlässt Spuren, die sich sichern lassen.",
+          "sources": [0, 5]
+        },
+        {
+          "type": "list",
+          "items": [
+            { "title": "Sichern statt löschen:", "text": "Bildschirmfotos mit Datum und Absender. Erst danach blockieren und melden." },
+            { "title": "Melden nutzen:", "text": "Jede Plattform hat Meldefunktionen. Ergänzend gibt es Beschwerdestellen wie die Internet-Beschwerdestelle und jugendschutz.net." },
+            { "title": "Nicht antworten:", "text": "Reaktionen sind der Treibstoff. Das gilt auch für Verteidigungen durch Eltern in Gruppenchats." },
+            { "title": "Die Schule ist zuständig:", "text": "Auch wenn der Vorfall nachmittags im Netz passiert – sobald er die Klassengemeinschaft betrifft, gehört er in die Schule." },
+            { "title": "Bilder ernst nehmen:", "text": "Die Verbreitung von Aufnahmen kann strafbar sein, ebenso Beleidigung und Bedrohung. Hier lohnt sich Beratung." }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "section",
+      "heading": "Dein Kind stärken, ohne es zu reparieren",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "Ein verbreiteter Irrtum ist, dass gemobbte Kinder etwas an sich ändern müssten. Mobbing entsteht in Gruppen und dient meistens der Statussicherung der Mobbenden – nicht als Reaktion auf eine Eigenschaft. Trotzdem kannst du außerhalb der Schule etwas tun, das trägt."
+        },
+        {
+          "type": "list",
+          "items": [
+            "Einen zweiten sozialen Ort schaffen: Verein, Musikgruppe, Feuerwehrjugend – ein Umfeld, in dem dein Kind nicht die Rolle aus der Klasse hat.",
+            "Freundschaften zu einzelnen Kindern der Klasse gezielt unterstützen; ein Verbündeter verändert die Lage erheblich.",
+            "Zu Hause den Blick auf Stärken lenken, ohne das Thema zu meiden oder ständig anzusprechen.",
+            "Wenn dein Kind will: Selbstbehauptungskurs – wegen der Körperhaltung und der Erfahrung, laut sein zu dürfen.",
+            "Psychotherapeutische Unterstützung ist kein Eingeständnis, dass mit deinem Kind etwas nicht stimmt."
+          ]
+        }
+      ]
+    },
+    {
+      "type": "section",
+      "heading": "Häufige Fragen",
+      "blocks": [
+        {
+          "type": "faq",
+          "items": [
+            {
+              "q": "Mein Kind will nicht, dass ich mit der Schule spreche. Was tue ich?",
+              "a": "Nimm die Angst ernst – ungeschickte Interventionen können die Lage verschärfen. Aber Geheimhaltung ist keine Option: Mobbing hört ohne Erwachsene nicht auf. Ein Kompromiss ist, gemeinsam festzulegen, was du erzählst und wen du ansprichst, und im Gespräch mit der Klassenleitung den Schutz vor Bloßstellung ausdrücklich zum Thema zu machen."
+            },
+            {
+              "q": "Woher weiß ich, ob es wirklich Mobbing ist oder nur Zickereien?",
+              "a": "Prüfe die drei Merkmale: Wiederholt es sich über Wochen? Steht dein Kind allein gegen mehrere oder gegen jemanden mit deutlich mehr Einfluss? Und: Kann es die Situation aus eigener Kraft beenden? Wenn die letzte Frage mit Nein zu beantworten ist, handle – unabhängig davon, welches Wort man dafür benutzt."
+            },
+            {
+              "q": "Die Schule sagt, mein Kind sei auch nicht ganz unschuldig. Wie reagiere ich?",
+              "a": "Das kann stimmen und ändert nichts an der Verantwortung der Schule. Sinnvoll ist, den Punkt anzunehmen („Wenn mein Kind sich unmöglich verhält, sprechen wir darüber“) und ihn zugleich zu trennen („Und unabhängig davon muss die Ausgrenzung aufhören“). Wenn Verhalten und Schutz vermischt werden, wird das betroffene Kind mitverantwortlich gemacht – dagegen darfst du deutlich werden."
+            },
+            {
+              "q": "Sollen wir die Schule wechseln?",
+              "a": "Manchmal ja – wenn die Schule trotz Eskalation nichts unternimmt, wenn die Rolle in der Klasse verfestigt ist oder wenn dein Kind gesundheitlich leidet. Dann ist ein Wechsel kein Rückzug, sondern Schutz. Bereite ihn vor: neue Schule vorher besuchen, gemeinsam entscheiden, mit der neuen Klassenleitung sprechen."
+            },
+            {
+              "q": "Was, wenn mein eigenes Kind mobbt?",
+              "a": "Das ist unangenehm und wichtig. Wirksam ist eine klare Ansage ohne Beschämung: Das Verhalten hört auf, es gibt Wiedergutmachung, und ihr sprecht darüber, was es deinem Kind gebracht hat. Kinder mobben oft, um in der Gruppe nicht selbst unten zu stehen – dahinter steckt häufig eigene Unsicherheit. Arbeite mit der Schule zusammen, statt dein Kind zu verteidigen; das schützt es langfristig am besten."
+            },
+            {
+              "q": "Wie helfe ich als Elternteil eines Kindes, das nur zusieht?",
+              "a": "Zuschauende Kinder sind der entscheidende Hebel. Sprich mit deinem Kind darüber, dass Nichtstun Mobbing verlängert, und gib ihm handhabbare Möglichkeiten: nicht mitlachen, das betroffene Kind danach ansprechen, sich neben es setzen, einer erwachsenen Person Bescheid geben. Verlange kein Heldentum – schon kleine Signale verändern die Gruppendynamik."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "callout",
+      "variant": "info",
+      "title": "Kurz gesagt",
+      "text": "Prüfe die drei Merkmale, glaube deinem Kind, schreib mit und geh den schulischen Weg Stufe für Stufe – schriftlich und mit Fristen. Lass die Finger von den anderen Kindern und deren Eltern. Und sorge dafür, dass dein Kind neben der Schule noch einen Ort hat, an dem es jemand anderes sein darf."
+    }
+  ],
+  "sources": [
+    {
+      "title": "Mobbing und Cybermobbing an Schulen in Deutschland: Ergebnisse der HBSC-Studie 2022 und Trends von 2009/10 bis 2022",
+      "publisher": "Journal of Health Monitoring, Robert Koch-Institut",
+      "year": "2024",
+      "kind": "Studie",
+      "url": "https://www.rki.de/DE/Aktuelles/Publikationen/Journal-of-Health-Monitoring/GBEDownloadsJ/Focus/JHealthMonit_2024_01_Mobbing.html"
+    },
+    {
+      "title": "Journal of Health Monitoring 1/2024 – Mobbing und Cybermobbing (Volltext)",
+      "publisher": "Robert Koch-Institut, edoc-Server",
+      "year": "2024",
+      "kind": "Studie",
+      "url": "https://edoc.rki.de/handle/176904/11545"
+    },
+    {
+      "title": "Examining the Effectiveness of School-Bullying Intervention Programs Globally: a Meta-analysis",
+      "publisher": "International Journal of Bullying Prevention (Gaffney, Ttofi & Farrington)",
+      "year": "2019",
+      "kind": "Metaanalyse",
+      "url": "https://link.springer.com/content/pdf/10.1007/s42380-019-0007-4.pdf"
+    },
+    {
+      "title": "Mobbing an Schulen – Sachstand",
+      "publisher": "Wissenschaftliche Dienste des Deutschen Bundestages",
+      "year": "2018",
+      "kind": "Institutionelle Information",
+      "url": "https://www.bundestag.de/resource/blob/592494/4ee825520cb3b29d7a6c0b6555f01657/WD-9-056-18-pdf-data.pdf"
+    },
+    {
+      "title": "Nummer gegen Kummer – kostenfreie Beratung für Kinder, Jugendliche und Eltern",
+      "publisher": "Nummer gegen Kummer e. V.",
+      "year": "2025",
+      "kind": "Institutionelle Information",
+      "url": "https://www.nummergegenkummer.de/"
+    },
+    {
+      "title": "One in six school-aged children experiences cyberbullying, finds new WHO/Europe study",
+      "publisher": "Weltgesundheitsorganisation, Regionalbüro für Europa",
+      "year": "2024",
+      "kind": "Institutionelle Information",
+      "url": "https://www.who.int/europe/de/news/item/27-03-2024-one-in-six-school-aged-children-experiences-cyberbullying--finds-new-who-europe-study"
+    }
+  ],
+  "related": ["mediennutzung-schulkind", "freundschaften", "leistungsdruck", "angst-und-mut"]
+}

@@ -43,6 +43,9 @@ const SPECIMEN_SLOTS = [
 /* Vor dem ersten Seitenaufbau bereitstehen: die Seitenbauer greifen darauf zu. */
 const SPECIMENS = loadSpecimens();
 
+/* Slugs der Entwürfe, die loadArticles() aussortiert hat. */
+const drafts = [];
+
 const articles = loadArticles();
 const byPhase = groupBy(articles, (a) => a.phases || []);
 const byTopic = groupBy(articles, (a) => a.topics || []);
@@ -79,6 +82,9 @@ if (warnings.length) {
   log(`  ${warnings.length} Hinweis(e):`);
   warnings.slice(0, 40).forEach((w) => log(`    · ${w}`));
   if (warnings.length > 40) log(`    · … und ${warnings.length - 40} weitere`);
+}
+if (drafts.length) {
+  log(`  ${drafts.length} Entwurf/Entwürfe nicht veröffentlicht: ${drafts.join(', ')}`);
 }
 log(`\n  Fertig → docs/\n`);
 
@@ -828,6 +834,14 @@ function loadArticles() {
     }
     if (seen.has(article.slug)) {
       warn(`${file}: doppelter Slug "${article.slug}"`);
+      continue;
+    }
+    /* Entwürfe bleiben im Repo, erscheinen aber nicht auf der Seite.
+       Gedacht für Artikel, deren Belege noch nicht gegengeprüft werden
+       konnten – ein Kompendium, das Belegbarkeit verspricht, darf keine
+       unüberprüften Quellen ausliefern. */
+    if (article.draft) {
+      drafts.push(article.slug);
       continue;
     }
     seen.add(article.slug);

@@ -1,0 +1,232 @@
+{
+  "slug": "wickeln-und-hautpflege",
+  "title": "Wickeln, Hautpflege und Windelbereich",
+  "subtitle": "Warum Babyhaut fast nichts braucht, was gegen einen wunden Po wirklich hilft – und wie du Milchschorf, Kopfgneis und Neugeborenenakne auseinanderhältst.",
+  "phases": ["neugeborenes", "saeugling"],
+  "topics": ["gesundheit"],
+  "updated": "2026-08-06",
+  "summary": "Die Haut deines Babys ist kein Pflegefall, sondern ein Organ, das gerade lernt, sich selbst zu schützen. Für den Alltag heißt das: selten baden, wenig Produkt, häufig wickeln und viel Luft. Ein wunder Po entsteht fast immer durch Feuchtigkeit und Reibung, nicht durch mangelnde Hygiene – und die meisten Hautveränderungen der ersten Monate verschwinden von allein. Dieser Artikel ordnet ein, was belegt hilft, was nur teuer ist und wo der Punkt liegt, an dem du in der Praxis anrufen solltest.",
+  "keyFacts": [
+    "Zwei- bis dreimal Baden pro Woche reicht völlig – tägliches Baden trocknet die Haut eher aus.",
+    "Der Nabelrest wird trocken und luftig gehalten, nicht desinfiziert oder eingecremt.",
+    "Gegen wunden Po hilft vor allem: oft wickeln, gründlich trocknen, Luft lassen, dünn Zinkpaste.",
+    "Kopfgneis und Neugeborenenakne sind harmlos und heilen ohne Behandlung ab.",
+    "Regelmäßiges Eincremen gesunder Babyhaut beugt keiner Neurodermitis vor – das ist gut untersucht."
+  ],
+  "blocks": [
+    {
+      "type": "p",
+      "lead": true,
+      "text": "Kaum ein Bereich der Babyausstattung ist so voll mit Produkten wie die Pflege – und kaum einer braucht so wenig davon. Die Haut eines Neugeborenen ist dünner als die eines Erwachsenen und baut ihren eigenen Schutzmantel in den ersten Lebenswochen erst auf. Alles, was diesen Aufbau stört, macht die Sache eher schwieriger: zu heißes Wasser, zu viel Seife, zu viel Creme. Der Satz, der dich durch das erste Jahr trägt, lautet deshalb: weniger, aber regelmäßig hinschauen."
+    },
+    {
+      "type": "callout",
+      "variant": "danger",
+      "title": "Damit gehst du nicht in Ruhe ins Wochenende",
+      "text": "Ärztlich abklären lassen, ohne zu warten: **eine gerötete, geschwollene oder übel riechende Nabelumgebung**, besonders wenn dazu Fieber oder ein auffällig schlappes Kind kommt – das kann eine Nabelinfektion sein. Ebenso **Bläschen, Eiterpusteln oder großflächig nässende, offene Stellen im Windelbereich**, ein **Ausschlag mit Fieber bei einem Neugeborenen** und jede Hautveränderung, die sich innerhalb weniger Stunden deutlich ausbreitet. Bei Säuglingen unter drei Monaten gilt Fieber grundsätzlich als sofortiger Anlass für ärztlichen Rat – mehr dazu im Artikel **Fieber und Infekte richtig einschätzen**."
+    },
+    {
+      "type": "section",
+      "heading": "Was Babyhaut wirklich braucht",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "Gesunde Babyhaut braucht Wasser, gelegentlich ein mildes Waschmittel für die wirklich verschmutzten Stellen und ansonsten Ruhe. Die berühmte Käseschmiere, mit der viele Kinder auf die Welt kommen, ist ein natürlicher Schutzfilm und darf einziehen, statt abgewaschen zu werden. In den ersten Wochen genügt es meist, Gesicht, Hals-, Achsel- und Windelfalten mit einem weichen Waschlappen und klarem Wasser zu säubern. Gebadet wird zwei- bis dreimal pro Woche, kurz, in etwa körperwarmem Wasser."
+        },
+        {
+          "type": "evidence",
+          "level": "stark",
+          "claim": "Regelmäßiges Eincremen von gesunder Babyhaut in den ersten Lebensmonaten verhindert keine Neurodermitis und keine Nahrungsmittelallergie. In der Zusammenschau der Studien erhöhte es sogar leicht das Risiko für Hautinfektionen.",
+          "note": "Eine Cochrane-Übersicht wertete dafür Dutzende randomisierte Studien mit über 25.000 reif geborenen Kindern aus. Die Idee, mit früher Basispflege die Hautbarriere zu trainieren und so Allergien vorzubeugen, hat sich nicht bestätigt. Das heißt nicht, dass Cremen schädlich ist – trockene Stellen darfst du pflegen. Es heißt: Du musst es nicht als Vorbeugung tun.",
+          "sources": [0]
+        },
+        {
+          "type": "callout",
+          "variant": "tip",
+          "title": "Praktische Faustregeln für die ersten Monate",
+          "items": [
+            "Badewasser körperwarm, Badedauer wenige Minuten – Babys kühlen schnell aus.",
+            "Waschzusätze sind verzichtbar; wenn, dann sparsam und ohne Duftstoffe.",
+            "Nach dem Bad tupfen statt rubbeln, besonders in den Hautfalten.",
+            "Cremes nur auf trockene oder raue Stellen, nicht flächendeckend als Ritual.",
+            "Je kürzer die Zutatenliste, desto weniger potenzielle Auslöser für Kontaktreaktionen."
+          ]
+        }
+      ]
+    },
+    {
+      "type": "section",
+      "heading": "Der Windelbereich: warum Kinder wund werden",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "Ein wunder Po ist keine Frage der Sorgfalt. Er entsteht, wenn Feuchtigkeit, Reibung und der Kontakt mit Urin und Stuhl zusammenkommen: Der Urin verschiebt den Säureschutz der Haut, Enzyme aus dem Stuhl greifen die aufgeweichte Oberfläche an, und die Windel reibt. Deshalb häufen sich wunde Stellen genau dann, wenn sich der Stuhl ändert – beim Beikoststart, bei Durchfall, bei Zahnungsphasen mit dünnerem Stuhl und unter Antibiotika."
+        },
+        {
+          "type": "steps",
+          "title": "Wenn der Po gerötet ist",
+          "items": [
+            { "title": "Häufiger wickeln", "text": "Der wirksamste Hebel überhaupt: Die Haut soll so kurz wie möglich in einer nassen Windel liegen. Nachts einmal mehr wechseln lohnt sich in dieser Phase." },
+            { "title": "Mit Wasser reinigen", "text": "Klares Wasser und ein Waschlappen sind schonender als Feuchttücher. Wenn Tücher, dann parfümfreie – und bei entzündeter Haut lieber gar keine." },
+            { "title": "Wirklich trocken werden lassen", "text": "Vorsichtig trockentupfen, auch in den Leistenfalten. Restfeuchte unter der Creme ist der häufigste Fehler." },
+            { "title": "Luft, so oft es geht", "text": "Ein paar Minuten ohne Windel auf einer Wickelunterlage, tagsüber mehrmals. Nichts ersetzt das." },
+            { "title": "Dünn abdecken", "text": "Eine dünne Schicht Zinkpaste oder eine Wundschutzcreme legt sich als Barriere zwischen Haut und Feuchtigkeit. Dick aufgetragen bringt sie nichts Zusätzliches, macht aber die Windel dicht." },
+            { "title": "Nach zwei bis drei Tagen bilanzieren", "text": "Wird es nicht besser, breitet es sich über die Hautfalten hinaus aus, kommen Bläschen, weiße Beläge oder ein scharf begrenzter roter Rand mit kleinen Satellitenflecken dazu, gehört das angeschaut. Dahinter steckt oft ein Hefepilz, der eine andere Behandlung braucht." }
+          ]
+        },
+        {
+          "type": "evidence",
+          "level": "moderat",
+          "claim": "Die wirksamsten Maßnahmen bei Windeldermatitis sind unspektakulär: kurze Kontaktzeit mit Urin und Stuhl, milde Reinigung, Luft und eine dünne Barriereschicht mit Zinkoxid oder Dexpanthenol. Länger bestehende Windeldermatitiden sind häufig zusätzlich mit Hefepilzen besiedelt und brauchen dann ein antimykotisches Präparat.",
+          "note": "Die Windeldermatitis ist ein irritatives Kontaktekzem – also eine Reizung, keine Allergie und keine Infektion im ersten Schritt. Welches Präparat bei deinem Kind passt und ob eine Pilzbehandlung nötig ist, entscheidet die Kinderarztpraxis; Dosierungen und Anwendungsdauer gehören dorthin und nicht in einen Ratgeber.",
+          "sources": [1, 2]
+        },
+        {
+          "type": "callout",
+          "variant": "myth",
+          "title": "Was du dir sparen kannst",
+          "text": "Puder verklumpt mit Feuchtigkeit und wird deshalb heute in der Säuglingspflege kaum noch empfohlen. Desinfizierende Zusätze, Öle mit vielen Duftkomponenten und dick aufgetragene Salben lösen das Problem nicht, sondern verschließen die Haut. Und Windelmarken sind selten der Punkt: Wenn eine Sorte auffällig oft zu Rötungen führt, kannst du wechseln – ein teureres Produkt ist aber kein Wirkprinzip."
+        }
+      ]
+    },
+    {
+      "type": "section",
+      "heading": "Nabel, Bad und die ersten Wochen",
+      "blocks": [
+        {
+          "type": "timeline",
+          "title": "Was wann dran ist",
+          "entries": [
+            { "age": "Erste Tage", "label": "Nabel trocken halten", "text": "Der Nabelrest wird sauber und trocken gehalten, nicht routinemäßig desinfiziert. Die Windel wird unterhalb des Nabels umgeschlagen, damit Luft herankommt. Statt Vollbad reicht Waschen mit dem Waschlappen." },
+            { "age": "5.–10. Lebenstag", "label": "Der Nabelrest fällt ab", "text": "Meist in der zweiten Lebenswoche, oft mit einem kleinen Blutfleck in der Windel. Danach darf gebadet werden. Ein leicht nässender Nabel für ein bis zwei Tage ist normal – Rötung ringsum, Schwellung, Geruch oder Fieber sind es nicht." },
+            { "age": "2.–6. Lebenswoche", "label": "Neugeborenenakne", "text": "Kleine rote Pickelchen an Wangen, Stirn und Kinn, ausgelöst durch die mütterlichen Hormone. Sie heilen ohne Behandlung und ohne Narben ab. Nicht ausdrücken, nicht mit Akneprodukten behandeln." },
+            { "age": "1.–3. Lebensmonat", "label": "Kopfgneis", "text": "Weiche, gelbliche, fettige Schuppen auf der Kopfhaut. Harmlos, juckt nicht, verschwindet von allein. Wer will, weicht die Schuppen mit etwas Öl auf und kämmt sie später sanft aus – Kratzen ist unnötig." },
+            { "age": "Ab dem 3. Monat", "label": "Milchschorf", "text": "Feste, gelbbraune Krusten mit geröteter, entzündeter Haut darunter, die jucken und nässen können. Anders als Kopfgneis ist das ein Ekzem und kann ein erster Hinweis auf eine Neigung zu Neurodermitis sein – das gehört in der Praxis angesprochen." },
+            { "age": "Ganzes erstes Jahr", "label": "Sonne meiden statt eincremen", "text": "Säuglinge gehören nicht in die direkte Sonne. Schatten, Kleidung und Hut sind der Schutz der ersten Wahl, Sonnencreme nur die Ergänzung für Restflächen." }
+          ],
+          "caption": "Zeitlicher Überblick nach den Elterninformationen der Bundeszentrale für gesundheitliche Aufklärung. Die Spannen sind Richtwerte – Kinder halten sich nicht an Kalender."
+        }
+      ]
+    },
+    {
+      "type": "section",
+      "heading": "Kopfgneis, Milchschorf, Neurodermitis: der Unterschied",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "Diese drei Begriffe werden ständig verwechselt, und das hat Folgen: Kopfgneis wird behandelt, obwohl er harmlos ist, und ein juckendes Ekzem wird als Kopfgneis abgetan, obwohl es Hilfe bräuchte. Der Unterschied liegt weniger in der Farbe der Schuppen als in zwei Fragen: Juckt es, und ist die Haut darunter entzündet?"
+        },
+        {
+          "type": "comparison",
+          "title": "Woran du die drei unterscheidest",
+          "columns": [
+            {
+              "title": "Kopfgneis – harmlos",
+              "tone": "good",
+              "items": [
+                "Weiche, fettige, gelbliche Schuppen auf der Kopfhaut",
+                "Beginnt oft schon in den ersten Lebenswochen",
+                "Juckt nicht, das Kind ist unbeeindruckt",
+                "Haut darunter nicht entzündet",
+                "Braucht keine Behandlung"
+              ]
+            },
+            {
+              "title": "Milchschorf und Neurodermitis – behandelbar",
+              "tone": "neutral",
+              "items": [
+                "Feste, krustige Auflagerungen, Haut darunter gerötet",
+                "Beginnt meist erst ab dem dritten Lebensmonat",
+                "Juckt – Kinder reiben den Kopf, schlafen schlechter",
+                "Später typisch: trockene Ekzeme an Wangen, Streckseiten, in Ellenbeugen und Kniekehlen",
+                "Gehört ärztlich angeschaut, nicht mit Hausmitteln durchgehalten"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "evidence",
+          "level": "stark",
+          "claim": "Bei Neurodermitis ist die konsequente Basispflege mit rückfettenden Externa der Grundstein jeder Behandlung – auch in beschwerdefreien Phasen. Bei entzündeten Schüben werden nach ärztlicher Anordnung zusätzlich antientzündliche Präparate eingesetzt.",
+          "note": "Das ist der wichtige Unterschied zur gesunden Babyhaut: Vorbeugend bringt Eincremen wenig, bei bereits bestehender Neurodermitis ist es die Basis. Viele Eltern haben Angst vor cortisonhaltigen Cremes und behandeln deshalb zu kurz und zu zaghaft – die Leitlinie beschreibt eine kontrollierte, zeitlich begrenzte Anwendung als etabliert und sicher. Sprich diese Sorge in der Praxis offen an, statt sie mit dir allein auszumachen.",
+          "sources": [3]
+        }
+      ]
+    },
+    {
+      "type": "section",
+      "heading": "Häufige Fragen",
+      "blocks": [
+        {
+          "type": "faq",
+          "items": [
+            {
+              "q": "Muss ich mein Baby jeden Abend baden, damit es zur Ruhe kommt?",
+              "a": "Musst du nicht. Wenn das Bad für euch ein schönes Abendritual ist, spricht nichts dagegen, es kurz zu halten und danach nur die trockenen Stellen zu pflegen. Wenn es Stress macht, lass es weg: Zwei- bis dreimal pro Woche ist völlig ausreichend, und ein Ritual funktioniert auch mit Vorlesen und gedämpftem Licht."
+            },
+            {
+              "q": "Feuchttücher oder Wasser und Waschlappen?",
+              "a": "Bei gesunder Haut sind beide vertretbar, unterwegs sind Tücher schlicht praktischer. Bei geröteter oder wunder Haut ist Wasser deutlich schonender, weil die Reibung und die Inhaltsstoffe wegfallen. Wenn du Tücher nutzt: parfümfrei und ohne Konservierungsstoffe, die als Kontaktallergene bekannt sind."
+            },
+            {
+              "q": "Der Po ist trotz allem seit Tagen rot – was jetzt?",
+              "a": "Nach zwei bis drei Tagen konsequenter Grundmaßnahmen ohne Besserung lohnt der Weg in die Praxis. Vor allem, wenn die Rötung scharf begrenzt ist, weiße Beläge oder kleine rote Flecken am Rand hat oder in die Hautfalten hineinreicht – das spricht für eine Pilzbesiedlung, gegen die eine normale Wundschutzcreme nichts ausrichtet."
+            },
+            {
+              "q": "Darf ich den Kopfgneis abmachen?",
+              "a": "Du darfst, du musst aber nicht. Sanftes Aufweichen mit etwas Öl und späteres Auskämmen mit einer weichen Bürste ist unbedenklich. Kratzen oder mit dem Kamm reißen solltest du nicht – dabei entstehen kleine Wunden, die sich entzünden können. Und wenn es juckt oder darunter entzündet aussieht, ist es kein Kopfgneis mehr."
+            },
+            {
+              "q": "Unsere Familie hat Neurodermitis. Kann ich vorbeugen?",
+              "a": "Nicht durch Cremen, das ist inzwischen gut untersucht. Was in der Allergievorbeugung tatsächlich empfohlen wird, betrifft eher Ernährung, Rauchfreiheit und Impfungen – dazu findest du mehr im Artikel über Allergievorbeugung. Beobachte die Haut deines Kindes aufmerksam und lass dir früh helfen, wenn Ekzeme auftreten, statt monatelang selbst zu probieren."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "callout",
+      "variant": "info",
+      "title": "Kurz gesagt",
+      "text": "Wenig Produkt, wenig Bad, viel Luft und häufiges Wickeln – damit deckst du den größten Teil der Hautpflege im ersten Jahr ab. Was von allein kommt, geht meist auch von allein: Neugeborenenakne und Kopfgneis brauchen nichts. Was juckt, entzündet ist oder sich schnell ausbreitet, braucht dagegen keine Geduld, sondern einen Termin."
+    }
+  ],
+  "sources": [
+    {
+      "title": "Skin care interventions in infants for preventing eczema and food allergy",
+      "publisher": "Cochrane Database of Systematic Reviews (Kelleher MM et al.)",
+      "year": "2022",
+      "kind": "Metaanalyse",
+      "url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD013534.pub3/full"
+    },
+    {
+      "title": "S1-Leitlinie Kontaktekzem (AWMF-Register-Nr. 013-055)",
+      "publisher": "AWMF / Deutsche Dermatologische Gesellschaft",
+      "year": "2021",
+      "kind": "Leitlinie",
+      "url": "https://register.awmf.org/assets/guidelines/013-055l_S1_Kontaktekzem_2021-11.pdf"
+    },
+    {
+      "title": "Hautprobleme bei Babys",
+      "publisher": "Bundeszentrale für gesundheitliche Aufklärung (BZgA), kindergesundheit-info.de",
+      "year": "2024",
+      "kind": "Institutionelle Information",
+      "url": "https://www.kindergesundheit-info.de/themen/entwicklung/0-12-monate/babys-pflege/hautprobleme/"
+    },
+    {
+      "title": "S3-Leitlinie Atopische Dermatitis (Neurodermitis, atopisches Ekzem), AWMF-Register-Nr. 013-027",
+      "publisher": "AWMF / Deutsche Dermatologische Gesellschaft",
+      "year": "2023",
+      "kind": "Leitlinie",
+      "url": "https://register.awmf.org/de/leitlinien/detail/013-027"
+    },
+    {
+      "title": "Babys Pflege – Baden, Wickeln, Hautpflege",
+      "publisher": "Bundeszentrale für gesundheitliche Aufklärung (BZgA), kindergesundheit-info.de",
+      "year": "2024",
+      "kind": "Institutionelle Information",
+      "url": "https://www.kindergesundheit-info.de/themen/entwicklung/0-12-monate/babys-pflege/"
+    }
+  ],
+  "related": ["die-ersten-tage", "allergien-vorbeugen", "u-untersuchungen", "erstausstattung"]
+}

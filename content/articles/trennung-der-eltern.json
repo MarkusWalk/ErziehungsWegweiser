@@ -1,0 +1,247 @@
+{
+  "slug": "trennung-der-eltern",
+  "title": "Wenn Eltern sich trennen",
+  "subtitle": "Warum nicht die Trennung selbst über die Folgen für Kinder entscheidet, sondern das Konfliktniveau danach – und wie du erklärst, tröstest und ein tragfähiges Modell findest.",
+  "phases": ["kleinkind", "kindergarten", "schulkind"],
+  "topics": ["familie", "besondere-situationen"],
+  "updated": "2026-08-06",
+  "summary": "Kinder kommen mit einer Trennung überraschend gut zurecht, wenn zwei Dinge stimmen: Der Konflikt zwischen den Eltern bleibt begrenzt, und der Alltag wird wieder verlässlich. Beides ist beeinflussbar – die Trennung selbst nicht mehr. Dieser Artikel zeigt, was Kinder in welchem Alter verstehen, wie du es sagst, wie Loyalitätskonflikte entstehen und was sich über Betreuungsmodelle seriös sagen lässt.",
+  "keyFacts": [
+    "Der stärkste Einflussfaktor auf Kinder ist nicht die Trennung, sondern anhaltender, offen ausgetragener Elternkonflikt.",
+    "Kinder brauchen eine kurze, wahre Erklärung – und die ausdrückliche Entlastung, dass sie nicht schuld sind.",
+    "Loyalitätskonflikte entstehen leise: durch Seufzer, Nachfragen und Botengänge, nicht nur durch Beschimpfungen.",
+    "Kein Betreuungsmodell ist für alle Kinder das beste; entscheidend sind Verlässlichkeit, Alter und die Kooperationsfähigkeit der Eltern.",
+    "Beratung nach dem SGB VIII bei Jugendamt und Erziehungsberatungsstellen ist kostenlos, freiwillig und unabhängig vom Gericht."
+  ],
+  "blocks": [
+    {
+      "type": "p",
+      "lead": true,
+      "text": "In den Wochen um eine Trennung herum stellen sich Eltern fast immer dieselbe Frage: Wie sehr schadet das meinem Kind? Die ehrliche Antwort aus der Forschung ist unbequem und entlastend zugleich – im Durchschnitt sind die Unterschiede zwischen Kindern getrennter und zusammenlebender Eltern kleiner, als der öffentliche Ton vermuten lässt. Was groß wird, ist etwas anderes: der Streit, der bleibt."
+    },
+    {
+      "type": "section",
+      "heading": "Der entscheidende Faktor ist nicht die Trennung",
+      "blocks": [
+        {
+          "type": "evidence",
+          "level": "stark",
+          "claim": "Nicht die Trennung selbst, sondern das Ausmaß und die Art des elterlichen Konflikts sowie die Verlässlichkeit des Alltags danach sagen am besten voraus, wie es Kindern geht.",
+          "note": "Metaanalysen und Übersichtsarbeiten seit Amato und Keith finden im Mittel kleine Nachteile für Kinder getrennter Eltern. Diese Unterschiede schrumpfen deutlich, sobald Konfliktniveau, finanzielle Lage und Erziehungsverhalten berücksichtigt werden. Ein Teil der Belastung zeigt sich außerdem schon Jahre vor der Trennung – sie stammt aus der Konfliktphase, nicht aus dem Auszug. Kinder in dauerhaft hochstrittigen, zusammenlebenden Familien schneiden schlechter ab als Kinder in ruhigen Trennungsfamilien.",
+          "sources": [0, 1, 2]
+        },
+        {
+          "type": "evidence",
+          "level": "moderat",
+          "claim": "Der Weg vom Elternkonflikt zum Kind führt vor allem über zwei Kanäle: über die emotionale Sicherheit des Kindes und über eine schlechtere Verfügbarkeit der Eltern im Alltag.",
+          "note": "Eine Metaanalyse zu Trennungsfamilien zeigt, dass sich der Zusammenhang zwischen Elternkonflikt und kindlicher Anpassung zu einem erheblichen Teil über das Erziehungsverhalten erklärt: Wer gerade im Dauerstreit steckt, ist weniger geduldig, weniger präsent, weniger feinfühlig. Das ist keine Schuldzuweisung, sondern der Hebel – jede Entlastung des Konflikts kommt beim Kind zweimal an.",
+          "sources": [1, 6]
+        }
+      ]
+    },
+    {
+      "type": "section",
+      "heading": "Wie du es erklärst",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "Sagt es nach Möglichkeit gemeinsam, an einem ruhigen Tag, nicht kurz vor dem Kindergarten und nicht abends im Bett. Kurz, wahr, ohne Details über Schuld. Und danach: dableiben. Die Reaktion kommt selten sofort."
+        },
+        {
+          "type": "steps",
+          "title": "Das Gespräch",
+          "items": [
+            { "title": "Die Tatsache", "text": "„Papa und ich werden nicht mehr zusammen wohnen. Wir haben uns entschieden, uns zu trennen.“ Kein Konjunktiv, keine Hoffnungstür offen lassen, wenn die Entscheidung steht." },
+            { "title": "Die Entlastung", "text": "„Das hat nichts mit dir zu tun. Du bist nicht schuld, und du kannst es auch nicht ändern.“ Diesen Satz brauchen Kinder mehrfach, nicht einmal." },
+            { "title": "Die Sicherheit", "text": "„Wir bleiben beide deine Eltern. Wir haben dich beide lieb, und das hört nie auf.“" },
+            { "title": "Das Konkrete", "text": "Wo schläfst du, wann siehst du wen, was bleibt gleich? Kinder fragen nach Kuscheltier, Kita und Freundin – nicht nach Gefühlen." },
+            { "title": "Der Raum für Wut", "text": "Ärger, Schweigen, Gleichgültigkeit, Rückfall in Babysprache: alles erlaubt. „Du darfst sauer auf uns sein.“" }
+          ]
+        },
+        {
+          "type": "timeline",
+          "title": "Was Kinder je nach Alter verstehen und zeigen",
+          "entries": [
+            { "age": "1–3 Jahre", "label": "Spürt die Stimmung, versteht die Erklärung nicht", "text": "Reagiert über Schlaf, Essen, Anklammern und Trotz. Braucht vor allem gleichbleibende Abläufe und vertraute Gegenstände in beiden Wohnungen." },
+            { "age": "3–6 Jahre", "label": "Bezieht alles auf sich", "text": "Magisches Denken: „Wenn ich lieb bin, kommt Papa zurück.“ Häufig Rückschritte beim Sauberwerden oder Einschlafen. Braucht kurze, immer gleiche Sätze und einen sichtbaren Kalender." },
+            { "age": "6–9 Jahre", "label": "Trauert offen, will vermitteln", "text": "Wünscht sich die Eltern zurück zusammen, entwickelt Loyalitätsgefühle, sorgt sich um den traurigeren Elternteil. Braucht die Erlaubnis, Kind zu bleiben." },
+            { "age": "9–12 Jahre", "label": "Sucht Erklärungen und Schuldige", "text": "Kann parteiisch werden, urteilt moralisch, zieht sich zu Freundschaften zurück. Braucht Ehrlichkeit ohne Details über die Paarebene." }
+          ],
+          "caption": "Typische Muster aus der entwicklungspsychologischen Literatur zu Trennungsfolgen; einzelne Kinder weichen erheblich ab. Reaktionen zeigen sich oft erst Wochen später."
+        }
+      ]
+    },
+    {
+      "type": "section",
+      "heading": "Loyalitätskonflikte: die stille Belastung",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "Ein Loyalitätskonflikt ist der Zustand, in dem ein Kind glaubt, sich entscheiden zu müssen: Wenn ich Mama liebe, verrate ich Papa. Kinder halten das schlecht aus. Sie lösen es meistens, indem sie sich anpassen – bei jedem Elternteil das sagen, was gerade gefragt ist. Was wie Unehrlichkeit aussieht, ist Selbstschutz."
+        },
+        {
+          "type": "comparison",
+          "title": "Was Loyalitätskonflikte erzeugt – und was sie auflöst",
+          "columns": [
+            {
+              "title": "Belastet",
+              "tone": "bad",
+              "items": [
+                "Ausfragen nach der Rückkehr: Wer war da, was habt ihr gemacht, gibt es eine Neue?",
+                "Abwertung des anderen Elternteils, auch ironisch oder per Seufzer",
+                "Nachrichten über das Kind ausrichten lassen",
+                "Traurigkeit zeigen, wenn das Kind zum anderen aufbricht",
+                "Das Kind fragen, bei wem es lieber wohnen möchte"
+              ]
+            },
+            {
+              "title": "Entlastet",
+              "tone": "good",
+              "items": [
+                "„Erzähl, wenn du magst“ – ohne Nachhaken",
+                "Über den anderen Elternteil neutral bis freundlich sprechen",
+                "Erwachsenenthemen zwischen Erwachsenen klären, notfalls schriftlich",
+                "Beim Abschied Freude zeigen: „Schön, dass du hinfährst.“",
+                "Entscheidungen als Elternentscheidung markieren: „Das haben wir für dich entschieden.“"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "callout",
+          "variant": "warn",
+          "title": "Wann Kinder professionelle Begleitung brauchen",
+          "text": "Anhaltende Schlafstörungen, Rückzug über Wochen, deutlicher Leistungseinbruch, Kopf- und Bauchschmerzen ohne Befund, aggressive Ausbrüche oder wenn ein Kind den Kontakt zu einem Elternteil vollständig ablehnt: Das sind Gründe für einen Termin in einer Erziehungsberatungsstelle oder bei einer Kinder- und Jugendlichenpsychotherapeutin – nicht für Abwarten. Beratung ist kostenlos und unabhängig von einem laufenden Verfahren."
+        }
+      ]
+    },
+    {
+      "type": "section",
+      "heading": "Betreuungsmodelle: was sich sagen lässt",
+      "blocks": [
+        {
+          "type": "table",
+          "title": "Drei gängige Modelle",
+          "head": ["Modell", "Wie es aussieht", "Worauf es besonders ankommt"],
+          "rows": [
+            ["Residenzmodell", "Hauptwohnsitz bei einem Elternteil, regelmäßiger Umgang mit dem anderen, oft am Wochenende.", "Dass der Umgang wirklich stattfindet. Verlässlichkeit schlägt Umfang."],
+            ["Wechselmodell", "Annähernd gleiche Betreuungsanteile, etwa wöchentlicher Wechsel.", "Zwei kindgerechte Wohnungen in erreichbarer Nähe, funktionierende Absprachen, doppelte Ausstattung – und ein Kind, das mitmacht."],
+            ["Nestmodell", "Das Kind bleibt in der Wohnung, die Eltern wechseln.", "Hohe Kosten und viel Kooperation; meist eine Übergangslösung für die erste Zeit."]
+          ],
+          "caption": "Keine Rangfolge. Das rechtlich und praktisch passende Modell hängt von Alter, Entfernung, Arbeitszeiten und Konfliktniveau ab."
+        },
+        {
+          "type": "evidence",
+          "level": "umstritten",
+          "claim": "Studien zum Wechselmodell finden im Durchschnitt gleich gute oder bessere Ergebnisse für Kinder als beim Residenzmodell. Daraus lässt sich aber keine allgemeine Empfehlung ableiten.",
+          "note": "Übersichten über mehrere Dutzend Studien zeigen überwiegend Vorteile für das Wechselmodell. Der Haken ist die Selbstauswahl: Familien, die es praktizieren, haben häufiger höheres Einkommen, geringere Konflikte und wohnen näher beieinander. Auswertungen mit deutschen Daten weisen ebenfalls auf diese Selektion hin. Für Familien mit hohem Konfliktniveau oder sehr kleinen Kindern lässt sich der Befund nicht einfach übertragen – dort zählt Kontinuität mehr als Symmetrie.",
+          "sources": [3, 4]
+        },
+        {
+          "type": "callout",
+          "variant": "tip",
+          "title": "Praktisch entlastend",
+          "items": [
+            "Einen gemeinsamen digitalen Kalender führen; das Kind sieht dort, wann es wo ist.",
+            "Basisausstattung doppelt anschaffen, damit nicht jedes Wochenende Packlisten produziert.",
+            "Übergaben an einem neutralen Ort – Kita, Schule, Sportverein – reduzieren Spannungen deutlich.",
+            "Absprachen alle paar Monate überprüfen: Was für ein Dreijähriges passt, passt mit acht nicht mehr."
+          ]
+        }
+      ]
+    },
+    {
+      "type": "section",
+      "heading": "Häufige Fragen",
+      "blocks": [
+        {
+          "type": "faq",
+          "items": [
+            {
+              "q": "Sollen wir bis nach Weihnachten oder bis zum Schuljahresende warten?",
+              "a": "Ein ruhiger Zeitpunkt ist besser als ein hektischer, aber monatelanges Aushalten mit dicker Luft belastet Kinder mehr als eine klare Ansage. Kinder spüren die Trennung meist lange vor der Mitteilung."
+            },
+            {
+              "q": "Mein Kind fragt nicht nach. Ist das gut oder schlecht?",
+              "a": "Weder noch. Manche Kinder verarbeiten schweigend, andere schieben Fragen wochenlang auf. Halte die Tür offen, indem du selbst gelegentlich beiläufig etwas ansprichst – beim Autofahren oder Spülen, nicht im Gespräch unter vier Augen am Küchentisch."
+            },
+            {
+              "q": "Darf mein Kind entscheiden, bei wem es wohnt?",
+              "a": "Seine Sicht gehört gehört – die Entscheidung nicht. Kinder vor die Wahl zu stellen, erzeugt genau den Loyalitätskonflikt, den man vermeiden will. Ab dem Schulalter fließen Wünsche in Beratung und gegebenenfalls gerichtliche Verfahren ein, ohne dass das Kind die Verantwortung trägt."
+            },
+            {
+              "q": "Wann darf ich meinem Kind eine neue Partnerin oder einen neuen Partner vorstellen?",
+              "a": "Eine feste Frist gibt es nicht. Sinnvoll ist, zu warten, bis die Beziehung stabil ist und das Kind den neuen Alltag verdaut hat – häufig sind das viele Monate. Beginne mit unverfänglichen gemeinsamen Aktivitäten, nicht mit Übernachtungen."
+            },
+            {
+              "q": "Der andere Elternteil hält Absprachen nicht ein. Was mache ich?",
+              "a": "Trenne die Ebenen: Für dein Kind zählt, dass du nicht abwertest und dass du keine Versprechen des anderen weitergibst, die du nicht garantieren kannst. Für die Sache gibt es Beratung beim Jugendamt und Erziehungsberatungsstellen, danach gegebenenfalls Mediation oder den gerichtlichen Weg."
+            },
+            {
+              "q": "Wir streiten trotz Trennung ständig. Ist es zu spät?",
+              "a": "Nein. Der Konflikt ist die veränderbare Größe, und genau dort setzen Beratung und Mediation an. Auch eine Reduktion auf sachliche, schriftliche Kommunikation ist ein Gewinn für dein Kind – Freundschaft ist nicht das Ziel."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "callout",
+      "variant": "info",
+      "title": "Kurz gesagt",
+      "text": "Du kannst die Trennung nicht rückgängig machen, aber du bestimmst über die drei Dinge, die für dein Kind zählen: wie viel Streit es mitbekommt, wie verlässlich sein Alltag ist und ob es beide Eltern lieben darf, ohne sich zu entschuldigen."
+    }
+  ],
+  "sources": [
+    {
+      "title": "Parental Divorce and Children's Adjustment",
+      "publisher": "Perspectives on Psychological Science (Lansford)",
+      "year": "2009",
+      "kind": "Übersichtsarbeit",
+      "url": "https://local.psy.miami.edu/faculty/dmessinger/c_c/rsrcs/rdgs/emot/landsford.PerspectivesonPsychologicalScience-2009-Lansford-140-52.pdf"
+    },
+    {
+      "title": "A meta-analysis on interparental conflict, parenting, and child adjustment in divorced families",
+      "publisher": "Clinical Psychology Review (van Dijk et al.)",
+      "year": "2020",
+      "kind": "Metaanalyse",
+      "url": "https://www.sciencedirect.com/science/article/pii/S0272735820300490"
+    },
+    {
+      "title": "An Overview of the Risks and Protectors for Children of Separation and Divorce (mit den Metaanalysen von Amato und Keith)",
+      "publisher": "Department of Justice Canada",
+      "year": "2002",
+      "kind": "Übersichtsarbeit",
+      "url": "https://www.justice.gc.ca/eng/rp-pr/fl-lf/divorce/2002_2/p3.html"
+    },
+    {
+      "title": "Joint Versus Sole Physical Custody: Children's Outcomes Independent of Parent-Child Relationships, Income, and Conflict in 60 Studies",
+      "publisher": "Journal of Divorce & Remarriage (Nielsen)",
+      "year": "2018",
+      "kind": "Übersichtsarbeit",
+      "url": "https://www.tandfonline.com/doi/abs/10.1080/10502556.2018.1454204"
+    },
+    {
+      "title": "Shared Physical Custody After Parental Separation: Evidence from Germany",
+      "publisher": "Springer (Shared Physical Custody, Life Course Research and Social Policies)",
+      "year": "2021",
+      "kind": "Studie",
+      "url": "https://link.springer.com/chapter/10.1007/978-3-030-68479-2_13"
+    },
+    {
+      "title": "Welche Unterstützung gibt es für getrennt erziehende und alleinerziehende Eltern?",
+      "publisher": "Familienportal des Bundes (BMBFSFJ)",
+      "year": "2026",
+      "kind": "Institutionelle Information",
+      "url": "https://familienportal.de/familienportal/lebenslagen/trennung/allein-und-getrennt-erziehende-eltern/welche-unterstuetzung-gibt-es-fuer-getrennt-erziehende-und-alleinerziehende-eltern--126044"
+    },
+    {
+      "title": "Emotional Security Theory",
+      "publisher": "Current Directions in Psychological Science (Cummings und Miller-Graff)",
+      "year": "2015",
+      "kind": "Übersichtsarbeit",
+      "url": "https://journals.sagepub.com/doi/abs/10.1177/0963721414561510"
+    }
+  ],
+  "related": ["streit-vor-den-kindern", "alleinerziehend", "rituale-und-struktur", "emotionen-benennen"]
+}

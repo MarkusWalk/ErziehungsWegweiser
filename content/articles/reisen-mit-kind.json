@@ -1,0 +1,251 @@
+{
+  "slug": "reisen-mit-kind",
+  "title": "Reisen mit Kind",
+  "subtitle": "Autofahrten mit sinnvollen Pausen, Fliegen mit Säugling ohne Ohrendrama, Zeitverschiebung überstehen, eine Reiseapotheke, die zum Kind passt – und was vor einer Fernreise wirklich vorbereitet gehört.",
+  "phases": ["neugeborenes", "saeugling", "kleinkind", "kindergarten"],
+  "topics": ["familie", "sicherheit"],
+  "updated": "2026-08-06",
+  "summary": "Reisen mit kleinen Kindern ist kein Urlaub im alten Sinn, sondern Alltag an einem anderen Ort – wer das vorher weiß, ist hinterher weniger enttäuscht. Praktisch entscheiden vier Dinge über den Verlauf: großzügig geplante Pausen im Auto, ein eigener Sitzplatz und Saugen beim Fliegen, Geduld bei der Zeitumstellung und eine Reiseapotheke, die auf dein Kind zugeschnitten ist. Vor Fernreisen kommt der Impfschutz dazu – und der braucht Vorlauf, nicht die letzte Woche.",
+  "keyFacts": [
+    "Im Auto alle ein bis anderthalb Stunden eine echte Pause außerhalb des Sitzes einplanen.",
+    "Sehr junge Säuglinge sollten nur kurze Strecken in der halbliegenden Babyschale verbringen.",
+    "Im Flugzeug ist ein eigener Sitzplatz mit zugelassenem Kindersitz sicherer als das Kind auf dem Schoß.",
+    "Saugen, Trinken oder Stillen bei Start und Sinkflug hilft beim Druckausgleich.",
+    "Reiseimpfungen sollten rund 10 bis 14 Tage vor der Abreise abgeschlossen sein; die Beratung beginnt Wochen früher."
+  ],
+  "blocks": [
+    {
+      "type": "p",
+      "lead": true,
+      "text": "Die häufigste Enttäuschung beim Reisen mit kleinen Kindern ist nicht das Wetter, sondern die Erwartung. Ein zweijähriges Kind ist am Meer genauso zweijährig wie zu Hause: Es braucht seinen Mittagsschlaf, seine Routinen und ungefähr alle vierzig Minuten etwas Neues. Wenn du das einplanst, kann eine Reise mit Kind sehr schön sein. Wenn du Erholung im Erwachsenensinn erwartest, wird es anstrengend."
+    },
+    {
+      "type": "callout",
+      "variant": "warn",
+      "title": "Auch am Urlaubsort gilt die Sitzpflicht",
+      "text": "Mietwagen, Taxi, Shuttle, das Auto der Großeltern: Dein Kind gehört in ein passendes Rückhaltesystem, auch für die zehn Minuten vom Flughafen zum Hotel. Mietsitze sind oft alt, verschmutzt oder unklarer Historie – prüfe Prüfzeichen und Einbau selbst, oder nimm den eigenen Sitz mit. Alles zu Normen, Einbaufehlern und rückwärtsgerichtetem Fahren steht im Artikel zu Autositz und Unterwegs."
+    },
+    {
+      "type": "section",
+      "heading": "Auto: Pausen sind kein Luxus",
+      "blocks": [
+        {
+          "type": "evidence",
+          "level": "moderat",
+          "claim": "Säuglinge sollten nicht zu lange am Stück in der Babyschale liegen. In den ersten Lebensmonaten werden nur kurze Strecken empfohlen; ab etwa dem sechsten Monat gilt die Faustregel, nach rund 90 Minuten Fahrzeit eine Pause außerhalb des Sitzes einzulegen.",
+          "note": "Der Hintergrund ist die halbliegende Position: Sie drückt bei sehr jungen Säuglingen auf den Brustkorb und kann die Atmung erschweren. Die konkreten Minutenangaben sind Fachkonsens und keine harten Studiendaten – die Richtung ist aber unstrittig. Praktisch: lieber vier kurze Pausen als zwei lange, und wenn ein Baby in der Schale auffällig still oder schlaff wirkt, sofort anhalten und herausnehmen.",
+          "sources": [0, 4]
+        },
+        {
+          "type": "list",
+          "ordered": false,
+          "items": [
+            { "title": "Pausen mit Bewegung:", "text": "Nicht nur Wickeln und Trinken, sondern zehn Minuten laufen, krabbeln, tragen. Der Körper braucht die Lageänderung mehr als das Kind die Unterhaltung." },
+            { "title": "Fahrzeiten realistisch rechnen:", "text": "Rechne mit einem Drittel mehr Zeit, als der Navi sagt. Wer den Puffer einplant, fährt entspannter und hält die Pausen tatsächlich ein." },
+            { "title": "Nachtfahrten sind kein Geheimtipp:", "text": "Das Kind schläft vielleicht, du aber bist müde – und Übermüdung am Steuer ist ein reales Unfallrisiko. Wenn nachts, dann mit zwei fahrtüchtigen Erwachsenen und Fahrerwechsel." },
+            { "title": "Hitze mitdenken:", "text": "Sonnenschutz an den Scheiben, Gurtschloss und Metallteile vor dem Anschnallen prüfen, viel zu trinken anbieten. Und: Auch für zwei Minuten bleibt kein Kind allein im Auto." },
+            { "title": "Nichts Loses im Innenraum:", "text": "Trinkflaschen, Tablets und Spielzeug werden bei einer Vollbremsung zu Geschossen. Weiches Zeug in Reichweite, alles Harte in den Kofferraum." }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "section",
+      "heading": "Fliegen mit Säugling und Kleinkind",
+      "blocks": [
+        {
+          "type": "evidence",
+          "level": "moderat",
+          "claim": "Aus Sicherheitssicht ist ein eigener Sitzplatz mit einem für den Luftverkehr zugelassenen Kindersitz die bessere Lösung als ein Kind auf dem Schoß mit Schlaufengurt.",
+          "note": "Bei starken Turbulenzen oder einer harten Landung kann ein nicht eigenständig gesichertes Kind nicht festgehalten werden; der Schlaufengurt ist zwar in Europa zugelassen, wird von Fachleuten aber kritisch gesehen. Ein eigener Sitz kostet mehr – das ist die ehrliche Abwägung. Wer ihn nicht bucht: Gurtzeichen ernst nehmen und das Kind während Start, Landung und Turbulenzen nicht stillen oder auf dem Bauch liegen lassen.",
+          "sources": [5]
+        },
+        {
+          "type": "steps",
+          "title": "Der Flug in vier Etappen",
+          "items": [
+            { "title": "Vor dem Flug", "text": "Erkältet mit deutlich verstopfter Nase oder gar mit einer Mittelohrentzündung sollte dein Kind nicht fliegen – der Druckausgleich funktioniert dann nicht. Kläre das vorher kinderärztlich ab, statt es am Gate zu entscheiden." },
+            { "title": "Start", "text": "Etwa ab dem Rollen zur Startbahn saugen lassen: Brust, Flasche, Schnuller, Trinkbecher. Ältere Kinder können an einem Strohhalm trinken, gähnen oder kauen. Schlafende Babys musst du dafür nicht wecken – Schlucken passiert auch im Schlaf." },
+            { "title": "Reiseflug", "text": "Die Luft ist sehr trocken: regelmäßig trinken anbieten. Ein Wechselset Kleidung für alle, Snacks und ein bis zwei unbekannte Kleinigkeiten zum Auspacken retten mehr Stunden als jedes Tablet." },
+            { "title": "Sinkflug", "text": "Das ist der kritische Teil, nicht der Start. Sobald der Sinkflug beginnt – meist eine gute halbe Stunde vor der Landung –, wieder saugen oder trinken lassen und bis zum Aufsetzen dabeibleiben." }
+          ]
+        },
+        {
+          "type": "callout",
+          "variant": "tip",
+          "title": "Handgepäck, das sich lohnt",
+          "text": "Windeln für die doppelte erwartete Zeit, zwei Wechselsets, Feuchttücher, Müllbeutel, Fläschchen oder abgepumpte Milch, Trinkbecher, Snacks ohne Krümel, Schmerz- und Fiebersaft in erlaubter Menge, Dokumente und Impfausweis. Alles Wichtige gehört ins Handgepäck – nicht in den Koffer, der auch mal einen Tag später ankommt."
+        }
+      ]
+    },
+    {
+      "type": "section",
+      "heading": "Zeitverschiebung und Schlaf",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "Als Faustregel braucht der Körper etwa einen Tag pro Stunde Zeitverschiebung, bis der Rhythmus wieder stimmt. Bei Säuglingen unter etwa sechs Monaten ist das noch kein großes Thema, weil ihr Tag-Nacht-Rhythmus ohnehin locker ist. Danach hilft vor allem Licht: Tageslicht am Vormittag zieht den Rhythmus nach vorn, Licht am Abend schiebt ihn nach hinten. Und ganz praktisch: Stell die Uhr sofort nach der Landung um und lebe konsequent nach der neuen Zeit, auch beim Essen."
+        },
+        {
+          "type": "list",
+          "ordered": false,
+          "items": [
+            "Die gewohnte Abendroutine vollständig beibehalten – sie ist das stärkste Signal, das dein Kind hat",
+            "Das vertraute Schlafobjekt und ein dunkles Zimmer mitdenken, notfalls mit Mülltüten und Klebeband improvisieren",
+            "Tagsüber raus ins Licht, statt im abgedunkelten Zimmer zu bleiben",
+            "Mittagsschlaf im Zweifel etwas kürzen statt streichen",
+            "Die ersten zwei bis drei Nächte einplanen als das, was sie sind: durchwachsen"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "section",
+      "heading": "Fernreisen: Impfschutz, Mücken, Vorbereitung",
+      "blocks": [
+        {
+          "type": "evidence",
+          "level": "stark",
+          "claim": "Ein reisendes Kind sollte grundsätzlich denselben Impfschutz haben wie ein erwachsener Reisender; die Kriterien für Reiseimpfungen sind dieselben. Der Impfplan sollte etwa 10 bis 14 Tage vor der Abreise abgeschlossen sein, weil der Impfschutz diese Zeit zum Aufbau braucht.",
+          "note": "Basis ist immer die vollständige Grundimmunisierung nach STIKO-Impfkalender – die wird auf Reisen nicht durch Sonderimpfungen ersetzt, sondern ergänzt. Für Kinder unter fünf Jahren und für Ziele mit Malariarisiko empfiehlt die Deutsche Gesellschaft für Tropenmedizin ausdrücklich eine individuelle reisemedizinische Beratung.",
+          "sources": [1, 2]
+        },
+        {
+          "type": "timeline",
+          "title": "Vorbereitung einer Fernreise mit Kind",
+          "entries": [
+            { "age": "8–10 Wochen vorher", "label": "Reisemedizinische Beratung", "text": "Termin in einer reisemedizinischen oder tropenmedizinischen Sprechstunde. Impflücken schließen, Malariasituation am Zielort klären, chronische Erkrankungen besprechen." },
+            { "age": "6–4 Wochen vorher", "label": "Impfungen und Dokumente", "text": "Impfserien beginnen, Reisepass und Kinderausweis prüfen, Auslandskrankenversicherung mit Rücktransport abschließen, Einreisebestimmungen beim Auswärtigen Amt nachlesen." },
+            { "age": "2 Wochen vorher", "label": "Reiseapotheke", "text": "Apotheke aufsuchen und die Reiseapotheke fürs Kind zusammenstellen, Rezepte für Dauermedikamente in ausreichender Menge besorgen." },
+            { "age": "10–14 Tage vorher", "label": "Impfschutz komplett", "text": "Ab hier sollte die letzte Impfung erfolgt sein, damit der Schutz zur Abreise steht." },
+            { "age": "Letzte Tage", "label": "Mückenschutz und Packen", "text": "Imprägniertes Moskitonetz, langärmelige helle Kleidung und ein für das Alter geeignetes Repellent besorgen. Handgepäck packen, Kopien der Dokumente digital hinterlegen." }
+          ],
+          "caption": "Zeitachse nach den Empfehlungen der Deutschen Gesellschaft für Tropenmedizin, Reisemedizin und Globale Gesundheit (DTG). Bei kurzfristigen Reisen ist eine Beratung trotzdem sinnvoll – auch spät ist besser als gar nicht."
+        },
+        {
+          "type": "callout",
+          "variant": "warn",
+          "title": "Malaria: kein Bereich für Eigenrecherche",
+          "text": "Auch ein voll gestilltes Baby braucht in Malariagebieten eine eigene Prophylaxe – über die Muttermilch wird es nicht geschützt. Der wichtigste Teil ist die Expositionsprophylaxe: imprägniertes Moskitonetz über Bett und Spielfläche, lange Kleidung, geeignete Repellents. Welche Medikamente für welches Gewicht und welches Ziel infrage kommen, gehört ausschließlich in die reisemedizinische Beratung – Säuglinge und Kinder unter fünf Jahren gelten als besonders gefährdet."
+        }
+      ]
+    },
+    {
+      "type": "section",
+      "heading": "Reiseapotheke fürs Kind",
+      "blocks": [
+        {
+          "type": "checklist",
+          "id": "reiseapotheke",
+          "title": "Checkliste Reiseapotheke",
+          "items": [
+            "Fieber- und Schmerzmittel in kindgerechter Darreichungsform (Saft oder Zäpfchen)",
+            "Elektrolytlösung zum Anrühren bei Durchfall und Erbrechen",
+            "Fieberthermometer",
+            "Wund- und Heilsalbe, Desinfektionsmittel, Pflaster, sterile Kompressen, elastische Binde",
+            "Kochsalz-Nasentropfen und abschwellende Nasentropfen fürs Kindesalter",
+            "Sonnenschutz mit hohem Lichtschutzfaktor und Mittel gegen Sonnenbrand",
+            "Insektenschutz, für das Alter geeignet, und ein Gel gegen Stiche",
+            "Dauermedikamente in ausreichender Menge plus Reserve, im Handgepäck",
+            "Impfausweis, Allergiepass, Notfallnummern, Auslandskrankenschein"
+          ]
+        },
+        {
+          "type": "callout",
+          "variant": "danger",
+          "title": "Keine Dosierung aus dem Internet und keine Erwachsenenmedikamente",
+          "text": "Dosierungen für Kinder richten sich nach Gewicht, nicht nach Alter, und Teilen von Erwachsenentabletten ist keine Lösung. Lass dir die Reiseapotheke in der Apotheke oder in der kinderärztlichen Praxis zusammenstellen und die Anwendung schriftlich mitgeben. Wichtiger als jede Tablette ist außerdem eine Nummer, unter der du am Zielort ärztliche Hilfe erreichst – kläre vor der Reise, wie das dort funktioniert."
+        }
+      ]
+    },
+    {
+      "type": "section",
+      "heading": "Häufige Fragen",
+      "blocks": [
+        {
+          "type": "faq",
+          "items": [
+            {
+              "q": "Ab welchem Alter kann ein Baby fliegen?",
+              "a": "Die meisten Fluggesellschaften nehmen Säuglinge ab etwa einer Woche mit, viele empfehlen aber, die ersten Wochen abzuwarten. Medizinisch spricht bei einem gesunden, reifgeborenen Baby wenig gegen einen Flug. Bei Frühgeborenen, Herz- oder Lungenerkrankungen gehört die Frage vorher in die kinderärztliche Praxis."
+            },
+            {
+              "q": "Braucht mein Kleinkind einen eigenen Reisepass?",
+              "a": "Ja. Kinder brauchen ein eigenes Reisedokument, ein Eintrag im Elternpass reicht seit Jahren nicht mehr. Kinderreisepässe sind ausgelaufen; prüf frühzeitig, welches Dokument für euer Ziel gefordert ist, und rechne mit Bearbeitungszeit. Bei Reisen mit nur einem Elternteil kann eine Einverständniserklärung des anderen sinnvoll sein."
+            },
+            {
+              "q": "Was tun, wenn mein Kind im Urlaub Durchfall bekommt?",
+              "a": "Das Wichtigste ist Flüssigkeit, nicht Medikament: Elektrolytlösung anbieten, weiter stillen oder Flasche geben, kleine Mengen häufig. Ärztlich vorstellen solltest du dein Kind bei Blut im Stuhl, hohem Fieber, Erbrechen über Stunden, deutlicher Schlappheit oder wenn ein Säugling betroffen ist. Zeichen von Austrocknung sind trockene Lippen, wenig nasse Windeln und eine eingesunkene Fontanelle."
+            },
+            {
+              "q": "Ist es sinnvoll, den Schlafrhythmus vor der Reise anzupassen?",
+              "a": "Bei kurzen Zeitverschiebungen bringt es wenig Aufwand-Nutzen-Verhältnis. Bei mehr als vier Stunden kann es helfen, in den drei bis vier Tagen davor täglich um etwa eine halbe Stunde in Richtung Zielzeit zu verschieben. Wenn das in deinem Alltag nicht realistisch ist, ist das kein Problem – vor Ort geht es dann eben zwei Tage länger."
+            },
+            {
+              "q": "Lohnt sich Fernreisen mit einem Kleinkind überhaupt?",
+              "a": "Ehrliche Antwort: Dein Kind wird sich nicht daran erinnern. Ihr vielleicht schon. Wenn ihr die Reise für euch macht, mit realistischen Erwartungen und genug Puffer, ist das ein guter Grund. Wenn ihr sie macht, damit das Kind etwas davon hat, ist ein Ferienhaus mit Sandkasten oft die bessere Wahl."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "callout",
+      "variant": "info",
+      "title": "Kurz gesagt",
+      "text": "Pausen großzügig planen, im Flugzeug saugen lassen und wenn möglich einen eigenen Sitz buchen, nach der Landung sofort in der neuen Zeit leben, die Reiseapotheke fachlich zusammenstellen lassen. Und beim Programm eine Sache pro Tag – mehr geht mit kleinen Kindern selten gut."
+    }
+  ],
+  "sources": [
+    {
+      "title": "Mit dem Baby bei Hitze Auto fahren",
+      "publisher": "ADAC",
+      "year": "2024",
+      "kind": "Institutionelle Information",
+      "url": "https://www.adac.de/gesundheit/gesund-unterwegs/strasse/mit-baby-bei-hitze-autofahren/"
+    },
+    {
+      "title": "Reisen mit Kindern – Hinweise zu Impfungen und Prophylaxe",
+      "publisher": "Deutsche Gesellschaft für Tropenmedizin, Reisemedizin und Globale Gesundheit (DTG)",
+      "year": "2024",
+      "kind": "Empfehlung",
+      "url": "https://dtg.org/kinder.html"
+    },
+    {
+      "title": "Empfehlungen zur Malariavorbeugung",
+      "publisher": "Deutsche Gesellschaft für Tropenmedizin, Reisemedizin und Globale Gesundheit (DTG)",
+      "year": "2022",
+      "kind": "Empfehlung",
+      "url": "https://www.dtg.org/images/Startseite-Download-Box/2022_DTG_Empfehlungen_Malaria.pdf"
+    },
+    {
+      "title": "Empfehlungen zu Reiseimpfungen",
+      "publisher": "Deutsche Gesellschaft für Tropenmedizin, Reisemedizin und Globale Gesundheit (DTG)",
+      "year": "2022",
+      "kind": "Empfehlung",
+      "url": "https://dtg.org/images/Startseite-Download-Box/2022_DTG_Empfehlungen_Reiseimpfungen.pdf"
+    },
+    {
+      "title": "Was gehört in die Reiseapotheke für Babys und Kinder?",
+      "publisher": "ADAC",
+      "year": "2024",
+      "kind": "Institutionelle Information",
+      "url": "https://www.adac.de/gesundheit/gesund-unterwegs/flugzeug-schiff/reiseapotheke-fuer-kinder-und-babys/"
+    },
+    {
+      "title": "Kindersitz im Flugzeug – Sicherheit für Baby und Kleinkind",
+      "publisher": "swissmom",
+      "year": "2024",
+      "kind": "Institutionelle Information",
+      "url": "https://www.swissmom.ch/de/familie/unterwegs-mit-baby-und-kind/kindersitz-im-flugzeug-16122"
+    },
+    {
+      "title": "Gesundheitsinfos für Auslandsreisen",
+      "publisher": "Bundesministerium für Gesundheit",
+      "year": "2024",
+      "kind": "Institutionelle Information",
+      "url": "https://www.bundesgesundheitsministerium.de/themen/praevention/sommerzeit-reisezeit"
+    }
+  ],
+  "related": ["autositz-und-unterwegs", "sonnenschutz-und-hitze", "impfungen", "schlaf-kleinkind"]
+}

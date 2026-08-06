@@ -1,0 +1,252 @@
+{
+  "slug": "schulstart",
+  "title": "Der Schulstart",
+  "subtitle": "Wie du den Übergang von der Kita in die Schule begleitest, ohne ihn größer zu machen, als er ist – und was in den ersten Wochen wirklich hilft.",
+  "phases": ["schulkind"],
+  "topics": ["entwicklung", "familie"],
+  "updated": "2026-08-06",
+  "summary": "Der Schulstart ist kein Wettbewerb, sondern eine Umstellung: neue Räume, neue Menschen, ein neuer Tagesrhythmus und zum ersten Mal ein Ort, an dem dein Kind ohne dich zurechtkommen muss. Die meisten Kinder schaffen das – aber sie sind dabei erschöpft, dünnhäutig und manchmal überraschend anhänglich. Was hilft, ist wenig: verlässliche Abläufe, ein geübter Schulweg, genug Leerlauf am Nachmittag und Eltern, die zuhören, ohne sofort zu bewerten.",
+  "keyFacts": [
+    "Die ersten sechs bis acht Wochen kosten Kraft – Müdigkeit, Reizbarkeit und Rückschritte sind normal.",
+    "Den Schulweg vorher mehrfach gemeinsam gehen, zu der Zeit, zu der er später wirklich gegangen wird.",
+    "Feste Abläufe entlasten mehr als feste Uhrzeiten.",
+    "Der Nachmittag braucht Leerlauf, nicht noch einen Kurs.",
+    "Bauchschmerzen am Morgen ernst nehmen – aber nicht mit Zuhausebleiben beantworten."
+  ],
+  "blocks": [
+    {
+      "type": "p",
+      "lead": true,
+      "text": "Zwischen dem letzten Kita-Tag und dem ersten Schultag liegen ein paar Wochen Ferien – und ein ziemlich großer Sprung. Dein Kind wechselt von einem Ort, an dem es das älteste und routinierteste war, an einen Ort, an dem es wieder ganz unten anfängt. Dazu kommen: stillsitzen, zuhören, warten, einer fremden Erwachsenen vertrauen, den eigenen Ranzen im Blick behalten. Dass das anstrengend ist, sieht man den meisten Kindern erst nachmittags an."
+    },
+    {
+      "type": "section",
+      "heading": "Was der Übergang wirklich von deinem Kind verlangt",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "Schulfähigkeit ist weniger eine Frage von Buchstaben und Zahlen als von Alltagsfertigkeiten. Fast alles davon lässt sich vorher ganz nebenbei üben – ohne Übungshefte, ohne Vorschul-Programm."
+        },
+        {
+          "type": "list",
+          "items": [
+            { "title": "Sich selbst versorgen:", "text": "Jacke, Schuhe, Toilette, Brotdose öffnen, Trinkflasche zuschrauben." },
+            { "title": "Sachen wiederfinden:", "text": "Der Ranzen ist kein Rucksack, sondern ein System. Gemeinsam einräumen, nicht für das Kind einräumen." },
+            { "title": "Um Hilfe bitten:", "text": "Eine erwachsene Person ansprechen, die man kaum kennt – das ist für viele Kinder die höchste Hürde. Übe es beim Bäcker." },
+            { "title": "Warten aushalten:", "text": "Nicht sofort drankommen, nicht sofort verstanden werden. Frustration in kleinen Dosen ist hier Training." },
+            { "title": "Den Weg kennen:", "text": "Nicht nur die Strecke, sondern die Entscheidungen darauf – wo wird gequert, wo ist es eng." }
+          ]
+        },
+        {
+          "type": "callout",
+          "variant": "tip",
+          "title": "Vor dem ersten Schultag",
+          "items": [
+            "Das Schulgebäude und den Hof außerhalb der Unterrichtszeit besuchen – Schaukel ausprobieren, Toiletten anschauen.",
+            "Herausfinden, welche Kinder aus der Kita in dieselbe Klasse kommen, und ein Treffen in den Ferien organisieren.",
+            "Etwa eine Woche vorher den Rhythmus anpassen: früher ins Bett, früher aufstehen, damit der erste Schultag kein Schlafdefizit trifft.",
+            "Den Ranzen einmal komplett packen und tragen lassen – nicht am ersten Morgen zum ersten Mal."
+          ]
+        }
+      ]
+    },
+    {
+      "type": "section",
+      "heading": "Die ersten Wochen: was normal ist",
+      "blocks": [
+        {
+          "type": "timeline",
+          "title": "Ein üblicher Verlauf der ersten Monate",
+          "entries": [
+            {
+              "age": "Woche 1–2",
+              "label": "Aufregung und Hochstimmung",
+              "text": "Alles ist neu und meist spannend. Viele Kinder wirken euphorisch – und kippen abends unvermittelt in Tränen oder Wut. Das ist Entladung, kein Alarmzeichen."
+            },
+            {
+              "age": "Woche 3–6",
+              "label": "Der Durchhänger",
+              "text": "Die Neuheit ist weg, die Anstrengung bleibt. Typisch: „Ich will nicht mehr hin“, Müdigkeit, Streit um Kleinigkeiten, wieder mehr Nähe suchen, manchmal nachts wieder einnässen."
+            },
+            {
+              "age": "Woche 6–10",
+              "label": "Einpendeln",
+              "text": "Abläufe sitzen, erste Freundschaften stabilisieren sich, das Kind kann sagen, wie der Tag war. Der Kraftbedarf sinkt spürbar."
+            },
+            {
+              "age": "Ab Monat 3",
+              "label": "Alltag",
+              "text": "Schule ist Normalität. Wenn dein Kind zu diesem Zeitpunkt noch täglich mit starkem Widerstand oder Körperbeschwerden reagiert, lohnt ein Gespräch mit der Klassenleitung und der Kinderarztpraxis."
+            }
+          ],
+          "caption": "Grober Verlauf, kein Fahrplan. Manche Kinder brauchen zwei Wochen, andere ein halbes Jahr – beides liegt im Rahmen."
+        },
+        {
+          "type": "callout",
+          "variant": "info",
+          "title": "Rückschritte sind Teil des Prozesses",
+          "text": "Daumenlutschen, Einnässen, Trennungsschwierigkeiten am Schultor, plötzlich wieder das alte Kuscheltier: Unter Belastung greifen Kinder auf frühere Bewältigungsmuster zurück. Das legt sich meist von selbst, wenn die Belastung sinkt. Kommentiere es möglichst wenig."
+        }
+      ]
+    },
+    {
+      "type": "section",
+      "heading": "Tagesstruktur: Abläufe statt Stundenplan",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "Der häufigste Fehler ist, den Nachmittag zu verplanen. Ein Kind, das sechs Stunden lang fremdbestimmt war, braucht danach vor allem eines: Zeit ohne Auftrag. Was Halt gibt, ist nicht die Uhr, sondern die Reihenfolge – immer dieselbe Abfolge von Ankommen, Essen, Freizeit, Aufgaben, Abend."
+        },
+        {
+          "type": "steps",
+          "title": "Ein tragfähiger Nachmittag",
+          "items": [
+            { "title": "Ankommen, ohne Verhör", "text": "Erst essen und ausruhen. Die Frage „Wie war es in der Schule?“ direkt am Schultor liefert fast immer „Gut“. Gespräche kommen später, meist beiläufig." },
+            { "title": "Bewegung nach draußen verlagern", "text": "Eine Stunde draußen wirkt bei den meisten Kindern besser gegen Nachmittagsquengeln als jede Ermahnung." },
+            { "title": "Aufgaben in ein festes Fenster", "text": "Immer dieselbe Zeit, immer derselbe Platz. Kurz, mit Pausen – nicht kurz vor dem Abendessen." },
+            { "title": "Abends vorbereiten, morgens nicht suchen", "text": "Ranzen, Kleidung, Sportbeutel am Vorabend richten. Das entschärft mehr Morgenstreit als jedes Aufsteh-Ritual." },
+            { "title": "Früher ins Bett als in der Kita-Zeit", "text": "Schulkinder brauchen in den ersten Monaten oft mehr Schlaf, nicht weniger. Müdigkeit sieht bei Kindern häufig wie Trotz aus." }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "section",
+      "heading": "Der Schulweg allein",
+      "blocks": [
+        {
+          "type": "evidence",
+          "level": "moderat",
+          "claim": "Kinder übertragen Verkehrserfahrungen kaum von einer Situation auf eine andere. Der konkrete Schulweg muss deshalb konkret geübt werden – mehrfach, zur echten Uhrzeit, bei echtem Verkehr.",
+          "note": "Die Deutsche Verkehrswacht und die Unfallkassen empfehlen, den Weg über Wochen gemeinsam zu gehen und die Rolle schrittweise zu tauschen: erst führst du, dann führt dein Kind und du gehst schweigend hinterher, dann geht es allein. Der kürzeste Weg ist dabei nicht automatisch der beste – der mit den wenigsten Querungen ist es meist.",
+          "sources": [0, 1]
+        },
+        {
+          "type": "p",
+          "text": "Viele Schulen geben Schulwegpläne heraus, in denen gefährliche Stellen eingezeichnet sind. Lohnt sich, auch wenn du die Gegend kennst: Kinder sehen andere Dinge als Erwachsene, weil sie kleiner sind und über parkende Autos nicht hinwegschauen können."
+        },
+        {
+          "type": "callout",
+          "variant": "warn",
+          "title": "Das Elterntaxi ist Teil des Problems",
+          "text": "Der Bereich direkt vor der Schule ist zu den Bringzeiten die gefährlichste Stelle des ganzen Schulwegs – vor allem wegen der haltenden und wendenden Autos. Wenn Fahren unvermeidlich ist, halte einige Straßen entfernt und lass den Rest zu Fuß gehen. Das ist sicherer für alle Kinder und nebenbei ein Stück Selbstständigkeit für deines."
+        }
+      ]
+    },
+    {
+      "type": "section",
+      "heading": "Wenn morgens der Bauch wehtut",
+      "blocks": [
+        {
+          "type": "evidence",
+          "level": "moderat",
+          "claim": "Bauchschmerzen, Übelkeit oder Kopfschmerzen, die morgens auftreten und nach der Entscheidung, zu Hause zu bleiben, rasch verschwinden, sind typische Anzeichen von Schulangst – die Beschwerden sind echt, die Ursache ist nicht körperlich.",
+          "note": "Entscheidend ist die Reaktion: Jedes Zuhausebleiben senkt die Anspannung kurzfristig und verstärkt die Angst langfristig. Deshalb gilt in der Kinder- und Jugendpsychiatrie die Faustregel, den Schulbesuch möglichst früh und möglichst vollständig aufrechtzuerhalten und parallel nach der Ursache zu suchen. Körperliche Ursachen sollten einmal ärztlich ausgeschlossen werden.",
+          "sources": [2]
+        },
+        {
+          "type": "list",
+          "items": [
+            { "title": "Nachfragen, ohne zu verhören:", "text": "„Was war heute das Blödeste?“ bringt oft mehr als „Was ist los?“." },
+            { "title": "Konkret werden:", "text": "Angst vor dem Vorlesen, vor der Toilette, vor einem bestimmten Kind, vor dem Umziehen im Sport – das sind lösbare Probleme, sobald sie einen Namen haben." },
+            { "title": "Die Klassenleitung einbeziehen:", "text": "Nicht als Beschwerde, sondern als Beobachtung. Lehrkräfte sehen Dinge, die zu Hause nie erzählt werden." },
+            { "title": "Frühzeitig Hilfe holen:", "text": "Wenn es über Wochen anhält: Kinderarztpraxis, Schulsozialarbeit oder Erziehungsberatungsstelle. Alle drei sind kostenlos erreichbar." }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "section",
+      "heading": "Zusammenarbeit mit der Schule",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "Die Beziehung zur Klassenleitung ist eine Arbeitsbeziehung, keine Freundschaft und kein Gegnerverhältnis. Zwei Dinge helfen: früh Kontakt aufnehmen, solange es nichts zu klären gibt – und bei Problemen nicht zwischen Tür und Angel ansprechen, sondern einen Termin vereinbaren."
+        },
+        {
+          "type": "callout",
+          "variant": "tip",
+          "title": "Vor dem Elterngespräch",
+          "items": [
+            "Schreib dir zwei bis drei konkrete Beobachtungen auf, keine Bewertungen.",
+            "Frag nach dem, was du nicht sehen kannst: Wie ist dein Kind in der Gruppe? Mit wem spielt es in der Pause?",
+            "Vereinbare am Ende, wer was bis wann tut – und wann ihr wieder sprecht.",
+            "Sprich vor deinem Kind nicht abfällig über die Lehrkraft. Ein Kind, das seine Lehrerin nicht ernst nehmen darf, hat es in der Schule schwerer, nicht leichter."
+          ]
+        }
+      ]
+    },
+    {
+      "type": "section",
+      "heading": "Häufige Fragen",
+      "blocks": [
+        {
+          "type": "faq",
+          "items": [
+            {
+              "q": "Mein Kind erzählt gar nichts von der Schule. Soll ich mir Sorgen machen?",
+              "a": "Meistens nicht. Viele Kinder brauchen nach sechs Stunden Fremdbestimmung erst einmal Ruhe. Erzählt wird oft beim Spielen, im Auto oder abends im Dunkeln – also dann, wenn kein Blickkontakt nötig ist. Sorgen sind angebracht, wenn Schweigen mit Rückzug, Traurigkeit oder Körperbeschwerden zusammenfällt."
+            },
+            {
+              "q": "Ab wann sollte mein Kind allein zur Schule gehen?",
+              "a": "Es gibt kein festes Alter. Sinnvoll ist der Zeitpunkt, an dem dein Kind den Weg mehrfach fehlerfrei geführt hat und du bei den Querungen nicht mehr eingreifen musstest. Bei vielen Familien liegt das einige Wochen nach der Einschulung. Gemeinsam mit einem anderen Kind zu gehen, ist meist die beste Zwischenstufe."
+            },
+            {
+              "q": "Muss mein Kind vor der Einschulung lesen können?",
+              "a": "Nein. Der Anfangsunterricht setzt das nicht voraus. Kinder, die schon lesen, sind kein Problem, aber auch kein Vorsprung, der lange hält. Was tatsächlich hilft: viel gesprochene Sprache, Vorlesen und Fingerfertigkeit – Schneiden, Malen, Bauen."
+            },
+            {
+              "q": "Was ist mit einem Nachmittagskurs direkt nach der Einschulung?",
+              "a": "Warte damit lieber bis nach den Herbstferien. In den ersten Wochen ist der Kraftvorrat gering. Wenn dein Kind unbedingt möchte, plant höchstens einen festen Termin pro Woche ein – und behaltet die Abende im Blick."
+            },
+            {
+              "q": "Mein Kind hat noch keine Freundinnen in der Klasse. Wie kann ich helfen?",
+              "a": "Verabredungen zu zweit sind fast immer wirksamer als große Kindergeburtstage. Frag die Klassenleitung, mit wem dein Kind in der Pause zu tun hat, und lade dieses Kind einmal nach Hause ein. Freundschaften entstehen in der Grundschule sehr oft über gemeinsame Wege und gemeinsame Interessen, selten über Gespräche."
+            },
+            {
+              "q": "Ist eine Rückstellung sinnvoll, wenn mein Kind sehr jung ist?",
+              "a": "Das ist eine Einzelfallentscheidung, die Schule, Kinderarztpraxis und ihr gemeinsam trefft. Die Forschung zu späterer Einschulung ist uneinheitlich: Kurzfristige Vorteile im Klassenvergleich verlieren sich über die Schuljahre häufig. Ausschlaggebend sollte weniger das Geburtsdatum sein als die Frage, ob dein Kind im Alltag der Klasse zurechtkommt."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "callout",
+      "variant": "info",
+      "title": "Kurz gesagt",
+      "text": "Übe den Weg, halte den Nachmittag leer, schaff verlässliche Abläufe und rechne mit sechs bis acht anstrengenden Wochen. Der Schulstart gelingt nicht dadurch, dass dein Kind besonders gut vorbereitet ist, sondern dadurch, dass es einen ruhigen Ort hat, an den es danach zurückkommt."
+    }
+  ],
+  "sources": [
+    {
+      "title": "Schulweg – Informationen und Materialien für Eltern",
+      "publisher": "Deutsche Verkehrswacht",
+      "year": "2025",
+      "kind": "Institutionelle Information",
+      "url": "https://www.verkehrswacht.de/category/themen/schulweg/"
+    },
+    {
+      "title": "Fit für den Schulweg: Mehr Sicherheit für Schulkinder im Straßenverkehr",
+      "publisher": "Unfallkasse Baden-Württemberg",
+      "year": "2024",
+      "kind": "Institutionelle Information",
+      "url": "https://www.ukbw.de/pressemitteilungen/news-details/fit-fuer-den-schulweg-mehr-sicherheit-fuer-schulkinder-im-strassenverkehr"
+    },
+    {
+      "title": "Schulvermeidung: Schulangst, Schulphobie und Schuleschwänzen",
+      "publisher": "Berufsverbände für Kinder- und Jugendpsychiatrie, Psychosomatik und Psychotherapie (neurologen-und-psychiater-im-netz.org)",
+      "year": "2024",
+      "kind": "Institutionelle Information",
+      "url": "https://www.neurologen-und-psychiater-im-netz.org/kinder-jugendpsychiatrie-psychosomatik-und-psychotherapie/stoerungen-erkrankungen/schulvermeidung-schulangst-schulphobie-schuleschwaenzen/schulangst/"
+    },
+    {
+      "title": "Kindergesundheit von A bis Z – Entwicklung und Alltag im Schulalter",
+      "publisher": "Bundeszentrale für gesundheitliche Aufklärung (BZgA), kindergesundheit-info.de",
+      "year": "2025",
+      "kind": "Institutionelle Information",
+      "url": "https://www.kindergesundheit-info.de/"
+    }
+  ],
+  "related": ["vorschule-und-schulfaehigkeit", "hausaufgaben-und-lernen", "leistungsdruck", "rituale-und-struktur"]
+}

@@ -71,6 +71,17 @@ for (const file of files) {
     warnings.push('keine Leitlinie / Übersichtsarbeit / institutionelle Quelle');
   }
 
+  /* Quellen ohne URL sind erlaubt – eine erfundene URL wäre schlimmer.
+     Ein Artikel, in dem gar keine Quelle verlinkt ist, konnte aber
+     offensichtlich nicht gegengeprüft werden und braucht eine Runde
+     Nacharbeit, sobald wieder recherchiert werden kann. */
+  const linked = sources.filter((s) => s.url).length;
+  if (sources.length && linked === 0) {
+    errors.push(`keine einzige der ${sources.length} Quellen ist verlinkt – vor Veröffentlichung gegenprüfen`);
+  } else if (sources.length >= 4 && linked < sources.length / 2) {
+    warnings.push(`nur ${linked} von ${sources.length} Quellen verlinkt`);
+  }
+
   /* ---- Blöcke einsammeln ---- */
   const counts = {};
   const texts = [];
@@ -170,6 +181,35 @@ for (const file of files) {
 
   const straight = texts.filter((t) => /"/.test(t));
   if (straight.length) warnings.push(`${straight.length}× gerades Anführungszeichen im Text`);
+
+  /* Interne Links prüfen. Artikelseiten liegen unter artikel/<slug>.html,
+     der Pfad ist also relativ und führt für alles außerhalb über "../".
+     Wurzelabsolute Links (/notfall) brechen auf GitHub Pages, weil das
+     Projekt dort unter /<repo>/ ausgeliefert wird. */
+  const STATIC_PAGES = new Set(['notfall', 'ueber', 'methodik', 'quellen', 'glossar', 'index', '404']);
+  for (const text of texts) {
+    for (const [, , href] of String(text).matchAll(/\[([^\]]+)\]\(([^)\s]+)\)/g)) {
+      if (/^https?:/i.test(href) || href.startsWith('#') || href.startsWith('mailto:')) continue;
+
+      if (href.startsWith('/')) {
+        errors.push(`wurzelabsoluter Link "${href}" – auf GitHub Pages defekt, nutze "../notfall.html" bzw. "<slug>.html"`);
+        continue;
+      }
+      if (!href.endsWith('.html')) {
+        errors.push(`interner Link ohne .html: "${href}"`);
+        continue;
+      }
+
+      const target = href.replace(/^\.\.\//, '').replace(/\.html$/, '');
+      if (href.startsWith('../')) {
+        if (!STATIC_PAGES.has(target) && !target.startsWith('alter/') && !target.startsWith('themen/') && !target.startsWith('artikel/')) {
+          warnings.push(`Linkziel unbekannt: ${href}`);
+        }
+      } else if (!fs.existsSync(path.join(DIR, `${target}.json`)) && !PLANNED.has(target)) {
+        warnings.push(`Linkziel unbekannt: ${href}`);
+      }
+    }
+  }
 
   if (/\bIhr Kind\b|\bIhrem Kind\b|\bIhre Kinder\b/.test(body)) warnings.push('Sie-Form gefunden (das Kompendium duzt)');
 

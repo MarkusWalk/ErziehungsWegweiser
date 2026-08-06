@@ -1,0 +1,252 @@
+{
+  "slug": "haustiere-und-kinder",
+  "title": "Haustiere und Kinder",
+  "subtitle": "Wie Kind und Tier sicher zusammenleben: Bissprävention im Alltag, die Signale, die Hunde senden, ein nüchterner Blick auf Allergien und ein ehrlicher Realitätscheck vor der Anschaffung.",
+  "phases": ["saeugling", "kleinkind", "kindergarten", "schulkind"],
+  "topics": ["familie", "sicherheit"],
+  "updated": "2026-08-06",
+  "summary": "Kinder und Tiere passen gut zusammen – aber nicht von allein. Die allermeisten Hundebisse bei kleinen Kindern geschehen zu Hause, mit dem vertrauten Familienhund, nach einer Interaktion, die das Kind gut gemeint hat. Deshalb ist die wichtigste Regel banal und unbequem zugleich: Kind und Hund bleiben nie unbeaufsichtigt zusammen, auch nicht kurz. Bei Allergien lohnt der nüchterne Blick: Hunde dürfen laut Leitlinie in allen Familien gehalten werden, bei Katzen ist die Empfehlung bei erhöhtem Allergierisiko zurückhaltender. Und die Hygienehypothese ist bis heute nicht bewiesen.",
+  "keyFacts": [
+    "Kind und Hund bleiben nie unbeaufsichtigt zusammen – auch nicht mit dem eigenen, ruhigen Hund.",
+    "Bei Kindern unter vier Jahren treffen Bisse überwiegend Kopf und Hals.",
+    "Den meisten Bissen geht eine Interaktion voraus, die das Kind begonnen hat.",
+    "Hunde dürfen laut S3-Leitlinie Allergieprävention in allen Familien gehalten werden; bei erhöhtem Risiko wird von einer neuen Katze abgeraten.",
+    "Ein vorhandenes Tier muss zur Allergieprävention nicht abgeschafft werden."
+  ],
+  "blocks": [
+    {
+      "type": "p",
+      "lead": true,
+      "text": "Ein Tier im Haus ist für viele Kinder eine der prägendsten Beziehungen der Kindheit: ein Gegenüber, das nicht bewertet, das Trost spendet und das man versorgen darf. Nichts davon soll hier kleingeredet werden. Aber gerade weil Hund und Katze zur Familie gehören, wird die Sicherheitsseite gern übersehen – und genau dort passieren die Unfälle."
+    },
+    {
+      "type": "callout",
+      "variant": "danger",
+      "title": "Kind und Hund nie unbeaufsichtigt – auch nicht zwei Minuten",
+      "text": "Diese Regel gilt für jeden Hund, auch für den eigenen, gutmütigen, seit Jahren vertrauten. Bei Kindern unter vier Jahren treffen Bisse überwiegend Kopf und Hals, weil das Gesicht des Kindes auf Höhe des Hundekopfes ist – dort kann schon ein einzelner Biss lebensbedrohlich bluten. Unbeaufsichtigt heißt: nicht im Nebenzimmer, nicht mit dem Rücken zur Szene, nicht während du kochst. Wenn du nicht hinsehen kannst, wird getrennt: Tür zu, Gitter, Box, Hof."
+    },
+    {
+      "type": "section",
+      "heading": "Was die Bissstatistik zeigt",
+      "blocks": [
+        {
+          "type": "evidence",
+          "level": "moderat",
+          "claim": "Für Deutschland werden rund 20.000 Hundebissereignisse pro Jahr geschätzt. Kinder sind überproportional betroffen: Jedes vierte Bissopfer ist jünger als sechs Jahre. Die Bisse geschehen überwiegend im häuslichen Umfeld und durch bekannte oder eigene Hunde – nicht durch fremde Tiere auf der Straße.",
+          "note": "Klinische und rechtsmedizinische Auswertungen zeigen, dass in etwa drei von vier Fällen eine Interaktion zwischen Kind und Hund vorausging. Das ist die eigentlich nützliche Information: Es geht selten um einen aggressiven Hund, sondern fast immer um eine Situation, in der ein Kind Signale nicht lesen konnte und ein Hund keinen Ausweg hatte.",
+          "sources": [0]
+        },
+        {
+          "type": "figure",
+          "kind": "bar",
+          "title": "Hundebisse bei Kindern: drei Kennzahlen",
+          "alt": "Balkendiagramm: 73 Prozent der betroffenen Kinder unter zehn Jahren, 74 Prozent der Bisse nach vorangegangener Interaktion, 66 Prozent Kopf- und Halsverletzungen bei unter Vierjährigen",
+          "data": [
+            { "label": "Betroffene Kinder unter 10 Jahren", "value": 73, "display": "73 %" },
+            { "label": "Bisse nach vorangegangener Interaktion", "value": 74, "display": "74 %" },
+            { "label": "Kopf-/Halsverletzung bei unter 4-Jährigen", "value": 66, "display": "rund 2 von 3" }
+          ],
+          "caption": "Kennzahlen aus klinischen und rechtsmedizinischen Auswertungen von Hundebissverletzungen in Deutschland. Sie beschreiben behandelte Fälle, nicht alle Bisse – leichte Verletzungen tauchen in solchen Statistiken kaum auf.",
+          "sources": [0]
+        }
+      ]
+    },
+    {
+      "type": "section",
+      "heading": "Hunde reden – nur nicht mit Worten",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "Ein Hund beißt fast nie ohne Vorwarnung. Er warnt nur in einer Sprache, die Kinder nicht kennen und die Erwachsene oft überhören. Bevor es zum Schnappen kommt, kommen meist mehrere leise Signale – und wenn die ignoriert werden, wird der Hund deutlicher."
+        },
+        {
+          "type": "list",
+          "ordered": false,
+          "items": [
+            { "title": "Frühe Beschwichtigung:", "text": "Kopf wegdrehen, Blick abwenden, Züngeln über die Nase, Gähnen, sich schütteln, langsam weggehen. Übersetzung: Bitte hör auf." },
+            { "title": "Deutlicher:", "text": "Erstarren, steife Körperhaltung, angelegte Ohren, das Weiße im Auge wird sichtbar, Schwanz tief und steif, fixierender Blick." },
+            { "title": "Letzte Warnung:", "text": "Lefzen hochziehen, Zähne zeigen, Knurren, Schnappen in die Luft." },
+            { "title": "Häufiges Missverständnis:", "text": "Gezeigte Zähne sind kein Lächeln. Genau dieses Missverständnis – „der lacht doch“ – führt Kinder direkt in die Umarmung, die den Biss auslöst." }
+          ]
+        },
+        {
+          "type": "callout",
+          "variant": "warn",
+          "title": "Knurren niemals bestrafen",
+          "text": "Ein knurrender Hund macht genau das Richtige: Er warnt, statt zu beißen. Wer ihm das Knurren abtrainiert, nimmt ihm die letzte Stufe vor dem Zubeißen – und bekommt einen Hund, der scheinbar ohne Vorwarnung schnappt. Statt zu schimpfen: Situation sofort auflösen, Kind wegholen, Hund Raum geben. Und danach überlegen, wie sich diese Konstellation künftig vermeiden lässt."
+        },
+        {
+          "type": "evidence",
+          "level": "umstritten",
+          "claim": "Schulungsprogramme, die Kindern den Umgang mit Hunden beibringen, verbessern nachweislich das Wissen und das beobachtete Verhalten der Kinder. Ob sie tatsächlich zu weniger Bissverletzungen führen, ist nicht belegt.",
+          "note": "Eine Cochrane-Übersichtsarbeit fand keine ausreichenden Daten zu Verletzungszahlen. Das heißt nicht, dass Aufklärung nutzlos ist – es heißt, dass sie die Aufsicht nicht ersetzt. Verlass dich also nicht darauf, dass dein Kind gelernt hat, wie man einen Hund begrüßt.",
+          "sources": [1]
+        }
+      ]
+    },
+    {
+      "type": "section",
+      "heading": "Regeln, die im Alltag tragen",
+      "blocks": [
+        {
+          "type": "checklist",
+          "id": "kind-hund",
+          "title": "Checkliste Kind und Hund",
+          "items": [
+            "Nicht umarmen, nicht küssen, nicht auf dem Hund liegen oder reiten",
+            "Nicht anstarren, nicht ins Gesicht fassen, nicht in Ohren oder Rute greifen",
+            "Fressnapf, Kauknochen und Spielzeug gehören dem Hund allein – dabei wird er nicht angefasst",
+            "Schlafender oder sich zurückziehender Hund wird nicht geweckt und nicht verfolgt",
+            "Ein fester Rückzugsort – Box, Decke, Zimmer –, der für Kinder tabu ist",
+            "Nicht vor dem Hund weglaufen und nicht kreischend rennen, das aktiviert den Jagdreflex",
+            "Fremde Hunde nur nach Rückfrage anfassen, Hand ruhig halten, seitlich statt frontal herangehen",
+            "Wenn ein Hund bedrängt wirkt: Kind wegholen, nicht den Hund schimpfen"
+          ]
+        },
+        {
+          "type": "p",
+          "text": "Für ältere Kinder kommt ein zweiter Teil dazu: Verantwortung. Füttern, Wasser wechseln, Fell bürsten, mit zum Spaziergang – das ist ein gutes Lernfeld, weil hier ein Lebewesen von Zuverlässigkeit abhängt. Wichtig ist nur, dass die Zuständigkeit erwachsen bleibt. Ein achtjähriges Kind kann Aufgaben übernehmen, aber es kann nicht garantieren, dass sie erledigt werden – und ein Tier darf für Vergesslichkeit nicht büßen."
+        }
+      ]
+    },
+    {
+      "type": "section",
+      "heading": "Allergien und Immunsystem – nüchtern betrachtet",
+      "blocks": [
+        {
+          "type": "evidence",
+          "level": "stark",
+          "claim": "Die deutsche S3-Leitlinie Allergieprävention empfiehlt, die Haltung von Hunden nicht einzuschränken – auch nicht in Familien mit erhöhtem Allergierisiko. Familien mit erhöhtem Risiko oder einem Kind mit Neurodermitis sollten sich dagegen keine neue Katze anschaffen.",
+          "note": "Ebenso wichtig ist, was die Leitlinie nicht sagt: Es gibt keine Empfehlung, ein bereits vorhandenes Tier aus Gründen der Allergievorbeugung abzuschaffen. Wenn dein Kind bereits auf ein Tier reagiert, ist das eine andere Frage – die gehört in die kinderärztliche oder allergologische Sprechstunde.",
+          "sources": [2, 3]
+        },
+        {
+          "type": "callout",
+          "variant": "myth",
+          "title": "„Ein Hund stärkt das Immunsystem“",
+          "text": "Die sogenannte Hygienehypothese – die Idee, dass frühe Keimkontakte das Immunsystem trainieren – ist eine Hypothese geblieben. Die Studienlage ist heterogen und teilweise widersprüchlich. Für Hunde deuten mehrere große Untersuchungen auf einen eher schützenden Effekt hinsichtlich Allergien und Asthma im Schulalter hin; für Katzen fanden Studien im Kleinkindalter zunächst häufiger Sensibilisierungen, die sich bis zum Schulalter wieder angleichen. Ein Tier anzuschaffen, um das Immunsystem des Kindes zu trainieren, ist deshalb kein guter Grund. Ein Tier anzuschaffen, weil ihr euch ein Tier wünscht, schon."
+        }
+      ]
+    },
+    {
+      "type": "section",
+      "heading": "Realitätscheck vor der Anschaffung",
+      "blocks": [
+        {
+          "type": "comparison",
+          "title": "Ehrliche Fragen vor dem Ja",
+          "columns": [
+            {
+              "title": "Spricht dafür",
+              "tone": "good",
+              "items": [
+                "Ihr habt Zeit, die ihr auch in zwei Jahren noch habt",
+                "Beide Erwachsenen wollen das Tier, nicht nur eines",
+                "Es gibt Platz für einen kinderfreien Rückzugsort",
+                "Ihr könnt Tierarztkosten und Betreuung im Urlaub tragen",
+                "Ihr seid bereit, in Hundeerziehung Zeit zu investieren"
+              ]
+            },
+            {
+              "title": "Spricht dagegen",
+              "tone": "bad",
+              "items": [
+                "Das Tier soll das Kind erziehen oder trösten",
+                "Ihr erwartet ein Baby oder habt gerade eines bekommen",
+                "Es soll ein Geschenk zum Geburtstag sein",
+                "Niemand hat Erfahrung mit der Art und ihren Bedürfnissen",
+                "Die Wohnsituation ist unsicher oder eine Trennung steht im Raum"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "p",
+          "text": "Wenn ein Baby zu einem vorhandenen Hund kommt, hilft Vorbereitung: neue Regeln Wochen vor der Geburt einführen statt in der ersten Woche danach, Geräusche und Gerüche vorab bekannt machen, den Hund weiterhin auslasten. Und für Katzen gilt eine kleine, unstrittige Regel: Sie schlafen nicht im Bett oder Wagen des Säuglings, schlicht weil Kleinkinder ihre Position nicht verändern können. Beim Sandkasten hilft eine Abdeckung, und Händewaschen nach Tierkontakt ist die einfachste Hygienemaßnahme, die es gibt."
+        }
+      ]
+    },
+    {
+      "type": "section",
+      "heading": "Häufige Fragen",
+      "blocks": [
+        {
+          "type": "faq",
+          "items": [
+            {
+              "q": "Unser Hund war immer lieb und hat jetzt geknurrt. Ist er gefährlich geworden?",
+              "a": "Wahrscheinlich nicht – wahrscheinlich hat sich dein Kind verändert. Sobald ein Kind krabbelt, läuft oder greift, entstehen Situationen, die der Hund vorher nicht kannte. Nimm das Knurren als Information ernst, entlaste den Hund und hol dir bei einer Hundetrainerin mit Erfahrung in Familienhaltung eine Einschätzung. Schmerzen sind ein häufiger Auslöser, deshalb lohnt auch ein Tierarztbesuch."
+            },
+            {
+              "q": "Mein Kind wurde gebissen – reicht Waschen und Pflaster?",
+              "a": "Nein. Bisswunden gelten grundsätzlich als infektionsgefährdet, auch kleine Löcher, die harmlos aussehen. Wunde ausspülen und ärztlich vorstellen; dabei wird auch der Tetanusschutz geprüft. Bisse im Gesicht, an Händen und Gelenken sowie bei Kindern gehören immer ärztlich beurteilt."
+            },
+            {
+              "q": "Ab welchem Alter kann mein Kind Verantwortung für ein Tier übernehmen?",
+              "a": "Kleine Aufgaben ab etwa vier: Wasser nachfüllen, beim Bürsten helfen. Eigenständige tägliche Zuständigkeit realistisch erst im Grundschulalter, und auch dann mit Erinnerung. Ein Tier, das nur dem Kind gehört, gibt es faktisch nicht – die Verantwortung bleibt bei euch."
+            },
+            {
+              "q": "Sind Kleintiere wie Meerschweinchen die bessere Wahl für kleine Kinder?",
+              "a": "Sie sind sicherer, was Bisse angeht, aber sie sind keine Kuscheltiere. Meerschweinchen und Kaninchen sind Fluchttiere, die Hochheben als Bedrohung erleben. Für ein Kleinkind ist Beobachten und Füttern die passende Interaktion, nicht Tragen. Nagetiere gehören außerdem immer zu zweit gehalten."
+            },
+            {
+              "q": "Unser Kind hat große Angst vor Hunden. Was hilft?",
+              "a": "Nicht konfrontieren, sondern dosieren. Aus sicherer Entfernung Hunde beobachten und benennen, was sie tun. Dein Kind entscheidet, wie nah es geht – nie ein Erwachsener. Ein ruhiger, bekannter Hund an der Leine, der gerade schläft oder frisst, ist ein besserer Einstieg als ein freundlicher Hund, der auf das Kind zukommt."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "callout",
+      "variant": "info",
+      "title": "Kurz gesagt",
+      "text": "Trennen, wenn du nicht hinsehen kannst. Dem Hund einen Ort geben, an dem er in Ruhe gelassen wird. Kindern beibringen, Signale zu lesen – und sich trotzdem nicht darauf verlassen. Und bei Allergiefragen die Leitlinie sprechen lassen statt die Nachbarschaft."
+    }
+  ],
+  "sources": [
+    {
+      "title": "Vorsicht: bissig! Hundebissverletzungen in der klinischen Rechtsmedizin",
+      "publisher": "Die Chirurgie (Springer)",
+      "year": "2022",
+      "kind": "Übersichtsarbeit",
+      "url": "https://link.springer.com/article/10.1007/s00104-022-01741-5"
+    },
+    {
+      "title": "Die Wirkung der Schulung von Kindern und Jugendlichen zur Verhinderung von Hundebissverletzungen",
+      "publisher": "Cochrane Injuries Group",
+      "year": "2019",
+      "kind": "Übersichtsarbeit",
+      "url": "https://cochrane.org/de/CD004726/INJ_die-wirkung-der-schulung-von-kindern-und-jugendlichen-zur-verhinderung-von-hundebissverletzungen"
+    },
+    {
+      "title": "S3-Leitlinie Allergieprävention (AWMF-Registernummer 061-016)",
+      "publisher": "AWMF / Deutsche Gesellschaft für Allergologie und klinische Immunologie (DGAKI) und Deutsche Gesellschaft für Kinder- und Jugendmedizin (DGKJ)",
+      "year": "2022",
+      "kind": "Leitlinie",
+      "url": "https://register.awmf.org/assets/guidelines/061-016l_S3_Allergiepraevention_2022-11.pdf"
+    },
+    {
+      "title": "Haustiere und Allergien",
+      "publisher": "Pädiatrie (Rosenfluh Publikationen)",
+      "year": "2021",
+      "kind": "Übersichtsarbeit",
+      "url": "https://www.rosenfluh.ch/media/paediatrie/2021/05/Haustiere-und-Allergien.pdf"
+    },
+    {
+      "title": "Hygienehypothese an mehr als 66.000 Kindern untersucht",
+      "publisher": "Medical Tribune",
+      "year": "2021",
+      "kind": "Studie",
+      "url": "https://www.medical-tribune.de/medizin-und-forschung/artikel/hygienehypothese-an-mehr-als-66000-kindern-untersucht"
+    },
+    {
+      "title": "Beschwichtigungssignale bei Hunden erkennen",
+      "publisher": "Kinder und Tiere – Bildungsinitiative",
+      "year": "2023",
+      "kind": "Institutionelle Information",
+      "url": "https://www.kinder-und-tiere.de/tiere-in-der-schule/hunde/einsatz-im-unterricht/beschwichtigungssignale"
+    }
+  ],
+  "related": ["allergien-vorbeugen", "unfallpraevention-kleinkind", "erste-hilfe-am-kind", "angst-und-mut"]
+}

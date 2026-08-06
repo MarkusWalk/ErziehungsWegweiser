@@ -1,0 +1,259 @@
+{
+  "slug": "hausaufgaben-und-lernen",
+  "title": "Hausaufgaben und Lernen begleiten",
+  "subtitle": "Warum die Verantwortung beim Kind bleiben sollte, welche Lernstrategien tatsächlich wirken – und wie du den täglichen Streit am Küchentisch loswirst.",
+  "phases": ["schulkind"],
+  "topics": ["entwicklung", "familie"],
+  "updated": "2026-08-06",
+  "summary": "Hausaufgaben sind Sache des Kindes, nicht der Eltern. Wer danebensitzt, mitrechnet und korrigiert, meint es gut – und schwächt langfristig oft genau das, was er stärken will. Was nachweislich hilft, ist etwas anderes: ein verlässlicher Rahmen, Interesse ohne Kontrolle und zwei Lernstrategien, die in der Forschung immer wieder oben stehen – sich selbst abfragen und über mehrere Tage verteilt üben. Die verbreitete Idee von visuellen, auditiven oder haptischen Lerntypen gehört dagegen zu den am besten widerlegten Annahmen der Pädagogik.",
+  "keyFacts": [
+    "Hausaufgaben gehören dem Kind – deine Rolle ist Rahmen, nicht Mitarbeit.",
+    "Häufig und kurz schlägt selten und lang.",
+    "Sich selbst abfragen und verteiltes Üben sind die wirksamsten Lernstrategien.",
+    "Wiederlesen und Markieren fühlen sich gut an und bringen wenig.",
+    "Lerntypen gibt es nicht – die Theorie ist empirisch widerlegt."
+  ],
+  "blocks": [
+    {
+      "type": "p",
+      "lead": true,
+      "text": "Kaum ein Thema erzeugt so viel Reibung wie die halbe Stunde nach dem Mittagessen. Die gute Nachricht: Ein großer Teil dieser Reibung entsteht durch eine Rollenverwechslung, die sich auflösen lässt. Hausaufgaben sind eine Rückmeldung der Schule an das Kind – nicht eine Aufgabe, die die Familie gemeinsam erledigt."
+    },
+    {
+      "type": "section",
+      "heading": "Wem die Hausaufgaben gehören",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "Wenn du mitschreibst, vorsagst oder abends heimlich ausbesserst, passiert dreierlei: Die Lehrkraft sieht nicht mehr, was dein Kind kann. Dein Kind lernt, dass es allein nicht ausreicht. Und du übernimmst eine Verantwortung, die du dann jeden Tag aufs Neue tragen musst."
+        },
+        {
+          "type": "evidence",
+          "level": "moderat",
+          "claim": "Nicht die Menge elterlicher Hilfe entscheidet, sondern ihre Art. Häufige Hilfe hängt eher mit schlechterer Leistungsentwicklung zusammen; unterstützende Hilfe wirkt positiv, einmischende und kontrollierende Hilfe negativ.",
+          "note": "In einer deutschen Längsschnittstudie mit rund 1.700 Sechstklässlerinnen und Sechstklässlern blieb dieser Zusammenhang bestehen, auch wenn Vorleistung und familiärer Hintergrund herausgerechnet wurden. Der Befund ist nicht so zu lesen, dass Hilfe schadet – häufig helfen Eltern gerade dort viel, wo es ohnehin schwierig läuft. Er ist so zu lesen: Wenn du hilfst, hilf auf Nachfrage, kurz und ohne die Aufgabe zu übernehmen.",
+          "sources": [3]
+        },
+        {
+          "type": "comparison",
+          "title": "Zwei Arten, am Tisch zu sitzen",
+          "columns": [
+            {
+              "title": "Unterstützend",
+              "tone": "good",
+              "items": [
+                "In der Nähe sein, aber etwas Eigenes tun",
+                "Auf Nachfrage erklären, dann wieder weggehen",
+                "Nachfragen statt vorsagen: „Wo kommst du nicht weiter?“",
+                "Fehler stehen lassen und die Schule ihre Arbeit machen lassen",
+                "Anerkennen, was schwer war, nicht nur was richtig ist"
+              ]
+            },
+            {
+              "title": "Einmischend",
+              "tone": "bad",
+              "items": [
+                "Danebensitzen und jeden Schritt kommentieren",
+                "Die nächste Zeile ansagen, bevor das Kind überlegt hat",
+                "Alles kontrollieren und ausradieren lassen",
+                "Zusatzaufgaben aus eigenem Antrieb dazugeben",
+                "Die Stimmung der Familie an das Ergebnis koppeln"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "callout",
+          "variant": "tip",
+          "title": "Der Satz, der vieles löst",
+          "text": "„Ich helfe dir gern, wenn du fragst – aber die Aufgaben sind deine.“ Und dann: einmal am Tag anbieten, nicht zehnmal nachfragen. Wenn dein Kind unfertig zur Schule geht, ist das eine Rückmeldung an die Lehrkraft, keine Blamage für dich."
+        }
+      ]
+    },
+    {
+      "type": "section",
+      "heading": "Was Hausaufgaben leisten – und was nicht",
+      "blocks": [
+        {
+          "type": "evidence",
+          "level": "moderat",
+          "claim": "Der Zusammenhang zwischen Hausaufgaben und Schulleistung ist real, aber klein. Entscheidend ist eher die Regelmäßigkeit als die Dauer: häufige, kurze Aufgaben hängen positiver mit der Leistungsentwicklung zusammen als lange Bearbeitungszeiten.",
+          "note": "Metaanalysen der Hausaufgabenforschung – ausgehend von den Arbeiten von Harris Cooper – finden über alle Altersgruppen hinweg nur schwache bis mittlere Zusammenhänge, mit erheblichen Unterschieden zwischen Fächern und Jahrgängen. Deutsche Längsschnittdaten zeigen zusätzlich: Wer lange an Hausaufgaben sitzt, ist nicht der bessere, sondern oft der überforderte Schüler. Praktisch heißt das: Wenn dein Kind regelmäßig deutlich länger braucht als die Klasse, ist das ein Gesprächsanlass mit der Schule, kein Grund, noch länger sitzen zu lassen.",
+          "sources": [0, 1, 4]
+        },
+        {
+          "type": "p",
+          "text": "Viele Bundesländer nennen in ihren Erlassen Richtzeiten für die tägliche Hausaufgabendauer in der Grundschule; sie liegen im Bereich einer halben bis dreiviertel Stunde. Frag im Zweifel in der Schule nach, was für die Klasse deines Kindes gilt – und halte dich daran, auch wenn nicht alles fertig wird."
+        }
+      ]
+    },
+    {
+      "type": "section",
+      "heading": "Was beim Lernen wirklich wirkt",
+      "blocks": [
+        {
+          "type": "evidence",
+          "level": "stark",
+          "claim": "Von zehn untersuchten Lernstrategien schnitten zwei deutlich am besten ab: sich selbst abfragen (Abrufübung) und über mehrere Tage verteilt üben. Beide wirken über Altersgruppen, Fächer und Leistungsniveaus hinweg.",
+          "note": "Die große Übersichtsarbeit von Dunlosky und Kolleginnen bewertete 2013 zehn gängige Techniken nach Nutzen und Übertragbarkeit. Wiederholtes Lesen, Markieren und Zusammenfassen – also genau das, was die meisten Kinder tun – landeten unten. Der Grund: Sie erzeugen ein Gefühl von Vertrautheit, das leicht mit Können verwechselt wird. Abrufen dagegen ist anstrengend und fühlt sich schlechter an, während es besser wirkt.",
+          "sources": [2]
+        },
+        {
+          "type": "list",
+          "items": [
+            { "title": "Abfragen statt nachlesen:", "text": "Buch zu, Blatt umdrehen, aufschreiben oder aufsagen, was hängen geblieben ist. Erst danach vergleichen. Auch Karteikarten funktionieren nur so – nicht durchblättern, sondern raten und prüfen." },
+            { "title": "Verteilen statt bündeln:", "text": "Viermal fünfzehn Minuten an vier Tagen schlagen einmal eine Stunde am Vorabend – bei gleichem Zeitaufwand." },
+            { "title": "Mischen statt blockweise:", "text": "In Mathe verschiedene Aufgabentypen durcheinander üben, statt zwanzig gleiche hintereinander. Fühlt sich schwerer an, hält länger." },
+            { "title": "Erklären lassen:", "text": "„Erklär mir das mal so, als wüsste ich es nicht.“ Wer erklärt, merkt selbst, wo die Lücke sitzt." },
+            { "title": "Vergessen einplanen:", "text": "Ein Thema nach zwei Tagen und noch einmal nach einer Woche kurz abrufen. Das kostet Minuten und spart Stunden vor der Arbeit." }
+          ]
+        },
+        {
+          "type": "timeline",
+          "title": "Eine Woche vor der Klassenarbeit, verteilt statt gebündelt",
+          "entries": [
+            { "age": "Tag 1", "label": "Überblick", "text": "Gemeinsam anschauen, was drankommt. Dann 15 Minuten: Was weiß ich schon ohne Nachschauen? Lücken markieren." },
+            { "age": "Tag 3", "label": "Erster Abruf", "text": "15 Minuten. Nur die markierten Lücken, aus dem Kopf. Danach kurz vergleichen." },
+            { "age": "Tag 5", "label": "Gemischt üben", "text": "15–20 Minuten. Alte und neue Aufgabentypen durcheinander. Nicht sortieren." },
+            { "age": "Tag 6", "label": "Probelauf", "text": "Eine kleine selbst gestellte „Arbeit“ ohne Hilfsmittel schreiben. Der Effekt entsteht durch das Schreiben, nicht durch die Note." },
+            { "age": "Tag 7", "label": "Nichts mehr", "text": "Am Vorabend höchstens fünf Minuten durchgehen, dann früh ins Bett. Schlaf festigt Gelerntes – Nachtschichten machen das Gegenteil." }
+          ],
+          "caption": "Umsetzung der beiden am besten belegten Lernstrategien aus der Übersichtsarbeit von Dunlosky und Kolleginnen (2013): verteiltes Üben und Abrufübung."
+        }
+      ]
+    },
+    {
+      "type": "section",
+      "heading": "Der Lerntypen-Mythos",
+      "blocks": [
+        {
+          "type": "evidence",
+          "level": "stark",
+          "claim": "Die Einteilung in visuelle, auditive oder haptische Lerntypen hat keinen empirischen Rückhalt. Lernmaterial an einen angeblichen Lerntyp anzupassen, verbessert den Lernerfolg nicht.",
+          "note": "Untersucht wurden über siebzig verschiedene Lernstilmodelle. Der entscheidende Test – Kinder eines Typs lernen mit typgerechtem Material besser als mit anderem – fällt regelmäßig negativ aus. Was stimmt: Menschen haben Vorlieben. Was nicht stimmt: dass diese Vorlieben vorhersagen, womit sie mehr lernen. Sinnvoll ist stattdessen, den Kanal am Inhalt auszurichten: Karten anschauen, Vokabeln hören und sprechen, Bruchrechnen anfassen.",
+          "sources": [5]
+        },
+        {
+          "type": "callout",
+          "variant": "myth",
+          "title": "„Mein Kind ist eben ein visueller Typ“",
+          "text": "Der Satz klingt harmlos, hat aber Folgen: Er wird schnell zur Erklärung dafür, warum etwas nicht geht – und er schließt Wege aus, die vielleicht funktioniert hätten. Besser ist die Frage, was in diesem Fach gerade schwer ist: das Behalten, das Verstehen, das Anfangen oder das Durchhalten. Für jede dieser vier Baustellen gibt es andere Mittel."
+        }
+      ]
+    },
+    {
+      "type": "section",
+      "heading": "Rahmen, Pausen, Streit",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "Was du tatsächlich steuern kannst, ist die Umgebung. Und die wirkt: Ein Kind, das jeden Tag am selben Platz zur selben Zeit anfängt, verhandelt darüber irgendwann nicht mehr."
+        },
+        {
+          "type": "steps",
+          "title": "Wenn Hausaufgaben täglich eskalieren",
+          "items": [
+            { "title": "Zeitpunkt prüfen", "text": "Direkt nach der Schule ist für viele Kinder der schlechteste Moment. Erst essen, raus, dann anfangen – aber nicht nach 17 Uhr." },
+            { "title": "Ablenkung entfernen, nicht das Kind einsperren", "text": "Bildschirme aus, Geschwister beschäftigt, Tisch leer. Musik ohne Text ist für manche hilfreich, für andere nicht – ausprobieren." },
+            { "title": "Zeit begrenzen statt Menge", "text": "Ein Timer auf die Richtzeit der Schule. Was dann nicht fertig ist, bleibt liegen, mit einer kurzen Notiz an die Lehrkraft." },
+            { "title": "Pausen einbauen, bevor der Faden reißt", "text": "Bei jüngeren Kindern nach etwa 15 Minuten kurz aufstehen. Eine Pause vor dem Zusammenbruch ist eine andere Pause als eine danach." },
+            { "title": "Aus dem Zweikampf aussteigen", "text": "Wenn ihr beide weinend am Tisch sitzt, ist der Lerneffekt ohnehin null. Abbrechen ist dann die pädagogisch richtige Entscheidung, nicht die schwache." },
+            { "title": "Hilfe von außen holen", "text": "Wenn es über Wochen so bleibt: Gespräch mit der Klassenleitung. Manchmal steckt eine Lese-Rechtschreib- oder Rechenschwäche dahinter, manchmal eine Aufmerksamkeitsstörung, manchmal nur eine falsch eingeschätzte Aufgabenmenge." }
+          ]
+        },
+        {
+          "type": "callout",
+          "variant": "warn",
+          "title": "Wenn Lernen die Beziehung frisst",
+          "text": "Es gibt einen Punkt, an dem der Preis zu hoch wird: wenn dein Kind vor dir Angst hat, wenn es lügt, um Aufgaben zu verbergen, oder wenn ihr euch nur noch über Schule streitet. Dann ist es besser, die Rolle abzugeben – an eine Lernbegleitung, die Hausaufgabenbetreuung der Schule oder eine Person aus dem Umfeld. Du bleibst dann das, was dein Kind dringender braucht: der Ort, an dem es nicht bewertet wird."
+        }
+      ]
+    },
+    {
+      "type": "section",
+      "heading": "Häufige Fragen",
+      "blocks": [
+        {
+          "type": "faq",
+          "items": [
+            {
+              "q": "Muss ich die Hausaufgaben kontrollieren?",
+              "a": "Auf Vollständigkeit schauen: ja, gerade in den ersten Schuljahren. Auf Richtigkeit: nur, wenn die Schule das ausdrücklich möchte. Korrigierte Hausaufgaben nehmen der Lehrkraft die Information, an welcher Stelle dein Kind hängt – und genau dafür sind Hausaufgaben da."
+            },
+            {
+              "q": "Mein Kind trödelt eine Stunde für zehn Minuten Arbeit. Was tun?",
+              "a": "Meist ist das kein Zeitproblem, sondern ein Anfangsproblem. Hilfreich: den Einstieg extrem klein machen („Nur die erste Zeile“), einen sichtbaren Timer nutzen und die Zeit begrenzen statt die Menge. Und prüfen, ob dein Kind noch anwesend sein muss, damit du anwesend bist – manche Kinder trödeln, weil das die einzige Zeit mit dir ist."
+            },
+            {
+              "q": "Ist Nachhilfe sinnvoll?",
+              "a": "Wenn eine konkrete Lücke geschlossen werden soll, ja – befristet und mit klarem Ziel. Dauerhafte Nachhilfe ohne Ziel wird schnell zur Verlängerung des Schultags. Vorher lohnt fast immer ein Gespräch mit der Fachlehrkraft: Oft gibt es schulische Förderangebote, die nichts kosten."
+            },
+            {
+              "q": "Wie viel darf ich bei Referaten und Plakaten helfen?",
+              "a": "So viel, dass man deine Hilfe nicht sieht. Ideen sortieren, Material besorgen, einmal zuhören beim Üben – ja. Die Gliederung schreiben oder das Plakat gestalten – nein. Ein Plakat, das erkennbar von Erwachsenen stammt, macht anderen Kindern das Leben schwer und deinem keinen Gefallen."
+            },
+            {
+              "q": "Bringen Lern-Apps etwas?",
+              "a": "Sie können, wenn sie tatsächlich abfragen und nicht nur Inhalte zeigen. Der wirksame Mechanismus ist der gleiche wie bei Karteikarten: erst selbst antworten, dann prüfen. Programme, in denen man vor allem zuschaut oder Punkte sammelt, ersetzen das nicht."
+            },
+            {
+              "q": "Mein Kind sagt, es lernt nichts, weil der Unterricht langweilig ist. Was antworte ich?",
+              "a": "Erst zuhören und nachfragen, ob das für alle Fächer gilt oder für eines. Unterforderung und Überforderung sehen von außen erstaunlich ähnlich aus – beide führen zu Abschalten. Das gehört ins Gespräch mit der Schule, nicht in eine Diskussion am Küchentisch."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "callout",
+      "variant": "info",
+      "title": "Kurz gesagt",
+      "text": "Halte den Rahmen, gib die Aufgabe zurück und zeig deinem Kind zwei Werkzeuge: sich selbst abfragen und über mehrere Tage verteilt üben. Das ist weniger Arbeit als tägliches Danebensitzen – und es wirkt nachweislich besser."
+    }
+  ],
+  "sources": [
+    {
+      "title": "Hausaufgaben in Mathematik und Naturwissenschaften – Forschungsüberblick",
+      "publisher": "Clearing House Unterricht, Technische Universität München",
+      "year": "2018",
+      "kind": "Übersichtsarbeit",
+      "url": "https://www.clearinghouse.edu.tum.de/lehrstrategien/hausaufgaben-in-mathematik-und-naturwissenschaften/"
+    },
+    {
+      "title": "Hausaufgaben und Lernleistung: Was lernen wir aus 30 Jahren internationaler Forschung? (Kurzreview zu Fan et al., 2017)",
+      "publisher": "Clearing House Unterricht, Technische Universität München",
+      "year": "2017",
+      "kind": "Metaanalyse",
+      "url": "https://www.clearinghouse.edu.tum.de/wp-content/uploads/2018/06/CHU_KR-17_Fan-2017_Hausaufgaben-Lernleistung.pdf"
+    },
+    {
+      "title": "Improving Students' Learning With Effective Learning Techniques: Promising Directions From Cognitive and Educational Psychology",
+      "publisher": "Psychological Science in the Public Interest (Dunlosky, Rawson, Marsh, Nathan & Willingham)",
+      "year": "2013",
+      "kind": "Übersichtsarbeit",
+      "url": "https://journals.sagepub.com/doi/abs/10.1177/1529100612453266"
+    },
+    {
+      "title": "The Need to Distinguish Between Quantity and Quality in Research on Parental Involvement: The Example of Parental Help With Homework",
+      "publisher": "The Journal of Educational Research (Moroni, Dumont, Trautwein, Niggli & Baeriswyl)",
+      "year": "2015",
+      "kind": "Studie",
+      "url": "https://eric.ed.gov/?id=EJ1071754"
+    },
+    {
+      "title": "Lieber oft als viel: Hausaufgaben und die Entwicklung von Leistung und Interesse",
+      "publisher": "Zeitschrift für Pädagogik (Trautwein, Köller & Baumert)",
+      "year": "2001",
+      "kind": "Studie",
+      "url": "https://www.pedocs.de/volltexte/2012/4310/pdf/ZfPaed_2001_5_Trautwein_Koeller_Baumert_Lieber_oft_Hausaufgaben_D_A.pdf"
+    },
+    {
+      "title": "Lerntypen – Warum es sie nicht gibt und sie sich trotzdem halten",
+      "publisher": "In-Mind Magazin (deutschsprachige Ausgabe)",
+      "year": "2021",
+      "kind": "Übersichtsarbeit",
+      "url": "https://de.in-mind.org/article/lerntypen-warum-es-sie-nicht-gibt-und-sie-sich-trotzdem-halten"
+    }
+  ],
+  "related": ["schulstart", "leistungsdruck", "loben-und-motivieren", "selbststaendigkeit-foerdern"]
+}

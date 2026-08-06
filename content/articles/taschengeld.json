@@ -1,0 +1,260 @@
+{
+  "slug": "taschengeld",
+  "title": "Taschengeld und Verantwortung",
+  "subtitle": "Wie viel in welchem Alter, warum Taschengeld ohne Bedingungen ausgezahlt wird – und weshalb Bezahlung für Haushaltsaufgaben meist nach hinten losgeht.",
+  "phases": ["kindergarten", "schulkind"],
+  "topics": ["familie", "entwicklung"],
+  "updated": "2026-08-06",
+  "summary": "Taschengeld ist kein Gehalt und kein Erziehungsmittel, sondern Übungsmaterial. Kinder lernen den Umgang mit Geld dadurch, dass sie eigenes Geld haben, es falsch ausgeben und die Folgen selbst spüren. Damit das funktioniert, muss es drei Bedingungen erfüllen: regelmäßig, verlässlich und ohne Gegenleistung. Für die Höhe gibt es Richtwerte des Deutschen Jugendinstituts, die von den Jugendämtern verbreitet werden – eine Spanne, kein Gesetz.",
+  "keyFacts": [
+    "Taschengeld wird ohne Bedingungen gezahlt und nicht als Strafe gekürzt.",
+    "Bis etwa neun Jahre wöchentlich, ab zehn monatlich – der Zeitraum wächst mit dem Kind.",
+    "Richtwerte: etwa 2–4 Euro pro Woche im Grundschulalter, 15–25 Euro monatlich mit zehn bis elf.",
+    "Fehlkäufe sind der Lerninhalt, nicht die Panne.",
+    "Für Aufgaben im gemeinsamen Haushalt gibt es kein Geld."
+  ],
+  "blocks": [
+    {
+      "type": "p",
+      "lead": true,
+      "text": "Der Umgang mit Geld gehört zu den wenigen Alltagsfertigkeiten, die man nicht durch Erklären lernt. Ein Kind, das mit sechs Euro in der Hand zwischen einer großen Sache und drei kleinen Sachen entscheidet, macht eine Erfahrung, die kein Gespräch ersetzt – vor allem, wenn es sich hinterher falsch entschieden hat."
+    },
+    {
+      "type": "section",
+      "heading": "Wozu Taschengeld gut ist",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "Es geht nicht darum, Kinder früh sparsam zu machen. Es geht um drei Dinge: einschätzen können, was etwas kostet; abwägen können zwischen sofort und später; und aushalten können, dass Geld weg ist, wenn es weg ist. Alle drei brauchen Wiederholung und einen sicheren Rahmen – also genau das, was Familie leisten kann."
+        },
+        {
+          "type": "evidence",
+          "level": "moderat",
+          "claim": "Kinder lernen den Umgang mit Geld vor allem über eigene Verfügungsgewalt und eigene Fehler. Deshalb empfehlen Jugendämter und das Deutsche Jugendinstitut, Taschengeld regelmäßig, pünktlich und ohne Rechenschaftspflicht auszuzahlen.",
+          "note": "Das ist Fachkonsens der Jugendhilfe, keine Aussage aus randomisierten Studien. Der praktische Kern: Wenn du bestimmst, wofür das Geld ausgegeben wird, ist es kein Taschengeld, sondern ein Budget – und der Lerneffekt entfällt. Ausgenommen sind Dinge, die aus anderen Gründen nicht gekauft werden dürfen, etwa altersbeschränkte Produkte.",
+          "sources": [0, 1]
+        }
+      ]
+    },
+    {
+      "type": "section",
+      "heading": "Wie viel, ab wann",
+      "blocks": [
+        {
+          "type": "table",
+          "title": "Richtwerte nach Alter",
+          "head": ["Alter", "Empfehlung", "Auszahlung"],
+          "rows": [
+            ["4–5 Jahre", "0,50–1,00 €", "wöchentlich"],
+            ["6–9 Jahre", "2–4 €", "wöchentlich"],
+            ["10–11 Jahre", "15–25 €", "monatlich"],
+            ["12–13 Jahre", "20–30 €", "monatlich"]
+          ],
+          "caption": "Richtwerte der Taschengeldtabelle des Deutschen Jugendinstituts, wie sie von den Jugendämtern verbreitet und zuletzt an die Preisentwicklung angepasst wurde. Für Ältere steigen die Empfehlungen weiter, für 16- bis 17-Jährige auf etwa 40–60 Euro monatlich. Es gibt in Deutschland keine gesetzliche Pflicht und keine vorgeschriebene Höhe."
+        },
+        {
+          "type": "p",
+          "text": "Die Spanne ist Absicht. Was in deiner Familie passt, hängt von Einkommen, Wohnort und davon ab, was ihr sonst noch bezahlt – ein Kind, das sein Busticket, seine Schulmaterialien oder sein Handyguthaben selbst tragen soll, braucht mehr als die Tabelle vorsieht. Wichtiger als der genaue Betrag ist, dass er verlässlich kommt und dass ihr euch einig seid, was davon bezahlt wird und was nicht."
+        },
+        {
+          "type": "callout",
+          "variant": "tip",
+          "title": "Der Rhythmus wächst mit",
+          "text": "Jüngere Kinder können einen Monat nicht überblicken – für sie ist die Woche die richtige Einheit, am besten immer am selben Wochentag. Ab etwa zehn Jahren ist die monatliche Auszahlung sinnvoll, weil sie das Einteilen über einen längeren Zeitraum verlangt. Der Wechsel ist ein guter Anlass, gemeinsam aufzuschreiben, was künftig aus dem eigenen Geld bezahlt wird."
+        }
+      ]
+    },
+    {
+      "type": "section",
+      "heading": "Drei Regeln, die Taschengeld erst wirksam machen",
+      "blocks": [
+        {
+          "type": "evidence",
+          "level": "moderat",
+          "claim": "Taschengeld sollte nicht an Bedingungen geknüpft und nicht als Straf- oder Belohnungsmittel eingesetzt werden. Wer es bei schlechtem Verhalten kürzt, macht daraus ein Druckmittel und nimmt ihm die Funktion als Lernfeld.",
+          "note": "Auch das ist Fachkonsens der Jugendhilfe. Der Grund ist praktisch nachvollziehbar: Ein Kind, das nicht weiß, ob und wie viel Geld kommt, kann nicht planen – und Planen ist der eigentliche Lerninhalt. Konsequenzen für Verhalten gibt es genug; sie sollten inhaltlich zum Vorfall passen statt aus dem Portemonnaie zu kommen.",
+          "sources": [0, 1]
+        },
+        {
+          "type": "list",
+          "ordered": true,
+          "items": [
+            { "title": "Regelmäßig und pünktlich:", "text": "Immer am selben Tag, ohne Erinnerung, ohne dass dein Kind bitten muss. Wenn du es vergisst, wird Taschengeld zum Gnadenakt." },
+            { "title": "Ohne Gegenleistung:", "text": "Kein Junktim mit Noten, Zimmeraufräumen oder Benehmen. Taschengeld steht Kindern zu, weil sie zur Familie gehören." },
+            { "title": "Ohne Kontrolle über die Verwendung:", "text": "Auch dann, wenn dein Kind alles am ersten Tag für Süßigkeiten ausgibt. Kommentieren darfst du, verbieten nicht." }
+          ]
+        },
+        {
+          "type": "callout",
+          "variant": "warn",
+          "title": "Kein Strafabzug, kein Vorschuss-Karussell",
+          "text": "Zwei Dinge untergraben das System besonders zuverlässig: Abzüge als Bestrafung und ständige Vorschüsse. Beides führt dazu, dass dein Kind nicht mehr mit einem festen Betrag rechnet, sondern mit deiner Stimmung. Wenn das Geld vor dem Zahltag alle ist, ist das die Lektion – nicht der Anlass für einen Kredit. Eine Ausnahme darf eine Ausnahme bleiben, sollte aber selten sein und vorher besprochen werden."
+        }
+      ]
+    },
+    {
+      "type": "section",
+      "heading": "Warum Haushaltsaufgaben nicht bezahlt werden",
+      "blocks": [
+        {
+          "type": "evidence",
+          "level": "moderat",
+          "claim": "Regelmäßige Aufgaben im gemeinsamen Haushalt sollten nicht bezahlt werden. Bezahlung verschiebt den Grund für die Mitarbeit von der Zugehörigkeit zum Verdienst – und führt in der Praxis schnell zur Frage, was es denn diesmal dafür gibt.",
+          "note": "Der zugrunde liegende Mechanismus – eine ursprünglich selbstverständliche Tätigkeit verliert an Eigenwert, sobald sie belohnt wird – ist in der Motivationsforschung gut beschrieben. Für die Jugendhilfe folgt daraus die klare Empfehlung, Tischdecken, Spülmaschine und Zimmer als Beitrag zum Zusammenleben zu behandeln. Wer trotzdem Verdienstmöglichkeiten schaffen will, wählt dafür klar abgegrenzte Sonderaufgaben.",
+          "sources": [0, 1]
+        },
+        {
+          "type": "comparison",
+          "title": "Was gehört wozu?",
+          "columns": [
+            {
+              "title": "Beitrag zum Zusammenleben – unbezahlt",
+              "tone": "good",
+              "items": [
+                "Tisch decken und abräumen",
+                "Eigenes Zimmer und eigene Wäsche",
+                "Spülmaschine ein- und ausräumen",
+                "Müll rausbringen, Tiere versorgen",
+                "Beim gemeinsamen Aufräumen mitmachen"
+              ]
+            },
+            {
+              "title": "Sonderaufgabe – Bezahlung möglich",
+              "tone": "neutral",
+              "items": [
+                "Keller oder Garage ausräumen",
+                "Auto von innen reinigen",
+                "Laub harken über mehrere Stunden",
+                "Bei den Nachbarn Blumen gießen im Urlaub",
+                "Größere Arbeiten, die sonst jemand anderes machen würde"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "p",
+          "text": "Die Grenze verläuft dort, wo eine Aufgabe über den normalen Anteil am Familienleben hinausgeht. Wichtig ist, das vorher zu klären und nicht im Nachhinein zu verhandeln – sonst wird jede Bitte zur Preisverhandlung."
+        }
+      ]
+    },
+    {
+      "type": "section",
+      "heading": "Sparen, Wünsche und Fehlkäufe",
+      "blocks": [
+        {
+          "type": "timeline",
+          "title": "Was in welchem Alter dazukommt",
+          "entries": [
+            { "age": "4–5 Jahre", "label": "Geld ist etwas, das man tauscht", "text": "Kleine Beträge, sofort ausgeben. Der Lerninhalt ist der Tausch selbst: Etwas geben, etwas bekommen. Selbst bezahlen an der Kasse gehört dazu." },
+            { "age": "6–7 Jahre", "label": "Warten üben", "text": "Ein erster Wunsch, der zwei oder drei Wochen dauert. Sichtbar machen hilft: Ein Glas, in das das Geld wandert, wirkt besser als jede Erklärung." },
+            { "age": "8–9 Jahre", "label": "Vergleichen und einteilen", "text": "Preise vergleichen, den eigenen Bestand kennen, Enttäuschung über einen Fehlkauf aushalten. Jetzt lohnt ein einfaches Heft mit Ein- und Ausgaben." },
+            { "age": "10–11 Jahre", "label": "Der Monat als Einheit", "text": "Umstellung auf monatliche Auszahlung. Erste feste Ausgaben übernehmen, etwa Süßigkeiten oder Zeitschriften. Ein eigenes Konto wird interessant." },
+            { "age": "12–13 Jahre", "label": "Größere Ziele", "text": "Über mehrere Monate auf etwas hinsparen, Preise online vergleichen, erste digitale Zahlungen unter Aufsicht. Jetzt wird auch Verzicht zum Thema." }
+          ],
+          "caption": "Grobe Entwicklungsschritte, keine Prüfungsordnung – Kinder kommen zu unterschiedlichen Zeitpunkten dort an."
+        },
+        {
+          "type": "callout",
+          "variant": "tip",
+          "title": "Die Sache mit dem Quatschkauf",
+          "text": "Wenn dein Kind sein ganzes Geld für etwas ausgibt, das nach zwei Tagen kaputt ist, halte den Kommentar zurück. Ein „Habe ich dir doch gesagt“ verwandelt eine wertvolle Erfahrung in eine Kränkung. Frag stattdessen ein paar Tage später beiläufig, ob es sich gelohnt hat. Kinder ziehen ihre Schlüsse zuverlässiger, wenn sie nicht dabei recht geben müssen."
+        }
+      ]
+    },
+    {
+      "type": "section",
+      "heading": "Geld, das man nicht anfassen kann",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "Ein wachsender Teil der Ausgaben von Kindern ist digital: Spielwährungen, Zusatzinhalte, Abos. Das Problem daran ist nicht die Technik, sondern die fehlende Körperlichkeit – digitales Geld fühlt sich nicht wie Geld an, und Zwischenwährungen verschleiern den echten Preis zusätzlich."
+        },
+        {
+          "type": "list",
+          "items": [
+            { "title": "Käufe auf dem Gerät sperren:", "text": "Kein hinterlegtes Zahlungsmittel, keine gespeicherten Passwörter. Das ist keine Bevormundung, sondern eine technische Grundeinstellung." },
+            { "title": "Umrechnen üben:", "text": "Gemeinsam ausrechnen, wie viele Wochen Taschengeld ein Zusatzinhalt kostet. Diese Übung wirkt erstaunlich gut." },
+            { "title": "Guthabenkarten statt Konto:", "text": "Wenn digital gekauft werden soll, dann mit einem festen Guthaben, das vom eigenen Geld bezahlt wird." },
+            { "title": "Über Werbung sprechen:", "text": "Viele Angebote sind gezielt so gebaut, dass sie Kinder zum schnellen Zugriff bewegen. Das zu durchschauen, ist selbst ein Lernziel." }
+          ]
+        },
+        {
+          "type": "callout",
+          "variant": "info",
+          "title": "Der Taschengeldparagraf",
+          "text": "Kinder sind ab dem siebten Geburtstag beschränkt geschäftsfähig. Nach § 110 des Bürgerlichen Gesetzbuchs – im Alltag „Taschengeldparagraf“ genannt – ist ein Kauf wirksam, wenn ein Kind ihn vollständig mit Mitteln bezahlt, die es von den Eltern zur freien Verfügung erhalten hat. Ratenkäufe, Abos und Verträge fallen ausdrücklich nicht darunter; sie brauchen die Zustimmung der Eltern."
+        }
+      ]
+    },
+    {
+      "type": "section",
+      "heading": "Häufige Fragen",
+      "blocks": [
+        {
+          "type": "faq",
+          "items": [
+            {
+              "q": "Ab welchem Alter Taschengeld?",
+              "a": "Sinnvoll wird es, sobald ein Kind versteht, dass man mit Geld etwas tauscht – meist im Vorschulalter, mit sehr kleinen Beträgen. Spätestens mit der Einschulung sollte es Taschengeld geben, weil dann auch das Rechnen dazukommt und Vergleiche mit anderen Kindern beginnen."
+            },
+            {
+              "q": "Was, wenn wir uns die Empfehlungen nicht leisten können?",
+              "a": "Dann gilt ein kleinerer Betrag, und das ist in Ordnung. Der Lerneffekt hängt an der Regelmäßigkeit, nicht an der Höhe. Sag deinem Kind ehrlich, dass ihr weniger ausgeben könnt – Kinder kommen mit einer klaren Auskunft besser zurecht als mit dem Gefühl, dass etwas nicht stimmt und niemand darüber spricht."
+            },
+            {
+              "q": "Mein Kind gibt alles sofort aus. Soll ich eingreifen?",
+              "a": "Nein, aber du kannst die Bedingungen ändern: Ein Teil des Geldes wandert vereinbart auf ein Sparziel, der Rest ist frei. Das Sparen sollte gemeinsam beschlossen und nicht von dir verwaltet werden. Und rechne damit, dass die Einsicht Jahre dauert – Impulskontrolle entwickelt sich bis weit ins Jugendalter."
+            },
+            {
+              "q": "Dürfen Großeltern Geld schenken?",
+              "a": "Ja, und es hilft, dafür eine Familienabsprache zu haben. Sinnvoll ist, größere Geldgeschenke vom laufenden Taschengeld zu trennen: Das eine ist Übungsmaterial, das andere ist ein Geschenk. Wenn Geschenke das Taschengeld dauerhaft überflüssig machen, verliert es seine Funktion."
+            },
+            {
+              "q": "Soll mein Kind ein eigenes Konto haben?",
+              "a": "Ab etwa zehn bis zwölf Jahren wird das interessant, meist als Konto auf Guthabenbasis ohne Überziehungsmöglichkeit. Wichtig ist, dass dein Kind Kontostand und Buchungen selbst anschaut – sonst verschiebt sich das Geld nur an einen Ort, den es nicht mehr wahrnimmt."
+            },
+            {
+              "q": "Und wenn mein Kind Geld verleiht oder verliert?",
+              "a": "Beides gehört dazu und ist ärgerlich. Verlorenes Geld wird nicht ersetzt, sonst entfällt der Anlass zur Vorsicht. Bei geliehenem Geld unter Kindern lohnt ein Gespräch darüber, wie unangenehm Schulden zwischen Freunden sind – und die Regel, nur zu verleihen, was man verschmerzen kann."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "callout",
+      "variant": "info",
+      "title": "Kurz gesagt",
+      "text": "Zahle regelmäßig, verlässlich und ohne Bedingungen. Halte dich grob an die Richtwerte, passe sie an eure Lage an und lass dein Kind eigene Fehler machen. Für die Mitarbeit im Haushalt gibt es kein Geld – dafür gibt es Zugehörigkeit."
+    }
+  ],
+  "sources": [
+    {
+      "title": "Taschengeldempfehlungen: Richtwerte für Kinder und Jugendliche nach Alter",
+      "publisher": "Deutsches Jugendinstitut (DJI)",
+      "year": "2025",
+      "kind": "Empfehlung"
+    },
+    {
+      "title": "Taschengeldtabelle – Empfehlungen für Kinder bis 18 Jahre",
+      "publisher": "Jugendämter-Portal (jugendaemter.com)",
+      "year": "2026",
+      "kind": "Institutionelle Information",
+      "url": "https://www.jugendaemter.com/wie-wichtig-ist-taschengeld-fuer-kinder/"
+    },
+    {
+      "title": "§ 110 Bürgerliches Gesetzbuch – Bewirken der Leistung mit eigenen Mitteln (Taschengeldparagraf)",
+      "publisher": "Bundesministerium der Justiz, Gesetze im Internet",
+      "year": "2025",
+      "kind": "Institutionelle Information"
+    },
+    {
+      "title": "KIM-Studie 2024 – Kindheit, Internet, Medien: Basisuntersuchung zum Medienumgang 6- bis 13-Jähriger",
+      "publisher": "Medienpädagogischer Forschungsverbund Südwest (mpfs)",
+      "year": "2025",
+      "kind": "Studie",
+      "url": "https://mpfs.de/app/uploads/2025/05/KIM-Studie-2024.pdf"
+    }
+  ],
+  "related": ["selbststaendigkeit-foerdern", "regeln-und-konsequenzen", "mediennutzung-schulkind", "loben-und-motivieren"]
+}

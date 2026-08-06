@@ -1,0 +1,276 @@
+{
+  "slug": "medienerziehung-3-6",
+  "title": "Medien im Kindergartenalter",
+  "subtitle": "Wie viel Bildschirm zwischen drei und sechs vertretbar ist, warum die Auswahl der Inhalte wichtiger ist als die Stoppuhr – und was Kinder in diesem Alter über Werbung noch nicht verstehen können.",
+  "phases": ["kindergarten"],
+  "topics": ["medien"],
+  "updated": "2026-08-06",
+  "summary": "Zwischen drei und sechs Jahren werden Bildschirmmedien zum Thema in fast jeder Familie. Die Empfehlungen der Fachgesellschaften liegen zwischen zwanzig und sechzig Minuten am Tag und sind sich in einem Punkt einig: Die Zeitgrenze ist der schwächste Teil. Wichtiger ist, was dein Kind sieht, ob jemand dabei ist, ob es darüber reden kann und was die Bildschirmzeit verdrängt. Ein Kindergartenkind kann Werbung noch nicht als Werbung erkennen – dieser Befund ist gut belegt und praktisch folgenreicher als jede Minutenzahl.",
+  "keyFacts": [
+    "Fachgesellschaften empfehlen für 3- bis 6-Jährige etwa 20 bis 60 Minuten Bildschirmzeit am Tag – die Spanne zeigt, wie unscharf die Datenlage ist.",
+    "Kinder unter etwa acht Jahren erkennen die Absicht von Werbung nicht; sie halten sie für Information.",
+    "Begleitete Nutzung ist der einzige Teil, über den sich alle Empfehlungen einig sind.",
+    "Feste, vorher besprochene Zeiten ersparen den täglichen Streit ums Ausschalten.",
+    "Deine eigene Bildschirmnutzung wirkt stärker als jede Regel, die du aufstellst."
+  ],
+  "blocks": [
+    {
+      "type": "p",
+      "lead": true,
+      "text": "Im Kindergartenalter kippt die Frage. Bei einem Zweijährigen kann man Bildschirme noch weitgehend aus dem Alltag heraushalten. Ein Vierjähriger weiß, dass es sie gibt, kennt Kinder, die mehr dürfen, und wird fragen. Von hier an geht es nicht mehr um Vermeidung, sondern um Erziehung – und die ist anstrengender, aber sie hält länger."
+    },
+    {
+      "type": "section",
+      "heading": "Was die Empfehlungen sagen",
+      "blocks": [
+        {
+          "type": "figure",
+          "kind": "bar",
+          "title": "Empfohlene tägliche Höchstdauer für Bildschirmzeit im Kindergartenalter",
+          "alt": "Balkendiagramm mit drei Empfehlungen zwischen 20 und 60 Minuten",
+          "data": [
+            { "label": "klicksafe (3–6 Jahre)", "value": 20, "display": "ca. 20 min" },
+            { "label": "BZgA (3–5 Jahre)", "value": 30, "display": "max. 30 min" },
+            { "label": "WHO (3–4 Jahre)", "value": 60, "display": "max. 60 min" }
+          ],
+          "caption": "Angaben nach der WHO-Leitlinie für Kinder unter fünf Jahren, der Elterninformation der Bundeszentrale für gesundheitliche Aufklärung und den Orientierungswerten von klicksafe. Die Unterschiede sind kein Fehler, sondern spiegeln, dass keine Studie eine bestimmte Minutenzahl belegen kann.",
+          "sources": [0, 2, 4]
+        },
+        {
+          "type": "p",
+          "text": "Alle drei Werte sind Konventionen, keine Messergebnisse. Es gibt keine Untersuchung, aus der hervorginge, dass bei 31 Minuten etwas anderes passiert als bei 29. Was die Empfehlungen tragen, ist ein anderer Gedanke: Bildschirmzeit ist immer Zeit, die etwas anderes ersetzt – Bewegung, Spiel, Gespräch, Langeweile, Schlaf. Je jünger das Kind, desto teurer ist diese Verdrängung."
+        },
+        {
+          "type": "evidence",
+          "level": "moderat",
+          "claim": "Für konkrete Zeitgrenzen im Kindergartenalter gibt es keine belastbare Studienbasis. Belegt ist der Zusammenhang mit dem, was verdrängt wird, und mit der Art der Nutzung – nicht mit einer Schwelle in Minuten.",
+          "note": "Die deutsche Leitlinie zur Prävention dysregulierten Bildschirmmediengebrauchs formuliert deshalb überwiegend Empfehlungen zum Wie, nicht zum Wie lange: gemeinsame Regeln, Begleitung, medienfreie Zonen und Zeiten. Wer sich an eine Zeitgrenze hält, macht nichts falsch – wer sie einmal reißt, ebenfalls nicht.",
+          "sources": [1, 0]
+        },
+        {
+          "type": "callout",
+          "variant": "tip",
+          "title": "Praktikabler als Minuten",
+          "text": "Zähl nicht die Zeit, sondern die Einheiten. „Eine Folge“ oder „zwei Folgen“ ist für ein Kindergartenkind verstehbar, „zwanzig Minuten“ nicht. Ein Ende, das vor dem Einschalten feststeht und an eine Geschichte gekoppelt ist, produziert weit weniger Streit als ein Timer, der mitten in der Handlung klingelt."
+        }
+      ]
+    },
+    {
+      "type": "section",
+      "heading": "Inhalte auswählen statt hinnehmen",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "Der Unterschied zwischen einer ruhig erzählten Geschichte und einem schnell geschnittenen Clipstrom ist für ein Kindergartenkind größer als der Unterschied zwischen zwanzig und vierzig Minuten. Konkrete Titel oder Anbieter zu empfehlen bringt hier wenig – die Merkmale, auf die es ankommt, lassen sich dagegen an jedem Angebot prüfen."
+        },
+        {
+          "type": "list",
+          "ordered": false,
+          "items": [
+            { "title": "Erzähltempo:", "text": "Kann dein Kind der Handlung folgen, ohne dass Bilder alle zwei Sekunden wechseln? Sehr schnelle Schnittfolgen überfordern Vierjährige und machen sie unruhiger, statt sie zu unterhalten." },
+            { "title": "Abgeschlossene Länge:", "text": "Eine Folge, die endet, ist besser als ein Format, das automatisch weiterläuft. Automatische Fortsetzung nimmt deinem Kind die Erfahrung, selbst aufhören zu können." },
+            { "title": "Bekannte Welt:", "text": "Alltag, Tiere, Freundschaft, kleine Konflikte. Gruselige oder gewalthaltige Szenen wirken in diesem Alter länger nach, als Erwachsene vermuten – auch in kindlich gezeichneter Form." },
+            { "title": "Keine Kaufaufforderung:", "text": "Angebote, die im selben Atemzug Spielzeug, Zusatzinhalte oder virtuelle Währungen bewerben, sind für dieses Alter ungeeignet." },
+            { "title": "Anschlussfähigkeit:", "text": "Gute Inhalte hinterlassen etwas, worüber man reden oder was man nachspielen kann." }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "section",
+      "heading": "Werbung: was dein Kind noch nicht sehen kann",
+      "blocks": [
+        {
+          "type": "evidence",
+          "level": "stark",
+          "claim": "Kinder unter etwa sieben bis acht Jahren erkennen die verkaufende Absicht von Werbung nicht. Sie unterscheiden Werbung teilweise formal vom Programm, halten die Aussagen aber für wahr gemeinte Information.",
+          "note": "Das ist einer der stabilsten Befunde der Medienforschung und Grundlage der Werbebeschränkungen für Kindersendungen. Praktisch heißt es: Ein Vierjähriger, der etwas haben will, was er in einem Werbespot gesehen hat, ist nicht quengelig, sondern altersgemäß. Er hat keine Möglichkeit, die Absicht zu durchschauen.",
+          "sources": [5]
+        },
+        {
+          "type": "p",
+          "text": "Erschwerend kommt hinzu, dass Werbung heute selten aussieht wie Werbung. Eingebettete Produktplatzierungen, gesponserte Videos und Spiele mit Kaufanreizen erkennen selbst ältere Kinder schlecht. Für das Kindergartenalter folgt daraus eine einfache Konsequenz: Werbefreiheit ist ein härteres Auswahlkriterium als Altersfreigabe."
+        },
+        {
+          "type": "callout",
+          "variant": "tip",
+          "title": "Werbung zum Thema machen, statt sie zu verbieten",
+          "items": [
+            "Benenne sie, wenn sie auftaucht: „Das ist Werbung. Die wollen, dass wir das kaufen.“",
+            "Frag nach: „Was glaubst du, warum die das zeigen?“ Auch ohne fertige Antwort entsteht ein Anfang.",
+            "Trenne Wunsch und Kauf: Wünsche dürfen aufgeschrieben und gesammelt werden, ohne sofort erfüllt zu werden.",
+            "Nutze werbefreie Angebote – öffentlich-rechtliche und öffentlich geförderte Kinderangebote sind hier im Vorteil."
+          ]
+        }
+      ]
+    },
+    {
+      "type": "section",
+      "heading": "Begleiten statt verbieten",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "Über die Zeitgrenzen streiten die Fachgesellschaften, über die Begleitung nicht. Ein Kind, das allein vor einem Bildschirm sitzt, verarbeitet das Gesehene allein. Ein Kind, neben dem jemand sitzt, kann fragen, kommentieren, sich rückversichern – und genau das macht aus Konsum eine Erfahrung, über die man verfügt."
+        },
+        {
+          "type": "evidence",
+          "level": "moderat",
+          "claim": "Gemeinsame Nutzung und das Gespräch über Inhalte gelten übereinstimmend als der wirksamste Teil der Medienerziehung im Vorschulalter.",
+          "note": "Der Konsens ist breit, die Datenbasis besteht überwiegend aus Beobachtungsstudien und Fachkonsens. Die Empfehlung ist trotzdem risikoarm: Dabeisitzen und Nachfragen kostet nichts und hat keine bekannten Nachteile.",
+          "sources": [1, 2, 3]
+        },
+        {
+          "type": "comparison",
+          "title": "Zwei Arten, dieselbe Zeit zu verbringen",
+          "columns": [
+            {
+              "title": "Trägt",
+              "tone": "good",
+              "items": [
+                "Vorher gemeinsam auswählen, was geschaut wird",
+                "Wenigstens die ersten Minuten dabeibleiben",
+                "Danach fragen: Was war da los? Was fandest du komisch?",
+                "Feste Orte – Bildschirm im Gemeinschaftsraum, nicht im Kinderzimmer",
+                "Nachspielen erlauben, auch wenn es laut wird"
+              ]
+            },
+            {
+              "title": "Trägt weniger",
+              "tone": "neutral",
+              "items": [
+                "Gerät als Belohnung oder Entzug als Strafe",
+                "Bildschirm zum Einschlafen oder direkt vor dem Zubettgehen",
+                "Dauerhaft laufender Hintergrundbildschirm",
+                "Automatisch weiterlaufende Formate ohne Ende",
+                "Regeln, die niemand erklärt hat"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "section",
+      "heading": "Regeln, die halten – und dein eigenes Vorbild",
+      "blocks": [
+        {
+          "type": "steps",
+          "title": "Familienregeln aufsetzen, die nicht täglich neu verhandelt werden",
+          "items": [
+            { "title": "Wenige Regeln, klar formuliert.", "text": "Wann, wie lange, wo, mit wem. Drei bis vier Sätze reichen für ein Kindergartenkind." },
+            { "title": "Vorher festlegen, nicht im Streit.", "text": "Verhandlungen mitten in der Sendung gehen fast immer verloren. Der Zeitpunkt für Absprachen ist der ruhige Vormittag." },
+            { "title": "Medienfreie Zonen benennen.", "text": "Esstisch, Auto, Schlafzimmer, die letzte Stunde vor dem Schlafen – das sind die Standardgrenzen der Fachgesellschaften." },
+            { "title": "Die Regeln gelten für alle.", "text": "Auch für Erwachsene, wenigstens am Esstisch. Sonst sind es keine Regeln, sondern Anordnungen." },
+            { "title": "Nachjustieren ist erlaubt.", "text": "Was mit vier passt, passt mit sechs nicht mehr. Regeln, die nie angepasst werden, werden unterlaufen." }
+          ]
+        },
+        {
+          "type": "evidence",
+          "level": "moderat",
+          "claim": "Wenn Eltern während gemeinsamer Zeit häufig durch ihr eigenes Gerät unterbrochen werden, hängt das mit mehr Verhaltensauffälligkeiten bei ihren Kindern zusammen.",
+          "note": "Diese Befunde stammen aus Beobachtungs- und Befragungsstudien; die Wirkrichtung ist nicht sicher – anstrengende Kinder können auch dazu führen, dass Eltern häufiger zum Handy greifen. Als Merksatz taugt es trotzdem: Kinder registrieren sehr genau, wann sie gegen ein Gerät verlieren.",
+          "sources": [6]
+        },
+        {
+          "type": "callout",
+          "variant": "info",
+          "title": "„Bei den anderen dürfen alle mehr“",
+          "text": "Dieser Satz kommt zuverlässig, und er stimmt manchmal sogar. Er ist trotzdem kein Argument. Hilfreich ist, ihn nicht zu entkräften, sondern anzuerkennen und danebenzustellen: „Kann sein. Bei uns ist es so.“ Und ehrlich bleiben: Familien treffen unterschiedliche Entscheidungen, weil ihre Situationen unterschiedlich sind – nicht weil eine davon die schlechteren Eltern hat."
+        }
+      ]
+    },
+    {
+      "type": "section",
+      "heading": "Häufige Fragen",
+      "blocks": [
+        {
+          "type": "faq",
+          "items": [
+            {
+              "q": "Ab wann darf ein Kind überhaupt etwas gucken?",
+              "a": "Vor drei Jahren empfehlen die Fachgesellschaften einhellig, darauf zu verzichten – ausgenommen Videotelefonate mit Menschen, die das Kind kennt. Ab drei ist begleitetes, kurzes Schauen vertretbar. Ein Kind, das gar nichts sieht, verpasst nichts, das es später nicht mühelos nachholt."
+            },
+            {
+              "q": "Mein Kind rastet nach dem Ausschalten regelmäßig aus. Machen wir etwas falsch?",
+              "a": "Meistens nicht. Der Übergang aus einem sehr fesselnden Zustand in den Alltag ist für Kindergartenkinder schwer. Es hilft, das Ende vorher anzukündigen, an eine natürliche Grenze zu koppeln – das Ende einer Folge – und danach etwas Körperliches anzuschließen. Wenn es trotzdem eskaliert, ist das ein Wutanfall wie andere auch, kein Beweis für Sucht."
+            },
+            {
+              "q": "Sind Lern-Apps besser als Filme?",
+              "a": "Nicht automatisch. Entscheidend ist auch hier, ob jemand dabei ist und ob das Angebot wirklich etwas verlangt, statt nur bunt zu reagieren. Viele als pädagogisch beworbene Angebote sind vor allem gut gestaltete Belohnungsschleifen. Ein Kindergartenkind lernt Farben, Zahlen und Buchstaben ohne App zuverlässig."
+            },
+            {
+              "q": "Wir brauchen den Bildschirm, um Abendessen zu kochen. Ist das schlimm?",
+              "a": "Nein. Bildschirmzeit, die dir Handlungsfähigkeit verschafft, ist eine legitime Nutzung. Problematisch wird es erst, wenn der Bildschirm das einzige Mittel wird, mit dem sich schwierige Gefühle beruhigen lassen – dann lohnt es sich, bewusst andere Wege daneben zu stellen."
+            },
+            {
+              "q": "Wie gehe ich mit Großeltern um, die andere Regeln haben?",
+              "a": "Nenne eine einzige Regel, die dir wirklich wichtig ist, statt eine Liste. Meist ist das der Inhalt, nicht die Dauer. Kinder kommen gut damit zurecht, dass an verschiedenen Orten verschiedene Regeln gelten, solange die Regeln an jedem Ort verlässlich sind."
+            },
+            {
+              "q": "Braucht mein Kind früh Medienkompetenz für die Schule?",
+              "a": "Für die Grundschule nicht. Geräte bedienen lernen Kinder in kürzester Zeit; was schwer und langsam wächst, ist das Urteil darüber – Werbung erkennen, Absichten durchschauen, aufhören können. Das entsteht im Gespräch, nicht durch frühe Nutzung."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "callout",
+      "variant": "info",
+      "title": "Kurz gesagt",
+      "text": "Wenig, ausgewählt, begleitet, besprochen. Die Minutenzahl ist die unwichtigste der vier Größen – und dein eigenes Verhalten am Esstisch die wirksamste."
+    }
+  ],
+  "sources": [
+    {
+      "title": "Guidelines on physical activity, sedentary behaviour and sleep for children under 5 years of age",
+      "publisher": "World Health Organization",
+      "year": "2019",
+      "kind": "Leitlinie",
+      "url": "https://www.who.int/publications/i/item/9789241550536"
+    },
+    {
+      "title": "S2k-Leitlinie: Prävention dysregulierten Bildschirmmediengebrauchs in Kindheit und Jugend (AWMF-Register-Nr. 027-075)",
+      "publisher": "AWMF / Deutsche Gesellschaft für Kinder- und Jugendmedizin",
+      "year": "2023",
+      "kind": "Leitlinie",
+      "url": "https://register.awmf.org/assets/guidelines/027-075l_S2k_Praevention-dysregulierten-Bildschirmmediengebrauchs-Kinder-Jugendliche_2023-09.pdf"
+    },
+    {
+      "title": "Umgang mit Medien: 3–6 Jahre",
+      "publisher": "Bundeszentrale für gesundheitliche Aufklärung (BZgA), kindergesundheit-info.de",
+      "year": "2024",
+      "kind": "Institutionelle Information",
+      "url": "https://www.kindergesundheit-info.de/themen/medien/alltagstipps/medienwahrnehmung/medienumgang-3-6-jahre/"
+    },
+    {
+      "title": "Medienzeiten: Feste Bildschirmzeiten für Kinder vereinbaren",
+      "publisher": "SCHAU HIN! Was Dein Kind mit Medien macht",
+      "year": "2024",
+      "kind": "Institutionelle Information",
+      "url": "https://www.schau-hin.info/grundlagen/medienzeiten-feste-bildschirmzeiten-fuer-kinder-vereinbaren"
+    },
+    {
+      "title": "Bildschirmzeit: Kinder von 0–6 Jahren",
+      "publisher": "klicksafe (EU-Initiative für mehr Sicherheit im Netz)",
+      "year": "2024",
+      "kind": "Institutionelle Information",
+      "url": "https://www.klicksafe.eu/en/bildschirm-und-medienzeit-was-ist-fuer-kinder-in-ordnung/bildschirmzeiten-bei-kindern-bis-6-jahre"
+    },
+    {
+      "title": "Report of the APA Task Force on Advertising and Children",
+      "publisher": "American Psychological Association",
+      "year": "2004",
+      "kind": "Übersichtsarbeit",
+      "url": "https://www.apa.org/pubs/reports/advertising-children"
+    },
+    {
+      "title": "Technoference: Parent Distraction With Technology and Associations With Child Behavior Problems",
+      "publisher": "Child Development (McDaniel und Radesky)",
+      "year": "2018",
+      "kind": "Studie",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/28493400/"
+    }
+  ],
+  "related": ["bildschirmzeit-kleinkind", "mediennutzung-schulkind", "regeln-und-konsequenzen", "rollenspiel"]
+}

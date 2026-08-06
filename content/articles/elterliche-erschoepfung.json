@@ -1,0 +1,275 @@
+{
+  "slug": "elterliche-erschoepfung",
+  "title": "Erschöpfung und Elternburnout",
+  "subtitle": "Wo normale Müdigkeit aufhört und etwas anderes anfängt: die vier Anzeichen des Elternburnouts, warum es nichts mit mangelnder Liebe zu tun hat und welche Entlastung tatsächlich zu bekommen ist.",
+  "phases": ["neugeborenes", "saeugling", "kleinkind", "kindergarten"],
+  "topics": ["eltern"],
+  "updated": "2026-08-06",
+  "summary": "Elternburnout ist mehr als Müdigkeit: eine tiefe Erschöpfung in der Elternrolle, das Gefühl, innerlich vom eigenen Kind abzurücken, ein scharfer Kontrast zu der Person, die man als Elternteil einmal war. Die Forschung von Isabelle Roskam und Moïra Mikolajczak zeigt, dass es dabei nicht um Charakter oder Liebe geht, sondern um ein dauerhaftes Ungleichgewicht zwischen Belastungen und Ressourcen – und dass unbehandelter Elternburnout ernste Folgen für Eltern und Kinder hat. Die gute Nachricht: Er ist veränderbar, weil sich die Waagschalen verändern lassen. Und Gedanken, alles hinter sich lassen zu wollen, sind ein Symptom der Erschöpfung, kein Urteil über dich.",
+  "keyFacts": [
+    "Elternburnout hat vier Kennzeichen: Erschöpfung, emotionale Distanzierung, Verlust der Freude an der Elternrolle und der Kontrast zum früheren Ich.",
+    "Er entsteht, wenn Belastungen dauerhaft die verfügbaren Ressourcen übersteigen – nicht durch zu wenig Liebe.",
+    "Konservative Schätzungen gehen von mindestens 5 Prozent betroffener Eltern aus; die Häufigkeit unterscheidet sich stark zwischen Ländern.",
+    "Fluchtgedanken sind ein häufiges Symptom und bedeuten nicht, dass du dein Kind verlassen wirst.",
+    "Bei Gedanken, dir oder deinem Kind etwas anzutun: sofort Hilfe holen – Telefonseelsorge 0800 111 0 111.",
+    "Eltern-Kind-Kuren sind eine Pflichtleistung der gesetzlichen Krankenkassen, keine Kulanz."
+  ],
+  "blocks": [
+    {
+      "type": "p",
+      "lead": true,
+      "text": "Es gibt eine Müdigkeit, die nach einem langen Wochenende weg ist, und es gibt eine andere, die auch nach dem Urlaub noch da ist. Wer in der zweiten Sorte steckt, erkennt sich oft in einem bestimmten Satz wieder: Ich funktioniere noch, aber ich bin nicht mehr da. Genau das beschreibt die Forschung seit einigen Jahren als Elternburnout – ein eigenständiges Zustandsbild, das sich von Depression und von normaler Erschöpfung unterscheidet und das man weder wegschlafen noch wegreißen kann."
+    },
+    {
+      "type": "callout",
+      "variant": "danger",
+      "title": "Wenn du daran denkst, dir oder deinem Kind etwas anzutun",
+      "text": "Hol dir sofort Hilfe – heute, nicht nächste Woche. **Telefonseelsorge 0800 111 0 111 oder 0800 111 0 222**, rund um die Uhr, anonym und kostenlos. **Ärztlicher Bereitschaftsdienst 116 117** außerhalb der Praxiszeiten. **Im Notfall 112.** Solche Gedanken tauchen bei erschöpften Eltern häufig auf. Sie sind ein Zeichen dafür, wie groß die Belastung geworden ist – nicht dafür, dass du sie umsetzen wirst, und nicht dafür, dass dir dein Kind weggenommen wird. Wer sich Hilfe holt, zeigt Verantwortung. Alle Nummern und Anlaufstellen findest du auch auf der Seite Notfall & Anlaufstellen."
+    },
+    {
+      "type": "section",
+      "heading": "Was Elternburnout ist",
+      "blocks": [
+        {
+          "type": "evidence",
+          "level": "moderat",
+          "claim": "Elternburnout wird über vier Kennzeichen beschrieben: eine überwältigende Erschöpfung in der Elternrolle, eine emotionale Distanzierung vom eigenen Kind, der Verlust an Freude und Wirksamkeit als Mutter oder Vater und ein deutlicher Kontrast zu der Elternfigur, die man vorher war oder sein wollte.",
+          "note": "Das Konzept stammt von Moïra Mikolajczak, Isabelle Roskam und Kolleginnen und wird seit etwa 2018 systematisch untersucht. Es ist jung, und es ist keine eigenständige Diagnose im medizinischen Klassifikationssystem – das heißt nicht, dass es das Phänomen nicht gibt, sondern dass die Forschung dazu noch läuft. Klinisch wichtig ist die Abgrenzung: Elternburnout ist rollenspezifisch. Wer im Job funktioniert und beim Betreten der Wohnung zusammenklappt, hat kein allgemeines Erschöpfungssyndrom.",
+          "sources": [0, 3]
+        },
+        {
+          "type": "p",
+          "text": "Die emotionale Distanzierung ist dabei der Teil, der Eltern am meisten erschreckt. Sie fühlt sich an wie Lieblosigkeit und ist es nicht – sie ist ein Schutzmechanismus eines Systems, das über seine Grenze hinaus beansprucht wurde. Wer sich dabei ertappt, das Kind nur noch abzufertigen, ohne etwas zu empfinden, hat nicht aufgehört zu lieben, sondern hat keine Reserven mehr."
+        },
+        {
+          "type": "comparison",
+          "title": "Normale Erschöpfung oder mehr?",
+          "columns": [
+            {
+              "title": "Erschöpfung, die zur Phase gehört",
+              "tone": "neutral",
+              "items": [
+                "Nach ein bis zwei ruhigen Nächten geht es spürbar besser",
+                "Schöne Momente mit dem Kind kommen noch an",
+                "Genervtsein ist punktuell und legt sich wieder",
+                "Du erkennst dich als Elternteil noch wieder",
+                "Vorfreude auf Dinge existiert noch"
+              ]
+            },
+            {
+              "title": "Warnzeichen für Burnout",
+              "tone": "bad",
+              "items": [
+                "Schlaf hilft nicht mehr, die Erschöpfung ist morgens schon da",
+                "Innere Leere gegenüber dem Kind, Abläufe ohne Gefühl",
+                "Dauerhafte Reizbarkeit, Schreien, Erschrecken über sich selbst",
+                "Der Gedanke, einfach wegzufahren und nicht wiederzukommen",
+                "Scham und das Gefühl, als Mutter oder Vater versagt zu haben"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "section",
+      "heading": "Wie es entsteht – und warum es nicht an dir liegt",
+      "blocks": [
+        {
+          "type": "evidence",
+          "level": "moderat",
+          "claim": "Elternburnout entsteht, wenn die Belastungen der Elternrolle die verfügbaren Ressourcen dauerhaft übersteigen. Entscheidend ist nicht die Höhe der Belastung allein, sondern das Ungleichgewicht.",
+          "note": "Das Modell heißt Balance between Risks and Resources und stammt von Mikolajczak und Roskam. Praktisch ist daran vor allem eines: Es gibt zwei Waagschalen. Wer Belastungen nicht senken kann – ein Kind mit besonderem Bedarf, eine Krankheit, kein Netzwerk –, kann trotzdem an der anderen Seite arbeiten. Und es erklärt, warum Elternburnout auch Menschen trifft, die sich sehr anstrengen: Hohe eigene Ansprüche und das Gefühl, alles perfekt machen zu müssen, gehören zu den Risikofaktoren.",
+          "sources": [3, 0]
+        },
+        {
+          "type": "evidence",
+          "level": "moderat",
+          "claim": "In einer Untersuchung mit über 17.000 Eltern aus 42 Ländern unterscheidet sich die Häufigkeit von Elternburnout erheblich zwischen Ländern; besonders hoch liegt sie in individualistisch geprägten westlichen Gesellschaften. Konservative Schätzungen gehen davon aus, dass mindestens 5 Prozent der Eltern betroffen sind.",
+          "note": "Der Kulturunterschied ist der interessanteste Befund dieser Arbeit: Nicht die objektive Arbeitsbelastung erklärt die Unterschiede am besten, sondern wie sehr Elternschaft als individuelle Leistung verstanden wird, für die man allein verantwortlich ist. Wo Kinder selbstverständlich von mehreren Erwachsenen mitgetragen werden, ist Elternburnout seltener. Für Deutschland liegen keine belastbaren eigenen Häufigkeitszahlen vor – die 5 Prozent sind eine vorsichtige internationale Untergrenze, keine deutsche Statistik.",
+          "sources": [1]
+        },
+        {
+          "type": "timeline",
+          "title": "Wie sich Elternburnout meist entwickelt",
+          "entries": [
+            { "age": "Stufe 1", "label": "Dauerbelastung ohne Erholung", "text": "Schlafmangel, keine Pausen, ständige Erreichbarkeit für alle. Noch fühlt es sich nach einer Phase an, die vorbeigeht." },
+            { "age": "Stufe 2", "label": "Erschöpfung, die bleibt", "text": "Auch nach dem Wochenende ist die Batterie leer. Kleinigkeiten kosten unverhältnismäßig viel Kraft, die Zündschnur wird kürzer." },
+            { "age": "Stufe 3", "label": "Emotionale Distanzierung", "text": "Der Kontakt zum Kind wird funktional: füttern, anziehen, ins Bett bringen – ohne Freude. Viele beschreiben sich selbst als Roboter." },
+            { "age": "Stufe 4", "label": "Kontrast und Scham", "text": "Der Vergleich mit der eigenen Vorstellung vom Elternsein tut weh. Scham verhindert, dass darüber gesprochen wird – und die Isolation verstärkt alles." },
+            { "age": "Stufe 5", "label": "Folgen", "text": "Fluchtgedanken, Schlafstörungen, mehr Konflikte in der Partnerschaft, im ungünstigen Verlauf auch Vernachlässigung oder Ausbrüche gegenüber dem Kind. Spätestens hier braucht es Hilfe von außen." }
+          ],
+          "caption": "Vereinfachte Darstellung des Verlaufs nach den Arbeiten von Mikolajczak, Gross und Roskam. Der Verlauf ist nicht zwangsläufig – an jeder Stelle lässt sich gegensteuern, und die Stufen können sich überlappen."
+        },
+        {
+          "type": "evidence",
+          "level": "moderat",
+          "claim": "Elternburnout geht in Längsschnittstudien Fluchtgedanken, Vernachlässigung und gewaltsamem Verhalten gegenüber dem Kind zeitlich voraus – die Erschöpfung ist also nicht Folge, sondern Ursache.",
+          "note": "Zwei Studien mit 918 beziehungsweise 822 Eltern befragten dieselben Personen mehrfach innerhalb eines Jahres. Diese Reihenfolge ist der Grund, warum Elternburnout ernst genommen werden muss, und gleichzeitig eine Entlastung: Wer sich über die eigenen Impulse erschrickt, ist nicht plötzlich ein anderer Mensch geworden, sondern erschöpft. Der Ansatzpunkt ist die Erschöpfung, nicht die Selbstverurteilung.",
+          "sources": [2]
+        }
+      ]
+    },
+    {
+      "type": "section",
+      "heading": "Erschöpfung, Depression oder beides?",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "Die Abgrenzung ist im Alltag nicht immer eindeutig, und beides kann gleichzeitig bestehen. Grob gilt: Elternburnout ist an die Elternrolle gebunden – im Job, mit Freundinnen oder allein geht es besser. Eine Depression färbt alle Lebensbereiche ein, nimmt Freude auch dort, wo es keine Kinder gibt, und geht häufig mit Hoffnungslosigkeit, Wertlosigkeitsgefühlen und Antriebsverlust einher."
+        },
+        {
+          "type": "callout",
+          "variant": "warn",
+          "title": "Wann du nicht mehr allein weitermachen solltest",
+          "items": [
+            "Die Erschöpfung hält länger als zwei bis vier Wochen an und bessert sich auch nach Erholung nicht.",
+            "Du fühlst gegenüber deinem Kind nichts mehr oder erschrickst über deine Wut.",
+            "Du schläfst nicht, obwohl du könntest, oder wachst grübelnd auf.",
+            "Du trinkst mehr Alkohol oder nimmst Medikamente, um durch den Tag zu kommen.",
+            "Du denkst daran, wegzugehen und nicht wiederzukommen.",
+            "Gedanken daran, dir oder dem Kind etwas anzutun – dann sofort, siehe oben."
+          ]
+        },
+        {
+          "type": "p",
+          "text": "Erste Anlaufstellen sind die Hausarztpraxis, die Kinderarztpraxis, bei Säuglingen die Hebamme und die Frühen Hilfen deiner Kommune. Für die Zeit rund um Schwangerschaft und Geburt gibt es mit der S3-Leitlinie zu peripartalen psychischen Störungen einen fachlichen Rahmen, an dem sich Behandlerinnen orientieren. Wenn eine behandlungsbedürftige Depression im Spiel ist, gehört sie behandelt – Psychotherapie und, wo nötig, Medikamente sind Sache der Ärztin oder des Arztes, nicht der Selbstrecherche. Mehr dazu steht im Artikel zur postpartalen Depression."
+        }
+      ]
+    },
+    {
+      "type": "section",
+      "heading": "Was tatsächlich entlastet",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "Weil Elternburnout aus einem Ungleichgewicht entsteht, wirkt alles, was eine der beiden Waagschalen verändert. Das Unangenehme daran ist, dass die wirksamen Schritte selten die schönen sind: Es geht weniger um Wellness und mehr darum, Verantwortung tatsächlich abzugeben und Erwartungen zu senken."
+        },
+        {
+          "type": "steps",
+          "title": "Fünf Hebel, in dieser Reihenfolge",
+          "items": [
+            { "title": "Schlaf sichern, bevor alles andere", "text": "Vier zusammenhängende Stunden verändern die Lage mehr als jede Selbstoptimierung. Organisiert feste Nächte oder Vormittage, in denen jemand anderes vollständig übernimmt – Partnerin, Großeltern, Freundin. Auch einmal pro Woche zählt." },
+            { "title": "Ansprüche laut senken", "text": "Schreib auf, was diese Woche wirklich passieren muss. Alles andere darf ausfallen: gekochtes Essen, aufgeräumte Wohnung, Förderangebote, Geburtstagsfeiern mit Motto. Das ist kein Absenken der Elternqualität, sondern Triage." },
+            { "title": "Verantwortung abgeben, nicht Aufgaben", "text": "Ganze Bereiche mit Planung und Erinnern übergeben – an die zweite Person, an Großeltern, an bezahlte Hilfe. Hilfe, die nachgefragt werden muss, entlastet kaum. Wie das praktisch geht, steht im Artikel zum Mental Load." },
+            { "title": "Aus der Isolation raus", "text": "Scham hält Elternburnout am Laufen. Ein einziges ehrliches Gespräch mit jemandem, der nicht wertet, verändert oft mehr als eine Woche Urlaub. Elterntelefon 0800 111 0 550, Familienbildungsstätten, Elterngruppen, Frühe Hilfen." },
+            { "title": "Professionelle Entlastung beantragen", "text": "Eltern-Kind-Kur, Haushaltshilfe, Familienhebamme, Erziehungsberatungsstelle, Psychotherapie. Diese Angebote existieren für genau diese Situation – nicht für Menschen, denen es noch schlechter geht." }
+          ]
+        },
+        {
+          "type": "evidence",
+          "level": "stark",
+          "claim": "Medizinische Vorsorge- und Rehabilitationsleistungen für Mütter und Väter nach den §§ 24 und 41 SGB V sind Pflichtleistungen der gesetzlichen Krankenversicherung. Sie müssen bewilligt werden, wenn sie medizinisch notwendig sind.",
+          "note": "Das ist praktisch bedeutsam, weil viele Eltern glauben, eine Kur sei ein Gefallen, den man erbitten muss. Der Weg führt über die Hausarzt- oder Kinderarztpraxis, die die Notwendigkeit bescheinigt, und dann zur Krankenkasse. Durchgeführt werden die Maßnahmen stationär in Einrichtungen des Müttergenesungswerks oder gleichartigen Häusern. Beratungsstellen des Müttergenesungswerks helfen beim Antrag und beim Widerspruch – ein abgelehnter Erstantrag ist häufig und kein Endpunkt.",
+          "sources": [5, 6]
+        },
+        {
+          "type": "callout",
+          "variant": "tip",
+          "title": "Die Zehn-Minuten-Regel für schlechte Momente",
+          "text": "Wenn du merkst, dass du kippst: Kind sicher ablegen oder an einem sicheren Ort lassen, Raum verlassen, Tür offen. Zwei Minuten kaltes Wasser übers Handgelenk, Fenster auf, laut ausatmen. Dann jemanden anrufen – Sprechen unterbricht die Anspannung zuverlässiger als Durchhalten. Ein weinendes Kind allein im sicheren Bett ist ungefährlich. Ein Kind, das geschüttelt wird, nicht: Schütteln kann bei Säuglingen in Sekunden zu bleibenden Schäden führen."
+        }
+      ]
+    },
+    {
+      "type": "section",
+      "heading": "Häufige Fragen",
+      "blocks": [
+        {
+          "type": "faq",
+          "items": [
+            {
+              "q": "Ich denke ständig daran, einfach wegzufahren. Bin ich eine schlechte Mutter?",
+              "a": "Nein. Fluchtgedanken gehören zu den am häufigsten berichteten Symptomen von Elternburnout und sind in der Forschung gut beschrieben. Sie sind ein Alarmsignal deines Systems, kein Plan und kein Charakterurteil. Wichtig ist, was du daraus machst: Sie sind der Anlass, Entlastung zu organisieren – nicht der Anlass, dich noch mehr zu schämen."
+            },
+            {
+              "q": "Wenn ich jemandem erzähle, wie schlecht es mir geht, wird mir dann mein Kind weggenommen?",
+              "a": "Nein. Das ist die häufigste Angst und der häufigste Grund, warum Eltern zu spät Hilfe holen. Der ganz überwiegende Teil der Arbeit von Jugendamt und Frühen Hilfen ist Unterstützung: Familienhebammen, Haushaltshilfe, Betreuungsangebote, Beratung. Eine Inobhutnahme setzt eine akute Gefährdung voraus, die durch Hilfen nicht abgewendet werden kann – Erschöpfung, über die du selbst sprichst, ist das Gegenteil davon."
+            },
+            {
+              "q": "Ich bin erschöpft, obwohl mein Kind gesund ist und wir es finanziell gut haben. Darf ich das überhaupt?",
+              "a": "Ja. Elternburnout entsteht aus dem Verhältnis von Belastung und Ressourcen, nicht aus einem absoluten Härtegrad. Wer hohe Ansprüche an sich hat, wenig Netzwerk und keine Pausen, kann trotz guter äußerer Bedingungen ins Ungleichgewicht geraten. Der Vergleich mit anderen Familien hilft niemandem – er sorgt nur dafür, dass Hilfe später geholt wird."
+            },
+            {
+              "q": "Hilft ein Urlaub?",
+              "a": "Meistens nicht, wenn die Belastung dieselbe bleibt. Familienurlaub bedeutet oft dieselbe Betreuungsarbeit an einem anderen Ort mit schlechterer Infrastruktur. Wirksamer sind wiederkehrende, verlässliche Pausen im Alltag – ein fester freier Abend pro Woche, ein regelmäßiger Betreuungsnachmittag – und eine Entlastung, die auch nach dem Urlaub noch existiert."
+            },
+            {
+              "q": "Was ist mit dem anderen Elternteil? Trifft es nur Mütter?",
+              "a": "Nein. In den Untersuchungen sind zwar meist mehr Mütter befragt worden, Elternburnout betrifft aber auch Väter und nicht gebärende Elternteile. Bei ihnen zeigt sich Erschöpfung häufiger als Reizbarkeit, Rückzug in die Arbeit oder Zynismus statt als offene Traurigkeit – und wird deshalb später erkannt. Auch Vater-Kind-Kuren sind eine reguläre Kassenleistung."
+            },
+            {
+              "q": "Wie erkläre ich meinem Kind, dass es mir schlecht geht?",
+              "a": "Kurz, altersgerecht und ohne Verantwortung zu übertragen: „Mama ist gerade sehr müde. Das hat nichts mit dir zu tun, und ich kümmere mich darum.“ Kinder merken ohnehin, dass etwas ist. Was ihnen hilft, ist nicht ein perfektes Elternteil, sondern eine Erklärung, die sie entlastet – und die Erfahrung, dass Erwachsene sich Hilfe holen, wenn sie welche brauchen."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "callout",
+      "variant": "info",
+      "title": "Kurz gesagt",
+      "text": "Elternburnout ist ein Zustand, kein Charakterzug: dauerhafte Erschöpfung, innere Distanz zum Kind und der schmerzhafte Vergleich mit dem eigenen Anspruch. Er entsteht aus einem Ungleichgewicht, das sich verändern lässt – über Schlaf, über echte Verantwortungsübergabe, über gesenkte Ansprüche und über Hilfen, auf die du ein Recht hast. Und bei Gedanken, dir oder deinem Kind etwas anzutun, gilt nur eins: heute anrufen, 0800 111 0 111."
+    }
+  ],
+  "sources": [
+    {
+      "title": "Parental Burnout: What Is It, and Why Does It Matter?",
+      "publisher": "Clinical Psychological Science (Mikolajczak M, Gross JJ, Roskam I)",
+      "year": "2019",
+      "kind": "Übersichtsarbeit",
+      "url": "https://journals.sagepub.com/doi/abs/10.1177/2167702619858430"
+    },
+    {
+      "title": "Parental Burnout Around the Globe: a 42-Country Study",
+      "publisher": "Affective Science (Roskam I, Aguiar J u. a., IIPB Consortium)",
+      "year": "2021",
+      "kind": "Studie",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7970748/"
+    },
+    {
+      "title": "Consequences of parental burnout: Its specific effect on child neglect and violence",
+      "publisher": "Child Abuse & Neglect (Mikolajczak M, Brianda ME, Avalosse H, Roskam I)",
+      "year": "2018",
+      "kind": "Studie",
+      "url": "https://www.sciencedirect.com/science/article/abs/pii/S0145213418301297"
+    },
+    {
+      "title": "A Theoretical and Clinical Framework for Parental Burnout: The Balance Between Risks and Resources (BR2)",
+      "publisher": "Frontiers in Psychology (Mikolajczak M, Roskam I)",
+      "year": "2018",
+      "kind": "Übersichtsarbeit",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6006266/"
+    },
+    {
+      "title": "S3-Leitlinie Peripartale Psychische Störungen (AWMF-Register-Nr. 051-032)",
+      "publisher": "AWMF / Deutsches Kollegium für Psychosomatische Medizin und beteiligte Fachgesellschaften",
+      "year": "2025",
+      "kind": "Leitlinie",
+      "url": "https://register.awmf.org/de/leitlinien/detail/051-032"
+    },
+    {
+      "title": "Gesetzliche Grundlagen der Mutter-Kind- und Vater-Kind-Maßnahmen",
+      "publisher": "Müttergenesungswerk – Elly Heuss-Knapp-Stiftung",
+      "year": "2025",
+      "kind": "Institutionelle Information",
+      "url": "https://www.muettergenesungswerk.de/experten/gesetzliche-grundlagen"
+    },
+    {
+      "title": "Mutter-/Vater-Kind-Maßnahmen (§§ 24, 41 SGB V)",
+      "publisher": "Verband der Ersatzkassen (vdek)",
+      "year": "2025",
+      "kind": "Institutionelle Information",
+      "url": "https://www.vdek.com/vertragspartner/vorsorge-rehabilitation/mvk.html"
+    },
+    {
+      "title": "Hilfen für Familien mit Kindern bis 3 Jahre",
+      "publisher": "Nationales Zentrum Frühe Hilfen (NZFH), elternsein.info",
+      "year": "2025",
+      "kind": "Institutionelle Information",
+      "url": "https://www.elternsein.info/"
+    }
+  ],
+  "related": ["postpartale-depression", "mentale-last", "partnerschaft-nach-der-geburt", "schreibaby"]
+}

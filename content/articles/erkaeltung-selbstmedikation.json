@@ -1,0 +1,244 @@
+{
+  "slug": "erkaeltung-selbstmedikation",
+  "title": "Erkältung: was hilft, was nur beruhigt",
+  "subtitle": "Hustensaft, Nasentropfen, Zwiebelsäckchen, Inhalieren – eine ehrliche Sortierung nach dem, was belegt ist, was harmlos wirkungslos ist und was kleinen Kindern schaden kann.",
+  "phases": ["saeugling", "kleinkind", "kindergarten"],
+  "topics": ["gesundheit"],
+  "updated": "2026-08-06",
+  "summary": "Die unbequeme Wahrheit über Erkältungsmittel für Kinder: Fast nichts davon ist wirklich belegt. Für frei verkäufliche Hustenmittel gibt es keine überzeugende Evidenz, Hustenstiller wirken bei akutem Husten nicht besser als Placebo, und ein Teil der beliebtesten Hausmittel ist bei Säuglingen und Kleinkindern sogar gefährlich. Was tatsächlich hilft, ist unspektakulär: Flüssigkeit, feuchte Luft, Kochsalz in der Nase, Ruhe – und ab dem ersten Geburtstag ein Löffel Honig gegen nächtlichen Husten. Der Rest ist Zeit.",
+  "keyFacts": [
+    "Eine gewöhnliche Erkältung dauert etwa eine bis zwei Wochen, der Husten kann bis zu drei Wochen bleiben.",
+    "Für frei verkäufliche Hustenmittel gibt es keine gute Evidenz – weder für noch gegen die Wirksamkeit.",
+    "Honig lindert nächtlichen Husten etwas besser als keine Behandlung – aber erst ab dem ersten Geburtstag.",
+    "Ätherische Öle mit Menthol, Kampfer oder Eukalyptus gehören nicht an Säuglinge und Kleinkinder.",
+    "Codeinhaltige Hustenmittel sind für Kinder unter 12 Jahren kontraindiziert."
+  ],
+  "blocks": [
+    {
+      "type": "p",
+      "lead": true,
+      "text": "Ein erkältetes Kind, das nachts nicht schlafen kann, bringt Eltern in eine Lage, in der man alles versuchen möchte. Genau darauf ist der Markt eingerichtet: Erkältungsmittel für Kinder füllen ganze Apothekenregale. Der Abgleich mit der Studienlage ist ernüchternd – und gleichzeitig entlastend. Wenn kaum etwas nachweislich wirkt, kannst du auch nichts falsch machen, indem du wenig gibst. Wichtiger ist zu wissen, welche wenigen Dinge tatsächlich schaden."
+    },
+    {
+      "type": "callout",
+      "variant": "danger",
+      "title": "Diese drei Dinge nicht – auch nicht ausnahmsweise",
+      "text": "**Keine ätherischen Öle bei Säuglingen und Kleinkindern.** Präparate mit Menthol, Kampfer, Eukalyptus- oder Pfefferminzöl – als Einreibung, Badezusatz, Inhalat oder im Diffuser – können bei kleinen Kindern einen Kehlkopfkrampf und in der Folge einen Atemstillstand auslösen. Fachgesellschaften raten bis mindestens zum zweiten, teils bis zum dritten Geburtstag ab. **Keine Hustenstiller ohne ärztliche Anweisung.** Codeinhaltige Mittel sind für Kinder unter 12 Jahren kontraindiziert, weil sie zu Atemproblemen führen können; auch andere zentral wirkende Hustenstiller unterdrücken einen Schutzreflex, der Schleim aus den Atemwegen befördert. **Kein Honig im ersten Lebensjahr.** Honig kann Sporen von Clostridium botulinum enthalten, die bei Säuglingen einen Säuglingsbotulismus mit Lähmungen auslösen können. Das gilt auch für einen Tropfen am Schnuller."
+    },
+    {
+      "type": "section",
+      "heading": "Wie eine Erkältung normalerweise verläuft",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "Bevor es um Mittel geht, lohnt der Blick auf den Verlauf – weil ein großer Teil der Wirkung, die Eltern Hausmitteln zuschreiben, schlicht der natürliche Gang der Dinge ist. Erkältungen heilen von allein aus, und sie tun das in einem ziemlich vorhersehbaren Rhythmus."
+        },
+        {
+          "type": "timeline",
+          "title": "Der typische Verlauf",
+          "entries": [
+            { "age": "Tag 1–2", "label": "Kratzen und Quengeln", "text": "Halsschmerzen, schlechte Laune, manchmal Fieber schon zu Beginn. Die Nase ist noch trocken oder läuft klar." },
+            { "age": "Tag 2–4", "label": "Höhepunkt", "text": "Verstopfte Nase, Fieber, wenig Appetit, unruhiger Schlaf. Für Säuglinge ist die verstopfte Nase das eigentliche Problem, weil Trinken und Atmen sich in die Quere kommen." },
+            { "age": "Tag 4–7", "label": "Sekret wird dicker", "text": "Gelblich-grünliches Nasensekret ist ein normaler Teil der Abheilung und für sich genommen kein Zeichen für eine bakterielle Infektion und kein Grund für ein Antibiotikum." },
+            { "age": "Woche 2", "label": "Es wird besser", "text": "Fieber und Abgeschlagenheit sind meist vorbei, das Kind spielt wieder. Der Husten bleibt oft noch." },
+            { "age": "Bis Woche 3", "label": "Resthusten", "text": "Die gereizte Schleimhaut braucht Zeit. Ein trockener Resthusten über zwei bis drei Wochen, der nachts und bei Anstrengung stärker ist, ist häufig und für sich allein kein Alarmzeichen." }
+          ],
+          "caption": "Typischer Verlauf nach den Elterninformationen der Bundeszentrale für gesundheitliche Aufklärung und den Patienteninformationen des IQWiG. Bei acht bis zwölf Infekten im Jahr überlappen sich die Verläufe im Winter – das erzeugt den Eindruck einer Dauererkältung."
+        }
+      ]
+    },
+    {
+      "type": "section",
+      "heading": "Was die Studienlage tatsächlich hergibt",
+      "blocks": [
+        {
+          "type": "evidence",
+          "level": "stark",
+          "claim": "Für frei verkäufliche Hustenmittel gibt es bei akutem Husten keine gute Evidenz – weder dafür noch dagegen. Bei Kindern kommt hinzu, dass Antihistaminika und zentral wirkende Hustenstiller ein Schadenspotenzial haben.",
+          "note": "Eine Cochrane-Übersicht mit 29 Studien und rund 4.800 Teilnehmenden kam zu diesem Schluss; die deutsche Husten-Leitlinie formuliert es für Hustenstiller noch direkter – sie wirken beim akuten Husten nicht besser als Placebo. Praktisch heißt das: Wenn ein Saft eurem Kind das Zubettgehen erleichtert, weil er süß ist und Zuwendung bedeutet, ist das ein realer Effekt. Nur kommt er nicht aus dem Wirkstoff.",
+          "sources": [0, 1]
+        },
+        {
+          "type": "evidence",
+          "level": "moderat",
+          "claim": "Honig lindert akuten Husten bei Kindern wahrscheinlich etwas besser als keine Behandlung oder Placebo und wirkt vermutlich mindestens so gut wie manche Hustenmittel. Für Kinder unter einem Jahr ist er nicht geeignet.",
+          "note": "Die Cochrane-Übersicht dazu umfasst sechs randomisierte Studien mit rund 900 Kindern. Die Effekte sind klein und die Studienqualität begrenzt – aber das ist immer noch mehr Beleg als für die meisten Hustensäfte. Praktisch: ein Löffel vor dem Schlafengehen. Danach nicht mehr Zähne putzen zu müssen, wäre allerdings die falsche Schlussfolgerung.",
+          "sources": [2]
+        },
+        {
+          "type": "evidence",
+          "level": "umstritten",
+          "claim": "Nasenspülungen und Nasentropfen mit Kochsalzlösung lindern Erkältungsbeschwerden möglicherweise. Die vorhandenen Studien sind klein und methodisch schwach, sodass die Sicherheit dieser Aussage begrenzt ist.",
+          "note": "Cochrane bewertet den Nutzen als möglich, aber nicht gesichert. Für Säuglinge ist der praktische Nutzen trotzdem hoch: Eine freie Nase entscheidet darüber, ob ein Kind trinken und schlafen kann. Kochsalz ist nebenwirkungsarm und macht die Schleimhaut nicht abhängig – das ist der entscheidende Unterschied zu abschwellenden Tropfen.",
+          "sources": [3]
+        }
+      ]
+    },
+    {
+      "type": "section",
+      "heading": "Die Sortierung: belegt, harmlos, riskant",
+      "blocks": [
+        {
+          "type": "comparison",
+          "title": "Was in welche Schublade gehört",
+          "columns": [
+            {
+              "title": "Belegt oder gut begründet",
+              "tone": "good",
+              "items": [
+                "Viel trinken und häufiger anlegen bei gestillten Kindern",
+                "Kochsalztropfen oder -spray für die Nase vor dem Trinken und vor dem Schlafen",
+                "Honig gegen nächtlichen Husten – ab dem ersten Geburtstag",
+                "Oberkörper leicht erhöht lagern, feuchte, nicht überheizte Luft",
+                "Schmerz- und fiebersenkende Mittel bei echtem Leiden, nach ärztlicher Anweisung"
+              ]
+            },
+            {
+              "title": "Harmlos, aber ohne Wirknachweis",
+              "tone": "neutral",
+              "items": [
+                "Zwiebelsäckchen aufs Ohr, Zwiebelsaft mit Zucker",
+                "Hühnersuppe, warme Wickel, Tee mit Zitrone",
+                "Pflanzliche Hustensäfte ohne ätherische Öle",
+                "Vitamin- und Zinkpräparate zur Behandlung eines laufenden Infekts",
+                "Homöopathische Erkältungsmittel"
+              ]
+            },
+            {
+              "title": "Kann kleinen Kindern schaden",
+              "tone": "bad",
+              "items": [
+                "Erkältungssalben, -bäder und Inhalate mit Menthol, Kampfer oder Eukalyptus",
+                "Hustenstiller ohne ärztliche Anordnung, codeinhaltige Mittel unter 12 Jahren",
+                "Honig im ersten Lebensjahr",
+                "Abschwellende Nasentropfen über längere Zeit oder in Erwachsenenzubereitung",
+                "Dampfinhalation über einer Schüssel – Verbrühungsgefahr"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "p",
+          "text": "Die mittlere Spalte ist ausdrücklich keine Abwertung. Ein Zwiebelsäckchen kostet nichts, schadet nichts und bedeutet für ein Kind: Jemand kümmert sich, es passiert etwas, es wird gleich besser. Diese Erwartung wirkt messbar – nur eben nicht über die Zwiebel. Problematisch wird es erst, wenn ein Hausmittel eine nötige Abklärung verzögert oder wenn Geld für etwas ausgegeben wird, das als Medizin verkauft wird. Mehr dazu im Artikel über alternative Heilverfahren."
+        }
+      ]
+    },
+    {
+      "type": "section",
+      "heading": "Praktisch: Nase, Husten, Nacht",
+      "blocks": [
+        {
+          "type": "steps",
+          "title": "Was du im Akutfall wirklich tun kannst",
+          "items": [
+            { "title": "Nase frei machen vor dem Trinken", "text": "Ein paar Tropfen Kochsalzlösung, kurz warten, dann anlegen oder Flasche geben. Für Säuglinge ist das die wichtigste Einzelmaßnahme, weil sie durch die Nase atmen." },
+            { "title": "Abschwellende Tropfen nur kurz und kindgerecht", "text": "Wenn die Nase gar nicht durchgängig wird, gibt es Zubereitungen für Kinder. Sie werden nur wenige Tage angewendet und nur nach Rücksprache mit Praxis oder Apotheke – bei längerem Gebrauch schwillt die Schleimhaut immer wieder an." },
+            { "title": "Luft befeuchten, nicht überheizen", "text": "Ein feuchtes Handtuch am Heizkörper, gelüftete und eher kühle Schlafräume. Verdampfer mit Zusätzen brauchst du nicht." },
+            { "title": "Beim Husten: Oberkörper hoch", "text": "Eine leicht erhöhte Lagerung – bei Säuglingen über die Matratzenneigung, nicht über Kissen im Bett – erleichtert vielen Kindern die Nacht." },
+            { "title": "Inhalieren nur mit dem richtigen Gerät", "text": "Die klassische Inhalation über einer Schüssel ist für Kinder wegen der Verbrühungsgefahr ungeeignet. Wenn inhaliert werden soll, dann mit einem Vernebler und in der Regel nur mit Kochsalzlösung." },
+            { "title": "Fieber nach Befinden behandeln", "text": "Nicht die Zahl entscheidet, sondern wie es deinem Kind geht. Welches Mittel in welcher Menge infrage kommt, sagt dir die Kinderarztpraxis oder Apotheke." }
+          ]
+        },
+        {
+          "type": "callout",
+          "variant": "warn",
+          "title": "Wann die Erkältung keine mehr ist",
+          "text": "Ärztlich abklären lassen: **Atemnot** – schnelle Atmung, Nasenflügeln, Einziehungen zwischen den Rippen, hörbares Stöhnen, blasse oder bläuliche Lippen. Außerdem **Fieber bei einem Säugling unter drei Monaten**, **Trinkverweigerung** oder deutlich weniger nasse Windeln, **Fieber, das nach einer fieberfreien Phase wiederkommt**, **Husten länger als drei bis vier Wochen**, plötzlicher Husten aus völliger Gesundheit heraus beim spielenden Kind (Verdacht auf einen Fremdkörper) und ein Kind, das ungewöhnlich schlapp ist. Außerhalb der Praxiszeiten: 116 117, bei Lebensgefahr 112."
+        }
+      ]
+    },
+    {
+      "type": "section",
+      "heading": "Häufige Fragen",
+      "blocks": [
+        {
+          "type": "faq",
+          "items": [
+            {
+              "q": "Grünes Nasensekret – braucht mein Kind jetzt ein Antibiotikum?",
+              "a": "Nein. Die Farbe kommt von Abwehrzellen und gehört zum normalen Verlauf einer Virusinfektion. Sie sagt nichts darüber aus, ob Bakterien beteiligt sind. Entscheidend sind Dauer, Fieberverlauf und Allgemeinbefinden, nicht die Farbe im Taschentuch."
+            },
+            {
+              "q": "Mein Kind hustet nachts so stark, dass niemand schläft. Darf ich einen Hustenstiller geben?",
+              "a": "Nicht auf eigene Faust. Hustenstiller unterdrücken einen Reflex, der die Atemwege frei hält, und codeinhaltige Mittel sind für Kinder unter zwölf Jahren nicht zugelassen. Was du tun kannst: Nase frei machen, Oberkörper erhöht lagern, Luft befeuchten, ab einem Jahr Honig. Und wenn mehrere Nächte in Folge zerstört sind, ist das ein guter Grund für einen Termin – auch, um Ursachen wie eine beginnende Bronchitis oder eine Allergie auszuschließen."
+            },
+            {
+              "q": "Sind pflanzliche Hustensäfte eine Alternative?",
+              "a": "Sie sind meist harmlos, wenn sie keine ätherischen Öle enthalten, die für kleine Kinder ungeeignet sind. Die Datenlage ist dünn und die Effekte, wo sie gemessen wurden, klein. Wenn ihr einen benutzt: Lies die Altersangabe auf der Packung wirklich, sie steht dort nicht zufällig."
+            },
+            {
+              "q": "Hilft Zwiebelsäckchen bei Ohrenschmerzen?",
+              "a": "Ein Wirknachweis fehlt. Wärme und Zuwendung tun vielen Kindern gut, und schaden tut das Säckchen nicht. Ohrenschmerzen bei einem kleinen Kind, mit Fieber, über Nacht anhaltend oder mit Ausfluss aus dem Ohr, gehören trotzdem angeschaut."
+            },
+            {
+              "q": "Darf mein erkältetes Kind an die frische Luft?",
+              "a": "Ja, wenn es kein hohes Fieber hat und selbst raus möchte. Kälte macht keine Erkältung – die kommt von Viren. Ein Spaziergang ohne Anstrengung ist völlig in Ordnung. In die Kita gehört dein Kind erst, wenn es fieberfrei ist und wieder am Alltag teilnehmen kann."
+            },
+            {
+              "q": "Kann ich mit Vitaminen oder Zink vorbeugen?",
+              "a": "Für Präparate, die das Immunsystem von Kindern dauerhaft und messbar stärken, gibt es keine überzeugende Datenlage. Was tatsächlich zählt, ist unspektakulär: Schlaf, Bewegung im Freien, rauchfreie Wohnung, die empfohlenen Impfungen, Händewaschen. Eine Ausnahme ist die Vitamin-D-Gabe im ersten Lebensjahr – die hat einen anderen Zweck und ist im entsprechenden Artikel beschrieben."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "callout",
+      "variant": "info",
+      "title": "Kurz gesagt",
+      "text": "Erkältungen heilen von allein. Was du geben kannst, ist Flüssigkeit, eine freie Nase, feuchte Luft, ab einem Jahr Honig – und viel Zuwendung, die wirksamer ist, als sie sich anfühlt. Was du weglassen solltest, ist kurz: ätherische Öle bei kleinen Kindern, Hustenstiller ohne Anweisung, Honig im ersten Jahr. Alles andere ist Geschmackssache, solange es keine Abklärung ersetzt."
+    }
+  ],
+  "sources": [
+    {
+      "title": "S3-Leitlinie Akuter und chronischer Husten (AWMF-Register-Nr. 053-013)",
+      "publisher": "AWMF / Deutsche Gesellschaft für Allgemeinmedizin und Familienmedizin (DEGAM)",
+      "year": "2025",
+      "kind": "Leitlinie",
+      "url": "https://register.awmf.org/assets/guidelines/053-013l_S3_akuter-und-chronischer-Husten_2025-11.pdf"
+    },
+    {
+      "title": "Over-the-counter (OTC) medications for acute cough in children and adults in community settings",
+      "publisher": "Cochrane Database of Systematic Reviews (Smith SM et al.)",
+      "year": "2014",
+      "kind": "Metaanalyse",
+      "url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD001831.pub5/full"
+    },
+    {
+      "title": "Honey for acute cough in children",
+      "publisher": "Cochrane Database of Systematic Reviews (Oduwole O et al.)",
+      "year": "2018",
+      "kind": "Metaanalyse",
+      "url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD007094.pub5/full"
+    },
+    {
+      "title": "Saline nasal irrigation for acute upper respiratory tract infections",
+      "publisher": "Cochrane Database of Systematic Reviews (King D et al.)",
+      "year": "2015",
+      "kind": "Metaanalyse",
+      "url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD006821.pub3/full"
+    },
+    {
+      "title": "Schnupfen, Husten und Halsschmerzen lindern",
+      "publisher": "Institut für Qualität und Wirtschaftlichkeit im Gesundheitswesen (IQWiG), gesundheitsinformation.de",
+      "year": "2024",
+      "kind": "Institutionelle Information",
+      "url": "https://www.gesundheitsinformation.de/schnupfen-husten-und-halsschmerzen-lindern.html"
+    },
+    {
+      "title": "Ätherische Öle eignen sich nicht als Heilmittel bei kleinen Kindern",
+      "publisher": "Berufsverband der Kinder- und Jugendärzte, kinderaerzte-im-netz.de",
+      "year": "2019",
+      "kind": "Institutionelle Information",
+      "url": "https://www.kinderaerzte-im-netz.de/news-archiv/meldung/aetherische-oele-eignen-sich-nicht-als-heilmittel-bei-kleinen-kindern/"
+    },
+    {
+      "title": "Codein: Überprüfung des Nutzen-Risiko-Verhältnisses codeinhaltiger Arzneimittel zur Behandlung von Husten bei Kindern und Jugendlichen",
+      "publisher": "Bundesinstitut für Arzneimittel und Medizinprodukte (BfArM)",
+      "year": "2015",
+      "kind": "Institutionelle Information",
+      "url": "https://www.bfarm.de/SharedDocs/Risikoinformationen/Pharmakovigilanz/DE/RV_STP/a-f/codein.html"
+    }
+  ],
+  "related": ["fieber-und-infekte", "kinderkrankheiten", "alternative-heilverfahren", "kind-krank-betreuung"]
+}

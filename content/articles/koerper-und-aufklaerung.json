@@ -1,0 +1,376 @@
+{
+  "slug": "koerper-und-aufklaerung",
+  "title": "Körper, Grenzen und erste Aufklärung",
+  "subtitle": "Warum richtige Wörter für alle Körperteile ein Schutzfaktor sind, wie sich Doktorspiele einordnen lassen – und was Kinder über Grenzen, Geheimnisse und Hilfe wissen sollten.",
+  "phases": ["kindergarten", "schulkind"],
+  "topics": ["entwicklung", "sicherheit"],
+  "updated": "2026-08-06",
+  "summary": "Körperwissen ist keine Frühsexualisierung, sondern eine Sicherheitsausstattung. Kinder, die alle ihre Körperteile beim richtigen Namen nennen können, die gelernt haben, dass ihr Nein auch gegenüber Erwachsenen gilt, und die den Unterschied zwischen guten und schlechten Geheimnissen kennen, sind besser geschützt – und können sich im Ernstfall verständlich machen. Dieser Artikel beschreibt, was in welchem Alter dazugehört, welche Regeln für Doktorspiele gelten und an welche Stellen du dich wenden kannst, wenn du dir Sorgen machst.",
+  "keyFacts": [
+    "Richtige Begriffe für Geschlechtsteile gehören zum Wortschatz wie Ellenbogen und Knie – Verniedlichungen erschweren es Kindern, sich verständlich zu machen.",
+    "Kindliche Körpererkundung unter Gleichaltrigen ist normal, wenn drei Regeln eingehalten werden.",
+    "Ein Kind muss niemanden umarmen oder küssen, auch keine Verwandten. Körpergrenzen üben sich im Alltag, nicht im Ernstfall.",
+    "Gute Geheimnisse machen Vorfreude, schlechte Geheimnisse machen Bauchweh – und schlechte Geheimnisse darf man immer weitersagen.",
+    "Übergriffe gehen weit überwiegend von Personen aus dem sozialen Nahfeld aus, nicht von Fremden.",
+    "Präventionsprogramme stärken nachweislich Wissen und Selbstschutzfertigkeiten – die Verantwortung liegt trotzdem bei Erwachsenen, nie beim Kind."
+  ],
+  "blocks": [
+    {
+      "type": "p",
+      "lead": true,
+      "text": "Über Körper und Sexualität mit einem Vierjährigen zu sprechen, fühlt sich für viele Eltern früh an. Aus Sicht des Kinderschutzes ist es das Gegenteil: Was Kinder in diesem Alter lernen, ist keine Sexualität, sondern Sprache, Selbstbestimmung und die Erlaubnis, sich Hilfe zu holen. Genau das sind die Dinge, die sie später schützen."
+    },
+    {
+      "type": "callout",
+      "variant": "warn",
+      "title": "Wenn du unsicher bist oder dir Sorgen machst",
+      "text": "Du musst keinen Verdacht beweisen, um dich beraten zu lassen – Unsicherheit reicht als Anlass. Das Hilfetelefon Sexueller Missbrauch der Unabhängigen Beauftragten für Fragen des sexuellen Kindesmissbrauchs ist unter **0800 22 55 530** kostenfrei und anonym erreichbar und richtet sich ausdrücklich auch an Eltern und Angehörige. Kinder und Jugendliche erreichen die Nummer gegen Kummer unter **116 111**. Beide Stellen beraten, ohne dass du etwas veranlassen musst. Auch die Erziehungsberatungsstellen vor Ort und der Kinder- und Jugendärztliche Dienst sind mögliche erste Ansprechpartner. Bei akuter Gefahr: 110."
+    },
+    {
+      "type": "section",
+      "heading": "Warum die richtigen Wörter schützen",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "In vielen Familien haben Nase, Bauch und Zehen einen Namen, und dazwischen kommt eine Lücke. Die wird mit Verniedlichungen gefüllt oder ausgelassen. Kinder lernen daraus zweierlei: dass dieser Bereich anders ist als der Rest des Körpers, und dass darüber nicht gesprochen wird. Beides ist im Alltag harmlos und im Ernstfall ein Problem."
+        },
+        {
+          "type": "evidence",
+          "level": "moderat",
+          "claim": "Fachstellen des Kinderschutzes empfehlen übereinstimmend, Kindern von Anfang an die korrekten Bezeichnungen für alle Körperteile beizubringen – Penis, Hoden, Vulva, Scheide. Kinder, die diese Wörter kennen, können Grenzverletzungen präziser beschreiben und werden von Erwachsenen eher verstanden.",
+          "note": "Ein Wirksamkeitsnachweis aus kontrollierten Studien fehlt hier, wie bei den meisten Präventionsbausteinen. Die Empfehlung stützt sich auf Fachkonsens und auf Erfahrungen aus Beratungsstellen, in denen Schilderungen von Kindern an fehlenden Begriffen scheitern. Der Aufwand ist minimal, das Risiko null.",
+          "sources": [0, 3]
+        },
+        {
+          "type": "p",
+          "text": "Ein zweiter Effekt ist wichtiger, als er klingt: Wer alle Körperteile benennen darf, erlebt seinen Körper als etwas, über das gesprochen werden darf. Damit sinkt die Hürde, sich an eine Erwachsene zu wenden – und genau daran scheitert Aufdeckung am häufigsten."
+        },
+        {
+          "type": "callout",
+          "variant": "tip",
+          "title": "Wie das im Alltag aussieht",
+          "items": [
+            "Beim Wickeln, Anziehen und Baden mitbenennen – beiläufig, ohne Aufhebens.",
+            "Fragen kurz und wahrheitsgemäß beantworten, dann abwarten. Kinder fragen nach, wenn sie mehr wissen wollen.",
+            "Nicht mehr erklären, als gefragt wurde: Woher kommen Babys heißt bei Vierjährigen meist aus dem Bauch der Mutter – nicht mehr.",
+            "Peinlichkeit ist erlaubt. Du darfst sagen: Ich weiß es gerade nicht genau, ich sage es dir morgen."
+          ]
+        }
+      ]
+    },
+    {
+      "type": "section",
+      "heading": "Was Kinder wann wissen wollen",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "Die europäischen Standards für Sexualaufklärung, gemeinsam vom WHO-Regionalbüro für Europa und der Bundeszentrale für gesundheitliche Aufklärung herausgegeben, ordnen die Themen nach Altersgruppen. Sie sind kein Lehrplan zum Abarbeiten, sondern eine Orientierung, was in welchem Alter typischerweise verstanden und gefragt wird."
+        },
+        {
+          "type": "timeline",
+          "title": "Themen nach Altersgruppen",
+          "entries": [
+            {
+              "age": "0–4 Jahre",
+              "label": "Körper kennenlernen",
+              "text": "Alle Körperteile benennen. Unterschiede zwischen Jungen und Mädchen. Wohlbefinden und Nähe. Erste Erfahrung damit, dass Nein gilt – beim Kitzeln, beim Hochheben, beim Kuscheln."
+            },
+            {
+              "age": "4–6 Jahre",
+              "label": "Grenzen und Regeln",
+              "text": "Woher Babys kommen, in einfachen Worten. Freundschaft und Zuneigung. Rückzug beim Toilettengang. Die Unterscheidung guter und schlechter Geheimnisse. Doktorspiele mit klaren Regeln."
+            },
+            {
+              "age": "6–9 Jahre",
+              "label": "Erklären und einordnen",
+              "text": "Zeugung, Schwangerschaft und Geburt genauer. Scham entsteht und wird respektiert. Unterschiedliche Familienformen. Erste Medieninhalte, auf die Kinder ungewollt stoßen – und die Erlaubnis, darüber zu sprechen."
+            },
+            {
+              "age": "9–12 Jahre",
+              "label": "Vor der Pubertät",
+              "text": "Körperliche Veränderungen erklären, bevor sie eintreten – Menstruation und Samenerguss gehören vor die ersten Anzeichen, nicht danach. Selbstbestimmung, Einvernehmlichkeit, Umgang mit Bildern und Nachrichten."
+            }
+          ],
+          "caption": "Altersgruppen und Themenschwerpunkte nach den Standards für die Sexualaufklärung in Europa (WHO-Regionalbüro für Europa und BZgA). Kinder greifen Themen in unterschiedlichem Tempo auf; die Einteilung beschreibt einen Rahmen, keine Abfolge von Terminen."
+        }
+      ]
+    },
+    {
+      "type": "section",
+      "heading": "Doktorspiele: normal, mit Regeln",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "Etwa ab dem dritten Lebensjahr beginnen viele Kinder, ihren Körper und den anderer Kinder zu erkunden: Doktor spielen, Vater-Mutter-Kind, gemeinsames Ausziehen. Das ist neugieriges Erkundungsverhalten und keine kindliche Sexualität im Sinn von Erwachsenen. Es zu verbieten wirkt nicht dämpfend, sondern verlagert es aus dem Blickfeld – und macht es damit weniger sicher."
+        },
+        {
+          "type": "list",
+          "ordered": true,
+          "items": [
+            {
+              "title": "Ähnliches Alter und ähnliche Stärke:",
+              "text": "Der Altersunterschied sollte höchstens etwa zwei Jahre betragen. Wo ein deutliches Macht- oder Altersgefälle besteht, ist es kein gemeinsames Spiel mehr."
+            },
+            {
+              "title": "Freiwilligkeit, jederzeit widerrufbar:",
+              "text": "Jedes Kind bestimmt selbst, was es zeigt und anfasst – und darf mittendrin aufhören. Überreden zählt als Zwang."
+            },
+            {
+              "title": "Nichts in Körperöffnungen:",
+              "text": "Kein Gegenstand und kein Finger in Scheide, After, Ohren oder Nase. Diese Regel ist nicht verhandelbar und sollte auch so ausgesprochen werden."
+            },
+            {
+              "title": "Ältere Kinder und Erwachsene bleiben draußen:",
+              "text": "Jugendliche und Erwachsene beteiligen sich nicht an solchen Spielen. Auch nicht große Geschwister, auch nicht zum Zusehen."
+            }
+          ]
+        },
+        {
+          "type": "evidence",
+          "level": "moderat",
+          "claim": "Körpererkundung unter etwa gleichaltrigen Kindern gilt fachlich als altersgemäßes Verhalten. Als klärungsbedürftig gelten dagegen Handlungen mit deutlichem Altersgefälle, Zwang oder Schmerz sowie Verhalten, das Sexualität von Erwachsenen detailliert nachahmt.",
+          "note": "Die Unterscheidung wird von Fachstellen einheitlich so gezogen. Für Eltern ist der praktisch wichtigste Punkt: Nicht das Thema entscheidet, sondern das Verhältnis zwischen den Kindern. Ein Kind, das sexualisiertes Verhalten zeigt, das es nicht aus seinem Alter haben kann, braucht keine Bestrafung, sondern eine fachliche Einschätzung – auch weil es selbst etwas erlebt haben könnte.",
+          "sources": [0, 3]
+        },
+        {
+          "type": "callout",
+          "variant": "tip",
+          "title": "Wenn du dazukommst",
+          "text": "Nicht erschrecken, nicht wegreißen, nicht auslachen. Ruhig hingehen, die Regeln kurz nennen und dabei bleiben: Ihr dürft euch anschauen. Es darf nichts wehtun, und keiner steckt etwas hinein. Wenn einer aufhören will, hört ihr auf. Genau in diesem Moment lernt dein Kind mehr über Einvernehmlichkeit als in jedem späteren Gespräch."
+        }
+      ]
+    },
+    {
+      "type": "section",
+      "heading": "Nein sagen dürfen – auch zu Erwachsenen",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "Kinder lernen Körpergrenzen nicht dadurch, dass man ihnen von Gefahr erzählt, sondern dadurch, dass ihre Grenzen im normalen Alltag respektiert werden. Wer erlebt, dass sein Nein beim Kitzeln gilt, kann es später auch in einer unangenehmen Situation aussprechen. Wer erlebt, dass ein Nein umgangen wird, wenn Erwachsene es nett meinen, lernt das Gegenteil."
+        },
+        {
+          "type": "comparison",
+          "title": "Alltag, der Grenzen stärkt oder schwächt",
+          "columns": [
+            {
+              "title": "Stärkt",
+              "tone": "good",
+              "items": [
+                "Beim Kitzeln sofort aufhören, wenn Stopp kommt – ausnahmslos.",
+                "Zur Begrüßung Alternativen anbieten: Winken, Faust, High five.",
+                "Fragen, bevor du dein Kind hochhebst oder abknutschst.",
+                "Rückzug beim Toilettengang und beim Anziehen zulassen, sobald es das möchte.",
+                "Anderen Erwachsenen im Beisein des Kindes zur Not widersprechen."
+              ]
+            },
+            {
+              "title": "Schwächt",
+              "tone": "bad",
+              "items": [
+                "Gib der Oma einen Kuss, sonst ist sie traurig.",
+                "Stell dich nicht so an, das war doch nur Spaß.",
+                "Weiterkitzeln, weil es dabei ja lacht.",
+                "Körperkontakt als Bedingung für Zuwendung oder Geschenke.",
+                "Über den Körper des Kindes vor anderen scherzen."
+              ]
+            }
+          ]
+        },
+        {
+          "type": "callout",
+          "variant": "info",
+          "title": "Die Regel, die Kinder verstehen",
+          "text": "Dein Körper gehört dir. Es gibt Dinge, die Erwachsene tun dürfen, damit du gesund bleibst – waschen, eincremen, die Ärztin untersucht dich. Das ist immer angekündigt, und ich bin dabei. Alles andere entscheidest du. Kein Erwachsener braucht deine Hilfe an seinem Körper, und keiner braucht dabei ein Geheimnis."
+        }
+      ]
+    },
+    {
+      "type": "section",
+      "heading": "Gute und schlechte Geheimnisse",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "Die Unterscheidung ist der wirksamste Einzelbaustein der Prävention, weil Geheimhaltung das Mittel ist, mit dem Übergriffe fortgesetzt werden. Kinder können den Unterschied ab etwa vier Jahren gut erfassen, wenn er über das Bauchgefühl erklärt wird und nicht über Regeln."
+        },
+        {
+          "type": "table",
+          "title": "Woran ein Kind den Unterschied erkennt",
+          "head": ["", "Gutes Geheimnis", "Schlechtes Geheimnis"],
+          "rows": [
+            ["Wie es sich anfühlt", "Kribbeln, Vorfreude, Spannung", "Bauchweh, Enge, Angst"],
+            ["Wie lange", "Es hat ein Ende – die Überraschung kommt heraus", "Es soll für immer bleiben"],
+            ["Wer will es", "Ihr beide wollt es geheim halten", "Nur die andere Person will es"],
+            ["Was passiert danach", "Alle freuen sich", "Du sollst es niemandem sagen, sonst passiert etwas"]
+          ],
+          "caption": "Gängige Unterscheidung aus Präventionsmaterialien der Fachstellen. Der entscheidende Satz für Kinder: Schlechte Geheimnisse darfst du immer weitersagen, auch wenn du versprochen hast, es nicht zu tun."
+        },
+        {
+          "type": "list",
+          "ordered": false,
+          "items": [
+            {
+              "title": "Drei Vertrauenspersonen benennen:",
+              "text": "Kinder sollten wissen, wen sie ansprechen können, wenn du nicht erreichbar bist – und dass sie so lange weitererzählen dürfen, bis jemand zuhört."
+            },
+            {
+              "title": "Kein Schweigeversprechen gilt:",
+              "text": "Ein Versprechen, das Bauchweh macht, darf gebrochen werden. Das musst du ausdrücklich sagen, sonst hält ein Kind sich daran."
+            },
+            {
+              "title": "Nie mit Konsequenzen belegen:",
+              "text": "Kinder schweigen aus Angst vor Ärger. Der Satz, dass du niemals böse wirst, wenn es dir so etwas erzählt, muss regelmäßig fallen."
+            },
+            {
+              "title": "Fremde sind selten das Thema:",
+              "text": "Warnungen vor dem fremden Mann verfehlen die Realität und erzeugen unnötige Angst. Übergriffe geschehen weit überwiegend im vertrauten Umfeld."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "section",
+      "heading": "Was Prävention leisten kann – und was nicht",
+      "blocks": [
+        {
+          "type": "evidence",
+          "level": "moderat",
+          "claim": "Präventionsprogramme in Kita und Schule verbessern nachweislich das Wissen von Kindern über Schutzverhalten und deren Selbstschutzfertigkeiten. Ob sie tatsächlich Übergriffe verhindern, lässt sich aus den vorliegenden Studien nicht belegen.",
+          "note": "So das Ergebnis einer Cochrane-Übersichtsarbeit zu schulbasierten Präventionsprogrammen. Zu erhöhter Ängstlichkeit führten sie nicht – ein häufiger Einwand, der sich nicht bestätigte. Entscheidend für Eltern ist der zweite Teil: Kein Kind kann sich gegen eine ihm vertraute, überlegene Person selbst schützen. Prävention, die auf das Kind zielt, ist Ergänzung, nicht Absicherung.",
+          "sources": [1]
+        },
+        {
+          "type": "p",
+          "text": "Für Eltern folgt daraus ein Blickwechsel: Statt das eigene Kind wehrhaft machen zu wollen, lohnt es sich zu prüfen, wie die Einrichtungen aufgestellt sind, in denen es Zeit verbringt. Kitas, Vereine und Schulen sollten ein Schutzkonzept haben – mit Verhaltensregeln, Beschwerdewegen für Kinder, klaren Zuständigkeiten und erweiterten Führungszeugnissen. Danach zu fragen ist kein Misstrauen, sondern inzwischen üblich."
+        },
+        {
+          "type": "callout",
+          "variant": "tip",
+          "title": "Drei Fragen an Kita, Verein oder Schule",
+          "items": [
+            "Gibt es ein schriftliches Schutzkonzept, und wer ist die benannte Ansprechperson?",
+            "Wie können sich Kinder hier beschweren, ohne über die Person zu gehen, um die es geht?",
+            "Welche Regeln gelten für Situationen allein mit einem Kind – Umkleide, Toilette, Übernachtungsfahrten?"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "section",
+      "heading": "Anzeichen und ein Verdacht: was zu tun ist",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "Es gibt kein eindeutiges Anzeichen für sexualisierte Gewalt. Fast alle Verhaltensänderungen, die genannt werden, können auch andere Ursachen haben – einen Umzug, eine Trennung, einen Kita-Wechsel, eine Krankheit. Genau deshalb ist die richtige Reaktion nicht Deutung, sondern Beratung."
+        },
+        {
+          "type": "list",
+          "ordered": false,
+          "items": [
+            {
+              "title": "Aufmerksam werden:",
+              "text": "Plötzliche starke Verhaltensänderungen, neue Ängste vor bestimmten Personen oder Orten, Rückschritte, Schlafstörungen, sexualisiertes Verhalten, das nicht zum Alter passt, Andeutungen in Nebensätzen."
+            },
+            {
+              "title": "Ruhig bleiben und zuhören:",
+              "text": "Erzählt dein Kind etwas, unterbrich es nicht, zeige keinen Schrecken und sage ihm, dass es richtig war, das zu erzählen."
+            },
+            {
+              "title": "Nicht ausfragen, aber notieren:",
+              "text": "Keine Suggestivfragen und keine Wiederholungsbefragungen – sie belasten das Kind und können eine spätere Aufklärung erschweren. Halte stattdessen Datum, Wortlaut und Situation fest, ohne eigene Deutung."
+            },
+            {
+              "title": "Beraten lassen, bevor du handelst:",
+              "text": "Fachberatungsstellen helfen einzuschätzen, ob und welche Schritte nötig sind. Eine unüberlegte Konfrontation der verdächtigten Person kann Beweise gefährden und das Kind unter Druck setzen."
+            },
+            {
+              "title": "Nichts versprechen, was du nicht halten kannst:",
+              "text": "Sag nicht, dass du es niemandem erzählst. Sag, dass du Hilfe holst und dabei bleibst."
+            }
+          ]
+        },
+        {
+          "type": "callout",
+          "variant": "warn",
+          "title": "Anlaufstellen",
+          "items": [
+            "Hilfetelefon Sexueller Missbrauch: 0800 22 55 530 – kostenfrei und anonym, auch für Eltern.",
+            "Nummer gegen Kummer, Kinder- und Jugendtelefon: 116 111 – für Kinder und Jugendliche selbst.",
+            "Spezialisierte Fachberatungsstellen und kommunale Erziehungsberatungsstellen vor Ort.",
+            "Das Jugendamt berät auch anonym, ohne dass daraus automatisch ein Verfahren wird."
+          ]
+        }
+      ]
+    },
+    {
+      "type": "section",
+      "heading": "Häufige Fragen",
+      "blocks": [
+        {
+          "type": "faq",
+          "items": [
+            {
+              "q": "Nimmt man Kindern nicht die Unbefangenheit, wenn man so früh darüber spricht?",
+              "a": "Nach der vorliegenden Forschung nicht. In der Cochrane-Übersicht zu Präventionsprogrammen zeigte sich keine erhöhte Ängstlichkeit bei den teilnehmenden Kindern. Wichtig ist der Rahmen: Es geht nicht um Warnungen vor Gefahren, sondern um Körperwissen, Selbstbestimmung und die Erlaubnis zu reden. Alles davon ist für Kinder unspektakulär – peinlich ist es meist nur den Erwachsenen."
+            },
+            {
+              "q": "Mein Kind fasst sich ständig an sich. Ist das normal?",
+              "a": "Ja. Kinder entdecken früh, dass Berührung angenehm ist, und tun es besonders dann, wenn sie müde, gelangweilt oder angespannt sind. Verbote und Beschämung sind kontraproduktiv. Sinnvoll ist eine Ortsregel statt eines Verbots: Das darfst du, aber allein in deinem Zimmer oder im Bett. Auffällig wird es erst, wenn es zwanghaft wirkt, das Kind sich verletzt oder das Verhalten neu und plötzlich in ausgeprägter Form auftritt."
+            },
+            {
+              "q": "Was antworte ich auf die Frage, wie das Baby in den Bauch kommt?",
+              "a": "Wahrheitsgemäß und in der Menge, die gefragt wurde. Für Vier- bis Fünfjährige reicht meist: Aus einer Samenzelle vom Vater und einer Eizelle von der Mutter, die sich verbinden – dann wächst das Baby in der Gebärmutter. Fragt dein Kind, wie die Samenzelle dorthin kommt, antworte auch das sachlich. Ausweichen erzeugt genau den Eindruck, dass das Thema unaussprechlich ist."
+            },
+            {
+              "q": "Muss mein Kind Verwandte umarmen?",
+              "a": "Nein, und das ist wichtiger, als es wirkt. Ein Kind, das gegen seinen Willen zu Körperkontakt gebracht wird, lernt, dass Höflichkeit über der eigenen Grenze steht. Biete Alternativen an und stell dich vor dein Kind, wenn Erwachsene gekränkt reagieren. Der kurze Konflikt mit der Verwandtschaft ist der Preis für eine Regel, die dein Kind später anwenden kann."
+            },
+            {
+              "q": "Ab wann ist ein Altersunterschied bei Doktorspielen zu groß?",
+              "a": "Als Orientierung gilt: mehr als etwa zwei Jahre Unterschied oder ein deutliches Gefälle in Kraft, Entwicklung oder Status. Dabei zählt nicht nur das Alter – ein gleichaltriges, aber deutlich dominanteres Kind kann ebenfalls Druck ausüben. Entscheidend ist, ob beide Kinder frei entscheiden können und jederzeit aufhören dürfen."
+            },
+            {
+              "q": "Mein Kind hat im Internet etwas gesehen, das nicht für es bestimmt war. Was tun?",
+              "a": "Ruhig reagieren und nicht schimpfen – sonst erzählt es beim nächsten Mal nichts mehr. Einordnen statt bewerten: Das waren Aufnahmen von Erwachsenen, mit echter Nähe hat das wenig zu tun, und du hast nichts falsch gemacht. Danach die Geräteeinstellungen prüfen."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "callout",
+      "variant": "info",
+      "title": "Kurz gesagt",
+      "text": "Richtige Wörter, geltende Grenzen im Alltag, klare Regeln für Doktorspiele und die Unterscheidung guter und schlechter Geheimnisse – das ist der Kern. Prävention ist Erwachsenenarbeit: Wissen bei Kindern hilft, aber schützen müssen wir sie. Und wenn du unsicher bist, ist das Hilfetelefon Sexueller Missbrauch unter 0800 22 55 530 der einfachste erste Schritt."
+    }
+  ],
+  "sources": [
+    {
+      "title": "Standards für die Sexualaufklärung in Europa – Rahmenkonzept für politische Entscheidungsträger, Bildungseinrichtungen, Gesundheitsbehörden, Expertinnen und Experten",
+      "publisher": "WHO-Regionalbüro für Europa und Bundeszentrale für gesundheitliche Aufklärung (BZgA)",
+      "year": "2011",
+      "kind": "Empfehlung"
+    },
+    {
+      "title": "School-based education programmes for the prevention of child sexual abuse",
+      "publisher": "Cochrane Database of Systematic Reviews (Walsh, Zwi, Woolfenden & Shlonsky)",
+      "year": "2015",
+      "kind": "Übersichtsarbeit"
+    },
+    {
+      "title": "Elterninformationen zu Entwicklung, Körper und Sicherheit im Kindesalter",
+      "publisher": "Bundeszentrale für gesundheitliche Aufklärung (BZgA), kindergesundheit-info.de",
+      "year": "abgerufen 2026",
+      "kind": "Institutionelle Information",
+      "url": "https://www.kindergesundheit-info.de/"
+    },
+    {
+      "title": "Sexualaufklärung, Körper und Familienplanung – Informationsportal der BZgA",
+      "publisher": "Bundeszentrale für gesundheitliche Aufklärung (BZgA), familienplanung.de",
+      "year": "abgerufen 2026",
+      "kind": "Institutionelle Information",
+      "url": "https://www.familienplanung.de/"
+    }
+  ],
+  "related": ["selbststaendigkeit-foerdern", "grenzen-setzen", "emotionen-benennen", "mediennutzung-schulkind"]
+}
