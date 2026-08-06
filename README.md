@@ -59,13 +59,41 @@ damit `docs/` aktuell ist.
 
 ## GitHub Pages aktivieren
 
+**Einmalig von Hand**, danach läuft die Auslieferung automatisch:
+
 1. Repository → **Settings** → **Pages**
-2. *Source*: **Deploy from a branch**
-3. *Branch*: der gewünschte Branch, *Ordner*: **`/docs`**
-4. Speichern. Die Seite erscheint nach ein bis zwei Minuten.
+2. *Build and deployment* → *Source*: **GitHub Actions**
+3. Speichern.
+
+Ab dann veröffentlicht `.github/workflows/pages.yml` bei jedem Push auf `main`.
+Der Workflow kann diesen Schritt nicht selbst erledigen: `configure-pages` mit
+`enablement: true` scheitert an *„Resource not accessible by integration"* — der
+`GITHUB_TOKEN` darf eine Pages-Site nicht anlegen, nur eine bestehende bespielen.
+
+**Bei einem privaten Repository** setzt Pages einen bezahlten Plan voraus (Pro,
+Team oder Enterprise). Auf einem kostenlosen Konto muss das Repository öffentlich
+sein, damit Pages zur Verfügung steht.
+
+### Was der Workflow tut
+
+Er baut auf GitHub **nichts** — `docs/` enthält fertiges HTML/CSS/JS und wird
+unverändert hochgeladen. Vorgeschaltet ist aber ein Prüfjob, der abbricht bei:
+
+- Lint-Fehlern in den Artikeln
+- einem `docs/`, das nicht zum aktuellen `content/` und `site/` passt
+
+Der zweite Punkt funktioniert nur, weil der Generator deterministisch ist: gleiche
+Eingabe, byte-gleiche Ausgabe. Deshalb ist die Streuung der botanischen Spezimen
+aus dem Slug abgeleitet und nicht zufällig.
 
 Eine `.nojekyll`-Datei wird mitgeneriert, damit GitHub die Dateien unverändert
 ausliefert.
+
+### Alternative ohne Actions
+
+Falls kein Workflow gewünscht ist: *Source* auf **Deploy from a branch**,
+Branch `main`, Ordner **`/docs`**. Dann entfällt die Prüfung, und ein vergessener
+Build fällt erst auf der Live-Seite auf.
 
 ---
 

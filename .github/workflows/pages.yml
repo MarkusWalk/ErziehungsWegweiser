@@ -1,8 +1,16 @@
 name: Seite bauen und veröffentlichen
 
-# Liefert docs/ an GitHub Pages aus. Der Schritt "configure-pages" legt die
-# Pages-Site beim ersten Lauf selbst an (enablement), sofern die Repo-Rechte
-# das zulassen — dann muss in den Einstellungen nichts von Hand gesetzt werden.
+# Liefert docs/ an GitHub Pages aus.
+#
+# EINMALIG NOETIG: Pages muss in den Repo-Einstellungen aktiviert sein.
+#   Settings -> Pages -> Build and deployment -> Source: "GitHub Actions"
+# Der Versuch, das hier per configure-pages(enablement) zu erledigen, endet
+# mit "Resource not accessible by integration": der GITHUB_TOKEN darf eine
+# Pages-Site nicht anlegen, nur eine bestehende bespielen.
+#
+# Ausserdem: Bei einem privaten Repository setzt Pages einen bezahlten Plan
+# voraus (Pro, Team oder Enterprise). Auf einem kostenlosen Konto muss das
+# Repository oeffentlich sein, damit Pages ueberhaupt zur Verfuegung steht.
 #
 # Bewusst kein Build auf der Seite von GitHub: docs/ enthält fertiges
 # HTML/CSS/JS. Der Job prüft stattdessen, ob docs/ zum aktuellen Inhalt passt,
@@ -59,8 +67,6 @@ jobs:
 
       - name: Pages einrichten
         uses: actions/configure-pages@v5
-        with:
-          enablement: true
 
       - name: docs/ hochladen
         uses: actions/upload-pages-artifact@v3
