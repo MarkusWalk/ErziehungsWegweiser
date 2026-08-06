@@ -30,6 +30,19 @@ const site = taxonomy.site;
 const phases = taxonomy.phases;
 const topics = taxonomy.topics;
 
+/* Ablagepunkte. Alle liegen in der rechten Bildhälfte – die linke
+   gehört dem Text. Breiten in rem. */
+const SPECIMEN_SLOTS = [
+  { css: 'top:-7%;right:2%',    w: [11, 16], families: ['bloom', 'leaf'] },
+  { css: 'top:14%;right:24%',   w: [6, 9],   families: ['wing', 'sprig'] },
+  { css: 'bottom:-9%;right:19%', w: [9, 14], families: ['bloom', 'leaf'] },
+  { css: 'top:44%;right:5%',    w: [7, 11],  families: ['sprig', 'wing'] },
+  { css: 'bottom:12%;right:34%', w: [5, 8],  families: ['wing'] },
+];
+
+/* Vor dem ersten Seitenaufbau bereitstehen: die Seitenbauer greifen darauf zu. */
+const SPECIMENS = loadSpecimens();
+
 const articles = loadArticles();
 const byPhase = groupBy(articles, (a) => a.phases || []);
 const byTopic = groupBy(articles, (a) => a.topics || []);
@@ -80,11 +93,7 @@ function buildHome() {
   const body = `
 <section class="hero">
   <div class="hero__scene" data-scene="hero" aria-hidden="true"></div>
-  ${specimens([
-    { file: 'bloom-05', style: 'bottom:-10%;right:2%;width:15rem;transform:rotate(9deg)' },
-    { file: 'wing-07', style: 'top:9%;right:30%;width:8rem;transform:rotate(-6deg)' },
-    { file: 'leaf-06', style: 'top:-4%;right:16%;width:10rem;transform:rotate(-14deg)' },
-  ])}
+  ${specimens('startseite', 5)}
   <div class="hero__inner">
     <p class="hero__eyebrow">Kompendium für die ersten Jahre</p>
     <h1 class="hero__title">${esc(site.tagline)}</h1>
@@ -208,6 +217,7 @@ function buildPhasePage(phase) {
 ${pageHead(phase.name, phase.blurb, [{ label: 'Nach Alter', href: './' }, { label: phase.name }], '../', {
     eyebrow: phase.range,
     accent: phase.color,
+    seed: phase.id,
   })}
 
 <section class="band">
@@ -278,7 +288,7 @@ function buildTopicPage(topic) {
     .filter((g) => g.items.length);
 
   const body = `
-${pageHead(topic.name, topic.blurb, [{ label: 'Nach Thema', href: './' }, { label: topic.name }], '../')}
+${pageHead(topic.name, topic.blurb, [{ label: 'Nach Thema', href: './' }, { label: topic.name }], '../', { seed: topic.id })}
 
 <section class="band">
   <div class="wrap">
@@ -368,6 +378,7 @@ function buildArticlePage(article) {
   data-topics="${esc((article.topics || []).join(' '))}">
 
   <header class="article__header">
+    ${specimens(article.slug, 3, '../')}
     <div class="wrap wrap--narrow">
       <nav class="breadcrumb" aria-label="Pfad">
         <a href="../index.html">Start</a>
@@ -652,6 +663,7 @@ ${urls.map((u) => `  <url><loc>${site.baseUrl || ''}/${u}</loc></url>`).join('\n
 function pageHead(title, subtitle, crumbs, root, opts = {}) {
   return `
 <header class="pagehead${opts.accent ? ` pagehead--${esc(opts.accent)}` : ''}">
+  ${specimens(opts.seed || title, 3, root)}
   <div class="wrap">
     <nav class="breadcrumb" aria-label="Pfad">
       <a href="${root}index.html">Start</a>
@@ -664,15 +676,81 @@ function pageHead(title, subtitle, crumbs, root, opts = {}) {
 </header>`;
 }
 
-/* Botanische Spezimen aus dem Designsystem: gedruckte Naturkunde-
-   Ausschnitte als stille Hintergrundgeometrie. Rein dekorativ, deshalb
-   aria-hidden und lazy geladen. */
-function specimens(items, root = '') {
-  return items
-    .map(
-      (item) => `<img class="specimen" src="${root}assets/botanical/${esc(item.file)}.webp" alt="" aria-hidden="true" loading="lazy" decoding="async" style="${esc(item.style)}">`,
-    )
-    .join('\n  ');
+/* ================================================================
+   Botanische Spezimen
+   ----------------------------------------------------------------
+   Gedruckte Naturkunde-Ausschnitte aus dem Designsystem als stille
+   Hintergrundgeometrie. Rein dekorativ: aria-hidden, lazy geladen,
+   unter 900px ausgeblendet.
+
+   Die Auswahl ist gestreut, aber nicht zufällig: sie hängt am Slug
+   der Seite. Dadurch bekommt jede Seite ihr eigenes Bild, und zwar
+   bei jedem Build dasselbe – Diffs bleiben lesbar, und wiederkehrende
+   Besucher sehen dieselbe Seite wieder.
+   ================================================================ */
+
+function loadSpecimens() {
+  const dir = path.join(SITE, 'assets', 'botanical');
+  if (!fs.existsSync(dir)) return {};
+  const files = fs.readdirSync(dir).filter((f) => f.endsWith('.webp')).map((f) => f.replace(/\.webp$/, ''));
+  const byFamily = {};
+  for (const file of files) {
+    const family = file.split('-')[0];
+    (byFamily[family] ||= []).push(file);
+  }
+  for (const list of Object.values(byFamily)) list.sort();
+  return byFamily;
+}
+
+/* Kleiner deterministischer Generator (mulberry32), gespeist aus dem Slug. */
+function seededRandom(seed) {
+  let h = 2166136261;
+  for (let i = 0; i < seed.length; i++) {
+    h ^= seed.charCodeAt(i);
+    h = Math.imul(h, 16777619);
+  }
+  let a = h >>> 0;
+  return () => {
+    a |= 0;
+    a = (a + 0x6d2b79f5) | 0;
+    let t = Math.imul(a ^ (a >>> 15), 1 | a);
+    t = (t + Math.imul(t ^ (t >>> 7), 61 | t)) ^ t;
+    return ((t ^ (t >>> 14)) >>> 0) / 4294967296;
+  };
+}
+
+
+function specimens(seed, count = 3, root = '') {
+  const families = Object.keys(SPECIMENS);
+  if (!families.length) return '';
+
+  const rand = seededRandom(seed);
+  const used = new Set();
+  const out = [];
+
+  /* Damit sich Familien nicht häufen, wird die Reihenfolge der
+     Ablagepunkte selbst gemischt. */
+  const slots = [...SPECIMEN_SLOTS].sort(() => rand() - 0.5).slice(0, Math.min(count, SPECIMEN_SLOTS.length));
+
+  for (const slot of slots) {
+    const pool = slot.families
+      .flatMap((f) => SPECIMENS[f] || [])
+      .filter((name) => !used.has(name));
+    if (!pool.length) continue;
+
+    const file = pool[Math.floor(rand() * pool.length)];
+    used.add(file);
+
+    const width = (slot.w[0] + rand() * (slot.w[1] - slot.w[0])).toFixed(1);
+    const rotate = (rand() * 36 - 18).toFixed(1);
+    const style = `${slot.css};width:${width}rem;transform:rotate(${rotate}deg)`;
+
+    out.push(
+      `<img class="specimen" src="${root}assets/botanical/${esc(file)}.webp" alt="" aria-hidden="true" loading="lazy" decoding="async" style="${esc(style)}">`,
+    );
+  }
+
+  return out.join('\n  ');
 }
 
 function phaseCard(phase, root = '') {

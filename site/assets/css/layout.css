@@ -186,10 +186,16 @@
 
 /* ---------- Seitenkopf ---------- */
 .pagehead {
+  position: relative;
+  overflow: hidden;
   padding-block: var(--sp-7) var(--sp-6);
   border-bottom: var(--rule);
-  background: var(--c-surface-alt);
+  background: var(--wash-cream);
 }
+
+:root[data-theme="dark"] .pagehead { background: var(--c-surface-alt); }
+
+.pagehead .wrap { position: relative; z-index: var(--layer-base); }
 
 .pagehead__eyebrow {
   font-size: var(--fs-sm);
@@ -306,10 +312,16 @@
 
 /* ---------- Artikelraster ---------- */
 .article__header {
+  position: relative;
+  overflow: hidden;
   padding-block: var(--sp-8) var(--sp-6);
-  background: var(--c-surface-alt);
+  background: var(--wash-cream);
   border-bottom: var(--rule);
 }
+
+:root[data-theme="dark"] .article__header { background: var(--c-surface-alt); }
+
+.article__header .wrap { position: relative; z-index: var(--layer-base); }
 
 .article__title {
   font-size: clamp(2rem, 5vw, var(--fs-3xl));
