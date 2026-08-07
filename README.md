@@ -16,7 +16,8 @@ content/
   topic-map.json       Redaktionelle Themenlandkarte (geplante Artikel)
   AUTHORING.md         Verbindliche Regeln fürs Schreiben
   articles/*.json      Ein Artikel = eine Datei, strukturierte Inhaltsblöcke
-  pages/*.json         Statische Seiten (Notfall, Über, Methodik, Glossar)
+  pages/*.json         Statische Seiten (Notfall, Über, Methodik, Glossar,
+                       Quellen, Impressum, Datenschutz)
 
 build/
   build.mjs            Generator: content/ + site/ → docs/
@@ -102,6 +103,28 @@ Bezahlinhalte, kein Firmenauftritt. Für dieses Kompendium in seiner jetzigen
 Form trifft das zu.
 
 Alle drei veröffentlichen ab dann bei jedem Push auf `main` automatisch neu.
+
+### Vor dem Livegang: Impressum und Datenschutz
+
+Beide Seiten liegen fertig unter `content/pages/impressum.json` und
+`content/pages/datenschutz.json`, aber mit Platzhaltern in spitzen Klammern:
+`«VORNAME NACHNAME»`, `«STRASSE HAUSNUMMER»`, `«E-MAIL-ADRESSE»`, `«HOSTER
+EINTRAGEN»`, `«BUNDESLAND»`. Die müssen raus, bevor die Seite erreichbar ist —
+der Generator meldet bei jedem Lauf, wie viele noch stehen.
+
+Zwei Dinge hängen an der Hosterwahl: In der Datenschutzerklärung muss stehen,
+wer die Server-Logfiles verarbeitet (Cloudflare, Netlify oder Vercel — alle drei
+US-Unternehmen, alle drei mit Auftragsverarbeitungsvertrag). Und dieser Vertrag
+nach Art. 28 DSGVO muss im jeweiligen Konto tatsächlich abgeschlossen werden.
+
+Ebenfalls offen: `site.baseUrl` in `content/taxonomy.json`. Solange die leer ist,
+enthält `sitemap.xml` keine absoluten URLs und Suchmaschinen verwerfen sie. Sobald
+die endgültige Domain feststeht, dort eintragen (ohne Schrägstrich am Ende).
+
+Ein Cookie-Banner braucht die Seite nicht: Sie setzt keine Cookies, und die
+lokal gespeicherten Einstellungen (Farbmodus, Schriftgröße, Geburtsdatum,
+Checklisten) fallen unter § 25 Abs. 2 Nr. 2 TDDDG — du stellst sie selbst ein,
+also sind sie für die gewünschte Funktion erforderlich.
 
 ### Header
 

@@ -1,0 +1,105 @@
+{
+  "title": "Impressum",
+  "subtitle": "Angaben nach § 5 Digitale-Dienste-Gesetz (DDG) und § 18 Medienstaatsvertrag (MStV).",
+  "blocks": [
+    {
+      "type": "callout",
+      "variant": "warn",
+      "title": "Noch auszufüllen",
+      "text": "Die mit spitzen Klammern markierten Stellen müssen vor der Veröffentlichung durch echte Angaben ersetzt werden – in `content/pages/impressum.json`. Eine ladungsfähige Anschrift ist Pflicht; ein Postfach genügt nicht. Der Generator warnt beim Bauen, solange hier noch Platzhalter stehen."
+    },
+    {
+      "type": "section",
+      "heading": "Diensteanbieter",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "«VORNAME NACHNAME»  \n«STRASSE HAUSNUMMER»  \n«PLZ ORT»  \nDeutschland"
+        }
+      ]
+    },
+    {
+      "type": "section",
+      "heading": "Kontakt",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "E-Mail: «E-MAIL-ADRESSE»"
+        },
+        {
+          "type": "p",
+          "text": "Das Gesetz verlangt neben der E-Mail-Adresse einen zweiten Weg, der eine schnelle elektronische Kontaktaufnahme erlaubt. Eine Telefonnummer erfüllt das sicher; ein Kontaktformular mit zugesagter Antwortzeit gilt ebenfalls als ausreichend."
+        }
+      ]
+    },
+    {
+      "type": "section",
+      "heading": "Verantwortlich für den Inhalt",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "Nach § 18 Abs. 2 MStV: «VORNAME NACHNAME», Anschrift wie oben."
+        },
+        {
+          "type": "p",
+          "text": "Dieses Kompendium bereitet Themen redaktionell auf und fällt damit unter die Kennzeichnungspflicht für journalistisch-redaktionell gestaltete Angebote – auch ohne kommerzielle Absicht."
+        }
+      ]
+    },
+    {
+      "type": "section",
+      "heading": "Wie die Inhalte entstehen",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "Die Artikel werden KI-gestützt recherchiert und geschrieben und anschließend redaktionell geprüft. Jede tragende Aussage ist mit Quellen belegt und mit einer Evidenzstufe versehen; das Verfahren ist auf der [Methodikseite](methodik.html) im Einzelnen beschrieben."
+        },
+        {
+          "type": "p",
+          "text": "Es gibt keine Werbung, keine bezahlten Kooperationen, keine Affiliate-Links und keine Produktempfehlungen. Das Angebot verfolgt keinen wirtschaftlichen Zweck."
+        }
+      ]
+    },
+    {
+      "type": "section",
+      "heading": "Haftung für Inhalte und Links",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "Für die eigenen Inhalte gilt die Verantwortung nach den allgemeinen Gesetzen. Trotz sorgfältiger Recherche kann sich der Stand der Forschung ändern oder ein Fehler durchrutschen. Wer einen findet, darf ihn gern melden – die Adresse steht oben."
+        },
+        {
+          "type": "p",
+          "text": "Verlinkte Seiten Dritter liegen außerhalb unseres Einflusses. Zum Zeitpunkt der Verlinkung waren sie auf erkennbare Rechtsverstöße geprüft; eine fortlaufende Kontrolle ist ohne konkreten Anhaltspunkt nicht zumutbar. Bei Kenntnis einer Rechtsverletzung entfernen wir den Link."
+        }
+      ]
+    },
+    {
+      "type": "section",
+      "heading": "Urheberrecht",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "Die Texte, Grafiken und Diagramme dieses Kompendiums sind urheberrechtlich geschützt. Zitate mit Quellenangabe sind selbstverständlich zulässig. Für eine weitergehende Nutzung genügt eine kurze Anfrage."
+        }
+      ]
+    },
+    {
+      "type": "section",
+      "heading": "Streitbeilegung",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "Wir sind nicht bereit und nicht verpflichtet, an Streitbeilegungsverfahren vor einer Verbraucherschlichtungsstelle teilzunehmen. Die europäische Plattform zur Online-Streitbeilegung wurde am 20. Juli 2025 eingestellt; ein Verweis darauf ist deshalb bewusst nicht enthalten."
+        }
+      ]
+    },
+    {
+      "type": "callout",
+      "variant": "warn",
+      "title": "Wichtiger Hinweis",
+      "text": "Dieses Kompendium ersetzt keine ärztliche, therapeutische oder psychologische Beratung. Bei Sorgen um Gesundheit oder Entwicklung eines Kindes: Kinderarztpraxis. Bei akuter Gefahr: **112**. Siehe auch die [Notfallseite](notfall.html)."
+    }
+  ],
+  "sources": []
+}

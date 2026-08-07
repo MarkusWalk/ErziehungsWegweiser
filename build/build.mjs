@@ -43,6 +43,11 @@ const SPECIMEN_SLOTS = [
 /* Vor dem ersten Seitenaufbau bereitstehen: die Seitenbauer greifen darauf zu. */
 const SPECIMENS = loadSpecimens();
 
+/* Statische Seiten in Reihenfolge. Eine Liste, die sowohl die Seiten
+   erzeugt als auch in die Sitemap wandert – zwei Listen laufen sonst
+   irgendwann auseinander. */
+const STATIC_PAGES = ['notfall', 'ueber', 'methodik', 'quellen', 'glossar', 'impressum', 'datenschutz'];
+
 /* Slugs der Entwürfe, die loadArticles() aussortiert hat. */
 const drafts = [];
 
@@ -510,14 +515,26 @@ function relatedSection(related) {
    Statische Seiten
    ================================================================ */
 function buildStaticPages() {
-  const pages = ['notfall', 'ueber', 'methodik', 'quellen', 'glossar'];
-  for (const name of pages) {
+  for (const name of STATIC_PAGES) {
     const file = path.join(CONTENT, 'pages', `${name}.json`);
     if (!fs.existsSync(file)) {
       warn(`Statische Seite fehlt: content/pages/${name}.json`);
       continue;
     }
-    const page = readJSON(file);
+    const raw = fs.readFileSync(file, 'utf8');
+    const page = JSON.parse(raw);
+
+    /* Impressum und Datenschutzerklärung sind rechtlich verlangt. Ein
+       unausgefülltes Formular erfüllt die Pflicht nicht – also laut sagen,
+       solange noch Platzhalter darin stehen. */
+    const blanks = raw.match(/«[^»]+»/g);
+    if (blanks) {
+      const unique = [...new Set(blanks)];
+      warn(
+        `${name}.html: ${unique.length} Platzhalter noch nicht ausgefüllt ` +
+          `(${unique.slice(0, 3).join(', ')}${unique.length > 3 ? ', …' : ''})`,
+      );
+    }
     const ctx = { toc: [], sources: page.sources || [], warn };
     const body = `
 ${pageHead(page.title, page.subtitle, page.breadcrumb || [{ label: page.title }], '')}
@@ -645,15 +662,17 @@ function buildSitemap() {
     'alter/index.html',
     'themen/index.html',
     'artikel/index.html',
-    'notfall.html',
-    'ueber.html',
-    'methodik.html',
-    'quellen.html',
-    'glossar.html',
+    ...STATIC_PAGES.map((name) => `${name}.html`),
     ...phases.map((p) => `alter/${p.id}.html`),
     ...topics.map((t) => `themen/${t.id}.html`),
     ...articles.map((a) => `artikel/${a.slug}.html`),
   ];
+
+  /* Eine Sitemap verlangt absolute URLs. Ohne baseUrl in taxonomy.json
+     entsteht eine, die Suchmaschinen verwerfen. */
+  if (!site.baseUrl) {
+    warn('site.baseUrl in content/taxonomy.json ist leer – sitemap.xml enthält keine absoluten URLs');
+  }
 
   write(
     'sitemap.xml',

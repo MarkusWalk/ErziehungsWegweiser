@@ -153,6 +153,13 @@ function footer(site, root) {
           <li><a href="${root}glossar.html">Glossar</a></li>
         </ul>
       </div>
+      <div>
+        <p class="site-footer__head">Rechtliches</p>
+        <ul>
+          <li><a href="${root}impressum.html">Impressum</a></li>
+          <li><a href="${root}datenschutz.html">Datenschutz</a></li>
+        </ul>
+      </div>
     </nav>
   </div>
 

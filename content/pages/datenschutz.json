@@ -1,0 +1,172 @@
+{
+  "title": "Datenschutzerklärung",
+  "subtitle": "Was beim Besuch dieser Seite passiert – und was ausdrücklich nicht.",
+  "blocks": [
+    {
+      "type": "callout",
+      "variant": "warn",
+      "title": "Noch auszufüllen",
+      "text": "Die mit spitzen Klammern markierten Stellen müssen vor der Veröffentlichung durch echte Angaben ersetzt werden – in `content/pages/datenschutz.json`. Besonders wichtig: der Abschnitt zum Hoster, denn dort steht, wer die Server-Logfiles tatsächlich verarbeitet."
+    },
+    {
+      "type": "p",
+      "lead": true,
+      "text": "Diese Seite ist eine reine Sammlung statischer Dateien. Es gibt keine Anmeldung, kein Konto, kein Formular, keine Kommentare, keine Werbung und keine Reichweitenmessung. Die einzigen personenbezogenen Daten, die überhaupt anfallen, sind die technischen Zugriffsdaten, die jeder Webserver beim Ausliefern einer Seite erhält."
+    },
+    {
+      "type": "section",
+      "heading": "Verantwortlicher",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "Verantwortlich im Sinne von Art. 4 Nr. 7 DSGVO:"
+        },
+        {
+          "type": "p",
+          "text": "«VORNAME NACHNAME»  \n«STRASSE HAUSNUMMER»  \n«PLZ ORT»  \nDeutschland  \nE-Mail: «E-MAIL-ADRESSE»"
+        },
+        {
+          "type": "p",
+          "text": "Eine Datenschutzbeauftragte oder ein Datenschutzbeauftragter ist nicht bestellt; die Voraussetzungen des Art. 37 DSGVO und des § 38 BDSG liegen bei diesem Angebot nicht vor."
+        }
+      ]
+    },
+    {
+      "type": "section",
+      "heading": "Kurz gefasst",
+      "blocks": [
+        {
+          "type": "list",
+          "items": [
+            "**Keine Cookies zur Wiedererkennung.** Es wird nichts gesetzt, was dich über Seitenaufrufe hinweg identifizierbar macht.",
+            "**Keine Analyse, kein Tracking.** Kein Google Analytics, kein Matomo, keine Zählpixel, keine Fingerprinting-Skripte.",
+            "**Keine Verbindungen zu Dritten.** Schriften, Skripte, Bilder und die 3-D-Darstellungen liegen alle auf demselben Server. Beim Aufruf entsteht keine einzige Anfrage an einen fremden Anbieter.",
+            "**Deine Einstellungen bleiben bei dir.** Farbmodus, Schriftgröße, Lesemodus, Geburtsdatum und abgehakte Checklisten liegen ausschließlich in deinem Browser.",
+            "**Die Suche läuft im Browser.** Der Suchindex wird einmal geladen; die Suchbegriffe verlassen dein Gerät nicht."
+          ]
+        }
+      ]
+    },
+    {
+      "type": "section",
+      "heading": "Server-Logfiles",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "Beim Abruf einer Seite überträgt dein Browser technisch notwendige Daten an den Server. Der Hoster verarbeitet dabei in der Regel: IP-Adresse, Datum und Uhrzeit des Zugriffs, die abgerufene Datei, den HTTP-Statuscode, die übertragene Datenmenge, die zuvor besuchte Seite und Angaben zu Browser und Betriebssystem."
+        },
+        {
+          "type": "p",
+          "text": "**Rechtsgrundlage:** Art. 6 Abs. 1 lit. f DSGVO. Das berechtigte Interesse liegt im technischen Betrieb, in der Auslieferung der Inhalte und in der Abwehr von Angriffen. Eine Zusammenführung dieser Daten mit anderen Quellen findet nicht statt, und es erfolgt keine Auswertung zu Werbe- oder Analysezwecken."
+        },
+        {
+          "type": "p",
+          "text": "**Hoster:** «HOSTER EINTRAGEN – Cloudflare Inc., Netlify Inc. oder Vercel Inc.», «ANSCHRIFT DES HOSTERS». Mit dem Hoster besteht ein Vertrag zur Auftragsverarbeitung nach Art. 28 DSGVO."
+        },
+        {
+          "type": "p",
+          "text": "Alle drei genannten Anbieter sind US-Unternehmen. Eine Verarbeitung in den Vereinigten Staaten ist deshalb nicht ausgeschlossen. Sie stützt sich auf die Standardvertragsklauseln nach Art. 46 Abs. 2 lit. c DSGVO sowie – soweit der jeweilige Anbieter dort gelistet ist – auf den Angemessenheitsbeschluss der Europäischen Kommission zum EU-US Data Privacy Framework."
+        },
+        {
+          "type": "p",
+          "text": "Die Speicherdauer der Logfiles richtet sich nach den Vorgaben des Hosters; sie liegt üblicherweise im Bereich weniger Tage bis Wochen. Wir selbst legen keine Logfiles an und werten keine aus."
+        }
+      ]
+    },
+    {
+      "type": "section",
+      "heading": "Was dein Browser lokal speichert",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "Damit die Seite sich Einstellungen merkt, legt sie Werte im lokalen Speicher deines Browsers ab. Diese Werte verlassen dein Gerät nicht – sie werden zu keinem Zeitpunkt an einen Server übertragen und sind für uns nicht einsehbar."
+        },
+        {
+          "type": "list",
+          "items": [
+            "**`ew:prefs`** – Farbmodus (hell, dunkel, automatisch), Schriftgröße, Lesemodus und, falls du es eingibst, das Geburtsdatum deines Kindes für die Alters-Hervorhebung.",
+            "**`ew:chk:…`** – der Haken-Stand der Checklisten, je Seite getrennt."
+          ]
+        },
+        {
+          "type": "p",
+          "text": "**Rechtsgrundlage:** § 25 Abs. 2 Nr. 2 TDDDG. Die Speicherung ist unbedingt erforderlich, um eine von dir ausdrücklich gewünschte Funktion bereitzustellen – du stellst den Farbmodus ein, du trägst das Geburtsdatum ein, du setzt den Haken. Deshalb ist keine Einwilligung nötig, und deshalb gibt es hier auch kein Cookie-Banner."
+        },
+        {
+          "type": "p",
+          "text": "Löschen kannst du das jederzeit: In den Einstellungen der Seite lässt sich das Geburtsdatum entfernen, und über die Browserfunktion zum Löschen von Websitedaten verschwindet alles auf einmal. Ohne diese Werte funktioniert die Seite unverändert – nur eben ohne deine Voreinstellungen."
+        }
+      ]
+    },
+    {
+      "type": "section",
+      "heading": "Keine Einbindung fremder Dienste",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "Die Schriften Bricolage Grotesque und Instrument Sans werden selbst ausgeliefert und nicht über Google Fonts geladen. Es gibt keine eingebetteten Videos, keine Karten, keine Social-Media-Schaltflächen und keine externen Skripte. Die 3-D-Darstellungen nutzen eine mitgelieferte Kopie der Bibliothek three.js."
+        },
+        {
+          "type": "p",
+          "text": "Eine Content-Security-Policy im Auslieferungsheader untersagt dem Browser zusätzlich jede Verbindung zu fremden Servern. Auch ein versehentlich eingebauter externer Verweis würde dadurch blockiert."
+        },
+        {
+          "type": "p",
+          "text": "Artikel enthalten Links auf Quellen – Leitlinien, Studien, Behörden. Diese Links werden erst aktiv, wenn du sie anklickst. Danach gilt die Datenschutzerklärung der jeweiligen Seite."
+        }
+      ]
+    },
+    {
+      "type": "section",
+      "heading": "Deine Rechte",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "Dir stehen gegenüber dem Verantwortlichen folgende Rechte zu:"
+        },
+        {
+          "type": "list",
+          "items": [
+            "**Auskunft** über die zu deiner Person verarbeiteten Daten (Art. 15 DSGVO)",
+            "**Berichtigung** unrichtiger Daten (Art. 16 DSGVO)",
+            "**Löschung** (Art. 17 DSGVO)",
+            "**Einschränkung der Verarbeitung** (Art. 18 DSGVO)",
+            "**Datenübertragbarkeit** (Art. 20 DSGVO)",
+            "**Widerspruch** gegen Verarbeitungen, die auf einem berechtigten Interesse beruhen (Art. 21 DSGVO)"
+          ]
+        },
+        {
+          "type": "p",
+          "text": "In der Praxis heißt das hier wenig: Da wir keine Nutzerkonten führen und keine Profile bilden, liegen uns zu einzelnen Personen normalerweise gar keine Daten vor. Eine Anfrage kannst du trotzdem jederzeit an die oben genannte Adresse richten."
+        }
+      ]
+    },
+    {
+      "type": "section",
+      "heading": "Beschwerde bei einer Aufsichtsbehörde",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "Nach Art. 77 DSGVO steht dir unabhängig davon ein Beschwerderecht bei einer Datenschutz-Aufsichtsbehörde zu – wahlweise am Ort deines Aufenthalts, deines Arbeitsplatzes oder des vermuteten Verstoßes. Zuständig ist hier die Aufsichtsbehörde des Bundeslandes «BUNDESLAND»."
+        }
+      ]
+    },
+    {
+      "type": "section",
+      "heading": "Stand und Änderungen",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "Stand dieser Erklärung: August 2026. Sie wird angepasst, wenn sich die Technik der Seite oder die Rechtslage ändert. Ein Wechsel des Hosters wäre ein solcher Fall."
+        }
+      ]
+    },
+    {
+      "type": "callout",
+      "variant": "info",
+      "title": "Gesundheitsdaten",
+      "text": "Das Geburtsdatum, das du für die Alters-Hervorhebung eintragen kannst, bleibt vollständig in deinem Browser. Es wird nicht übertragen, nicht gespeichert und nicht ausgewertet – auch dann nicht, wenn du Artikel zu medizinischen Themen liest."
+    }
+  ],
+  "sources": []
+}
