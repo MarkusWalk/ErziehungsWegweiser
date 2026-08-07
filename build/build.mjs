@@ -59,6 +59,7 @@ log(`  ${articles.length} Artikel · ${phases.length} Altersphasen · ${topics.l
 resetDir(OUT);
 copyDir(path.join(SITE, 'assets'), path.join(OUT, 'assets'));
 write('.nojekyll', '');
+writeHeaders();
 bundleDesignTokens();
 
 /* ================================================================
@@ -932,6 +933,60 @@ function resetDir(dir) {
 function copyDir(from, to) {
   if (!fs.existsSync(from)) return;
   fs.cpSync(from, to, { recursive: true });
+}
+
+/* HTTP-Header für Cloudflare Pages und Netlify. Beide lesen eine Datei
+   namens _headers im Ausgabeverzeichnis. Auf einem Hoster, der sie nicht
+   kennt, liegt sie ungenutzt herum und stört nicht.
+
+   Zur Content-Security-Policy: 'unsafe-inline' bei script-src ist nötig,
+   weil zwei Dinge inline im HTML stehen — das Theme-Bootstrap im <head>
+   (ohne das blitzt beim Laden der falsche Farbmodus auf) und die
+   JSON-LD-Blöcke, die pro Artikel unterschiedlich sind. Der wesentliche
+   Schutz bleibt: keine Skripte, Stile, Schriften oder Bilder von fremden
+   Servern, keine Einbettung in fremde Seiten. */
+function writeHeaders() {
+  const csp = [
+    "default-src 'self'",
+    "img-src 'self' data:",
+    "style-src 'self' 'unsafe-inline'",
+    "script-src 'self' 'unsafe-inline'",
+    "font-src 'self'",
+    "connect-src 'self'",
+    "base-uri 'self'",
+    "form-action 'none'",
+    "frame-ancestors 'none'",
+  ].join('; ');
+
+  write(
+    '_headers',
+    `# Erzeugt von build/build.mjs – nicht von Hand bearbeiten.
+
+/*
+  X-Content-Type-Options: nosniff
+  Referrer-Policy: strict-origin-when-cross-origin
+  X-Frame-Options: DENY
+  Permissions-Policy: geolocation=(), camera=(), microphone=(), payment=()
+  Content-Security-Policy: ${csp}
+
+# Unveränderliche Dateien: ein Jahr cachen.
+/assets/fonts/*
+  Cache-Control: public, max-age=31536000, immutable
+
+/assets/botanical/*
+  Cache-Control: public, max-age=31536000, immutable
+
+/assets/js/vendor/*
+  Cache-Control: public, max-age=31536000, immutable
+
+# Inhalte ändern sich: kurz cachen, dann neu prüfen.
+/*.html
+  Cache-Control: public, max-age=600, must-revalidate
+
+/search-index.json
+  Cache-Control: public, max-age=600, must-revalidate
+`,
+  );
 }
 
 /* Die Token-Dateien des Designsystems liegen einzeln unter

@@ -1,0 +1,17 @@
+# Netlify: liefert docs/ unveraendert aus.
+#
+# Es gibt bewusst kein "command" — es ist nichts zu bauen. docs/ enthaelt
+# fertiges HTML/CSS/JS, erzeugt von node build/build.mjs auf dem eigenen
+# Rechner und mitcommittet.
+#
+# Cloudflare Pages braucht keine Datei; dort im Formular eintragen:
+#   Build command:       (leer lassen)
+#   Build output directory: docs
+
+[build]
+  publish = "docs"
+
+[[redirects]]
+  from = "/*"
+  status = 404
+  to = "/404.html"

@@ -28,7 +28,7 @@ build/
 site/assets/           CSS, JavaScript, Bilder – wird unverändert übernommen
   css/tokens.css       ← einziger Ort für Farben, Typografie, Abstände
 
-docs/                  Generierte Website (das, was GitHub Pages ausliefert)
+docs/                  Generierte Website (das, was der Hoster ausliefert)
 ```
 
 Die Artikel liegen als **strukturierte JSON-Blöcke** vor, nicht als HTML. Der Generator
@@ -36,7 +36,7 @@ erzeugt daraus fertige Seiten. Dadurch bleiben 90+ Artikel visuell konsistent, d
 Navigation, Suche und Verschlagwortung entstehen automatisch, und ein Designwechsel
 betrifft nur die Vorlagen – nicht die Inhalte.
 
-**Auf GitHub Pages läuft kein Build.** `docs/` enthält fertiges HTML/CSS/JS.
+**Beim Hoster läuft kein Build.** `docs/` enthält fertiges HTML/CSS/JS.
 
 ---
 
@@ -59,70 +59,53 @@ damit `docs/` aktuell ist.
 
 ---
 
-## GitHub Pages aktivieren
+## Veröffentlichen
 
-**Einmalig von Hand:**
+Die Seite wird **nicht über GitHub Pages** ausgeliefert. Grund: GitHub Pages läuft
+seit 2022 ausnahmslos über GitHub Actions — auch die Einstellung *Deploy from a
+branch* erzeugt intern den Workflow `pages build and deployment`. Ein Betrieb ohne
+Actions ist dort nicht möglich.
 
-1. Repository → **Settings** → **Pages**
-2. *Build and deployment* → *Source*: **Deploy from a branch**
-3. Branch **`gh-pages`**, Ordner **`/ (root)`** → Speichern
+Stattdessen ein Hoster, der statische Dateien direkt ausliefert. Beide Varianten
+sind für dieses Projekt kostenlos, brauchen keine Zahlungsdaten und führen keinen
+Build aus — `docs/` enthält fertiges HTML/CSS/JS.
 
-Die Seite steht dann unter `https://markuswalk.github.io/ErziehungsWegweiser/`
-(Groß- und Kleinschreibung im Pfad beachten).
+### Cloudflare Pages
 
-Es läuft dabei **kein Build und kein Runner** — der Branch enthält fertiges
-HTML/CSS/JS, eine `.nojekyll`-Datei sorgt dafür, dass GitHub nichts daran ändert.
+1. [dash.cloudflare.com](https://dash.cloudflare.com) → *Workers & Pages* →
+   *Create* → *Pages* → *Connect to Git*
+2. Repository `MarkusWalk/ErziehungsWegweiser` auswählen, Branch `main`
+3. **Framework preset:** `None`
+4. **Build command:** *leer lassen*
+5. **Build output directory:** `docs`
+6. *Save and Deploy*
 
-### Warum ein eigener Branch statt `main` + `/docs`
+### Netlify
 
-Beides funktioniert. Bei `main` muss in den Einstellungen zusätzlich der
-Unterordner `/docs` gewählt werden — steht dort versehentlich `/ (root)`, liefert
-Pages **404 auf jede Seite**, weil im Wurzelverzeichnis von `main` keine
-`index.html` liegt. Bei `gh-pages` entfällt diese Auswahl: dort *ist* die Wurzel
-die Seite. Eine Fehlerquelle weniger.
+1. [app.netlify.com](https://app.netlify.com) → *Add new site* → *Import an
+   existing project* → GitHub → Repository auswählen
+2. Die Einstellungen kommen aus `netlify.toml` im Wurzelverzeichnis:
+   `publish = "docs"`, kein Build-Befehl
+3. *Deploy*
 
-### Nach inhaltlichen Änderungen veröffentlichen
+Beide veröffentlichen ab dann bei jedem Push auf `main` automatisch neu.
 
-```bash
-sh build/publish.sh
-```
+### Header
 
-Das baut neu, prüft ob `docs/` committet ist, und überträgt es per
-`git subtree push` in die Wurzel von `gh-pages`. `docs/` auf `main` bleibt die
-einzige Quelle — `gh-pages` ist nur die Auslieferungsform.
+`build/build.mjs` erzeugt `docs/_headers`. Cloudflare Pages und Netlify lesen die
+Datei und setzen daraus:
 
-Das Repository muss dafür öffentlich sein, sonst verlangt Pages einen bezahlten
-Plan (Pro, Team oder Enterprise).
+- **Content-Security-Policy** — keine Skripte, Stile, Schriften oder Bilder von
+  fremden Servern, keine Einbettung in fremde Seiten
+- `X-Content-Type-Options`, `Referrer-Policy`, `X-Frame-Options`,
+  `Permissions-Policy`
+- **Cache:** ein Jahr für Schriften, Botanicals und three.js (die ändern sich
+  nie), zehn Minuten für HTML und Suchindex
 
-### Warum kein GitHub-Actions-Workflow
-
-Es gab einen (`.github/workflows/pages.yml`), er ist wieder entfernt. Zwei Gründe:
-
-1. `actions/configure-pages` kann Pages nicht selbst aktivieren — der
-   `GITHUB_TOKEN` darf eine Pages-Site nicht anlegen (*„Resource not accessible by
-   integration"*). Der Handgriff in den Einstellungen blieb also ohnehin nötig.
-2. Der Prüfjob bekam anschließend keinen Runner zugeteilt und wurde nach 15
-   Minuten abgebrochen. Für ein Projekt, das nichts zu bauen hat, ist das
-   unnötige Abhängigkeit von fremder Infrastruktur.
-
-Die Prüfung, die der Workflow leistete, läuft jetzt lokal vor jedem Push.
-
-### Prüfung vor dem Push
-
-```bash
-git config core.hooksPath build/hooks   # einmalig je Klon
-```
-
-`build/hooks/pre-push` bricht den Push ab bei:
-
-- Lint-Fehlern in den Artikeln
-- einem `docs/`, das nicht zum aktuellen `content/` und `site/` passt
-
-Der zweite Punkt funktioniert nur, weil der Generator deterministisch ist: gleiche
-Eingabe, byte-gleiche Ausgabe. Deshalb ist die Streuung der botanischen Spezimen
-aus dem Slug abgeleitet und nicht zufällig.
-
-Notfalls umgehbar mit `git push --no-verify`.
+`'unsafe-inline'` bei `script-src` ist nötig: Das Theme-Bootstrap steht inline im
+`<head>` — ohne das blitzt beim Laden der falsche Farbmodus auf — und die
+JSON-LD-Blöcke unterscheiden sich pro Artikel. Der wesentliche Schutz bleibt: kein
+einziger Zugriff auf fremde Server.
 
 ---
 
