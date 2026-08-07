@@ -88,12 +88,26 @@ Build aus — `docs/` enthält fertiges HTML/CSS/JS.
    `publish = "docs"`, kein Build-Befehl
 3. *Deploy*
 
-Beide veröffentlichen ab dann bei jedem Push auf `main` automatisch neu.
+### Vercel
+
+1. [vercel.com/new](https://vercel.com/new) → Repository importieren
+2. Die Einstellungen kommen aus `vercel.json` im Wurzelverzeichnis:
+   `outputDirectory: "docs"`, kein Build-Befehl (es gibt keine `package.json`,
+   Vercel liefert die Dateien direkt aus)
+3. *Deploy*
+
+Zu beachten: Der kostenlose **Hobby**-Tarif ist laut Nutzungsbedingungen
+nicht-kommerziellen Projekten vorbehalten — also keine Werbung, keine
+Bezahlinhalte, kein Firmenauftritt. Für dieses Kompendium in seiner jetzigen
+Form trifft das zu.
+
+Alle drei veröffentlichen ab dann bei jedem Push auf `main` automatisch neu.
 
 ### Header
 
-`build/build.mjs` erzeugt `docs/_headers`. Cloudflare Pages und Netlify lesen die
-Datei und setzen daraus:
+`build/build.mjs` erzeugt beide Konfigurationen aus derselben Regelliste:
+`docs/_headers` für Cloudflare Pages und Netlify, `vercel.json` für Vercel
+(das `_headers` nicht kennt). Gesetzt werden:
 
 - **Content-Security-Policy** — keine Skripte, Stile, Schriften oder Bilder von
   fremden Servern, keine Einbettung in fremde Seiten

@@ -958,34 +958,63 @@ function writeHeaders() {
     "frame-ancestors 'none'",
   ].join('; ');
 
+  const SECURITY = {
+    'X-Content-Type-Options': 'nosniff',
+    'Referrer-Policy': 'strict-origin-when-cross-origin',
+    'X-Frame-Options': 'DENY',
+    'Permissions-Policy': 'geolocation=(), camera=(), microphone=(), payment=()',
+    'Content-Security-Policy': csp,
+  };
+
+  const IMMUTABLE = 'public, max-age=31536000, immutable';
+  const REVALIDATE = 'public, max-age=600, must-revalidate';
+
+  /* Ein Regelwerk, zwei Schreibweisen. Die Pfadmuster stehen deshalb
+     doppelt da: Netlify/Cloudflare kennen Globs, Vercel erwartet
+     path-to-regexp. Alles andere wird aus denselben Werten erzeugt. */
+  const CACHE = [
+    { glob: '/assets/fonts/*',     source: '/assets/fonts/(.*)',     value: IMMUTABLE,  note: 'Unveränderliche Dateien: ein Jahr cachen.' },
+    { glob: '/assets/botanical/*', source: '/assets/botanical/(.*)', value: IMMUTABLE },
+    { glob: '/assets/js/vendor/*', source: '/assets/js/vendor/(.*)', value: IMMUTABLE },
+    { glob: '/*.html',             source: '/(.*).html',             value: REVALIDATE, note: 'Inhalte ändern sich: kurz cachen, dann neu prüfen.' },
+    { glob: '/search-index.json',  source: '/search-index.json',     value: REVALIDATE },
+  ];
+
+  /* Cloudflare Pages und Netlify: docs/_headers */
+  const blocks = CACHE.map(
+    (rule) => `${rule.note ? `# ${rule.note}\n` : ''}${rule.glob}\n  Cache-Control: ${rule.value}\n`,
+  );
   write(
     '_headers',
     `# Erzeugt von build/build.mjs – nicht von Hand bearbeiten.
 
 /*
-  X-Content-Type-Options: nosniff
-  Referrer-Policy: strict-origin-when-cross-origin
-  X-Frame-Options: DENY
-  Permissions-Policy: geolocation=(), camera=(), microphone=(), payment=()
-  Content-Security-Policy: ${csp}
+${Object.entries(SECURITY).map(([k, v]) => `  ${k}: ${v}`).join('\n')}
 
-# Unveränderliche Dateien: ein Jahr cachen.
-/assets/fonts/*
-  Cache-Control: public, max-age=31536000, immutable
+${blocks.join('\n')}`,
+  );
 
-/assets/botanical/*
-  Cache-Control: public, max-age=31536000, immutable
-
-/assets/js/vendor/*
-  Cache-Control: public, max-age=31536000, immutable
-
-# Inhalte ändern sich: kurz cachen, dann neu prüfen.
-/*.html
-  Cache-Control: public, max-age=600, must-revalidate
-
-/search-index.json
-  Cache-Control: public, max-age=600, must-revalidate
-`,
+  /* Vercel liest _headers nicht, sondern vercel.json im Wurzelverzeichnis.
+     Dort steht auch das Ausgabeverzeichnis, damit beim Anlegen des
+     Projekts nichts von Hand eingestellt werden muss. */
+  const list = (obj) => Object.entries(obj).map(([key, value]) => ({ key, value }));
+  fs.writeFileSync(
+    path.join(ROOT, 'vercel.json'),
+    JSON.stringify(
+      {
+        $schema: 'https://openapi.vercel.sh/vercel.json',
+        outputDirectory: 'docs',
+        headers: [
+          { source: '/(.*)', headers: list(SECURITY) },
+          ...CACHE.map((rule) => ({
+            source: rule.source,
+            headers: [{ key: 'Cache-Control', value: rule.value }],
+          })),
+        ],
+      },
+      null,
+      2,
+    ) + '\n',
   );
 }
 
