@@ -1061,8 +1061,8 @@
 /* ---------- Themen-Icons ---------- */
 .topic-card {
   display: grid;
-  grid-template-columns: auto 1fr;
-  grid-template-areas: "icon name" "icon blurb";
+  grid-template-columns: auto 1fr auto;
+  grid-template-areas: "icon name count" "icon blurb blurb";
   column-gap: var(--sp-4);
   row-gap: var(--sp-1);
   align-items: start;
@@ -1086,6 +1086,17 @@
 
 .topic-card__name  { grid-area: name; align-self: center; }
 .topic-card__blurb { grid-area: blurb; }
+
+/* Zählt die Artikel neben dem Titel statt frei über ihm zu schweben –
+   sonst läuft ein langer einzeiliger Titel in der Karten-Ecke mit ihr
+   zusammen (siehe .topic-card__count weiter oben, dort noch absolut
+   positioniert für die ältere Kartenvariante ohne Icon-Grid). */
+.topic-card__count {
+  position: static;
+  grid-area: count;
+  align-self: center;
+  white-space: nowrap;
+}
 
 /* ---------- Abschnittslabel des Designsystems ---------- */
 .section-label {

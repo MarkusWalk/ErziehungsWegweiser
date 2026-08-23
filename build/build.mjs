@@ -221,9 +221,19 @@ ${pageHead('Nach Alter', 'Von der Schwangerschaft bis ins Schulalter: Was in jed
 
 function buildPhasePage(phase) {
   const list = byPhase.get(phase.id) || [];
-  const grouped = topics
-    .map((t) => ({ topic: t, items: list.filter((a) => (a.topics || []).includes(t.id)) }))
-    .filter((g) => g.items.length);
+  /* Ein Artikel kann mehrere Themenfelder tragen, soll auf dieser Seite aber
+     nur einmal auftauchen – sonst zählt die Badge auf der Übersicht ("N
+     Artikel") nicht mehr mit dem, was tatsächlich gerendert wird. Jeder
+     Artikel landet deshalb nur in seiner ersten (taxonomie-Reihenfolge)
+     passenden Gruppe. */
+  const placed = new Set();
+  const grouped = [];
+  for (const t of topics) {
+    const items = list.filter((a) => !placed.has(a.slug) && (a.topics || []).includes(t.id));
+    if (!items.length) continue;
+    items.forEach((a) => placed.add(a.slug));
+    grouped.push({ topic: t, items });
+  }
 
   const body = `
 ${pageHead(phase.name, phase.blurb, [{ label: 'Nach Alter', href: './' }, { label: phase.name }], '../', {
@@ -295,9 +305,16 @@ ${pageHead('Nach Thema', 'Fünfzehn Themenfelder, quer durch alle Altersstufen.'
 
 function buildTopicPage(topic) {
   const list = byTopic.get(topic.id) || [];
-  const grouped = phases
-    .map((p) => ({ phase: p, items: list.filter((a) => (a.phases || []).includes(p.id)) }))
-    .filter((g) => g.items.length);
+  /* Wie bei buildPhasePage: ein Artikel deckt oft mehrere Altersphasen ab,
+     soll hier aber nur einmal auftauchen. Erste passende Gruppe gewinnt. */
+  const placed = new Set();
+  const grouped = [];
+  for (const p of phases) {
+    const items = list.filter((a) => !placed.has(a.slug) && (a.phases || []).includes(p.id));
+    if (!items.length) continue;
+    items.forEach((a) => placed.add(a.slug));
+    grouped.push({ phase: p, items });
+  }
 
   const body = `
 ${pageHead(topic.name, topic.blurb, [{ label: 'Nach Thema', href: './' }, { label: topic.name }], '../', { seed: topic.id })}
