@@ -195,6 +195,23 @@
 
 :root[data-theme="dark"] .pagehead { background: var(--c-surface-alt); }
 
+/* Altersphasen-Akzent: dieselbe farbige Kopfleiste wie bei .phase-card,
+   nur oben am Seitenkopf statt an der Karte. */
+.pagehead::before {
+  content: "";
+  position: absolute;
+  inset: 0 0 auto 0;
+  height: 4px;
+  background: var(--phase-color, transparent);
+}
+
+.pagehead--phase-1 { --phase-color: var(--c-phase-1); }
+.pagehead--phase-2 { --phase-color: var(--c-phase-2); }
+.pagehead--phase-3 { --phase-color: var(--c-phase-3); }
+.pagehead--phase-4 { --phase-color: var(--c-phase-4); }
+.pagehead--phase-5 { --phase-color: var(--c-phase-5); }
+.pagehead--phase-6 { --phase-color: var(--c-phase-6); }
+
 .pagehead .wrap { position: relative; z-index: var(--layer-base); }
 
 .pagehead__title {

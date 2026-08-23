@@ -250,9 +250,12 @@
 
 .topic-card {
   position: relative;
-  display: flex;
-  flex-direction: column;
-  gap: var(--sp-2);
+  display: grid;
+  grid-template-columns: auto 1fr auto;
+  grid-template-areas: "icon name count" "icon blurb blurb";
+  column-gap: var(--sp-4);
+  row-gap: var(--sp-1);
+  align-items: start;
   padding: var(--sp-4) var(--sp-5);
   border: var(--rule);
   border-radius: var(--r-md);
@@ -262,18 +265,19 @@
 }
 
 .topic-card:hover { border-color: var(--c-accent); color: inherit; }
-.topic-card__name { font-size: var(--fs-base); }
+.topic-card__name { grid-area: name; align-self: center; font-size: var(--fs-base); }
 
 .topic-card__blurb {
+  grid-area: blurb;
   font-size: var(--fs-sm);
   color: var(--c-ink-muted);
   line-height: var(--lh-snug);
 }
 
 .topic-card__count {
-  position: absolute;
-  top: var(--sp-4);
-  right: var(--sp-4);
+  grid-area: count;
+  align-self: center;
+  white-space: nowrap;
   font-size: var(--fs-xs);
   color: var(--c-ink-muted);
 }
@@ -891,6 +895,10 @@
   border-bottom: var(--rule);
 }
 
+.search__field:has(.search__input:focus-visible) {
+  box-shadow: inset 0 -2px 0 var(--c-accent);
+}
+
 .search__field > .icon { color: var(--c-ink-muted); }
 
 .search__input {
@@ -1001,7 +1009,7 @@
   width: 1.1rem;
   height: 1.1rem;
   border-radius: 50%;
-  background: #fff;
+  background: var(--c-accent-ink);
   transition: transform var(--dur-fast) var(--ease);
 }
 
@@ -1059,15 +1067,6 @@
 }
 
 /* ---------- Themen-Icons ---------- */
-.topic-card {
-  display: grid;
-  grid-template-columns: auto 1fr auto;
-  grid-template-areas: "icon name count" "icon blurb blurb";
-  column-gap: var(--sp-4);
-  row-gap: var(--sp-1);
-  align-items: start;
-}
-
 .topic-card__icon {
   grid-area: icon;
   display: grid;
@@ -1082,20 +1081,6 @@
 
 .topic-card:hover .topic-card__icon {
   background: var(--c-accent-soft);
-}
-
-.topic-card__name  { grid-area: name; align-self: center; }
-.topic-card__blurb { grid-area: blurb; }
-
-/* Zählt die Artikel neben dem Titel statt frei über ihm zu schweben –
-   sonst läuft ein langer einzeiliger Titel in der Karten-Ecke mit ihr
-   zusammen (siehe .topic-card__count weiter oben, dort noch absolut
-   positioniert für die ältere Kartenvariante ohne Icon-Grid). */
-.topic-card__count {
-  position: static;
-  grid-area: count;
-  align-self: center;
-  white-space: nowrap;
 }
 
 /* ---------- Abschnittslabel des Designsystems ---------- */
