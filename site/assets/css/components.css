@@ -943,6 +943,91 @@
   font-size: var(--fs-xs);
 }
 
+/* ---------- Werkzeuge (Timer, Zähler, Atemführung, Zufallsauswahl) ---------- */
+.c-tool { margin: 0; }
+
+.c-tool__body {
+  padding: var(--sp-5);
+  border: var(--rule);
+  border-radius: var(--r-md);
+  background: var(--c-surface);
+}
+
+.c-tool__fallback { color: var(--c-ink-muted); font-size: var(--fs-sm); }
+.c-tool__body.is-mounted .c-tool__fallback { display: none; }
+
+.c-tool__controls {
+  display: flex;
+  flex-wrap: wrap;
+  gap: var(--sp-3);
+}
+
+.c-tool__live {
+  margin-top: var(--sp-4);
+  font-size: var(--fs-md);
+  font-weight: var(--fw-medium);
+  font-variant-numeric: tabular-nums;
+}
+
+/* Zähler */
+.c-tool__output {
+  display: flex;
+  flex-wrap: wrap;
+  gap: var(--sp-6);
+  margin-bottom: var(--sp-4);
+}
+
+.c-tool__count { display: flex; flex-direction: column; gap: var(--sp-1); }
+.c-tool__count-value { font-size: var(--fs-2xl); font-weight: var(--fw-semi); font-variant-numeric: tabular-nums; }
+.c-tool__count-label { font-size: var(--fs-sm); color: var(--c-ink-soft); }
+
+/* Atem-Pacer */
+.c-tool__breath-stage {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: var(--sp-5);
+  padding-block: var(--sp-6);
+}
+
+.c-tool__breath-circle {
+  width: 8rem;
+  height: 8rem;
+  border-radius: 50%;
+  background: var(--c-accent-faint);
+  border: 2px solid var(--c-accent);
+  transform: scale(1);
+  transition: transform 4s ease-in-out;
+}
+
+.c-tool__breath-label {
+  font-size: var(--fs-lg);
+  font-weight: var(--fw-medium);
+  min-height: 1.5em;
+}
+
+/* Countdown */
+.c-tool__countdown {
+  text-align: center;
+  font-size: var(--fs-2xl);
+  font-weight: var(--fw-semi);
+  font-variant-numeric: tabular-nums;
+  padding-block: var(--sp-5);
+}
+
+.c-tool__countdown--done { color: var(--c-accent); }
+
+/* Zufallsauswahl */
+.c-tool__pick {
+  text-align: center;
+  font-size: var(--fs-lg);
+  font-weight: var(--fw-medium);
+  padding: var(--sp-6) var(--sp-5);
+  margin: 0 0 var(--sp-4);
+  border-radius: var(--r-sm);
+  background: var(--c-accent-faint);
+}
+
 /* ---------- Quellen ---------- */
 .sources {
   margin-top: var(--sp-8);

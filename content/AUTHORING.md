@@ -168,6 +168,49 @@ Drei `kind`s, alle in `site/assets/js/calculators.js` implementiert:
 des Artikels** – nichts Neues erfinden, sondern das, was `figure`/`table`
 ohnehin schon belegen, in eine interaktive Form bringen.
 
+### Werkzeuge (`tool`)
+
+Anders als `calc` errechnet ein Werkzeug nichts aus einer Eingabe, sondern
+läuft während einer Aktivität mit: Timer, Zähler, Atemführung, Zufalls-
+auswahl. Maximal einer pro Artikel, nur wo er wirklich beim Tun hilft statt
+nur ein Gimmick zu sein. Jeder `tool`-Block braucht ein eindeutiges `id`
+(sonst wird `title` slugifiziert) – manche Werkzeuge merken sich ihren
+Stand pro Seite in localStorage, `id` ist dafür der Schlüssel.
+
+Fünf `kind`s, alle in `site/assets/js/tools.js` implementiert:
+
+```jsonc
+// Start/Stopp, protokolliert Dauer + Abstand zur vorherigen Messung
+// (Beginn-zu-Beginn – relevant z. B. für Wehenabstände). "tags" optional
+// für mehrere benannte Sitzungen (z. B. linke/rechte Seite beim Stillen).
+{"type":"tool","kind":"interval-timer","id":"…","title":"…","caption":"…",
+ "options":{"tags":["Links","Rechts"]}}
+
+// Tippen zum Hochzählen, zeigt Zeit seit dem ersten Eintrag. "buttons"
+// optional für mehrere benannte Zähler nebeneinander.
+{"type":"tool","kind":"tally-counter","id":"…","title":"…","caption":"…",
+ "options":{"buttons":["Bewegung"]}}
+
+// Animierter Kreis, folgt einer Phasenfolge (respektiert reduced-motion:
+// zeigt dann nur Text statt Animation).
+{"type":"tool","kind":"breathing-pacer","id":"…","title":"…","caption":"…",
+ "options":{"phases":[{"label":"Einatmen","seconds":4},{"label":"Halten","seconds":4},
+   {"label":"Ausatmen","seconds":4},{"label":"Halten","seconds":4}]}}
+
+// Countdown ab "seconds", oder mehrere Voreinstellungen über "presets".
+{"type":"tool","kind":"countdown","id":"…","title":"…","caption":"…",
+ "options":{"presets":[60,180,300]}}
+
+// Zufällig eine Zeile aus "items" ziehen, "Nochmal" vermeidet Wiederholung.
+{"type":"tool","kind":"picker","id":"…","title":"…","caption":"…",
+ "options":{"items":["…","…","…"],"buttonLabel":"Idee ziehen"}}
+```
+
+**Kein Werkzeug ersetzt eine medizinische Einschätzung.** Ein Zähler für
+Kindsbewegungen oder ein Wehen-Timer protokolliert nur, was die Person
+selbst beobachtet – er bewertet nichts. Formuliere `caption`/`disclaimer`
+entsprechend zurückhaltend.
+
 ---
 
 ## 5. Quellen

@@ -252,6 +252,15 @@
       ]
     },
     {
+      "type": "tool",
+      "kind": "interval-timer",
+      "id": "wehen-timer",
+      "title": "Wehen mitstoppen",
+      "options": { "tags": [] },
+      "caption": "Hilft bei der Einschätzung aus der FAQ oben: etwa eine Stunde lang regelmäßig alle fünf Minuten, so kräftig, dass Sprechen schwerfällt.",
+      "disclaimer": "Ersetzt nicht den Anruf im Kreißsaal – im Zweifel dort nachfragen."
+    },
+    {
       "type": "callout",
       "variant": "info",
       "title": "Kurz gesagt",

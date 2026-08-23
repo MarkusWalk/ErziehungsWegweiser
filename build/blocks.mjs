@@ -262,6 +262,29 @@ const RENDERERS = {
   ${block.caption ? `<p class="c-caption">${inline(block.caption)}</p>` : ''}
 </figure>`;
   },
+
+  tool(block, ctx) {
+    /* Praktisches Werkzeug ohne Berechnung - läuft während einer Aktivität
+       mit (Timer, Zähler, Atemführung, Zufallsauswahl), statt aus einer
+       Eingabe ein Ergebnis zu errechnen wie "calc". Gleiches Huelle-Muster:
+       site/assets/js/tools.js kennt block.kind, block.options transportiert
+       die Konfiguration (Label, Intervall-Sekunden, Liste, ...). Manche
+       Werkzeuge merken sich ihren Stand in localStorage, genau wie
+       Checklisten - dafuer braucht jeder tool-Block eine eindeutige "id". */
+    if (!TOOL_KINDS.has(block.kind)) {
+      ctx.warn?.(`Unbekannter Werkzeug-Typ: ${block.kind}`);
+      return '';
+    }
+    return `
+<figure class="c-tool" data-tool="${esc(block.kind)}" data-tool-id="${esc(block.id || slugify(block.title || block.kind))}" data-tool-options="${esc(JSON.stringify(block.options || {}))}">
+  ${block.title ? `<figcaption class="c-figure__title">${inline(block.title)}</figcaption>` : ''}
+  <div class="c-tool__body" data-tool-body>
+    <p class="c-tool__fallback">${inline(block.fallback || 'Dieses Werkzeug benötigt JavaScript.')}</p>
+  </div>
+  ${block.disclaimer ? `<p class="c-calc__disclaimer">${inline(block.disclaimer)}</p>` : ''}
+  ${block.caption ? `<p class="c-caption">${inline(block.caption)}</p>` : ''}
+</figure>`;
+  },
 };
 
 /* Muss mit den Schlüsseln in site/assets/js/calculators.js' registry
@@ -269,6 +292,9 @@ const RENDERERS = {
    fokussierbare Hülle ausliefern - lieber gar nichts rendern und beim
    Lint auffallen. */
 const CALC_KINDS = new Set(['due-date', 'age-schedule', 'age-range-lookup']);
+
+/* Muss mit den Schlüsseln in site/assets/js/tools.js' registry übereinstimmen. */
+const TOOL_KINDS = new Set(['interval-timer', 'tally-counter', 'breathing-pacer', 'countdown', 'picker']);
 
 /* ---------------------------------------------------------------
    Quellenverweise innerhalb eines Blocks

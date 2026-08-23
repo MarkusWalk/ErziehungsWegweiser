@@ -25,6 +25,7 @@ const CALLOUTS = new Set(['info', 'tip', 'warn', 'danger', 'myth']);
 const LEVELS = new Set(['stark', 'moderat', 'umstritten']);
 const FIGURES = new Set(['bar', 'range', 'share', 'line']);
 const CALCS = new Set(['due-date', 'age-schedule', 'age-range-lookup']);
+const TOOLS = new Set(['interval-timer', 'tally-counter', 'breathing-pacer', 'countdown', 'picker']);
 
 /* Entwürfe erscheinen nicht auf der Seite und werden deshalb nicht als
    Fehler gewertet – sonst blockiert ein bewusst zurückgehaltener Artikel
@@ -94,6 +95,7 @@ for (const file of files) {
   const texts = [];
   let sceneCount = 0;
   let calcCount = 0;
+  let toolCount = 0;
 
   const walk = (blocks, depth = 0) => {
     for (const b of blocks || []) {
@@ -167,6 +169,26 @@ for (const file of files) {
             });
           }
           break;
+        case 'tool':
+          toolCount++;
+          if (!TOOLS.has(b.kind)) { errors.push(`tool: unbekannter kind "${b.kind}"`); break; }
+          if (!b.id && !b.title) errors.push('tool ohne id und ohne title – braucht eine der beiden für den localStorage-Schlüssel');
+          if (b.kind === 'picker') {
+            const items = b.options?.items || [];
+            if (items.length < 2) errors.push('tool(picker) braucht mindestens 2 options.items');
+          }
+          if (b.kind === 'breathing-pacer' && b.options?.phases) {
+            b.options.phases.forEach((p, i) => {
+              if (typeof p?.seconds !== 'number' || p.seconds <= 0) errors.push(`tool(breathing-pacer): phases[${i}] ohne positives "seconds"`);
+              if (!p?.label) errors.push(`tool(breathing-pacer): phases[${i}] ohne label`);
+            });
+          }
+          if (b.kind === 'countdown') {
+            const presets = b.options?.presets;
+            if (presets && presets.some((p) => typeof p !== 'number' || p <= 0)) errors.push('tool(countdown): options.presets enthält einen nicht-positiven Wert');
+            if (!presets && (typeof b.options?.seconds !== 'number' || b.options.seconds <= 0)) errors.push('tool(countdown) ohne gültiges options.seconds oder options.presets');
+          }
+          break;
         case 'table':
           if (!(b.head || []).length) warnings.push('table ohne Kopfzeile');
           (b.rows || []).forEach((r, i) => {
@@ -200,6 +222,7 @@ for (const file of files) {
   if ((counts.section || 0) < 4) warnings.push(`nur ${counts.section || 0} Abschnitte`);
   if (sceneCount > 1) warnings.push(`${sceneCount} scene-Blöcke (höchstens 1 empfohlen)`);
   if (calcCount > 1) warnings.push(`${calcCount} calc-Blöcke (höchstens 1 empfohlen)`);
+  if (toolCount > 1) warnings.push(`${toolCount} tool-Blöcke (höchstens 1 empfohlen)`);
 
   /* ---- Textprüfungen ---- */
   const body = texts.map(plain).join(' ');

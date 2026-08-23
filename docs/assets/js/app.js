@@ -412,6 +412,31 @@
   }
 
   /* ---------------------------------------------------------
+     Werkzeuge nachladen, wenn sie sichtbar werden
+     --------------------------------------------------------- */
+  var tools = document.querySelectorAll('[data-tool]');
+  if (tools.length) {
+    var loadTools = function () {
+      var url = new URL(root.getAttribute('data-root') + 'assets/js/tools.js', location.href).href;
+      import(url)
+        .then(function (mod) { mod.mountAll(tools); })
+        .catch(function () { /* Fallback-Text im Markup bleibt stehen. */ });
+    };
+
+    if ('IntersectionObserver' in window) {
+      var toolObserver = new IntersectionObserver(function (entries, obs) {
+        if (entries.some(function (e) { return e.isIntersecting; })) {
+          obs.disconnect();
+          loadTools();
+        }
+      }, { rootMargin: '200px' });
+      tools.forEach(function (t) { toolObserver.observe(t); });
+    } else {
+      loadTools();
+    }
+  }
+
+  /* ---------------------------------------------------------
      Start
      --------------------------------------------------------- */
   applyPrefs();
