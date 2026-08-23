@@ -4,7 +4,7 @@
   "subtitle": "Wann der richtige Zeitpunkt ist, wie ein Beikostfahrplan aussehen kann, warum Eisen die entscheidende Rolle spielt – und was im ersten Lebensjahr nichts auf dem Teller zu suchen hat.",
   "phases": ["saeugling"],
   "topics": ["ernaehrung"],
-  "updated": "2026-08-05",
+  "updated": "2026-08-23",
   "summary": "Beikost beginnt frühestens mit dem Anfang des fünften und spätestens mit dem Anfang des siebten Lebensmonats – innerhalb dieses Fensters entscheidet dein Kind mit, nicht der Kalender. Der erste Brei ist üblicherweise ein Gemüse-Kartoffel-Fleisch-Brei, weil ab etwa einem halben Jahr das Eisen knapp wird. Milch bleibt in dieser Zeit die Hauptnahrung und wird nur langsam ersetzt. Nicht ins erste Jahr gehören Honig, zugesetztes Salz und Kuhmilch als Getränk.",
   "keyFacts": [
     "Zeitfenster für den Start: Beginn des 5. bis Beginn des 7. Lebensmonats, also etwa zwischen der 17. und 26. Woche.",
@@ -93,6 +93,23 @@
             }
           ],
           "caption": "Abfolge nach den Handlungsempfehlungen des Netzwerks Gesund ins Leben. Die Monatsabstände sind Orientierung, keine Termine: Manche Kinder brauchen für den ersten Brei sechs Wochen, andere zehn Tage."
+        },
+        {
+          "type": "calc",
+          "kind": "age-schedule",
+          "title": "Der eigene Fahrplan ab Geburtsdatum",
+          "options": {
+            "unit": "months",
+            "windowBefore": 1,
+            "events": [
+              { "at": 6, "label": "Gemüse-Kartoffel-Fleisch-Brei (Mittag)", "note": "Richtwert – das Fenster reicht vom Beginn des 5. bis zum Beginn des 7. Monats" },
+              { "at": 7, "label": "Milch-Getreide-Brei (Abend)" },
+              { "at": 8, "label": "Getreide-Obst-Brei (Nachmittag)" },
+              { "at": 9, "label": "Fingerfood und Stücke", "note": "ab etwa 8.–10. Monat" },
+              { "at": 12, "label": "Familienkost" }
+            ]
+          },
+          "caption": "Rechnet aus dem Geburtsdatum, wann die einzelnen Beikostschritte anstehen könnten. Der erste Termin ist eine Orientierung in der Mitte des Zeitfensters – entscheidend bleiben die Reifezeichen deines Kindes, nicht das Datum."
         },
         {
           "type": "list",

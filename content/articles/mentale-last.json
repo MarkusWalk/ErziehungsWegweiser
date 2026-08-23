@@ -4,7 +4,7 @@
   "subtitle": "Nicht das Wäschewaschen erschöpft, sondern das Daran-denken-Müssen. Was Mental Load genau ist, wie ungleich er verteilt ist – und wie man ihn wirklich umverteilt statt ihn nur zu beklagen.",
   "phases": ["neugeborenes", "saeugling", "kleinkind", "kindergarten"],
   "topics": ["eltern", "familie"],
-  "updated": "2026-08-06",
+  "updated": "2026-08-23",
   "summary": "Mental Load ist die Denk- und Organisationsarbeit, die einem Haushalt mit Kindern zugrunde liegt: wissen, dass die Gummistiefel zu klein werden, daran denken, den U-Termin zu buchen, im Kopf haben, wann die Kita-Anmeldung fällig ist. Sie ist unsichtbar, sie hat kein Ende und sie liegt in Deutschland ganz überwiegend bei Müttern – auch dann, wenn beide Vollzeit arbeiten. Der wirksame Hebel ist nicht bessere Selbstfürsorge und auch nicht besseres Delegieren, sondern echte Umverteilung: ganze Zuständigkeitsbereiche abgeben, Planung inklusive. Das ist unbequemer als eine To-do-Liste und es ist das Einzige, was die Last tatsächlich verkleinert.",
   "keyFacts": [
     "Mental Load meint das Denken, Planen und Erinnern – nicht das Ausführen der Aufgabe.",
@@ -128,6 +128,18 @@
           "level": "stark",
           "claim": "66 Prozent der erwerbstätigen Mütter in Deutschland arbeiten in Teilzeit, aber nur 7 Prozent der erwerbstätigen Väter.",
           "note": "Diese Asymmetrie ist der strukturelle Kern des Themas: Wer weniger Stunden arbeitet, übernimmt fast automatisch die Organisation – und diese Organisation wiederum macht es schwerer, wieder aufzustocken. Deshalb ist Mental Load kein reines Beziehungsthema. Es hängt an Arbeitszeitmodellen, Betreuungszeiten und daran, welcher Elternteil beruflich zurücksteckt.",
+          "sources": [4]
+        },
+        {
+          "type": "figure",
+          "kind": "bar",
+          "title": "Teilzeitquote von Müttern und Vätern",
+          "alt": "Balkendiagramm: erwerbstätige Mütter 66 Prozent in Teilzeit, erwerbstätige Väter 7 Prozent",
+          "data": [
+            { "label": "Mütter", "value": 66, "display": "66 %" },
+            { "label": "Väter", "value": 7, "display": "7 %" }
+          ],
+          "caption": "Anteil der erwerbstätigen Mütter beziehungsweise Väter in Teilzeit, nach einer Auswertung des Statistischen Bundesamtes 2022.",
           "sources": [4]
         },
         {

@@ -4,7 +4,7 @@
   "subtitle": "Was WHO und Fachgesellschaften empfehlen, wie belastbar diese Empfehlungen tatsächlich sind – und warum die zwanzig Minuten, in denen du duschen willst, dein Kind nicht beschädigen.",
   "phases": ["saeugling", "kleinkind"],
   "topics": ["medien"],
-  "updated": "2026-08-05",
+  "updated": "2026-08-23",
   "summary": "Für Kinder unter zwei Jahren empfehlen die WHO und die Fachgesellschaften einhellig keine Bildschirmzeit – mit Ausnahme von Videotelefonaten. Der Grund ist gut belegt: Kleine Kinder lernen vom Bildschirm deutlich schlechter als von echten Menschen, und laufende Geräte stören ihr Spiel auch dann, wenn sie kaum hinschauen. Für konkrete Minutengrenzen ist die Datenlage dagegen schwächer, als der breite Konsens vermuten lässt. Entscheidend sind Inhalt, Begleitung und was die Bildschirmzeit verdrängt – nicht die Stoppuhr."
   ,
   "keyFacts": [
@@ -37,6 +37,20 @@
           ],
           "caption": "Nach der WHO-Leitlinie für Kinder unter fünf Jahren; dort steht zu den Stundenangaben ausdrücklich „weniger ist besser“. Videotelefonate zählen in diesen Empfehlungen nicht als Bildschirmzeit.",
           "sources": [0]
+        },
+        {
+          "type": "calc",
+          "kind": "age-range-lookup",
+          "title": "Was für das Alter deines Kindes empfohlen wird",
+          "options": {
+            "unit": "months",
+            "inputLabel": "Alter deines Kindes (Monate)",
+            "ranges": [
+              { "from": 0, "to": 24, "label": "Keine Bildschirmzeit – außer Videotelefonate" },
+              { "from": 24, "label": "Höchstens 60 Minuten täglich, weniger ist besser" }
+            ]
+          },
+          "caption": "Dieselben Werte wie im Diagramm oben, nach Alter in Monaten aufgelöst. Nach der WHO-Leitlinie für Kinder unter fünf Jahren."
         },
         {
           "type": "evidence",

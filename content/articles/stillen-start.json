@@ -4,7 +4,7 @@
   "subtitle": "Warum die ersten Wochen die anstrengendsten sind, wie Milchbildung tatsächlich funktioniert – und woran du erkennst, dass genug ankommt.",
   "phases": ["neugeborenes"],
   "topics": ["ernaehrung", "gesundheit"],
-  "updated": "2026-08-05",
+  "updated": "2026-08-23",
   "summary": "Stillen ist gelerntes Verhalten, kein Instinkt – für dich und für dein Kind. Die Milchbildung läuft nach Angebot und Nachfrage: Je häufiger und wirksamer die Brust entleert wird, desto mehr Milch entsteht. Acht bis zwölf Mahlzeiten in 24 Stunden sind in den ersten Wochen normal, Schmerzen dagegen nicht. Fast alle Startprobleme haben mit dem Anlegen zu tun und lassen sich mit guter Begleitung lösen. Und wenn Stillen am Ende nicht klappt oder du dich dagegen entscheidest: Dein Kind wird gut versorgt sein.",
   "keyFacts": [
     "Milchbildung folgt der Nachfrage – häufiges Anlegen ist die wirksamste Maßnahme, nicht Stilltee.",
@@ -198,6 +198,19 @@
           "variant": "info",
           "title": "Zahlen aus Deutschland",
           "text": "In der bundesweiten Studie SuSe II wurden 82 Prozent der Kinder im Alter von vier Monaten noch gestillt, 56 Prozent ausschließlich; zwanzig Jahre zuvor lag der Anteil gestillter Vier-Monats-Kinder bei 45 Prozent. Stillen ist in Deutschland also der Normalfall – und trotzdem beenden viele Eltern es früher als geplant, meist wegen lösbarer Probleme in den ersten Wochen."
+        },
+        {
+          "type": "figure",
+          "kind": "bar",
+          "title": "Stillquote mit vier Monaten in Deutschland",
+          "alt": "Balkendiagramm: 45 Prozent vor 20 Jahren, 82 Prozent aktuell gestillt, davon 56 Prozent ausschließlich",
+          "data": [
+            { "label": "Vor 20 Jahren", "value": 45, "display": "45 %" },
+            { "label": "Aktuell (SuSe II)", "value": 82, "display": "82 %" },
+            { "label": "davon ausschließlich", "value": 56, "display": "56 %" }
+          ],
+          "caption": "Anteil der Kinder, die im Alter von vier Monaten noch gestillt wurden, nach der Studie SuSe II der Deutschen Gesellschaft für Ernährung (2020).",
+          "sources": [7]
         }
       ]
     },

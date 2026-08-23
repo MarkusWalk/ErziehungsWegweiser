@@ -4,7 +4,7 @@
   "subtitle": "Wann der Wiedereinstieg sinnvoll ist, wie viele Stunden realistisch sind, was Teilzeitanspruch und Brückenteilzeit hergeben – und warum die Forschung zu berufstätigen Müttern entlastet statt zu beunruhigen.",
   "phases": ["saeugling", "kleinkind", "kindergarten"],
   "topics": ["eltern", "familie"],
-  "updated": "2026-08-06",
+  "updated": "2026-08-23",
   "summary": "Der Wiedereinstieg ist weniger eine Frage des richtigen Zeitpunkts als eine Frage der Bedingungen: verlässliche Betreuung, eine Stundenzahl, die zum Alltag passt, und eine Aufgabenteilung zu Hause, die sich mitverändert. Rechtlich gibt es mehr Spielraum, als viele wissen – Teilzeit nach dem Teilzeit- und Befristungsgesetz, die auf ein bis fünf Jahre befristete Brückenteilzeit und das Rückkehrrecht nach der Elternzeit. Und die Sorge, dem Kind mit der eigenen Erwerbstätigkeit zu schaden, lässt sich weitgehend ablegen: Metaanalysen finden für frühe mütterliche Erwerbstätigkeit keine systematischen Nachteile für Schulleistungen oder Verhalten.",
   "keyFacts": [
     "66 Prozent der erwerbstätigen Mütter arbeiten in Teilzeit, aber nur 7 Prozent der erwerbstätigen Väter.",
@@ -118,6 +118,18 @@
           "level": "stark",
           "claim": "Der Gender Pension Gap lag 2023 bei 27,1 Prozent: Frauen ab 65 Jahren erhielten im Durchschnitt 18.663 Euro Alterseinkünfte im Jahr, Männer 25.599 Euro.",
           "note": "Die Rentenlücke ist die verzögerte Rechnung für Erwerbsunterbrechungen und lange Teilzeitphasen. Sie ist kein Argument gegen Teilzeit – für viele Familien ist sie die einzige realistische Lösung –, aber ein Argument dafür, sie bewusst zu befristen, sie zwischen beiden Elternteilen aufzuteilen und die Folgen zu kennen, statt sie erst mit sechzig zu entdecken.",
+          "sources": [5]
+        },
+        {
+          "type": "figure",
+          "kind": "bar",
+          "title": "Alterseinkünfte von Frauen und Männern ab 65",
+          "alt": "Balkendiagramm: Frauen 18.663 Euro, Männer 25.599 Euro durchschnittliche Alterseinkünfte im Jahr",
+          "data": [
+            { "label": "Frauen ab 65", "value": 18663, "display": "18.663 €/Jahr" },
+            { "label": "Männer ab 65", "value": 25599, "display": "25.599 €/Jahr" }
+          ],
+          "caption": "Durchschnittliche Alterseinkünfte 2023, Statistisches Bundesamt (Destatis). Der Abstand von 27,1 Prozent ist der Gender Pension Gap – die verzögerte Rechnung für Teilzeit und Erwerbsunterbrechungen.",
           "sources": [5]
         },
         {

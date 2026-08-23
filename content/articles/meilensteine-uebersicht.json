@@ -4,7 +4,7 @@
   "subtitle": "Was Kinder wann können – und warum die Spannbreite dabei kein Ausrutscher ist, sondern der eigentliche Befund.",
   "phases": ["neugeborenes", "saeugling", "kleinkind", "kindergarten"],
   "topics": ["entwicklung"],
-  "updated": "2026-08-05",
+  "updated": "2026-08-23",
   "featured": true,
   "summary": "Entwicklung verläuft in Spannen, nicht an Stichtagen. Gesunde Kinder laufen frei irgendwann zwischen dem 8. und dem 18. Lebensmonat, sprechen ihr erstes Wort zwischen 10 und 15 Monaten und werden trotzdem alle erwachsen. Diese Übersicht zeigt für Motorik, Sprache, Sozialverhalten und Denken, was in welchem Alter üblich ist – und trennt das klar von den wenigen Punkten, den sogenannten Grenzsteinen, bei denen du tatsächlich nachfragen solltest.",
   "keyFacts": [
@@ -227,6 +227,24 @@
             ["Jedes Alter", "Verlust bereits erworbener Fähigkeiten"]
           ],
           "caption": "Zusammengestellt aus dem Grenzsteinkonzept nach Michaelis, den Leitlinienkriterien für Late Talker und den Inhalten der Früherkennungsuntersuchungen. Ein Punkt allein ist kein Befund – er ist ein Anlass für ein Gespräch."
+        },
+        {
+          "type": "calc",
+          "kind": "age-schedule",
+          "title": "Die eigenen Grenzsteine ausrechnen",
+          "options": {
+            "unit": "months",
+            "events": [
+              { "at": 3, "label": "3 Monate", "note": "Blickkontakt, soziales Lächeln, Reaktion auf Geräusche" },
+              { "at": 6, "label": "6 Monate", "note": "Kopfkontrolle in Bauchlage, Lautbildung, Greifen" },
+              { "at": 10, "label": "10 Monate", "note": "Freies Sitzen, Silbenketten, Interesse an Gegenständen oder Personen" },
+              { "at": 12, "label": "12 Monate", "note": "Zeigen auf Dinge, Reaktion auf den eigenen Namen, eine Fortbewegungsform" },
+              { "at": 18, "label": "18 Monate", "note": "Freies Laufen, sinnvolle Einzelwörter, Nachahmen von Alltagshandlungen" },
+              { "at": 24, "label": "24 Monate", "note": "Mindestens 50 Wörter oder Zweiwortkombinationen, Symbolspiel" },
+              { "at": 36, "label": "3 Jahre", "note": "Für Fremde verständliche Sprache, Interesse an anderen Kindern" }
+            ]
+          },
+          "caption": "Rechnet aus dem Geburtsdatum, wann welcher Grenzstein ansteht. Ersetzt keine U-Untersuchung – die Bewertung gehört in die Kinderarztpraxis."
         },
         {
           "type": "callout",

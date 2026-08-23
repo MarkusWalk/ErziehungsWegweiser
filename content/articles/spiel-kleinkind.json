@@ -4,7 +4,7 @@
   "subtitle": "Welche Spielformen sich in welcher Reihenfolge entwickeln, warum Kinder nebeneinander spielen bevor sie miteinander spielen – und warum das Beste, was Erwachsene beitragen können, oft Zurückhaltung ist.",
   "phases": ["kleinkind"],
   "topics": ["spiel", "entwicklung"],
-  "updated": "2026-08-05",
+  "updated": "2026-08-23",
   "summary": "Freies Spiel ist im Kleinkindalter der Normalfall und nicht die Restzeit zwischen Förderangeboten. Es entwickelt sich in einer erkennbaren Reihenfolge – vom Ausprobieren über das So-tun-als-ob bis zum Bauen und später zum Regelspiel – und ebenso wächst die soziale Beteiligung schrittweise vom Zuschauen über das Nebeneinander bis zum echten Miteinander. Eltern brauchen dafür vor allem drei Dinge: Zeit ohne Programm, weniger Spielsachen gleichzeitig und die Bereitschaft, sich nicht dauernd einzumischen.",
   "keyFacts": [
     "Parallelspiel – nebeneinander, nicht miteinander – ist mit zwei bis drei Jahren völlig normal.",
@@ -103,6 +103,23 @@
             ["Kooperatives Spiel", "ab etwa 4 Jahren", "Rollen werden verteilt, es gibt eine gemeinsame Geschichte oder Aufgabe."]
           ],
           "caption": "Nach Parten (1932). Neuere Arbeiten zeigen, dass die Stufen keine Leiter sind: Auch ältere Kinder spielen regelmäßig allein oder parallel, und das ist kein Rückschritt."
+        },
+        {
+          "type": "calc",
+          "kind": "age-range-lookup",
+          "title": "Welche Stufe passt gerade?",
+          "options": {
+            "unit": "years",
+            "inputLabel": "Alter deines Kindes (Jahre)",
+            "ranges": [
+              { "from": 0, "to": 1, "label": "Alleinspiel – andere Kinder sind noch nicht interessant" },
+              { "from": 1, "to": 2, "label": "Zuschauerspiel – beobachtet andere ausdauernd, macht aber nicht mit" },
+              { "from": 2, "to": 3, "label": "Parallelspiel – spielt dicht neben anderen, ohne gemeinsames Ziel" },
+              { "from": 3, "to": 4, "label": "Assoziatives Spiel – Material wird geteilt, ein gemeinsamer Plan fehlt noch" },
+              { "from": 4, "label": "Kooperatives Spiel – Rollen werden verteilt, es gibt eine gemeinsame Geschichte" }
+            ]
+          },
+          "caption": "Dieselben Stufen wie in der Tabelle oben, nach Parten (1932). Keine Leiter zum Abarbeiten – auch ältere Kinder spielen regelmäßig allein oder parallel."
         },
         {
           "type": "evidence",

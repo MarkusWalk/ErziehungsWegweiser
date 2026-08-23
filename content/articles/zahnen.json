@@ -4,7 +4,7 @@
   "subtitle": "Wann welche Milchzähne kommen, welche Beschwerden tatsächlich vom Zahnen stammen – und warum hohes Fieber und Durchfall nie damit erklärt werden sollten.",
   "phases": ["saeugling", "kleinkind"],
   "topics": ["gesundheit"],
-  "updated": "2026-08-06",
+  "updated": "2026-08-23",
   "summary": "Zahnen tut weh, macht quengelig, sabbern und schlecht schlafen – aber es macht kein hohes Fieber, keinen Durchfall und kein krankes Kind. Diese Unterscheidung ist die wichtigste Botschaft zum Thema, weil echte Infekte sonst als Zahnen abgetan werden. Der Rest ist gut beherrschbar: kühle Beißhilfen, Geduld und ein früher Start der Zahnpflege, sobald der erste Zahn da ist. Für Fluorid gibt es seit 2021 in Deutschland eine gemeinsame Empfehlung von Kinder- und Zahnmedizin, die zwei gleichwertige Wege beschreibt.",
   "keyFacts": [
     "Die ersten Zähne kommen meist zwischen dem 6. und 10. Lebensmonat, mit etwa zweieinhalb Jahren sind alle 20 Milchzähne da.",
@@ -45,6 +45,24 @@
             { "age": "Um 2,5 Jahre", "label": "20 Milchzähne komplett", "text": "Das Milchgebiss ist vollständig. Es bleibt bis in die Grundschulzeit im Einsatz – und ist deshalb kein Wegwerfgebiss." }
           ],
           "caption": "Durchbruchszeiten nach der Elterninformation der Bundeszentrale für gesundheitliche Aufklärung. Die Spannen überlappen sich stark; Abweichungen nach oben und unten sind häufig und für sich genommen kein Grund zur Sorge."
+        },
+        {
+          "type": "calc",
+          "kind": "age-schedule",
+          "title": "Die eigene Zahn-Zeitleiste ausrechnen",
+          "options": {
+            "unit": "months",
+            "windowBefore": 2,
+            "events": [
+              { "at": 8, "label": "Untere mittlere Schneidezähne", "note": "6.–10. Monat" },
+              { "at": 10, "label": "Obere Schneidezähne", "note": "8.–12. Monat" },
+              { "at": 16, "label": "Erste Backenzähne", "note": "13.–19. Monat" },
+              { "at": 19, "label": "Eckzähne", "note": "16.–23. Monat" },
+              { "at": 25, "label": "Zweite Backenzähne", "note": "20.–30. Monat" },
+              { "at": 30, "label": "20 Milchzähne komplett", "note": "um 2,5 Jahre" }
+            ]
+          },
+          "caption": "Rechnet aus dem Geburtsdatum eine grobe Orientierung, wann welche Zähne durchbrechen könnten. Angezeigt wird jeweils die Mitte der oben gezeigten Zeitspanne – nicht ein fester Termin."
         }
       ]
     },

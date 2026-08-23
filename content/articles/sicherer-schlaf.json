@@ -4,7 +4,7 @@
   "subtitle": "Wie ein Schlafplatz aussehen sollte, damit das Risiko für den plötzlichen Kindstod so klein wie möglich bleibt – und welche Maßnahmen tatsächlich etwas bringen.",
   "phases": ["neugeborenes", "saeugling"],
   "topics": ["schlaf", "gesundheit", "sicherheit"],
-  "updated": "2026-08-05",
+  "updated": "2026-08-23",
   "featured": true,
   "summary": "Rückenlage, eigener Schlafplatz im Elternschlafzimmer, rauchfreie Umgebung, keine weichen Gegenstände im Bett und nicht zu warm – diese fünf Punkte senken das Risiko für den plötzlichen Kindstod nachweislich und deutlich. Fast alles andere, was verkauft wird, tut es nicht.",
   "keyFacts": [
@@ -151,6 +151,22 @@
           ],
           "caption": "Spannen inklusive Tagschlaf, nach Empfehlungen der WHO und der National Sleep Foundation. Die Bandbreite ist Absicht: Kinder am unteren und oberen Rand sind nicht auffällig, solange sie tagsüber ausgeglichen wirken.",
           "sources": [4]
+        },
+        {
+          "type": "calc",
+          "kind": "age-range-lookup",
+          "title": "Wie viel Schlaf ist bei deinem Kind empfohlen?",
+          "options": {
+            "unit": "months",
+            "inputLabel": "Alter deines Kindes (Monate)",
+            "ranges": [
+              { "from": 0, "to": 4, "label": "14–17 Stunden Schlaf pro 24 Stunden empfohlen" },
+              { "from": 4, "to": 12, "label": "12–16 Stunden Schlaf pro 24 Stunden empfohlen" },
+              { "from": 12, "to": 24, "label": "11–14 Stunden Schlaf pro 24 Stunden empfohlen" },
+              { "from": 24, "label": "10–13 Stunden Schlaf pro 24 Stunden empfohlen" }
+            ]
+          },
+          "caption": "Nach den Schlafempfehlungen der WHO und der National Sleep Foundation. Die Spannen sind Bereiche, keine Zielwerte."
         },
         {
           "type": "p",

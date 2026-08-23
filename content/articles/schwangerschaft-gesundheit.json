@@ -4,7 +4,7 @@
   "subtitle": "Was tatsächlich einen Unterschied macht – Folsäure und Jod, ein paar gemiedene Lebensmittel, Bewegung, Rauch- und Alkoholverzicht und die Vorsorgetermine. Und was du getrost ignorieren kannst.",
   "phases": ["schwangerschaft"],
   "topics": ["gesundheit", "ernaehrung"],
-  "updated": "2026-08-05",
+  "updated": "2026-08-23",
   "summary": "Die Liste dessen, was in der Schwangerschaft nachweislich hilft, ist erstaunlich kurz: Folsäure und Jod ergänzen, rohe tierische Lebensmittel meiden, kein Alkohol, kein Nikotin, moderat in Bewegung bleiben und die Vorsorgetermine wahrnehmen. Fast alles andere, was Ratgeber und Werbung anbieten, ist entweder Beiwerk oder unbelegt. Dieser Artikel sortiert, worauf es ankommt – und wo du dir Sorgen sparen kannst.",
   "keyFacts": [
     "Folsäure ist die am besten belegte Nahrungsergänzung – idealerweise schon vor der Schwangerschaft.",
@@ -181,6 +181,12 @@
         {
           "type": "p",
           "text": "Die Schwangerenvorsorge in Deutschland ist in den Mutterschafts-Richtlinien geregelt und Kassenleistung. Bis zur 32. Woche ist etwa alle vier Wochen ein Termin vorgesehen, danach alle zwei Wochen. Du kannst die Vorsorge von einer Frauenärztin, von einer Hebamme oder im Wechsel von beiden übernehmen lassen – die Ultraschalluntersuchungen macht die Ärztin."
+        },
+        {
+          "type": "calc",
+          "kind": "due-date",
+          "title": "Errechneter Termin",
+          "caption": "Nach der Naegele-Regel, mit Korrektur für die Zykluslänge. Ersetzt nicht die Ultraschall-Terminierung durch die Ärztin, gibt aber dieselbe Orientierung für den Fahrplan unten."
         },
         {
           "type": "timeline",

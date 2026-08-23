@@ -4,7 +4,7 @@
   "subtitle": "Warum Angst zur Entwicklung gehört, wie Vermeidung sie heimlich groß macht – und woran du merkst, dass aus einer normalen Angst etwas geworden ist, das Behandlung braucht.",
   "phases": ["kindergarten", "schulkind"],
   "topics": ["emotionen"],
-  "updated": "2026-08-06",
+  "updated": "2026-08-23",
   "summary": "Fast jedes Kind hat in bestimmten Altersabschnitten Angst – vor Dunkelheit, vor Monstern, vor Hunden, vor dem Alleinsein. Das ist keine Fehlfunktion, sondern ein Entwicklungsschritt: Die Fantasie wächst schneller als die Fähigkeit, sie einzuordnen. Entscheidend ist nicht, ob dein Kind Angst hat, sondern was danach passiert. Wenn du die gefürchtete Situation dauerhaft aus dem Weg räumst, wird die Angst kurzfristig kleiner und langfristig größer. Wenn dein Kind sie in kleinen, begleiteten Schritten erlebt, schrumpft sie. Etwa jedes zehnte Kind entwickelt eine behandlungsbedürftige Angststörung – dafür gibt es wirksame Psychotherapie.",
   "keyFacts": [
     "Ängste folgen einem Altersmuster: Fremde und Trennung zuerst, dann Tiere und Dunkelheit, dann Fantasiegestalten, dann soziale Bewertung.",
@@ -211,6 +211,18 @@
           "level": "stark",
           "claim": "Kognitive Verhaltenstherapie bringt bei Angststörungen im Kindes- und Jugendalter deutlich mehr Kinder in Remission als keine Behandlung: rund 49 Prozent gegenüber rund 18 Prozent nach der Therapie.",
           "note": "Zahlen aus dem Cochrane-Review von 2020 mit 87 Studien und knapp 6.000 Kindern. Praktisch heißt das: Die Behandlung wirkt gut, aber nicht bei allen – und der Vorsprung gegenüber anderen aktiven Behandlungen ist kleiner als gegenüber Nichtstun. Eine Therapie ist keine Garantie, aber die beste verfügbare Option.",
+          "sources": [1]
+        },
+        {
+          "type": "figure",
+          "kind": "bar",
+          "title": "Remission nach kognitiver Verhaltenstherapie",
+          "alt": "Balkendiagramm: rund 49 Prozent Remission nach Therapie gegenüber rund 18 Prozent ohne Behandlung",
+          "data": [
+            { "label": "Nach Verhaltenstherapie", "value": 49, "display": "49 %" },
+            { "label": "Ohne Behandlung", "value": 18, "display": "18 %" }
+          ],
+          "caption": "Anteil der Kinder in Remission, aus dem Cochrane-Review von James et al. 2020 mit 87 Studien und knapp 6.000 Kindern.",
           "sources": [1]
         },
         {

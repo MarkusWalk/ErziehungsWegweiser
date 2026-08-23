@@ -4,7 +4,7 @@
   "subtitle": "Was eine schlechte Note wirklich bedeutet, warum Druck die Motivation eher senkt als hebt – und wie du die Übertrittsentscheidung triffst, ohne sie zur Lebensfrage zu machen.",
   "phases": ["schulkind"],
   "topics": ["emotionen", "familie"],
-  "updated": "2026-08-06",
+  "updated": "2026-08-23",
   "summary": "Noten messen einen Ausschnitt, an einem Tag, in einem Fach – nicht den Wert deines Kindes und nicht seine Zukunft. Trotzdem lösen sie zu Hause oft mehr aus als in der Schule. Was Kindern hilft, ist eine Familie, in der Fehler besprechbar sind, in der Anstrengung gesehen wird und in der die Zuneigung der Eltern nicht an Ergebnissen hängt. Und es hilft zu wissen, wie wenig endgültig Schulentscheidungen in Deutschland tatsächlich sind.",
   "keyFacts": [
     "Kontrolle und Druck senken die Lernmotivation langfristig, statt sie zu heben.",
@@ -150,6 +150,18 @@
           "claim": "Übergangsempfehlungen am Ende der Grundschule hängen nicht allein von der Leistung ab. Bei vergleichbarer Lesekompetenz erhielten Kinder aus den obersten Sozialschichten in den IGLU-Erhebungen deutlich häufiger eine Gymnasialempfehlung als Kinder aus den unteren Schichten.",
           "note": "Berichtet wurden Chancenverhältnisse von etwa 2,7 beziehungsweise 1,8 zugunsten der oberen Herkunftsgruppen. Das ist kein Vorwurf an einzelne Lehrkräfte – Urteile unter Zeitdruck sind für solche Verzerrungen anfällig. Für dich heißt es zweierlei: Eine Empfehlung ist eine Einschätzung, keine Messung. Und wenn du das Gefühl hast, dein Kind werde unterschätzt, ist Nachfragen legitim.",
           "sources": [3, 4]
+        },
+        {
+          "type": "figure",
+          "kind": "bar",
+          "title": "Chancenverhältnis für eine Gymnasialempfehlung nach sozialer Herkunft",
+          "alt": "Balkendiagramm: Chancenverhältnis für eine Gymnasialempfehlung bei vergleichbarer Lesekompetenz, nach sozialer Herkunftsgruppe – 1× untere, 1,8× mittlere, 2,7× obere Sozialschicht",
+          "caption": "Chancenverhältnisse aus den IGLU-Auswertungen bei vergleichbarer Lesekompetenz, jeweils gegenüber der unteren Herkunftsgruppe als Referenz.",
+          "data": [
+            { "label": "Untere Sozialschicht (Referenz)", "value": 1, "display": "1×" },
+            { "label": "Mittlere Sozialschicht", "value": 1.8, "display": "1,8×" },
+            { "label": "Obere Sozialschicht", "value": 2.7, "display": "2,7×" }
+          ]
         },
         {
           "type": "p",

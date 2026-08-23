@@ -4,7 +4,7 @@
   "subtitle": "Warum die Beziehungszufriedenheit nach der Geburt bei fast allen sinkt, was daran an Schlafmangel liegt und was an Arbeitsteilung – und welche wenigen Dinge nachweislich helfen.",
   "phases": ["neugeborenes", "saeugling", "kleinkind"],
   "topics": ["familie", "eltern"],
-  "updated": "2026-08-05",
+  "updated": "2026-08-23",
   "summary": "Die Zufriedenheit mit der Partnerschaft sinkt nach der Geburt des ersten Kindes bei den meisten Paaren – das ist einer der robustesten Befunde der Familienforschung und kein Zeichen dafür, dass etwas mit euch nicht stimmt. Die Ursachen sind erstaunlich banal: zu wenig Schlaf, zu wenig Zeit zu zweit und eine Arbeitsteilung, die sich in den ersten Monaten oft ungeplant verschiebt und dann bleibt. Was hilft, ist ebenfalls wenig spektakulär: früh über konkrete Aufgaben sprechen statt über Gerechtigkeit im Allgemeinen, Verantwortung teilen statt Aufgaben zu delegieren, und die Wiedergutmachung nach einem Streit ernster nehmen als den Streit selbst.",
   "keyFacts": [
     "Nach der Geburt des ersten Kindes sinkt die Beziehungszufriedenheit bei den meisten Paaren messbar und bleibt zunächst niedriger.",
@@ -28,6 +28,18 @@
           "level": "stark",
           "claim": "Eltern berichten im Durchschnitt eine geringere Beziehungszufriedenheit als kinderlose Paare, und der Effekt ist bei Müttern von Säuglingen am deutlichsten ausgeprägt.",
           "note": "Die Metaanalyse von Twenge, Campbell und Foster fasst zahlreiche Studien zusammen. Ein Beispiel aus den Daten: 38 Prozent der Mütter von Säuglingen berichten hohe Beziehungszufriedenheit gegenüber 62 Prozent der kinderlosen Frauen. Als Erklärung diskutieren die Autoren Rollenkonflikte und den Verlust an Freiheit – nicht ein Nachlassen der Zuneigung. Der Effekt fällt in höheren Einkommensgruppen und in jüngeren Geburtsjahrgängen stärker aus, was dafür spricht, dass Erwartungen eine Rolle spielen.",
+          "sources": [0]
+        },
+        {
+          "type": "figure",
+          "kind": "bar",
+          "title": "Hohe Beziehungszufriedenheit: Mütter von Säuglingen im Vergleich",
+          "alt": "Balkendiagramm: 38 Prozent der Mütter von Säuglingen berichten hohe Beziehungszufriedenheit, gegenüber 62 Prozent kinderloser Frauen",
+          "data": [
+            { "label": "Mütter von Säuglingen", "value": 38, "display": "38 %" },
+            { "label": "Kinderlose Frauen", "value": 62, "display": "62 %" }
+          ],
+          "caption": "Anteil mit hoher Beziehungszufriedenheit, nach der Metaanalyse von Twenge, Campbell und Foster (2003).",
           "sources": [0]
         },
         {

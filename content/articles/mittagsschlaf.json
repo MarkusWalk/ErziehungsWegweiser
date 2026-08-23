@@ -4,7 +4,7 @@
   "subtitle": "Wie lange Kinder Tagschlaf tatsächlich benötigen, woran du das Ende erkennst, was er dem Nachtschlaf wegnimmt – und was du tust, wenn die Kita eine andere Vorstellung davon hat als dein Kind.",
   "phases": ["kleinkind", "kindergarten"],
   "topics": ["schlaf"],
-  "updated": "2026-08-05",
+  "updated": "2026-08-23",
   "summary": "Der Mittagsschlaf verschwindet nicht an einem Stichtag, sondern über gut zwei Jahre hinweg: Vor dem zweiten Geburtstag schläft praktisch jedes Kind tagsüber, mit dreieinhalb bis vier Jahren hat rund die Hälfte aufgehört, mit fünfeinhalb fast alle. Für Kinder unter zwei ist Tagschlaf klar sinnvoll, danach wird die Rechnung komplizierter: Ab etwa zwei Jahren geht Tagschlaf regelmäßig zulasten des Nachtschlafs. Die praktische Frage ist deshalb selten ob, sondern wann, wie lang und wie ihr den Übergang gestaltet, ohne dass die Abende kippen.",
   "keyFacts": [
     "Weniger als 3 Prozent der Kinder hören vor dem zweiten Geburtstag mit dem Tagschlaf auf.",
@@ -49,6 +49,22 @@
           "claim": "Der Mittagsschlaf endet nicht in einem engen Zeitfenster, sondern über etwa drei Jahre verteilt. Vor dem zweiten Geburtstag hört fast kein Kind auf, zwischen drei und fünf Jahren steigt der Anteil steil an.",
           "note": "Die Metaanalyse fasst Daten aus vielen Ländern zusammen und beschreibt drei Phasen: viele kurze Schläfchen im ersten Jahr, ein Mittagsschlaf im zweiten und dritten Jahr, dann der Ausstieg. Praktisch heißt das: Ein Dreijähriger, der noch zwei Stunden schläft, ist genauso im Rahmen wie ein Dreijähriger, der seit einem halben Jahr nicht mehr schläft. Wer sich mit anderen Familien vergleicht, vergleicht hier verlässlich falsch.",
           "sources": [0, 6]
+        },
+        {
+          "type": "calc",
+          "kind": "age-range-lookup",
+          "title": "Wie viele Gleichaltrige schlafen noch mittags?",
+          "options": {
+            "unit": "years",
+            "inputLabel": "Alter deines Kindes (Jahre)",
+            "ranges": [
+              { "from": 1, "to": 3, "label": "Fast alle Kinder schlafen noch mittags (unter 3 % haben aufgehört)" },
+              { "from": 3, "to": 4, "label": "Rund ein Drittel hat aufgehört – die Mehrheit schläft noch" },
+              { "from": 4, "to": 5, "label": "Etwas mehr als die Hälfte hat aufgehört – beides ist normal" },
+              { "from": 5, "label": "Die große Mehrheit hat aufgehört (rund 94 % mit fünfeinhalb Jahren)" }
+            ]
+          },
+          "caption": "Dieselbe Verteilung wie im Diagramm oben, zum Nachschlagen nach Alter (Staton et al., Sleep Medicine Reviews 2020)."
         },
         {
           "type": "p",

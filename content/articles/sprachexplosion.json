@@ -4,7 +4,7 @@
   "subtitle": "Warum der Wortschatz irgendwann sprunghaft wächst, wie du einen Late Talker erkennst – und was Sprachförderung im Alltag tatsächlich ausmacht.",
   "phases": ["kleinkind"],
   "topics": ["sprache", "entwicklung"],
-  "updated": "2026-08-05",
+  "updated": "2026-08-23",
   "summary": "Zwischen 18 und 24 Monaten wächst der Wortschatz bei vielen Kindern von wenigen Dutzend auf mehrere hundert Wörter – oft in wenigen Monaten. Bei anderen bleibt es lange still. Etwa jedes fünfte Kind spricht mit zwei Jahren weniger als 50 Wörter; ein großer Teil davon holt bis zum dritten Geburtstag auf, ein relevanter Teil nicht. Weil sich das im Einzelfall nicht vorhersagen lässt, gilt: Hören prüfen lassen, Sprachstand mit zweieinhalb Jahren erfassen, nicht endlos abwarten.",
   "keyFacts": [
     "Mit 18 Monaten sprechen viele Kinder etwa 50 Wörter, mit 24 Monaten oft mehrere hundert – die Spannbreite ist enorm.",
@@ -175,6 +175,20 @@
               "text": "Logopädie wird in Deutschland ärztlich verordnet und von den Krankenkassen bezahlt. Wartezeiten sind vielerorts lang – melde dich parallel zur Diagnostik schon in Praxen an."
             }
           ]
+        },
+        {
+          "type": "calc",
+          "kind": "age-schedule",
+          "title": "Die eigenen Kontrolltermine berechnen",
+          "options": {
+            "unit": "months",
+            "events": [
+              { "at": 18, "label": "Warnzeichen prüfen", "note": "Noch keine erkennbaren Wörter? Jetzt abklären lassen, nicht abwarten." },
+              { "at": 24, "label": "U7 & Sprachstand einordnen", "note": "Late-Talker-Kriterium: unter 50 Wörter, keine Zweiwortsätze" },
+              { "at": 30, "label": "Kontrolltermin", "note": "Ohne deutliche Aufholbewegung ist jetzt eine Sprachtherapie angezeigt" }
+            ]
+          },
+          "caption": "Derselbe Ablauf wie oben, nach dem Geburtsdatum deines Kindes sortiert. Ersetzt nicht die U-Untersuchungen, sondern ergänzt sie um feste Kontrollpunkte fürs Sprechen."
         },
         {
           "type": "callout",

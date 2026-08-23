@@ -4,7 +4,7 @@
   "subtitle": "Wo normales Schreien aufhört, was eine Regulationsstörung ist, wo du in Deutschland kostenlose Hilfe bekommst – und wie du die Wochen bis dahin körperlich überstehst.",
   "phases": ["neugeborenes", "saeugling"],
   "topics": ["besondere-situationen", "eltern"],
-  "updated": "2026-08-05",
+  "updated": "2026-08-23",
   "summary": "Wenn ein Baby über Wochen mehr als drei Stunden am Tag untröstlich schreit, spricht man von exzessivem Schreien oder einer frühkindlichen Regulationsstörung. Das ist kein Erziehungsfehler und in aller Regel keine Krankheit des Kindes, sondern eine Reifungsverzögerung im Zusammenspiel von Schreien, Schlafen und Füttern. In Deutschland gibt es dafür ein eigenes Hilfesystem: Schreiambulanzen und Frühe Hilfen, kostenlos und ohne Überweisung. Und es gibt eine Regel, die über allem steht: niemals schütteln.",
   "keyFacts": [
     "Dreierregel: mehr als 3 Stunden Schreien an mehr als 3 Tagen pro Woche über mehr als 3 Wochen.",
@@ -49,6 +49,22 @@
           "claim": "Nach der Dreierregel erfüllen in den ersten sechs Lebenswochen 17 bis 25 Prozent der Säuglinge die Kriterien. Mit 8 bis 9 Wochen sind es noch 11 Prozent, mit 10 bis 12 Wochen unter 1 Prozent.",
           "note": "Aus einer Metaanalyse von 28 Tagebuchstudien mit 8.690 Kindern. Zwei Dinge sind daran wichtig: Erstens bist du mit einem Kind, das die Kriterien erfüllt, keineswegs allein – es ist in den ersten Wochen fast jedes fünfte. Zweitens ist der Verlauf günstig: In fast allen Fällen ist der Spuk mit drei Monaten vorbei.",
           "sources": [1]
+        },
+        {
+          "type": "calc",
+          "kind": "age-range-lookup",
+          "title": "Wo steht ihr auf der Kurve?",
+          "options": {
+            "unit": "weeks",
+            "inputLabel": "Alter deines Kindes (Wochen)",
+            "ranges": [
+              { "from": 0, "to": 6, "label": "17–25 % der Babys erfüllen jetzt die Dreierregel – ihr seid nicht allein" },
+              { "from": 6, "to": 9, "label": "Noch etwa 11 % – die Spitze ist bei den meisten überschritten" },
+              { "from": 9, "to": 12, "label": "Unter 1 % erfüllen die Dreierregel noch – die harte Phase ist bei fast allen vorbei" },
+              { "from": 12, "label": "Bei der großen Mehrheit ist diese Phase abgeschlossen. Hält das Schreien an, gehört es abgeklärt" }
+            ]
+          },
+          "caption": "Nach den Mittelwerten der Metaanalyse von Wolke, Bilgin und Samara (2017). Einzelne Kinder weichen ab – die Richtung stimmt trotzdem fast immer."
         },
         {
           "type": "p",

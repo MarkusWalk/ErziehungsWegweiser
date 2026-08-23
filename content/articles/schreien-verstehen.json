@@ -4,7 +4,7 @@
   "subtitle": "Schreien ist keine Fehlfunktion und kein Urteil über dich. Was hinter dem Schreien steckt, wie es sich über die ersten Monate verändert und was tatsächlich beruhigt.",
   "phases": ["neugeborenes"],
   "topics": ["emotionen", "bindung"],
-  "updated": "2026-08-05",
+  "updated": "2026-08-23",
   "summary": "Alle Babys schreien in den ersten Lebensmonaten mehr als danach – im Mittel rund zwei Stunden am Tag, verteilt über viele kleine Episoden, oft ohne erkennbaren Anlass. Das ist eine Reifungsphase, keine Störung und kein Zeichen dafür, dass du etwas falsch machst. Was hilft, ist prompte, ruhige Zuwendung: Körperkontakt, Tragen, Reize herunterfahren. Und was in keiner Situation hilft: schütteln. Wenn du an deine Grenze kommst, leg dein Kind sicher ab und hol dir Hilfe.",
   "keyFacts": [
     "In den ersten sechs Lebenswochen schreien und quengeln Babys im Mittel 117–133 Minuten pro Tag; bis zur 10.–12. Woche sinkt das auf rund 68 Minuten.",
@@ -52,6 +52,20 @@
           ],
           "caption": "Mittelwerte aus 28 Tagebuchstudien mit 8.690 Säuglingen. Der obere Balken zeigt den oberen Rand der Studienmittelwerte für die ersten sechs Wochen, der untere den Mittelwert mit 10 bis 12 Wochen. Einzelne Kinder liegen erheblich darüber oder darunter.",
           "sources": [0]
+        },
+        {
+          "type": "calc",
+          "kind": "age-range-lookup",
+          "title": "Wie viel Schreien ist bei diesem Alter üblich?",
+          "options": {
+            "unit": "weeks",
+            "inputLabel": "Alter deines Kindes (Wochen)",
+            "ranges": [
+              { "from": 0, "to": 6, "label": "117–133 Minuten Schreien und Quengeln pro Tag im Mittel üblich" },
+              { "from": 6, "label": "Sinkt im Mittel bis zur 10.–12. Woche auf rund 68 Minuten pro Tag" }
+            ]
+          },
+          "caption": "Nach der Metaanalyse von Wolke, Bilgin und Samara (2017). Die Streuung zwischen Kindern ist groß – die Zahl ist ein Anhaltspunkt, kein Zielwert."
         },
         {
           "type": "evidence",

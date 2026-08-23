@@ -4,7 +4,7 @@
   "subtitle": "Warum Ertrinken nicht so aussieht wie im Film, was Aufsicht in Griffnähe konkret bedeutet, wie Schwimmhilfen ehrlich einzuordnen sind und ab wann Schwimmkurse tatsächlich etwas bringen.",
   "phases": ["saeugling", "kleinkind", "kindergarten", "schulkind"],
   "topics": ["sicherheit", "spiel"],
-  "updated": "2026-08-06",
+  "updated": "2026-08-23",
   "summary": "Ertrinken ist bei kleinen Kindern kein lautes Ereignis. Es passiert stumm, ohne Plätschern und ohne Rufen, oft in weniger als zehn Zentimetern Wasser und innerhalb von Sekunden – deshalb hilft Hören nicht, sondern nur Hinsehen und Griffnähe. Die gefährlichsten Wasserstellen für Kleinkinder liegen nicht am Meer, sondern im eigenen Garten: Regentonne, Gartenteich, Planschbecken, Eimer. Schwimmhilfen ersetzen keine Aufsicht, Babyschwimmen macht nicht schwimmfähig, und das Seepferdchen ist ein Anfang, kein Ziel.",
   "keyFacts": [
     "Ertrinken verläuft bei Kleinkindern lautlos und binnen Sekunden – man hört es nicht, man sieht es nur.",
@@ -129,6 +129,23 @@
             { "age": "ab 7–8 Jahren", "label": "Sicherer Schwimmer", "text": "Erst mit dem Deutschen Schwimmabzeichen Bronze gilt ein Kind als sicherer Schwimmer. Die DLRG rechnet für ein achtjähriges Kind mit mindestens 30 Unterrichtseinheiten à 45 Minuten bis dorthin." }
           ],
           "caption": "Altersangaben nach den Ausbildungsempfehlungen der DLRG. Die Spannen sind weit: Manche Kinder sind mit vier so weit, andere mit sieben – beides ist normal."
+        },
+        {
+          "type": "calc",
+          "kind": "age-range-lookup",
+          "title": "Was für dein Kind gerade dran ist",
+          "options": {
+            "unit": "months",
+            "inputLabel": "Alter deines Kindes (Monate)",
+            "ranges": [
+              { "from": 0, "to": 12, "label": "Wassergewöhnung – Vertrautheit zählt, nicht Können" },
+              { "from": 12, "to": 48, "label": "Griffnähe, immer – noch kein Ansatz von Selbstständigkeit im Wasser" },
+              { "from": 48, "to": 60, "label": "Erster Schwimmkurs möglich" },
+              { "from": 60, "to": 84, "label": "Seepferdchen in Reichweite – noch kein sicherer Schwimmer" },
+              { "from": 84, "label": "Auf dem Weg zu Bronze – erst damit gilt ein Kind als sicherer Schwimmer" }
+            ]
+          },
+          "caption": "Orientierung nach denselben Ausbildungsempfehlungen der DLRG wie die Zeitleiste oben. Die Spannen sind weit – ersetzt keine Einschätzung durch die Schwimmlehrkraft vor Ort."
         },
         {
           "type": "figure",

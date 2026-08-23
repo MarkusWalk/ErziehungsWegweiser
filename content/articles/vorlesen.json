@@ -4,7 +4,7 @@
   "subtitle": "Warum nicht die Menge zählt, sondern das Gespräch über dem Buch – und warum dein Kind dasselbe Bilderbuch zum vierzigsten Mal hören will.",
   "phases": ["saeugling", "kleinkind", "kindergarten"],
   "topics": ["sprache", "spiel"],
-  "updated": "2026-08-06",
+  "updated": "2026-08-23",
   "summary": "Vorlesen gehört zu den wenigen Alltagsdingen, deren Wirkung auf die Sprachentwicklung in kontrollierten Studien belegt ist. Entscheidend ist dabei nicht, wie viele Seiten geschafft werden, sondern ob aus dem Vorlesen ein Gespräch wird: fragen, abwarten, aufgreifen, erweitern. Diese Form – dialogisches Lesen – bringt Kinder in wenigen Wochen messbar voran. Und sie funktioniert auch dann, wenn ein Buch zum vierzigsten Mal drankommt, wenn du keine Zeit für ein ganzes Kapitel hast oder wenn dein Kind mittendrin lieber umblättert.",
   "keyFacts": [
     "Nicht die Vorlesemenge wirkt, sondern das Gespräch über dem Buch.",
@@ -187,6 +187,23 @@
             }
           ],
           "caption": "Die Altersangaben sind grobe Orientierung. Kinder springen vor und zurück; ein Vierjähriger, der wieder Pappbilderbücher will, macht nichts falsch."
+        },
+        {
+          "type": "calc",
+          "kind": "age-range-lookup",
+          "title": "Welches Buch passt gerade?",
+          "options": {
+            "unit": "months",
+            "inputLabel": "Alter deines Kindes (Monate)",
+            "ranges": [
+              { "from": 6, "to": 12, "label": "Buch als Gegenstand – Pappe, wenige Bilder, gemeinsames Schauen" },
+              { "from": 12, "to": 24, "label": "Zeigen und Benennen – Wimmelbücher, Tempo bestimmt das Kind" },
+              { "from": 24, "to": 36, "label": "Erste kurze Geschichten – Wiederholung, Reim, Warum-Fragen" },
+              { "from": 36, "to": 48, "label": "Gefühle und Konflikte – Streit, Angst, Abschied als Thema" },
+              { "from": 48, "label": "Längere Handlung, erste Kapitel" }
+            ]
+          },
+          "caption": "Orientierung nach derselben Zeitleiste wie oben. Kinder springen vor und zurück; ein Vierjähriger, der wieder Pappbilderbücher will, macht nichts falsch."
         },
         {
           "type": "p",

@@ -4,7 +4,7 @@
   "subtitle": "Vier Dinge werden im Säuglingsalter in Deutschland tatsächlich ergänzt – und eine lange Liste weiterer Präparate braucht dein Kind nicht.",
   "phases": ["neugeborenes", "saeugling", "kleinkind"],
   "topics": ["ernaehrung", "gesundheit"],
-  "updated": "2026-08-05",
+  "updated": "2026-08-23",
   "summary": "Im ersten Lebensjahr sind in Deutschland genau vier Ergänzungen vorgesehen: Vitamin K direkt nach der Geburt und bei den ersten Vorsorgeuntersuchungen, Vitamin D zur Rachitisprophylaxe, Fluorid zur Kariesvorbeugung – und für stillende Frauen Jod. Alles davon wird von der Kinderarztpraxis verordnet und dort auch dosiert. Alles andere, was als Nahrungsergänzung für Babys verkauft wird, ist im Regelfall überflüssig und kann bei Überdosierung schaden. Das gilt unabhängig davon, ob dein Kind gestillt wird oder die Flasche bekommt.",
   "keyFacts": [
     "Vier Ergänzungen sind vorgesehen: Vitamin K, Vitamin D, Fluorid – und Jod für die stillende Person.",
@@ -93,6 +93,23 @@
             { "age": "Bis zum zweiten Frühsommer", "label": "Ende der Vitamin-D-Gabe", "text": "Je nach Geburtsmonat etwa zwischen dem 12. und 18. Lebensmonat. Danach übernimmt bei üblichem Aufenthalt im Freien die Eigenbildung." }
           ],
           "caption": "Ablauf nach den Handlungsempfehlungen von Gesund ins Leben und den Empfehlungen der DGKJ. Bei Frühgeborenen weicht der Plan ab und wird individuell festgelegt."
+        },
+        {
+          "type": "calc",
+          "kind": "age-schedule",
+          "title": "Die eigene Zeitleiste ausrechnen",
+          "options": {
+            "unit": "months",
+            "windowBefore": 0.5,
+            "events": [
+              { "at": 0, "label": "Vitamin K – U1", "note": "direkt nach der Geburt" },
+              { "at": 0.15, "label": "Vitamin K – U2", "note": "4.–6. Lebenstag" },
+              { "at": 0.35, "label": "Start Vitamin D", "note": "ab der 1.–2. Lebenswoche, täglich" },
+              { "at": 1.15, "label": "Vitamin K – U3", "note": "4.–6. Lebenswoche, letzter Termin" },
+              { "at": 15, "label": "Ende Vitamin D (Richtwert)", "note": "im Schnitt zwischen 12. und 18. Lebensmonat, abhängig vom Geburtsmonat" }
+            ]
+          },
+          "caption": "Rechnet aus dem Geburtsdatum, wann Vitamin K, der Start von Vitamin D und das ungefähre Ende der Vitamin-D-Gabe anstehen. Ersetzt nicht das gelbe Heft."
         }
       ]
     },

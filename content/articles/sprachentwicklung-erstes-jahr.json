@@ -4,7 +4,7 @@
   "subtitle": "Was im ersten Lebensjahr an Sprache passiert, passiert fast vollständig vor dem ersten Wort – im Zuhören, im Lallen, im gemeinsamen Blick. Und warum bei jedem Verdacht zuerst das Gehör geprüft wird.",
   "phases": ["saeugling"],
   "topics": ["sprache", "entwicklung"],
-  "updated": "2026-08-05",
+  "updated": "2026-08-23",
   "summary": "Das erste Wort kommt bei den meisten Kindern rund um den ersten Geburtstag – aber die eigentliche Sprachentwicklung läuft da schon ein Jahr lang. Dein Kind sortiert Laute, übt Sprechmelodie, lernt Blickwechsel und entdeckt, dass man mit Geräuschen etwas bewirken kann. Was du dafür tun kannst, ist unspektakulär: sprechen, antworten, benennen, warten. Und bei jedem Zweifel an der Sprachentwicklung steht ein Hörtest ganz am Anfang.",
   "keyFacts": [
     "Das erste echte Wort kommt meist zwischen 10 und 15 Monaten – die Spanne ist groß und normal.",
@@ -75,6 +75,23 @@
             }
           ],
           "caption": "Zeitpunkte nach den Darstellungen der Bundeszentrale für gesundheitliche Aufklärung zur Sprachentwicklung im ersten Lebensjahr. Alle Altersangaben sind Mittelwerte mit breiten Spannen."
+        },
+        {
+          "type": "calc",
+          "kind": "age-range-lookup",
+          "title": "In welcher Etappe steckt dein Kind gerade?",
+          "options": {
+            "unit": "months",
+            "inputLabel": "Alter deines Kindes (Monate)",
+            "ranges": [
+              { "from": 0, "to": 2, "label": "Reflexlaute und erstes Gurren" },
+              { "from": 2, "to": 6, "label": "Lallen ohne Regeln" },
+              { "from": 6, "to": 9, "label": "Silbenlallen (bababa, dadada)" },
+              { "from": 9, "to": 12, "label": "Zeigen, Verstehen, erste Wörter" },
+              { "from": 12, "label": "Die ersten echten Wörter" }
+            ]
+          },
+          "caption": "Orientierung nach denselben Angaben der BZgA wie die Zeitleiste oben. Alle Zeitpunkte sind Mittelwerte mit breiten, normalen Spannen."
         }
       ]
     },

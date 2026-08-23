@@ -4,7 +4,7 @@
   "subtitle": "Welche Sicherungen wirklich etwas bringen, in welcher Reihenfolge sie sinnvoll sind – und warum eine Wohnung ohne jedes Risiko weder möglich noch wünschenswert ist.",
   "phases": ["saeugling", "kleinkind"],
   "topics": ["sicherheit"],
-  "updated": "2026-08-05",
+  "updated": "2026-08-23",
   "summary": "Die meisten Unfälle kleiner Kinder passieren zu Hause, und sie folgen einem sehr vorhersehbaren Muster: Stürze, Verbrühungen, Vergiftungen, Ersticken an Kleinteilen, Ertrinken in wenig Wasser. Wer diese fünf Bereiche absichert, hat den größten Teil der Arbeit erledigt. Alles andere ist Feinschliff – und Aufsicht bleibt durch kein Gerät ersetzbar.",
   "keyFacts": [
     "Rund zwei Drittel aller Kinderunfälle passieren im häuslichen und im Freizeitbereich.",
@@ -101,6 +101,23 @@
             }
           ],
           "caption": "Orientierung nach den Unfallschwerpunkten, die die BZgA für die einzelnen Altersstufen beschreibt. Die Altersangaben sind Spannen, keine Stichtage – manche Kinder klettern mit zehn Monaten auf den Küchenstuhl."
+        },
+        {
+          "type": "calc",
+          "kind": "age-range-lookup",
+          "title": "Was für das Alter deines Kindes gerade Vorrang hat",
+          "options": {
+            "unit": "months",
+            "inputLabel": "Alter deines Kindes (Monate)",
+            "ranges": [
+              { "from": 0, "to": 4, "label": "Wickelplatz sichern, Schlafplatz leer halten" },
+              { "from": 4, "to": 8, "label": "Kleinteile, heiße Getränke, Tischkanten sichern" },
+              { "from": 8, "to": 14, "label": "Treppengitter, Möbel verankern, Herdschutz" },
+              { "from": 14, "to": 24, "label": "Fenster-/Balkontürgriffe, Putzmittel, Wasser abdecken" },
+              { "from": 24, "label": "Klettergefahr neu bewerten, Medikamente wegschließen" }
+            ]
+          },
+          "caption": "Dieselben Stufen wie in der Zeitleiste oben, zum schnellen Nachschlagen nach Alter in Monaten."
         }
       ]
     },

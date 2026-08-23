@@ -4,7 +4,7 @@
   "subtitle": "Wie viel in welchem Alter, warum Taschengeld ohne Bedingungen ausgezahlt wird – und weshalb Bezahlung für Haushaltsaufgaben meist nach hinten losgeht.",
   "phases": ["kindergarten", "schulkind"],
   "topics": ["familie", "entwicklung"],
-  "updated": "2026-08-06",
+  "updated": "2026-08-23",
   "summary": "Taschengeld ist kein Gehalt und kein Erziehungsmittel, sondern Übungsmaterial. Kinder lernen den Umgang mit Geld dadurch, dass sie eigenes Geld haben, es falsch ausgeben und die Folgen selbst spüren. Damit das funktioniert, muss es drei Bedingungen erfüllen: regelmäßig, verlässlich und ohne Gegenleistung. Für die Höhe gibt es Richtwerte des Deutschen Jugendinstituts, die von den Jugendämtern verbreitet werden – eine Spanne, kein Gesetz.",
   "keyFacts": [
     "Taschengeld wird ohne Bedingungen gezahlt und nicht als Strafe gekürzt.",
@@ -51,6 +51,22 @@
             ["12–13 Jahre", "20–30 €", "monatlich"]
           ],
           "caption": "Richtwerte der Taschengeldtabelle des Deutschen Jugendinstituts, wie sie von den Jugendämtern verbreitet und zuletzt an die Preisentwicklung angepasst wurde. Für Ältere steigen die Empfehlungen weiter, für 16- bis 17-Jährige auf etwa 40–60 Euro monatlich. Es gibt in Deutschland keine gesetzliche Pflicht und keine vorgeschriebene Höhe."
+        },
+        {
+          "type": "calc",
+          "kind": "age-range-lookup",
+          "title": "Richtwert für das Alter deines Kindes finden",
+          "options": {
+            "unit": "years",
+            "inputLabel": "Alter deines Kindes (Jahre)",
+            "ranges": [
+              { "from": 4, "to": 6, "label": "0,50–1,00 € wöchentlich" },
+              { "from": 6, "to": 10, "label": "2–4 € wöchentlich" },
+              { "from": 10, "to": 12, "label": "15–25 € monatlich" },
+              { "from": 12, "to": 14, "label": "20–30 € monatlich" }
+            ]
+          },
+          "caption": "Rechnet die Richtwerte aus der Tabelle oben auf das Alter deines Kindes um. Für 16- bis 17-Jährige gelten etwa 40–60 Euro monatlich."
         },
         {
           "type": "p",

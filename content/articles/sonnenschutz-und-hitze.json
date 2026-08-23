@@ -4,7 +4,7 @@
   "subtitle": "Warum Schatten und Kleidung vor der Sonnencreme kommen, was Kinderhaut von Erwachsenenhaut unterscheidet und wie du Sonnenstich, Hitzeerschöpfung und Hitzschlag auseinanderhältst.",
   "phases": ["neugeborenes", "saeugling", "kleinkind", "kindergarten"],
   "topics": ["sicherheit", "gesundheit"],
-  "updated": "2026-08-06",
+  "updated": "2026-08-23",
   "summary": "Die Reihenfolge im Sonnenschutz ist klar und wird trotzdem meistens umgedreht: Zuerst Schatten, dann Kleidung, dann erst Sonnencreme auf den Rest. Säuglinge im ersten Lebensjahr gehören überhaupt nicht in die direkte Sonne, und auf Sonnencreme soll in diesem Alter möglichst verzichtet werden. Sonnenbrände in der Kindheit sind kein vorübergehendes Ärgernis, sondern erhöhen das Hautkrebsrisiko lebenslang. Und die gefährlichste Hitzesituation für ein Kind ist immer noch das geparkte Auto.",
   "keyFacts": [
     "Säuglinge im ersten Lebensjahr gehören nicht in die direkte Sonne; Sonnencreme ist in diesem Alter zu vermeiden.",
@@ -87,6 +87,22 @@
             { "age": "ab 6 Jahren", "label": "Selbst mitdenken", "text": "Dein Kind lernt, den UV-Index zu lesen und selbst nachzucremen – kontrolliert wird trotzdem noch, besonders Ohren, Nacken und Fußrücken." }
           ],
           "caption": "Altersstaffelung nach den Empfehlungen des Bundesamts für Strahlenschutz und der BZgA."
+        },
+        {
+          "type": "calc",
+          "kind": "age-range-lookup",
+          "title": "Was gilt bei welchem Alter?",
+          "options": {
+            "unit": "months",
+            "inputLabel": "Alter deines Kindes (Monate)",
+            "ranges": [
+              { "from": 0, "to": 12, "label": "Keine direkte Sonne, Schatten und Kleidung – Sonnencreme möglichst vermeiden" },
+              { "from": 12, "to": 36, "label": "Schatten bleibt die Regel, UV-Kleidung beim Planschen, LSF 50+ auf die freien Stellen" },
+              { "from": 36, "to": 72, "label": "Hut aufsetzen wird Teil der Rausgeh-Routine" },
+              { "from": 72, "label": "Dein Kind lernt, den UV-Index zu lesen und selbst nachzucremen – kontrolliert wird trotzdem noch" }
+            ]
+          },
+          "caption": "Nach der Altersstaffelung des Bundesamts für Strahlenschutz und der BZgA."
         }
       ]
     },

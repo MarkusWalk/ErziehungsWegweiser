@@ -4,7 +4,7 @@
   "subtitle": "Warum Ein- und Zweijährige abends verhandeln, nachts auftauchen und manchmal schreiend im Bett sitzen, ohne wach zu sein – und was davon Handeln erfordert.",
   "phases": ["kleinkind"],
   "topics": ["schlaf"],
-  "updated": "2026-08-05",
+  "updated": "2026-08-23",
   "summary": "Im zweiten und dritten Lebensjahr verschiebt sich das Schlafthema: Aus biologischem Aufwachen wird eine Aushandlung. Kinder verstehen jetzt, dass die Nacht eine Trennung bedeutet, sie können rufen, klettern und argumentieren. Etwa jedes vierte bis dritte Kleinkind zeigt in dieser Zeit deutlichen Einschlafwiderstand oder wacht nachts regelmäßig auf. Ein verlässliches Abendritual ist die wirksamste einzelne Maßnahme, die dir zur Verfügung steht. Und der Nachtschreck, vor dem viele Eltern am meisten erschrecken, ist harmlos und braucht vor allem eines: dass du nichts tust.",
   "keyFacts": [
     "Einschlafprobleme und nächtliches Aufwachen betreffen etwa 20 bis 30 Prozent der Kleinkinder.",
@@ -38,6 +38,20 @@
         {
           "type": "p",
           "text": "Ein- bis Zweijährige brauchen nach WHO-Empfehlung insgesamt etwa 11 bis 14 Stunden Schlaf pro 24 Stunden, Drei- bis Vierjährige 10 bis 13 Stunden – Tagschlaf eingerechnet. Die Spanne ist bewusst breit. Ein Kind am unteren Rand ist nicht unterversorgt, solange es tagsüber aufnahmefähig und überwiegend ausgeglichen wirkt."
+        },
+        {
+          "type": "calc",
+          "kind": "age-range-lookup",
+          "title": "Schlafbedarf pro 24 Stunden nachschlagen",
+          "options": {
+            "unit": "years",
+            "inputLabel": "Alter deines Kindes (Jahre)",
+            "ranges": [
+              { "from": 1, "to": 3, "label": "11–14 Stunden (Tagschlaf eingerechnet)" },
+              { "from": 3, "to": 5, "label": "10–13 Stunden (Tagschlaf eingerechnet)" }
+            ]
+          },
+          "caption": "Nach den WHO-Bewegungs- und Schlafempfehlungen für Kinder unter fünf Jahren. Die Spanne ist bewusst breit – der untere Rand ist kein Warnzeichen."
         },
         {
           "type": "evidence",

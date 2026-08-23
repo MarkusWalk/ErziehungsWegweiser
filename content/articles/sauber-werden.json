@@ -4,7 +4,7 @@
   "subtitle": "Warum der Zeitpunkt nichts mit Erziehung zu tun hat, wie groß die normale Spannbreite wirklich ist – und weshalb Töpfchentraining nach Plan meistens mehr Aufwand als Wirkung bringt.",
   "phases": ["kleinkind"],
   "topics": ["entwicklung", "gesundheit"],
-  "updated": "2026-08-05",
+  "updated": "2026-08-23",
   "summary": "Sauberwerden ist ein Reifungsvorgang, kein Lernstoff. Ein Kind kann erst dann ohne Windel auskommen, wenn Blase, Nervensystem und Aufmerksamkeit so weit sind – und dieser Punkt liegt bei gesunden Kindern irgendwo zwischen dem zweiten und dem vierten Geburtstag. Rückfälle gehören dazu, nachts dauert es fast immer deutlich länger, und nächtliches Einnässen gilt vor dem fünften Geburtstag überhaupt nicht als Störung. Was verlässlich schadet, ist Druck.",
   "keyFacts": [
     "Sauberwerden lässt sich begleiten, aber nicht beibringen – der Reifungszeitpunkt ist nicht verhandelbar.",
@@ -84,6 +84,22 @@
             }
           ],
           "caption": "Zusammengestellt nach den Elterninformationen der BZgA und einer Übersichtsarbeit zum Toilettentraining im American Family Physician. Die Zeitangaben sind Korridore für gesunde Kinder, keine Sollwerte."
+        },
+        {
+          "type": "calc",
+          "kind": "age-range-lookup",
+          "title": "Wo steht dein Kind gerade im Ablauf?",
+          "options": {
+            "unit": "months",
+            "inputLabel": "Alter deines Kindes (Monate)",
+            "ranges": [
+              { "from": 18, "to": 30, "label": "Erste Wahrnehmung: dein Kind merkt, dass etwas passiert" },
+              { "from": 24, "to": 40, "label": "Tagsüber trocken wird zum Thema – mit Rückschritten normal" },
+              { "from": 36, "to": 60, "label": "Mittagsschlaf, dann die Nacht folgt eigenständig" },
+              { "from": 60, "label": "Ab hier spricht man von Enuresis, falls nachts noch eingenässt wird" }
+            ]
+          },
+          "caption": "Dieselben Korridore wie in der Zeitleiste oben – sie überschneiden sich bewusst, weil die Schritte ineinander übergehen, nicht nacheinander abgeschlossen werden."
         },
         {
           "type": "callout",

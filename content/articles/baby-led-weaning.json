@@ -4,7 +4,7 @@
   "subtitle": "Wie breifreie Beikost funktioniert, warum Würgen etwas anderes ist als Verschlucken, welche Sicherheitsregeln nicht verhandelbar sind – und was die Studienlage tatsächlich hergibt.",
   "phases": ["saeugling"],
   "topics": ["ernaehrung"],
-  "updated": "2026-08-05",
+  "updated": "2026-08-23",
   "summary": "Beim Baby-led Weaning bekommt dein Kind vom ersten Beikosttag an weiche Stücke in die Hand statt Brei auf den Löffel. Das ist ein vertretbarer Weg, wenn drei Bedingungen erfüllt sind: Dein Kind sitzt stabil aufrecht, die angebotenen Lebensmittel sind sicher zubereitet, und es ist beim Essen nie allein. Die vorhandenen Studien zeigen kein erhöhtes Verschluckungsrisiko, wenn diese Regeln eingehalten werden – sie zeigen aber auch keinen belegten Vorteil, der breifreie Beikost zur besseren Methode machen würde. Mischformen sind der Normalfall und völlig in Ordnung.",
   "keyFacts": [
     "Voraussetzung ist stabiles, aufrechtes Sitzen – nicht das Alter allein.",
@@ -150,6 +150,22 @@
             }
           ],
           "caption": "Orientierungsspannen nach den Handlungsempfehlungen des Netzwerks Gesund ins Leben und der Warnung des Bundesinstituts für Risikobewertung zu Nüssen. Die Altersangaben sind breit gemeint: Entscheidend ist, was dein Kind kann, nicht was im Kalender steht."
+        },
+        {
+          "type": "calc",
+          "kind": "age-range-lookup",
+          "title": "Welche Stückform passt gerade?",
+          "options": {
+            "unit": "months",
+            "inputLabel": "Alter deines Kindes (Monate)",
+            "ranges": [
+              { "from": 6, "to": 7, "label": "Fauststücke – fingerlange, weiche Stäbchen" },
+              { "from": 7, "to": 9, "label": "Abbeißen und Kauen – erste Kaubewegungen" },
+              { "from": 9, "to": 12, "label": "Pinzettengriff – kleinere Stücke möglich" },
+              { "from": 12, "label": "Familienkost in kindgerechten Stücken" }
+            ]
+          },
+          "caption": "Dieselben Spannen wie in der Zeitleiste oben. Entscheidend bleibt, was dein Kind motorisch kann, nicht nur das Alter – die Regeln zu tabuisierten Lebensmitteln gelten unabhängig davon bis mindestens 4 Jahre."
         }
       ]
     },

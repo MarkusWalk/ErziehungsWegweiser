@@ -4,7 +4,7 @@
   "subtitle": "Vom Brei an den Familientisch: welche drei Regeln reichen, wie groß eine Portion ist, wie viel Zucker und Salz vertretbar sind – und wie vegetarische und vegane Ernährung im Kleinkindalter einzuordnen sind.",
   "phases": ["kleinkind", "kindergarten"],
   "topics": ["ernaehrung"],
-  "updated": "2026-08-05",
+  "updated": "2026-08-23",
   "summary": "Um den ersten Geburtstag herum kann dein Kind grundsätzlich alles essen, was auf den Familientisch kommt – in kindgerechter Form, wenig gesalzen und ohne Erstickungsrisiken. Du brauchst dafür keine Nährwerttabelle, sondern drei Faustregeln: reichlich Pflanzliches und kalorienfreie Getränke, mäßig Tierisches, sparsam Fettiges und Süßes. Die Portionsgröße misst du an der Hand deines Kindes. Und die Aufgabenteilung am Tisch bleibt dieselbe wie in der Beikostzeit: Du entscheidest, was es gibt, dein Kind entscheidet, wie viel davon.",
   "keyFacts": [
     "Ab etwa einem Jahr isst dein Kind bei den Familienmahlzeiten mit – Kuhmilch ist jetzt auch als Getränk in Ordnung.",
@@ -224,6 +224,22 @@
             }
           ],
           "caption": "Orientierungsspannen nach den Handlungsempfehlungen des Netzwerks Gesund ins Leben für ein- bis dreijährige Kinder. Die Altersangaben schwanken zwischen Kindern erheblich."
+        },
+        {
+          "type": "calc",
+          "kind": "age-range-lookup",
+          "title": "Was passt gerade zum Alter deines Kindes?",
+          "options": {
+            "unit": "months",
+            "inputLabel": "Alter deines Kindes (Monate)",
+            "ranges": [
+              { "from": 12, "to": 17, "label": "Umstieg auf Familienkost: Kuhmilch als Getränk erlaubt, Salz weiter sparsam, harte und runde Stücke noch tabu" },
+              { "from": 18, "to": 35, "label": "Neophobie: Ablehnung von Bekanntem ist normal, unaufgeregt weiter Vielfalt anbieten" },
+              { "from": 36, "to": 47, "label": "Mitmachen: waschen, rühren, decken – das steigert die Bereitschaft zu probieren" },
+              { "from": 48, "label": "Erstickungsgefahr sinkt: ganze Nüsse und Rohkost möglich, weiterhin nur im Sitzen" }
+            ]
+          },
+          "caption": "Fasst die Zeitleiste oben als Nachschlagehilfe zusammen. Orientierungsspannen – die Altersangaben schwanken zwischen Kindern erheblich."
         }
       ]
     },

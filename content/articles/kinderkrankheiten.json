@@ -4,7 +4,7 @@
   "subtitle": "Dreitagefieber, Hand-Fuß-Mund, Scharlach, Windpocken, Masern, Pseudokrupp und Magen-Darm: woran du sie erkennst, wie sie verlaufen – und wo Abwarten aufhört.",
   "phases": ["kleinkind", "kindergarten"],
   "topics": ["gesundheit"],
-  "updated": "2026-08-05",
+  "updated": "2026-08-23",
   "summary": "Die meisten sogenannten Kinderkrankheiten sind harmlose Virusinfekte, die von selbst ausheilen – Dreitagefieber und Hand-Fuß-Mund gehören dazu. Zwei Situationen sind anders: Ein Pseudokrupp-Anfall mit schwerer Atemnot und der Verdacht auf Masern oder eine Hirnhautentzündung sind keine Fälle für Abwarten. Dieser Artikel ordnet die typischen Erkrankungen nach Erkennungsmerkmalen, Ansteckungszeit und Rückkehr in die Kita – und sagt bei jeder, wo die Grenze zum sofortigen Handeln liegt.",
   "keyFacts": [
     "Die meisten Kinderkrankheiten sind viral und heilen ohne spezifische Behandlung aus.",
@@ -110,6 +110,20 @@
           "level": "stark",
           "claim": "Die häufigsten Komplikationen einer Masernerkrankung sind bakterielle Mittelohrentzündungen (bis zu 14 Prozent), Durchfall (bis zu 12 Prozent) und Lungenentzündungen (bis zu 9 Prozent). Eine Gehirnentzündung tritt bei etwa einem von 1.000 Erkrankten auf.",
           "note": "Diese Zahlen stammen aus dem RKI-Ratgeber und sind der sachliche Kern hinter der Impfempfehlung. Eine ursächliche Behandlung der Masern gibt es nicht – man kann nur die Beschwerden lindern und Komplikationen behandeln, wenn sie auftreten.",
+          "sources": [0]
+        },
+        {
+          "type": "figure",
+          "kind": "bar",
+          "title": "Wie häufig Masern-Komplikationen auftreten",
+          "alt": "Balkendiagramm: Mittelohrentzündung bis zu 14 Prozent, Durchfall bis zu 12 Prozent, Lungenentzündung bis zu 9 Prozent, Gehirnentzündung 0,1 Prozent",
+          "data": [
+            { "label": "Mittelohrentzündung", "value": 14, "display": "bis zu 14 %" },
+            { "label": "Durchfall", "value": 12, "display": "bis zu 12 %" },
+            { "label": "Lungenentzündung", "value": 9, "display": "bis zu 9 %" },
+            { "label": "Gehirnentzündung", "value": 0.1, "display": "≈ 0,1 %" }
+          ],
+          "caption": "Anteil der Masernerkrankten mit der jeweiligen Komplikation, nach dem RKI-Ratgeber Masern. Die Gehirnentzündung ist selten, verläuft aber am schwersten.",
           "sources": [0]
         },
         {

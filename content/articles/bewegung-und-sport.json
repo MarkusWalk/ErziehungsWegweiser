@@ -4,7 +4,7 @@
   "subtitle": "Was die WHO nach Alter empfiehlt, warum freies Bewegen mehr bringt als früher Vereinssport – und warum ein bisschen Risiko beim Klettern kein Versäumnis der Aufsicht ist, sondern der Zweck der Sache.",
   "phases": ["kleinkind", "kindergarten", "schulkind"],
   "topics": ["gesundheit", "spiel"],
-  "updated": "2026-08-06",
+  "updated": "2026-08-23",
   "summary": "Kleinkinder sollen sich laut WHO mindestens drei Stunden am Tag bewegen, Schulkinder mindestens eine Stunde davon so anstrengend, dass sie außer Atem kommen. In Deutschland erreicht das nur etwa ein Viertel der Kinder und Jugendlichen. Die gute Nachricht: Es zählt alles – Toben, Treppen, Radweg, Fangen im Hof. Ein Verein ist nett, aber nicht die Voraussetzung. Und Klettern, Balancieren und Rennen mit dem Risiko, sich das Knie aufzuschlagen, ist kein Nebeneffekt, sondern der Lernvorgang selbst.",
   "keyFacts": [
     "1–4 Jahre: mindestens 180 Minuten Bewegung über den Tag verteilt, bei 3–4-Jährigen davon 60 Minuten anstrengender.",
@@ -40,6 +40,22 @@
           ],
           "caption": "Nach den WHO-Leitlinien für Kinder unter fünf Jahren (2019) und für 5- bis 17-Jährige (2020). Achtung beim Vergleich: Bei den Kleinen zählt jede Aktivität, ab fünf Jahren zählen nur die Minuten mit erhöhter Herzfrequenz.",
           "sources": [0, 1]
+        },
+        {
+          "type": "calc",
+          "kind": "age-range-lookup",
+          "title": "Wie viel Bewegung für welches Alter?",
+          "options": {
+            "unit": "months",
+            "inputLabel": "Alter deines Kindes (Monate)",
+            "ranges": [
+              { "from": 0, "to": 11, "label": "Rund 30 Minuten Bewegung in Bauchlage, über den Tag verteilt" },
+              { "from": 12, "to": 35, "label": "Mindestens 180 Minuten Bewegung insgesamt, jede Aktivität zählt" },
+              { "from": 36, "to": 59, "label": "Mindestens 180 Minuten, davon 60 Minuten anstrengend" },
+              { "from": 60, "label": "Mindestens 60 Minuten anstrengende Bewegung täglich, an 3 Tagen zusätzlich Muskel- und Knochentraining" }
+            ]
+          },
+          "caption": "Fasst die WHO-Bewegungsempfehlungen aus dem Diagramm oben altersgenau zusammen. Ersetzt keine individuelle Einschätzung, nur eine Orientierung."
         },
         {
           "type": "evidence",

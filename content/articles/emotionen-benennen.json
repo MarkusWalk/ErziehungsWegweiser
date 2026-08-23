@@ -4,7 +4,7 @@
   "subtitle": "Wie Kinder Wörter für das bekommen, was in ihnen tobt – und warum Anerkennen eines Gefühls nicht bedeutet, das Verhalten gutzuheißen.",
   "phases": ["kleinkind", "kindergarten"],
   "topics": ["emotionen", "sprache"],
-  "updated": "2026-08-05",
+  "updated": "2026-08-23",
   "summary": "Kinder kommen nicht mit Wörtern für ihre Gefühle auf die Welt. Sie bekommen sie von uns – dadurch, dass wir aussprechen, was wir sehen. Das Benennen eines Gefühls dämpft messbar die körperliche Erregung, und Kinder, die früh viele Gefühlswörter haben, kommen im Kindergarten und in der Schule sozial besser zurecht. Der schwierige Teil ist die Unterscheidung: Ein Gefühl anzuerkennen heißt nicht, das Verhalten zu erlauben. Beides gleichzeitig zu tun – „Du bist wütend, und hauen lasse ich trotzdem nicht zu“ – ist die eigentliche Fertigkeit.",
   "keyFacts": [
     "Gefühlswörter entstehen im Gespräch, nicht von allein – Kinder übernehmen das Vokabular ihrer Bezugspersonen.",
@@ -131,6 +131,23 @@
             { "age": "5–7 Jahre", "label": "Gemischte Gefühle", "text": "Zwei Gefühle gleichzeitig werden denkbar: sich auf die Schule freuen und gleichzeitig Angst davor haben." }
           ],
           "caption": "Orientierungswerte zur emotionalen Entwicklung, angelehnt an die Elterninformationen der BZgA und an die Forschung zum Emotionswissen im Vorschulalter. Die Spannbreite ist groß – gerade Kinder, die spät sprechen, hängen im Emotionsvokabular oft hinterher, ohne dass etwas nicht stimmt."
+        },
+        {
+          "type": "calc",
+          "kind": "age-range-lookup",
+          "title": "Was ist in welchem Alter zu erwarten?",
+          "options": {
+            "unit": "months",
+            "inputLabel": "Alter deines Kindes (Monate)",
+            "ranges": [
+              { "from": 18, "to": 23, "label": "Erste Gefühlswörter – müde, Aua, lieb; Gefühle werden noch überwiegend körperlich gezeigt" },
+              { "from": 24, "to": 35, "label": "Die großen vier – Freude, Wut, Traurigkeit und Angst werden benannt und bei anderen erkannt" },
+              { "from": 36, "to": 47, "label": "Ursachen verstehen – dein Kind kann sagen, warum jemand traurig ist" },
+              { "from": 48, "to": 59, "label": "Feinere Abstufungen – Enttäuschung, Stolz, Eifersucht, Peinlichkeit kommen dazu" },
+              { "from": 60, "to": 84, "label": "Gemischte Gefühle – zwei Gefühle gleichzeitig werden denkbar" }
+            ]
+          },
+          "caption": "Fasst die Zeitleiste oben als Nachschlagehilfe zusammen. Orientierungswerte – die Spannbreite zwischen Kindern ist groß."
         },
         {
           "type": "list",

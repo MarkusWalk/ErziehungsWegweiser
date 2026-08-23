@@ -4,7 +4,7 @@
   "subtitle": "Warum Kinder Aufgaben brauchen, die sie fast schaffen – und warum die häufigste Bremse nicht mangelndes Können ist, sondern fehlende Zeit im Elternalltag.",
   "phases": ["kleinkind", "kindergarten"],
   "topics": ["entwicklung", "erziehung"],
-  "updated": "2026-08-06",
+  "updated": "2026-08-23",
   "summary": "Selbstständigkeit entsteht nicht durch Erklären, sondern durch Tun – und zwar durch Tun, das langsamer, unordentlicher und nasser ist als deine eigene Version davon. Kinder wollen ab etwa zwei Jahren von sich aus mitmachen; dieses Fenster schließt sich, wenn zu oft jemand schneller war. Die wichtigste Voraussetzung ist deshalb kein Erziehungstrick, sondern ein Zeitpuffer. Was daraus wächst, ist mehr als eine gebundene Schuhschleife: das Erleben, dass eigenes Handeln etwas bewirkt.",
   "keyFacts": [
     "Kinder wollen ab etwa zwei Jahren mitmachen – der Wunsch kommt vor dem Können.",
@@ -128,6 +128,23 @@
             ["ab 6 Jahren", "Ranzen packen, Brotdose füllen, eigenes Zimmer grob in Ordnung halten", "Wäsche zusammenlegen, Backen und Kochen mit Aufsicht, kleine Besorgungen"]
           ],
           "caption": "Orientierung, keine Norm. Entscheidend ist nicht, ob dein Kind alles aus einer Zeile kann, sondern dass überhaupt etwas dabei ist, wofür es zuständig ist."
+        },
+        {
+          "type": "calc",
+          "kind": "age-range-lookup",
+          "title": "Was passt zu diesem Alter?",
+          "options": {
+            "unit": "years",
+            "inputLabel": "Alter deines Kindes (Jahre)",
+            "ranges": [
+              { "from": 2, "to": 3, "label": "Allein: Spielzeug wegräumen, Wäsche in den Korb werfen, Windel in den Eimer bringen" },
+              { "from": 3, "to": 4, "label": "Allein: Schuhe holen und ausziehen, eigenen Teller zur Spüle bringen, Jacke aufhängen" },
+              { "from": 4, "to": 5, "label": "Allein: Anziehen mit einfachen Verschlüssen, Zähneputzen vorbereiten, Bett grob richten" },
+              { "from": 5, "to": 6, "label": "Allein: Vollständig anziehen, Tasche für die Kita packen, Tisch abräumen" },
+              { "from": 6, "label": "Allein: Ranzen packen, Brotdose füllen, eigenes Zimmer grob in Ordnung halten" }
+            ]
+          },
+          "caption": "Dieselbe Einteilung wie in der Tabelle oben, zum schnellen Nachschlagen. Orientierung, keine Norm."
         },
         {
           "type": "p",

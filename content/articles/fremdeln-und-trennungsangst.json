@@ -10,7 +10,7 @@
     "emotionen",
     "bindung"
   ],
-  "updated": "2026-08-05",
+  "updated": "2026-08-23",
   "summary": "Zwischen dem sechsten und achten Lebensmonat fangen die meisten Kinder an zu fremdeln: Sie unterscheiden jetzt sicher zwischen vertrauten und unbekannten Menschen und reagieren auf Fremde mit Zurückhaltung oder Angst. Kurz darauf kommt die Trennungsangst dazu, die meist zwischen zehn und achtzehn Monaten am stärksten ist und bis etwa zum zweiten Geburtstag abklingt. Beides ist ein Zeichen dafür, dass Gedächtnis und Bindung sich gut entwickeln – kein Rückschritt und kein Erziehungsfehler.",
   "keyFacts": [
     "Fremdeln beginnt bei den meisten Kindern zwischen sechs und acht Monaten.",
@@ -99,6 +99,25 @@
             1,
             2
           ]
+        },
+        {
+          "type": "calc",
+          "kind": "age-range-lookup",
+          "title": "In welcher Phase steckt dein Kind gerade?",
+          "options": {
+            "unit": "months",
+            "inputLabel": "Alter deines Kindes (Monate)",
+            "ranges": [
+              { "from": 0, "to": 4, "label": "Offen für alle – noch kaum Unterscheidung zwischen Personen" },
+              { "from": 4, "to": 6, "label": "Vorlieben werden deutlich – vertraute Gesichter werden bevorzugt" },
+              { "from": 6, "to": 8, "label": "Fremdeln beginnt" },
+              { "from": 8, "to": 10, "label": "Trennungsangst setzt ein" },
+              { "from": 10, "to": 18, "label": "Höhepunkt der Trennungsangst" },
+              { "from": 18, "to": 24, "label": "Deutliches Abklingen" },
+              { "from": 24, "label": "Wellen statt Linie – neue Ängste können die Phase zurückbringen" }
+            ]
+          },
+          "caption": "Orientierung nach den Elterninformationen der BZgA und dem MSD Manual, dieselben Spannen wie in der Zeitleiste oben. Jedes Kind hat sein eigenes Tempo."
         }
       ]
     },

@@ -4,7 +4,7 @@
   "subtitle": "Asthma, Diabetes Typ 1, Epilepsie oder eine schwere Allergie verändern nicht nur die Medizin, sondern den Familienalltag. Wie ihr das Kind altersgerecht einbezieht, Kita und Schule handlungsfähig macht und die Hilfen bekommt, die euch zustehen.",
   "phases": ["kleinkind", "kindergarten", "schulkind"],
   "topics": ["besondere-situationen", "gesundheit"],
-  "updated": "2026-08-06",
+  "updated": "2026-08-23",
   "summary": "Was Familien mit chronisch kranken Kindern am meisten belastet, ist selten die Krankheit selbst – es ist die Behandlungslast: Kontrollen, Dokumentation, Anträge, Diskussionen mit Einrichtungen, Wachsamkeit rund um die Uhr. Dieser Artikel zeigt, wie ihr Verantwortung altersgerecht an euer Kind abgebt, wie ein Notfallplan für Kita und Schule aussieht, was Geschwisterkinder brauchen und welche Hilfen es in Deutschland gibt – vom Pflegegrad bis zur Schulung.",
   "keyFacts": [
     "Strukturierte Patienten- und Elternschulungen sind bei chronischen Kindererkrankungen fester Bestandteil der Behandlung, nicht ein Extra.",
@@ -65,6 +65,23 @@
             { "age": "ab 12 Jahren", "label": "Übergabe mit Netz", "text": "Mehr Eigenverantwortung, auch bei Übernachtungen und Klassenfahrten. Gleichzeitig die Zeit, in der die Therapietreue typischerweise einbricht – Kontrolle langsam lockern, Kontakt eng halten." }
           ],
           "caption": "Orientierung, keine Norm. Das passende Tempo hängt von Erkrankung, Reife und Tagesform ab – Rückschritte sind normal und kein Vertrauensbruch."
+        },
+        {
+          "type": "calc",
+          "kind": "age-range-lookup",
+          "title": "Was passt zum Alter deines Kindes?",
+          "options": {
+            "unit": "years",
+            "inputLabel": "Alter deines Kindes (Jahre)",
+            "ranges": [
+              { "from": 2, "to": 3, "label": "Mitmachen: Gegenstände kennen, Inhalator selbst halten, Pflaster aufkleben" },
+              { "from": 4, "to": 5, "label": "Benennen und melden: eigene Symptome in Worte fassen und sich bei einem Erwachsenen melden" },
+              { "from": 6, "to": 8, "label": "Handgriffe unter Aufsicht: messen, inhalieren, dokumentieren mit Erwachsenem daneben" },
+              { "from": 9, "to": 11, "label": "Routine allein, Entscheidungen gemeinsam: übliche Abläufe selbstständig" },
+              { "from": 12, "label": "Übergabe mit Netz: mehr Eigenverantwortung, Kontrolle langsam lockern, Kontakt eng halten" }
+            ]
+          },
+          "caption": "Fasst die Zeitleiste oben als Nachschlagehilfe zusammen. Orientierung, keine Norm – das Tempo hängt von Erkrankung, Reife und Tagesform ab."
         },
         {
           "type": "callout",

@@ -4,7 +4,7 @@
   "subtitle": "Eine nüchterne Liste statt einer Marktübersicht – was ein Neugeborenes tatsächlich braucht, worauf es bei Sicherheit und Normen ankommt, was sich fast immer als überflüssig erweist und welche finanziellen Hilfen es gibt.",
   "phases": ["schwangerschaft", "neugeborenes"],
   "topics": ["familie", "sicherheit"],
-  "updated": "2026-08-05",
+  "updated": "2026-08-23",
   "summary": "Ein Neugeborenes braucht sehr wenig: einen sicheren Schlafplatz, Kleidung zum Wechseln, etwas zum Wickeln, eine Möglichkeit, transportiert zu werden – und Menschen. Teuer und wichtig sind nur zwei Dinge: der Autositz und der Schlafplatz, weil an beiden Sicherheit hängt. Bei fast allem anderen kannst du abwarten, gebraucht kaufen oder leihen. Dieser Artikel sortiert die Liste, erklärt die relevanten Normen und nennt die Stellen, die bei knappem Budget helfen.",
   "keyFacts": [
     "Sicherheitsrelevant sind vor allem Schlafplatz und Autositz – hier lohnt sich Genauigkeit.",
@@ -58,6 +58,23 @@
             { "age": "ab 15 Monaten", "label": "Nächste Sitzgruppe", "text": "Frühestens jetzt der Wechsel aus der Babyschale in einen größeren, weiterhin möglichst rückwärtsgerichteten Sitz." }
           ],
           "caption": "Eine grobe Reihenfolge. Der Sinn dahinter: Fast nichts muss vor der Geburt gekauft sein, und vieles wird deutlich später gebraucht, als der Handel nahelegt."
+        },
+        {
+          "type": "calc",
+          "kind": "age-range-lookup",
+          "title": "Was jetzt gebraucht wird",
+          "options": {
+            "unit": "months",
+            "inputLabel": "Alter deines Kindes (Monate)",
+            "ranges": [
+              { "from": 0, "to": 3, "label": "Nachjustieren: mehr Bodys, ein anderes Tragesystem, die passende Windelgröße" },
+              { "from": 3, "to": 5, "label": "Erste Beschäftigung: eine Krabbeldecke, ein paar greifbare Gegenstände" },
+              { "from": 5, "to": 8, "label": "Beikost und Sitzen: Hochstuhl, Löffel, Schüsseln, Lätzchen" },
+              { "from": 8, "to": 15, "label": "Mobilität: Türgitter, Steckdosensicherungen, Eckenschutz" },
+              { "from": 15, "label": "Nächste Sitzgruppe: Wechsel aus der Babyschale in einen größeren, möglichst rückwärtsgerichteten Sitz" }
+            ]
+          },
+          "caption": "Dieselben Zeitpunkte wie in der Zeitleiste oben, nur nach Alter durchsuchbar."
         }
       ]
     },

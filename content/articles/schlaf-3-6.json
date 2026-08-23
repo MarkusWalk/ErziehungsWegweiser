@@ -4,7 +4,7 @@
   "subtitle": "Wie viel Schlaf Drei- bis Sechsjährige brauchen, warum das Zubettgehen jetzt eine Verhandlung wird – und warum Schlafwandeln, Nachtschreck und Zähneknirschen fast immer harmlos sind.",
   "phases": ["kindergarten"],
   "topics": ["schlaf"],
-  "updated": "2026-08-06",
+  "updated": "2026-08-23",
   "summary": "Zwischen drei und sechs Jahren verschiebt sich fast alles beim Schlaf: Der Mittagsschlaf fällt weg, die Nächte werden stabiler, und gleichzeitig kommen die Abendängste. Der Schlafbedarf liegt in dieser Zeit bei etwa 10 bis 13 Stunden. Die häufigsten Themen sind jetzt nicht mehr nächtliches Aufwachen, sondern Hinauszögern am Abend, Angst vor dem Alleinsein und ein Schlafzimmer, das der Bildschirmzeit zu nahe gerückt ist. Auffällige nächtliche Phänomene wie Schlafwandeln oder Zähneknirschen wirken beunruhigend und sind in diesem Alter meist harmlos.",
   "keyFacts": [
     "Schlafbedarf 3–5 Jahre: 10–13 Stunden, 6 Jahre: 9–12 Stunden, jeweils inklusive Tagschlaf.",
@@ -48,6 +48,21 @@
         {
           "type": "p",
           "text": "Die Bandbreite von drei Stunden ist wichtiger als der Mittelwert. Es gibt Fünfjährige, die mit zehn Stunden bestens auskommen, und andere, die dreizehn brauchen. Die verlässlichste Auskunft gibt nicht die Uhr, sondern der Tag: Ein ausgeschlafenes Kind ist morgens von selbst wach, kommt ohne dramatische Zusammenbrüche durch den Nachmittag und ist am Wochenende nicht wesentlich länger im Bett als unter der Woche."
+        },
+        {
+          "type": "calc",
+          "kind": "age-range-lookup",
+          "title": "Wie viel Schlaf braucht mein Kind?",
+          "options": {
+            "unit": "months",
+            "inputLabel": "Alter deines Kindes (Monate)",
+            "ranges": [
+              { "from": 12, "to": 35, "label": "11–14 Stunden" },
+              { "from": 36, "to": 71, "label": "10–13 Stunden" },
+              { "from": 72, "label": "9–11 Stunden" }
+            ]
+          },
+          "caption": "Dieselben Spannen wie im Diagramm oben, nach Alter in Monaten aufgelöst. Inklusive Tagschlaf, nach Empfehlung der National Sleep Foundation."
         },
         {
           "type": "callout",

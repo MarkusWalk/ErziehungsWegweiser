@@ -4,7 +4,7 @@
   "subtitle": "Warum ein Neugeborenes noch keinen Tag-Nacht-Rhythmus hat, wie viel Schlaf normal ist – und was in diesem Alter sinnvoll ist und was schlicht noch nicht geht.",
   "phases": ["neugeborenes"],
   "topics": ["schlaf"],
-  "updated": "2026-08-05",
+  "updated": "2026-08-23",
   "summary": "Neugeborene schlafen viel, aber in kleinen Portionen und über 24 Stunden verteilt. Ein innerer Tag-Nacht-Rhythmus entsteht erst nach etwa zwei bis drei Monaten – vorher gibt es schlicht keine Biologie, an die sich ein Schlafplan anschließen könnte. Was du in dieser Zeit tun kannst, ist nicht Erziehung, sondern Rhythmusgebung: Tageslicht am Tag, Dunkelheit und Ruhe in der Nacht, verlässliche Abläufe. Und du kannst dafür sorgen, dass der Schlafplatz sicher ist.",
   "keyFacts": [
     "0–3 Monate: 14–17 Stunden Schlaf pro 24 Stunden, verteilt auf viele kurze Phasen.",
@@ -54,6 +54,20 @@
         {
           "type": "p",
           "text": "Die eigentliche Zumutung der ersten Monate ist nicht die Gesamtdauer, sondern die Portionierung. Ein Neugeborenes schläft selten länger als drei bis vier Stunden am Stück, oft deutlich kürzer. Rechnerisch bekommt es dabei genug Schlaf – du bekommst ihn nicht. Deshalb ist die wichtigste Maßnahme in dieser Zeit keine, die den Schlaf des Kindes verändert, sondern eine, die euren eigenen Schlaf schützt: Schichten, in denen jeweils eine Person wirklich schlafen darf."
+        },
+        {
+          "type": "calc",
+          "kind": "age-range-lookup",
+          "title": "Wie viel Schlaf ist bei deinem Kind üblich?",
+          "options": {
+            "unit": "months",
+            "inputLabel": "Alter deines Kindes (Monate)",
+            "ranges": [
+              { "from": 0, "to": 4, "label": "14–17 Stunden Schlaf pro 24 Stunden üblich" },
+              { "from": 4, "label": "12–16 Stunden Schlaf pro 24 Stunden üblich" }
+            ]
+          },
+          "caption": "Nach den WHO-Schlafempfehlungen für Kinder unter fünf Jahren. Die Spannen sind Bereiche, keine Zielwerte."
         }
       ]
     },
