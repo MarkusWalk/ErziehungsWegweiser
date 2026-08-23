@@ -92,6 +92,13 @@
 .icon-btn:hover { background: var(--c-bg-sunk); color: var(--c-ink); }
 .icon-btn--menu { display: none; }
 
+/* Menü-Icon wechselt zu einem Schließen-Kreuz, solange die mobile
+   Navigation offen ist - sonst gibt es keinen sichtbaren Hinweis, dass
+   derselbe Knopf sie auch wieder zuklappt. */
+.icon-btn__state--close { display: none; }
+.icon-btn--menu[aria-expanded="true"] .icon-btn__state--open { display: none; }
+.icon-btn--menu[aria-expanded="true"] .icon-btn__state--close { display: grid; }
+
 .site-progress {
   height: 2px;
   background: transparent;
@@ -380,10 +387,21 @@
 .article__body > * + * { margin-top: var(--sp-5); }
 
 /* ---------- Inhaltsverzeichnis ---------- */
+/* Unter 1060px ist .article__layout einspaltig (siehe oben) - dort darf
+   das Inhaltsverzeichnis nicht "sticky" bleiben, sonst schwebt es fest
+   an der gleichen Bildschirmposition und legt sich über den Fließtext,
+   der darunter vorbeiscrollt. Erst ab der Zweispalten-Ansicht bekommt
+   es eine eigene Spalte, in der Sticky sinnvoll ist. */
 .toc {
-  position: sticky;
-  top: 6rem;
+  position: static;
   font-size: var(--fs-sm);
+}
+
+@media (min-width: 1060px) {
+  .toc {
+    position: sticky;
+    top: 6rem;
+  }
 }
 
 .toc__title {

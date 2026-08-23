@@ -35,6 +35,7 @@ function mount(node) {
   renderer.setPixelRatio(Math.min(devicePixelRatio, 2));
   renderer.setSize(width, height, false);
   stage.appendChild(renderer.domElement);
+  stage.classList.add('is-mounted');
 
   const scene = new THREE.Scene();
   const camera = new THREE.PerspectiveCamera(45, width / height, 0.1, 100);

@@ -224,13 +224,16 @@ const RENDERERS = {
   },
 
   scene(block) {
-    /* Dynamische three.js-Szene. Der Platzhalter bleibt ohne
-       JavaScript sichtbar und beschreibt den Inhalt in Worten. */
+    /* Dynamische three.js-Szene. Der Platzhalter-Text steht direkt im
+       Markup (nicht in <noscript>) und bleibt sichtbar, bis scenes.js
+       die Bühne per .is-mounted markiert - sonst verschwindet er nur bei
+       komplett deaktiviertem JavaScript, nicht aber wenn das Nachladen
+       fehlschlägt oder bewusst übersprungen wird (prefers-reduced-motion). */
     return `
 <figure class="c-scene" data-scene="${esc(block.preset)}" data-scene-options="${esc(JSON.stringify(block.options || {}))}">
   ${block.title ? `<figcaption class="c-figure__title">${inline(block.title)}</figcaption>` : ''}
   <div class="c-scene__stage" role="img" aria-label="${esc(block.alt || block.title || 'Interaktive Darstellung')}">
-    <noscript><p class="c-scene__fallback">${inline(block.fallback || block.alt || '')}</p></noscript>
+    <p class="c-scene__fallback">${inline(block.fallback || block.alt || '')}</p>
   </div>
   ${block.caption ? `<p class="c-caption">${inline(block.caption)}</p>` : ''}
 </figure>`;

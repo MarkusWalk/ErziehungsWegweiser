@@ -111,7 +111,8 @@ function header(page, site, root) {
         ${icon('settings', { size: 20 })}
       </button>
       <button class="icon-btn icon-btn--menu" type="button" data-open-menu aria-label="Menü öffnen" aria-expanded="false">
-        ${icon('menu', { size: 20 })}
+        <span class="icon-btn__state icon-btn__state--open">${icon('menu', { size: 20 })}</span>
+        <span class="icon-btn__state icon-btn__state--close">${icon('close', { size: 20 })}</span>
       </button>
     </div>
   </div>
