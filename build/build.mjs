@@ -200,7 +200,7 @@ function buildHome() {
 
 function buildPhaseIndex() {
   const body = `
-${pageHead('Nach Alter', 'Von der Schwangerschaft bis ins Schulalter: Was in jeder Phase wichtig wird.', [{ label: 'Nach Alter' }], '')}
+${pageHead('Nach Alter', 'Von der Schwangerschaft bis ins Schulalter: Was in jeder Phase wichtig wird.', [{ label: 'Nach Alter' }], '../')}
 <section class="band">
   <div class="wrap">
     <div class="phase-grid phase-grid--full">
