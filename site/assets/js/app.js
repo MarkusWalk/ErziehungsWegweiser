@@ -387,6 +387,31 @@
   }
 
   /* ---------------------------------------------------------
+     Rechner nachladen, wenn sie sichtbar werden
+     --------------------------------------------------------- */
+  var calcs = document.querySelectorAll('[data-calc]');
+  if (calcs.length) {
+    var loadCalcs = function () {
+      var url = new URL(root.getAttribute('data-root') + 'assets/js/calculators.js', location.href).href;
+      import(url)
+        .then(function (mod) { mod.mountAll(calcs); })
+        .catch(function () { /* Fallback-Text im Markup bleibt stehen. */ });
+    };
+
+    if ('IntersectionObserver' in window) {
+      var calcObserver = new IntersectionObserver(function (entries, obs) {
+        if (entries.some(function (e) { return e.isIntersecting; })) {
+          obs.disconnect();
+          loadCalcs();
+        }
+      }, { rootMargin: '200px' });
+      calcs.forEach(function (c) { calcObserver.observe(c); });
+    } else {
+      loadCalcs();
+    }
+  }
+
+  /* ---------------------------------------------------------
      Start
      --------------------------------------------------------- */
   applyPrefs();

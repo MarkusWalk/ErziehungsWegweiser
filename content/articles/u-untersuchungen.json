@@ -4,7 +4,7 @@
   "subtitle": "Welche Termine wann anstehen, was dabei tatsächlich untersucht wird, wie du dich vorbereitest – und was passiert, wenn du eine Frist verpasst.",
   "phases": ["neugeborenes", "saeugling", "kleinkind", "kindergarten"],
   "topics": ["gesundheit", "entwicklung"],
-  "updated": "2026-08-05",
+  "updated": "2026-08-23",
   "summary": "U1 bis U9 decken die ersten sechs Lebensjahre ab, dazu kommt die J1 im Jugendalter. Was untersucht wird, legt die Kinder-Richtlinie des Gemeinsamen Bundesausschusses fest; die Kosten trägt die gesetzliche Krankenversicherung. Die Termine sind nicht willkürlich gesetzt: Sie liegen genau dort, wo bestimmte Erkrankungen und Entwicklungsschritte am besten beurteilbar sind. Der wichtigste Teil ist oft nicht das Abhorchen, sondern das Gespräch – und darauf kannst du dich vorbereiten.",
   "keyFacts": [
     "U1 bis U9 sind Leistungen der gesetzlichen Krankenversicherung, festgelegt in der Kinder-Richtlinie des G-BA.",
@@ -71,6 +71,29 @@
           ],
           "caption": "Untersuchungszeiträume nach der Kinder-Richtlinie des G-BA in der Darstellung der BZgA. Zusätzlich zu diesen Zeiträumen definiert die Richtlinie Toleranzzeiten, die etwas darüber hinausreichen – die genauen Grenzen stehen im gelben Heft.",
           "sources": [0, 2]
+        },
+        {
+          "type": "calc",
+          "kind": "age-schedule",
+          "title": "Die eigene Zeitleiste ausrechnen",
+          "options": {
+            "unit": "months",
+            "windowBefore": 0.5,
+            "events": [
+              { "at": 0, "label": "U1", "note": "direkt nach der Geburt" },
+              { "at": 0.1, "label": "U2", "note": "3. bis 10. Lebenstag" },
+              { "at": 0.9, "label": "U3", "note": "4. bis 5. Lebenswoche" },
+              { "at": 3, "label": "U4" },
+              { "at": 6, "label": "U5" },
+              { "at": 10, "label": "U6" },
+              { "at": 21, "label": "U7" },
+              { "at": 34, "label": "U7a" },
+              { "at": 46, "label": "U8" },
+              { "at": 60, "label": "U9" },
+              { "at": 144, "label": "J1", "note": "12. bis 14. Geburtstag" }
+            ]
+          },
+          "caption": "Rechnet mit dem Geburtsdatum den Beginn jedes Untersuchungszeitraums aus. Ersetzt nicht das gelbe Heft – dort stehen die verbindlichen Toleranzzeiten."
         },
         {
           "type": "evidence",

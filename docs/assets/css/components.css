@@ -835,6 +835,114 @@
    der Text sichtbar statt einer leeren Fläche. */
 .c-scene__stage.is-mounted .c-scene__fallback { display: none; }
 
+/* ---------- Rechner ---------- */
+.c-calc { margin: 0; }
+
+.c-calc__body {
+  padding: var(--sp-5);
+  border: var(--rule);
+  border-radius: var(--r-md);
+  background: var(--c-surface);
+}
+
+.c-calc__fallback { color: var(--c-ink-muted); font-size: var(--fs-sm); }
+
+/* calculators.js markiert den Körper erst nach dem Mount - vorher (kein
+   JS, Fehler beim Nachladen) bleibt der Fallback-Text stehen. */
+.c-calc__body.is-mounted .c-calc__fallback { display: none; }
+
+.c-calc__form {
+  display: flex;
+  flex-wrap: wrap;
+  gap: var(--sp-4);
+}
+
+.c-calc__form .field { flex: 1 1 12rem; }
+
+.c-calc__form .field input {
+  width: 100%;
+  box-sizing: border-box;
+  font: inherit;
+  color: inherit;
+}
+
+.c-calc__output { margin-top: var(--sp-5); }
+
+.c-calc__hint { color: var(--c-ink-muted); font-size: var(--fs-sm); }
+
+.c-calc__result {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: baseline;
+  justify-content: space-between;
+  gap: var(--sp-2) var(--sp-4);
+  padding: var(--sp-4);
+  border-radius: var(--r-sm);
+  background: var(--c-accent-faint);
+}
+
+.c-calc__result span { color: var(--c-ink-soft); font-size: var(--fs-sm); }
+.c-calc__result strong { font-size: var(--fs-lg); }
+
+.c-calc__note { margin-top: var(--sp-3); font-size: var(--fs-sm); color: var(--c-ink-soft); }
+
+.c-calc__list {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  display: grid;
+  gap: 1px;
+  background: var(--c-line);
+  border: var(--rule);
+  border-radius: var(--r-sm);
+  overflow: hidden;
+}
+
+.c-calc__row {
+  display: grid;
+  grid-template-columns: 1fr auto auto;
+  align-items: center;
+  gap: var(--sp-2) var(--sp-4);
+  padding: var(--sp-3) var(--sp-4);
+  background: var(--c-surface);
+  font-size: var(--fs-sm);
+}
+
+.c-calc__list--lookup .c-calc__row { grid-template-columns: 1fr auto; }
+
+.c-calc__row-label { font-weight: var(--fw-medium); }
+.c-calc__row-date { color: var(--c-ink-soft); white-space: nowrap; }
+
+.c-calc__row-status {
+  justify-self: end;
+  font-size: var(--fs-xs);
+  text-transform: uppercase;
+  letter-spacing: var(--tracking-eyebrow);
+  color: var(--c-ink-muted);
+}
+
+.c-calc__row--due { background: var(--c-accent-faint); }
+.c-calc__row--due .c-calc__row-status { color: var(--c-accent); font-weight: var(--fw-semi); }
+.c-calc__row--done { color: var(--c-ink-muted); }
+.c-calc__row--done .c-calc__row-label { text-decoration: line-through; text-decoration-color: var(--c-line-strong); }
+
+.c-calc__row--active {
+  background: var(--c-accent-faint);
+  box-shadow: inset 3px 0 0 var(--c-accent);
+}
+
+.c-calc__row-note {
+  grid-column: 1 / -1;
+  color: var(--c-ink-muted);
+  font-size: var(--fs-xs);
+}
+
+.c-calc__disclaimer {
+  margin-top: var(--sp-3);
+  color: var(--c-ink-muted);
+  font-size: var(--fs-xs);
+}
+
 /* ---------- Quellen ---------- */
 .sources {
   margin-top: var(--sp-8);

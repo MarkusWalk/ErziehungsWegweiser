@@ -131,6 +131,43 @@ Nur wo sie etwas erklären, maximal eine pro Artikel. Verfügbare Presets:
  "fallback":"Textbeschreibung für Menschen ohne JavaScript.","caption":"…"}
 ```
 
+### Rechner (`calc`)
+
+Echte Eingabe/Ausgabe, kein reines Bild. Läuft vollständig im Browser, es wird
+nichts übertragen oder gespeichert. Maximal einer pro Artikel, nur wo er dem
+Text etwas hinzufügt, das Fließtext oder eine Tabelle nicht besser leisten.
+Jeder `calc`-Block bekommt automatisch eine Disclaimer-Zeile darunter
+("Orientierungswert nach Leitlinien – ersetzt keine individuelle Beratung."),
+per `disclaimer` überschreibbar. **Keine Rechner für Medikamentendosierung**
+(siehe Regel 7) und keine, die einen exakten Geldbetrag verspricht (z. B.
+Elterngeld – zu viele Sonderfälle im echten Steuer-/Sozialrecht).
+
+Drei `kind`s, alle in `site/assets/js/calculators.js` implementiert:
+
+```jsonc
+// Geburtstermin nach Naegele-Regel, mit Zykluslängen-Korrektur.
+{"type":"calc","kind":"due-date","title":"…","caption":"…"}
+
+// Geburtsdatum → eigene Zeitleiste. "at" ist in der Einheit "unit" seit
+// der Geburt, "windowBefore" (Standard 2) legt in derselben Einheit fest,
+// ab wann ein Termin als "erledigt" statt "fällig" gilt.
+{"type":"calc","kind":"age-schedule","title":"…","caption":"…",
+ "options":{"unit":"months","events":[
+   {"at":0,"label":"U1","note":"…"},
+   {"at":1,"label":"U2"}
+ ]}}
+
+// Alter → passende Zeile aus einer Bereichstabelle, live hervorgehoben.
+// "to" weglassen für einen offenen letzten Bereich ("6+").
+{"type":"calc","kind":"age-range-lookup","title":"…","caption":"…",
+ "options":{"unit":"months","inputLabel":"Alter deines Kindes (Monate)",
+   "ranges":[{"from":0,"to":3,"label":"14–17 Stunden"},{"from":3,"label":"…"}]}}
+```
+
+**Die Zahlen in `options` müssen aus denselben Quellen stammen wie der Rest
+des Artikels** – nichts Neues erfinden, sondern das, was `figure`/`table`
+ohnehin schon belegen, in eine interaktive Form bringen.
+
 ---
 
 ## 5. Quellen

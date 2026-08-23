@@ -24,6 +24,7 @@ const SCENES = new Set(['synapsen', 'schlafzyklus', 'meilensteine', 'koregulatio
 const CALLOUTS = new Set(['info', 'tip', 'warn', 'danger', 'myth']);
 const LEVELS = new Set(['stark', 'moderat', 'umstritten']);
 const FIGURES = new Set(['bar', 'range', 'share', 'line']);
+const CALCS = new Set(['due-date', 'age-schedule', 'age-range-lookup']);
 
 /* Entwürfe erscheinen nicht auf der Seite und werden deshalb nicht als
    Fehler gewertet – sonst blockiert ein bewusst zurückgehaltener Artikel
@@ -92,6 +93,7 @@ for (const file of files) {
   const counts = {};
   const texts = [];
   let sceneCount = 0;
+  let calcCount = 0;
 
   const walk = (blocks, depth = 0) => {
     for (const b of blocks || []) {
@@ -145,6 +147,26 @@ for (const file of files) {
           if (!SCENES.has(b.preset)) errors.push(`scene: unbekanntes preset "${b.preset}"`);
           if (!b.fallback) errors.push('scene ohne fallback (Barrierefreiheit)');
           break;
+        case 'calc':
+          calcCount++;
+          if (!CALCS.has(b.kind)) { errors.push(`calc: unbekannter kind "${b.kind}"`); break; }
+          if (b.kind === 'age-schedule') {
+            const events = b.options?.events || [];
+            if (!events.length) errors.push('calc(age-schedule) ohne options.events');
+            events.forEach((e, i) => {
+              if (typeof e?.at !== 'number') errors.push(`calc(age-schedule): events[${i}] ohne numerisches "at"`);
+              if (!e?.label) errors.push(`calc(age-schedule): events[${i}] ohne label`);
+            });
+          }
+          if (b.kind === 'age-range-lookup') {
+            const ranges = b.options?.ranges || [];
+            if (!ranges.length) errors.push('calc(age-range-lookup) ohne options.ranges');
+            ranges.forEach((r, i) => {
+              if (typeof r?.from !== 'number') errors.push(`calc(age-range-lookup): ranges[${i}] ohne numerisches "from"`);
+              if (!r?.label) errors.push(`calc(age-range-lookup): ranges[${i}] ohne label`);
+            });
+          }
+          break;
         case 'table':
           if (!(b.head || []).length) warnings.push('table ohne Kopfzeile');
           (b.rows || []).forEach((r, i) => {
@@ -177,6 +199,7 @@ for (const file of files) {
   if (!counts.callout) warnings.push('kein callout');
   if ((counts.section || 0) < 4) warnings.push(`nur ${counts.section || 0} Abschnitte`);
   if (sceneCount > 1) warnings.push(`${sceneCount} scene-Blöcke (höchstens 1 empfohlen)`);
+  if (calcCount > 1) warnings.push(`${calcCount} calc-Blöcke (höchstens 1 empfohlen)`);
 
   /* ---- Textprüfungen ---- */
   const body = texts.map(plain).join(' ');

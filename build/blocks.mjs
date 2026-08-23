@@ -238,7 +238,37 @@ const RENDERERS = {
   ${block.caption ? `<p class="c-caption">${inline(block.caption)}</p>` : ''}
 </figure>`;
   },
+
+  calc(block, ctx) {
+    /* Interaktiver Rechner. blocks.mjs kennt nur die Hülle - welche Ein-
+       /Ausgabefelder entstehen und wie gerechnet wird, steht in
+       site/assets/js/calculators.js unter block.kind. block.options
+       transportiert die Rechnerdaten (z. B. eine Alters-Tabelle) aus dem
+       Artikel-JSON zum Client, genau wie bei "scene". Der Fallback-Absatz
+       steht - Lehre aus dem scene-Block - direkt im Markup, nicht in
+       <noscript>, und wird erst per .is-mounted ausgeblendet, wenn der
+       Rechner tatsächlich läuft. */
+    if (!CALC_KINDS.has(block.kind)) {
+      ctx.warn?.(`Unbekannter Rechner-Typ: ${block.kind}`);
+      return '';
+    }
+    return `
+<figure class="c-calc" data-calc="${esc(block.kind)}" data-calc-options="${esc(JSON.stringify(block.options || {}))}">
+  ${block.title ? `<figcaption class="c-figure__title">${inline(block.title)}</figcaption>` : ''}
+  <div class="c-calc__body" data-calc-body>
+    <p class="c-calc__fallback">${inline(block.fallback || 'Dieser Rechner benötigt JavaScript.')}</p>
+  </div>
+  <p class="c-calc__disclaimer">${inline(block.disclaimer || 'Orientierungswert nach Leitlinien – ersetzt keine individuelle Beratung.')}</p>
+  ${block.caption ? `<p class="c-caption">${inline(block.caption)}</p>` : ''}
+</figure>`;
+  },
 };
+
+/* Muss mit den Schlüsseln in site/assets/js/calculators.js' registry
+   übereinstimmen. Ein unbekannter kind würde sonst eine leere, aber
+   fokussierbare Hülle ausliefern - lieber gar nichts rendern und beim
+   Lint auffallen. */
+const CALC_KINDS = new Set(['due-date', 'age-schedule', 'age-range-lookup']);
 
 /* ---------------------------------------------------------------
    Quellenverweise innerhalb eines Blocks
