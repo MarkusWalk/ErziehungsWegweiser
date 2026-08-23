@@ -95,6 +95,24 @@
           ]
         },
         {
+          "type": "tool",
+          "kind": "picker",
+          "id": "bewegungsidee-ziehen",
+          "title": "Direkt eine Bewegungsidee ziehen",
+          "options": {
+            "items": [
+              "Die letzten fünf Minuten des Weges zu Fuß",
+              "Treppe statt Aufzug",
+              "Wartezeit nutzen: hüpfen, auf Kantsteinen balancieren, fangen",
+              "Eine halbe Stunde Spielplatz vor dem Nachhauseweg",
+              "Zu Hause die Tobe-Ecke nutzen – Matratze, Kissen, Sofa",
+              "Eine Aufgabe mit Bewegung koppeln: Wäschekorb, Tischdecken, Müll runterbringen"
+            ],
+            "buttonLabel": "Idee ziehen"
+          },
+          "caption": "Zieht eine der Ideen von oben nach dem Zufallsprinzip – praktisch für den Moment, in dem zehn Minuten Zeit sind und niemand erst überlegen will, was jetzt."
+        },
+        {
           "type": "evidence",
           "level": "moderat",
           "claim": "Bewegungsprogramme im Kindesalter verbessern kognitive Leistungen und schulische Ergebnisse leicht – am deutlichsten bei Aufmerksamkeit und Verhalten während der Aufgabe.",

@@ -4,7 +4,7 @@
   "subtitle": "Warum Schauen, Greifen und Fallenlassen schon das ganze Programm sind – und warum ein halbleeres Regal für dein Baby oft anregender ist als ein volles.",
   "phases": ["saeugling"],
   "topics": ["spiel", "entwicklung"],
-  "updated": "2026-08-05",
+  "updated": "2026-08-23",
   "summary": "Ein Baby spielt nicht, um etwas zu lernen – es lernt, weil es spielt. Im ersten Jahr besteht Spiel aus Schauen, Greifen, Mundern, Fallenlassen und Wiederholen. Was dein Kind dafür braucht, ist wenig: Platz auf dem Boden, ein paar wenige Gegenstände, viel Zeit ohne Programm und ein Gesicht, das antwortet. Fördermaterial und volle Spielkörbe sind nicht nötig und können sogar stören.",
   "keyFacts": [
     "Das interessanteste Objekt im Raum bist in den ersten Monaten du – nicht das Spielzeug.",
@@ -166,6 +166,15 @@
           "claim": "Säuglinge sollten mehrmals täglich aktiv sein, davon mindestens 30 Minuten in Bauchlage im Wachzustand über den Tag verteilt. Bildschirmzeit wird im ersten Lebensjahr nicht empfohlen, und länger als eine Stunde am Stück sollten Kinder nicht festgehalten oder angeschnallt sein.",
           "note": "Das sind die WHO-Empfehlungen für Kinder unter fünf Jahren. Die 30 Minuten sind eine Tagessumme aus vielen kurzen Einheiten, kein Trainingsplan – zwei Minuten nach jedem Wickeln reichen als Einstieg. Wippe, Autoschale und Tragehilfe sind praktisch, aber jede Zeit darin ist Zeit, in der dein Kind sich nicht selbst bewegen kann.",
           "sources": [1]
+        },
+        {
+          "type": "tool",
+          "kind": "interval-timer",
+          "id": "bauchlage-timer",
+          "title": "Bauchlagen-Abschnitte stoppen",
+          "options": { "tags": [] },
+          "caption": "Für die WHO-Richtgröße von mindestens 30 Minuten Bauchlage am Tag, verteilt auf viele kurze Abschnitte. Stoppt nur die Dauer der einzelnen Abschnitte – zählt nicht automatisch den Tag zusammen.",
+          "disclaimer": "Kein Trainingsplan, kein Muss – protokolliert nur, was ihr ohnehin macht."
         },
         {
           "type": "p",

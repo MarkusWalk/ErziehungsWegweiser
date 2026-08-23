@@ -4,7 +4,7 @@
   "subtitle": "Wo normale Müdigkeit aufhört und etwas anderes anfängt: die vier Anzeichen des Elternburnouts, warum es nichts mit mangelnder Liebe zu tun hat und welche Entlastung tatsächlich zu bekommen ist.",
   "phases": ["neugeborenes", "saeugling", "kleinkind", "kindergarten"],
   "topics": ["eltern"],
-  "updated": "2026-08-06",
+  "updated": "2026-08-23",
   "summary": "Elternburnout ist mehr als Müdigkeit: eine tiefe Erschöpfung in der Elternrolle, das Gefühl, innerlich vom eigenen Kind abzurücken, ein scharfer Kontrast zu der Person, die man als Elternteil einmal war. Die Forschung von Isabelle Roskam und Moïra Mikolajczak zeigt, dass es dabei nicht um Charakter oder Liebe geht, sondern um ein dauerhaftes Ungleichgewicht zwischen Belastungen und Ressourcen – und dass unbehandelter Elternburnout ernste Folgen für Eltern und Kinder hat. Die gute Nachricht: Er ist veränderbar, weil sich die Waagschalen verändern lassen. Und Gedanken, alles hinter sich lassen zu wollen, sind ein Symptom der Erschöpfung, kein Urteil über dich.",
   "keyFacts": [
     "Elternburnout hat vier Kennzeichen: Erschöpfung, emotionale Distanzierung, Verlust der Freude an der Elternrolle und der Kontrast zum früheren Ich.",
@@ -168,6 +168,15 @@
           "variant": "tip",
           "title": "Die Zehn-Minuten-Regel für schlechte Momente",
           "text": "Wenn du merkst, dass du kippst: Kind sicher ablegen oder an einem sicheren Ort lassen, Raum verlassen, Tür offen. Zwei Minuten kaltes Wasser übers Handgelenk, Fenster auf, laut ausatmen. Dann jemanden anrufen – Sprechen unterbricht die Anspannung zuverlässiger als Durchhalten. Ein weinendes Kind allein im sicheren Bett ist ungefährlich. Ein Kind, das geschüttelt wird, nicht: Schütteln kann bei Säuglingen in Sekunden zu bleibenden Schäden führen."
+        },
+        {
+          "type": "tool",
+          "kind": "breathing-pacer",
+          "id": "atempause",
+          "title": "Atempause für den Moment danach",
+          "options": { "phases": [{ "label": "Einatmen", "seconds": 4 }, { "label": "Halten", "seconds": 4 }, { "label": "Ausatmen", "seconds": 6 }, { "label": "Halten", "seconds": 2 }] },
+          "caption": "Für die Zwei-Minuten-Pause aus der Regel oben, wenn Kind und du beide sicher sind und du kurz herunterkommen willst.",
+          "disclaimer": "Ein Atemrhythmus ersetzt keine Entlastung und keine Behandlung – er hilft nur für den einen Moment."
         }
       ]
     },

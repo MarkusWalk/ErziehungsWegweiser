@@ -60,6 +60,15 @@
           "variant": "tip",
           "title": "Wer schaut gerade?",
           "text": "Die meisten Aufsichtslücken entstehen, weil alle denken, jemand anderes passe auf. Legt bei Feiern und Ausflügen ausdrücklich fest, wer die nächsten dreißig Minuten die Wasseraufsicht hat – und übergebt die Rolle laut und namentlich. Bademeisterinnen und Rettungsschwimmer sind keine Aufsichtspersonen für dein Kind, sondern für das gesamte Bad."
+        },
+        {
+          "type": "tool",
+          "kind": "countdown",
+          "id": "wasseraufsicht-timer",
+          "title": "Aufsichts-Schicht timen",
+          "options": { "presets": [900, 1800, 2700] },
+          "caption": "Für den Wechsel oben: Timer stellen, wenn du die Wasseraufsicht übernimmst, und die Rolle laut übergeben, sobald er abläuft.",
+          "disclaimer": "Ersetzt keine durchgehende Aufsicht in Griffnähe bei Nichtschwimmern – erinnert nur an den Wechsel."
         }
       ]
     },

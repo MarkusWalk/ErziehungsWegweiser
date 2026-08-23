@@ -4,7 +4,7 @@
   "subtitle": "Wie ein Kind über das Nervensystem der Erwachsenen lernt, sich selbst zu beruhigen – und was zu tun ist, wenn du selbst die Fassung verlierst.",
   "phases": ["saeugling", "kleinkind", "kindergarten"],
   "topics": ["emotionen", "bindung"],
-  "updated": "2026-08-05",
+  "updated": "2026-08-23",
   "summary": "Kleine Kinder können sich nicht selbst beruhigen, weil die dafür zuständigen Hirnstrukturen noch jahrelang reifen. Sie leihen sich das ruhigere Nervensystem eines Erwachsenen – das ist mit Co-Regulation gemeint. Messbar ist das bis in Herzschlag und Stresshormone hinein: Anwesenheit einer vertrauten Person dämpft die Cortisolreaktion eines Kindes, elterlicher Stress überträgt sich umgekehrt körperlich auf den Säugling. Praktisch heißt das: Erst die Erregung senken, dann reden. Und wenn du selbst laut geworden bist, ist die Wiederannäherung danach der Teil, der zählt.",
   "keyFacts": [
     "Selbstregulation entsteht aus Fremdregulation – nicht aus Übung im Alleinsein.",
@@ -243,6 +243,19 @@
               "a": "In ruhigen Momenten geübt, kann das später eine Hilfe sein. Mitten im Anfall funktioniert es fast nie – dann ist der Teil des Gehirns, der solche Anweisungen umsetzt, gerade nicht verfügbar. Übe es also, wenn es nicht gebraucht wird, und erwarte im Ernstfall nichts davon."
             }
           ]
+        },
+        {
+          "type": "tool",
+          "kind": "breathing-pacer",
+          "id": "atempacer-co-regulation",
+          "title": "Atempacer zum Üben",
+          "options": { "phases": [
+            { "label": "Einatmen", "seconds": 4 },
+            { "label": "Halten", "seconds": 4 },
+            { "label": "Ausatmen", "seconds": 4 },
+            { "label": "Halten", "seconds": 4 }
+          ] },
+          "caption": "Zum Üben in ruhigen Momenten, wie in der FAQ oben beschrieben – und für den ersten Schritt bei dir selbst: zwei bewusste Ausatmungen, bevor du zu deinem Kind gehst."
         }
       ]
     }

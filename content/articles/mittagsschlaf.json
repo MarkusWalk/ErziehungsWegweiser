@@ -112,6 +112,15 @@
             "Die Länge begrenzen: Wecke nach 60 bis 90 Minuten, statt schlafen zu lassen, bis das Kind von selbst aufwacht. Das erhält den Tagschlaf und schont den Abend.",
             "Den Zeitpunkt vorziehen: Als grobe Orientierung sollten zwischen Aufwachen und gewünschter Bettzeit mindestens vier Stunden liegen. Ein Schlaf, der um 16:30 Uhr endet, macht eine Bettzeit um 19 Uhr unwahrscheinlich."
           ]
+        },
+        {
+          "type": "tool",
+          "kind": "countdown",
+          "id": "mittagsschlaf-wecker",
+          "title": "Mittagsschlaf-Wecker",
+          "options": { "presets": [1800, 2700, 3600, 5400] },
+          "caption": "30 und 45 Minuten für die reine Ruhezeit, 60 und 90 Minuten als Obergrenze für den Mittagsschlaf – je nachdem, was gerade ansteht.",
+          "disclaimer": "Nur eine Erinnerung zum Wecken, keine Empfehlung für eine bestimmte Dauer."
         }
       ]
     },

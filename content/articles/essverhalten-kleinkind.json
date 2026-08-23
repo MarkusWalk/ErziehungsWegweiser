@@ -4,7 +4,7 @@
   "subtitle": "Warum aus einem Kind, das alles probiert hat, mit zwei Jahren ein Nudel-und-Brot-Esser wird, wie die Verantwortung am Tisch sinnvoll verteilt ist – und ab wann es wirklich ärztlich abgeklärt gehört.",
   "phases": ["kleinkind", "kindergarten"],
   "topics": ["ernaehrung", "emotionen"],
-  "updated": "2026-08-05",
+  "updated": "2026-08-23",
   "summary": "Zwischen dem zweiten und dem sechsten Geburtstag wird fast jedes Kind wählerischer – das ist ein Entwicklungsschritt, keine Fehlentwicklung und meistens vorübergehend. Was in dieser Phase über den Ausgang entscheidet, ist weniger, was auf dem Teller liegt, als wie am Tisch verhandelt wird. Bewährt hat sich eine klare Aufgabenteilung: Du bestimmst, was es gibt, wann und wo. Dein Kind bestimmt, ob und wie viel davon.",
   "keyFacts": [
     "Ablehnung neuer Lebensmittel ist ab etwa 20 bis 24 Monaten entwicklungstypisch und hat ihren Höhepunkt zwischen zwei und sechs Jahren.",
@@ -121,6 +121,14 @@
           "claim": "Wiederholtes, unkommentiertes Anbieten eines neuen Lebensmittels erhöht seine Akzeptanz zuverlässiger als eine Belohnung dafür. In den zugrunde liegenden Untersuchungen waren dafür oft rund acht bis fünfzehn Gelegenheiten nötig.",
           "note": "Aus experimentellen Studien mit Kindern im Vorschul- und Grundschulalter sowie einer systematischen Übersicht dazu. Der Haken für den Alltag: Die meisten Eltern geben nach zwei oder drei Versuchen auf, weil sie den Eindruck haben, das Kind mag es nicht. Ein Löffel Erbsen, der zehnmal unberührt danebenliegt, ist kein gescheiterter Versuch, sondern ein normaler Zwischenstand.",
           "sources": [3, 5]
+        },
+        {
+          "type": "tool",
+          "kind": "tally-counter",
+          "id": "neues-lebensmittel-zaehler",
+          "title": "Angebote eines neuen Lebensmittels zählen",
+          "options": {},
+          "caption": "Tippe jedes Mal, wenn das neue Lebensmittel unkommentiert mit angeboten wurde – egal ob angerührt. Acht bis fünfzehn Gelegenheiten sind normal, bis ein Kind zugreift; der Zähler protokolliert nur, er bewertet nichts."
         },
         {
           "type": "callout",

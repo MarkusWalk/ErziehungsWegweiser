@@ -144,6 +144,15 @@
           "variant": "tip",
           "title": "Das Schreiprotokoll",
           "text": "Führe eine Woche lang ein einfaches Protokoll: Uhrzeit, Dauer, was davor war, was geholfen hat. Das klingt nach zusätzlicher Arbeit und ist trotzdem eine der wirksamsten Maßnahmen – es macht Muster sichtbar (fast immer: Übermüdung am Nachmittag), es zeigt dir Fortschritte, die im Gefühl untergehen, und es ist die beste Vorbereitung auf einen Termin in der Schreiambulanz."
+        },
+        {
+          "type": "tool",
+          "kind": "interval-timer",
+          "id": "schreiprotokoll",
+          "title": "Schreiepisoden mitstoppen",
+          "options": { "tags": [] },
+          "caption": "Für das Schreiprotokoll oben: stoppt Dauer und Abstand zur letzten Episode, damit sich Muster wie die Übermüdung am Nachmittag zeigen. Was davor war und was geholfen hat, notierst du daneben.",
+          "disclaimer": "Ersetzt keine ärztliche Abklärung. Bei den Warnzeichen von oben zählt die Uhrzeit weniger als schnelles Handeln."
         }
       ]
     },

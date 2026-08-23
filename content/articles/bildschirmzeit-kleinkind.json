@@ -181,6 +181,14 @@
             "Übergang begleiten: nach dem Ausschalten fünf Minuten dabeibleiben, statt sofort das nächste zu verlangen.",
             "Wenn du duschen willst: mach es. Ein sicher beschäftigtes Kind ist besser als eine erschöpfte Erwachsene."
           ]
+        },
+        {
+          "type": "tool",
+          "kind": "countdown",
+          "id": "bildschirm-wecker",
+          "title": "Der Wecker, der klingelt – nicht du",
+          "options": { "presets": [600, 900, 1500] },
+          "caption": "Vorher ansagen, wie lange, und den Wecker die Ansage übernehmen lassen – wie oben beschrieben."
         }
       ]
     },

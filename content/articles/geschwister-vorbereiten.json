@@ -4,7 +4,7 @@
   "subtitle": "Wie du das erste Kind altersgerecht vorbereitest, warum Rückschritte und Eifersucht dazugehören – und was die ersten Wochen zu viert tatsächlich erträglich macht.",
   "phases": ["kleinkind", "kindergarten"],
   "topics": ["familie", "emotionen"],
-  "updated": "2026-08-06",
+  "updated": "2026-08-23",
   "summary": "Die Geburt eines Geschwisterkindes ist für das erste Kind kein freudiges Ereignis, sondern eine Entthronung – und es reagiert darauf mit genau den Mitteln, die es hat: Anhänglichkeit, Rückschritte, Wut, manchmal auffällige Gleichgültigkeit. Fast alles davon ist vorübergehend. Was hilft, ist weniger die gute Vorbereitung im Voraus als das, was in den ersten Wochen zu viert tatsächlich passiert: verlässliche Zeit zu zweit, Erlaubnis für unschöne Gefühle und die Bereitschaft, das große Kind nicht zu groß zu machen.",
   "keyFacts": [
     "Regression – wieder Windel, wieder Fläschchen, wieder nachts wach – ist die häufigste und harmloseste Reaktion.",
@@ -147,6 +147,14 @@
           "variant": "tip",
           "title": "Zeit zu zweit: klein, aber verlässlich",
           "text": "Zehn bis fünfzehn Minuten am Tag, in denen das Baby nicht vorkommt und das ältere Kind bestimmt, was gespielt wird – das wirkt zuverlässiger als der Samstagsausflug, den ihr dreimal verschiebt. Wichtig ist die Vorhersehbarkeit: gleiche Tageszeit, angekündigt, ohne Handy. Wenn es aufgrund von Stillen und Schlaf nicht anders geht, übernimmt das ein Elternteil fest – Hauptsache, es findet statt."
+        },
+        {
+          "type": "tool",
+          "kind": "countdown",
+          "id": "zeit-zu-zweit",
+          "title": "Zeit zu zweit stoppen",
+          "options": { "presets": [600, 900] },
+          "caption": "Zehn oder fünfzehn Minuten, in denen nur das große Kind bestimmt, was gespielt wird. Der Countdown macht die Zeit greifbar, für dich und für dein Kind."
         },
         {
           "type": "p",

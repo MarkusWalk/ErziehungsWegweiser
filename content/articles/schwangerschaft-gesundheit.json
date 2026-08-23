@@ -35,6 +35,14 @@
       "text": "Der Kreißsaal der Geburtsklinik ist rund um die Uhr erreichbar und du darfst dort auch anrufen, wenn du dir unsicher bist. Niemand rechnet mit, wie oft du das tust."
     },
     {
+      "type": "tool",
+      "kind": "tally-counter",
+      "id": "kindsbewegungen-zaehler",
+      "title": "Kindsbewegungen zählen",
+      "caption": "Passt zur Warnung oben: Ab etwa der 24. Woche kannst du hier festhalten, wie oft du dein Kind spürst, wenn dir die Bewegungen weniger vorkommen als sonst.",
+      "disclaimer": "Zählt nur mit, bewertet nichts. Bei deutlich weniger Bewegungen als gewohnt gilt weiterhin: lieber einmal zu oft im Kreißsaal anrufen."
+    },
+    {
       "type": "section",
       "heading": "Die Nährstoffe, auf die es wirklich ankommt",
       "blocks": [

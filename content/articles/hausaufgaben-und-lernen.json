@@ -4,7 +4,7 @@
   "subtitle": "Warum die Verantwortung beim Kind bleiben sollte, welche Lernstrategien tatsächlich wirken – und wie du den täglichen Streit am Küchentisch loswirst.",
   "phases": ["schulkind"],
   "topics": ["entwicklung", "familie"],
-  "updated": "2026-08-06",
+  "updated": "2026-08-23",
   "summary": "Hausaufgaben sind Sache des Kindes, nicht der Eltern. Wer danebensitzt, mitrechnet und korrigiert, meint es gut – und schwächt langfristig oft genau das, was er stärken will. Was nachweislich hilft, ist etwas anderes: ein verlässlicher Rahmen, Interesse ohne Kontrolle und zwei Lernstrategien, die in der Forschung immer wieder oben stehen – sich selbst abfragen und über mehrere Tage verteilt üben. Die verbreitete Idee von visuellen, auditiven oder haptischen Lerntypen gehört dagegen zu den am besten widerlegten Annahmen der Pädagogik.",
   "keyFacts": [
     "Hausaufgaben gehören dem Kind – deine Rolle ist Rahmen, nicht Mitarbeit.",
@@ -160,6 +160,14 @@
             { "title": "Aus dem Zweikampf aussteigen", "text": "Wenn ihr beide weinend am Tisch sitzt, ist der Lerneffekt ohnehin null. Abbrechen ist dann die pädagogisch richtige Entscheidung, nicht die schwache." },
             { "title": "Hilfe von außen holen", "text": "Wenn es über Wochen so bleibt: Gespräch mit der Klassenleitung. Manchmal steckt eine Lese-Rechtschreib- oder Rechenschwäche dahinter, manchmal eine Aufmerksamkeitsstörung, manchmal nur eine falsch eingeschätzte Aufgabenmenge." }
           ]
+        },
+        {
+          "type": "tool",
+          "kind": "countdown",
+          "id": "hausaufgaben-timer",
+          "title": "Zeit begrenzen statt Menge",
+          "options": { "presets": [900, 1200, 1800, 2700] },
+          "caption": "Für den Schritt oben: 15, 20, 30 oder 45 Minuten – je nach Richtzeit der Schule. Wenn die Zeit um ist, bleibt der Rest liegen, mit kurzer Notiz an die Lehrkraft."
         },
         {
           "type": "callout",

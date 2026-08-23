@@ -4,7 +4,7 @@
   "subtitle": "Drehen, Robben, Krabbeln, Sitzen, Stehen – und warum Üben, Hinsetzen und Laufenlernhilfen dabei nichts beitragen.",
   "phases": ["saeugling"],
   "topics": ["entwicklung"],
-  "updated": "2026-08-05",
+  "updated": "2026-08-23",
   "summary": "Die motorische Entwicklung im ersten Jahr folgt einem inneren Reifungsplan, den man nicht beschleunigen kann. Die Spannbreiten sind enorm: Freies Sitzen gelingt gesunden Kindern zwischen 3,8 und 9,2 Monaten, freies Laufen zwischen 8,2 und 17,6 Monaten. Was hilft, ist wenig und einfach: Bauchlage im Wachzustand, viel Platz auf dem Boden, wenig Sitzschalen. Was nicht hilft: Hinsetzen, an den Händen laufen lassen und Lauflernhilfen – Letztere gelten sogar als gefährlich.",
   "keyFacts": [
     "Die Reihenfolge ist stabiler als das Tempo – und selbst die Reihenfolge hat Ausnahmen.",
@@ -103,6 +103,15 @@
             { "title": "Nach dem Schlafen, nicht nach dem Essen", "text": "Satt und ausgeruht ist die Toleranz höher; direkt nach der Mahlzeit spuckt es leichter." },
             { "title": "Abbrechen, wenn Weinen kommt", "text": "Bauchlage soll kein Machtkampf werden. Aufhören und später neu anbieten ist völlig in Ordnung." }
           ]
+        },
+        {
+          "type": "tool",
+          "kind": "countdown",
+          "id": "bauchlage-timer",
+          "title": "Bauchlage timen",
+          "options": { "presets": [120, 300, 600] },
+          "caption": "Passend zur Empfehlung oben: kurz und oft. Zwei Minuten mehrmals täglich, gesteigert auf fünf oder zehn, sobald dein Kind das zulässt.",
+          "disclaimer": "Abbrechen, sobald dein Kind protestiert – die Zeit ist Orientierung, kein Muss."
         }
       ]
     },

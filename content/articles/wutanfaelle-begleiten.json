@@ -4,7 +4,7 @@
   "subtitle": "Was in den Minuten eines Ausbruchs tatsächlich passiert, was ihn verkürzt, was ihn verlängert – und wie du im Supermarkt überstehst, was dort ohnehin niemanden etwas angeht.",
   "phases": ["kleinkind", "kindergarten"],
   "topics": ["emotionen"],
-  "updated": "2026-08-05",
+  "updated": "2026-08-23",
   "summary": "Ein Wutanfall ist kürzer, als er sich anfühlt: Die meisten dauern unter fünf Minuten. Er hat einen typischen Verlauf – erst Wut, dann Kummer – und braucht in der heißen Phase keine Erklärungen, sondern Sicherheit und wenig Worte. Wutanfälle sind im Kleinkindalter der Normalfall, nicht das Symptom. Auffällig werden sie erst durch Häufigkeit, Dauer und die Frage, ob sich dein Kind danach beruhigen lässt.",
   "keyFacts": [
     "Rund drei Viertel aller Wutanfälle dauern fünf Minuten oder kürzer.",
@@ -102,6 +102,15 @@
           ],
           "caption": "Aus der Auswertung von Wutanfällen bei 335 Kindern im Alter von 18 bis 60 Monaten: Die häufigste Dauer lag bei einer halben bis einer Minute, drei Viertel der Anfälle waren nach fünf Minuten vorbei.",
           "sources": [1]
+        },
+        {
+          "type": "tool",
+          "kind": "interval-timer",
+          "id": "wutanfall-timer",
+          "title": "Wutanfall mitstoppen",
+          "options": { "tags": [] },
+          "caption": "Falls du es wissen willst: Hilft bei der Einordnung aus den Zahlen oben – die meisten Anfälle sind nach fünf Minuten vorbei. Länger als 20 bis 25 Minuten oder mehrmals täglich über Monate gehört in die Kinderarztpraxis besprochen (siehe Kasten oben).",
+          "disclaimer": "Protokolliert nur, was du beobachtest – ersetzt keine fachliche Einschätzung."
         }
       ]
     },

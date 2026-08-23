@@ -4,7 +4,7 @@
   "subtitle": "Autofahrten mit sinnvollen Pausen, Fliegen mit Säugling ohne Ohrendrama, Zeitverschiebung überstehen, eine Reiseapotheke, die zum Kind passt – und was vor einer Fernreise wirklich vorbereitet gehört.",
   "phases": ["neugeborenes", "saeugling", "kleinkind", "kindergarten"],
   "topics": ["familie", "sicherheit"],
-  "updated": "2026-08-06",
+  "updated": "2026-08-23",
   "summary": "Reisen mit kleinen Kindern ist kein Urlaub im alten Sinn, sondern Alltag an einem anderen Ort – wer das vorher weiß, ist hinterher weniger enttäuscht. Praktisch entscheiden vier Dinge über den Verlauf: großzügig geplante Pausen im Auto, ein eigener Sitzplatz und Saugen beim Fliegen, Geduld bei der Zeitumstellung und eine Reiseapotheke, die auf dein Kind zugeschnitten ist. Vor Fernreisen kommt der Impfschutz dazu – und der braucht Vorlauf, nicht die letzte Woche.",
   "keyFacts": [
     "Im Auto alle ein bis anderthalb Stunden eine echte Pause außerhalb des Sitzes einplanen.",
@@ -46,6 +46,14 @@
             { "title": "Hitze mitdenken:", "text": "Sonnenschutz an den Scheiben, Gurtschloss und Metallteile vor dem Anschnallen prüfen, viel zu trinken anbieten. Und: Auch für zwei Minuten bleibt kein Kind allein im Auto." },
             { "title": "Nichts Loses im Innenraum:", "text": "Trinkflaschen, Tablets und Spielzeug werden bei einer Vollbremsung zu Geschossen. Weiches Zeug in Reichweite, alles Harte in den Kofferraum." }
           ]
+        },
+        {
+          "type": "tool",
+          "kind": "countdown",
+          "id": "autopause",
+          "title": "Pausen-Erinnerung fürs Auto",
+          "options": { "presets": [3600, 5400] },
+          "caption": "Für die Faustregel von oben: 60 Minuten für sehr junge Säuglinge, 90 Minuten ab etwa sechs Monaten. Läuft nur mit, solange die Seite offen ist – ersetzt keinen Blick auf die Uhr bei längeren Etappen."
         }
       ]
     },

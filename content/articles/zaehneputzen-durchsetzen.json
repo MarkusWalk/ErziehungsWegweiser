@@ -4,7 +4,7 @@
   "subtitle": "Warum Zähneputzen zu den wenigen Dingen gehört, über die nicht verhandelt wird – und wie du es trotzdem so hinbekommst, dass niemand weint.",
   "phases": ["kleinkind", "kindergarten"],
   "topics": ["gesundheit"],
-  "updated": "2026-08-06",
+  "updated": "2026-08-23",
   "summary": "Zähneputzen ist keine Geschmacksfrage und keine Erziehungsprobe, sondern eine der wenigen Alltagshandlungen mit belegtem, messbarem Nutzen: Fluoridhaltige Zahnpasta senkt die Kariesrate deutlich. Gleichzeitig ist Karies an Milchzähnen in Deutschland weit verbreitet und wird oft nicht behandelt. Dieser Artikel erklärt, warum das Ob nicht zur Diskussion steht, das Wie aber sehr wohl – und sammelt die Wege, mit denen Familien aus dem abendlichen Machtkampf herauskommen.",
   "keyFacts": [
     "Zweimal täglich putzen, abends besonders gründlich – das Wichtigste ist die Regelmäßigkeit, nicht die Perfektion.",
@@ -107,6 +107,14 @@
             { "title": "Geschichten statt Kampf:", "text": "Die Zahnbürste sucht etwas, das Kind soll den Mund zumachen, damit sie nichts findet – Umkehrspiele funktionieren bei Zweijährigen besser als jede Ermahnung." },
             { "title": "Nicht am Ende des Tages:", "text": "Wenn abends alle erschöpft sind, putze früher – nach dem Abendessen statt nach der letzten Geschichte. Ein müdes Kind ist kein kooperatives Kind." }
           ]
+        },
+        {
+          "type": "tool",
+          "kind": "countdown",
+          "id": "putz-timer",
+          "title": "Putzzeit hörbar machen",
+          "options": { "presets": [120, 180] },
+          "caption": "Für die Idee von oben: Zeit begrenzen und hörbar machen. Zwei bis drei Minuten sind der Richtwert – wichtiger als die genaue Uhrzeit bleibt, dass nach KAI alle Flächen drankommen."
         },
         {
           "type": "callout",

@@ -4,7 +4,7 @@
   "subtitle": "Wie viele Kinderkrankentage euch zustehen, wann die Krankenkasse zahlt und wann der Arbeitgeber, was im Arbeitsvertrag oft heimlich gestrichen wurde – und wie ihr ein Notfallnetz aufbaut, bevor ihr es braucht.",
   "phases": ["saeugling", "kleinkind", "kindergarten", "schulkind"],
   "topics": ["familie", "betreuung"],
-  "updated": "2026-08-06",
+  "updated": "2026-08-23",
   "summary": "Im Jahr 2026 stehen gesetzlich versicherten Eltern je Kind 15 Arbeitstage Kinderkrankengeld zu, Alleinerziehenden 30 – höchstens 35 beziehungsweise 70 Arbeitstage im Jahr. Ab 2027 gelten wieder die niedrigeren Werte von 10 und 20 Tagen. Daneben gibt es die bezahlte Freistellung nach § 616 BGB, die in vielen Arbeitsverträgen allerdings ausgeschlossen ist – ein Blick in den eigenen Vertrag lohnt sich, bevor das erste Kind krank wird. Und weil acht bis zwölf Infekte im Jahr im Kita-Alter normal sind, reichen die gesetzlichen Tage oft nicht: Ein Notfallnetz aus zwei bis drei Menschen, die einspringen können, ist genauso wichtig wie die Rechtslage.",
   "keyFacts": [
     "2026: 15 Arbeitstage Kinderkrankengeld je Kind, 30 für Alleinerziehende – höchstens 35 bzw. 70 Tage im Jahr.",
@@ -96,6 +96,15 @@
             "Der Kita oder Schule Bescheid sagen und dabei die Krankheit nennen, wenn es eine meldepflichtige ist.",
             "Notieren, wie viele Tage ihr schon verbraucht habt. Nach dem dritten Infekt weiß das niemand mehr auswendig."
           ]
+        },
+        {
+          "type": "tool",
+          "kind": "tally-counter",
+          "id": "kinderkrankentage-zaehler",
+          "title": "Verbrauchte Kinderkrankentage mitzählen",
+          "options": { "buttons": ["Tag genutzt"] },
+          "caption": "Ein Tipp aus der Liste oben in Werkzeugform: Jeder genutzte Tag wird mit einem Tap notiert, damit ihr beim nächsten Infekt sofort wisst, wie viele der 15 bzw. 30 Tage schon weg sind.",
+          "disclaimer": "Zählt nur mit, ersetzt keine Abstimmung mit Krankenkasse und Arbeitgeber."
         }
       ]
     },

@@ -88,6 +88,23 @@
           "variant": "tip",
           "title": "Wenn dir das zu viel Programm ist",
           "text": "Du musst nicht jede Seite zum Gespräch machen. Eine einzige echte Frage pro Buch verändert schon die Richtung. An müden Abenden darfst du auch einfach nur vorlesen – das schadet niemandem."
+        },
+        {
+          "type": "tool",
+          "kind": "picker",
+          "id": "dialogisches-lesen-picker",
+          "title": "Eine Technik für heute Abend",
+          "options": {
+            "items": [
+              "Frag offen statt geschlossen – „Was macht der da?“ statt „Ist das ein Hund?“",
+              "Warte länger, als sich richtig anfühlt.",
+              "Greif auf, was dein Kind sagt, und erweitere den Satz.",
+              "Verlass das Buch – ein Bezug zum eigenen Leben.",
+              "Lob die Beteiligung, nicht die Richtigkeit."
+            ],
+            "buttonLabel": "Technik ziehen"
+          },
+          "caption": "Dieselben fünf Techniken wie oben, einzeln gezogen – für Abende, an denen eine reicht."
         }
       ]
     },

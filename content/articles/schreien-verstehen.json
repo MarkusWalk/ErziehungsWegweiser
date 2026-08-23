@@ -132,6 +132,20 @@
           ]
         },
         {
+          "type": "tool",
+          "kind": "breathing-pacer",
+          "id": "erst-dich",
+          "title": "Erst dich: langsam atmen",
+          "options": {
+            "phases": [
+              { "label": "Einatmen", "seconds": 4 },
+              { "label": "Ausatmen", "seconds": 6 }
+            ]
+          },
+          "caption": "Für den ersten Schritt oben, oder für den Moment aus der Box weiter oben, in dem du selbst kurz durchatmest: Der Kreis gibt das Tempo vor, dein Kind übernimmt es über Ko-Regulation von dir mit.",
+          "disclaimer": "Kein Ersatz für den Notfallplan bei drohendem Kontrollverlust – dann zählt Ablegen und Anrufen mehr als jede Atemübung."
+        },
+        {
           "type": "evidence",
           "level": "moderat",
           "claim": "Zusätzliches Tragen im Alltag reduziert die Schrei- und Quengeldauer. In einer kontrollierten Studie schrien getragene Säuglinge im Alter von sechs Wochen 43 Prozent weniger als die Kontrollgruppe, abends sogar 51 Prozent weniger.",

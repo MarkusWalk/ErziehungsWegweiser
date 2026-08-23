@@ -4,7 +4,7 @@
   "subtitle": "Von durchgehender Begleitung über schrittweises Zurückziehen bis zu Programmen mit Schreienlassen – was die Studienlage zu Wirksamkeit und zu möglichen Folgen für die Bindung hergibt, und wo sie ehrlicherweise endet.",
   "phases": ["saeugling", "kleinkind"],
   "topics": ["schlaf", "bindung"],
-  "updated": "2026-08-05",
+  "updated": "2026-08-23",
   "summary": "Es gibt nicht die eine richtige Art, ein Kind ins Bett zu bringen. Belegt ist, dass verhaltensbezogene Einschlafmethoden ab dem zweiten Halbjahr das Einschlafen beschleunigen und nächtliches Aufwachen verringern – und dass sich in den vorliegenden Nachuntersuchungen keine langfristigen Schäden für Bindung oder Verhalten gezeigt haben. Umstritten bleibt, was während der Anwendung im Kind passiert, wie belastbar die Entwarnung angesichts kleiner Stichproben ist und wo die Grenze zwischen Anleitung und Vorschrift verläuft. Im ersten Lebenshalbjahr raten Fachgesellschaften von Methoden mit Schreienlassen ab.",
   "keyFacts": [
     "Alle hier beschriebenen Wege sind vertretbar – auch der, gar nichts zu ändern.",
@@ -79,6 +79,15 @@
             ]
           ],
           "caption": "Die vollständige Extinktion – hinlegen, Tür zu, bis zum Morgen nicht mehr hineingehen – ist in der Forschung ebenfalls untersucht, wird in der Beratungspraxis aber kaum noch vermittelt, weil sie für Eltern extrem schwer durchzuhalten ist und sicherheitsrelevante Signale des Kindes überhören lässt."
+        },
+        {
+          "type": "tool",
+          "kind": "countdown",
+          "id": "kontrollintervall-timer",
+          "title": "Intervall bis zum nächsten Hineingehen",
+          "options": { "presets": [120, 300, 600] },
+          "caption": "Falls ihr euch für kontrolliertes Schreienlassen mit festgelegten Abständen entscheidet: stoppt nur die Wartezeit, die ihr vorher selbst festgelegt habt.",
+          "disclaimer": "Ersetzt nicht die eigene Einschätzung, ob dein Kind gerade Nähe statt eines Timers braucht."
         },
         {
           "type": "timeline",

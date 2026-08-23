@@ -201,6 +201,14 @@
           ]
         },
         {
+          "type": "tool",
+          "kind": "tally-counter",
+          "id": "pflegeaufwand-zaehler",
+          "title": "Betreuungsaufwand mitzählen",
+          "options": { "buttons": ["Kontrolle/Messen", "Beaufsichtigung", "Anleitung/Handgriff"] },
+          "caption": "Tippt zwei Wochen lang, wenn eine dieser Situationen auftritt – als Gedächtnisstütze für das schriftliche Pflegetagebuch vor der Begutachtung. Der Zähler protokolliert nur die Häufigkeit, er ersetzt das Protokoll nicht und bewertet nichts."
+        },
+        {
           "type": "callout",
           "variant": "warn",
           "title": "Wenn ihr selbst nicht mehr könnt",

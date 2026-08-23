@@ -4,7 +4,7 @@
   "subtitle": "Der Unterschied zwischen natürlichen Folgen, logischen Konsequenzen und Strafe – wie die Auszeit wirklich einzuordnen ist, und warum körperliche Bestrafung in Deutschland weder erlaubt noch wirksam ist.",
   "phases": ["kindergarten", "schulkind"],
   "topics": ["erziehung"],
-  "updated": "2026-08-06",
+  "updated": "2026-08-23",
   "summary": "Eine Konsequenz ist keine milder formulierte Strafe. Sie unterscheidet sich in einem einzigen, aber entscheidenden Punkt: Sie hat mit der Sache zu tun. Natürliche Folgen ergeben sich von selbst und brauchen von dir nur, dass du sie nicht wegräumst. Logische Konsequenzen musst du gestalten – und sie funktionieren nur, wenn sie sachbezogen, angekündigt und ohne Beschämung umgesetzt werden. Die Auszeit ist in strukturierten Elternprogrammen gut untersucht und dort wirksam, wird im Alltag aber häufig als Beschämungsinstrument benutzt. Körperliche Bestrafung ist in Deutschland gesetzlich ausgeschlossen und nach der Forschungslage schädlich.",
   "keyFacts": [
     "Konsequenz heißt: Es hat mit der Sache zu tun. Strafe heißt: Es soll wehtun.",
@@ -154,6 +154,14 @@
               ]
             }
           ]
+        },
+        {
+          "type": "tool",
+          "kind": "countdown",
+          "id": "auszeit-timer",
+          "title": "Pause zur Beruhigung stoppen",
+          "options": { "presets": [60, 120, 180, 240, 300] },
+          "caption": "Als Orientierung für die kurze, ruhige Form von oben: etwa eine Minute pro Lebensjahr. Der Timer zeigt nur die Zeit an – er bewertet nichts, was in der Pause passiert."
         },
         {
           "type": "callout",

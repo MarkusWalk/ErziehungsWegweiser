@@ -4,7 +4,7 @@
   "subtitle": "Warum Selbstregulation und Sprache mehr über den Schulstart sagen als Buchstaben- und Zahlenkenntnis – und was die Einschulungsuntersuchung tatsächlich prüft.",
   "phases": ["kindergarten"],
   "topics": ["entwicklung", "spiel"],
-  "updated": "2026-08-06",
+  "updated": "2026-08-23",
   "summary": "Im letzten Kindergartenjahr wird der Ton oft nervös: Kann es schon seinen Namen schreiben, bis zwanzig zählen, still sitzen? Der Blick auf die Forschung entspannt die Lage erheblich. Was den Schulstart am zuverlässigsten trägt, sind Selbstregulation, Sprache und die Erfahrung, mit anderen Kindern klarzukommen – nicht vorweggenommener Unterrichtsstoff. Die Einschulungsuntersuchung ist keine Prüfung, die man bestehen oder durchfallen kann, sondern eine Bestandsaufnahme. Und eine Rückstellung bringt seltener Vorteile, als viele vermuten.",
   "keyFacts": [
     "Schulfähigkeit ist kein Zustand des Kindes allein, sondern eine Passung zwischen Kind und Schule.",
@@ -89,6 +89,26 @@
           "variant": "myth",
           "title": "„Vorschulhefte bereiten auf die Schule vor“",
           "text": "Arbeitsblätter mit Schwungübungen und Buchstabenreihen üben vor allem eines: Arbeitsblätter ausfüllen. Der Vorsprung, den Kinder daraus mitbringen, ist real – und er schmilzt im Lauf der ersten beiden Schuljahre meist wieder, weil die anderen dasselbe im Unterricht lernen. Was bleibt, ist im ungünstigen Fall die Erfahrung, dass Lernen etwas ist, das man hinter sich bringt. Wer wirklich vorbereiten will, kommt mit Vorlesen, Gesellschaftsspielen, Abzählreimen, Kochen mit Mengen und Gesprächen weiter."
+        },
+        {
+          "type": "tool",
+          "kind": "picker",
+          "id": "vorlaeufer-spielidee",
+          "title": "Spontane Spielidee ziehen",
+          "options": {
+            "items": [
+              "Nennt abwechselnd ein Wort, das sich auf „Baum“ reimt.",
+              "Klatscht gemeinsam die Silben von „Schmetterling“.",
+              "Welches Wort beginnt mit demselben Laut wie dein Name?",
+              "Erfindet ein Quatschwort, das sich auf „Hase“ reimt.",
+              "Zählt beim Tischdecken: Wie viele Teller braucht ihr für alle?",
+              "Sucht drei Dinge im Raum, die mit demselben Buchstaben anfangen.",
+              "Welches Wort ist länger: „Ameise“ oder „Bär“? Klatscht zum Prüfen die Silben.",
+              "Zählt gemeinsam rückwärts von zehn bis eins."
+            ],
+            "buttonLabel": "Idee ziehen"
+          },
+          "caption": "Kein Programm, nur eine Idee für die nächsten fünf Minuten – falls euch gerade keine einfällt."
         },
         {
           "type": "timeline",
