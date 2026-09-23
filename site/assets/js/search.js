@@ -92,7 +92,11 @@
     var out = escapeHtml(text);
     terms.forEach(function (term) {
       if (term.length < 2) return;
-      var pattern = new RegExp('(' + term.replace(/[.*+?^${}()|[\]\\]/g, '\\$&') + ')', 'gi');
+      /* term ist bereits normalisiert (ae/oe/ue/ss); der Originaltext enthält
+         aber echte Umlaute/ß – beides muss hier treffen. */
+      var pattern = new RegExp('(' + term.replace(/[.*+?^${}()|[\]\\]/g, '\\$&')
+        .replace(/ae/g, '(?:ae|ä)').replace(/oe/g, '(?:oe|ö)')
+        .replace(/ue/g, '(?:ue|ü)').replace(/ss/g, '(?:ss|ß)') + ')', 'gi');
       out = out.replace(pattern, '<mark>$1</mark>');
     });
     return out;

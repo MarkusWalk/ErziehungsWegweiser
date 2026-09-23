@@ -80,7 +80,7 @@ const RENDERERS = {
       .join('');
     return `
 <div class="c-steps">
-  ${block.title ? `<h4 class="c-steps__heading">${inline(block.title)}</h4>` : ''}
+  ${block.title ? `<h3 class="c-steps__heading">${inline(block.title)}</h3>` : ''}
   <ol class="c-steps__list">${items}</ol>
 </div>`;
   },
@@ -152,7 +152,7 @@ const RENDERERS = {
       .join('');
     return `
 <div class="c-checklist" data-checklist="${esc(block.id || '')}">
-  ${block.title ? `<h4 class="c-checklist__title">${inline(block.title)}</h4>` : ''}
+  ${block.title ? `<h3 class="c-checklist__title">${inline(block.title)}</h3>` : ''}
   <ul class="c-checklist__list">${items}</ul>
 </div>`;
   },
@@ -172,7 +172,7 @@ const RENDERERS = {
       .join('');
     return `
 <div class="c-timeline">
-  ${block.title ? `<h4 class="c-timeline__heading">${inline(block.title)}</h4>` : ''}
+  ${block.title ? `<h3 class="c-timeline__heading">${inline(block.title)}</h3>` : ''}
   <ol class="c-timeline__list">${entries}</ol>
   ${block.caption ? `<p class="c-caption">${inline(block.caption)}</p>` : ''}
 </div>`;
@@ -190,7 +190,7 @@ const RENDERERS = {
       .join('');
     return `
 <div class="c-compare">
-  ${block.title ? `<h4 class="c-compare__heading">${inline(block.title)}</h4>` : ''}
+  ${block.title ? `<h3 class="c-compare__heading">${inline(block.title)}</h3>` : ''}
   <div class="c-compare__grid">${cols}</div>
 </div>`;
   },
@@ -207,7 +207,7 @@ const RENDERERS = {
       .join('');
     return `
 <div class="c-faq">
-  ${block.title ? `<h4 class="c-faq__heading">${inline(block.title)}</h4>` : ''}
+  ${block.title ? `<h3 class="c-faq__heading">${inline(block.title)}</h3>` : ''}
   ${items}
 </div>`;
   },

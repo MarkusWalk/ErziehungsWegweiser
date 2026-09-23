@@ -15,15 +15,15 @@
   ],
   "blocks": [
     {
+      "type": "p",
+      "lead": true,
+      "text": "Wasser ist für Kinder eines der besten Dinge überhaupt: Es kühlt, es fordert heraus, es macht mutig. Nichts davon muss man ihnen wegnehmen. Aber Wasser verzeiht keine Unaufmerksamkeit, und es kündigt sich nicht an. Dieser Artikel dreht sich deshalb um zwei Dinge: die Sekunden, in denen es gefährlich wird, und den langen Weg zum sicheren Schwimmen."
+    },
+    {
       "type": "callout",
       "variant": "danger",
       "title": "Ertrinken ist lautlos – und es geht in Sekunden",
       "text": "Kinder, die ertrinken, schreien nicht, winken nicht und schlagen nicht um sich. Fällt ein kleines Kind mit dem Gesicht voran ins Wasser, schließt sich reflexartig die Stimmritze: Rufen ist nicht mehr möglich. Der schwere Kopf und die noch schwache Nackenmuskulatur verhindern, dass es sich selbst wieder aufrichtet. Es reichen wenige Zentimeter Wasser und wenige Sekunden. Deshalb gilt bei Nichtschwimmern eine einzige, harte Regel: **eine erwachsene Person in Griffnähe, mit den Augen am Kind** – nicht am Handy, nicht im Gespräch, nicht auf dem Nachbarhandtuch."
-    },
-    {
-      "type": "p",
-      "lead": true,
-      "text": "Wasser ist für Kinder eines der besten Dinge überhaupt: Es kühlt, es fordert heraus, es macht mutig. Nichts davon muss man ihnen wegnehmen. Aber Wasser verzeiht keine Unaufmerksamkeit, und es kündigt sich nicht an. Dieser Artikel dreht sich deshalb um zwei Dinge: die Sekunden, in denen es gefährlich wird, und den langen Weg zum sicheren Schwimmen."
     },
     {
       "type": "section",

@@ -138,7 +138,7 @@ function buildHome() {
       <p class="band__sub">Jede Phase bringt eigene Fragen mit. Steig dort ein, wo dein Kind gerade steht.</p>
     </header>
     <div class="phase-grid">
-      ${phases.map(phaseCard).join('')}
+      ${phases.map((p) => phaseCard(p)).join('')}
     </div>
   </div>
 </section>
@@ -150,7 +150,7 @@ function buildHome() {
       <p class="band__sub">Quer durch alle Altersstufen – von Bindung bis Bildschirmzeit.</p>
     </header>
     <div class="topic-grid">
-      ${topics.map(topicCard).join('')}
+      ${topics.map((t) => topicCard(t)).join('')}
     </div>
   </div>
 </section>
@@ -200,7 +200,7 @@ function buildHome() {
 
 function buildPhaseIndex() {
   const body = `
-${pageHead('Nach Alter', 'Von der Schwangerschaft bis ins Schulalter: Was in jeder Phase wichtig wird.', [{ label: 'Nach Alter' }], '')}
+${pageHead('Nach Alter', 'Von der Schwangerschaft bis ins Schulalter: Was in jeder Phase wichtig wird.', [{ label: 'Nach Alter' }], '../')}
 <section class="band">
   <div class="wrap">
     <div class="phase-grid phase-grid--full">
@@ -826,7 +826,7 @@ function articleJsonLd(article) {
     isAccessibleForFree: true,
     publisher: { '@type': 'Organization', name: site.title },
   };
-  return `<script type="application/ld+json">${JSON.stringify(data)}</script>`;
+  return `<script type="application/ld+json">${JSON.stringify(data).replace(/</g, '\\u003c')}</script>`;
 }
 
 /* ================================================================
