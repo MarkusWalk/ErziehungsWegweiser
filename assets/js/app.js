@@ -190,14 +190,40 @@
   /* ---------------------------------------------------------
      Overlays und Menü
      --------------------------------------------------------- */
+  var lastFocused = null;
+
   function toggleOverlay(selector, open) {
     var overlay = document.querySelector(selector);
     if (!overlay) return;
+    var wasOpen = !overlay.hidden;
     overlay.hidden = !open;
     document.body.style.overflow = open ? 'hidden' : '';
     if (open) {
+      lastFocused = document.activeElement;
       var focusable = overlay.querySelector('input, button');
       if (focusable) focusable.focus();
+    } else if (wasOpen && lastFocused) {
+      lastFocused.focus();
+      lastFocused = null;
+    }
+  }
+
+  /* Fokus im offenen Overlay halten (Tab/Shift+Tab). */
+  function trapFocus(event) {
+    if (event.key !== 'Tab') return;
+    var overlay = document.querySelector('[data-search-overlay]:not([hidden])') ||
+      document.querySelector('[data-settings-overlay]:not([hidden])');
+    if (!overlay) return;
+    var focusables = overlay.querySelectorAll('input, button, a[href], [tabindex]:not([tabindex="-1"])');
+    if (!focusables.length) return;
+    var first = focusables[0];
+    var last = focusables[focusables.length - 1];
+    if (event.shiftKey && document.activeElement === first) {
+      event.preventDefault();
+      last.focus();
+    } else if (!event.shiftKey && document.activeElement === last) {
+      event.preventDefault();
+      first.focus();
     }
   }
 
@@ -220,7 +246,19 @@
     if (event.key === 'Escape') {
       toggleOverlay('[data-search-overlay]', false);
       toggleOverlay('[data-settings-overlay]', false);
+
+      var nav = document.querySelector('.site-nav');
+      if (nav && nav.getAttribute('data-open') === 'true') {
+        nav.setAttribute('data-open', 'false');
+        var menuBtn = document.querySelector('[data-open-menu]');
+        if (menuBtn) {
+          menuBtn.setAttribute('aria-expanded', 'false');
+          menuBtn.focus();
+        }
+      }
     }
+
+    trapFocus(event);
 
     var typing = /^(INPUT|TEXTAREA|SELECT)$/.test(document.activeElement.tagName);
     if (!typing && (event.key === 's' || event.key === 'S' || event.key === '/')) {
