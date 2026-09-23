@@ -67,6 +67,11 @@ seit 2022 ausnahmslos über GitHub Actions — auch die Einstellung *Deploy from
 branch* erzeugt intern den Workflow `pages build and deployment`. Ein Betrieb ohne
 Actions ist dort nicht möglich.
 
+> **Altlast:** Der Branch `gh-pages` wird nicht mehr aktualisiert, ist aber noch
+> unter `markuswalk.github.io/ErziehungsWegweiser` erreichbar – mit veraltetem
+> Stand (u. a. kaputte Links auf der Startseite). Abschalten unter
+> *Settings → Pages → Source: None*, danach kann der Branch gelöscht werden.
+
 Stattdessen ein Hoster, der statische Dateien direkt ausliefert. Beide Varianten
 sind für dieses Projekt kostenlos, brauchen keine Zahlungsdaten und führen keinen
 Build aus — `docs/` enthält fertiges HTML/CSS/JS.
