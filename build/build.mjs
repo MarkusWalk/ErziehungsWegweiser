@@ -556,18 +556,21 @@ ${pageHead(page.title, page.subtitle, page.breadcrumb || [{ label: page.title }]
     });
   }
 
+  /* Der Hoster liefert 404.html unter jeder Pfadtiefe aus – daher absolute Pfade. */
+  const root404 = site.baseUrl ? `${new URL(site.baseUrl).pathname.replace(/\/$/, '')}/` : '';
   emit('404.html', {
     title: 'Seite nicht gefunden',
     description: 'Diese Seite existiert nicht.',
     kind: 'static',
     depth: 0,
+    root: root404,
     body: `
-${pageHead('Diese Seite gibt es nicht', 'Vielleicht hilft die Suche oder einer der Einstiege weiter.', [{ label: '404' }], '')}
+${pageHead('Diese Seite gibt es nicht', 'Vielleicht hilft die Suche oder einer der Einstiege weiter.', [{ label: '404' }], root404)}
 <section class="band">
   <div class="wrap wrap--narrow">
     <div class="hero__actions">
-      <a class="btn btn--primary" href="index.html">Zur Startseite</a>
-      <a class="btn btn--ghost" href="artikel/">Alle Artikel</a>
+      <a class="btn btn--primary" href="${root404}index.html">Zur Startseite</a>
+      <a class="btn btn--ghost" href="${root404}artikel/">Alle Artikel</a>
     </div>
   </div>
 </section>`,
@@ -931,6 +934,7 @@ function formatDate(iso) {
 }
 
 function emit(relPath, page) {
+  if (site.baseUrl && relPath !== '404.html') page.canonical = `${site.baseUrl}/${relPath}`;
   write(relPath, layout(page, site));
 }
 

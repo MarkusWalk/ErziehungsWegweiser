@@ -25,6 +25,7 @@ build/
   blocks.mjs           Rendert Inhaltsblöcke, erzeugt SVG-Diagramme
   layout.mjs           Seitengerüst, Navigation, Overlays
   inline.mjs           Minimale Inline-Auszeichnung
+  publish.sh           docs/ nach gh-pages veröffentlichen
 
 site/assets/           CSS, JavaScript, Bilder – wird unverändert übernommen
   css/tokens.css       ← einziger Ort für Farben, Typografie, Abstände
@@ -62,19 +63,28 @@ damit `docs/` aktuell ist.
 
 ## Veröffentlichen
 
-Die Seite wird **nicht über GitHub Pages** ausgeliefert. Grund: GitHub Pages läuft
-seit 2022 ausnahmslos über GitHub Actions — auch die Einstellung *Deploy from a
-branch* erzeugt intern den Workflow `pages build and deployment`. Ein Betrieb ohne
-Actions ist dort nicht möglich.
+Die Seite läuft über **GitHub Pages** unter
+[markuswalk.github.io/ErziehungsWegweiser](https://markuswalk.github.io/ErziehungsWegweiser/).
+Ausgeliefert wird der Branch `gh-pages`; er enthält den Inhalt von `docs/` in
+seiner Wurzel.
 
-> **Altlast:** Der Branch `gh-pages` wird nicht mehr aktualisiert, ist aber noch
-> unter `markuswalk.github.io/ErziehungsWegweiser` erreichbar – mit veraltetem
-> Stand (u. a. kaputte Links auf der Startseite). Abschalten unter
-> *Settings → Pages → Source: None*, danach kann der Branch gelöscht werden.
+Neu veröffentlichen, nachdem Änderungen auf `main` committet sind:
 
-Stattdessen ein Hoster, der statische Dateien direkt ausliefert. Beide Varianten
-sind für dieses Projekt kostenlos, brauchen keine Zahlungsdaten und führen keinen
-Build aus — `docs/` enthält fertiges HTML/CSS/JS.
+```bash
+sh build/publish.sh
+```
+
+Das Skript baut neu, bricht ab, falls `docs/` nicht committet ist, und schiebt
+`docs/` per `git subtree push` nach `gh-pages`. Pages-Einstellung (einmalig):
+*Settings → Pages → Deploy from a branch → `gh-pages` → `/ (root)`*.
+
+Einschränkung: GitHub Pages setzt keine eigenen Header — `docs/_headers` und
+`vercel.json` greifen dort nicht (siehe [Header](#header)).
+
+### Alternativen
+
+Die folgenden Hoster liefern `docs/` direkt von `main` aus und setzen die Header.
+Alle sind für dieses Projekt kostenlos und führen keinen Build aus.
 
 ### Cloudflare Pages
 
@@ -118,13 +128,13 @@ EINTRAGEN»`, `«BUNDESLAND»`. Die müssen raus, bevor die Seite erreichbar ist
 der Generator meldet bei jedem Lauf, wie viele noch stehen.
 
 Zwei Dinge hängen an der Hosterwahl: In der Datenschutzerklärung muss stehen,
-wer die Server-Logfiles verarbeitet (Cloudflare, Netlify oder Vercel — alle drei
-US-Unternehmen, alle drei mit Auftragsverarbeitungsvertrag). Und dieser Vertrag
+wer die Server-Logfiles verarbeitet (GitHub, Cloudflare, Netlify oder Vercel —
+alle US-Unternehmen, alle mit Auftragsverarbeitungsvertrag). Und dieser Vertrag
 nach Art. 28 DSGVO muss im jeweiligen Konto tatsächlich abgeschlossen werden.
 
-Ebenfalls offen: `site.baseUrl` in `content/taxonomy.json`. Solange die leer ist,
-enthält `sitemap.xml` keine absoluten URLs und Suchmaschinen verwerfen sie. Sobald
-die endgültige Domain feststeht, dort eintragen (ohne Schrägstrich am Ende).
+`site.baseUrl` in `content/taxonomy.json` steht auf der Pages-Adresse. Bei einem
+Hosterwechsel dort die neue Domain eintragen (ohne Schrägstrich am Ende), sonst
+zeigen Sitemap und Canonical-Links auf die alte.
 
 Ein Cookie-Banner braucht die Seite nicht: Sie setzt keine Cookies, und die
 lokal gespeicherten Einstellungen (Farbmodus, Schriftgröße, Geburtsdatum,

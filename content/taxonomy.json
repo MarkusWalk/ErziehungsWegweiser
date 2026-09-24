@@ -3,7 +3,7 @@
     "title": "Erziehungswegweiser",
     "tagline": "Wissenschaftlich fundiert durch die ersten Jahre",
     "description": "Ein Kompendium zu Schwangerschaft, Neugeborenen, Babys, Kleinkindern und Erziehung – aufbereitet für Eltern, gestützt auf Leitlinien und Forschung.",
-    "baseUrl": "",
+    "baseUrl": "https://markuswalk.github.io/ErziehungsWegweiser",
     "lang": "de"
   },
   "phases": [

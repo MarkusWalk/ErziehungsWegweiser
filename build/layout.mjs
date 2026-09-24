@@ -6,7 +6,7 @@ import { esc } from './inline.mjs';
 import { ICONS } from './icons.mjs';
 
 export function layout(page, site) {
-  const root = '../'.repeat(page.depth || 0) || './';
+  const root = page.root || '../'.repeat(page.depth || 0) || './';
   const css = (file) => `${root}assets/css/${file}`;
   const js = (file) => `${root}assets/js/${file}`;
 
@@ -22,8 +22,7 @@ export function layout(page, site) {
 <meta property="og:title" content="${esc(page.title)}">
 <meta property="og:description" content="${esc(page.description || site.description)}">
 <meta property="og:site_name" content="${esc(site.title)}">
-<link rel="canonical" href="${esc(page.canonical || '')}">
-<link rel="icon" href="${root}assets/img/favicon.svg" type="image/svg+xml">
+${page.canonical ? `<link rel="canonical" href="${esc(page.canonical)}">\n` : ''}<link rel="icon" href="${root}assets/img/favicon.svg" type="image/svg+xml">
 <link rel="preload" href="${root}assets/fonts/instrument-latin.woff2" as="font" type="font/woff2" crossorigin>
 <link rel="preload" href="${root}assets/fonts/bricolage-latin.woff2" as="font" type="font/woff2" crossorigin>
 <link rel="stylesheet" href="${css('fonts.css')}">
