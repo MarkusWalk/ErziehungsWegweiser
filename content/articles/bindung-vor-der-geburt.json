@@ -77,6 +77,12 @@
           "sources": [0]
         },
         {
+          "type": "tool",
+          "preset": "schwangerschaftswoche",
+          "title": "In welcher Woche seid ihr gerade?",
+          "caption": "Berechnet die aktuelle Schwangerschaftswoche ab dem errechneten Entbindungstermin – praktisch, um die Angaben in der Tabelle oben auf euren Stand zu beziehen."
+        },
+        {
           "type": "callout",
           "variant": "tip",
           "title": "Was den Kontakt konkret wachsen lässt",

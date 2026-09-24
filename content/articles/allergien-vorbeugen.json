@@ -130,6 +130,12 @@
       "heading": "Neurodermitis und die Hautbarriere",
       "blocks": [
         {
+          "type": "illustration",
+          "specimen": "leaf-04",
+          "align": "right",
+          "caption": ""
+        },
+        {
           "type": "p",
           "text": "Neurodermitis ist bei diesem Thema kein Nebenschauplatz, sondern der Ausgangspunkt. Eine gestörte Hautbarriere lässt Allergene über die Haut eindringen – und dieser Weg scheint eher zur Sensibilisierung zu führen als der Weg über den Darm. Das erklärt, warum Kinder mit früher, ausgeprägter Neurodermitis besonders häufig Nahrungsmittelallergien entwickeln, und es ist der Grund, warum eine konsequente Basispflege bei bestehender Neurodermitis wichtig ist."
         },

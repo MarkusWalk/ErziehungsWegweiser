@@ -31,6 +31,12 @@
       "heading": "Was Bindung eigentlich ist",
       "blocks": [
         {
+          "type": "illustration",
+          "specimen": "bloom-02",
+          "align": "right",
+          "caption": ""
+        },
+        {
           "type": "p",
           "text": "Der Kinderpsychiater John Bowlby beschrieb Bindung in den 1950er- und 1960er-Jahren als Verhaltenssystem, das dem Überleben dient. Ein Menschenkind kommt hilflos zur Welt. Damit es die ersten Jahre übersteht, braucht es einen Mechanismus, der bei Gefahr, Schmerz, Hunger oder Erschöpfung zuverlässig Nähe herstellt. Genau das tut Bindungsverhalten: weinen, rufen, klammern, folgen, hinterherkrabbeln. Es ist kein erlerntes Sozialverhalten, sondern eine Grundausstattung."
         },

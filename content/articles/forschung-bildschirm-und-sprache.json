@@ -130,6 +130,12 @@
       "heading": "Der Fall BLIKK: wie aus einer Erhebung eine Schlagzeile wird",
       "blocks": [
         {
+          "type": "illustration",
+          "specimen": "wing-11",
+          "align": "right",
+          "caption": ""
+        },
+        {
           "type": "p",
           "text": "In Deutschland wird bis heute die BLIKK-Erhebung von 2017 zitiert, wenn es um Medien und Sprachentwicklung geht. Sie wurde in Kinderarztpraxen im Rahmen der Vorsorgeuntersuchungen durchgeführt und mit einer Pressekonferenz des Gesundheitsministeriums vorgestellt. In der Berichterstattung wurde daraus ein Kausalsatz: Mediennutzung mache Kleinkinder sprachauffällig."
         },

@@ -77,6 +77,12 @@
       "heading": "Warum gerade jetzt",
       "blocks": [
         {
+          "type": "illustration",
+          "specimen": "sprig-05",
+          "align": "right",
+          "caption": ""
+        },
+        {
           "type": "p",
           "text": "Ein Zweijähriges hat starke Gefühle, klare Absichten und ein Gehirn, dessen Bremssystem noch im Bau ist. Es kann den Impuls wahrnehmen, aber nicht anhalten. Dazu kommt: Hauen funktioniert. Es beendet die Situation sofort, das andere Kind lässt den Bagger los, ein Erwachsener kommt. Für ein Gehirn, das nach Wirksamkeit sucht, ist das eine ausgezeichnete Bilanz."
         },

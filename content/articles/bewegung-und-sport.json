@@ -92,6 +92,12 @@
       "heading": "Freies Bewegen vor Vereinssport",
       "blocks": [
         {
+          "type": "illustration",
+          "specimen": "sprig-07",
+          "align": "right",
+          "caption": ""
+        },
+        {
           "type": "p",
           "text": "Ein Kind, das zweimal pro Woche 45 Minuten Turnen hat, kommt damit auf 90 Minuten in der Woche. Die Empfehlung lautet 60 Minuten am Tag. Vereinssport ist also rechnerisch niemals die Lösung – er ist eine Ergänzung, und im Vorschulalter vor allem ein soziales Angebot. Der weitaus größere Teil muss aus dem gewöhnlichen Tag kommen: Rennen, Klettern, Radfahren, Draußensein."
         },

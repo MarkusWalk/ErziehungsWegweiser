@@ -26,6 +26,12 @@
       "text": "Alles Weitere in diesem Artikel setzt voraus, dass die Grundregeln für sicheren Schlaf eingehalten sind: **Rückenlage bei jedem Schlaf**, eigener Schlafplatz im Elternschlafzimmer, feste Matratze, Schlafsack statt Decke, nichts Weiches im Bett, rauchfreie Umgebung, Zimmertemperatur um 16 bis 18 °C. Das gilt auch für den Mittagsschlaf, auch bei Großeltern, auch im Kinderwagen. Die Einzelheiten und die Belege dazu stehen in [Sicherer Schlaf im ersten Lebensjahr](sicherer-schlaf.html)."
     },
     {
+      "type": "illustration",
+      "specimen": "bloom-11",
+      "align": "right",
+      "caption": "Ein Rhythmus, der sich erst noch einspielt."
+    },
+    {
       "type": "section",
       "heading": "Wie viel Schlaf normal ist – und warum die Zahl wenig hilft",
       "blocks": [
@@ -50,6 +56,12 @@
           ],
           "caption": "Spannen einschließlich Tagschlaf, nach den Schlafempfehlungen der WHO für Kinder unter fünf Jahren. Sie beschreiben Bereiche, keine Zielwerte – niemand muss sein Kind zu einer Zahl hinschlafen lassen.",
           "sources": [0]
+        },
+        {
+          "type": "tool",
+          "preset": "schlafbedarf",
+          "title": "Schlafbedarf nach Alter",
+          "caption": "Richtwerte für Gesamtschlaf über 24 Stunden nach den WHO-Empfehlungen für Kinder unter fünf Jahren."
         },
         {
           "type": "p",

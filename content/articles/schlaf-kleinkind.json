@@ -49,6 +49,12 @@
         {
           "type": "p",
           "text": "Der Grund für den Wandel liegt weniger im Schlaf als in der Entwicklung drumherum. Trennungsangst hat im zweiten Lebensjahr noch einmal Konjunktur, die Vorstellungskraft wächst und mit ihr die Fähigkeit, sich Dinge im Dunkeln auszumalen. Gleichzeitig lernt dein Kind, dass Wünsche verhandelbar sind – und probiert das folgerichtig auch abends aus. Beides ist gesund. Beides macht Abende länger."
+        },
+        {
+          "type": "tool",
+          "preset": "schlafbedarf",
+          "title": "Schlafbedarf nach Alter",
+          "caption": "Nach dem Konsens der American Academy of Sleep Medicine und der WHO-Bewegungsempfehlungen für die ersten Lebensjahre."
         }
       ]
     },

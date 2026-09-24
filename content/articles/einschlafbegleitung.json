@@ -190,6 +190,12 @@
           "text": "Die nützlichste Frage ist nicht, welche Methode die beste ist, sondern welche zu euch passt und welche du tatsächlich durchhältst. Eine Methode, die nach drei Nächten abgebrochen und zwei Wochen später erneut begonnen wird, ist für alle Beteiligten anstrengender als jede konsequent gefahrene Variante – und anstrengender als gar keine."
         },
         {
+          "type": "tool",
+          "preset": "schlafbedarf",
+          "title": "Wie viel Schlaf ist in diesem Alter normal?",
+          "caption": "Bevor du an der Methode arbeitest, lohnt der Blick auf die Bettzeit: Ein Kind, das noch nicht müde ist, braucht keine Methode, sondern eine spätere Uhrzeit."
+        },
+        {
           "type": "checklist",
           "id": "entscheidung",
           "title": "Bevor du irgendetwas änderst",

@@ -88,6 +88,12 @@
       "heading": "Gut genug: die Trefferquote ist niedriger, als du denkst",
       "blocks": [
         {
+          "type": "illustration",
+          "specimen": "bloom-04",
+          "align": "right",
+          "caption": ""
+        },
+        {
           "type": "p",
           "text": "Der amerikanische Entwicklungsforscher Edward Tronick hat in den 1970er- und 1980er-Jahren gefilmt, was zwischen Müttern und Babys tatsächlich Sekunde für Sekunde passiert. Das Ergebnis widerspricht fast allem, was Ratgeber suggerieren: Selbst in unauffälligen, gut funktionierenden Paaren sind beide nur einen Bruchteil der Zeit wirklich abgestimmt. Der größere Teil besteht aus Aneinandervorbei und aus dem Bemühen, wieder zusammenzufinden."
         },

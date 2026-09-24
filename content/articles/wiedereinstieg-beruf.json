@@ -40,6 +40,12 @@
           ]
         },
         {
+          "type": "tool",
+          "preset": "mutterschutz",
+          "title": "Mutterschutz- und Elternzeit-Fristen",
+          "caption": "Zur groben Orientierung, wann Fristen für Elternzeit, Elterngeld und Rückkehr greifen – Details klärt der Arbeitgeber oder die Elterngeldstelle."
+        },
+        {
           "type": "evidence",
           "level": "stark",
           "claim": "66 Prozent der erwerbstätigen Mütter in Deutschland arbeiten in Teilzeit, gegenüber 7 Prozent der erwerbstätigen Väter. In Familien mit jüngstem Kind im Kindergarten- oder Grundschulalter liegt die Teilzeitquote der Mütter noch höher.",

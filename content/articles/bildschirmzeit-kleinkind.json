@@ -153,6 +153,12 @@
       "heading": "Der Bildschirm als Beruhigungsmittel",
       "blocks": [
         {
+          "type": "illustration",
+          "specimen": "leaf-08",
+          "align": "right",
+          "caption": ""
+        },
+        {
           "type": "p",
           "text": "Der problematischste Einsatz ist nicht der häufigste, sondern der reflexhafte: Bildschirm, sobald das Kind ausrastet, quengelt oder im Wartezimmer nicht stillsitzt. Der Grund ist nicht der Bildschirm selbst, sondern was dabei nicht passiert. Ein Kind, dessen Wut regelmäßig durch Ablenkung beendet wird, übt nicht, sie mit Hilfe eines Erwachsenen auszuhalten – und genau darüber entsteht Selbstregulation."
         },

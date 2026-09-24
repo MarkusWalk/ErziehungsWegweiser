@@ -968,6 +968,12 @@
   color: var(--c-ink-muted);
 }
 
+/* Einspaltig klein halten – die Tafel ist Stimmung, sie soll den Lesefluss nicht unterbrechen. */
+@media (max-width: 759px) {
+  .c-illustration--plate { max-width: 13rem; margin-inline: auto; }
+  .c-plate img { max-height: 11rem; }
+}
+
 @media (min-width: 760px) {
   .c-illustration--plate.c-illustration--right {
     float: right;
@@ -992,6 +998,7 @@
 .il-fill { fill: var(--c-bg-sunk); }
 .il-muted { color: var(--c-ink-muted); }
 .il-accent { color: var(--c-accent); }
+
 
 .il-badge circle { fill: var(--c-accent-fill); }
 .il-badge text {
@@ -1044,11 +1051,6 @@
   height: 0.9rem;
   border-radius: var(--r-sm);
   margin-top: 0.2em;
-}
-
-.c-illustration__swatch.il-legend-outline {
-  background: none;
-  border: 1.5px dashed var(--c-ink-muted);
 }
 
 /* ---------- Quellen ---------- */

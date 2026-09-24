@@ -51,6 +51,19 @@
           "sources": [1]
         },
         {
+          "type": "figure",
+          "kind": "bar",
+          "title": "Anteil der Säuglinge, die die Dreierregel erfüllen",
+          "alt": "Balkendiagramm: In den ersten sechs Lebenswochen erfüllen 17 bis 25 Prozent der Säuglinge die Dreierregel, mit 8 bis 9 Wochen noch 11 Prozent, mit 10 bis 12 Wochen unter 1 Prozent.",
+          "data": [
+            { "label": "1.–6. Woche", "value": 21, "display": "17–25 %" },
+            { "label": "8.–9. Woche", "value": 11, "display": "11 %" },
+            { "label": "10.–12. Woche", "value": 1, "display": "< 1 %" }
+          ],
+          "caption": "Aus einer Metaanalyse von 28 Tagebuchstudien mit 8.690 Kindern. Der Rückgang zeigt: Exzessives Schreien ist eine Phase, keine dauerhafte Eigenschaft.",
+          "sources": [1]
+        },
+        {
           "type": "p",
           "text": "In der deutschsprachigen Fachwelt wird eher von einer frühkindlichen Regulationsstörung gesprochen. Gemeint ist damit mehr als lautes Schreien: Es geht um die Schwierigkeit eines Säuglings, seine Zustände selbst zu steuern – wach werden, sich beruhigen, in den Schlaf finden, Trinken und Verdauen koordinieren. Deshalb treten Schreien, Ein- und Durchschlafprobleme und Fütterschwierigkeiten so oft gemeinsam auf."
         },

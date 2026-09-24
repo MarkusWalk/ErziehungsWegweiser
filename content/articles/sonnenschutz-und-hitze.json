@@ -146,6 +146,11 @@
       ]
     },
     {
+      "type": "illustration",
+      "specimen": "leaf-01",
+      "align": "right"
+    },
+    {
       "type": "section",
       "heading": "Häufige Fragen",
       "blocks": [

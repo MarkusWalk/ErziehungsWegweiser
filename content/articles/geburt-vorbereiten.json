@@ -27,6 +27,12 @@
       "text": "Die Nummer des Kreißsaals deiner Wunschklinik. Dort ist rund um die Uhr jemand erreichbar, auch für Fragen, die sich am Ende als harmlos herausstellen. Speicher sie spätestens ab der 30. Woche ein."
     },
     {
+      "type": "illustration",
+      "specimen": "bloom-04",
+      "align": "wide",
+      "caption": "Vorbereitung als ruhiger Rahmen für einen Tag, den niemand planen kann."
+    },
+    {
       "type": "section",
       "heading": "Wo dein Kind zur Welt kommen kann",
       "blocks": [
@@ -207,6 +213,12 @@
             "Wer schneidet die Nabelschnur, was passiert mit dem Mutterkuchen",
             "Was gilt, wenn es notfallmäßig wird – hier reicht ein Satz: Sicherheit geht vor"
           ]
+        },
+        {
+          "type": "tool",
+          "preset": "mutterschutz",
+          "title": "Mutterschutz- und Elternzeit-Fristen",
+          "caption": "Fristen ab dem errechneten Entbindungstermin, nach dem Mutterschutzgesetz."
         },
         {
           "type": "callout",

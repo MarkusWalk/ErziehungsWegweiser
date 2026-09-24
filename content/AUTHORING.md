@@ -168,9 +168,8 @@ Verfügbare Spezimen: alle Dateien unter `site/assets/botanical/` (Familien `blo
 `build/illustrations.mjs`, im Stil des Icon-Sets. Für Sachverhalte, die ein Foto oder
 ein Diagramm nicht zeigen kann. `alt` beschreibt den Inhalt für Screenreader, `title`
 erscheint als Bildunterschrift. Verfügbare Presets: `sicherer-schlaf` (Rückenlage,
-Schlafsack, Zimmertemperatur, eigenes Bett), `reboarder` (rückwärtsgerichteter
-Kindersitz, Kraftverteilung), `milchzaehne` (20 Milchzähne mit Durchbruchsalter),
-`stabile-seitenlage-kind` (drei Schritte), `hand-und-magen` (Magengröße als Faustregel).
+Schlafsack, Zimmertemperatur, eigenes Bett), `milchzaehne` (20 Milchzähne mit
+Durchbruchsalter).
 
 ```jsonc
 {"type":"illustration","preset":"sicherer-schlaf","title":"…","alt":"…","caption":"…"}

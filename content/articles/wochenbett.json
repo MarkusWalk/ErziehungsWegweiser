@@ -136,6 +136,12 @@
           ]
         },
         {
+          "type": "tool",
+          "preset": "mutterschutz",
+          "title": "Mutterschutz- und Elternzeit-Fristen",
+          "caption": "Zur Orientierung, welche Fristen ab dem errechneten Entbindungstermin greifen."
+        },
+        {
           "type": "callout",
           "variant": "warn",
           "title": "Früh kümmern",

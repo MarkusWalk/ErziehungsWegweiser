@@ -122,6 +122,12 @@
       "heading": "Was normal aussieht, auch wenn es das nicht tut",
       "blocks": [
         {
+          "type": "illustration",
+          "specimen": "bloom-01",
+          "align": "right",
+          "caption": ""
+        },
+        {
           "type": "p",
           "text": "Ein großer Teil der Anrufe in Kinderarztpraxen in den ersten zwei Wochen betrifft Dinge, die zur Anpassung an das Leben außerhalb der Gebärmutter gehören. Das ist kein Zeichen von Überängstlichkeit, sondern eine Folge davon, dass fast niemand vorher ein wenige Tage altes Kind aus der Nähe gesehen hat. Die folgende Liste nimmt die häufigsten Schrecken vorweg."
         },

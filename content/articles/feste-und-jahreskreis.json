@@ -67,6 +67,12 @@
       "heading": "Weihnachtsmann, Osterhase, Zahnfee",
       "blocks": [
         {
+          "type": "illustration",
+          "specimen": "bloom-10",
+          "align": "wide",
+          "caption": ""
+        },
+        {
           "type": "p",
           "text": "Magische Figuren sind für Kinder zwischen etwa drei und sieben Jahren wunderbar passend – in dieser Zeit ist die Grenze zwischen Fantasie und Wirklichkeit ohnehin durchlässig. Zwischen sechs und neun Jahren beginnen die meisten Kinder von selbst zu zweifeln. Das ist kein Verlust, sondern ein Entwicklungsschritt: Sie freuen sich anschließend oft darüber, zu den Eingeweihten zu gehören."
         },

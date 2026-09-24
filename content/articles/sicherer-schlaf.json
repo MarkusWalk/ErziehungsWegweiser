@@ -81,6 +81,13 @@
           ]
         },
         {
+          "type": "illustration",
+          "preset": "sicherer-schlaf",
+          "title": "Der sichere Schlafplatz von oben",
+          "alt": "Draufsicht auf ein Gitterbett: Baby liegt flach auf dem Rücken im eigenen Schlafsack, ringsum leere, feste Matratze, daneben das Elternbett und ein Thermometer mit 16 bis 18 Grad.",
+          "caption": "Rückenlage, eigener Schlafsack, feste flache Matratze, 16–18 °C, eigenes Bett im Elternzimmer – nach AAP „Safe Sleep“ 2022 und AWMF-S1-Leitlinie Plötzlicher Säuglingstod."
+        },
+        {
           "type": "callout",
           "variant": "myth",
           "title": "Nestchen, Schlafpositionierer und Sensormatten",

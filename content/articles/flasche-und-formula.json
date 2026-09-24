@@ -156,6 +156,12 @@
       "heading": "Zwiemilch: beides geht",
       "blocks": [
         {
+          "type": "illustration",
+          "specimen": "bloom-08",
+          "align": "right",
+          "caption": ""
+        },
+        {
           "type": "p",
           "text": "Teilstillen – im deutschen Sprachraum oft Zwiemilchernährung genannt – ist kein Kompromiss zweiter Klasse, sondern für viele Familien die Lösung, die tatsächlich funktioniert. Gründe reichen von zu geringer Gewichtszunahme über Rückkehr in den Beruf bis zu dem schlichten Bedürfnis, dass auch jemand anderes füttern kann. Zu wissen ist dabei nur eines: Jede Flasche, die eine Stillmahlzeit ersetzt, senkt mittelfristig die Milchbildung, weil die Brust seltener entleert wird."
         },

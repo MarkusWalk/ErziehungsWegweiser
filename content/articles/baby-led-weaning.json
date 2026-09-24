@@ -183,6 +183,12 @@
       "heading": "Die Mischform ist kein Kompromiss zweiter Klasse",
       "blocks": [
         {
+          "type": "illustration",
+          "specimen": "leaf-06",
+          "align": "right",
+          "caption": ""
+        },
+        {
           "type": "p",
           "text": "In der Praxis machen die wenigsten Familien reines Baby-led Weaning. Sehr verbreitet – und von den deutschen Handlungsempfehlungen ausdrücklich als entspannte Lösung genannt – ist die Kombination: mittags ein Brei, wenn es schnell gehen muss oder die Eisenversorgung zählt, und daneben Stücke zum Selbstessen. Oder Brei vom Löffel, den das Kind selbst führen darf. Oder abends Familienkost in Stücken und morgens Brei."
         },

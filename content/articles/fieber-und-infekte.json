@@ -143,6 +143,12 @@
       "heading": "Fieberkrampf: der Moment, vor dem alle Angst haben",
       "blocks": [
         {
+          "type": "illustration",
+          "specimen": "wing-03",
+          "align": "right",
+          "caption": ""
+        },
+        {
           "type": "p",
           "text": "Ein Fieberkrampf sieht dramatisch aus: Das Kind verdreht die Augen, wird steif oder zuckt, reagiert nicht, die Lippen können sich blau verfärben. Für Eltern ist das einer der erschreckendsten Momente überhaupt. Die gute Nachricht vorweg – die allermeisten Fieberkrämpfe hören von selbst nach ein bis drei Minuten auf und haben keine Folgen."
         },

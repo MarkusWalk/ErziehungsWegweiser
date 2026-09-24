@@ -55,6 +55,12 @@
       "heading": "Die drei Wege im Vergleich",
       "blocks": [
         {
+          "type": "illustration",
+          "specimen": "wing-07",
+          "align": "right",
+          "caption": ""
+        },
+        {
           "type": "p",
           "text": "Kita, Kindertagespflege und Betreuung zu Hause unterscheiden sich weniger in ihrem pädagogischen Wert als in ihrer Struktur – und diese Struktur passt für unterschiedliche Kinder und Familien unterschiedlich gut."
         },

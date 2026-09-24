@@ -187,6 +187,12 @@
       ]
     },
     {
+      "type": "tool",
+      "preset": "korrigiertes-alter",
+      "title": "Korrigiertes Alter berechnen",
+      "caption": "Für frühgeborene Kinder: rechnet Entwicklungsschritte auf das errechnete Geburtsdatum um, nicht auf den tatsächlichen Geburtstag – so vermeidet ihr Sorgen, die keine Grundlage haben."
+    },
+    {
       "type": "callout",
       "variant": "info",
       "title": "Kurz gesagt",

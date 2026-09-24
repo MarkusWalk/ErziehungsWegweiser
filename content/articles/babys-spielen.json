@@ -107,6 +107,12 @@
       "heading": "Das meiste hast du schon zu Hause",
       "blocks": [
         {
+          "type": "illustration",
+          "specimen": "bloom-07",
+          "align": "right",
+          "caption": ""
+        },
+        {
           "type": "p",
           "text": "Babys interessieren sich für Eigenschaften, nicht für Themen. Etwas ist kalt oder warm, glatt oder rau, laut oder leise, schwer oder leicht. Haushaltsgegenstände liefern davon mehr als die meisten Kunststoffangebote – und sie kosten nichts."
         },

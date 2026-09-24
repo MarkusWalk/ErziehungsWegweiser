@@ -204,6 +204,11 @@
       ]
     },
     {
+      "type": "illustration",
+      "specimen": "wing-04",
+      "align": "right"
+    },
+    {
       "type": "section",
       "heading": "Häufige Fragen",
       "blocks": [

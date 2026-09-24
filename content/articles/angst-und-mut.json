@@ -125,6 +125,12 @@
       "heading": "Annäherung in kleinen Schritten",
       "blocks": [
         {
+          "type": "illustration",
+          "specimen": "wing-05",
+          "align": "right",
+          "caption": ""
+        },
+        {
           "type": "p",
           "text": "Was in der Therapie Exposition heißt, funktioniert zu Hause im Kleinen genauso. Das Prinzip: Dein Kind geht freiwillig einen Schritt näher an das heran, was ihm Angst macht, bleibt dort, bis die Anspannung nachlässt, und erlebt dabei, dass es das aushalten kann. Nicht, dass die Gefahr weg ist – sondern dass es selbst stärker ist als gedacht. Wichtig sind drei Dinge: klein genug, freiwillig, und oft genug wiederholt."
         },

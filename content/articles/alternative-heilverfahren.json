@@ -69,6 +69,12 @@
       "heading": "Osteopathie und manuelle Verfahren beim Säugling",
       "blocks": [
         {
+          "type": "illustration",
+          "specimen": "bloom-05",
+          "align": "right",
+          "caption": ""
+        },
+        {
           "type": "p",
           "text": "Osteopathie ist unter jungen Familien vermutlich das verbreitetste komplementäre Verfahren, oft mit den Anlässen Schreikind, Schiefhals, Trinkschwierigkeiten oder einer bevorzugten Kopfhaltung. Anders als bei der Homöopathie gibt es hier eine plausible mechanische Grundidee und eine echte Berührung – beides macht das Verfahren für Eltern nachvollziehbarer."
         },

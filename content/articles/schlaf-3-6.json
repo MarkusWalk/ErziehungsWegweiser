@@ -54,6 +54,12 @@
           "variant": "tip",
           "title": "Der Wochenendtest",
           "text": "Wenn dein Kind am Wochenende zwei Stunden länger schläft als an Kitatagen, fehlt ihm unter der Woche Schlaf. Die Lösung ist dann nicht später aufwachen, sondern früher ins Bett – meist reicht es, die Bettzeit über zwei Wochen in Schritten von zehn Minuten vorzuziehen."
+        },
+        {
+          "type": "tool",
+          "preset": "schlafbedarf",
+          "title": "Schlafbedarf nach Alter",
+          "caption": "Nach dem Konsens der American Academy of Sleep Medicine, zum Nachschlagen für die ganze Familie."
         }
       ]
     },

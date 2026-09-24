@@ -20,6 +20,12 @@
       "text": "Der Mittagsschlaf ist der einzige Teil des Familienschlafs, bei dem die Interessen offen auseinandergehen: Dein Kind braucht ihn irgendwann nicht mehr, du brauchst ihn möglicherweise noch sehr. Das darf man aussprechen – und es ändert nichts daran, dass der Übergang irgendwann kommt."
     },
     {
+      "type": "illustration",
+      "specimen": "sprig-08",
+      "align": "right",
+      "caption": "Eine Pause, die kürzer wird und irgendwann endet."
+    },
+    {
       "type": "section",
       "heading": "Wann Kinder aufhören – und wie breit die Spanne ist",
       "blocks": [
@@ -66,6 +72,12 @@
           "claim": "Ein Mittagsschlaf hilft jüngeren Kindern, am Vormittag Gelerntes zu behalten. Der Effekt zeigt sich im Vergleich zu einer gleich langen Wachphase und ist bei Kindern am deutlichsten, die regelmäßig schlafen.",
           "note": "Belegt in einer US-amerikanischen Untersuchung an Vorschulkindern, in der Gedächtnisleistungen nach einem Mittagsschlaf im Kindergarten besser waren als nach einem gleich langen wachen Zeitraum. Die Studien dieses Typs sind klein und arbeiten mit Laboraufgaben – der Befund ist konsistent, aber er rechtfertigt keine Panik, wenn ein Kind an einem Tag nicht schläft.",
           "sources": [2]
+        },
+        {
+          "type": "tool",
+          "preset": "schlafbedarf",
+          "title": "Schlafbedarf nach Alter",
+          "caption": "Richtwerte für Gesamtschlaf über 24 Stunden, einschließlich Tagschlaf, nach den WHO-Empfehlungen für Kinder unter fünf Jahren."
         },
         {
           "type": "p",
