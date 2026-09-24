@@ -34,6 +34,13 @@
           "text": "Die Reihenfolge ist erstaunlich verlässlich, der Zeitpunkt überhaupt nicht. Manche Kinder kommen mit einem Zahn zur Welt, andere haben mit einem Jahr noch keinen – beides ist in aller Regel unauffällig. Was zählt, ist nicht das Datum des ersten Zahns, sondern dass die Zähne insgesamt kommen und gesund bleiben."
         },
         {
+          "type": "illustration",
+          "preset": "milchzaehne",
+          "title": "Alle 20 Milchzähne im Überblick",
+          "alt": "Aufsicht auf Ober- und Unterkiefer mit 20 farblich nach Zahntyp gruppierten Milchzähnen und ihrem jeweiligen Durchbruchsalter.",
+          "caption": "Übliche Zeitfenster nach den Eruptionstabellen der American Dental Association, wie sie auch in zahnärztlichen Elterninformationen verwendet werden."
+        },
+        {
           "type": "timeline",
           "title": "Wann welche Milchzähne durchbrechen",
           "entries": [

@@ -78,6 +78,12 @@
           "claim": "Die drei großen Neugeborenen-Screenings – erweitertes Stoffwechsel- und Hormonscreening aus wenigen Blutstropfen, Hörscreening und Pulsoxymetrie – erkennen schwere Erkrankungen, bevor Symptome auftreten.",
           "note": "Das erweiterte Neugeborenenscreening wurde 2004 mit zunächst zehn Stoffwechsel- und zwei Hormonstörungen in die Kinder-Richtlinie aufgenommen und seither mehrfach erweitert, unter anderem um Mukoviszidose. Das Hörscreening findet in den ersten Lebenstagen statt, möglichst vor der Entlassung aus der Geburtsklinik; bei einer Geburt außerhalb der Klinik erfolgt es bei der U2. Die Pulsoxymetrie misst schmerzfrei über einen Lichtsensor am Fuß den Sauerstoffgehalt im Blut und dient der frühen Erkennung schwerer Herzfehler.",
           "sources": [0, 2]
+        },
+        {
+          "type": "tool",
+          "preset": "u-termine",
+          "title": "Wann ist die nächste U-Untersuchung fällig?",
+          "caption": "Zeitfenster nach der Kinder-Richtlinie des G-BA."
         }
       ]
     },

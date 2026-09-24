@@ -42,6 +42,7 @@ const SPECIMEN_SLOTS = [
 
 /* Vor dem ersten Seitenaufbau bereitstehen: die Seitenbauer greifen darauf zu. */
 const SPECIMENS = loadSpecimens();
+const SPECIMEN_DIMS = loadSpecimenDims();
 
 /* Statische Seiten in Reihenfolge. Eine Liste, die sowohl die Seiten
    erzeugt als auch in die Sitemap wandert – zwei Listen laufen sonst
@@ -370,7 +371,7 @@ ${pageHead('Alle Artikel', `${articles.length} Artikel, alphabetisch. Nutze die 
 
 function buildArticlePage(article) {
   const toc = [];
-  const ctx = { toc, sources: article.sources || [], warn };
+  const ctx = { toc, sources: article.sources || [], warn, tools: [], root: '../', specimenDims: SPECIMEN_DIMS };
   const content = renderBlocks(article.blocks, ctx);
 
   const phaseTags = (article.phases || [])
@@ -435,6 +436,7 @@ function buildArticlePage(article) {
     depth: 1,
     body,
     head: articleJsonLd(article),
+    scripts: ctx.tools.length ? '<script src="../assets/js/tools.js" defer></script>' : '',
   });
 }
 
@@ -535,7 +537,7 @@ function buildStaticPages() {
           `(${unique.slice(0, 3).join(', ')}${unique.length > 3 ? ', …' : ''})`,
       );
     }
-    const ctx = { toc: [], sources: page.sources || [], warn };
+    const ctx = { toc: [], sources: page.sources || [], warn, root: '', specimenDims: SPECIMEN_DIMS };
     const body = `
 ${pageHead(page.title, page.subtitle, page.breadcrumb || [{ label: page.title }], '')}
 <section class="band">
@@ -729,6 +731,23 @@ function loadSpecimens() {
   }
   for (const list of Object.values(byFamily)) list.sort();
   return byFamily;
+}
+
+/* Breite/Höhe je Spezimen, gelesen aus dem WebP-Header (VP8X-Chunk) –
+   für den illustration-Block "specimen": width/height im <img> verhindert
+   Layout-Sprünge, ohne dass eine Bildbibliothek als Abhängigkeit nötig wäre. */
+function loadSpecimenDims() {
+  const dir = path.join(SITE, 'assets', 'botanical');
+  if (!fs.existsSync(dir)) return {};
+  const dims = {};
+  for (const file of fs.readdirSync(dir).filter((f) => f.endsWith('.webp'))) {
+    const buf = fs.readFileSync(path.join(dir, file));
+    if (buf.toString('ascii', 12, 16) !== 'VP8X') continue;
+    const w = 1 + (buf[24] | (buf[25] << 8) | (buf[26] << 16));
+    const h = 1 + (buf[27] | (buf[28] << 8) | (buf[29] << 16));
+    dims[file.replace(/\.webp$/, '')] = [w, h];
+  }
+  return dims;
 }
 
 /* Kleiner deterministischer Generator (mulberry32), gespeist aus dem Slug. */

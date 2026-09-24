@@ -131,6 +131,51 @@ Nur wo sie etwas erklären, maximal eine pro Artikel. Verfügbare Presets:
  "fallback":"Textbeschreibung für Menschen ohne JavaScript.","caption":"…"}
 ```
 
+### Mini-Werkzeuge (`tool`)
+
+Kleine, in den Artikel integrierte Rechner. Ohne JavaScript steht eine vollständige
+Tabelle der zugrunde liegenden Regel da; mit JavaScript wird daraus ein Eingabeformular
+(Geburtsdatum o. Ä.) mit sofortigem Ergebnis. Die Regeldaten liegen einmalig in
+`build/tools-data.mjs`. Sparsam einsetzen, höchstens eines pro Artikel. Verfügbare Presets:
+`u-termine` (U1–U9 und J1 ab Geburtsdatum), `schlafbedarf` (Schlafbedarf nach Alter),
+`korrigiertes-alter` (für Frühgeborene), `mutterschutz` (Mutterschutz- und
+Elternzeit-Fristen ab Entbindungstermin), `schwangerschaftswoche` (aktuelle SSW ab
+Entbindungstermin), `beikost-fenster` (Beikost-Startfenster ab Geburtsdatum).
+
+```jsonc
+{"type":"tool","preset":"u-termine","title":"…","caption":"…"}
+```
+
+### Bildmaterial (`illustration`)
+
+Stimmung statt Information – höchstens zwei pro Artikel, meist eines. Zwei Formen:
+
+**Botanische Bildtafel** (`specimen`): ein einzelnes Motiv aus `site/assets/botanical/`
+als ruhige, gerahmte Bildtafel. Rein atmosphärisch, ersetzt keine Erklärung. `alt`
+nur setzen, wenn das Bild ausnahmsweise etwas zeigt, das im Text keine Entsprechung
+hat – sonst bleibt es dekorativ (leeres `alt`). `align` ist `right` (schwimmt ab 760px
+neben dem Text) oder `wide` (größere, zentrierte Bildtafel als Absatz-Pause).
+
+```jsonc
+{"type":"illustration","specimen":"bloom-04","align":"right","caption":"…"}
+```
+
+Verfügbare Spezimen: alle Dateien unter `site/assets/botanical/` (Familien `bloom`,
+`leaf`, `sprig`, `wing`, je mit laufender Nummer, z. B. `bloom-04`, `leaf-09`,
+`sprig-03`, `wing-05`). Ein unbekannter Name bricht den Build.
+
+**Erklärendes Linien-SVG** (`preset`): eine im Code gezeichnete Grafik aus
+`build/illustrations.mjs`, im Stil des Icon-Sets. Für Sachverhalte, die ein Foto oder
+ein Diagramm nicht zeigen kann. `alt` beschreibt den Inhalt für Screenreader, `title`
+erscheint als Bildunterschrift. Verfügbare Presets: `sicherer-schlaf` (Rückenlage,
+Schlafsack, Zimmertemperatur, eigenes Bett), `reboarder` (rückwärtsgerichteter
+Kindersitz, Kraftverteilung), `milchzaehne` (20 Milchzähne mit Durchbruchsalter),
+`stabile-seitenlage-kind` (drei Schritte), `hand-und-magen` (Magengröße als Faustregel).
+
+```jsonc
+{"type":"illustration","preset":"sicherer-schlaf","title":"…","alt":"…","caption":"…"}
+```
+
 ---
 
 ## 5. Quellen

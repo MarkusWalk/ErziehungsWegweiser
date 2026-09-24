@@ -5,6 +5,8 @@
    im Browser läuft dafür kein JavaScript. */
 
 import { esc, inline, slugify } from './inline.mjs';
+import { TOOLS } from './tools-data.mjs';
+import { renderIllustration } from './illustrations.mjs';
 
 const EVIDENCE = {
   stark: { label: 'Gut belegt', cls: 'stark' },
@@ -235,7 +237,85 @@ const RENDERERS = {
   ${block.caption ? `<p class="c-caption">${inline(block.caption)}</p>` : ''}
 </figure>`;
   },
+
+  tool(block, ctx) {
+    /* Kleine, in den Artikel integrierte Mini-Anwendung. Ohne JavaScript
+       steht eine vollständige Tabelle der zugrunde liegenden Regel da –
+       mit JavaScript ersetzt tools.js sie durch das interaktive Widget. */
+    const preset = block.preset;
+    const spec = TOOLS[preset];
+    if (!spec) {
+      ctx.warn?.(`Unbekannter Tool-Preset: ${preset}`);
+      return '';
+    }
+    const fallback = TOOL_FALLBACKS[preset] ? TOOL_FALLBACKS[preset](spec) : '';
+    ctx.tools?.push(preset);
+    const n = ctx.tools ? ctx.tools.length : 1;
+    return `
+<div class="c-tool" data-tool="${esc(preset)}" id="tool-${n}">
+  ${block.title ? `<h3 class="c-tool__title">${inline(block.title)}</h3>` : ''}
+  <div class="c-tool__body" data-tool-body>${fallback}</div>
+  <p class="c-tool__privacy">Alle Angaben bleiben in deinem Browser – nichts wird gesendet oder gespeichert.</p>
+  ${block.caption ? `<p class="c-caption">${inline(block.caption)}</p>` : ''}
+  <script type="application/json" data-tool-data>${JSON.stringify(spec).replace(/</g, '\\u003c')}</script>
+</div>`;
+  },
+
+  illustration(block, ctx) {
+    if (block.specimen) return renderPlate(block, ctx);
+    return renderIllustrationSvg(block, ctx);
+  },
 };
+
+/* ---------------------------------------------------------------
+   Bildmaterial (illustration): botanische Bildtafel oder erklärendes
+   Linien-SVG. Zwei Formen desselben Blocktyps – unterschieden über
+   "specimen" vs. "preset", siehe content/AUTHORING.md Abschnitt 4.
+   --------------------------------------------------------------- */
+
+/* Form A: eine einzelne Botanik-Spezimen als ruhige Bildtafel. */
+function renderPlate(block, ctx) {
+  const name = block.specimen;
+  const dims = ctx.specimenDims?.[name];
+  if (!dims) {
+    ctx.warn?.(`illustration: unbekanntes Spezimen "${name}"`);
+    return '';
+  }
+  const align = block.align === 'right' ? 'right' : block.align === 'wide' ? 'wide' : 'center';
+  const root = ctx.root || '';
+  const [w, h] = dims;
+  return `
+<figure class="c-illustration c-illustration--plate c-illustration--${align}">
+  <span class="c-plate">
+    <img src="${root}assets/botanical/${esc(name)}.webp" alt="${esc(block.alt || '')}" width="${w}" height="${h}" loading="lazy" decoding="async">
+  </span>
+  ${block.caption ? `<figcaption class="c-illustration__caption">${inline(block.caption)}</figcaption>` : ''}
+</figure>`;
+}
+
+/* Form B: erklärendes Linien-SVG aus illustrations.mjs. */
+function renderIllustrationSvg(block, ctx) {
+  const result = renderIllustration(block.preset, block.title || '', block.alt || block.title || '');
+  if (!result) {
+    ctx.warn?.(`illustration: unbekanntes Preset "${block.preset}"`);
+    return '';
+  }
+  const legend = result.legend
+    .map((item) => {
+      const marker = item.color
+        ? `<span class="c-illustration__swatch${item.swatchClass ? ` ${esc(item.swatchClass)}` : ''}" style="${item.color !== 'transparent' ? `background:${esc(item.color)}` : ''}" aria-hidden="true"></span>`
+        : `<span class="c-illustration__num" aria-hidden="true">${item.n}</span>`;
+      return `<li>${marker}<span>${inline(item.label)}</span></li>`;
+    })
+    .join('');
+  return `
+<figure class="c-illustration c-illustration--diagram">
+  ${block.title ? `<figcaption class="c-figure__title">${inline(block.title)}</figcaption>` : ''}
+  <div class="c-illustration__canvas">${result.svg}</div>
+  <ul class="c-illustration__legend">${legend}</ul>
+  ${block.caption ? `<p class="c-caption">${inline(block.caption)}</p>` : ''}
+</figure>`;
+}
 
 /* ---------------------------------------------------------------
    Quellenverweise innerhalb eines Blocks
@@ -420,3 +500,95 @@ const CHARTS = {
 function svgWrap(width, height, inner, block) {
   return `<svg class="ch" viewBox="0 0 ${width} ${height}" role="img" aria-label="${esc(block.alt || block.title || 'Diagramm')}" preserveAspectRatio="xMidYMid meet">${inner}</svg>`;
 }
+
+/* ---------------------------------------------------------------
+   Statische Fallback-Tabellen für tool-Blöcke (ohne JavaScript)
+   --------------------------------------------------------------- */
+const UNIT_WORD = { day: 'Lebenstag', week: 'Lebenswoche', month: 'Lebensmonat', year: 'Lebensjahr' };
+
+function windowWords(w) {
+  const unit = UNIT_WORD[w.unit] || w.unit;
+  const text = w.from === w.to ? `${w.from}. ${unit}` : `${w.from}.–${w.to}. ${unit}`;
+  return w.note ? `${text} (${w.note})` : text;
+}
+
+const TOOL_FALLBACKS = {
+  'u-termine'(spec) {
+    const rows = spec.windows
+      .map((w) => `<tr><th scope="row">${esc(w.name)}</th><td>${esc(windowWords(w))}</td></tr>`)
+      .join('');
+    return `
+<div class="c-tablewrap">
+  <div class="c-tablewrap__scroll">
+    <table class="c-table">
+      <thead><tr><th scope="col">Untersuchung</th><th scope="col">Zeitfenster</th></tr></thead>
+      <tbody>${rows}</tbody>
+    </table>
+  </div>
+</div>`;
+  },
+
+  schlafbedarf(spec) {
+    const rows = spec.ranges
+      .map((r) => `<tr><th scope="row">${esc(r.label)}</th><td>${r.min}–${r.max} Stunden</td></tr>`)
+      .join('');
+    return `
+<div class="c-tablewrap">
+  <div class="c-tablewrap__scroll">
+    <table class="c-table">
+      <thead><tr><th scope="col">Alter</th><th scope="col">Schlafbedarf pro 24 h</th></tr></thead>
+      <tbody>${rows}</tbody>
+    </table>
+  </div>
+</div>`;
+  },
+
+  'korrigiertes-alter'(spec) {
+    return `
+<p class="c-p">Korrigiertes Alter = chronologisches Alter minus die Wochen, die bei der Geburt bis zur
+${spec.fullTermWeeks}. Schwangerschaftswoche gefehlt haben. Üblich bis etwa zum ${spec.correctUntilMonths / 12}.
+Geburtstag – danach gleicht sich der Unterschied im Alltag meist aus.</p>`;
+  },
+
+  mutterschutz(spec) {
+    const rows = [
+      ['Beginn Mutterschutz', `${spec.beforeWeeks} Wochen vor dem errechneten Termin`],
+      ['Ende Mutterschutz (Regelfall)', `${spec.afterWeeksNormal} Wochen nach der Geburt`],
+      ['Ende Mutterschutz (Frühgeburt, Mehrlinge, Behinderung des Kindes)', `${spec.afterWeeksSpecial} Wochen nach der Geburt`],
+      ['Anmeldefrist Elternzeit', `spätestens ${spec.elternzeitNoticeWeeks} Wochen vor Beginn`],
+      ['Elterngeld rückwirkend beantragen', `höchstens ${spec.elterngeldRetroMonths} Monate rückwirkend`],
+    ]
+      .map(([k, v]) => `<tr><th scope="row">${esc(k)}</th><td>${esc(v)}</td></tr>`)
+      .join('');
+    return `
+<div class="c-tablewrap">
+  <div class="c-tablewrap__scroll">
+    <table class="c-table">
+      <tbody>${rows}</tbody>
+    </table>
+  </div>
+</div>
+<p class="c-tool__privacy">Keine Rechtsberatung – im Einzelfall zählt die Auskunft der Krankenkasse oder Elterngeldstelle.</p>`;
+  },
+
+  schwangerschaftswoche(spec) {
+    const rows = spec.trimesters
+      .map((t) => `<tr><th scope="row">${esc(t.label)}</th><td>SSW ${t.fromWeek}–${t.toWeek}</td></tr>`)
+      .join('');
+    return `
+<div class="c-tablewrap">
+  <div class="c-tablewrap__scroll">
+    <table class="c-table">
+      <thead><tr><th scope="col">Abschnitt</th><th scope="col">Schwangerschaftswochen</th></tr></thead>
+      <tbody>${rows}</tbody>
+    </table>
+  </div>
+</div>`;
+  },
+
+  'beikost-fenster'(spec) {
+    return `
+<p class="c-p">Empfohlenes Fenster: Beginn des ${spec.fromMonths + 1}. bis Beginn des ${spec.toMonths + 1}. Lebensmonats
+– also nicht vor vollendeten ${spec.fromMonths} und nicht nach vollendeten ${spec.toMonths} Monaten.</p>`;
+  },
+};

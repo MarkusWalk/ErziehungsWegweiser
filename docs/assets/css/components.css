@@ -612,6 +612,109 @@
 
 .c-checklist__box:checked + label { color: var(--c-ink-muted); text-decoration: line-through; }
 
+/* ---------- Werkzeug (tool-Block) ---------- */
+.c-tool {
+  max-width: var(--measure);
+  padding: var(--sp-5);
+  background: var(--c-surface);
+  border: var(--rule);
+  border-radius: var(--r-md);
+}
+
+.c-tool__title { font-size: var(--fs-md); margin-bottom: var(--sp-4); }
+
+.c-tool__form {
+  display: grid;
+  gap: var(--sp-4);
+  margin-bottom: var(--sp-5);
+}
+
+.c-tool__field {
+  display: grid;
+  gap: var(--sp-2);
+  font-size: var(--fs-sm);
+  font-weight: var(--fw-medium);
+}
+
+.c-tool__field input[type="date"],
+.c-tool__field input[type="number"] {
+  padding: var(--sp-3) var(--sp-4);
+  border: var(--rule);
+  border-radius: var(--r-sm);
+  background: var(--c-bg);
+  color: var(--c-ink);
+  font-size: var(--fs-base);
+  font-family: inherit;
+  width: 100%;
+  max-width: 100%;
+}
+
+.c-tool__field input[type="date"]:focus-visible,
+.c-tool__field input[type="number"]:focus-visible,
+.c-tool__field input[type="range"]:focus-visible {
+  outline: 2px solid var(--c-accent);
+  outline-offset: 2px;
+}
+
+.c-tool__slider {
+  display: flex;
+  align-items: center;
+  gap: var(--sp-3);
+}
+
+.c-tool__slider input[type="range"] {
+  flex: 1;
+  accent-color: var(--c-accent);
+}
+
+.c-tool__slider output {
+  flex: none;
+  font-variant-numeric: tabular-nums;
+  color: var(--c-ink-soft);
+}
+
+.c-tool__check {
+  display: flex;
+  align-items: flex-start;
+  gap: var(--sp-3);
+  font-size: var(--fs-sm);
+}
+
+.c-tool__check input { margin-top: 0.3em; accent-color: var(--c-accent); flex: none; }
+
+.c-tool__result { min-height: 1.5em; }
+.c-tool__result > * + * { margin-top: var(--sp-3); }
+
+.c-tool__figure { font-size: var(--fs-md); }
+
+.c-tool__hint,
+.c-tool__note {
+  font-size: var(--fs-sm);
+  color: var(--c-ink-muted);
+}
+
+.c-tool__flag {
+  display: inline-block;
+  padding: 0.1em var(--sp-2);
+  border-radius: var(--r-pill);
+  background: var(--c-accent-faint);
+  color: var(--c-accent);
+  font-size: var(--fs-xs);
+  font-weight: var(--fw-semi);
+  white-space: nowrap;
+}
+
+.c-tool tr.is-current th,
+.c-tool tr.is-current td { background: var(--c-accent-faint); }
+
+.c-tool .c-tablewrap { margin: 0; }
+
+.c-tool__privacy {
+  margin-top: var(--sp-4);
+  font-size: var(--fs-xs);
+  color: var(--c-ink-muted);
+}
+
 /* ---------- Zeitstrahl ---------- */
 .c-timeline { max-width: var(--measure); }
 .c-timeline__heading { font-size: var(--fs-md); margin-bottom: var(--sp-4); }
@@ -824,6 +927,128 @@
   text-align: center;
   color: var(--c-ink-muted);
   font-size: var(--fs-sm);
+}
+
+/* ---------- illustration: botanische Bildtafel + erklärendes SVG ----------
+   Bildtafel (Form A): stille Botanik-Spezimen auf Papiergrund, gerahmt.
+   Diagramm (Form B): Linien-SVG aus illustrations.mjs + Legende darunter. */
+.c-illustration { margin: 0; }
+
+.c-illustration--plate {
+  max-width: 20rem;
+  margin-inline: auto;
+  text-align: center;
+}
+
+.c-illustration--plate.c-illustration--wide { max-width: 30rem; }
+
+.c-plate {
+  display: block;
+  padding: var(--sp-6) var(--sp-6) var(--sp-5);
+  background: var(--c-bg-sunk);
+  border: var(--rule);
+  border-radius: var(--r-md);
+}
+
+.c-plate img {
+  display: block;
+  width: 100%;
+  height: auto;
+  max-height: 22rem;
+  object-fit: contain;
+  margin-inline: auto;
+}
+
+.c-illustration__caption {
+  margin-top: var(--sp-3);
+  font-family: var(--font-mono);
+  font-size: 11px;
+  letter-spacing: 0.04em;
+  text-transform: uppercase;
+  color: var(--c-ink-muted);
+}
+
+@media (min-width: 760px) {
+  .c-illustration--plate.c-illustration--right {
+    float: right;
+    margin: 0 0 var(--sp-5) var(--sp-6);
+    max-width: 15rem;
+  }
+}
+
+.c-illustration--diagram { max-width: var(--measure); }
+
+.c-illustration__canvas {
+  padding: var(--sp-5);
+  background: var(--c-surface);
+  border: var(--rule);
+  border-radius: var(--r-md);
+  overflow-x: auto;
+}
+
+.il { width: 100%; height: auto; min-width: 18rem; color: var(--c-ink-soft); }
+
+.il-stroke { fill: none; stroke: currentColor; stroke-width: 1.75; stroke-linecap: round; stroke-linejoin: round; }
+.il-fill { fill: var(--c-bg-sunk); }
+.il-muted { color: var(--c-ink-muted); }
+.il-accent { color: var(--c-accent); }
+
+.il-badge circle { fill: var(--c-accent-fill); }
+.il-badge text {
+  fill: var(--c-accent-ink);
+  font-family: var(--font-body);
+  font-size: 12px;
+  font-weight: var(--fw-bold);
+  text-anchor: middle;
+}
+
+.il-leader { fill: none; stroke: var(--c-ink-muted); stroke-width: 1; stroke-dasharray: 2 3; }
+
+.il-tooth {
+  fill: var(--series, var(--c-accent));
+  fill-opacity: 0.82;
+  stroke: var(--c-surface);
+  stroke-width: 1.5;
+}
+
+.c-illustration__legend {
+  list-style: none;
+  margin: var(--sp-4) 0 0;
+  padding: 0;
+  display: grid;
+  gap: var(--sp-2);
+  font-size: var(--fs-sm);
+  color: var(--c-ink-soft);
+  max-width: var(--measure);
+}
+
+.c-illustration__legend li { display: flex; gap: var(--sp-3); align-items: flex-start; }
+
+.c-illustration__num {
+  flex: none;
+  width: 1.4rem;
+  height: 1.4rem;
+  display: grid;
+  place-items: center;
+  border-radius: var(--radius-circle);
+  background: var(--c-accent-fill);
+  color: var(--c-accent-ink);
+  font-size: var(--fs-xs);
+  font-weight: var(--fw-bold);
+  margin-top: 0.1em;
+}
+
+.c-illustration__swatch {
+  flex: none;
+  width: 0.9rem;
+  height: 0.9rem;
+  border-radius: var(--r-sm);
+  margin-top: 0.2em;
+}
+
+.c-illustration__swatch.il-legend-outline {
+  background: none;
+  border: 1.5px dashed var(--c-ink-muted);
 }
 
 /* ---------- Quellen ---------- */

@@ -46,6 +46,12 @@
           "sources": [3]
         },
         {
+          "type": "tool",
+          "preset": "mutterschutz",
+          "title": "Mutterschutz- und Elternzeit-Fristen berechnen",
+          "caption": "Nach MuSchG §3 und BEEG §16, §7, Stand 2025/2026."
+        },
+        {
           "type": "p",
           "text": "Geld gibt es in dieser Zeit aus zwei Töpfen. Die gesetzliche Krankenkasse zahlt Mutterschaftsgeld von höchstens 13 Euro pro Kalendertag. Liegt dein durchschnittlicher Nettoverdienst darüber – was fast immer der Fall ist –, stockt dein Arbeitgeber die Differenz auf, berechnet aus den letzten drei abgerechneten Kalendermonaten vor Beginn der Schutzfrist. Unter dem Strich bleibt dein Nettoeinkommen also erhalten. Wer nicht gesetzlich krankenversichert ist, bekommt Mutterschaftsgeld über das Bundesamt für Soziale Sicherung. Und wenn du schon vorher wegen eines ärztlichen Beschäftigungsverbots nicht arbeiten darfst, zahlt der Arbeitgeber Mutterschutzlohn."
         },

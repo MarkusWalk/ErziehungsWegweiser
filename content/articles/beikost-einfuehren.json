@@ -31,6 +31,12 @@
           "sources": [0, 4]
         },
         {
+          "type": "tool",
+          "preset": "beikost-fenster",
+          "title": "Beikostfenster für dein Kind",
+          "caption": "Zeitraum nach den Handlungsempfehlungen des Netzwerks Gesund ins Leben."
+        },
+        {
           "type": "p",
           "text": "Die WHO empfiehlt, sechs Monate ausschließlich zu stillen. Die europäischen und deutschen Fachgesellschaften nennen ein Fenster ab Beginn des fünften Monats. Dieser scheinbare Widerspruch verunsichert viele Eltern – tatsächlich beschreiben beide dasselbe: Sehr früher Beikoststart bringt keinen Vorteil, sehr später ist mit Blick auf Eisenversorgung und Allergievorbeugung ungünstig. Wenn du voll stillst und dein Kind mit fünf Monaten kein Interesse zeigt, ist Warten bis kurz vor den sechsten Monat völlig unproblematisch."
         },

@@ -10,6 +10,7 @@ import fs from 'node:fs';
 import path from 'node:path';
 import { fileURLToPath } from 'node:url';
 import { plain } from './inline.mjs';
+import { ILLUSTRATION_PRESETS } from './illustrations.mjs';
 
 const ROOT = path.resolve(path.dirname(fileURLToPath(import.meta.url)), '..');
 const DIR = path.join(ROOT, 'content', 'articles');
@@ -21,9 +22,15 @@ const PHASES = new Set(taxonomy.phases.map((p) => p.id));
 const TOPICS = new Set(taxonomy.topics.map((t) => t.id));
 const PLANNED = new Set(map.articles.map((a) => a.slug));
 const SCENES = new Set(['synapsen', 'schlafzyklus', 'meilensteine', 'koregulation', 'hero']);
+const TOOL_PRESETS = new Set(['u-termine', 'schlafbedarf', 'korrigiertes-alter', 'mutterschutz', 'schwangerschaftswoche', 'beikost-fenster']);
 const CALLOUTS = new Set(['info', 'tip', 'warn', 'danger', 'myth']);
 const LEVELS = new Set(['stark', 'moderat', 'umstritten']);
 const FIGURES = new Set(['bar', 'range', 'share', 'line']);
+const SPECIMENS = new Set(
+  fs.existsSync(path.join(ROOT, 'site', 'assets', 'botanical'))
+    ? fs.readdirSync(path.join(ROOT, 'site', 'assets', 'botanical')).filter((f) => f.endsWith('.webp')).map((f) => f.replace(/\.webp$/, ''))
+    : [],
+);
 
 /* Entwürfe erscheinen nicht auf der Seite und werden deshalb nicht als
    Fehler gewertet – sonst blockiert ein bewusst zurückgehaltener Artikel
@@ -92,6 +99,7 @@ for (const file of files) {
   const counts = {};
   const texts = [];
   let sceneCount = 0;
+  let illustrationCount = 0;
 
   const walk = (blocks, depth = 0) => {
     for (const b of blocks || []) {
@@ -163,6 +171,23 @@ for (const file of files) {
         case 'p':
           if (!b.text) errors.push('p ohne text');
           break;
+        case 'tool':
+          if (!TOOL_PRESETS.has(b.preset)) errors.push(`tool: unbekanntes preset "${b.preset}"`);
+          if (!b.title) warnings.push('tool ohne title');
+          if (!b.caption) warnings.push('tool ohne caption (Quelle in Worten)');
+          break;
+        case 'illustration':
+          illustrationCount++;
+          if (b.specimen) {
+            if (!SPECIMENS.has(b.specimen)) errors.push(`illustration: unbekanntes Spezimen "${b.specimen}"`);
+            if (b.align && !['right', 'wide'].includes(b.align)) errors.push(`illustration: unbekannter align-Wert "${b.align}"`);
+          } else if (b.preset) {
+            if (!ILLUSTRATION_PRESETS.has(b.preset)) errors.push(`illustration: unbekanntes Preset "${b.preset}"`);
+            if (!b.alt) warnings.push('illustration ohne alt');
+          } else {
+            errors.push('illustration ohne specimen oder preset');
+          }
+          break;
         default:
           break;
       }
@@ -177,6 +202,7 @@ for (const file of files) {
   if (!counts.callout) warnings.push('kein callout');
   if ((counts.section || 0) < 4) warnings.push(`nur ${counts.section || 0} Abschnitte`);
   if (sceneCount > 1) warnings.push(`${sceneCount} scene-Blöcke (höchstens 1 empfohlen)`);
+  if (illustrationCount > 2) warnings.push(`${illustrationCount} illustration-Blöcke (höchstens 2 empfohlen)`);
 
   /* ---- Textprüfungen ---- */
   const body = texts.map(plain).join(' ');

@@ -46,6 +46,12 @@
           "caption": "Die Korrektur ist simple Subtraktion: Lebensalter minus die Zahl der Wochen, die dein Kind zu früh geboren wurde."
         },
         {
+          "type": "tool",
+          "preset": "korrigiertes-alter",
+          "title": "Korrigiertes Alter berechnen",
+          "caption": "Rechnung nach dem Konsens des AAP Committee on Fetus and Newborn."
+        },
+        {
           "type": "evidence",
           "level": "moderat",
           "claim": "In der Nachsorge und bei der Beurteilung der Entwicklung wird das korrigierte Alter bis etwa zum zweiten Geburtstag verwendet. Danach gleichen sich die beiden Uhren bei den meisten Kindern so weit an, dass die Korrektur entfällt.",
