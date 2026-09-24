@@ -26,6 +26,12 @@
       "text": "**Bei Säuglingen unter 3 Monaten: Fieber ab 38 °C (rektal gemessen) immer sofort ärztlich abklären lassen**, auch wenn das Kind sonst unauffällig wirkt. Ebenfalls ohne Verzögerung – in jedem Alter: **Atemnot** (Nasenflügeln, Einziehungen zwischen den Rippen, Stöhnen beim Ausatmen, blaue Lippen), **Trinkverweigerung** oder deutlich weniger nasse Windeln, **Nackensteife**, **Hautflecken, die sich mit einem Glas nicht wegdrücken lassen**, **Bewusstseinstrübung** (kaum weckbar, apathisch, verwirrt) und **jeder Krampfanfall, der länger als 5 Minuten dauert**. Außerhalb der Praxiszeiten: 116 117, bei Lebensgefahr 112. Alle Nummern und Warnzeichen stehen gebündelt auf der Seite **Notfall & Anlaufstellen**."
     },
     {
+      "type": "tool",
+      "preset": "fieber-check",
+      "title": "Fieber-Check: Was jetzt zu tun ist",
+      "caption": "Ampellogik nach NICE NG143 „Fever in under 5s“ und der Elterninformation der BZgA (kindergesundheit-info.de); Alters-/Temperaturschwellen wie oben im Artikel. Ersetzt keine Untersuchung – im Zweifel immer abklären lassen."
+    },
+    {
       "type": "section",
       "heading": "Was Fieber ist – und was es nicht ist",
       "blocks": [

@@ -178,6 +178,12 @@
       ]
     },
     {
+      "type": "tool",
+      "preset": "atemuebung",
+      "title": "Atemübung",
+      "caption": "Verlangsamte Atmung als Selbstregulationsübung – keine Behandlung, nur ein Werkzeug für den Moment."
+    },
+    {
       "type": "section",
       "heading": "Häufige Fragen",
       "blocks": [

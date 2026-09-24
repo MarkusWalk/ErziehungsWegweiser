@@ -140,6 +140,12 @@
       ]
     },
     {
+      "type": "tool",
+      "preset": "atemuebung",
+      "title": "Atemübung",
+      "caption": "Für den Moment, in dem du selbst ruhig bleiben musst – verlangsamte Atmung als Selbstregulationsübung, keine Behandlung."
+    },
+    {
       "type": "section",
       "heading": "In der Öffentlichkeit",
       "blocks": [

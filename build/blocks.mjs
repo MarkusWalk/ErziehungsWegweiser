@@ -255,7 +255,7 @@ const RENDERERS = {
 <div class="c-tool" data-tool="${esc(preset)}" id="tool-${n}">
   ${block.title ? `<h3 class="c-tool__title">${inline(block.title)}</h3>` : ''}
   <div class="c-tool__body" data-tool-body>${fallback}</div>
-  <p class="c-tool__privacy">Alle Angaben bleiben in deinem Browser – nichts wird gesendet oder gespeichert.</p>
+  <p class="c-tool__privacy">${spec.privacy ? inline(spec.privacy) : 'Alle Angaben bleiben in deinem Browser – nichts wird gesendet oder gespeichert.'}</p>
   ${block.caption ? `<p class="c-caption">${inline(block.caption)}</p>` : ''}
   <script type="application/json" data-tool-data>${JSON.stringify(spec).replace(/</g, '\\u003c')}</script>
 </div>`;
@@ -590,5 +590,166 @@ Geburtstag – danach gleicht sich der Unterschied im Alltag meist aus.</p>`;
     return `
 <p class="c-p">Empfohlenes Fenster: Beginn des ${spec.fromMonths + 1}. bis Beginn des ${spec.toMonths + 1}. Lebensmonats
 – also nicht vor vollendeten ${spec.fromMonths} und nicht nach vollendeten ${spec.toMonths} Monaten.</p>`;
+  },
+
+  'wehen-timer'(spec) {
+    return `
+<p class="c-p">Häufig genannte Orientierung fürs erste Kind: Wehen kommen etwa alle
+${spec.intervalMinutes} Minuten, dauern rund ${spec.durationMinutes} Minute und halten das
+seit etwa ${spec.sustainedHours} Stunde so durch – dann ist es Zeit, in der Klinik oder bei der
+Hebamme anzurufen. Die eigenen Anweisungen von Klinik oder Hebamme gehen immer vor. Sofort
+anrufen bei Blutungen, grünlichem oder blutigem Fruchtwasser, spürbar weniger Kindsbewegungen
+oder sehr starken Schmerzen.</p>`;
+  },
+
+  protokoll(spec) {
+    return `
+<p class="c-p">Orientierung ab etwa dem ${spec.fromDay}. Lebenstag, wenn die Milchbildung eingesetzt
+hat: ${spec.wetDiapersMin} oder mehr nasse Windeln und ${spec.feedsMin}–${spec.feedsMax} Mahlzeiten
+pro 24 Stunden gelten als üblich. Das ist eine grobe Orientierung, keine Diagnose – im Zweifel zählt
+die Einschätzung der Hebamme.</p>`;
+  },
+
+  'zahnputz-timer'(spec) {
+    const items = spec.quadrants.map((q, i) => `<li>${esc(q)}: ${(i + 1) * spec.quadrantSeconds - spec.quadrantSeconds}–${(i + 1) * spec.quadrantSeconds} Sekunden</li>`).join('');
+    return `
+<p class="c-p">${spec.totalSeconds / 60} Minuten, geteilt in vier Abschnitte à ${spec.quadrantSeconds} Sekunden:</p>
+<ul class="c-list">${items}</ul>`;
+  },
+
+  atemuebung(spec) {
+    return `
+<p class="c-p">${spec.inSeconds} Sekunden einatmen, ${spec.outSeconds} Sekunden ausatmen, im Wechsel
+für etwa ${spec.defaultMinutes} Minute.</p>`;
+  },
+
+  wachfenster(spec) {
+    const rows = spec.ranges
+      .map((r) => {
+        const wake = `${(r.minWake / 60).toFixed(r.minWake % 60 ? 1 : 0)}–${(r.maxWake / 60).toFixed(r.maxWake % 60 ? 1 : 0)} Std.`;
+        const naps = r.naps === 0 ? 'meist keiner mehr' : String(r.naps);
+        return `<tr><th scope="row">${esc(r.label)}</th><td>${wake}</td><td>${naps}</td></tr>`;
+      })
+      .join('');
+    return `
+<p class="c-tool__hint">${esc(spec.disclaimer)}</p>
+<div class="c-tablewrap">
+  <div class="c-tablewrap__scroll">
+    <table class="c-table">
+      <thead><tr><th scope="col">Alter</th><th scope="col">Wachfenster</th><th scope="col">Schläfchen pro Tag</th></tr></thead>
+      <tbody>${rows}</tbody>
+    </table>
+  </div>
+</div>`;
+  },
+
+  'mental-load'(spec) {
+    const item = (t) => `<li>${esc(t.text)}</li>`;
+    const plan = spec.tasks.filter((t) => t.kind === 'plan').map(item).join('');
+    const doItems = spec.tasks.filter((t) => t.kind === 'do').map(item).join('');
+    return `
+<p class="c-p">Mit JavaScript lässt sich jede Aufgabe einer Person oder beiden zuordnen und als Balken vergleichen.
+Ohne JavaScript hier die Liste zum gemeinsamen Durchsprechen:</p>
+<p class="c-tool__figure"><strong>Planen &amp; Denken</strong></p>
+<ul class="c-list c-list--bullet">${plan}</ul>
+<p class="c-tool__figure"><strong>Erledigen</strong></p>
+<ul class="c-list c-list--bullet">${doItems}</ul>`;
+  },
+
+  taschengeld(spec) {
+    const rows = spec.ranges
+      .map((r) => {
+        const age = r.fromYears === r.toYears ? `${r.fromYears} Jahre` : `${r.fromYears}–${r.toYears} Jahre`;
+        const rhythm = r.unit === 'week' ? 'wöchentlich' : 'monatlich';
+        return `<tr><th scope="row">${esc(age)}</th><td>${esc(r.display)}</td><td>${rhythm}</td></tr>`;
+      })
+      .join('');
+    return `
+<div class="c-tablewrap">
+  <div class="c-tablewrap__scroll">
+    <table class="c-table">
+      <thead><tr><th scope="col">Alter</th><th scope="col">Richtwert</th><th scope="col">Auszahlung</th></tr></thead>
+      <tbody>${rows}</tbody>
+    </table>
+  </div>
+</div>`;
+  },
+
+  kinderkrankentage(spec) {
+    const rows = [
+      ['Je Kind und Elternteil', `${spec.perChildNormal} Arbeitstage`],
+      ['Je Kind, alleinerziehend', `${spec.perChildAlone} Arbeitstage`],
+      ['Obergrenze im Jahr je Elternteil', `${spec.maxYearNormal} Arbeitstage`],
+      ['Obergrenze im Jahr, alleinerziehend', `${spec.maxYearAlone} Arbeitstage`],
+    ]
+      .map(([k, v]) => `<tr><th scope="row">${esc(k)}</th><td>${esc(v)}</td></tr>`)
+      .join('');
+    return `
+<div class="c-tablewrap">
+  <div class="c-tablewrap__scroll">
+    <table class="c-table">
+      <thead><tr><th scope="col">Anspruch ${spec.year}</th><th scope="col">Tage</th></tr></thead>
+      <tbody>${rows}</tbody>
+    </table>
+  </div>
+</div>
+<p class="c-tool__privacy">Keine Rechtsberatung – im Einzelfall zählt die Auskunft der Krankenkasse.</p>`;
+  },
+
+  routinekarten(spec) {
+    const list = (steps) => `<ol class="c-list c-list--ordered">${steps.map((s) => `<li>${esc(s.text)}</li>`).join('')}</ol>`;
+    return `
+<p class="c-tool__figure"><strong>Morgen</strong></p>
+${list(spec.steps.morgen)}
+<p class="c-tool__figure"><strong>Abend</strong></p>
+${list(spec.steps.abend)}
+<p class="c-tool__hint">Mit JavaScript lassen sich Schritte auswählen, umsortieren, um eigene ergänzen und als Karten drucken.</p>`;
+  },
+
+  meilensteine(spec) {
+    const rows = spec.checkpoints
+      .map((cp) =>
+        cp.domains
+          .map(
+            (d, i) =>
+              `<tr><th scope="row">${i === 0 ? esc(cp.label) : ''}</th><td>${esc(d.label)}</td><td>${d.items.map((it) => esc(it)).join(', ')}</td></tr>`,
+          )
+          .join(''),
+      )
+      .join('');
+    return `
+<div class="c-tablewrap">
+  <div class="c-tablewrap__scroll">
+    <table class="c-table">
+      <thead><tr><th scope="col">Alter</th><th scope="col">Bereich</th><th scope="col">Was fast alle Kinder bis dahin können (Grenzstein)</th></tr></thead>
+      <tbody>${rows}</tbody>
+    </table>
+  </div>
+</div>
+<p class="c-p"><strong>Zeigt dein Kind etwas davon noch nicht?</strong> ${esc(spec.followUp)}</p>
+<p class="c-tool__note"><strong>Immer ein Grund für zeitnahen Rat:</strong> ${esc(spec.redFlag)}</p>`;
+  },
+
+  'fieber-check'(spec) {
+    const redItems = spec.redFlags.map((f) => `<li>${esc(f)}</li>`).join('');
+    const amberItems = spec.amberFlags.map((f) => `<li>${esc(f)}</li>`).join('');
+    return `
+<p class="c-p"><strong>Erst prüfen: Warnzeichen, bei denen du sofort den Notruf 112 rufst.</strong></p>
+<ul class="c-list">${redItems}</ul>
+<p class="c-p">Kein Warnzeichen von oben, aber eines der folgenden Anzeichen? Dann heute noch ärztlich abklären lassen (Kinderarztpraxis oder 116 117):</p>
+<ul class="c-list">${amberItems}</ul>
+<div class="c-tablewrap">
+  <div class="c-tablewrap__scroll">
+    <table class="c-table">
+      <thead><tr><th scope="col">Alter</th><th scope="col">Auch ohne Warnzeichen ärztlich abklären lassen ab</th></tr></thead>
+      <tbody>
+        <tr><th scope="row">Unter ${spec.infantMaxMonths} Monaten</th><td>${spec.infantMinTemp.toFixed(1).replace('.', ',')} °C – sofort</td></tr>
+        <tr><th scope="row">${spec.youngMinMonths}–${spec.youngMaxMonths} Monate</th><td>${spec.youngMinTemp.toFixed(1).replace('.', ',')} °C – heute noch</td></tr>
+      </tbody>
+    </table>
+  </div>
+</div>
+<p class="c-p">Ohne eines der genannten Anzeichen und außerhalb dieser Alters-/Temperaturschwellen: zu Hause beobachten.</p>
+<p class="c-tool__note">${esc(spec.always)}</p>`;
   },
 };

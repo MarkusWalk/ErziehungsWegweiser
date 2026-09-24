@@ -74,12 +74,6 @@
           "sources": [2]
         },
         {
-          "type": "tool",
-          "preset": "schlafbedarf",
-          "title": "Schlafbedarf nach Alter",
-          "caption": "Richtwerte für Gesamtschlaf über 24 Stunden, einschließlich Tagschlaf, nach den WHO-Empfehlungen für Kinder unter fünf Jahren."
-        },
-        {
           "type": "p",
           "text": "Der spürbarere Nutzen ist ohnehin ein anderer: Ein müdes Kleinkind bricht am späten Nachmittag zusammen. Der Mittagsschlaf ist für viele Familien weniger eine Lernmaßnahme als eine Stabilitätsmaßnahme – für das Kind und für die Erwachsenen, die dann kurz durchatmen. Auch das ist ein legitimes Argument."
         }
@@ -108,6 +102,12 @@
             "Die Länge begrenzen: Wecke nach 60 bis 90 Minuten, statt schlafen zu lassen, bis das Kind von selbst aufwacht. Das erhält den Tagschlaf und schont den Abend.",
             "Den Zeitpunkt vorziehen: Als grobe Orientierung sollten zwischen Aufwachen und gewünschter Bettzeit mindestens vier Stunden liegen. Ein Schlaf, der um 16:30 Uhr endet, macht eine Bettzeit um 19 Uhr unwahrscheinlich."
           ]
+        },
+        {
+          "type": "tool",
+          "preset": "wachfenster",
+          "title": "Wachfenster, Schläfchen und Bettzeit schätzen",
+          "caption": "Orientierungswerte aus der Beratungspraxis, keine Studienbasis. Rückgang der Mittagsschlaf-Häufigkeit über die Kleinkindjahre nach Staton et al., Sleep Medicine Reviews 2020 (siehe Grafik oben)."
         }
       ]
     },

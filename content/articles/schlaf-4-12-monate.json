@@ -53,12 +53,6 @@
           "claim": "Der Schlafbedarf im Alter von 4 bis 11 Monaten liegt bei etwa 12 bis 16 Stunden pro 24 Stunden, inklusive Tagschlaf. Die Spannbreite ist groß und individuell stabil.",
           "note": "WHO und die Konsensempfehlungen der National Sleep Foundation kommen unabhängig voneinander auf ähnliche Spannen. Wichtig ist die Breite: Ein Kind mit 12 Stunden ist nicht unterversorgt, ein Kind mit 16 Stunden nicht auffällig. Der bessere Maßstab als die Uhr ist, wie dein Kind tagsüber wirkt – aufnahmefähig und überwiegend ausgeglichen oder dauerhaft überdreht und quengelig.",
           "sources": [4, 6]
-        },
-        {
-          "type": "tool",
-          "preset": "schlafbedarf",
-          "title": "Schlafbedarf nach Alter",
-          "caption": "Nach dem AASM-Konsens 2016 und, für die ersten Monate, der National Sleep Foundation."
         }
       ]
     },
@@ -134,6 +128,12 @@
         {
           "type": "p",
           "text": "Wachfenster – also die Zeitspanne, die ein Kind zwischen zwei Schlafphasen gut wach bleiben kann – sind ein nützliches Alltagswerkzeug, aber keine Messgröße mit belastbarer Studienbasis. Die üblichen Orientierungswerte stammen aus der Beratungspraxis: etwa zwei bis drei Stunden mit vier Monaten, drei bis vier Stunden gegen Ende des ersten Jahres. Nimm sie als Hypothese, nicht als Vorgabe. Der bessere Indikator ist dein Kind: Reibt es sich die Augen, wird es fahrig, verliert es das Interesse an Dingen, die es eben noch spannend fand?"
+        },
+        {
+          "type": "tool",
+          "preset": "wachfenster",
+          "title": "Wachfenster, Schläfchen und Bettzeit schätzen",
+          "caption": "Orientierungswerte aus der Beratungspraxis (2–3 Std. mit vier Monaten, 3–4 Std. gegen Jahresende, wie oben beschrieben) – keine Studienbasis. Rückgang der Mittagsschlaf-Häufigkeit über die Kleinkindjahre nach Staton et al., Sleep Medicine Reviews 2020."
         },
         {
           "type": "p",

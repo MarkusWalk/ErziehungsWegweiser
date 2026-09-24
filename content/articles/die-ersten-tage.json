@@ -164,6 +164,12 @@
       ]
     },
     {
+      "type": "tool",
+      "preset": "protokoll",
+      "title": "Tagesprotokoll",
+      "caption": "Wer trotzdem mitschreiben möchte: ein Tipp auf den Knopf, Zusammenfassung inklusive – nach Nationaler Stillkommission / Netzwerk Gesund ins Leben."
+    },
+    {
       "type": "section",
       "heading": "Häufige Fragen",
       "blocks": [

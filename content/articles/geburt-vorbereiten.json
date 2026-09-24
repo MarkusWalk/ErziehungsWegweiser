@@ -215,18 +215,18 @@
           ]
         },
         {
-          "type": "tool",
-          "preset": "mutterschutz",
-          "title": "Mutterschutz- und Elternzeit-Fristen",
-          "caption": "Fristen ab dem errechneten Entbindungstermin, nach dem Mutterschutzgesetz."
-        },
-        {
           "type": "callout",
           "variant": "tip",
           "title": "Die drei Fragen für den Moment der Entscheidung",
           "text": "Wenn im Kreißsaal etwas vorgeschlagen wird und du nicht weiterweißt, helfen drei Fragen, die auch die Begleitperson stellen kann: Was passiert, wenn wir es tun? Was passiert, wenn wir es nicht tun? Und: Wie viel Zeit haben wir für die Entscheidung? Außer im echten Notfall gibt es fast immer Zeit für eine Antwort."
         }
       ]
+    },
+    {
+      "type": "tool",
+      "preset": "wehen-timer",
+      "title": "Wehen-Timer",
+      "caption": "Orientierung nach DGGG-Leitlinie und NICE Intrapartum Care sowie Hebammen-Info – ersetzt nicht die Anweisungen von Klinik oder Hebamme."
     },
     {
       "type": "section",

@@ -22,7 +22,7 @@ const PHASES = new Set(taxonomy.phases.map((p) => p.id));
 const TOPICS = new Set(taxonomy.topics.map((t) => t.id));
 const PLANNED = new Set(map.articles.map((a) => a.slug));
 const SCENES = new Set(['synapsen', 'schlafzyklus', 'meilensteine', 'koregulation', 'hero']);
-const TOOL_PRESETS = new Set(['u-termine', 'schlafbedarf', 'korrigiertes-alter', 'mutterschutz', 'schwangerschaftswoche', 'beikost-fenster']);
+const TOOL_PRESETS = new Set(['u-termine', 'schlafbedarf', 'korrigiertes-alter', 'mutterschutz', 'schwangerschaftswoche', 'beikost-fenster', 'wehen-timer', 'protokoll', 'zahnputz-timer', 'atemuebung', 'meilensteine', 'fieber-check', 'wachfenster', 'mental-load', 'taschengeld', 'kinderkrankentage', 'routinekarten']);
 const CALLOUTS = new Set(['info', 'tip', 'warn', 'danger', 'myth']);
 const LEVELS = new Set(['stark', 'moderat', 'umstritten']);
 const FIGURES = new Set(['bar', 'range', 'share', 'line']);

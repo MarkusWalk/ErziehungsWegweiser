@@ -134,4 +134,24 @@
 
   .site-footer__brand { display: none; }
   .disclaimer { font-size: 8.5pt; }
+
+  /* Routinekarten: "Drucken" baut #ew-print-routine neu auf (tools.js) und
+     druckt dann ausschließlich diese eine Fläche. body > * wird komplett
+     ausgeblendet (nicht nur unsichtbar gemacht), damit die gedruckte Seite
+     nicht die volle Höhe des restlichen Artikels als Leerraum mitschleppt. */
+  html.print-routine body > * { display: none !important; }
+  html.print-routine #ew-print-routine {
+    display: block !important;
+    margin: 0;
+    padding: 0;
+  }
+  html.print-routine .c-routine-cards {
+    grid-template-columns: repeat(auto-fill, minmax(4.5cm, 1fr));
+    gap: 6mm;
+  }
+  html.print-routine .c-routine-card {
+    border: 1pt solid #000;
+    break-inside: avoid;
+    page-break-inside: avoid;
+  }
 }

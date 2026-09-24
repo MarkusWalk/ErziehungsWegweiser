@@ -61,6 +61,12 @@
           "variant": "tip",
           "title": "Der Rhythmus wächst mit",
           "text": "Jüngere Kinder können einen Monat nicht überblicken – für sie ist die Woche die richtige Einheit, am besten immer am selben Wochentag. Ab etwa zehn Jahren ist die monatliche Auszahlung sinnvoll, weil sie das Einteilen über einen längeren Zeitraum verlangt. Der Wechsel ist ein guter Anlass, gemeinsam aufzuschreiben, was künftig aus dem eigenen Geld bezahlt wird."
+        },
+        {
+          "type": "tool",
+          "preset": "taschengeld",
+          "title": "Richtwert für das Alter deines Kindes",
+          "caption": "Taschengeldtabelle des Deutschen Jugendinstituts (DJI), wie von den Jugendämtern verbreitet. 4–13 und 16–17 Jahre wie oben in der Tabelle zitiert, 14–15 Jahre nach aktueller DJI-Tabelle (Stand 2026)."
         }
       ]
     },

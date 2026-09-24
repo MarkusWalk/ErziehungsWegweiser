@@ -128,6 +128,12 @@
       ]
     },
     {
+      "type": "tool",
+      "preset": "zahnputz-timer",
+      "title": "Zahnputz-Timer",
+      "caption": "Zwei Minuten, aufgeteilt in vier Bereiche – innerhalb jedes Bereichs gilt KAI: Kauflächen, Außenflächen, Innenflächen. Mit optionalem Ton bei jedem Wechsel."
+    },
+    {
       "type": "illustration",
       "preset": "milchzaehne",
       "title": "Alle 20 Milchzähne im Überblick",

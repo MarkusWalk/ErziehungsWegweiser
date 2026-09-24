@@ -207,6 +207,12 @@
       "align": "right"
     },
     {
+      "type": "tool",
+      "preset": "protokoll",
+      "title": "Tagesprotokoll",
+      "caption": "Für die ersten Wochen: ein Tipp auf den Knopf statt Still-App – am Ende als Text für die Hebamme kopierbar."
+    },
+    {
       "type": "section",
       "heading": "Häufige Fragen",
       "blocks": [

@@ -245,6 +245,12 @@
           "variant": "warn",
           "title": "Frühgeborene: immer korrigiertes Alter rechnen",
           "text": "Bei Kindern, die vor der 37. Schwangerschaftswoche geboren wurden, wird die Entwicklung bis etwa zum zweiten Geburtstag nach dem korrigierten Alter beurteilt – also gerechnet ab dem errechneten Geburtstermin. Ein Kind, das acht Wochen zu früh kam, ist mit zehn Monaten entwicklungsmäßig acht Monate alt. Wer das vergisst, produziert Sorgen aus dem Nichts."
+        },
+        {
+          "type": "tool",
+          "preset": "meilensteine",
+          "title": "Grenzsteine für dein Kind anzeigen",
+          "caption": "Nach dem Grenzsteinkonzept von Michaelis, den Kriterien der S3-Leitlinie Sprachentwicklungsstörungen (Late Talker) und der G-BA Kinder-Richtlinie – dieselbe Zusammenstellung wie in der Tabelle oben. Kein Screening-Ersatz: Die U-Untersuchungen bleiben die verbindliche Abklärung."
         }
       ]
     },

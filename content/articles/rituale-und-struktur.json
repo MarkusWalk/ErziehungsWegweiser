@@ -93,6 +93,12 @@
             { "age": "19:30", "label": "Licht aus", "text": "Wenn es regelmäßig deutlich später wird, den Anfang verschieben, nicht das Ende dehnen." }
           ],
           "caption": "Beispielhafter Ablauf für ein Kindergartenkind, angelehnt an die Empfehlungen zur Schlafhygiene. Die Uhrzeiten sind austauschbar – die Reihenfolge ist der wirksame Teil."
+        },
+        {
+          "type": "tool",
+          "preset": "routinekarten",
+          "title": "Eure eigene Morgen- oder Abendroutine",
+          "caption": "Schritte wie oben beschrieben, frei wählbar, sortierbar und um eigene Schritte ergänzbar. Wirksamkeit fester Abendroutinen nach Mindell et al., Sleep 2009 und Sleep Medicine Reviews 2018."
         }
       ]
     },

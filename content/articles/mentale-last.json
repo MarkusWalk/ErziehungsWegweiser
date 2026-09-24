@@ -163,6 +163,12 @@
           ]
         },
         {
+          "type": "tool",
+          "preset": "mental-load",
+          "title": "Wer trägt was: eine erste Bestandsaufnahme",
+          "caption": "Zwanzig wiederkehrende Aufgaben, angelehnt an die oben genannten Bereiche. Keine Wertung – nur ein Ausgangspunkt für das Gespräch. Aufgabenauswahl orientiert an der WSI-Beschäftigtenbefragung (Lott/Bünger, Hans-Böckler-Stiftung) und der Zeitverwendungserhebung des Statistischen Bundesamtes 2022."
+        },
+        {
           "type": "callout",
           "variant": "tip",
           "title": "Drei Sätze, die im Alltag helfen",

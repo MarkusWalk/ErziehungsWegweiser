@@ -715,6 +715,223 @@
   color: var(--c-ink-muted);
 }
 
+/* ---------- Werkzeuge mit Geräte-Speicher (Wehen, Protokoll, Zahnputz, Atmung) ---------- */
+.c-tool__toolbar {
+  display: flex;
+  flex-wrap: wrap;
+  gap: var(--sp-3);
+  align-items: center;
+  margin-bottom: var(--sp-4);
+}
+
+.c-tool__bigbtn {
+  min-height: 56px;
+  padding: var(--sp-3) var(--sp-5);
+  border: var(--rule);
+  border-radius: var(--r-pill);
+  background: var(--c-accent);
+  color: var(--c-surface);
+  font-size: var(--fs-base);
+  font-weight: var(--fw-semi);
+  font-family: inherit;
+  cursor: pointer;
+  flex: 1 1 auto;
+  min-width: 44px;
+}
+
+.c-tool__bigbtn.is-active { background: var(--c-ink); }
+
+.c-tool__bigbtn:focus-visible,
+.c-tool__resetbtn:focus-visible,
+.c-tool__actionbtn:focus-visible,
+.c-tool__delbtn:focus-visible {
+  outline: 2px solid var(--c-accent);
+  outline-offset: 2px;
+}
+
+.c-tool__resetbtn {
+  min-height: 44px;
+  padding: var(--sp-2) var(--sp-4);
+  border: var(--rule);
+  border-radius: var(--r-pill);
+  background: transparent;
+  color: var(--c-ink-soft);
+  font-size: var(--fs-sm);
+  font-family: inherit;
+  cursor: pointer;
+}
+
+.c-tool__alert {
+  padding: var(--sp-4);
+  border-radius: var(--r-sm);
+  background: var(--c-accent-faint);
+  color: var(--c-ink);
+  font-size: var(--fs-sm);
+  font-weight: var(--fw-medium);
+}
+
+.c-tool__log {
+  list-style: none;
+  margin: 0 0 var(--sp-4);
+  padding: 0;
+  display: grid;
+  gap: var(--sp-2);
+  font-size: var(--fs-sm);
+  color: var(--c-ink-soft);
+  max-height: 15em;
+  overflow-y: auto;
+}
+
+.c-tool__log li {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: var(--sp-3);
+  padding: var(--sp-2) var(--sp-3);
+  border-radius: var(--r-sm);
+  background: var(--c-bg);
+}
+
+.c-tool__grid {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  gap: var(--sp-3);
+  margin-bottom: var(--sp-4);
+}
+
+.c-tool__actionbtn {
+  min-height: 48px;
+  padding: var(--sp-3);
+  border: var(--rule);
+  border-radius: var(--r-sm);
+  background: var(--c-bg);
+  color: var(--c-ink);
+  font-size: var(--fs-sm);
+  font-weight: var(--fw-medium);
+  font-family: inherit;
+  cursor: pointer;
+}
+
+.c-tool__actionbtn.is-active { background: var(--c-accent); color: var(--c-surface); border-color: var(--c-accent); }
+
+.c-tool__flaschenfeld {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: end;
+  gap: var(--sp-3);
+  margin-bottom: var(--sp-4);
+}
+
+.c-tool__flaschenfeld .c-tool__field { flex: 1 1 160px; }
+
+.c-tool__delbtn {
+  flex: none;
+  min-width: 32px;
+  min-height: 32px;
+  border: none;
+  border-radius: var(--r-pill);
+  background: transparent;
+  color: var(--c-ink-muted);
+  font-size: var(--fs-md);
+  line-height: 1;
+  cursor: pointer;
+}
+
+.c-tool__ringwrap {
+  position: relative;
+  width: 160px;
+  max-width: 100%;
+  margin: 0 auto var(--sp-4);
+}
+
+.c-tool__ring { width: 100%; height: auto; display: block; }
+
+.c-tool__ring-bg {
+  fill: none;
+  stroke: var(--c-line);
+  stroke-width: 8;
+}
+
+.c-tool__ring-fg {
+  fill: none;
+  stroke: var(--c-accent);
+  stroke-width: 8;
+  stroke-linecap: round;
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  .c-tool__ring-fg { transition: stroke-dashoffset 0.2s linear; }
+}
+
+.c-tool__ringtime {
+  position: absolute;
+  inset: 0;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: var(--fs-lg, var(--fs-md));
+  font-weight: var(--fw-semi);
+  font-variant-numeric: tabular-nums;
+}
+
+.c-tool__quadrants {
+  list-style: none;
+  margin: 0 0 var(--sp-4);
+  padding: 0;
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  gap: var(--sp-2);
+  text-align: center;
+}
+
+.c-tool__quadrants li {
+  padding: var(--sp-2);
+  border-radius: var(--r-sm);
+  border: var(--rule);
+  font-size: var(--fs-xs);
+  color: var(--c-ink-muted);
+}
+
+.c-tool__quadrants li.is-current {
+  border-color: var(--c-accent);
+  color: var(--c-ink);
+  font-weight: var(--fw-semi);
+  background: var(--c-accent-faint);
+}
+
+.c-tool__quadrants li.is-done { color: var(--c-ink-soft); text-decoration: line-through; }
+
+.c-tool__breathe {
+  width: 140px;
+  height: 140px;
+  max-width: 60vw;
+  max-height: 60vw;
+  margin: 0 auto var(--sp-4);
+  border-radius: 50%;
+  background: var(--c-accent-faint);
+  border: 2px solid var(--c-accent);
+  transform: scale(0.7);
+  transition-property: transform;
+  transition-timing-function: ease-in-out;
+}
+
+.c-tool__breathe.is-in { transform: scale(1); }
+
+.c-tool__breathe-cue {
+  text-align: center;
+  font-size: var(--fs-md);
+  font-weight: var(--fw-semi);
+  margin-bottom: var(--sp-2);
+}
+
+.c-tool__breathe-count {
+  text-align: center;
+  font-size: var(--fs-xl, 2rem);
+  font-variant-numeric: tabular-nums;
+  color: var(--c-ink-soft);
+  margin-bottom: var(--sp-4);
+}
+
 /* ---------- Zeitstrahl ---------- */
 .c-timeline { max-width: var(--measure); }
 .c-timeline__heading { font-size: var(--fs-md); margin-bottom: var(--sp-4); }
@@ -1336,3 +1553,237 @@
   border-radius: var(--radius-pill);
   background: var(--c-accent-fill);
 }
+
+/* ---------- Werkzeuge: Checklisten & Ergebnis-Banner (Meilensteine, Fieber-Check) ---------- */
+.c-tool__group-title {
+  font-size: var(--fs-sm);
+  font-weight: var(--fw-semi);
+  margin: var(--sp-5) 0 var(--sp-3);
+}
+
+.c-tool__group-title--danger { color: var(--c-danger); }
+
+.c-tool__checkgroup { margin-bottom: var(--sp-4); }
+
+.c-tool__checklist {
+  list-style: none;
+  margin: 0 0 var(--sp-4);
+  padding: 0;
+  display: grid;
+  gap: var(--sp-2);
+}
+
+/* Große Antippflächen: das ganze Listenelement ist klickbar, nicht nur die Box. */
+.c-tool__check--lg {
+  padding: var(--sp-3) var(--sp-3);
+  border: var(--rule);
+  border-radius: var(--r-sm);
+  background: var(--c-bg);
+}
+
+.c-tool__check--lg input[type="checkbox"] {
+  width: 1.4rem;
+  height: 1.4rem;
+  accent-color: var(--c-accent);
+  flex: none;
+  margin-top: 0.1em;
+}
+
+.c-tool__check--lg label { flex: 1; }
+
+.c-tool__outcome {
+  padding: var(--sp-4) var(--sp-5);
+  border-radius: var(--r-md);
+  border-left: 4px solid var(--outcome-color, var(--c-info));
+  background: var(--outcome-bg, var(--c-info-soft));
+  font-size: var(--fs-base);
+  line-height: var(--lh-snug);
+}
+
+.c-tool__outcome--info   { --outcome-color: var(--c-info); --outcome-bg: var(--c-info-soft); }
+.c-tool__outcome--tip    { --outcome-color: var(--c-tip); --outcome-bg: var(--c-tip-soft); }
+.c-tool__outcome--warn   { --outcome-color: var(--c-warn); --outcome-bg: var(--c-warn-soft); }
+
+/* 112-Ergebnis: deutlich hervorgehoben, größere Schrift für den Notfall-Fall. */
+.c-tool__outcome--danger {
+  --outcome-color: var(--c-danger);
+  --outcome-bg: var(--c-danger-soft);
+  border-left-width: 6px;
+  font-size: var(--fs-lg);
+  font-weight: var(--fw-semi);
+}
+
+@media (max-width: 380px) {
+  .c-tool__outcome { padding: var(--sp-4); }
+}
+
+/* ---------- Werkzeuge: Textfelder, Auswahl (mental-load, taschengeld,
+   kinderkrankentage, routinekarten) ---------- */
+.c-tool__field input[type="text"],
+.c-tool__field input[type="time"],
+.c-tool__field select {
+  padding: var(--sp-3) var(--sp-4);
+  border: var(--rule);
+  border-radius: var(--r-sm);
+  background: var(--c-bg);
+  color: var(--c-ink);
+  font-size: var(--fs-base);
+  font-family: inherit;
+  width: 100%;
+  max-width: 100%;
+}
+
+.c-tool__field input[type="text"]:focus-visible,
+.c-tool__field input[type="time"]:focus-visible,
+.c-tool__field select:focus-visible {
+  outline: 2px solid var(--c-accent);
+  outline-offset: 2px;
+}
+
+/* ---------- Mental Load: Aufgabenliste mit Zuordnung ---------- */
+.c-tool__mllist {
+  list-style: none;
+  margin: 0 0 var(--sp-5);
+  padding: 0;
+  display: grid;
+  gap: var(--sp-3);
+}
+
+.c-tool__mlrow {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: var(--sp-3);
+  padding: var(--sp-3) var(--sp-4);
+  border: var(--rule);
+  border-radius: var(--r-sm);
+  background: var(--c-bg);
+}
+
+.c-tool__mltext { font-size: var(--fs-sm); flex: 1; }
+
+.c-tool__mlrow select {
+  flex: none;
+  width: auto;
+  min-width: 6.5rem;
+  padding: var(--sp-2) var(--sp-3);
+  border: var(--rule);
+  border-radius: var(--r-sm);
+  background: var(--c-surface);
+  color: var(--c-ink);
+  font-size: var(--fs-sm);
+  font-family: inherit;
+  min-height: 2.5rem;
+}
+
+.c-tool__mlrow select:focus-visible { outline: 2px solid var(--c-accent); outline-offset: 2px; }
+
+/* ---------- Split-Balken (Planen &amp; Denken vs. Erledigen) ---------- */
+.c-tool__splitbar { margin-bottom: var(--sp-4); }
+.c-tool__splitbar-label { font-size: var(--fs-sm); font-weight: var(--fw-medium); margin-bottom: var(--sp-2); }
+
+.c-tool__splitbar-track {
+  display: flex;
+  height: 1.5rem;
+  border-radius: var(--r-pill);
+  overflow: hidden;
+  background: var(--c-bg-sunk);
+}
+
+.c-tool__splitbar-seg { display: block; height: 100%; }
+.c-tool__splitbar-seg--a { background: var(--c-accent); }
+.c-tool__splitbar-seg--both { background: var(--c-ink-muted); opacity: 0.5; }
+.c-tool__splitbar-seg--b { background: var(--c-line-strong); }
+
+/* ---------- Routinekarten: Auswahl-/Sortierliste ---------- */
+.c-tool__routine-list {
+  list-style: none;
+  margin: 0 0 var(--sp-4);
+  padding: 0;
+  display: grid;
+  gap: var(--sp-2);
+}
+
+.c-tool__routine-item {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: var(--sp-3);
+  padding: var(--sp-2) var(--sp-3);
+  border: var(--rule);
+  border-radius: var(--r-sm);
+  background: var(--c-bg);
+}
+
+.c-tool__routine-move { display: flex; gap: var(--sp-2); flex: none; }
+
+.c-tool__iconbtn {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  width: 2.5rem;
+  height: 2.5rem;
+  border: var(--rule);
+  border-radius: var(--r-sm);
+  background: var(--c-surface);
+  color: var(--c-ink-soft);
+}
+
+.c-tool__iconbtn--up svg { transform: rotate(180deg); }
+.c-tool__iconbtn:disabled { opacity: 0.35; }
+.c-tool__iconbtn:focus-visible { outline: 2px solid var(--c-accent); outline-offset: 2px; }
+.c-tool__iconbtn:not(:disabled):hover { background: var(--c-bg-sunk); }
+
+.c-tool__routine-add {
+  display: flex;
+  gap: var(--sp-3);
+  align-items: center;
+}
+
+.c-tool__routine-add input { flex: 1; }
+
+/* Kartenvorschau auf der Seite. Für den Druck baut tools.js zusätzlich
+   #ew-print-routine auf – eine eigene, sonst unsichtbare Druckfläche
+   außerhalb des Artikels (siehe print.css), damit "Drucken" wirklich nur
+   eine Seite mit den Karten ausgibt statt langer Leerseiten. */
+.c-routine-cards-preview { margin-top: var(--sp-5); }
+#ew-print-routine { display: none; }
+.c-routine-print__title { font-size: var(--fs-md); margin-bottom: var(--sp-4); }
+
+.c-routine-cards {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(6.5rem, 1fr));
+  gap: var(--sp-3);
+}
+
+.c-routine-card {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  gap: var(--sp-2);
+  padding: var(--sp-4) var(--sp-3);
+  border: var(--rule-strong);
+  border-radius: var(--r-md);
+  background: var(--c-surface);
+  text-align: center;
+  min-height: 6.5rem;
+}
+
+.c-routine-card__num {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  width: 2.25rem;
+  height: 2.25rem;
+  border-radius: 50%;
+  background: var(--c-accent-faint);
+  color: var(--c-accent);
+  font-weight: var(--fw-semi);
+  font-size: var(--fs-md);
+}
+
+.c-routine-card__text { font-size: var(--fs-sm); font-weight: var(--fw-medium); }

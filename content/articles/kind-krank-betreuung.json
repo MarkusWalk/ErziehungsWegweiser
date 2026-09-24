@@ -52,6 +52,12 @@
           "sources": [0]
         },
         {
+          "type": "tool",
+          "preset": "kinderkrankentage",
+          "title": "Euer Anspruch 2026 und die schon genutzten Tage",
+          "caption": "Bundesgesundheitsministerium (BMG) zu § 45 SGB V, Regelung für 2026 (siehe Grafik oben). Keine Rechtsberatung – im Einzelfall zählt die Auskunft der Krankenkasse."
+        },
+        {
           "type": "p",
           "text": "Damit die Kasse zahlt, müssen mehrere Dinge zusammenkommen: Das Kind ist gesetzlich versichert und noch keine zwölf Jahre alt, du bist selbst gesetzlich versichert mit Anspruch auf Krankengeld, eine Ärztin bescheinigt, dass Beaufsichtigung, Betreuung oder Pflege nötig ist – und es lebt keine andere Person im Haushalt, die das übernehmen könnte. Bei Kindern mit Behinderung, die auf Hilfe angewiesen sind, entfällt die Altersgrenze."
         },

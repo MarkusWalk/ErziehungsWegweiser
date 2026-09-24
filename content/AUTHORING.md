@@ -140,7 +140,30 @@ Tabelle der zugrunde liegenden Regel da; mit JavaScript wird daraus ein Eingabef
 `u-termine` (U1–U9 und J1 ab Geburtsdatum), `schlafbedarf` (Schlafbedarf nach Alter),
 `korrigiertes-alter` (für Frühgeborene), `mutterschutz` (Mutterschutz- und
 Elternzeit-Fristen ab Entbindungstermin), `schwangerschaftswoche` (aktuelle SSW ab
-Entbindungstermin), `beikost-fenster` (Beikost-Startfenster ab Geburtsdatum).
+Entbindungstermin), `beikost-fenster` (Beikost-Startfenster ab Geburtsdatum),
+`wehen-timer` (Wehen stoppen, Dauer/Abstand protokollieren, Warnsignal bei „5-1-1“),
+`protokoll` (Stillen/Flasche/Windel/Schlaf für den Tag festhalten, Export als Text),
+`zahnputz-timer` (2-Minuten-Timer in vier Quadranten), `atemuebung` (geführte
+Atemübung mit Kreis-Animation). Diese vier speichern Einträge in `localStorage`
+(Gerät der Nutzerin) – dafür trägt ihr Preset ein eigenes `privacy`-Feld in
+`build/tools-data.mjs`, das den Standardsatz „nichts wird gesendet oder gespeichert“
+im Renderer ersetzt. `meilensteine` (Grenzsteine nach Alter und Bereich ab
+Geburtsdatum, mit Korrektur für Frühgeborene) und `fieber-check` (Ampel-Einschätzung
+bei Fieber nach Warnzeichen und Alter/Temperatur, ohne Medikamentendosierung) sind
+sicherheitsrelevant: Regeln nur nach den in `build/tools-data.mjs` dokumentierten
+Primärquellen ändern, niemals aus dem Bauch heraus.
+
+Weitere Presets: `wachfenster` (Wachfenster, Schläfchen- und Bettzeit-Schätzung nach
+Alter und Aufwachzeit – ausdrücklich Orientierungswerte aus der Beratungspraxis, keine
+Studienbasis), `mental-load` (rund 20 wiederkehrende Familienaufgaben, je einzeln
+Person A/B/beide zugeordnet, Ergebnis als Split-Balken „Planen & Denken" vs.
+„Erledigen"; speichert die Zuordnung nur auf Wunsch in `localStorage`, eigenes
+`privacy`-Feld), `taschengeld` (Richtwert nach Alter, wöchentlich unter zehn Jahren,
+monatlich ab zehn), `kinderkrankentage` (Anspruch nach Kinderzahl und
+Alleinerziehend-Status, plus Tage-Tracker in `localStorage`, keine Rechtsberatung),
+`routinekarten` (Morgen- oder Abendschritte auswählen, per Auf/Ab-Buttons sortieren,
+eigene Schritte ergänzen, als große nummerierte Karten anzeigen und drucken – die
+Druckansicht blendet über `html.print-routine` in `print.css` den Rest der Seite aus).
 
 ```jsonc
 {"type":"tool","preset":"u-termine","title":"…","caption":"…"}
