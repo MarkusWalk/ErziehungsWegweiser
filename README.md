@@ -25,7 +25,6 @@ build/
   blocks.mjs           Rendert Inhaltsblöcke, erzeugt SVG-Diagramme
   layout.mjs           Seitengerüst, Navigation, Overlays
   inline.mjs           Minimale Inline-Auszeichnung
-  publish.sh           docs/ nach gh-pages veröffentlichen
 
 site/assets/           CSS, JavaScript, Bilder – wird unverändert übernommen
   css/tokens.css       ← einziger Ort für Farben, Typografie, Abstände
@@ -65,18 +64,9 @@ damit `docs/` aktuell ist.
 
 Die Seite läuft über **GitHub Pages** unter
 [markuswalk.github.io/ErziehungsWegweiser](https://markuswalk.github.io/ErziehungsWegweiser/).
-Ausgeliefert wird der Branch `gh-pages`; er enthält den Inhalt von `docs/` in
-seiner Wurzel.
-
-Neu veröffentlichen, nachdem Änderungen auf `main` committet sind:
-
-```bash
-sh build/publish.sh
-```
-
-Das Skript baut neu, bricht ab, falls `docs/` nicht committet ist, und schiebt
-`docs/` per `git subtree push` nach `gh-pages`. Pages-Einstellung (einmalig):
-*Settings → Pages → Deploy from a branch → `gh-pages` → `/ (root)`*.
+Ausgeliefert wird `docs/` auf `main`: Jeder Push auf `main` veröffentlicht neu,
+ein eigener Schritt ist nicht nötig. Pages-Einstellung (einmalig):
+*Settings → Pages → Deploy from a branch → `main` → `/docs`*.
 
 Einschränkung: GitHub Pages setzt keine eigenen Header — `docs/_headers` und
 `vercel.json` greifen dort nicht (siehe [Header](#header)).
