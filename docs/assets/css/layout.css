@@ -363,10 +363,11 @@
 .article__body > * + * { margin-top: var(--sp-5); }
 
 /* ---------- Inhaltsverzeichnis ---------- */
-.toc {
-  position: sticky;
-  top: 6rem;
-  font-size: var(--fs-sm);
+.toc { font-size: var(--fs-sm); }
+
+/* Mitlaufen nur in der Seitenspalte – einspaltig läge es über dem Text. */
+@media (min-width: 1060px) {
+  .toc { position: sticky; top: 6rem; }
 }
 
 .toc__title {
